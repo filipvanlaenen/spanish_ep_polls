@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Filip van Laenen</name>
+  </author>
+  <id>https://filipvanlaenen.github.io/spanish_ep_polls</id>
+  <title>All Registered Polls for the European Parliament</title>
+  <updated>2018-02-17T17:54:36.276553+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 19.7–24.2%, 11–13 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 18.1–22.4%, 10–12 seats</li><li>Unidos Podemos (GUE/NGL): 14.9–18.9%, 8–10 seats</li><li>Ciudadanos–Partido de la Ciudadanía (ALDE): 25.9–30.8%, 14–17 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-08-Metroscopia.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-08-Metroscopia.html"/>
+    <title>Opinion Poll by Metroscopia for El País, 5–8 February 2018</title>
+    <updated>2018-02-17T17:54:36.276553+01:00</updated>
+    <dc:date>2018-02-17T17:54:36.276553+01:00</dc:date>
+  </entry>
+  <dc:date>2018-02-17T17:54:36.276553+01:00</dc:date>
+</feed>
