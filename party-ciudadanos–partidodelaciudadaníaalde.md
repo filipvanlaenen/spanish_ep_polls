@@ -65,7 +65,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 10–16 | 10–16 | 10–17 | 9–17 |
+| N/A | [Poll Average](average.html) | 15 | 11–16 | 10–16 | 10–17 | 9–17 |
 | [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 15 | 15–16 | 14–17 | 14–17 | 14–17 |
 | [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 15 | 12–16 | 12–16 | 12–16 | 11–16 |
@@ -87,11 +87,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 1.1% | 100% |  |
-| 10 | 11% | 98.9% |  |
-| 11 | 16% | 88% |  |
-| 12 | 12% | 71% |  |
-| 13 | 0.7% | 60% |  |
+| 9 | 0.9% | 100% |  |
+| 10 | 8% | 99.1% |  |
+| 11 | 14% | 91% |  |
+| 12 | 17% | 77% |  |
+| 13 | 0.6% | 60% |  |
 | 14 | 4% | 59% |  |
 | 15 | 31% | 56% | Median |
 | 16 | 22% | 25% |  |
