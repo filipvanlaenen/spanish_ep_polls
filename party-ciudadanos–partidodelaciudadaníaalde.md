@@ -69,7 +69,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 11–16 | 10–16 | 10–17 | 9–17 |
-| [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
+| [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 15 | 15–16 | 14–17 | 14–17 | 14–17 |
 | [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
@@ -94,10 +94,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0.5% | 100% |  |
 | 10 | 5% | 99.5% |  |
-| 11 | 10% | 95% |  |
-| 12 | 20% | 85% |  |
-| 13 | 5% | 65% |  |
-| 14 | 12% | 59% | Median |
+| 11 | 13% | 94% |  |
+| 12 | 16% | 81% |  |
+| 13 | 7% | 65% |  |
+| 14 | 11% | 58% | Median |
 | 15 | 23% | 47% |  |
 | 16 | 19% | 24% |  |
 | 17 | 5% | 5% |  |
