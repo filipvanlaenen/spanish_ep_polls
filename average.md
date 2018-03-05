@@ -304,7 +304,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 13 | 11–17 |11–17 | 11–17 | 10–18 |
 | <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 12 | 11–15 |10–16 | 10–16 | 10–16 |
 | <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 9 | 8–10 |8–10 | 7–10 | 7–11 |
-| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 14 | 11–16 |11–16 | 10–17 | 10–17 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 14 | 11–16 |11–17 | 10–17 | 10–17 |
 | <a href="#esquerra-republicana-de-catalunya-(greens/efa)">Esquerra Republicana de Catalunya (Greens/EFA)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#partit-demòcrata-europeu-català-(alde)">Partit Demòcrata Europeu Català (ALDE)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco-(alde)">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
@@ -332,7 +332,7 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.7% | 100% |  |
+| 10 | 0.6% | 100% |  |
 | 11 | 10% | 99.3% |  |
 | 12 | 24% | 89% |  |
 | 13 | 19% | 65% | Median |
@@ -363,7 +363,7 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0% | 100% |  |
 | 9 | 0.3% | 100% |  |
 | 10 | 8% | 99.7% |  |
-| 11 | 28% | 92% |  |
+| 11 | 27% | 92% |  |
 | 12 | 23% | 64% | Median |
 | 13 | 13% | 41% |  |
 | 14 | 14% | 29% |  |
@@ -561,7 +561,7 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.7% | 100% |  |
+| 10 | 0.6% | 100% |  |
 | 11 | 10% | 99.3% |  |
 | 12 | 24% | 89% |  |
 | 13 | 19% | 65% | Median |
@@ -588,7 +588,7 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0% | 100% |  |
 | 9 | 0.3% | 100% |  |
 | 10 | 8% | 99.7% |  |
-| 11 | 28% | 92% |  |
+| 11 | 27% | 92% |  |
 | 12 | 23% | 64% | Median |
 | 13 | 13% | 41% |  |
 | 14 | 14% | 29% |  |
