@@ -70,14 +70,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–16 | 11–17 | 10–17 | 10–18 |
-| [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 12 | 11–13 | 11–14 | 11–14 | 11–15 |
-| [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
-| [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
-| [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
-| [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 15 | 15–16 | 14–17 | 14–17 | 14–17 |
-| [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
-| [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
+| N/A | [Poll Average](average.html) | 16 | 12–19 | 11–19 | 11–19 | 9–19 |
+| [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 13 | 11–13 | 11–13 | 11–13 | 11–14 |
+| [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
+| [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 13 | 13–14 | 12–15 | 12–16 | 12–16 |
+| [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12 | 11–12 | 9–12 | 9–12 | 9–12 |
+| [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
+| [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica | 19 | 18–19 | 17–19 | 15–19 | 14–20 |
+| [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 16 | 13–18 | 13–18 | 13–18 | 12–18 |
 
 ### Probability Mass Function
 
@@ -96,16 +96,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.2% | 100% |  |
-| 10 | 2% | 99.8% |  |
-| 11 | 13% | 97% |  |
-| 12 | 17% | 84% |  |
-| 13 | 10% | 67% |  |
-| 14 | 9% | 57% | Median |
-| 15 | 18% | 48% |  |
-| 16 | 21% | 30% |  |
-| 17 | 7% | 8% |  |
-| 18 | 1.3% | 1.3% |  |
-| 19 | 0% | 0% |  |
+| 9 | 0.7% | 100% |  |
+| 10 | 0% | 99.3% |  |
+| 11 | 7% | 99.2% |  |
+| 12 | 13% | 92% |  |
+| 13 | 21% | 80% |  |
+| 14 | 4% | 58% |  |
+| 15 | 2% | 55% |  |
+| 16 | 13% | 53% | Median |
+| 17 | 13% | 41% |  |
+| 18 | 16% | 27% |  |
+| 19 | 11% | 12% |  |
+| 20 | 0.4% | 0.4% |  |
+| 21 | 0% | 0% |  |
 
 
