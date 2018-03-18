@@ -10,10 +10,10 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Ciudadanos–Partido de la Ciudadanía (ALDE) | 0.0% | 29.6% | N/A |N/A |N/A |N/A |
-| Partido Socialista Obrero Español (S&D) | 0.0% | 21.0% | N/A |N/A |N/A |N/A |
-| Partido Popular (EPP) | 0.0% | 20.0% | N/A |N/A |N/A |N/A |
-| Unidos Podemos (GUE/NGL) | 0.0% | 17.3% | N/A |N/A |N/A |N/A |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) | 0.0% | 29.6% | 27.8–31.4% |27.3–31.9% |26.9–32.4% |26.1–33.2% |
+| Partido Socialista Obrero Español (S&D) | 0.0% | 21.0% | 19.5–22.7% |19.0–23.1% |18.7–23.5% |18.0–24.4% |
+| Partido Popular (EPP) | 0.0% | 20.0% | 18.5–21.6% |18.1–22.1% |17.7–22.5% |17.0–23.3% |
+| Unidos Podemos (GUE/NGL) | 0.0% | 17.3% | 15.9–18.8% |15.5–19.3% |15.1–19.7% |14.5–20.4% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -25,15 +25,169 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
-| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 18 | 17–18 |17–18 |16–19 |16–19 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 12 | 12–13 |12–13 |12–13 |12–14 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 12 | 11–13 |10–13 |10–13 |10–14 |
+| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 10 | 9–11 |9–11 |9–11 |9–12 |
+
+### Ciudadanos–Partido de la Ciudadanía (ALDE)
+
+*For a full overview of the results for this party, see the [Ciudadanos–Partido de la Ciudadanía (ALDE)](party-ciudadanos–partidodelaciudadaníaalde.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-03-07-SimpleLógica-seats-pmf-ciudadanos–partidodelaciudadaníaalde.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 4% | 100% |  |
+| 17 | 36% | 96% |  |
+| 18 | 57% | 60% | Median |
+| 19 | 4% | 4% |  |
+| 20 | 0% | 0% |  |
+
+### Partido Socialista Obrero Español (S&D)
+
+*For a full overview of the results for this party, see the [Partido Socialista Obrero Español (S&D)](party-partidosocialistaobreroespañolsd.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-03-07-SimpleLógica-seats-pmf-partidosocialistaobreroespañolsd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0.5% | 100% |  |
+| 12 | 59% | 99.5% | Median |
+| 13 | 40% | 41% |  |
+| 14 | 0.9% | 0.9% |  |
+| 15 | 0% | 0% |  |
+
+### Partido Popular (EPP)
+
+*For a full overview of the results for this party, see the [Partido Popular (EPP)](party-partidopopularepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-03-07-SimpleLógica-seats-pmf-partidopopularepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 8% | 100% |  |
+| 11 | 10% | 92% |  |
+| 12 | 61% | 82% | Median |
+| 13 | 20% | 21% |  |
+| 14 | 1.0% | 1.1% |  |
+| 15 | 0.1% | 0.1% |  |
+| 16 | 0% | 0% |  |
+
+### Unidos Podemos (GUE/NGL)
+
+*For a full overview of the results for this party, see the [Unidos Podemos (GUE/NGL)](party-unidospodemosguengl.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-03-07-SimpleLógica-seats-pmf-unidospodemosguengl.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0.4% | 100% |  |
+| 9 | 26% | 99.6% |  |
+| 10 | 51% | 73% | Median |
+| 11 | 21% | 22% |  |
+| 12 | 1.1% | 1.2% |  |
+| 13 | 0% | 0% |  |
 
 
 ## Coalitions
 
 ![Graph with coalitions seats not yet produced](2018-03-07-SimpleLógica-coalitions-seats.png "Coalitions Seats")
+
+### Confidence Intervals
+
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Partido Socialista Obrero Español (S&D) | 0 | 12 | 0% | 12–13 | 12–13 | 12–13 | 12–14 |
+| Partido Popular (EPP) | 0 | 12 | 0% | 11–13 | 10–13 | 10–13 | 10–14 |
+
+### Partido Socialista Obrero Español (S&D)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0.5% | 100% |  |
+| 12 | 59% | 99.5% | Median |
+| 13 | 40% | 41% |  |
+| 14 | 0.9% | 0.9% |  |
+| 15 | 0% | 0% |  |
+
+### Partido Popular (EPP)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 8% | 100% |  |
+| 11 | 10% | 92% |  |
+| 12 | 61% | 82% | Median |
+| 13 | 20% | 21% |  |
+| 14 | 1.0% | 1.1% |  |
+| 15 | 0.1% | 0.1% |  |
+| 16 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -47,6 +201,6 @@
 ### Calculations
 
 + **Sample size:** 1076
-+ **Simulations done:** 0
-+ **Error estimate:** 100.00%
++ **Simulations done:** 1,024
++ **Error estimate:** 0.85%
 

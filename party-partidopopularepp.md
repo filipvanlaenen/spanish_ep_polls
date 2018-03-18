@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.2% | 21.1–28.3% | 20.5–29.1% | 20.0–29.8% | 19.2–30.9% |
+| N/A | [Poll Average](average.html) | 23.4% | 20.0–27.9% | 19.4–28.7% | 18.8–29.4% | 17.9–30.6% |
 | [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 23.8% | 22.1–25.6% | 21.7–26.1% | 21.3–26.6% | 20.5–27.4% |
-| [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 20.0% | N/A | N/A | N/A | N/A |
-| [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 26.6% | N/A | N/A | N/A | N/A |
-| [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 21.5% | N/A | N/A | N/A | N/A |
+| [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 20.0% | 18.5–21.6% | 18.1–22.1% | 17.7–22.5% | 17.0–23.3% |
+| [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 26.6% | 25.0–28.4% | 24.5–28.9% | 24.1–29.3% | 23.3–30.2% |
+| [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 21.5% | 20.0–23.1% | 19.6–23.6% | 19.3–24.0% | 18.6–24.8% |
 | [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 27.9% | 26.1–29.8% | 25.6–30.3% | 25.2–30.8% | 24.4–31.7% |
 | [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 21.4% | 20.0–22.9% | 19.6–23.3% | 19.3–23.6% | 18.7–24.3% |
 | [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 24.5% | 22.8–26.3% | 22.3–26.8% | 21.9–27.3% | 21.1–28.2% |
@@ -46,22 +46,22 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.1% | 100% |  |
-| 18.5–19.5% | 0.9% | 99.9% |  |
-| 19.5–20.5% | 4% | 99.0% |  |
-| 20.5–21.5% | 10% | 95% |  |
-| 21.5–22.5% | 12% | 85% |  |
-| 22.5–23.5% | 13% | 73% |  |
-| 23.5–24.5% | 15% | 60% | Median |
-| 24.5–25.5% | 12% | 45% |  |
-| 25.5–26.5% | 9% | 32% |  |
-| 26.5–27.5% | 8% | 23% |  |
-| 27.5–28.5% | 7% | 16% |  |
-| 28.5–29.5% | 5% | 8% |  |
-| 29.5–30.5% | 2% | 3% |  |
-| 30.5–31.5% | 0.7% | 0.9% |  |
-| 31.5–32.5% | 0.1% | 0.2% |  |
+| 16.5–17.5% | 0.2% | 100% |  |
+| 17.5–18.5% | 1.4% | 99.7% |  |
+| 18.5–19.5% | 5% | 98% |  |
+| 19.5–20.5% | 9% | 94% |  |
+| 20.5–21.5% | 13% | 85% |  |
+| 21.5–22.5% | 12% | 72% |  |
+| 22.5–23.5% | 10% | 59% | Median |
+| 23.5–24.5% | 10% | 49% |  |
+| 24.5–25.5% | 9% | 39% |  |
+| 25.5–26.5% | 9% | 30% |  |
+| 26.5–27.5% | 8% | 21% |  |
+| 27.5–28.5% | 7% | 13% |  |
+| 28.5–29.5% | 4% | 6% |  |
+| 29.5–30.5% | 2% | 2% |  |
+| 30.5–31.5% | 0.4% | 0.5% |  |
+| 31.5–32.5% | 0.1% | 0.1% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
 
@@ -73,11 +73,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 13–19 | 13–19 | 12–19 | 12–19 |
+| N/A | [Poll Average](average.html) | 13 | 12–18 | 12–19 | 11–19 | 10–19 |
 | [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 13 | 13 | 13 | 13–14 | 13–18 |
-| [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
-| [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
+| [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
+| [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–17 | 16–17 | 16–17 | 16–17 |
+| [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 13 | 11–15 | 11–15 | 11–15 | 11–15 |
 | [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 19 | 17–19 | 17–19 | 17–19 | 16–19 |
 | [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 13 | 13–15 | 13–16 | 13–17 | 12–17 |
@@ -104,16 +104,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0.2% | 100% |  |
-| 12 | 4% | 99.8% |  |
-| 13 | 52% | 96% | Median |
-| 14 | 15% | 44% |  |
-| 15 | 2% | 29% |  |
-| 16 | 1.2% | 27% |  |
-| 17 | 5% | 26% |  |
-| 18 | 5% | 21% |  |
-| 19 | 16% | 16% |  |
+| 10 | 1.1% | 100% |  |
+| 11 | 4% | 98.9% |  |
+| 12 | 14% | 95% |  |
+| 13 | 35% | 81% | Median |
+| 14 | 13% | 46% |  |
+| 15 | 4% | 33% |  |
+| 16 | 2% | 30% |  |
+| 17 | 16% | 28% |  |
+| 18 | 3% | 12% |  |
+| 19 | 9% | 9% |  |
 | 20 | 0% | 0% |  |
 
 
