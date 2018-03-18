@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 17 Mar 2018 20:15:50 +0100</pubDate>
+    <pubDate>Sat, 17 Mar 2018 20:44:18 +0100</pubDate>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 26 February–2 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-02-NCReport.html</link>
@@ -70,14 +70,34 @@
       <dc:date>2018-03-17T17:18:09.012125+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Metroscopia for El País, 5–8 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-08-Metroscopia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 12–14 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 11–13 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9–11 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 15–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-08-Metroscopia-seats.png"
+        length="129002"
+        type="image/png"/>
+      <pubDate>Sat, 17 Mar 2018 20:44:18 +0100</pubDate>
+      <dc:date>2018-03-17T20:44:18.838569+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metroscopia for El País, 5–8 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-08-Metroscopia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-08-Metroscopia-coalitions-seats.png"
+        length="116037"
+        type="image/png"/>
+      <pubDate>Sat, 17 Mar 2018 20:44:18 +0100</pubDate>
+      <dc:date>2018-03-17T20:44:18.838569+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Metroscopia for El País, 5–8 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-08-Metroscopia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 19.7–24.2%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 18.1–22.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 14.9–18.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 25.9–30.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-08-Metroscopia.png"
         length="159155"
         type="image/png"/>
-      <pubDate>Sat, 17 Mar 2018 20:15:50 +0100</pubDate>
-      <dc:date>2018-03-17T20:15:50.783941+01:00</dc:date>
+      <pubDate>Sat, 17 Mar 2018 20:44:18 +0100</pubDate>
+      <dc:date>2018-03-17T20:44:18.838569+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Simple Lógica, 1–7 February 2018 – Voting Intentions</title>
@@ -99,6 +119,6 @@
       <pubDate>Sat, 17 Mar 2018 17:57:48 +0100</pubDate>
       <dc:date>2018-03-17T17:57:48.804014+01:00</dc:date>
     </item>
-    <dc:date>2018-03-17T20:15:50.783941+01:00</dc:date>
+    <dc:date>2018-03-17T20:44:18.838569+01:00</dc:date>
   </channel>
 </rss>
