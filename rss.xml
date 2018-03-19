@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 18 Mar 2018 20:04:12 +0100</pubDate>
+    <pubDate>Mon, 19 Mar 2018 19:41:26 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by GAD3 for La Vanguardia, 12–14 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-14-GAD3.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 13–17 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 12–15 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 8–12 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 15–19 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-14-GAD3-seats.png"
+        length="212087"
+        type="image/png"/>
+      <pubDate>Mon, 19 Mar 2018 18:48:46 +0100</pubDate>
+      <dc:date>2018-03-19T18:48:46.49287+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GAD3 for La Vanguardia, 12–14 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-14-GAD3.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-14-GAD3-coalitions-seats.png"
+        length="142639"
+        type="image/png"/>
+      <pubDate>Mon, 19 Mar 2018 18:48:46 +0100</pubDate>
+      <dc:date>2018-03-19T18:48:46.49287+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by GAD3 for La Vanguardia, 12–14 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-14-GAD3.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-14-GAD3.png"
         length="276651"
         type="image/png"/>
-      <pubDate>Sun, 18 Mar 2018 18:56:57 +0100</pubDate>
-      <dc:date>2018-03-18T18:56:57.50037+01:00</dc:date>
+      <pubDate>Mon, 19 Mar 2018 18:48:46 +0100</pubDate>
+      <dc:date>2018-03-19T18:48:46.49287+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Simple Lógica, 1–7 March 2018 – Voting Intentions</title>
@@ -40,14 +60,34 @@
       <dc:date>2018-03-18T19:57:46.145743+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Metroscopia for El País, 2–5 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-05-Metroscopia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 11–14 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 10–13 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9–11 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 16–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-05-Metroscopia-seats.png"
+        length="128221"
+        type="image/png"/>
+      <pubDate>Mon, 19 Mar 2018 14:46:16 +0100</pubDate>
+      <dc:date>2018-03-19T14:46:16.046076+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metroscopia for El País, 2–5 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-05-Metroscopia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-05-Metroscopia-coalitions-seats.png"
+        length="116252"
+        type="image/png"/>
+      <pubDate>Mon, 19 Mar 2018 14:46:16 +0100</pubDate>
+      <dc:date>2018-03-19T14:46:16.046076+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Metroscopia for El País, 2–5 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-05-Metroscopia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 19.3–24.0%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17.2–21.8%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 15.0–19.3%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 26.4–31.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-05-Metroscopia.png"
         length="158748"
         type="image/png"/>
-      <pubDate>Sun, 18 Mar 2018 20:04:12 +0100</pubDate>
-      <dc:date>2018-03-18T20:04:12.757548+01:00</dc:date>
+      <pubDate>Mon, 19 Mar 2018 14:46:16 +0100</pubDate>
+      <dc:date>2018-03-19T14:46:16.046076+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 26 February–2 March 2018 – Voting Intentions</title>
@@ -100,14 +140,34 @@
       <dc:date>2018-03-17T16:44:09.833308+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 5–9 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-09-Celeste-Tel.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 16–20 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 14–18 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 10–14 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (—): 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-09-Celeste-Tel-seats.png"
+        length="227694"
+        type="image/png"/>
+      <pubDate>Mon, 19 Mar 2018 19:41:26 +0100</pubDate>
+      <dc:date>2018-03-19T19:41:26.291357+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 5–9 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-09-Celeste-Tel.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-09-Celeste-Tel-coalitions-seats.png"
+        length="134356"
+        type="image/png"/>
+      <pubDate>Mon, 19 Mar 2018 19:41:26 +0100</pubDate>
+      <dc:date>2018-03-19T19:41:26.291357+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 5–9 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-09-Celeste-Tel.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 26.3–31.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 23.0–28.2%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 14.5–18.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 17.0–21.7%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 1.9–3.9%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.8–2.1%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (—): 0.7–2.0%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego (Greens/EFA): 0.0–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-09-Celeste-Tel.png"
         length="305602"
         type="image/png"/>
-      <pubDate>Sat, 17 Mar 2018 17:18:09 +0100</pubDate>
-      <dc:date>2018-03-17T17:18:09.012125+01:00</dc:date>
+      <pubDate>Mon, 19 Mar 2018 19:41:26 +0100</pubDate>
+      <dc:date>2018-03-19T19:41:26.291357+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metroscopia for El País, 5–8 February 2018 – Seat Projections</title>
@@ -159,6 +219,6 @@
       <pubDate>Sat, 17 Mar 2018 17:57:48 +0100</pubDate>
       <dc:date>2018-03-17T17:57:48.804014+01:00</dc:date>
     </item>
-    <dc:date>2018-03-18T20:04:12.757548+01:00</dc:date>
+    <dc:date>2018-03-19T19:41:26.291357+01:00</dc:date>
   </channel>
 </rss>
