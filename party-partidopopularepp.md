@@ -73,12 +73,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–18 | 12–19 | 11–19 | 10–19 |
+| N/A | [Poll Average](average.html) | 14 | 12–17 | 12–18 | 11–18 | 10–19 |
 | [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 15 | 14–16 | 13–16 | 13–17 | 12–17 |
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–17 | 16–17 | 16–17 | 16–17 |
 | [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
-| [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 19 | 17–19 | 17–19 | 17–19 | 16–19 |
+| [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 13 | 13–15 | 13–16 | 13–17 | 12–17 |
 | [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 17–19 | 16–19 | 16–20 | 16–20 |
@@ -110,10 +110,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 26% | 81% |  |
 | 14 | 15% | 54% | Median |
 | 15 | 7% | 39% |  |
-| 16 | 4% | 32% |  |
-| 17 | 16% | 28% |  |
-| 18 | 3% | 12% |  |
-| 19 | 9% | 9% |  |
-| 20 | 0% | 0% |  |
+| 16 | 7% | 32% |  |
+| 17 | 20% | 25% |  |
+| 18 | 4% | 5% |  |
+| 19 | 2% | 2% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 
