@@ -79,7 +79,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 13 | 12–14 | 11–15 | 11–15 | 11–15 |
 | [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
-| [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica | 12 | 11–12 | 11–14 | 11–14 | 10–15 |
+| [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 13 | 13–14 | 13–14 | 13–14 | 13–15 |
 
 ### Probability Mass Function
