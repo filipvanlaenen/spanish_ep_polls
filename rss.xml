@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 19 Mar 2018 22:06:16 +0100</pubDate>
+    <pubDate>Wed, 21 Mar 2018 17:55:23 +0100</pubDate>
     <item>
       <title>Opinion Poll by GAD3 for La Vanguardia, 12–14 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-14-GAD3.html#seats</link>
@@ -220,14 +220,34 @@
       <dc:date>2018-03-17T20:44:18.838569+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Simple Lógica, 1–7 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-SimpleLógica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 12–15 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 11–14 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9–11 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 15–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-SimpleLógica-seats.png"
+        length="135199"
+        type="image/png"/>
+      <pubDate>Wed, 21 Mar 2018 17:55:23 +0100</pubDate>
+      <dc:date>2018-03-21T17:55:23.546027+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 1–7 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-SimpleLógica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-SimpleLógica-coalitions-seats.png"
+        length="123301"
+        type="image/png"/>
+      <pubDate>Wed, 21 Mar 2018 17:55:23 +0100</pubDate>
+      <dc:date>2018-03-21T17:55:23.546027+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Simple Lógica, 1–7 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-SimpleLógica.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 19.8–24.8%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 19.0–24.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 14.9–19.4%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 26.1–31.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-SimpleLógica.png"
         length="163500"
         type="image/png"/>
-      <pubDate>Sat, 17 Mar 2018 17:50:24 +0100</pubDate>
-      <dc:date>2018-03-17T17:50:24.571232+01:00</dc:date>
+      <pubDate>Wed, 21 Mar 2018 17:55:23 +0100</pubDate>
+      <dc:date>2018-03-21T17:55:23.546027+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 31 January–7 February 2018 – Voting Intentions</title>
@@ -239,6 +259,6 @@
       <pubDate>Sat, 17 Mar 2018 17:57:48 +0100</pubDate>
       <dc:date>2018-03-17T17:57:48.804014+01:00</dc:date>
     </item>
-    <dc:date>2018-03-19T22:06:16.62034+01:00</dc:date>
+    <dc:date>2018-03-21T17:55:23.546027+01:00</dc:date>
   </channel>
 </rss>
