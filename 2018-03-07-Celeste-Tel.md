@@ -32,15 +32,15 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 17 | 16–17 |16–17 |16–17 |16–17 |
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 14 | 14–17 |14–18 |13–18 |13–18 |
-| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 16 | 13–16 |12–16 |12–16 |12–16 |
-| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 9 | 9–10 |9–10 |9–10 |9–10 |
-| <a href="#esquerra-republicana-de-catalunya-(greens/efa)">Esquerra Republicana de Catalunya (Greens/EFA)</a> | 0 | 0 | 0–1 |0–2 |0–2 |0–2 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 17 | 15–18 |15–18 |15–19 |14–19 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 15 | 14–17 |14–17 |13–17 |13–17 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 15 | 14–16 |13–16 |13–16 |13–17 |
+| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 10 | 9–11 |9–11 |8–11 |8–12 |
+| <a href="#esquerra-republicana-de-catalunya-(greens/efa)">Esquerra Republicana de Catalunya (Greens/EFA)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#partit-demòcrata-europeu-català-(alde)">Partit Demòcrata Europeu Català (ALDE)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco-(alde)">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#partido-animalista-contra-el-maltrato-animal-(—)">Partido Animalista Contra el Maltrato Animal (—)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#partido-animalista-contra-el-maltrato-animal-(—)">Partido Animalista Contra el Maltrato Animal (—)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
 | <a href="#coalición-canaria-(alde)">Coalición Canaria (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#bloque-nacionalista-galego-(greens/efa)">Bloque Nacionalista Galego (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -65,12 +65,15 @@
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0.3% | 100% |  |
-| 15 | 0.1% | 99.7% |  |
-| 16 | 10% | 99.6% |  |
-| 17 | 89% | 89% | Median |
-| 18 | 0% | 0% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 1.0% | 99.8% |  |
+| 15 | 16% | 98.8% |  |
+| 16 | 26% | 83% |  |
+| 17 | 40% | 57% | Median |
+| 18 | 12% | 17% |  |
+| 19 | 4% | 4% |  |
+| 20 | 0.4% | 0.4% |  |
+| 21 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -94,11 +97,11 @@
 | 11 | 0% | 100% |  |
 | 12 | 0.1% | 100% |  |
 | 13 | 4% | 99.9% |  |
-| 14 | 85% | 96% | Median |
-| 15 | 0% | 10% |  |
-| 16 | 0.3% | 10% |  |
-| 17 | 0.1% | 10% |  |
-| 18 | 10% | 10% |  |
+| 14 | 12% | 96% |  |
+| 15 | 40% | 83% | Median |
+| 16 | 26% | 43% |  |
+| 17 | 17% | 17% |  |
+| 18 | 0.3% | 0.3% |  |
 | 19 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (ALDE)
@@ -121,13 +124,14 @@
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 10% | 100% |  |
-| 13 | 0.1% | 90% |  |
-| 14 | 0.8% | 90% |  |
-| 15 | 5% | 89% |  |
-| 16 | 84% | 85% | Median |
-| 17 | 0.1% | 0.1% |  |
-| 18 | 0% | 0% |  |
+| 12 | 0.3% | 100% |  |
+| 13 | 8% | 99.7% |  |
+| 14 | 38% | 92% |  |
+| 15 | 32% | 54% | Median |
+| 16 | 21% | 22% |  |
+| 17 | 0.9% | 1.0% |  |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 ### Unidos Podemos (GUE/NGL)
 
@@ -145,11 +149,12 @@
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 84% | 100% | Median |
-| 10 | 15% | 16% |  |
-| 11 | 0.2% | 0.2% |  |
-| 12 | 0% | 0% |  |
+| 8 | 3% | 100% |  |
+| 9 | 28% | 97% |  |
+| 10 | 50% | 69% | Median |
+| 11 | 18% | 19% |  |
+| 12 | 0.7% | 0.7% |  |
+| 13 | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya (Greens/EFA)
 
@@ -159,9 +164,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Last Result, Median |
-| 1 | 10% | 16% |  |
-| 2 | 5% | 5% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 80% | 99.8% | Median |
+| 2 | 19% | 19% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -173,9 +178,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% | Last Result |
-| 1 | 89% | 89% | Median |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 41% | 100% | Last Result |
+| 1 | 59% | 59% | Median |
+| 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
 ### Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE)
@@ -186,8 +191,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 90% | 100% | Last Result, Median |
-| 1 | 10% | 10% |  |
+| 0 | 76% | 100% | Last Result, Median |
+| 1 | 24% | 24% |  |
 | 2 | 0% | 0% |  |
 
 ### Partido Animalista Contra el Maltrato Animal (—)
@@ -198,8 +203,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% | Last Result |
-| 1 | 90% | 90% | Median |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 15% | 15% |  |
 | 2 | 0% | 0% |  |
 
 ### Euskal Herria Bildu (GUE/NGL)
@@ -210,8 +215,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
+| 0 | 95% | 100% | Last Result, Median |
+| 1 | 5% | 5% |  |
 | 2 | 0% | 0% |  |
 
 ### Coalición Canaria (ALDE)
@@ -243,11 +248,64 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0 | 14 | 0% | 14–17 | 14–18 | 13–18 | 13–18 |
-| Partido Popular (EPP) | 0 | 17 | 0% | 16–17 | 16–17 | 16–17 | 16–17 |
-| Ciudadanos–Partido de la Ciudadanía (ALDE) – Partit Demòcrata Europeu Català (ALDE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE) – Coalición Canaria (ALDE) | 0 | 17 | 0% | 14–17 | 13–17 | 13–17 | 13–17 |
-| Unidos Podemos (GUE/NGL) – Euskal Herria Bildu (GUE/NGL) | 0 | 9 | 0% | 9–10 | 9–10 | 9–10 | 9–10 |
-| Esquerra Republicana de Catalunya (Greens/EFA) – Bloque Nacionalista Galego (Greens/EFA) | 0 | 0 | 0% | 0–1 | 0–2 | 0–2 | 0–2 |
+| Partido Popular (EPP) | 0 | 17 | 0% | 15–18 | 15–18 | 15–19 | 14–19 |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) – Partit Demòcrata Europeu Català (ALDE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE) – Coalición Canaria (ALDE) | 0 | 16 | 0% | 14–17 | 14–17 | 13–17 | 13–18 |
+| Partido Socialista Obrero Español (S&D) | 0 | 15 | 0% | 14–17 | 14–17 | 13–17 | 13–17 |
+| Unidos Podemos (GUE/NGL) – Euskal Herria Bildu (GUE/NGL) | 0 | 10 | 0% | 9–11 | 9–11 | 8–12 | 8–12 |
+| Esquerra Republicana de Catalunya (Greens/EFA) – Bloque Nacionalista Galego (Greens/EFA) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+
+### Partido Popular (EPP)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 1.0% | 99.8% |  |
+| 15 | 16% | 98.8% |  |
+| 16 | 26% | 83% |  |
+| 17 | 40% | 57% | Median |
+| 18 | 12% | 17% |  |
+| 19 | 4% | 4% |  |
+| 20 | 0.4% | 0.4% |  |
+| 21 | 0% | 0% |  |
+
+### Ciudadanos–Partido de la Ciudadanía (ALDE) – Partit Demòcrata Europeu Català (ALDE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE) – Coalición Canaria (ALDE)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 5% | 100% |  |
+| 14 | 13% | 95% |  |
+| 15 | 27% | 82% |  |
+| 16 | 37% | 55% | Median |
+| 17 | 17% | 18% |  |
+| 18 | 1.2% | 1.2% |  |
+| 19 | 0% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -267,60 +325,12 @@
 | 11 | 0% | 100% |  |
 | 12 | 0.1% | 100% |  |
 | 13 | 4% | 99.9% |  |
-| 14 | 85% | 96% | Median |
-| 15 | 0% | 10% |  |
-| 16 | 0.3% | 10% |  |
-| 17 | 0.1% | 10% |  |
-| 18 | 10% | 10% |  |
+| 14 | 12% | 96% |  |
+| 15 | 40% | 83% | Median |
+| 16 | 26% | 43% |  |
+| 17 | 17% | 17% |  |
+| 18 | 0.3% | 0.3% |  |
 | 19 | 0% | 0% |  |
-
-### Partido Popular (EPP)
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0.3% | 100% |  |
-| 15 | 0.1% | 99.7% |  |
-| 16 | 10% | 99.6% |  |
-| 17 | 89% | 89% | Median |
-| 18 | 0% | 0% |  |
-
-### Ciudadanos–Partido de la Ciudadanía (ALDE) – Partit Demòcrata Europeu Català (ALDE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE) – Coalición Canaria (ALDE)
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 10% | 100% |  |
-| 14 | 0.7% | 90% |  |
-| 15 | 0.2% | 89% |  |
-| 16 | 5% | 89% |  |
-| 17 | 85% | 85% | Median |
-| 18 | 0% | 0% |  |
 
 ### Unidos Podemos (GUE/NGL) – Euskal Herria Bildu (GUE/NGL)
 
@@ -334,20 +344,20 @@
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 84% | 100% | Median |
-| 10 | 15% | 16% |  |
-| 11 | 0% | 0.3% |  |
-| 12 | 0.2% | 0.2% |  |
+| 8 | 3% | 100% |  |
+| 9 | 27% | 97% |  |
+| 10 | 50% | 70% | Median |
+| 11 | 18% | 20% |  |
+| 12 | 3% | 3% |  |
 | 13 | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya (Greens/EFA) – Bloque Nacionalista Galego (Greens/EFA)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Last Result, Median |
-| 1 | 10% | 16% |  |
-| 2 | 5% | 5% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 80% | 99.8% | Median |
+| 2 | 19% | 19% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -363,6 +373,6 @@
 ### Calculations
 
 + **Sample size:** 1100
-+ **Simulations done:** 1,024
-+ **Error estimate:** 2.67%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 3.17%
 
