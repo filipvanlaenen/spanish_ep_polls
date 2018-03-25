@@ -16,7 +16,7 @@ The table below lists the polls on which the average is based. They are the most
 | [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 19–24% <br> 11–14 | 17–22% <br> 10–13 | 15–19% <br> 9–11 | 26–32% <br> 16–19 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 25–31% <br> 15–19 | 21–27% <br> 13–17 | 14–18% <br> 8–11 | 20–25% <br> 12–15 | 2–4% <br> 1–2 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | 0–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 19–24% <br> 12–15 | 19–24% <br> 12–15 | 15–19% <br> 9–12 | 26–31% <br> 16–19 | 2–4% <br> 1–2 | 1–3% <br> 0–1 | 1–2% <br> 0–1 | 1–3% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 22–27% <br> 13–17 | 19–24% <br> 11–15 | 14–19% <br> 8–11 | 20–25% <br> 12–16 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 22–27% <br> 13–16 | 19–24% <br> 11–14 | 14–19% <br> 8–11 | 20–25% <br> 12–15 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -334,11 +334,11 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 1.1% | 100% |  |
 | 11 | 2% | 98.9% |  |
 | 12 | 16% | 97% |  |
-| 13 | 27% | 81% |  |
-| 14 | 16% | 54% | Median |
-| 15 | 9% | 38% |  |
-| 16 | 9% | 29% |  |
-| 17 | 13% | 20% |  |
+| 13 | 19% | 81% |  |
+| 14 | 17% | 61% | Median |
+| 15 | 14% | 44% |  |
+| 16 | 10% | 30% |  |
+| 17 | 12% | 20% |  |
 | 18 | 5% | 8% |  |
 | 19 | 2% | 2% |  |
 | 20 | 0.2% | 0.2% |  |
@@ -364,10 +364,10 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 100% |  |
 | 10 | 1.4% | 100% |  |
 | 11 | 8% | 98.5% |  |
-| 12 | 19% | 91% |  |
-| 13 | 27% | 72% | Median |
-| 14 | 20% | 45% |  |
-| 15 | 15% | 24% |  |
+| 12 | 24% | 91% |  |
+| 13 | 25% | 67% | Median |
+| 14 | 18% | 41% |  |
+| 15 | 14% | 23% |  |
 | 16 | 6% | 9% |  |
 | 17 | 3% | 3% |  |
 | 18 | 0.1% | 0.1% |  |
@@ -389,10 +389,10 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 4% | 100% |  |
-| 9 | 27% | 96% |  |
-| 10 | 43% | 70% | Median |
-| 11 | 25% | 27% |  |
+| 8 | 3% | 100% |  |
+| 9 | 26% | 97% |  |
+| 10 | 48% | 71% | Median |
+| 11 | 21% | 23% |  |
 | 12 | 2% | 2% |  |
 | 13 | 0% | 0% |  |
 
@@ -415,12 +415,12 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.2% | 100% |  |
-| 12 | 2% | 99.8% |  |
-| 13 | 15% | 97% |  |
-| 14 | 14% | 82% |  |
+| 11 | 0.5% | 100% |  |
+| 12 | 4% | 99.5% |  |
+| 13 | 13% | 95% |  |
+| 14 | 15% | 82% |  |
 | 15 | 9% | 68% |  |
-| 16 | 11% | 60% | Median |
+| 16 | 11% | 59% | Median |
 | 17 | 23% | 48% |  |
 | 18 | 20% | 25% |  |
 | 19 | 4% | 4% |  |
@@ -520,7 +520,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición Canaria (ALDE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE) – Partit Demòcrata Europeu Català (ALDE) | 0 | 17 | 0% | 13–19 | 13–19 | 13–19 | 12–20 |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición Canaria (ALDE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE) – Partit Demòcrata Europeu Català (ALDE) | 0 | 17 | 0% | 13–19 | 13–19 | 12–19 | 12–20 |
 | Partido Popular (EPP) | 0 | 14 | 0% | 12–17 | 12–18 | 11–18 | 10–19 |
 | Partido Socialista Obrero Español (S&D) | 0 | 13 | 0% | 12–15 | 11–16 | 11–17 | 10–17 |
 | Euskal Herria Bildu (GUE/NGL) – Unidos Podemos (GUE/NGL) | 0 | 10 | 0% | 9–11 | 9–11 | 8–11 | 8–12 |
@@ -542,12 +542,12 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 2% | 99.9% |  |
-| 13 | 12% | 98% |  |
-| 14 | 11% | 86% |  |
-| 15 | 9% | 76% |  |
-| 16 | 12% | 67% |  |
+| 11 | 0.3% | 100% |  |
+| 12 | 4% | 99.7% |  |
+| 13 | 10% | 96% |  |
+| 14 | 11% | 87% |  |
+| 15 | 9% | 75% |  |
+| 16 | 11% | 67% |  |
 | 17 | 20% | 55% | Median |
 | 18 | 23% | 35% |  |
 | 19 | 10% | 12% |  |
@@ -572,11 +572,11 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 1.1% | 100% |  |
 | 11 | 2% | 98.9% |  |
 | 12 | 16% | 97% |  |
-| 13 | 27% | 81% |  |
-| 14 | 16% | 54% | Median |
-| 15 | 9% | 38% |  |
-| 16 | 9% | 29% |  |
-| 17 | 13% | 20% |  |
+| 13 | 19% | 81% |  |
+| 14 | 17% | 61% | Median |
+| 15 | 14% | 44% |  |
+| 16 | 10% | 30% |  |
+| 17 | 12% | 20% |  |
 | 18 | 5% | 8% |  |
 | 19 | 2% | 2% |  |
 | 20 | 0.2% | 0.2% |  |
@@ -598,10 +598,10 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 100% |  |
 | 10 | 1.4% | 100% |  |
 | 11 | 8% | 98.5% |  |
-| 12 | 19% | 91% |  |
-| 13 | 27% | 72% | Median |
-| 14 | 20% | 45% |  |
-| 15 | 15% | 24% |  |
+| 12 | 24% | 91% |  |
+| 13 | 25% | 67% | Median |
+| 14 | 18% | 41% |  |
+| 15 | 14% | 23% |  |
 | 16 | 6% | 9% |  |
 | 17 | 3% | 3% |  |
 | 18 | 0.1% | 0.1% |  |
@@ -619,10 +619,10 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 4% | 100% |  |
-| 9 | 26% | 96% |  |
-| 10 | 43% | 70% | Median |
-| 11 | 25% | 27% |  |
+| 8 | 3% | 100% |  |
+| 9 | 26% | 97% |  |
+| 10 | 48% | 71% | Median |
+| 11 | 21% | 23% |  |
 | 12 | 2% | 2% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
