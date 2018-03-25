@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 23 Mar 2018 15:32:51 +0100</pubDate>
+    <pubDate>Sat, 24 Mar 2018 21:27:03 +0100</pubDate>
     <item>
       <title>Opinion Poll by GAD3 for La Vanguardia, 12–14 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-14-GAD3.html#seats</link>
@@ -170,14 +170,34 @@
       <dc:date>2018-03-17T19:22:28.380047+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by MyWord for Cadena SER, 7–14 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-14-MyWord.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 13–16 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 11–14 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 12–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-14-MyWord-seats.png"
+        length="151202"
+        type="image/png"/>
+      <pubDate>Sat, 24 Mar 2018 21:27:03 +0100</pubDate>
+      <dc:date>2018-03-24T21:27:03.301123+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MyWord for Cadena SER, 7–14 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-14-MyWord.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-14-MyWord-coalitions-seats.png"
+        length="137653"
+        type="image/png"/>
+      <pubDate>Sat, 24 Mar 2018 21:27:03 +0100</pubDate>
+      <dc:date>2018-03-24T21:27:03.301123+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by MyWord for Cadena SER, 7–14 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-14-MyWord.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 21.9–27.3%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 18.9–24.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 14.4–19.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 19.6–24.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-14-MyWord.png"
         length="172868"
         type="image/png"/>
-      <pubDate>Sat, 17 Mar 2018 16:44:09 +0100</pubDate>
-      <dc:date>2018-03-17T16:44:09.833308+01:00</dc:date>
+      <pubDate>Sat, 24 Mar 2018 21:27:03 +0100</pubDate>
+      <dc:date>2018-03-24T21:27:03.301123+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 5–9 February 2018 – Seat Projections</title>
@@ -299,6 +319,6 @@
       <pubDate>Thu, 22 Mar 2018 14:27:59 +0100</pubDate>
       <dc:date>2018-03-22T14:27:59.638686+01:00</dc:date>
     </item>
-    <dc:date>2018-03-23T15:32:51.274033+01:00</dc:date>
+    <dc:date>2018-03-24T21:27:03.301123+01:00</dc:date>
   </channel>
 </rss>
