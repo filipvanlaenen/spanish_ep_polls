@@ -12,7 +12,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 19–24% <br> 11–14 | 17–22% <br> 10–13 | 15–19% <br> 9–11 | 26–32% <br> 16–19 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 25–31% <br> 15–19 | 21–27% <br> 13–17 | 14–18% <br> 8–11 | 20–25% <br> 12–15 | 2–4% <br> 1–2 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | 0–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 19–24% <br> 12–15 | 19–24% <br> 12–15 | 15–19% <br> 9–12 | 26–31% <br> 16–19 | 2–4% <br> 1–2 | 1–3% <br> 0–1 | 1–2% <br> 0–1 | 1–3% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 22–27% <br> 13–17 | 19–24% <br> 11–15 | 14–19% <br> 8–11 | 20–25% <br> 12–16 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 22–27% <br> 13–16 | 19–24% <br> 11–14 | 14–19% <br> 8–11 | 20–25% <br> 12–15 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
