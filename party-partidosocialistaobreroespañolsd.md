@@ -76,7 +76,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
 | [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
 | [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
-| [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 13 | 12–14 | 11–15 | 11–15 | 11–15 |
+| [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
@@ -102,10 +102,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 1.4% | 100% |  |
 | 11 | 8% | 98.5% |  |
-| 12 | 19% | 91% |  |
-| 13 | 27% | 72% | Median |
-| 14 | 20% | 45% |  |
-| 15 | 15% | 24% |  |
+| 12 | 24% | 91% |  |
+| 13 | 25% | 67% | Median |
+| 14 | 18% | 41% |  |
+| 15 | 14% | 23% |  |
 | 16 | 6% | 9% |  |
 | 17 | 3% | 3% |  |
 | 18 | 0.1% | 0.1% |  |
