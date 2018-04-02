@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 02 Apr 2018 14:23:18 +0200</pubDate>
+    <pubDate>Mon, 02 Apr 2018 14:53:35 +0200</pubDate>
     <item>
       <title>Opinion Poll by GAD3 for La Vanguardia, 12–14 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-14-GAD3.html</link>
@@ -60,14 +60,34 @@
       <dc:date>2018-04-02T10:51:36.004282+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 22–27 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-27-IMOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 12–15 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 12–15 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 16–19 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-27-IMOP-seats.png"
+        length="202844"
+        type="image/png"/>
+      <pubDate>Mon, 02 Apr 2018 14:53:35 +0200</pubDate>
+      <dc:date>2018-04-02T14:53:35.961971+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 22–27 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-27-IMOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-27-IMOP-coalitions-seats.png"
+        length="116376"
+        type="image/png"/>
+      <pubDate>Mon, 02 Apr 2018 14:53:35 +0200</pubDate>
+      <dc:date>2018-04-02T14:53:35.961971+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IMOP for El Confidencial, 22–27 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-27-IMOP.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 19.3–23.6%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 19.4–23.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 15.1–19.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 26.2–31.0%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 2.2–4.0%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 1.1–2.5%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.4–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-27-IMOP.png"
         length="267253"
         type="image/png"/>
-      <pubDate>Mon, 02 Apr 2018 14:23:18 +0200</pubDate>
-      <dc:date>2018-04-02T14:23:18.217221+02:00</dc:date>
+      <pubDate>Mon, 02 Apr 2018 14:53:35 +0200</pubDate>
+      <dc:date>2018-04-02T14:53:35.961971+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MyWord for Cadena SER, 7–14 February 2018 – Voting Intentions</title>
@@ -119,6 +139,6 @@
       <pubDate>Mon, 02 Apr 2018 11:32:58 +0200</pubDate>
       <dc:date>2018-04-02T11:32:58.63504+02:00</dc:date>
     </item>
-    <dc:date>2018-04-02T14:23:18.217221+02:00</dc:date>
+    <dc:date>2018-04-02T14:53:35.961971+02:00</dc:date>
   </channel>
 </rss>
