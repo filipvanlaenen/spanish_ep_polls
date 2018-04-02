@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.9% | 19.4–24.8% | 18.8–25.4% | 18.3–26.0% | 17.4–27.0% |
+| N/A | [Poll Average](average.html) | 21.9% | 19.4–24.7% | 18.8–25.4% | 18.3–26.0% | 17.4–27.0% |
 | [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 22.1% | 20.5–23.9% | 20.1–24.4% | 19.7–24.8% | 18.9–25.7% |
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 21.0% | 19.5–22.7% | 19.0–23.1% | 18.7–23.5% | 18.0–24.4% |
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 24.3% | 22.7–26.0% | 22.2–26.5% | 21.8–26.9% | 21.1–27.7% |
@@ -52,7 +52,7 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 14% | 89% |  |
 | 20.5–21.5% | 19% | 75% |  |
 | 21.5–22.5% | 19% | 56% | Median |
-| 22.5–23.5% | 15% | 38% |  |
+| 22.5–23.5% | 14% | 38% |  |
 | 23.5–24.5% | 11% | 23% |  |
 | 24.5–25.5% | 7% | 12% |  |
 | 25.5–26.5% | 3% | 4% |  |
@@ -69,18 +69,18 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–17 | 10–17 |
-| [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
+| N/A | [Poll Average](average.html) | 14 | 11–15 | 11–15 | 11–15 | 10–18 |
+| [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 15 | 15 | 13–15 | 13–16 | 13–16 |
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 12 | 12–13 | 12–13 | 12–13 | 12–14 |
-| [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–17 | 14–17 | 13–17 | 13–17 |
-| [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
-| [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
-| [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
-| [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 15–17 | 14–17 | 14–18 | 14–18 |
+| [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 14–17 | 14–18 | 13–18 | 13–18 |
+| [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 11 | 10–12 | 10–14 | 10–14 | 10–14 |
+| [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 14 | 12–15 | 12–15 | 12–16 | 12–16 |
+| [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 15 | 15 | 15 | 15 | 15 |
+| [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 13 | 12–14 | 11–15 | 11–15 | 11–15 |
+| [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 13–16 | 13–16 | 13–17 | 13–18 |
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
-| [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
+| [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica | 12 | 11–12 | 11–14 | 11–14 | 10–15 |
+| [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 13 | 13–14 | 13–14 | 13–14 | 13–15 |
 
 ### Probability Mass Function
 
@@ -100,15 +100,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 1.4% | 100% |  |
-| 11 | 8% | 98.5% |  |
-| 12 | 24% | 91% |  |
-| 13 | 25% | 67% | Median |
-| 14 | 18% | 41% |  |
-| 15 | 14% | 23% |  |
-| 16 | 6% | 9% |  |
-| 17 | 3% | 3% |  |
-| 18 | 0.1% | 0.1% |  |
+| 10 | 2% | 100% |  |
+| 11 | 11% | 98% |  |
+| 12 | 12% | 87% |  |
+| 13 | 19% | 75% |  |
+| 14 | 22% | 56% | Median |
+| 15 | 31% | 34% |  |
+| 16 | 1.0% | 2% |  |
+| 17 | 0% | 1.5% |  |
+| 18 | 1.4% | 1.4% |  |
 | 19 | 0% | 0% |  |
 
 
