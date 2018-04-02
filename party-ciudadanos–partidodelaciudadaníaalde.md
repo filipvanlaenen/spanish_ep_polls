@@ -74,13 +74,13 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 13–18 | 12–18 | 11–19 | 11–19 |
+| N/A | [Poll Average](average.html) | 16 | 13–18 | 12–19 | 11–19 | 11–19 |
 | [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 16 | 16 | 16–18 | 16–18 | 14–18 |
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 18 | 17–18 | 17–18 | 16–19 | 16–19 |
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 13–16 | 12–16 | 12–16 | 12–16 |
 | [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 17 | 16–19 | 16–19 | 16–19 | 16–19 |
 | [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 13 | 11–13 | 11–13 | 11–13 | 11–14 |
-| [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 18 | 18 | 18 | 18 | 18 |
+| [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 18 | 17–19 | 17–19 | 16–19 | 16–20 |
 | [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 13 | 13–14 | 12–15 | 12–16 | 12–16 |
 | [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12 | 11–12 | 9–12 | 9–12 | 9–12 |
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 18 | 17–19 | 17–19 | 15–19 | 15–19 |
@@ -112,9 +112,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 4% | 74% |  |
 | 15 | 1.2% | 71% |  |
 | 16 | 29% | 70% | Median |
-| 17 | 13% | 41% |  |
-| 18 | 24% | 28% |  |
-| 19 | 4% | 4% |  |
-| 20 | 0% | 0% |  |
+| 17 | 19% | 41% |  |
+| 18 | 16% | 22% |  |
+| 19 | 6% | 6% |  |
+| 20 | 0.2% | 0.2% |  |
+| 21 | 0% | 0% |  |
 
 
