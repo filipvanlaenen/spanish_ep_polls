@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.9% | 19.4–24.7% | 18.8–25.4% | 18.3–26.0% | 17.4–27.0% |
+| N/A | [Poll Average](average.html) | 21.9% | 19.4–24.8% | 18.8–25.4% | 18.3–26.0% | 17.4–27.0% |
 | [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 22.1% | 20.5–23.9% | 20.1–24.4% | 19.7–24.8% | 18.9–25.7% |
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 21.0% | 19.5–22.7% | 19.0–23.1% | 18.7–23.5% | 18.0–24.4% |
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 24.3% | 22.7–26.0% | 22.2–26.5% | 21.8–26.9% | 21.1–27.7% |
@@ -52,7 +52,7 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 14% | 89% |  |
 | 20.5–21.5% | 19% | 75% |  |
 | 21.5–22.5% | 19% | 56% | Median |
-| 22.5–23.5% | 14% | 38% |  |
+| 22.5–23.5% | 15% | 38% |  |
 | 23.5–24.5% | 11% | 23% |  |
 | 24.5–25.5% | 7% | 12% |  |
 | 25.5–26.5% | 3% | 4% |  |

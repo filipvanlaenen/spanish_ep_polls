@@ -202,6 +202,6 @@
 ### Calculations
 
 + **Sample size:** 1321
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.23%
++ **Simulations done:** 0
++ **Error estimate:** 100.00%
 
