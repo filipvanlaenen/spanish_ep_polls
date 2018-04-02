@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 02 Apr 2018 11:32:58 +0200</pubDate>
+    <pubDate>Mon, 02 Apr 2018 14:23:18 +0200</pubDate>
     <item>
       <title>Opinion Poll by GAD3 for La Vanguardia, 12–14 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-14-GAD3.html</link>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-27-IMOP.png"
         length="267253"
         type="image/png"/>
-      <pubDate>Mon, 02 Apr 2018 11:02:29 +0200</pubDate>
-      <dc:date>2018-04-02T11:02:29.478121+02:00</dc:date>
+      <pubDate>Mon, 02 Apr 2018 14:23:18 +0200</pubDate>
+      <dc:date>2018-04-02T14:23:18.217221+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MyWord for Cadena SER, 7–14 February 2018 – Voting Intentions</title>
@@ -119,6 +119,6 @@
       <pubDate>Mon, 02 Apr 2018 11:32:58 +0200</pubDate>
       <dc:date>2018-04-02T11:32:58.63504+02:00</dc:date>
     </item>
-    <dc:date>2018-04-02T11:32:58.63504+02:00</dc:date>
+    <dc:date>2018-04-02T14:23:18.217221+02:00</dc:date>
   </channel>
 </rss>
