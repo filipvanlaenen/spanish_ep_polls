@@ -15,7 +15,7 @@ The table below lists the polls on which the average is based. They are the most
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 24–29% <br> 16–17 | 22–27% <br> 13–18 | 14–18% <br> 9–10 | 21–26% <br> 12–16 | 2–4% <br> 0–2 | 1–3% <br> 0–1 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | 0–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 0–1% <br> 0 |
 | [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 19–24% <br> 11–15 | 17–22% <br> 10–14 | 15–19% <br> 8–12 | 26–32% <br> 16–19 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 25–31% <br> 17–19 | 21–27% <br> 12–16 | 14–18% <br> 9–11 | 20–25% <br> 11–13 | 2–4% <br> 1–2 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | 0–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 19–24% <br> 12–14 | 19–24% <br> 12–15 | 15–19% <br> 9–11 | 26–31% <br> 16–19 | 2–4% <br> 1–2 | 1–3% <br> 0–1 | 1–2% <br> 0–1 | 1–3% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 19–24% <br> 12–15 | 19–24% <br> 12–15 | 15–19% <br> 9–12 | 26–31% <br> 16–19 | 2–4% <br> 1–2 | 1–3% <br> 0–1 | 1–2% <br> 0–1 | 1–3% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 22–27% <br> 13–17 | 19–24% <br> 11–15 | 14–19% <br> 8–11 | 20–25% <br> 12–16 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -334,8 +334,8 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 1.1% | 100% |  |
 | 11 | 4% | 98.9% |  |
 | 12 | 14% | 95% |  |
-| 13 | 36% | 81% | Median |
-| 14 | 12% | 46% |  |
+| 13 | 35% | 81% | Median |
+| 14 | 13% | 46% |  |
 | 15 | 4% | 33% |  |
 | 16 | 2% | 30% |  |
 | 17 | 16% | 28% |  |
@@ -363,7 +363,7 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 100% |  |
 | 10 | 2% | 100% |  |
 | 11 | 11% | 98% |  |
-| 12 | 16% | 87% |  |
+| 12 | 15% | 87% |  |
 | 13 | 25% | 71% | Median |
 | 14 | 26% | 46% |  |
 | 15 | 17% | 20% |  |
@@ -390,8 +390,8 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 100% |  |
 | 8 | 2% | 100% |  |
 | 9 | 47% | 98% |  |
-| 10 | 28% | 51% | Median |
-| 11 | 19% | 23% |  |
+| 10 | 29% | 51% | Median |
+| 11 | 18% | 22% |  |
 | 12 | 4% | 4% |  |
 | 13 | 0% | 0% |  |
 
@@ -419,9 +419,9 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 18% | 93% |  |
 | 14 | 4% | 74% |  |
 | 15 | 1.2% | 71% |  |
-| 16 | 29% | 70% | Median |
-| 17 | 19% | 41% |  |
-| 18 | 16% | 22% |  |
+| 16 | 30% | 70% | Median |
+| 17 | 18% | 40% |  |
+| 18 | 15% | 22% |  |
 | 19 | 6% | 6% |  |
 | 20 | 0.2% | 0.2% |  |
 | 21 | 0% | 0% |  |
@@ -448,8 +448,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% | Last Result |
-| 1 | 81% | 81% | Median |
+| 0 | 20% | 100% | Last Result |
+| 1 | 80% | 80% | Median |
 | 2 | 0% | 0% |  |
 
 ### Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE)
@@ -472,8 +472,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.4% | 100% | Last Result, Median |
-| 1 | 0.6% | 0.6% |  |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0.5% | 0.5% |  |
 | 2 | 0% | 0% |  |
 
 ### Coalición Canaria (ALDE)
@@ -494,8 +494,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 92% | 92% | Median |
+| 0 | 9% | 100% | Last Result |
+| 1 | 91% | 91% | Median |
 | 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
@@ -546,11 +546,11 @@ Only polls for which at least the sample size has been published are included in
 | 14 | 7% | 85% |  |
 | 15 | 8% | 78% |  |
 | 16 | 4% | 70% |  |
-| 17 | 26% | 66% | Median |
-| 18 | 29% | 40% |  |
+| 17 | 27% | 66% | Median |
+| 18 | 28% | 39% |  |
 | 19 | 9% | 11% |  |
-| 20 | 1.5% | 2% |  |
-| 21 | 0.2% | 0.2% |  |
+| 20 | 2% | 2% |  |
+| 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
@@ -570,8 +570,8 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 1.1% | 100% |  |
 | 11 | 4% | 98.9% |  |
 | 12 | 14% | 95% |  |
-| 13 | 36% | 81% | Median |
-| 14 | 12% | 46% |  |
+| 13 | 35% | 81% | Median |
+| 14 | 13% | 46% |  |
 | 15 | 4% | 33% |  |
 | 16 | 2% | 30% |  |
 | 17 | 16% | 28% |  |
@@ -595,7 +595,7 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 100% |  |
 | 10 | 2% | 100% |  |
 | 11 | 11% | 98% |  |
-| 12 | 16% | 87% |  |
+| 12 | 15% | 87% |  |
 | 13 | 25% | 71% | Median |
 | 14 | 26% | 46% |  |
 | 15 | 17% | 20% |  |
@@ -620,8 +620,8 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 34% | 98% |  |
 | 10 | 35% | 64% |  |
 | 11 | 20% | 29% | Median |
-| 12 | 10% | 10% |  |
-| 13 | 0.2% | 0.2% |  |
+| 12 | 9% | 9% |  |
+| 13 | 0.5% | 0.5% |  |
 | 14 | 0% | 0% |  |
 
 ### Bloque Nacionalista Galego (Greens/EFA) – Esquerra Republicana de Catalunya (Greens/EFA)
@@ -629,8 +629,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 55% | 100% | Last Result |
-| 1 | 20% | 45% | Median |
-| 2 | 25% | 25% |  |
+| 1 | 21% | 45% | Median |
+| 2 | 24% | 25% |  |
 | 3 | 0% | 0% |  |
 
 ### Vox (*)
