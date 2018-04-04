@@ -78,7 +78,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 10 | 10–11 | 9–11 | 9–12 | 9–12 |
 | [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
-| [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 9 | 9–11 | 9–11 | 9–11 | 8–11 |
+| [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 8 | 8 | 8 | 8–9 | 8–9 |
 
