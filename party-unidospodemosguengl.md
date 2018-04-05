@@ -67,11 +67,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
-| [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
+| [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 9 | 9–10 | 9–12 | 9–12 | 9–12 |
-| [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
+| [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
@@ -100,9 +100,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 2% | 100% |  |
 | 9 | 40% | 98% |  |
-| 10 | 35% | 58% | Median |
-| 11 | 18% | 24% |  |
+| 10 | 32% | 59% | Median |
+| 11 | 20% | 26% |  |
 | 12 | 6% | 6% |  |
-| 13 | 0% | 0% |  |
+| 13 | 0% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 
