@@ -75,7 +75,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 13 | 10–15 | 10–15 | 10–15 | 10–18 |
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–13 | 11–14 | 10–14 | 10–14 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 10 | 10–12 | 10–13 | 10–13 | 10–13 |
-| [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
+| [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 15 | 15 | 13–15 | 13–16 | 13–16 |
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 14–17 | 14–18 | 13–18 | 13–18 |
@@ -108,8 +108,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 11% | 100% |  |
 | 11 | 12% | 89% |  |
-| 12 | 25% | 77% |  |
-| 13 | 19% | 52% | Median |
+| 12 | 23% | 76% |  |
+| 13 | 20% | 53% | Median |
 | 14 | 18% | 33% |  |
 | 15 | 13% | 15% |  |
 | 16 | 0.8% | 2% |  |
