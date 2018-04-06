@@ -72,18 +72,18 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–15 | 10–15 | 10–15 | 10–18 |
+| N/A | [Poll Average](average.html) | 13 | 10–14 | 10–15 | 10–15 | 10–18 |
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–13 | 11–14 | 10–14 | 10–14 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 10 | 10–12 | 10–13 | 10–13 | 10–13 |
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
-| [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 15 | 15 | 13–15 | 13–16 | 13–16 |
+| [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 14–17 | 14–18 | 13–18 | 13–18 |
 | [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
 | [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 14 | 12–15 | 12–15 | 12–16 | 12–16 |
 | [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 13 | 12–14 | 11–15 | 11–15 | 11–15 |
-| [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 13–16 | 13–16 | 13–17 | 13–18 |
+| [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica | 12 | 11–12 | 11–14 | 11–14 | 10–15 |
 | [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 13 | 13–14 | 13–14 | 13–14 | 13–15 |
@@ -108,11 +108,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 11% | 100% |  |
 | 11 | 12% | 89% |  |
-| 12 | 23% | 76% |  |
-| 13 | 20% | 53% | Median |
-| 14 | 18% | 33% |  |
-| 15 | 13% | 15% |  |
-| 16 | 0.8% | 2% |  |
+| 12 | 24% | 76% |  |
+| 13 | 23% | 52% | Median |
+| 14 | 23% | 29% |  |
+| 15 | 4% | 6% |  |
+| 16 | 0.6% | 2% |  |
 | 17 | 0% | 1.1% |  |
 | 18 | 1.1% | 1.1% |  |
 | 19 | 0% | 0% |  |
