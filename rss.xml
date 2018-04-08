@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 07 Apr 2018 13:50:47 +0200</pubDate>
+    <pubDate>Sun, 08 Apr 2018 12:30:25 +0200</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 19–29 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-29-SocioMétrica.html#seats</link>
@@ -336,8 +336,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-SimpleLógica.png"
         length="165130"
         type="image/png"/>
-      <pubDate>Mon, 02 Apr 2018 11:25:33 +0200</pubDate>
-      <dc:date>2018-04-02T11:25:33.338368+02:00</dc:date>
+      <pubDate>Sun, 08 Apr 2018 11:33:11 +0200</pubDate>
+      <dc:date>2018-04-08T11:33:11.531593+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 31 January–7 February 2018 – Voting Intentions</title>
@@ -346,9 +346,9 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-GAD3.png"
         length="280827"
         type="image/png"/>
-      <pubDate>Mon, 02 Apr 2018 11:32:58 +0200</pubDate>
-      <dc:date>2018-04-02T11:32:58.63504+02:00</dc:date>
+      <pubDate>Sun, 08 Apr 2018 12:30:25 +0200</pubDate>
+      <dc:date>2018-04-08T12:30:25.27806+02:00</dc:date>
     </item>
-    <dc:date>2018-04-07T13:50:47.896641+02:00</dc:date>
+    <dc:date>2018-04-08T12:30:25.27806+02:00</dc:date>
   </channel>
 </rss>
