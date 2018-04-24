@@ -81,7 +81,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 11–16 | 11–17 | 11–17 | 10–18 |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 12 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 16 | 16–17 | 15–18 | 15–18 | 14–18 |
+| [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–17 | 14–17 | 14–17 | 13–17 |
 | [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
@@ -123,10 +123,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 15% | 90% |  |
 | 13 | 20% | 75% |  |
 | 14 | 21% | 55% | Median |
-| 15 | 17% | 34% |  |
-| 16 | 12% | 17% |  |
-| 17 | 4% | 5% |  |
-| 18 | 1.0% | 1.0% |  |
-| 19 | 0% | 0% |  |
+| 15 | 18% | 34% |  |
+| 16 | 11% | 17% |  |
+| 17 | 5% | 6% |  |
+| 18 | 1.0% | 1.1% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 
