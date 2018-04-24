@@ -11,6 +11,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.5–1.3% | 0.4–1.4% | 0.4–1.6% | 0.3–1.9% |
+| [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
+| [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
+| [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
+| [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.7% | 0.4–1.9% |
+| [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 0.0% | N/A | N/A | N/A | N/A |
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 0.0% | N/A | N/A | N/A | N/A |
@@ -46,7 +51,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
+| [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0 | 0 | 0–1 |
+| [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
+| [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0–1 |
+| [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER |  |  |  |  |  |
@@ -70,8 +80,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 3% | 3% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 
 

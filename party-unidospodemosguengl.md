@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.7% | 15.1–18.6% | 14.6–19.1% | 14.2–19.6% | 13.5–20.7% |
+| N/A | [Poll Average](average.html) | 17.1% | 15.3–19.1% | 14.9–19.6% | 14.5–20.1% | 13.7–21.0% |
+| [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 18.1% | 16.6–19.7% | 16.2–20.2% | 15.8–20.6% | 15.2–21.4% |
+| [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
+| [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 17.6% | 16.2–19.2% | 15.8–19.6% | 15.4–20.0% | 14.8–20.8% |
+| [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16.6% | 15.3–18.2% | 14.9–18.6% | 14.5–19.0% | 13.9–19.7% |
+| [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 18.3% | 17.0–19.8% | 16.6–20.2% | 16.3–20.5% | 15.7–21.2% |
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 18.4% | 16.9–20.1% | 16.5–20.5% | 16.1–20.9% | 15.4–21.7% |
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.1% |
@@ -45,15 +50,15 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.5% | 100% |  |
-| 13.5–14.5% | 4% | 99.5% |  |
-| 14.5–15.5% | 14% | 96% |  |
-| 15.5–16.5% | 26% | 82% |  |
-| 16.5–17.5% | 28% | 55% | Median |
-| 17.5–18.5% | 18% | 28% |  |
-| 18.5–19.5% | 7% | 10% |  |
-| 19.5–20.5% | 2% | 3% |  |
-| 20.5–21.5% | 0.5% | 0.6% |  |
+| 12.5–13.5% | 0.3% | 100% |  |
+| 13.5–14.5% | 3% | 99.7% |  |
+| 14.5–15.5% | 10% | 97% |  |
+| 15.5–16.5% | 22% | 87% |  |
+| 16.5–17.5% | 26% | 65% | Median |
+| 17.5–18.5% | 22% | 39% |  |
+| 18.5–19.5% | 12% | 17% |  |
+| 19.5–20.5% | 4% | 5% |  |
+| 20.5–21.5% | 1.0% | 1.1% |  |
 | 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -66,7 +71,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–12 | 8–12 | 8–12 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
+| [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
+| [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
+| [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
+| [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
+| [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
@@ -97,13 +107,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.1% | 100% |  |
-| 8 | 4% | 99.9% |  |
-| 9 | 23% | 96% |  |
-| 10 | 45% | 73% | Median |
-| 11 | 23% | 28% |  |
-| 12 | 5% | 5% |  |
-| 13 | 0.5% | 0.5% |  |
+| 7 | 0% | 100% |  |
+| 8 | 2% | 100% |  |
+| 9 | 14% | 98% |  |
+| 10 | 43% | 84% | Median |
+| 11 | 33% | 41% |  |
+| 12 | 8% | 9% |  |
+| 13 | 0.6% | 0.7% |  |
 | 14 | 0% | 0% |  |
 
 

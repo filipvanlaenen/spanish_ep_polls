@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.1–2.2% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
+| N/A | [Poll Average](average.html) | 1.6% | 1.1–2.2% | 1.0–2.5% | 0.9–2.6% | 0.7–3.0% |
+| [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
+| [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
+| [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1.5% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% | 0.8–2.8% |
+| [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 0.0% | N/A | N/A | N/A | N/A |
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 0.0% | N/A | N/A | N/A | N/A |
@@ -33,10 +38,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 45% | 100% |  |
-| 1.5–2.5% | 53% | 55% | Median |
-| 2.5–3.5% | 2% | 2% |  |
+| 0.5–1.5% | 43% | 100% |  |
+| 1.5–2.5% | 53% | 57% | Median |
+| 2.5–3.5% | 4% | 4% |  |
 | 3.5–4.5% | 0% | 0% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -48,6 +54,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
+| [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER |  |  |  |  |  |
@@ -71,9 +82,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 48% | 100% | Last Result |
-| 1 | 51% | 52% | Median |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 43% | 100% | Last Result |
+| 1 | 57% | 57% | Median |
+| 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
 
