@@ -79,8 +79,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–16 | 11–17 | 11–17 | 10–18 |
-| [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 12 | 12–14 | 11–14 | 11–14 | 11–15 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 11–17 | 11–17 | 10–18 |
+| [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–17 | 14–17 | 14–17 | 13–17 |
