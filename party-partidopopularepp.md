@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.6% | 19.5–26.1% | 18.7–26.9% | 18.1–27.5% | 17.1–28.7% |
+| N/A | [Poll Average](average.html) | 22.7% | 19.5–26.4% | 18.7–27.2% | 18.1–27.9% | 17.1–29.0% |
+| [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 19.5% | 18.3–20.8% | 18.0–21.2% | 17.7–21.5% | 17.2–22.1% |
+| [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 26.0% | 24.3–27.8% | 23.8–28.4% | 23.4–28.8% | 22.6–29.7% |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 26.3% | 24.6–28.2% | 24.1–28.7% | 23.7–29.1% | 22.8–30.0% |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 19.0% | 17.5–20.6% | 17.1–21.1% | 16.8–21.5% | 16.1–22.3% |
@@ -59,15 +61,15 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 7% | 96% |  |
 | 19.5–20.5% | 11% | 89% |  |
 | 20.5–21.5% | 14% | 79% |  |
-| 21.5–22.5% | 14% | 65% |  |
-| 22.5–23.5% | 13% | 51% | Median |
-| 23.5–24.5% | 13% | 38% |  |
-| 24.5–25.5% | 11% | 26% |  |
-| 25.5–26.5% | 8% | 15% |  |
-| 26.5–27.5% | 4% | 7% |  |
-| 27.5–28.5% | 2% | 2% |  |
-| 28.5–29.5% | 0.5% | 0.7% |  |
-| 29.5–30.5% | 0.1% | 0.1% |  |
+| 21.5–22.5% | 13% | 65% |  |
+| 22.5–23.5% | 12% | 51% | Median |
+| 23.5–24.5% | 11% | 39% |  |
+| 24.5–25.5% | 10% | 28% |  |
+| 25.5–26.5% | 9% | 18% |  |
+| 26.5–27.5% | 6% | 9% |  |
+| 27.5–28.5% | 3% | 4% |  |
+| 28.5–29.5% | 0.8% | 1.0% |  |
+| 29.5–30.5% | 0.2% | 0.2% |  |
 | 30.5–31.5% | 0% | 0% |  |
 
 
@@ -79,7 +81,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 11–17 | 11–17 | 10–18 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 11–16 | 11–17 | 10–18 |
+| [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 12 | 11–12 | 11–12 | 10–13 | 10–13 |
+| [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 15 | 15 | 15 | 14–15 | 14–15 |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
@@ -122,10 +126,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 8% | 98% |  |
 | 12 | 15% | 90% |  |
 | 13 | 20% | 75% |  |
-| 14 | 21% | 55% | Median |
-| 15 | 18% | 34% |  |
-| 16 | 11% | 17% |  |
-| 17 | 5% | 6% |  |
+| 14 | 20% | 55% | Median |
+| 15 | 23% | 36% |  |
+| 16 | 8% | 13% |  |
+| 17 | 4% | 5% |  |
 | 18 | 1.0% | 1.1% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |

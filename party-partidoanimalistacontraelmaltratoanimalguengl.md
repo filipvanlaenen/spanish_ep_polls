@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.1–2.4% | 0.9–2.6% | 0.8–2.7% | 0.7–3.1% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% | 1.2–3.2% |
+| [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 0.0% | N/A | N/A | N/A | N/A |
+| [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 0.0% | N/A | N/A | N/A | N/A |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
@@ -37,11 +39,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 40% | 99.9% |  |
-| 1.5–2.5% | 54% | 60% | Median |
-| 2.5–3.5% | 5% | 6% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 8% | 100% |  |
+| 1.5–2.5% | 81% | 92% | Median |
+| 2.5–3.5% | 11% | 11% |  |
 | 3.5–4.5% | 0% | 0% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -52,7 +55,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
+| [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE |  |  |  |  |  |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -81,9 +86,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% | Last Result |
-| 1 | 56% | 57% | Median |
-| 2 | 0.3% | 0.3% |  |
+| 0 | 7% | 100% | Last Result |
+| 1 | 93% | 93% | Median |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 

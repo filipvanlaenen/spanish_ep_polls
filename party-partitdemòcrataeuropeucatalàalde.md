@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.6% | 1.1–2.2% | 1.0–2.5% | 0.9–2.6% | 0.7–3.0% |
+| [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 0.0% | N/A | N/A | N/A | N/A |
+| [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
@@ -53,7 +55,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
+| [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 0 | 0 | 0 | 0–1 | 0–1 |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -82,8 +86,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% | Last Result |
-| 1 | 57% | 57% | Median |
+| 0 | 53% | 100% | Last Result, Median |
+| 1 | 47% | 47% |  |
 | 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
