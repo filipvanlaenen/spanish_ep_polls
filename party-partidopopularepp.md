@@ -82,7 +82,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 11–16 | 11–17 | 11–17 | 10–18 |
-| [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 11 | 11–12 | 11–12 | 10–13 | 10–13 |
+| [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 12 | 11–12 | 11–12 | 10–13 | 10–13 |
 | [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
