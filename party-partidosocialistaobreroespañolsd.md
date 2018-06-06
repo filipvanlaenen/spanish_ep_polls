@@ -11,9 +11,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.8% | 18.7–24.4% | 18.3–25.3% | 17.9–26.1% | 17.1–27.3% |
+| [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 22.0% | 20.8–23.2% | 20.5–23.5% | 20.2–23.8% | 19.7–24.4% |
+| [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 23.0% | N/A | N/A | N/A | N/A |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 20.6% | 19.0–22.3% | 18.6–22.8% | 18.2–23.2% | 17.5–24.0% |
 | [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 20.3% | 19.1–21.6% | 18.7–22.0% | 18.4–22.3% | 17.9–22.9% |
-| [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 23.6% | 21.9–25.4% | 21.4–25.9% | 21.0–26.3% | 20.3–27.2% |
+| [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 23.6% | 21.9–25.4% | 21.5–25.9% | 21.1–26.3% | 20.3–27.2% |
 | [3–10 May 2018](2018-05-10-SimpleLógica.html) | Simple Lógica | 20.1% | 18.5–21.7% | 18.1–22.2% | 17.8–22.6% | 17.1–23.4% |
 | [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 19.0% | 17.8–20.3% | 17.5–20.6% | 17.2–20.9% | 16.7–21.6% |
 | [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 24.9% | 23.2–26.7% | 22.7–27.2% | 22.3–27.7% | 21.5–28.6% |
@@ -84,10 +86,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–15 | 11–15 | 10–16 | 10–17 |
+| N/A | [Poll Average](average.html) | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
+| [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15 | 15 | 13–15 | 13–15 |
+| [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 12–13 | 12–13 | 12–13 | 12–14 |
-| [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 12–13 | 12–13 | 11–14 | 11–14 |
+| [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [3–10 May 2018](2018-05-10-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
@@ -130,13 +134,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 2% | 100% |  |
-| 11 | 18% | 97% |  |
-| 12 | 38% | 80% | Median |
-| 13 | 21% | 41% |  |
-| 14 | 9% | 20% |  |
-| 15 | 7% | 11% |  |
-| 16 | 3% | 4% |  |
-| 17 | 0.9% | 1.0% |  |
+| 11 | 16% | 98% |  |
+| 12 | 31% | 81% |  |
+| 13 | 23% | 50% | Median |
+| 14 | 12% | 28% |  |
+| 15 | 10% | 15% |  |
+| 16 | 4% | 5% |  |
+| 17 | 1.1% | 1.2% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
