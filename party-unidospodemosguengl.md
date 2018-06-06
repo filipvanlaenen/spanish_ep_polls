@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.3% | 15.4–19.6% | 14.9–20.2% | 14.5–20.7% | 13.7–21.6% |
+| N/A | [Poll Average](average.html) | 18.0% | 15.5–20.2% | 15.0–20.8% | 14.5–21.2% | 13.7–22.1% |
+| [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 19.7% | 18.2–21.4% | 17.7–21.9% | 17.4–22.3% | 16.7–23.1% |
+| [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 19.3% | 18.1–20.6% | 17.8–20.9% | 17.5–21.2% | 16.9–21.9% |
+| [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
+| [3–10 May 2018](2018-05-10-SimpleLógica.html) | Simple Lógica | 17.2% | 15.8–18.8% | 15.4–19.3% | 15.1–19.6% | 14.4–20.4% |
 | [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 19.8% | 18.6–21.1% | 18.3–21.5% | 18.0–21.8% | 17.4–22.4% |
 | [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 17.7% | 16.2–19.3% | 15.8–19.8% | 15.5–20.2% | 14.8–21.0% |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 18.1% | 16.6–19.7% | 16.2–20.2% | 15.8–20.6% | 15.2–21.4% |
@@ -54,15 +58,16 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.3% | 100% |  |
 | 13.5–14.5% | 2% | 99.7% |  |
-| 14.5–15.5% | 9% | 97% |  |
-| 15.5–16.5% | 19% | 88% |  |
-| 16.5–17.5% | 24% | 69% | Median |
-| 17.5–18.5% | 20% | 45% |  |
-| 18.5–19.5% | 13% | 24% |  |
-| 19.5–20.5% | 8% | 11% |  |
-| 20.5–21.5% | 3% | 3% |  |
-| 21.5–22.5% | 0.5% | 0.5% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 14.5–15.5% | 7% | 97% |  |
+| 15.5–16.5% | 14% | 90% |  |
+| 16.5–17.5% | 18% | 76% |  |
+| 17.5–18.5% | 19% | 58% | Median |
+| 18.5–19.5% | 19% | 39% |  |
+| 19.5–20.5% | 13% | 20% |  |
+| 20.5–21.5% | 5% | 7% |  |
+| 21.5–22.5% | 1.2% | 1.4% |  |
+| 22.5–23.5% | 0.2% | 0.2% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -73,7 +78,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
+| N/A | [Poll Average](average.html) | 11 | 9–12 | 9–12 | 9–13 | 8–14 |
+| [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
+| [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 11–12 | 11–12 | 11–12 | 11–13 |
+| [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [3–10 May 2018](2018-05-10-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
 | [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
@@ -113,11 +122,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 2% | 100% |  |
-| 9 | 15% | 98% |  |
-| 10 | 37% | 83% | Median |
-| 11 | 31% | 46% |  |
-| 12 | 13% | 14% |  |
-| 13 | 2% | 2% |  |
-| 14 | 0% | 0% |  |
+| 9 | 11% | 98% |  |
+| 10 | 25% | 87% |  |
+| 11 | 38% | 63% | Median |
+| 12 | 20% | 25% |  |
+| 13 | 4% | 5% |  |
+| 14 | 0.5% | 0.5% |  |
+| 15 | 0% | 0% |  |
 
 
