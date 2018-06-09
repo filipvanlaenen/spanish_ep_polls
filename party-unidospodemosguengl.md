@@ -82,7 +82,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 12–14 | 12–14 | 12–15 |
-| [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–13 | 11–15 |
+| [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–14 | 11–14 | 11–15 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
 | [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 10 | 9–11 | 8–11 | 8–11 | 8–11 |
@@ -128,10 +128,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 2% | 99.9% |  |
 | 9 | 12% | 98% |  |
 | 10 | 24% | 86% |  |
-| 11 | 29% | 62% | Median |
-| 12 | 27% | 33% |  |
-| 13 | 5% | 6% |  |
-| 14 | 0.6% | 0.6% |  |
+| 11 | 30% | 62% | Median |
+| 12 | 25% | 32% |  |
+| 13 | 6% | 7% |  |
+| 14 | 1.1% | 1.2% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
