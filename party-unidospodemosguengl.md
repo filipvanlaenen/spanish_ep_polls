@@ -84,11 +84,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 7–13 | 7–14 |
+| N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 7–13 | 7–13 |
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
-| [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
+| [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
+| [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 10–11 | 10–12 | 9–12 | 9–13 |
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–14 | 11–14 | 11–14 | 11–15 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
@@ -131,13 +131,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.1% | 100% |  |
-| 7 | 4% | 99.9% |  |
-| 8 | 7% | 96% |  |
-| 9 | 15% | 89% |  |
-| 10 | 26% | 74% | Median |
-| 11 | 24% | 49% |  |
-| 12 | 20% | 25% |  |
+| 6 | 0.5% | 100% |  |
+| 7 | 4% | 99.5% |  |
+| 8 | 5% | 96% |  |
+| 9 | 14% | 91% |  |
+| 10 | 28% | 77% | Median |
+| 11 | 26% | 49% |  |
+| 12 | 19% | 23% |  |
 | 13 | 4% | 5% |  |
 | 14 | 0.5% | 0.5% |  |
 | 15 | 0% | 0% |  |

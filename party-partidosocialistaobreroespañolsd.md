@@ -74,10 +74,10 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 9% | 49% |  |
 | 22.5–23.5% | 4% | 39% |  |
 | 23.5–24.5% | 4% | 35% |  |
-| 24.5–25.5% | 7% | 31% |  |
-| 25.5–26.5% | 7% | 24% |  |
+| 24.5–25.5% | 6% | 31% |  |
+| 25.5–26.5% | 7% | 25% |  |
 | 26.5–27.5% | 6% | 17% |  |
-| 27.5–28.5% | 4% | 11% |  |
+| 27.5–28.5% | 5% | 11% |  |
 | 28.5–29.5% | 3% | 6% |  |
 | 29.5–30.5% | 2% | 3% |  |
 | 30.5–31.5% | 0.9% | 1.3% |  |
@@ -94,11 +94,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–17 | 11–18 | 11–19 | 10–19 |
-| [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 16 | 15–16 | 14–17 | 14–17 | 13–18 |
+| N/A | [Poll Average](average.html) | 13 | 11–17 | 11–19 | 11–19 | 10–20 |
+| [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 16 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
-| [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
-| [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
+| [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 19 | 17–19 | 16–20 | 16–20 | 15–20 |
+| [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 14 | 12–14 | 12–14 | 12–14 | 12–15 |
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–16 | 13–16 | 13–16 | 13–17 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
@@ -146,16 +146,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 2% | 100% |  |
-| 11 | 13% | 98% |  |
-| 12 | 26% | 85% |  |
-| 13 | 19% | 59% | Median |
-| 14 | 10% | 40% |  |
-| 15 | 7% | 29% |  |
-| 16 | 10% | 22% |  |
-| 17 | 4% | 12% |  |
-| 18 | 3% | 8% |  |
-| 19 | 5% | 5% |  |
-| 20 | 0.2% | 0.2% |  |
+| 11 | 12% | 98% |  |
+| 12 | 24% | 86% |  |
+| 13 | 17% | 62% | Median |
+| 14 | 10% | 45% |  |
+| 15 | 11% | 35% |  |
+| 16 | 11% | 24% |  |
+| 17 | 5% | 13% |  |
+| 18 | 2% | 7% |  |
+| 19 | 4% | 5% |  |
+| 20 | 0.6% | 0.6% |  |
 | 21 | 0% | 0% |  |
 
 

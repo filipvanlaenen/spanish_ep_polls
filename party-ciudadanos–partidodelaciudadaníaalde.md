@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.4% | 20.6–29.5% | 20.0–30.1% | 19.4–30.6% | 18.5–31.6% |
+| N/A | [Poll Average](average.html) | 25.4% | 20.7–29.5% | 20.0–30.1% | 19.4–30.6% | 18.5–31.6% |
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 21.0% | 19.5–22.6% | 19.1–23.0% | 18.8–23.4% | 18.1–24.2% |
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica | 25.7% | 24.0–27.5% | 23.6–28.0% | 23.2–28.5% | 22.4–29.4% |
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 21.1% | 19.4–23.1% | 18.9–23.6% | 18.4–24.1% | 17.6–25.1% |
@@ -68,7 +68,7 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
 | 17.5–18.5% | 0.5% | 99.9% |  |
-| 18.5–19.5% | 2% | 99.4% |  |
+| 18.5–19.5% | 2% | 99.5% |  |
 | 19.5–20.5% | 6% | 97% |  |
 | 20.5–21.5% | 10% | 91% |  |
 | 21.5–22.5% | 11% | 81% |  |
@@ -94,11 +94,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 12–18 | 12–18 | 11–19 | 11–19 |
-| [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 12 | 11–14 | 11–14 | 11–14 | 11–14 |
+| N/A | [Poll Average](average.html) | 15 | 13–18 | 12–18 | 12–19 | 11–19 |
+| [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
-| [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 12 | 11–15 | 11–16 | 11–16 | 11–16 |
-| [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
+| [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 13 | 11–14 | 11–15 | 11–16 | 11–16 |
+| [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 12–14 | 12–15 | 11–15 | 11–15 |
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–16 | 14–17 | 14–17 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 18 | 17–19 | 16–19 | 16–20 | 15–20 |
@@ -146,15 +146,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 3% | 100% |  |
-| 12 | 9% | 97% |  |
-| 13 | 8% | 87% |  |
-| 14 | 16% | 79% |  |
-| 15 | 11% | 64% |  |
-| 16 | 13% | 53% | Median |
-| 17 | 18% | 40% |  |
-| 18 | 18% | 22% |  |
-| 19 | 4% | 4% |  |
+| 11 | 2% | 100% |  |
+| 12 | 7% | 98% |  |
+| 13 | 13% | 91% |  |
+| 14 | 19% | 78% |  |
+| 15 | 10% | 58% | Median |
+| 16 | 11% | 48% |  |
+| 17 | 17% | 37% |  |
+| 18 | 16% | 20% |  |
+| 19 | 3% | 4% |  |
 | 20 | 0.4% | 0.4% |  |
 | 21 | 0% | 0% |  |
 
