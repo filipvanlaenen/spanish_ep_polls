@@ -98,7 +98,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
-| [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–15 | 14–17 | 14–17 | 13–17 |
+| [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 16 | 14–16 | 14–17 | 14–17 | 13–17 |
@@ -155,13 +155,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 8% | 98.6% |  |
 | 12 | 11% | 90% |  |
 | 13 | 8% | 79% |  |
-| 14 | 10% | 71% |  |
-| 15 | 20% | 61% | Median |
-| 16 | 17% | 41% |  |
-| 17 | 12% | 24% |  |
-| 18 | 5% | 11% |  |
-| 19 | 6% | 6% |  |
-| 20 | 0.7% | 0.8% |  |
+| 14 | 11% | 70% |  |
+| 15 | 17% | 60% | Median |
+| 16 | 19% | 42% |  |
+| 17 | 12% | 23% |  |
+| 18 | 5% | 12% |  |
+| 19 | 5% | 6% |  |
+| 20 | 0.7% | 0.7% |  |
 | 21 | 0% | 0% |  |
 
 

@@ -97,8 +97,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–18 | 12–18 | 11–18 | 11–19 |
-| [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 15–16 | 14–17 | 14–17 | 14–18 |
-| [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
+| [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–17 | 15–18 | 14–18 | 13–19 |
+| [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 14 | 13–15 | 12–15 | 12–16 | 11–16 |
 | [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
@@ -154,11 +154,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 4% | 99.8% |  |
 | 12 | 12% | 96% |  |
 | 13 | 17% | 84% |  |
-| 14 | 19% | 67% | Median |
-| 15 | 14% | 47% |  |
-| 16 | 12% | 33% |  |
+| 14 | 20% | 67% | Median |
+| 15 | 12% | 48% |  |
+| 16 | 13% | 35% |  |
 | 17 | 11% | 22% |  |
-| 18 | 8% | 10% |  |
+| 18 | 8% | 11% |  |
 | 19 | 2% | 2% |  |
 | 20 | 0.3% | 0.3% |  |
 | 21 | 0% | 0% |  |
