@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 27 Jun 2018 11:07:07 +0200</pubDate>
+    <pubDate>Thu, 28 Jun 2018 17:56:48 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 19–22 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-22-SocioMétrica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 11–14 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 13–17 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9–13 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 14–18 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Vox (*): 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-22-SocioMétrica-seats.png"
+        length="241327"
+        type="image/png"/>
+      <pubDate>Thu, 28 Jun 2018 17:56:48 +0200</pubDate>
+      <dc:date>2018-06-28T17:56:48.688587+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 19–22 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-22-SocioMétrica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-22-SocioMétrica-coalitions-seats.png"
+        length="155040"
+        type="image/png"/>
+      <pubDate>Thu, 28 Jun 2018 17:56:48 +0200</pubDate>
+      <dc:date>2018-06-28T17:56:48.688587+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 19–22 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-22-SocioMétrica.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-22-SocioMétrica.png"
         length="325625"
         type="image/png"/>
-      <pubDate>Wed, 27 Jun 2018 10:54:35 +0200</pubDate>
-      <dc:date>2018-06-27T10:54:35.952763+02:00</dc:date>
+      <pubDate>Thu, 28 Jun 2018 17:56:48 +0200</pubDate>
+      <dc:date>2018-06-28T17:56:48.688587+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 11–13 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-13-GESOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 11–14 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 15–19 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 8–12 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 12–16 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-13-GESOP-seats.png"
+        length="201359"
+        type="image/png"/>
+      <pubDate>Thu, 28 Jun 2018 12:05:40 +0200</pubDate>
+      <dc:date>2018-06-28T12:05:40.291041+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 11–13 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-13-GESOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-13-GESOP-coalitions-seats.png"
+        length="151143"
+        type="image/png"/>
+      <pubDate>Thu, 28 Jun 2018 12:05:40 +0200</pubDate>
+      <dc:date>2018-06-28T12:05:40.291041+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 11–13 June 2018 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-13-GESOP.png"
         length="206106"
         type="image/png"/>
-      <pubDate>Wed, 27 Jun 2018 11:07:07 +0200</pubDate>
-      <dc:date>2018-06-27T11:07:07.709065+02:00</dc:date>
+      <pubDate>Thu, 28 Jun 2018 12:05:40 +0200</pubDate>
+      <dc:date>2018-06-28T12:05:40.291041+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Instituto DYM for El Independiente, 11–12 June 2018 – Voting Intentions</title>
@@ -929,6 +969,6 @@
       <pubDate>Sun, 08 Apr 2018 18:55:47 +0200</pubDate>
       <dc:date>2018-04-08T18:55:47.619305+02:00</dc:date>
     </item>
-    <dc:date>2018-06-27T11:07:07.709065+02:00</dc:date>
+    <dc:date>2018-06-28T17:56:48.688587+02:00</dc:date>
   </channel>
 </rss>
