@@ -104,7 +104,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 13 | 11–14 | 11–15 | 11–16 | 11–16 |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 12–14 | 12–15 | 11–15 | 11–15 |
-| [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
+| [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–16 | 14–17 | 14–17 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 18 | 17–19 | 16–19 | 16–20 | 15–20 |
 | [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–18 | 16–19 | 16–19 | 16–20 |
@@ -154,7 +154,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 4% | 99.8% |  |
 | 12 | 12% | 96% |  |
 | 13 | 17% | 84% |  |
-| 14 | 20% | 67% | Median |
+| 14 | 19% | 67% | Median |
 | 15 | 12% | 48% |  |
 | 16 | 13% | 35% |  |
 | 17 | 11% | 22% |  |
