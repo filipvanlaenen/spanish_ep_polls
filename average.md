@@ -17,7 +17,7 @@ The table below lists the polls on which the average is based. They are the most
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica | 18–23% <br> 11–14 | 24–29% <br> 14–18 | 14–19% <br> 8–11 | 23–28% <br> 14–17 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 23–29% <br> 14–18 | 26–32% <br> 16–20 | 11–16% <br> 6–10 | 18–24% <br> 11–16 | 2–5% <br> 1–3 | 1–3% <br> 0–1 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | 0–2% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0–1 | N/A <br> N/A |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 22–27% <br> 13–17 | 23–29% <br> 14–18 | 15–20% <br> 9–12 | 19–24% <br> 11–15 | 2–4% <br> 1–2 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | 0–2% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A | 0–1% <br> 0 |
-| [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 16–19% <br> 9–12 | 20–23% <br> 12–14 | 15–18% <br> 9–11 | 21–25% <br> 13–15 | 3–4% <br> 1–2 | 3–5% <br> 2–3 | N/A <br> N/A | 3–5% <br> 2–3 | 1–2% <br> 0–1 | N/A <br> N/A | 4–6% <br> 2–3 | N/A <br> N/A |
+| [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 16–19% <br> 9–12 | 20–23% <br> 12–15 | 15–18% <br> 9–11 | 21–25% <br> 13–15 | 3–4% <br> 1–2 | 3–5% <br> 2–3 | N/A <br> N/A | 3–5% <br> 2–3 | 1–2% <br> 0–1 | N/A <br> N/A | 4–6% <br> 2–3 | N/A <br> N/A |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 17–22% <br> 11–14 | 18–23% <br> 11–14 | 17–22% <br> 10–14 | 26–31% <br> 16–20 | 2–4% <br> 0–2 | 1–3% <br> 0–1 | 1–2% <br> 0–1 | 1–3% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 18–21% <br> 10–13 | 17–21% <br> 10–12 | 18–22% <br> 11–13 | 27–31% <br> 16–19 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 21–26% <br> 12–16 | 17–22% <br> 10–14 | 16–21% <br> 10–13 | 24–30% <br> 15–18 | 2–5% <br> 1–2 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -359,8 +359,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.4% | 100% |  |
-| 10 | 5% | 99.6% |  |
+| 9 | 0.5% | 100% |  |
+| 10 | 5% | 99.5% |  |
 | 11 | 17% | 95% |  |
 | 12 | 21% | 78% |  |
 | 13 | 12% | 57% | Median |
@@ -423,7 +423,7 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 15% | 87% |  |
 | 10 | 31% | 72% | Median |
 | 11 | 23% | 41% |  |
-| 12 | 14% | 17% |  |
+| 12 | 14% | 18% |  |
 | 13 | 3% | 4% |  |
 | 14 | 0.4% | 0.4% |  |
 | 15 | 0% | 0% |  |
@@ -451,7 +451,7 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 12% | 96% |  |
 | 13 | 17% | 84% |  |
 | 14 | 19% | 67% | Median |
-| 15 | 12% | 48% |  |
+| 15 | 13% | 48% |  |
 | 16 | 13% | 35% |  |
 | 17 | 11% | 22% |  |
 | 18 | 8% | 11% |  |
@@ -468,7 +468,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.5% | 100% | Last Result |
-| 1 | 53% | 99.5% | Median |
+| 1 | 54% | 99.5% | Median |
 | 2 | 45% | 46% |  |
 | 3 | 0.8% | 0.8% |  |
 | 4 | 0% | 0% |  |
@@ -509,7 +509,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 39% | 100% | Last Result |
 | 1 | 40% | 61% | Median |
-| 2 | 18% | 20% |  |
+| 2 | 17% | 20% |  |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
@@ -521,8 +521,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 11% | 11% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
 | 2 | 0% | 0% |  |
 
 ### Coalición Canaria (ALDE)
@@ -545,10 +545,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 29% | 100% | Last Result |
 | 1 | 35% | 71% | Median |
-| 2 | 18% | 36% |  |
-| 3 | 18% | 18% |  |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0% | 0% |  |
+| 2 | 20% | 36% |  |
+| 3 | 15% | 16% |  |
+| 4 | 0% | 0% |  |
 
 ### Bloque Nacionalista Galego (Greens/EFA)
 
@@ -572,7 +571,7 @@ Only polls for which at least the sample size has been published are included in
 | Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición Canaria (ALDE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE) – Partit Demòcrata Europeu Català (ALDE) | 0 | 15 | 0% | 12–18 | 12–19 | 12–19 | 11–20 |
 | Partido Socialista Obrero Español (S&D) | 0 | 15 | 0% | 12–18 | 11–19 | 11–19 | 10–20 |
 | Partido Popular (EPP) | 0 | 13 | 0% | 11–16 | 10–17 | 10–17 | 10–18 |
-| Euskal Herria Bildu (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Unidos Podemos (GUE/NGL) | 0 | 11 | 0% | 8–13 | 8–13 | 8–14 | 7–15 |
+| Euskal Herria Bildu (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Unidos Podemos (GUE/NGL) | 0 | 11 | 0% | 8–13 | 8–13 | 8–14 | 7–14 |
 | Vox (*) | 0 | 0 | 0% | 0–1 | 0–2 | 0–3 | 0–3 |
 | Bloque Nacionalista Galego (Greens/EFA) – Esquerra Republicana de Catalunya (Greens/EFA) | 0 | 1 | 0% | 0–2 | 0–2 | 0–2 | 0–3 |
 
@@ -644,8 +643,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.4% | 100% |  |
-| 10 | 5% | 99.6% |  |
+| 9 | 0.5% | 100% |  |
+| 10 | 5% | 99.5% |  |
 | 11 | 17% | 95% |  |
 | 12 | 21% | 78% |  |
 | 13 | 12% | 57% | Median |
@@ -674,7 +673,7 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 22% | 74% |  |
 | 11 | 20% | 51% | Median |
 | 12 | 18% | 31% |  |
-| 13 | 9% | 13% |  |
+| 13 | 10% | 13% |  |
 | 14 | 3% | 4% |  |
 | 15 | 0.5% | 0.5% |  |
 | 16 | 0% | 0% |  |
@@ -685,8 +684,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 81% | 100% | Last Result |
 | 1 | 10% | 19% | Median |
-| 2 | 5% | 10% |  |
-| 3 | 5% | 5% |  |
+| 2 | 6% | 10% |  |
+| 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
 ### Bloque Nacionalista Galego (Greens/EFA) – Esquerra Republicana de Catalunya (Greens/EFA)
@@ -695,7 +694,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 28% | 100% | Last Result |
 | 1 | 39% | 72% | Median |
-| 2 | 33% | 34% |  |
+| 2 | 33% | 33% |  |
 | 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
