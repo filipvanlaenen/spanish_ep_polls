@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Jun 2018 17:56:48 +0200</pubDate>
+    <pubDate>Sat, 30 Jun 2018 10:06:22 +0200</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 19–22 June 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-22-SocioMétrica.html#seats</link>
@@ -186,8 +186,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-02-electoPanel.png"
         length="280533"
         type="image/png"/>
-      <pubDate>Tue, 26 Jun 2018 09:57:13 +0200</pubDate>
-      <dc:date>2018-06-26T09:57:13.970514+02:00</dc:date>
+      <pubDate>Sat, 30 Jun 2018 10:06:22 +0200</pubDate>
+      <dc:date>2018-06-30T10:06:22.194526+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 26–28 May 2018 – Seat Projections for the Parties</title>
@@ -969,6 +969,6 @@
       <pubDate>Sun, 08 Apr 2018 18:55:47 +0200</pubDate>
       <dc:date>2018-04-08T18:55:47.619305+02:00</dc:date>
     </item>
-    <dc:date>2018-06-28T17:56:48.688587+02:00</dc:date>
+    <dc:date>2018-06-30T10:06:22.194526+02:00</dc:date>
   </channel>
 </rss>
