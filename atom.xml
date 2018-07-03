@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-06-30T23:31:43.939633+02:00</updated>
+  <updated>2018-07-03T19:19:24.490823+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 22.6–28.0%, 14–17 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 23.7–29.1%, 15–18 seats</li><li>Unidos Podemos (GUE/NGL): 14.0–18.6%, 8–11 seats</li><li>Ciudadanos–Partido de la Ciudadanía (ALDE): 18.2–23.2%, 11–14 seats</li><li>Esquerra Republicana de Catalunya (Greens/EFA): 2.2–4.4%, 1–2 seats</li><li>Partit Demòcrata Europeu Català (ALDE): 0.8–2.3%, 0–1 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.7–2.1%, 0–1 seats</li><li>Euskal Herria Bildu (GUE/NGL): 0.4–1.6%, 0–1 seats</li><li>Coalición Canaria (ALDE): 0.1–0.9%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-30-NCReport.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-30-NCReport.html"/>
+    <title>Opinion Poll by NC Report for La Razón, 25–30 June 2018</title>
+    <updated>2018-07-03T19:19:24.490823+02:00</updated>
+    <dc:date>2018-07-03T19:19:24.490823+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 17.2–22.1%, 11–14 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 21.4–26.6%, 13–17 seats</li><li>Unidos Podemos (GUE/NGL): 14.7–19.4%, 9–13 seats</li><li>Ciudadanos–Partido de la Ciudadanía (ALDE): 22.7–28.1%, 14–18 seats</li><li>Esquerra Republicana de Catalunya (Greens/EFA): 2.0–4.1%, 1–2 seats</li><li>Partit Demòcrata Europeu Català (ALDE): 0.8–2.2%, 0–1 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.8–2.2%, 0–1 seats</li><li>Partido Animalista Contra el Maltrato Animal (GUE/NGL): 1.0–2.6%, 0–1 seats</li><li>Euskal Herria Bildu (GUE/NGL): 0.4–1.6%, 0–1 seats</li><li>Coalición Canaria (ALDE): 0.2–1.2%, 0 seats</li><li>Vox (*): 1.4–3.2%, 0–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-22-SocioMétrica.html</id>
@@ -279,5 +287,5 @@
     <updated>2018-04-08T18:55:47.619305+02:00</updated>
     <dc:date>2018-04-08T18:55:47.619305+02:00</dc:date>
   </entry>
-  <dc:date>2018-06-30T23:31:43.939633+02:00</dc:date>
+  <dc:date>2018-07-03T19:19:24.490823+02:00</dc:date>
 </feed>
