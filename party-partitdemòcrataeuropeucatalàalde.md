@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.1–3.8% | 1.0–4.3% | 0.9–4.5% | 0.7–5.0% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.1–3.9% | 1.0–4.3% | 0.9–4.6% | 0.7–5.0% |
+| [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 1.6% | 1.2–2.4% | 1.1–2.6% | 0.9–2.8% | 0.8–3.2% |
 | [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 0.0% | N/A | N/A | N/A | N/A |
@@ -53,11 +54,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 41% | 100% |  |
-| 1.5–2.5% | 44% | 59% | Median |
-| 2.5–3.5% | 4% | 15% |  |
-| 3.5–4.5% | 9% | 12% |  |
-| 4.5–5.5% | 2% | 2% |  |
+| 0.5–1.5% | 39% | 100% |  |
+| 1.5–2.5% | 44% | 61% | Median |
+| 2.5–3.5% | 4% | 17% |  |
+| 3.5–4.5% | 11% | 13% |  |
+| 4.5–5.5% | 3% | 3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -70,6 +71,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
@@ -113,9 +115,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% | Last Result |
-| 1 | 45% | 57% | Median |
-| 2 | 11% | 13% |  |
+| 0 | 41% | 100% | Last Result |
+| 1 | 45% | 59% | Median |
+| 2 | 13% | 14% |  |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
