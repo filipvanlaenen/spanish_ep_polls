@@ -10,7 +10,16 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.8% | 0.1–0.9% | 0.1–1.0% | 0.1–1.2% |
+| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.8% | 0.1–0.9% | 0.1–1.0% | 0.1–1.3% |
+| [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 0.2% | 0.1–0.7% | 0.1–0.8% | 0.1–0.9% | 0.0–1.2% |
+| [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
+| [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
+| [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [1–10 July 2018](2018-07-10-CIS.html) | CIS | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% |
+| [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
+| [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
@@ -29,6 +38,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [1–10 April 2018](2018-04-10-CIS.html) | CIS | 0.3% | 0.2–0.5% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
 | [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 0.0% | N/A | N/A | N/A | N/A |
@@ -53,8 +63,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 73% | 100% | Last Result, Median |
-| 0.5–1.5% | 27% | 27% |  |
+| 0.0–0.5% | 72% | 100% | Last Result, Median |
+| 0.5–1.5% | 28% | 28% |  |
 | 1.5–2.5% | 0.1% | 0.1% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -68,6 +78,15 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0 | 0 | 0 |
+| [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
+| [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
+| [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 0 | 0 | 0 | 0 | 0 |
+| [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [1–10 July 2018](2018-07-10-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
+| [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
+| [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0 | 0 | 0 |
 | [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
@@ -86,6 +105,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 0 | 0 | 0 | 0 | 0 |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0 | 0 | 0 |
+| [1–10 April 2018](2018-04-10-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |
 | [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |

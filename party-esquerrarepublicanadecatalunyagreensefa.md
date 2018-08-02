@@ -10,7 +10,16 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.2–3.8% | 2.0–4.0% | 1.9–4.3% | 1.6–4.8% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.2–3.9% | 2.0–4.2% | 1.9–4.4% | 1.6–4.8% |
+| [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
+| [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.7–4.9% |
+| [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–4.0% |
+| [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 3.1% | 2.7–3.6% | 2.6–3.7% | 2.5–3.8% | 2.3–4.0% |
+| [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [1–10 July 2018](2018-07-10-CIS.html) | CIS | 3.9% | 3.4–4.5% | 3.3–4.6% | 3.2–4.7% | 3.0–5.0% |
+| [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
+| [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 2.0–4.7% |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 2.6% | 2.0–3.5% | 1.9–3.8% | 1.7–4.0% | 1.5–4.5% |
@@ -29,6 +38,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
+| [1–10 April 2018](2018-04-10-CIS.html) | CIS | 3.0% | 2.6–3.5% | 2.5–3.6% | 2.4–3.8% | 2.2–4.0% |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.1–4.1% | 1.8–4.5% |
 | [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 0.0% | N/A | N/A | N/A | N/A |
@@ -56,9 +66,9 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.4% | 100% |  |
 | 1.5–2.5% | 22% | 99.6% |  |
-| 2.5–3.5% | 59% | 78% | Median |
-| 3.5–4.5% | 18% | 19% |  |
-| 4.5–5.5% | 1.0% | 1.0% |  |
+| 2.5–3.5% | 56% | 78% | Median |
+| 3.5–4.5% | 21% | 22% |  |
+| 4.5–5.5% | 1.3% | 1.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -70,7 +80,16 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
+| [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [1–10 July 2018](2018-07-10-CIS.html) | CIS | 2 | 2 | 2 | 2 | 1–3 |
+| [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
+| [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -89,6 +108,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–10 April 2018](2018-04-10-CIS.html) | CIS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
@@ -115,10 +135,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.6% | 100% | Last Result |
-| 1 | 56% | 99.4% | Median |
-| 2 | 43% | 44% |  |
-| 3 | 0.8% | 0.8% |  |
+| 0 | 0.5% | 100% | Last Result |
+| 1 | 56% | 99.5% | Median |
+| 2 | 43% | 43% |  |
+| 3 | 0.7% | 0.7% |  |
 | 4 | 0% | 0% |  |
 
 
