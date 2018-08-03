@@ -110,10 +110,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–18 | 13–19 | 12–19 | 11–19 |
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
-| [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 16–18 | 15–19 | 15–20 |
-| [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 16 | 15–17 | 15–17 | 15–17 | 15–17 |
+| [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 15–19 | 15–19 | 15–20 |
+| [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 16 | 15–17 | 15–17 | 15–17 | 14–17 |
 | [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
-| [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–17 | 16–17 | 16–18 |
+| [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–17 | 16–17 | 15–18 |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [1–10 July 2018](2018-07-10-CIS.html) | CIS | 19 | 18–19 | 18–19 | 18–19 | 17–20 |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
@@ -179,9 +179,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 3% | 96% |  |
 | 14 | 4% | 93% |  |
 | 15 | 13% | 89% |  |
-| 16 | 35% | 76% | Median |
-| 17 | 19% | 41% |  |
-| 18 | 15% | 22% |  |
+| 16 | 34% | 76% | Median |
+| 17 | 20% | 41% |  |
+| 18 | 14% | 21% |  |
 | 19 | 7% | 7% |  |
 | 20 | 0.4% | 0.4% |  |
 | 21 | 0% | 0% |  |

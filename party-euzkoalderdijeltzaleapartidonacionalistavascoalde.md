@@ -83,7 +83,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0–1 |
+| [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–10 July 2018](2018-07-10-CIS.html) | CIS | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -133,8 +133,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 77% | 100% | Last Result, Median |
-| 1 | 23% | 23% |  |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 15% | 15% |  |
 | 2 | 0% | 0% |  |
 
 
