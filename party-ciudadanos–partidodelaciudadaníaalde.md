@@ -107,12 +107,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–16 | 11–18 | 11–18 | 10–19 |
-| [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
+| N/A | [Poll Average](average.html) | 13 | 11–16 | 11–18 | 11–18 | 10–19 |
+| [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 12 | 11–13 | 10–13 | 10–14 | 10–14 |
 | [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 12 | 12–13 | 12–14 | 12–14 | 11–14 |
-| [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–13 | 12–13 | 12–13 | 12–14 |
+| [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–13 | 12–14 | 12–14 | 12–14 |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [1–10 July 2018](2018-07-10-CIS.html) | CIS | 13 | 12–13 | 12–14 | 12–14 | 11–14 |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
@@ -172,10 +172,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 1.3% | 100% |  |
-| 11 | 8% | 98.7% |  |
+| 10 | 1.4% | 100% |  |
+| 11 | 9% | 98.5% |  |
 | 12 | 29% | 90% |  |
-| 13 | 24% | 62% | Median |
+| 13 | 23% | 61% | Median |
 | 14 | 9% | 38% |  |
 | 15 | 11% | 29% |  |
 | 16 | 9% | 17% |  |

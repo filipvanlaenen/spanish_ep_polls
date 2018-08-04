@@ -107,11 +107,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 11–17 | 11–17 | 11–18 | 10–19 |
-| [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
+| [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 15 | 14–15 | 14–15 | 13–16 | 13–16 |
 | [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 17 | 16–19 | 16–19 | 15–19 | 15–19 |
-| [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 13–14 | 12–14 | 12–14 |
+| [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 12–14 | 12–14 | 12–14 |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [1–10 July 2018](2018-07-10-CIS.html) | CIS | 12 | 12–13 | 12–13 | 12–13 | 11–14 |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
@@ -175,12 +175,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 10% | 98% |  |
 | 12 | 17% | 88% |  |
 | 13 | 18% | 71% |  |
-| 14 | 18% | 53% | Median |
-| 15 | 12% | 35% |  |
-| 16 | 11% | 24% |  |
-| 17 | 9% | 12% |  |
+| 14 | 17% | 52% | Median |
+| 15 | 13% | 35% |  |
+| 16 | 12% | 23% |  |
+| 17 | 8% | 11% |  |
 | 18 | 2% | 3% |  |
-| 19 | 1.1% | 1.1% |  |
+| 19 | 1.2% | 1.2% |  |
 | 20 | 0% | 0% |  |
 
 
