@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 Aug 2018 20:18:55 +0200</pubDate>
+    <pubDate>Sun, 05 Aug 2018 10:26:07 +0200</pubDate>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 23–27 July 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-27-NCReport.html#seats</link>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-25-DemoscopiayServicios.png"
         length="285277"
         type="image/png"/>
-      <pubDate>Thu, 02 Aug 2018 17:40:07 +0200</pubDate>
-      <dc:date>2018-08-02T17:40:07.45913+02:00</dc:date>
+      <pubDate>Sun, 05 Aug 2018 10:26:07 +0200</pubDate>
+      <dc:date>2018-08-05T10:26:07.880227+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 17–22 July 2018 – Seat Projections for the Parties</title>
@@ -1219,6 +1219,6 @@
       <pubDate>Sun, 08 Apr 2018 18:55:47 +0200</pubDate>
       <dc:date>2018-04-08T18:55:47.619305+02:00</dc:date>
     </item>
-    <dc:date>2018-08-04T20:18:55.794175+02:00</dc:date>
+    <dc:date>2018-08-05T10:26:07.880227+02:00</dc:date>
   </channel>
 </rss>
