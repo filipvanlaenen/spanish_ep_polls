@@ -112,7 +112,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 15–19 | 15–19 | 15–20 |
 | [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 16 | 15–17 | 15–17 | 15–17 | 14–17 |
-| [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
+| [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 16 | 14–17 | 14–17 | 14–17 | 14–18 |
 | [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 15–17 | 15–17 | 15–18 |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [1–10 July 2018](2018-07-10-CIS.html) | CIS | 19 | 18–19 | 18–19 | 18–19 | 17–20 |
@@ -178,8 +178,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 3% | 99.3% |  |
 | 13 | 3% | 96% |  |
 | 14 | 4% | 93% |  |
-| 15 | 14% | 89% |  |
-| 16 | 33% | 75% | Median |
+| 15 | 15% | 89% |  |
+| 16 | 32% | 74% | Median |
 | 17 | 20% | 42% |  |
 | 18 | 14% | 22% |  |
 | 19 | 7% | 7% |  |
