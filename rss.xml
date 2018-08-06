@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 05 Aug 2018 20:01:44 +0200</pubDate>
+    <pubDate>Mon, 06 Aug 2018 19:46:26 +0200</pubDate>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 23–27 July 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-27-NCReport.html#seats</link>
@@ -190,14 +190,54 @@
       <dc:date>2018-08-05T20:01:44.745137+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by CIS, 1–10 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-10-CIS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 11–14 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17–20 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9–10 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 11–14 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-10-CIS-seats.png"
+        length="194363"
+        type="image/png"/>
+      <pubDate>Mon, 06 Aug 2018 19:46:26 +0200</pubDate>
+      <dc:date>2018-08-06T19:46:26.169677+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CIS, 1–10 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-10-CIS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-10-CIS-coalitions-seats.png"
+        length="127219"
+        type="image/png"/>
+      <pubDate>Mon, 06 Aug 2018 19:46:26 +0200</pubDate>
+      <dc:date>2018-08-06T19:46:26.169677+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by CIS, 1–10 July 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-10-CIS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 18.9–22.0%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 28.1–31.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 14.2–17.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 18.9–22.0%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 3.2–4.7%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0.9–1.8%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.8–1.7%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.4–1.0%&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0.1–0.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-10-CIS.png"
         length="250933"
         type="image/png"/>
-      <pubDate>Thu, 02 Aug 2018 18:02:19 +0200</pubDate>
-      <dc:date>2018-08-02T18:02:19.664546+02:00</dc:date>
+      <pubDate>Mon, 06 Aug 2018 19:46:26 +0200</pubDate>
+      <dc:date>2018-08-06T19:46:26.169677+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 2–6 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-06-SimpleLógica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 15–18 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 14–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-06-SimpleLógica-seats.png"
+        length="134285"
+        type="image/png"/>
+      <pubDate>Mon, 06 Aug 2018 17:58:07 +0200</pubDate>
+      <dc:date>2018-08-06T17:58:07.758916+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 2–6 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-06-SimpleLógica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-06-SimpleLógica-coalitions-seats.png"
+        length="124309"
+        type="image/png"/>
+      <pubDate>Mon, 06 Aug 2018 17:58:07 +0200</pubDate>
+      <dc:date>2018-08-06T17:58:07.758916+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Simple Lógica, 2–6 July 2018 – Voting Intentions</title>
@@ -206,8 +246,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-06-SimpleLógica.png"
         length="178089"
         type="image/png"/>
-      <pubDate>Thu, 02 Aug 2018 17:30:11 +0200</pubDate>
-      <dc:date>2018-08-02T17:30:11.756314+02:00</dc:date>
+      <pubDate>Mon, 06 Aug 2018 17:58:07 +0200</pubDate>
+      <dc:date>2018-08-06T17:58:07.758916+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 2–6 July 2018 – Seat Projections for the Parties</title>
@@ -1319,6 +1359,6 @@
       <pubDate>Sun, 08 Apr 2018 18:55:47 +0200</pubDate>
       <dc:date>2018-04-08T18:55:47.619305+02:00</dc:date>
     </item>
-    <dc:date>2018-08-05T20:01:44.745137+02:00</dc:date>
+    <dc:date>2018-08-06T19:46:26.169677+02:00</dc:date>
   </channel>
 </rss>
