@@ -105,7 +105,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
 | [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–12 | 11–12 | 10–12 | 10–13 |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
-| [1–10 July 2018](2018-07-10-CIS.html) | CIS | 9 | 9–10 | 9–10 | 9–11 | 8–11 |
+| [1–10 July 2018](2018-07-10-CIS.html) | CIS | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
@@ -162,8 +162,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.7% | 100% |  |
 | 8 | 6% | 99.3% |  |
-| 9 | 28% | 93% |  |
-| 10 | 35% | 65% | Median |
+| 9 | 26% | 93% |  |
+| 10 | 37% | 67% | Median |
 | 11 | 18% | 31% |  |
 | 12 | 10% | 13% |  |
 | 13 | 2% | 2% |  |

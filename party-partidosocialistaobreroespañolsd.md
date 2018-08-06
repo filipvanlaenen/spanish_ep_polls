@@ -108,14 +108,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–18 | 13–19 | 12–19 | 11–19 |
+| N/A | [Poll Average](average.html) | 16 | 14–18 | 13–19 | 12–19 | 11–20 |
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 15–19 | 15–19 | 15–20 |
 | [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 16 | 15–17 | 15–17 | 15–17 | 14–17 |
 | [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 16 | 14–17 | 14–17 | 14–18 | 14–18 |
 | [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 15–17 | 15–17 | 15–18 |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
-| [1–10 July 2018](2018-07-10-CIS.html) | CIS | 19 | 18–19 | 18–19 | 18–19 | 17–20 |
+| [1–10 July 2018](2018-07-10-CIS.html) | CIS | 19 | 18–19 | 18–20 | 17–20 | 17–20 |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
@@ -181,9 +181,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 15% | 89% |  |
 | 16 | 34% | 74% | Median |
 | 17 | 21% | 40% |  |
-| 18 | 12% | 19% |  |
-| 19 | 7% | 7% |  |
-| 20 | 0.3% | 0.3% |  |
+| 18 | 13% | 19% |  |
+| 19 | 5% | 6% |  |
+| 20 | 0.7% | 0.7% |  |
 | 21 | 0% | 0% |  |
 
 
