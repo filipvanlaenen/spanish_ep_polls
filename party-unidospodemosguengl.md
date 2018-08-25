@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.6% | 14.6–19.0% | 14.1–19.7% | 13.6–20.4% | 12.7–21.7% |
+| N/A | [Poll Average](average.html) | 16.3% | 14.5–19.1% | 14.0–19.9% | 13.5–20.6% | 12.7–21.8% |
+| [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17.3% | 15.9–18.8% | 15.5–19.3% | 15.2–19.6% | 14.5–20.4% |
+| [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 18.7% | 17.3–20.3% | 16.9–20.8% | 16.5–21.2% | 15.9–21.9% |
+| [1–3 August 2018](2018-08-03-SimpleLógica.html) | Simple Lógica | 15.3% | 13.9–16.8% | 13.5–17.2% | 13.2–17.6% | 12.6–18.4% |
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 15.0% | 13.5–16.8% | 13.1–17.3% | 12.7–17.7% | 12.0–18.5% |
 | [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 16.1% | 15.2–17.1% | 14.9–17.4% | 14.6–17.7% | 14.2–18.2% |
@@ -76,16 +79,16 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.3% | 100% |  |
-| 12.5–13.5% | 2% | 99.7% |  |
-| 13.5–14.5% | 7% | 98% |  |
-| 14.5–15.5% | 16% | 91% |  |
-| 15.5–16.5% | 24% | 75% |  |
-| 16.5–17.5% | 20% | 51% | Median |
-| 17.5–18.5% | 15% | 31% |  |
-| 18.5–19.5% | 9% | 15% |  |
-| 19.5–20.5% | 4% | 6% |  |
-| 20.5–21.5% | 2% | 2% |  |
-| 21.5–22.5% | 0.5% | 0.6% |  |
+| 12.5–13.5% | 2% | 99.6% |  |
+| 13.5–14.5% | 8% | 97% |  |
+| 14.5–15.5% | 19% | 89% |  |
+| 15.5–16.5% | 25% | 70% | Median |
+| 16.5–17.5% | 19% | 45% |  |
+| 17.5–18.5% | 12% | 26% |  |
+| 18.5–19.5% | 7% | 14% |  |
+| 19.5–20.5% | 4% | 7% |  |
+| 20.5–21.5% | 2% | 3% |  |
+| 21.5–22.5% | 0.6% | 0.7% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
@@ -98,7 +101,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–12 | 7–13 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
+| [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 11 | 11 | 11 | 9–11 |
+| [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11 | 11 | 11–12 | 11–12 |
+| [1–3 August 2018](2018-08-03-SimpleLógica.html) | Simple Lógica | 10 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
@@ -160,12 +166,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.7% | 100% |  |
-| 8 | 6% | 99.3% |  |
-| 9 | 26% | 93% |  |
-| 10 | 37% | 67% | Median |
-| 11 | 18% | 31% |  |
-| 12 | 10% | 13% |  |
+| 7 | 0.8% | 100% |  |
+| 8 | 8% | 99.2% |  |
+| 9 | 24% | 91% |  |
+| 10 | 33% | 67% | Median |
+| 11 | 26% | 34% |  |
+| 12 | 6% | 8% |  |
 | 13 | 2% | 2% |  |
 | 14 | 0.3% | 0.3% |  |
 | 15 | 0% | 0% |  |
