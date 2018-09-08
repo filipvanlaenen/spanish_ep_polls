@@ -258,6 +258,8 @@
 
 ### Ciudadanos–Partido de la Ciudadanía (ALDE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE) – Partit Demòcrata Europeu Català (ALDE) – Coalición Canaria (ALDE)
 
+![Graph with seats probability mass function not yet produced](2018-06-22-SocioMétrica-coalitions-seats-pmf-cs–eaj-pnv–pdecat–cc.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -285,6 +287,8 @@
 
 ### Partido Socialista Obrero Español (S&D)
 
+![Graph with seats probability mass function not yet produced](2018-06-22-SocioMétrica-coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -310,6 +314,8 @@
 
 ### Partido Popular (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-06-22-SocioMétrica-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -332,6 +338,8 @@
 
 ### Unidos Podemos (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Euskal Herria Bildu (GUE/NGL)
 
+![Graph with seats probability mass function not yet produced](2018-06-22-SocioMétrica-coalitions-seats-pmf-up–pacma–ehbildu.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -352,6 +360,8 @@
 | 15 | 0% | 0% |  |
 
 ### Vox (*)
+
+![Graph with seats probability mass function not yet produced](2018-06-22-SocioMétrica-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

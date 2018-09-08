@@ -149,6 +149,8 @@
 
 ### Partido Popular (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-04-05-Metroscopia-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -169,6 +171,8 @@
 | 15 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
+
+![Graph with seats probability mass function not yet produced](2018-04-05-Metroscopia-coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

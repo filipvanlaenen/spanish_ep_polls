@@ -236,6 +236,8 @@
 
 ### Partido Socialista Obrero Español (S&D)
 
+![Graph with seats probability mass function not yet produced](2018-07-22-electoPanel-coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -261,6 +263,8 @@
 
 ### Partido Popular (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-07-22-electoPanel-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -283,6 +287,8 @@
 
 ### Unidos Podemos (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Euskal Herria Bildu (GUE/NGL)
 
+![Graph with seats probability mass function not yet produced](2018-07-22-electoPanel-coalitions-seats-pmf-up–pacma–ehbildu.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -303,6 +309,8 @@
 | 15 | 0% | 0% |  |
 
 ### Vox (*)
+
+![Graph with seats probability mass function not yet produced](2018-07-22-electoPanel-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

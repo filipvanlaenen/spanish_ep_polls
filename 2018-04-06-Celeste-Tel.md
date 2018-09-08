@@ -254,6 +254,8 @@
 
 ### Ciudadanos–Partido de la Ciudadanía (ALDE) – Partit Demòcrata Europeu Català (ALDE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE) – Coalición Canaria (ALDE)
 
+![Graph with seats probability mass function not yet produced](2018-04-06-Celeste-Tel-coalitions-seats-pmf-cs–pdecat–eaj-pnv–cc.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -280,6 +282,8 @@
 
 ### Partido Popular (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-04-06-Celeste-Tel-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -304,6 +308,8 @@
 | 19 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
+
+![Graph with seats probability mass function not yet produced](2018-04-06-Celeste-Tel-coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -330,6 +336,8 @@
 
 ### Unidos Podemos (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Euskal Herria Bildu (GUE/NGL)
 
+![Graph with seats probability mass function not yet produced](2018-04-06-Celeste-Tel-coalitions-seats-pmf-up–pacma–ehbildu.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -349,6 +357,8 @@
 | 14 | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya (Greens/EFA) – Bloque Nacionalista Galego (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](2018-04-06-Celeste-Tel-coalitions-seats-pmf-erc–bng.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
