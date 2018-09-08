@@ -12,7 +12,7 @@ The table below lists the polls on which the average is based. They are the most
 | N/A | Poll Average | 18–29% <br> 11–18 | 20–31% <br> 12–19 | 14–21% <br> 8–13 | 18–29% <br> 11–18 | 2–4% <br> 1–2 | 1–3% <br> 0–1 | 1–2% <br> 0–1 | 1–3% <br> 0–1 | 0–2% <br> 0–1 | 0–1% <br> 0 | 1–3% <br> 0–2 | 0–1% <br> 0 |
 | [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 23–28% <br> 15 | 25–31% <br> 18 | 15–20% <br> 11 | 17–22% <br> 11 | 2–4% <br> 2 | 1–3% <br> 0 | 1–2% <br> 1 | 1–2% <br> 0 | 0–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 0–1% <br> 0 |
 | [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 21–25% <br> 13–17 | 22–27% <br> 14–17 | 17–21% <br> 10–13 | 19–24% <br> 12–15 | 2–5% <br> 1–2 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | 1–3% <br> 0–1 | 0–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0–1 | N/A <br> N/A |
-| [1–3 August 2018](2018-08-03-SimpleLógica.html) | Simple Lógica | 22–27% <br> 14–17 | 23–28% <br> 13–17 | 13–18% <br> 8–10 | 21–26% <br> 13–14 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–3 August 2018](2018-08-03-SimpleLógica.html) | Simple Lógica | 22–27% <br> 13–16 | 23–28% <br> 14–17 | 13–18% <br> 8–10 | 21–26% <br> 12–16 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 24–30% <br> 15–18 | 25–30% <br> 15–19 | 14–18% <br> 8–11 | 17–22% <br> 10–13 | 2–4% <br> 1–2 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | 0–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 23–29% <br> 14–18 | 25–31% <br> 15–19 | 13–18% <br> 8–11 | 17–23% <br> 10–14 | 2–4% <br> 1–2 | 1–3% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | 0–2% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 23–26% <br> 13–16 | 25–28% <br> 15–17 | 15–18% <br> 8–10 | 18–22% <br> 11–13 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -362,10 +362,10 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 6% | 99.6% |  |
 | 12 | 14% | 93% |  |
 | 13 | 17% | 80% |  |
-| 14 | 17% | 63% | Median |
-| 15 | 23% | 46% |  |
-| 16 | 11% | 23% |  |
-| 17 | 9% | 12% |  |
+| 14 | 17% | 62% | Median |
+| 15 | 23% | 45% |  |
+| 16 | 11% | 22% |  |
+| 17 | 8% | 12% |  |
 | 18 | 3% | 3% |  |
 | 19 | 0.7% | 0.7% |  |
 | 20 | 0% | 0% |  |
@@ -392,10 +392,10 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 0.6% | 100% |  |
 | 12 | 3% | 99.3% |  |
 | 13 | 3% | 96% |  |
-| 14 | 11% | 93% |  |
-| 15 | 15% | 81% |  |
-| 16 | 24% | 67% | Median |
-| 17 | 19% | 43% |  |
+| 14 | 6% | 93% |  |
+| 15 | 17% | 86% |  |
+| 16 | 26% | 69% | Median |
+| 17 | 20% | 43% |  |
 | 18 | 18% | 24% |  |
 | 19 | 5% | 6% |  |
 | 20 | 0.8% | 0.8% |  |
@@ -418,9 +418,9 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0.8% | 100% |  |
 | 8 | 8% | 99.2% |  |
-| 9 | 24% | 91% |  |
-| 10 | 34% | 67% | Median |
-| 11 | 20% | 33% |  |
+| 9 | 28% | 91% |  |
+| 10 | 29% | 63% | Median |
+| 11 | 21% | 33% |  |
 | 12 | 10% | 13% |  |
 | 13 | 2% | 3% |  |
 | 14 | 0.3% | 0.4% |  |
@@ -447,9 +447,9 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 1.4% | 100% |  |
 | 11 | 17% | 98.5% |  |
 | 12 | 24% | 82% |  |
-| 13 | 20% | 58% | Median |
-| 14 | 16% | 38% |  |
-| 15 | 8% | 22% |  |
+| 13 | 22% | 58% | Median |
+| 14 | 12% | 36% |  |
+| 15 | 9% | 23% |  |
 | 16 | 6% | 14% |  |
 | 17 | 3% | 8% |  |
 | 18 | 3% | 5% |  |
@@ -574,6 +574,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partido Socialista Obrero Español (S&D)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -590,16 +592,18 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 0.6% | 100% |  |
 | 12 | 3% | 99.3% |  |
 | 13 | 3% | 96% |  |
-| 14 | 11% | 93% |  |
-| 15 | 15% | 81% |  |
-| 16 | 24% | 67% | Median |
-| 17 | 19% | 43% |  |
+| 14 | 6% | 93% |  |
+| 15 | 17% | 86% |  |
+| 16 | 26% | 69% | Median |
+| 17 | 20% | 43% |  |
 | 18 | 18% | 24% |  |
 | 19 | 5% | 6% |  |
 | 20 | 0.8% | 0.8% |  |
 | 21 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición Canaria (ALDE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE) – Partit Demòcrata Europeu Català (ALDE)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cs–cc–eaj-pnv–pdecat.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -616,9 +620,9 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 0.4% | 100% |  |
 | 11 | 6% | 99.6% |  |
 | 12 | 25% | 94% |  |
-| 13 | 22% | 69% | Median |
-| 14 | 20% | 47% |  |
-| 15 | 8% | 27% |  |
+| 13 | 24% | 68% | Median |
+| 14 | 16% | 45% |  |
+| 15 | 10% | 29% |  |
 | 16 | 8% | 19% |  |
 | 17 | 3% | 10% |  |
 | 18 | 3% | 8% |  |
@@ -628,6 +632,8 @@ Only polls for which at least the sample size has been published are included in
 | 22 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -645,15 +651,17 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 6% | 99.6% |  |
 | 12 | 14% | 93% |  |
 | 13 | 17% | 80% |  |
-| 14 | 17% | 63% | Median |
-| 15 | 23% | 46% |  |
-| 16 | 11% | 23% |  |
-| 17 | 9% | 12% |  |
+| 14 | 17% | 62% | Median |
+| 15 | 23% | 45% |  |
+| 16 | 11% | 22% |  |
+| 17 | 8% | 12% |  |
 | 18 | 3% | 3% |  |
 | 19 | 0.7% | 0.7% |  |
 | 20 | 0% | 0% |  |
 
 ### Euskal Herria Bildu (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Unidos Podemos (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ehbildu–pacma–up.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -664,10 +672,10 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.7% | 100% |  |
+| 7 | 0.8% | 100% |  |
 | 8 | 8% | 99.2% |  |
-| 9 | 24% | 91% |  |
-| 10 | 31% | 67% | Median |
+| 9 | 28% | 91% |  |
+| 10 | 27% | 63% | Median |
 | 11 | 19% | 36% |  |
 | 12 | 11% | 18% |  |
 | 13 | 5% | 7% |  |
@@ -676,6 +684,8 @@ Only polls for which at least the sample size has been published are included in
 | 16 | 0% | 0% |  |
 
 ### Bloque Nacionalista Galego (Greens/EFA) – Esquerra Republicana de Catalunya (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-bng–erc.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -686,6 +696,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 0% |  |
 
 ### Vox (*)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
