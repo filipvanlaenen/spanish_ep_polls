@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 26 Aug 2018 09:15:19 +0200</pubDate>
+    <pubDate>Sat, 08 Sep 2018 19:24:39 +0200</pubDate>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 1–7 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-08-07-Celeste-Tel.html</link>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-08-03-SimpleLógica.png"
         length="180415"
         type="image/png"/>
-      <pubDate>Sat, 25 Aug 2018 17:59:25 +0200</pubDate>
-      <dc:date>2018-08-25T17:59:25.44898+02:00</dc:date>
+      <pubDate>Sat, 08 Sep 2018 19:24:39 +0200</pubDate>
+      <dc:date>2018-09-08T19:24:39.811639+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 23–27 July 2018 – Seat Projections for the Parties</title>
@@ -1389,6 +1389,6 @@
       <pubDate>Sun, 08 Apr 2018 18:55:47 +0200</pubDate>
       <dc:date>2018-04-08T18:55:47.619305+02:00</dc:date>
     </item>
-    <dc:date>2018-08-26T09:15:19.484387+02:00</dc:date>
+    <dc:date>2018-09-08T19:24:39.811639+02:00</dc:date>
   </channel>
 </rss>
