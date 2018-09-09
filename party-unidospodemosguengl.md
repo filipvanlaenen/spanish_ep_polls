@@ -102,7 +102,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–13 | 7–13 |
-| [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 11 | 11 | 11 | 9–11 |
+| [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 10–11 | 9–11 | 9–12 | 9–12 |
 | [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–12 | 10–13 | 10–13 | 10–13 |
 | [1–3 August 2018](2018-08-03-SimpleLógica.html) | Simple Lógica | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
@@ -168,9 +168,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.8% | 100% |  |
 | 8 | 8% | 99.2% |  |
-| 9 | 28% | 91% |  |
-| 10 | 29% | 63% | Median |
-| 11 | 21% | 33% |  |
+| 9 | 29% | 91% |  |
+| 10 | 31% | 62% | Median |
+| 11 | 18% | 31% |  |
 | 12 | 10% | 13% |  |
 | 13 | 2% | 3% |  |
 | 14 | 0.3% | 0.4% |  |
