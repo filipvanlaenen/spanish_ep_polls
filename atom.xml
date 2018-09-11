@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-09-09T17:57:13.608502+02:00</updated>
+  <updated>2018-09-10T22:18:46.976063+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 23.0–28.2%, 14–17 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 25.4–30.7%, 16–19 seats</li><li>Unidos Podemos (GUE/NGL): 15.2–19.6%, 9–12 seats</li><li>Ciudadanos–Partido de la Ciudadanía (ALDE): 17.1–21.8%, 10–13 seats</li><li>Esquerra Republicana de Catalunya (Greens/EFA): 2.1–4.2%, 1–2 seats</li><li>Partit Demòcrata Europeu Català (ALDE): 1.0–2.6%, 0–1 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.6–1.9%, 0–1 seats</li><li>Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0.6–1.8%, 0–1 seats</li><li>Euskal Herria Bildu (GUE/NGL): 0.5–1.7%, 0–1 seats</li><li>Coalición Canaria (ALDE): 0.1–0.8%, 0 seats</li><li>Bloque Nacionalista Galego (Greens/EFA): 0.0–0.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_ep_polls/2018-08-07-Celeste-Tel.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Celeste-Tel for eldiario.es, 1–7 August 2018</title>
     <updated>2018-09-09T17:57:13.608502+02:00</updated>
     <dc:date>2018-09-09T17:57:13.608502+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 20.5–25.5%, 13–16 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 22.3–27.4%, 14–17 seats</li><li>Unidos Podemos (GUE/NGL): 16.5–21.2%, 10–13 seats</li><li>Ciudadanos–Partido de la Ciudadanía (ALDE): 18.9–23.7%, 12–15 seats</li><li>Esquerra Republicana de Catalunya (Greens/EFA): 2.4–4.5%, 1–2 seats</li><li>Partit Demòcrata Europeu Català (ALDE): 0.8–2.2%, 0–1 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.8–2.1%, 0–1 seats</li><li>Partido Animalista Contra el Maltrato Animal (GUE/NGL): 1.0–2.6%, 0–1 seats</li><li>Euskal Herria Bildu (GUE/NGL): 0.4–1.6%, 0–1 seats</li><li>Vox (*): 0.6–1.8%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2018-08-03-electoPanel.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2018-08-03-electoPanel.html"/>
+    <title>Opinion Poll by electoPanel for electomania.es, 27 July–3 August 2018</title>
+    <updated>2018-09-10T22:18:46.976063+02:00</updated>
+    <dc:date>2018-09-10T22:18:46.976063+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 24.1–29.5%, 15–18 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 24.7–30.3%, 15–19 seats</li><li>Unidos Podemos (GUE/NGL): 13.7–18.2%, 8–11 seats</li><li>Ciudadanos–Partido de la Ciudadanía (ALDE): 16.9–21.8%, 10–13 seats</li><li>Esquerra Republicana de Catalunya (Greens/EFA): 2.2–4.4%, 1–2 seats</li><li>Partit Demòcrata Europeu Català (ALDE): 0.9–2.5%, 0–1 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.7–2.1%, 0–1 seats</li><li>Euskal Herria Bildu (GUE/NGL): 0.4–1.6%, 0 seats</li><li>Coalición Canaria (ALDE): 0.1–0.9%, 0 seats</li></ul></div></content>
@@ -375,5 +383,5 @@
     <updated>2018-04-08T18:55:47.619305+02:00</updated>
     <dc:date>2018-04-08T18:55:47.619305+02:00</dc:date>
   </entry>
-  <dc:date>2018-09-09T17:57:13.608502+02:00</dc:date>
+  <dc:date>2018-09-10T22:18:46.976063+02:00</dc:date>
 </feed>
