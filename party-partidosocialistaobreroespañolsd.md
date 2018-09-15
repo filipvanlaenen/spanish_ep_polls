@@ -115,7 +115,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 15–18 | 15–19 | 14–19 | 14–20 |
 | [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
-| [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 16–17 | 15–17 | 15–17 | 14–18 |
+| [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–18 | 15–18 | 15–18 | 14–18 |
 | [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–18 | 16–19 | 16–19 | 16–20 |
 | [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [1–3 August 2018](2018-08-03-SimpleLógica.html) | Simple Lógica | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
@@ -188,10 +188,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0.3% | 100% |  |
 | 14 | 4% | 99.7% |  |
-| 15 | 18% | 96% |  |
-| 16 | 31% | 78% | Median |
-| 17 | 25% | 46% |  |
-| 18 | 13% | 21% |  |
+| 15 | 19% | 96% |  |
+| 16 | 31% | 77% | Median |
+| 17 | 24% | 46% |  |
+| 18 | 14% | 22% |  |
 | 19 | 7% | 8% |  |
 | 20 | 0.9% | 0.9% |  |
 | 21 | 0% | 0% |  |
