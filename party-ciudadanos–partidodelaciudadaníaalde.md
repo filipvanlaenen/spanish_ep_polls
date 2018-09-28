@@ -11,6 +11,14 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.0% | 18.8–24.2% | 18.1–24.9% | 17.6–25.5% | 16.7–26.6% |
+| [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 20.8% | 19.3–22.5% | 18.9–22.9% | 18.5–23.3% | 17.8–24.1% |
+| [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 22.7% | 21.1–24.5% | 20.6–25.0% | 20.2–25.4% | 19.5–26.3% |
+| [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 23.9% | 22.3–25.7% | 21.8–26.2% | 21.4–26.6% | 20.6–27.5% |
+| [1–11 September 2018](2018-09-11-CIS.html) | CIS | 19.6% | 18.7–20.6% | 18.4–20.9% | 18.2–21.1% | 17.8–21.6% |
+| [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 19.8% | 18.3–21.5% | 17.9–21.9% | 17.5–22.3% | 16.8–23.2% |
+| [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica | 23.2% | 21.5–24.9% | 21.1–25.4% | 20.7–25.9% | 19.9–26.7% |
+| [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 20.6% | 19.0–22.3% | 18.6–22.8% | 18.2–23.2% | 17.5–24.0% |
+| [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18.7% | 17.3–20.3% | 16.9–20.8% | 16.5–21.2% | 15.9–21.9% |
 | [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 18.8% | 17.3–20.5% | 16.9–20.9% | 16.5–21.4% | 15.8–22.2% |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 23.1% | 21.6–24.7% | 21.1–25.2% | 20.8–25.6% | 20.1–26.4% |
 | [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 19.4% | 17.9–21.0% | 17.5–21.4% | 17.1–21.8% | 16.4–22.6% |
@@ -109,6 +117,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 11–15 | 11–15 | 10–16 | 10–16 |
+| [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
+| [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 14 | 12–14 | 12–15 | 12–15 | 12–16 |
+| [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 15 | 14–15 | 14–15 | 14–15 | 13–16 |
+| [1–11 September 2018](2018-09-11-CIS.html) | CIS | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
+| [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–13 | 12–14 | 11–14 | 10–14 |
+| [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
+| [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
+| [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 11–13 | 11–13 | 10–13 | 10–13 |
 | [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 11 | 10–12 | 10–13 | 10–13 | 10–14 |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 13–16 | 13–16 | 13–16 | 13–17 |
 | [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 11–13 | 10–13 | 10–13 | 10–14 |
