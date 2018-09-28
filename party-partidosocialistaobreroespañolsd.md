@@ -124,12 +124,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 16 | 15–18 | 15–19 | 14–19 | 14–20 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
-| [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–18 | 16–18 | 14–18 |
+| [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [1–11 September 2018](2018-09-11-CIS.html) | CIS | 19 | 18–19 | 18–20 | 18–20 | 18–20 |
 | [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–16 | 14–17 | 14–18 |
 | [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
-| [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 16–20 | 16–20 | 16–20 | 16–20 |
+| [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 16–19 | 16–19 | 16–20 | 15–20 |
 | [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–18 | 15–18 | 15–18 | 14–18 |
 | [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–18 | 16–19 | 16–19 | 16–20 |
