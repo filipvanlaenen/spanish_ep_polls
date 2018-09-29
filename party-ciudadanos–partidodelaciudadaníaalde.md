@@ -118,9 +118,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 11–15 | 11–16 | 11–16 | 10–16 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
-| [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 14 | 12–14 | 12–15 | 12–15 | 12–16 |
+| [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [1–11 September 2018](2018-09-11-CIS.html) | CIS | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
+| [1–11 September 2018](2018-09-11-CIS.html) | CIS | 12 | 12–13 | 11–13 | 11–13 | 11–13 |
 | [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 13 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
@@ -195,11 +195,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0.1% | 100% |  |
 | 10 | 2% | 99.9% |  |
-| 11 | 13% | 98% |  |
-| 12 | 25% | 85% |  |
+| 11 | 12% | 98% |  |
+| 12 | 26% | 86% |  |
 | 13 | 26% | 60% | Median |
-| 14 | 18% | 35% |  |
-| 15 | 10% | 16% |  |
+| 14 | 17% | 34% |  |
+| 15 | 11% | 17% |  |
 | 16 | 6% | 6% |  |
 | 17 | 0.5% | 0.5% |  |
 | 18 | 0% | 0% |  |
