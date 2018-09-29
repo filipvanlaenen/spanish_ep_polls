@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.9% | 24.5–29.7% | 23.9–30.4% | 23.4–30.9% | 22.4–31.8% |
+| N/A | [Poll Average](average.html) | 26.7% | 24.3–29.7% | 23.7–30.5% | 23.2–31.1% | 22.2–31.9% |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 27.7% | 26.0–29.5% | 25.5–30.0% | 25.1–30.4% | 24.3–31.3% |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 26.5% | 24.8–28.4% | 24.3–28.9% | 23.9–29.4% | 23.1–30.3% |
 | [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 26.5% | 24.8–28.3% | 24.3–28.8% | 23.9–29.3% | 23.0–30.2% |
@@ -98,17 +98,17 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.6% | 99.9% |  |
-| 22.5–23.5% | 3% | 99.3% |  |
-| 23.5–24.5% | 7% | 97% |  |
-| 24.5–25.5% | 14% | 89% |  |
-| 25.5–26.5% | 19% | 76% |  |
-| 26.5–27.5% | 19% | 57% | Median |
-| 27.5–28.5% | 15% | 37% |  |
-| 28.5–29.5% | 11% | 23% |  |
-| 29.5–30.5% | 8% | 12% |  |
-| 30.5–31.5% | 3% | 4% |  |
-| 31.5–32.5% | 0.7% | 0.8% |  |
+| 21.5–22.5% | 0.8% | 99.9% |  |
+| 22.5–23.5% | 3% | 99.1% |  |
+| 23.5–24.5% | 9% | 96% |  |
+| 24.5–25.5% | 15% | 87% |  |
+| 25.5–26.5% | 20% | 72% |  |
+| 26.5–27.5% | 19% | 52% | Median |
+| 27.5–28.5% | 14% | 33% |  |
+| 28.5–29.5% | 9% | 20% |  |
+| 29.5–30.5% | 6% | 11% |  |
+| 30.5–31.5% | 4% | 5% |  |
+| 31.5–32.5% | 1.0% | 1.0% |  |
 | 32.5–33.5% | 0.1% | 0.1% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
@@ -121,14 +121,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 15–19 | 14–19 | 14–20 |
+| N/A | [Poll Average](average.html) | 16 | 15–19 | 14–19 | 14–19 | 13–20 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [1–11 September 2018](2018-09-11-CIS.html) | CIS | 19 | 18–19 | 18–20 | 18–20 | 18–20 |
-| [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–16 | 14–17 | 14–18 |
+| [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
+| [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 16–19 | 16–19 | 16–20 | 15–20 |
 | [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–18 | 15–18 | 15–18 | 14–18 |
@@ -202,14 +202,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.3% | 100% |  |
-| 14 | 4% | 99.7% |  |
-| 15 | 19% | 96% |  |
-| 16 | 31% | 77% | Median |
-| 17 | 25% | 46% |  |
-| 18 | 14% | 22% |  |
-| 19 | 7% | 8% |  |
-| 20 | 0.9% | 0.9% |  |
+| 13 | 0.8% | 100% |  |
+| 14 | 6% | 99.2% |  |
+| 15 | 19% | 93% |  |
+| 16 | 30% | 74% | Median |
+| 17 | 21% | 43% |  |
+| 18 | 11% | 22% |  |
+| 19 | 10% | 11% |  |
+| 20 | 0.8% | 0.8% |  |
 | 21 | 0% | 0% |  |
 
 

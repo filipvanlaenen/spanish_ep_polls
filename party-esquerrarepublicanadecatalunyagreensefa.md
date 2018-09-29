@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.3–4.0% | 2.1–4.2% | 2.0–4.4% | 1.7–4.8% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.3–4.0% | 2.2–4.3% | 2.0–4.5% | 1.7–4.9% |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 0.0% | N/A | N/A | N/A | N/A |
 | [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 2.8% | 2.2–3.6% | 2.0–3.8% | 1.9–4.0% | 1.7–4.4% |
@@ -77,10 +77,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.2% | 100% |  |
-| 1.5–2.5% | 18% | 99.8% |  |
-| 2.5–3.5% | 55% | 82% | Median |
-| 3.5–4.5% | 25% | 26% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 19% | 99.9% |  |
+| 2.5–3.5% | 56% | 81% | Median |
+| 3.5–4.5% | 23% | 25% |  |
 | 4.5–5.5% | 2% | 2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -93,12 +93,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
 | [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–11 September 2018](2018-09-11-CIS.html) | CIS | 2 | 2 | 2 | 2 | 2–3 |
-| [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -161,10 +161,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 47% | 99.8% |  |
-| 2 | 52% | 53% | Median |
-| 3 | 0.8% | 0.8% |  |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 52% | 99.9% | Median |
+| 2 | 47% | 48% |  |
+| 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
 

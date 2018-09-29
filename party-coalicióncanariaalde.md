@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.8% | 0.1–0.9% | 0.1–1.0% | 0.1–1.3% |
+| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.8% | 0.1–0.9% | 0.1–1.0% | 0.1–1.2% |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 0.0% | N/A | N/A | N/A | N/A |
 | [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 0.0% | N/A | N/A | N/A | N/A |
