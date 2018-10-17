@@ -124,9 +124,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–17 | 12–18 | 12–18 | 11–19 |
-| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 17 | 16–17 | 16–18 | 16–18 | 15–19 |
-| [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
-| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 15–17 | 14–18 | 14–19 |
+| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
+| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 15–17 | 15–17 | 15–18 | 14–19 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 14 | 13–15 | 13–15 | 12–16 | 12–16 |

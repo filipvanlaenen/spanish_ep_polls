@@ -126,10 +126,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 15–19 | 14–19 | 14–19 | 13–20 |
-| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 15–17 | 15–18 | 15–19 |
-| [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 16 | 14–16 | 13–16 | 13–17 | 13–17 |
-| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–19 | 16–19 | 16–19 | 15–19 |
-| [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
+| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
+| [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
+| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 16–19 | 16–19 | 16–19 | 16–19 |
+| [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
