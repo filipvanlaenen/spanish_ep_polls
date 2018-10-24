@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 17 Oct 2018 12:45:07 +0200</pubDate>
+    <pubDate>Wed, 24 Oct 2018 19:50:29 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Metroscopia for Henneo, 16–18 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-18-Metroscopia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 20.6–24.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 23.1–27.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 15.9–19.7%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 17.3–21.2%&lt;/li&gt;&lt;li&gt;Vox (*): 4.1–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-18-Metroscopia.png"
+        length="187408"
+        type="image/png"/>
+      <pubDate>Wed, 24 Oct 2018 19:50:29 +0200</pubDate>
+      <dc:date>2018-10-24T19:50:29.610836+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 1–11 October 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-11-NCReport.html#seats</link>
@@ -1869,6 +1879,6 @@
       <pubDate>Sun, 08 Apr 2018 18:55:47 +0200</pubDate>
       <dc:date>2018-04-08T18:55:47.619305+02:00</dc:date>
     </item>
-    <dc:date>2018-10-17T12:45:07.859579+02:00</dc:date>
+    <dc:date>2018-10-24T19:50:29.610836+02:00</dc:date>
   </channel>
 </rss>
