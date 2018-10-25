@@ -385,8 +385,8 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.5% | 100% |  |
-| 14 | 7% | 99.4% |  |
+| 13 | 0.6% | 100% |  |
+| 14 | 8% | 99.4% |  |
 | 15 | 23% | 92% |  |
 | 16 | 30% | 69% | Median |
 | 17 | 16% | 39% |  |
@@ -414,7 +414,7 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 100% |  |
 | 8 | 2% | 100% |  |
 | 9 | 21% | 97% |  |
-| 10 | 48% | 77% | Median |
+| 10 | 48% | 76% | Median |
 | 11 | 22% | 29% |  |
 | 12 | 6% | 7% |  |
 | 13 | 0.3% | 0.3% |  |
@@ -460,7 +460,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 45% | 63% | Median |
 | 2 | 9% | 18% |  |
 | 3 | 9% | 9% |  |
-| 4 | 0.1% | 0.1% |  |
+| 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya (Greens/EFA)
@@ -584,8 +584,8 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.5% | 100% |  |
-| 14 | 7% | 99.4% |  |
+| 13 | 0.6% | 100% |  |
+| 14 | 8% | 99.4% |  |
 | 15 | 23% | 92% |  |
 | 16 | 30% | 69% | Median |
 | 17 | 16% | 39% |  |
@@ -639,7 +639,7 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 1.4% | 100% |  |
+| 10 | 1.5% | 100% |  |
 | 11 | 7% | 98.5% |  |
 | 12 | 15% | 92% |  |
 | 13 | 34% | 77% |  |
@@ -665,7 +665,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 1.5% | 100% |  |
-| 9 | 15% | 98% |  |
+| 9 | 16% | 98% |  |
 | 10 | 41% | 83% |  |
 | 11 | 31% | 42% | Median |
 | 12 | 8% | 11% |  |
@@ -702,6 +702,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 11
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 10,616,832
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 11,534,336
 + **Error estimate:** 4.13%
