@@ -129,7 +129,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–17 | 11–17 | 11–17 | 11–18 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
-| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–15 | 14–16 | 13–16 |
+| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 15 | 13–15 | 13–15 | 13–16 | 13–16 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 13 | 13–14 | 12–15 | 12–15 | 12–15 |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 11 | 11–12 | 11–12 | 11–12 | 11–13 |
@@ -216,9 +216,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.1% | 100% |  |
 | 11 | 9% | 99.9% |  |
 | 12 | 9% | 91% |  |
-| 13 | 17% | 82% |  |
-| 14 | 21% | 65% | Median |
-| 15 | 20% | 44% |  |
+| 13 | 18% | 82% |  |
+| 14 | 22% | 64% | Median |
+| 15 | 18% | 43% |  |
 | 16 | 11% | 24% |  |
 | 17 | 11% | 13% |  |
 | 18 | 2% | 2% |  |
