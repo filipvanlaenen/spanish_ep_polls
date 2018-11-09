@@ -126,10 +126,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 11–15 | 11–15 | 11–16 | 10–16 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
-| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–15 | 13–15 | 13–15 | 12–16 |
+| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 11 | 11–12 | 10–12 | 10–13 | 10–13 |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 12 | 10–13 | 10–13 | 10–13 | 10–14 |
-| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 13 | 12–13 | 12–14 | 12–14 | 12–14 |
+| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 13 | 12–14 | 12–14 | 12–14 | 12–15 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
@@ -213,8 +213,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 2% | 100% |  |
 | 11 | 10% | 98% |  |
 | 12 | 23% | 88% |  |
-| 13 | 35% | 65% | Median |
-| 14 | 17% | 30% |  |
+| 13 | 34% | 65% | Median |
+| 14 | 18% | 31% |  |
 | 15 | 8% | 13% |  |
 | 16 | 4% | 5% |  |
 | 17 | 0.3% | 0.3% |  |
