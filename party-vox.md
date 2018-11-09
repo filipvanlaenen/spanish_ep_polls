@@ -104,7 +104,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
