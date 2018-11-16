@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26.2% | 23.4–29.9% | 22.1–31.5% | 21.3–32.1% | 20.0–33.0% |
+| [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 24.1% | 22.5–25.9% | 22.0–26.4% | 21.6–26.9% | 20.8–27.7% |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 26.5% | 24.8–28.3% | 24.3–28.9% | 23.9–29.3% | 23.0–30.2% |
+| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 26.9% | 25.2–28.7% | 24.8–29.2% | 24.4–29.6% | 23.6–30.5% |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 25.2% | 23.5–27.2% | 23.0–27.7% | 22.5–28.2% | 21.7–29.1% |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 22.0% | 20.4–23.7% | 20.0–24.2% | 19.6–24.6% | 18.8–25.5% |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 25.2% | 23.8–26.6% | 23.4–27.0% | 23.1–27.4% | 22.5–28.1% |
@@ -131,6 +134,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–19 | 14–20 | 13–20 | 13–21 |
+| [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 13 | 13–14 | 13–14 | 13–15 | 12–16 |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 15 | 15–16 | 15–16 | 14–16 | 14–16 |
+| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 16 | 16 | 16–17 | 16–17 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–16 | 13–16 | 12–16 | 12–16 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
