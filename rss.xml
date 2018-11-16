@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 09 Nov 2018 12:54:52 +0100</pubDate>
+    <pubDate>Fri, 16 Nov 2018 18:44:41 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 2–14 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-14-SimpleLógica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.3–22.2%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 21.6–26.9%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 15.8–20.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 19.9–25.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-14-SimpleLógica.png"
+        length="179193"
+        type="image/png"/>
+      <pubDate>Fri, 16 Nov 2018 18:27:11 +0100</pubDate>
+      <dc:date>2018-11-16T18:27:11.519634+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 5–9 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-09-NCReport.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 23.7–29.1%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 23.9–29.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 14.8–19.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 17.5–22.5%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 2.0–4.1%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Vox (*): 1.4–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-09-NCReport.png"
+        length="299500"
+        type="image/png"/>
+      <pubDate>Fri, 16 Nov 2018 18:38:07 +0100</pubDate>
+      <dc:date>2018-11-16T18:38:07.483327+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 5–9 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-09-Celeste-Tel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 23.3–28.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 24.4–29.6%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 15.2–19.6%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 18.1–22.8%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 2.0–4.0%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Vox (*): 1.0–2.5%&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego (Greens/EFA): 0.0–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-09-Celeste-Tel.png"
+        length="337488"
+        type="image/png"/>
+      <pubDate>Fri, 16 Nov 2018 18:44:41 +0100</pubDate>
+      <dc:date>2018-11-16T18:44:41.546838+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 22–30 October 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-30-GESOP.html#seats</link>
@@ -1989,6 +2019,6 @@
       <pubDate>Sun, 08 Apr 2018 18:55:47 +0200</pubDate>
       <dc:date>2018-04-08T18:55:47.619305+02:00</dc:date>
     </item>
-    <dc:date>2018-11-09T12:54:52.971638+01:00</dc:date>
+    <dc:date>2018-11-16T18:44:41.546838+01:00</dc:date>
   </channel>
 </rss>
