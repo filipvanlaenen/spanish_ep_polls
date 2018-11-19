@@ -134,9 +134,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–19 | 14–20 | 13–20 | 13–21 |
-| [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
+| [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
-| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–18 | 15–18 | 15–18 | 15–19 |
+| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–18 | 15–18 | 15–18 | 15–20 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–16 | 13–16 | 12–16 | 12–16 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
