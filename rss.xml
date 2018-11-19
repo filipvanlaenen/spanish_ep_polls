@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 17 Nov 2018 12:00:06 +0100</pubDate>
+    <pubDate>Mon, 19 Nov 2018 18:16:18 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 2–14 November 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-14-SimpleLógica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 12–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-14-SimpleLógica-seats.png"
+        length="155476"
+        type="image/png"/>
+      <pubDate>Mon, 19 Nov 2018 18:16:18 +0100</pubDate>
+      <dc:date>2018-11-19T18:16:18.342928+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 2–14 November 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-14-SimpleLógica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-14-SimpleLógica-coalitions-seats.png"
+        length="141477"
+        type="image/png"/>
+      <pubDate>Mon, 19 Nov 2018 18:16:18 +0100</pubDate>
+      <dc:date>2018-11-19T18:16:18.342928+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Simple Lógica, 2–14 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-14-SimpleLógica.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-14-SimpleLógica.png"
         length="179193"
         type="image/png"/>
-      <pubDate>Fri, 16 Nov 2018 19:53:04 +0100</pubDate>
-      <dc:date>2018-11-16T19:53:04.355122+01:00</dc:date>
+      <pubDate>Mon, 19 Nov 2018 18:16:18 +0100</pubDate>
+      <dc:date>2018-11-19T18:16:18.342928+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 5–9 November 2018 – Seat Projections for the Parties</title>
@@ -50,14 +70,34 @@
       <dc:date>2018-11-17T12:00:06.101945+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 5–9 November 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-09-Celeste-Tel.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 14–18 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 15–18 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 11–14 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Vox (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-09-Celeste-Tel-seats.png"
+        length="257049"
+        type="image/png"/>
+      <pubDate>Mon, 19 Nov 2018 18:01:31 +0100</pubDate>
+      <dc:date>2018-11-19T18:01:31.103128+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 5–9 November 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-09-Celeste-Tel.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-09-Celeste-Tel-coalitions-seats.png"
+        length="157916"
+        type="image/png"/>
+      <pubDate>Mon, 19 Nov 2018 18:01:31 +0100</pubDate>
+      <dc:date>2018-11-19T18:01:31.103128+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 5–9 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-09-Celeste-Tel.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 23.3–28.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 24.4–29.6%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 15.2–19.6%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 18.1–22.8%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 2.0–4.0%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Vox (*): 1.0–2.5%&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego (Greens/EFA): 0.0–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-09-Celeste-Tel.png"
         length="337488"
         type="image/png"/>
-      <pubDate>Fri, 16 Nov 2018 23:31:21 +0100</pubDate>
-      <dc:date>2018-11-16T23:31:21.003614+01:00</dc:date>
+      <pubDate>Mon, 19 Nov 2018 18:01:31 +0100</pubDate>
+      <dc:date>2018-11-19T18:01:31.103128+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 22–30 October 2018 – Seat Projections for the Parties</title>
@@ -2039,6 +2079,6 @@
       <pubDate>Sun, 08 Apr 2018 18:55:47 +0200</pubDate>
       <dc:date>2018-04-08T18:55:47.619305+02:00</dc:date>
     </item>
-    <dc:date>2018-11-17T12:00:06.101945+01:00</dc:date>
+    <dc:date>2018-11-19T18:16:18.342928+01:00</dc:date>
   </channel>
 </rss>
