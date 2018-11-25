@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.1–4.9% | 1.0–5.3% | 0.8–5.6% | 0.6–6.2% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.3–4.9% | 1.2–5.3% | 1.1–5.6% | 0.9–6.2% |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1.5% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% | 0.8–2.8% |
@@ -87,10 +87,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.2% | 100% | Last Result |
-| 0.5–1.5% | 29% | 99.8% |  |
-| 1.5–2.5% | 27% | 71% | Median |
-| 2.5–3.5% | 15% | 44% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 23% | 100% |  |
+| 1.5–2.5% | 32% | 77% | Median |
+| 2.5–3.5% | 17% | 46% |  |
 | 3.5–4.5% | 15% | 29% |  |
 | 4.5–5.5% | 11% | 15% |  |
 | 5.5–6.5% | 3% | 3% |  |
@@ -185,9 +185,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 29% | 100% | Last Result |
-| 1 | 35% | 71% | Median |
-| 2 | 24% | 35% |  |
+| 0 | 21% | 100% | Last Result |
+| 1 | 44% | 79% | Median |
+| 2 | 24% | 36% |  |
 | 3 | 11% | 11% |  |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |

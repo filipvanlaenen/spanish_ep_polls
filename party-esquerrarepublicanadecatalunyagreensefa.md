@@ -88,10 +88,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 15% | 100% |  |
-| 2.5–3.5% | 56% | 85% | Median |
-| 3.5–4.5% | 25% | 29% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 17% | 99.9% |  |
+| 2.5–3.5% | 55% | 83% | Median |
+| 3.5–4.5% | 24% | 28% |  |
 | 4.5–5.5% | 4% | 4% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -104,7 +104,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -184,9 +184,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 54% | 99.9% | Median |
-| 2 | 42% | 46% |  |
-| 3 | 4% | 4% |  |
+| 1 | 47% | 99.9% |  |
+| 2 | 49% | 53% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 
