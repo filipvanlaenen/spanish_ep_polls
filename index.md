@@ -34,7 +34,7 @@ Only polls for which at least the sample size has been published are included in
 + **PACMA:** Partido Animalista Contra el Maltrato Animal (GUE/NGL)
 + **EH Bildu:** Euskal Herria Bildu (GUE/NGL)
 + **CC:** Coalición Canaria (ALDE)
-+ **Vox:** Vox (*)
++ **Vox:** Vox (ECR)
 + **BNG:** Bloque Nacionalista Galego (Greens/EFA)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
