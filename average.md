@@ -38,7 +38,7 @@ Only polls for which at least the sample size has been published are included in
 + **PACMA:** Partido Animalista Contra el Maltrato Animal (GUE/NGL)
 + **EH Bildu:** Euskal Herria Bildu (GUE/NGL)
 + **CC:** Coalición Canaria (ALDE)
-+ **Vox:** Vox (*)
++ **Vox:** Vox (ECR)
 + **BNG:** Bloque Nacionalista Galego (Greens/EFA)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
@@ -61,7 +61,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#partido-animalista-contra-el-maltrato-animal-(gue/ngl)">Partido Animalista Contra el Maltrato Animal (GUE/NGL)</a> | 0.0% | 1.5% | 0.9–2.2% |0.7–2.5% | 0.6–2.7% | 0.5–3.1% |
 | <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0.0% | 0.8% | 0.5–1.2% |0.4–1.3% | 0.4–1.4% | 0.3–1.7% |
 | <a href="#coalición-canaria-(alde)">Coalición Canaria (ALDE)</a> | 0.0% | 0.3% | 0.1–0.7% |0.1–0.8% | 0.1–0.9% | 0.0–1.1% |
-| <a href="#vox-(*)">Vox (*)</a> | 0.0% | 2.3% | 1.3–4.9% |1.2–5.3% | 1.1–5.6% | 0.9–6.2% |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0.0% | 2.3% | 1.3–4.9% |1.2–5.3% | 1.1–5.6% | 0.9–6.2% |
 | <a href="#bloque-nacionalista-galego-(greens/efa)">Bloque Nacionalista Galego (Greens/EFA)</a> | 0.0% | 0.3% | 0.1–0.6% |0.1–0.7% | 0.1–0.8% | 0.0–1.0% |
 
 ### Partido Popular (EPP)
@@ -273,9 +273,9 @@ Only polls for which at least the sample size has been published are included in
 | 0.5–1.5% | 21% | 21% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
-### Vox (*)
+### Vox (ECR)
 
-*For a full overview of the results for this party, see the [Vox (*)](party-vox.html) page.*
+*For a full overview of the results for this party, see the [Vox (ECR)](party-voxecr.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -331,7 +331,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#partido-animalista-contra-el-maltrato-animal-(gue/ngl)">Partido Animalista Contra el Maltrato Animal (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–2 |
 | <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
 | <a href="#coalición-canaria-(alde)">Coalición Canaria (ALDE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#vox-(*)">Vox (*)</a> | 0 | 1 | 0–3 |0–3 | 0–3 | 0–3 |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 1 | 0–3 |0–3 | 0–3 | 0–3 |
 | <a href="#bloque-nacionalista-galego-(greens/efa)">Bloque Nacionalista Galego (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 
 ### Partido Popular (EPP)
@@ -511,11 +511,11 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 
-### Vox (*)
+### Vox (ECR)
 
-*For a full overview of the results for this party, see the [Vox (*)](party-vox.html) page.*
+*For a full overview of the results for this party, see the [Vox (ECR)](party-voxecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-vox.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-voxecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -563,7 +563,7 @@ Only polls for which at least the sample size has been published are included in
 | Partido Popular (EPP) | 0 | 14 | 0% | 11–16 | 11–17 | 11–17 | 10–18 |
 | Euskal Herria Bildu (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Unidos Podemos (GUE/NGL) | 0 | 10 | 0% | 9–12 | 9–12 | 9–12 | 8–13 |
 | Bloque Nacionalista Galego (Greens/EFA) – Esquerra Republicana de Catalunya (Greens/EFA) | 0 | 1 | 0% | 0–2 | 0–2 | 0–3 | 0–3 |
-| Vox (*) | 0 | 1 | 0% | 0–2 | 0–3 | 0–3 | 0–3 |
+| Vox (ECR) | 0 | 1 | 0% | 0–2 | 0–3 | 0–3 | 0–3 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -685,7 +685,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
-### Vox (*)
+### Vox (ECR)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
 
