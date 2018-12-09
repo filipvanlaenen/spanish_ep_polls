@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 19 Nov 2018 18:16:18 +0100</pubDate>
+    <pubDate>Sun, 09 Dec 2018 18:00:39 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 3–4 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-04-electoPanel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.2–21.1%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17.4–21.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 15.7–19.6%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 19.4–23.5%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 2.3–4.1%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 1.1–2.3%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.8–2.0%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 1.1–2.3%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Vox (ECR): 9.0–12.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-04-electoPanel.png"
+        length="313668"
+        type="image/png"/>
+      <pubDate>Sun, 09 Dec 2018 18:00:39 +0100</pubDate>
+      <dc:date>2018-12-09T18:00:39.366304+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Simple Lógica, 2–14 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-14-SimpleLógica.html#seats</link>
@@ -2079,6 +2089,6 @@
       <pubDate>Sun, 08 Apr 2018 18:55:47 +0200</pubDate>
       <dc:date>2018-04-08T18:55:47.619305+02:00</dc:date>
     </item>
-    <dc:date>2018-11-19T18:16:18.342928+01:00</dc:date>
+    <dc:date>2018-12-09T18:00:39.366304+01:00</dc:date>
   </channel>
 </rss>
