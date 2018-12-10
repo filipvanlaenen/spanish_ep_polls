@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 09 Dec 2018 18:00:39 +0100</pubDate>
+    <pubDate>Sun, 09 Dec 2018 23:00:35 +0100</pubDate>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 3–4 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-04-electoPanel.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-04-electoPanel.png"
         length="313668"
         type="image/png"/>
-      <pubDate>Sun, 09 Dec 2018 18:00:39 +0100</pubDate>
-      <dc:date>2018-12-09T18:00:39.366304+01:00</dc:date>
+      <pubDate>Sun, 09 Dec 2018 23:00:35 +0100</pubDate>
+      <dc:date>2018-12-09T23:00:35.032755+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Simple Lógica, 2–14 November 2018 – Seat Projections for the Parties</title>
@@ -2089,6 +2089,6 @@
       <pubDate>Sun, 08 Apr 2018 18:55:47 +0200</pubDate>
       <dc:date>2018-04-08T18:55:47.619305+02:00</dc:date>
     </item>
-    <dc:date>2018-12-09T18:00:39.366304+01:00</dc:date>
+    <dc:date>2018-12-09T23:00:35.032755+01:00</dc:date>
   </channel>
 </rss>
