@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 09 Dec 2018 23:00:35 +0100</pubDate>
+    <pubDate>Mon, 10 Dec 2018 19:22:10 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 3–4 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-04-electoPanel.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 11–13 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 12–15 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-04-electoPanel-seats.png"
+        length="257531"
+        type="image/png"/>
+      <pubDate>Mon, 10 Dec 2018 19:22:10 +0100</pubDate>
+      <dc:date>2018-12-10T19:22:10.119021+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 3–4 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-04-electoPanel.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-04-electoPanel-coalitions-seats.png"
+        length="160622"
+        type="image/png"/>
+      <pubDate>Mon, 10 Dec 2018 19:22:10 +0100</pubDate>
+      <dc:date>2018-12-10T19:22:10.119021+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 3–4 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-04-electoPanel.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-04-electoPanel.png"
         length="313668"
         type="image/png"/>
-      <pubDate>Sun, 09 Dec 2018 23:00:35 +0100</pubDate>
-      <dc:date>2018-12-09T23:00:35.032755+01:00</dc:date>
+      <pubDate>Mon, 10 Dec 2018 19:22:10 +0100</pubDate>
+      <dc:date>2018-12-10T19:22:10.119021+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Simple Lógica, 2–14 November 2018 – Seat Projections for the Parties</title>
@@ -2089,6 +2109,6 @@
       <pubDate>Sun, 08 Apr 2018 18:55:47 +0200</pubDate>
       <dc:date>2018-04-08T18:55:47.619305+02:00</dc:date>
     </item>
-    <dc:date>2018-12-09T23:00:35.032755+01:00</dc:date>
+    <dc:date>2018-12-10T19:22:10.119021+01:00</dc:date>
   </channel>
 </rss>
