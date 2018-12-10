@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-11-19T18:16:18.342928+01:00</updated>
+  <updated>2018-12-10T19:22:10.119021+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 17.2–21.1%, 10–13 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 17.4–21.3%, 11–13 seats</li><li>Unidos Podemos (GUE/NGL): 15.7–19.6%, 9–12 seats</li><li>Ciudadanos–Partido de la Ciudadanía (ALDE): 19.4–23.5%, 12–15 seats</li><li>Esquerra Republicana de Catalunya (Greens/EFA): 2.3–4.1%, 1–2 seats</li><li>Partit Demòcrata Europeu Català (ALDE): 1.1–2.3%, 0–1 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.8–2.0%, 0–1 seats</li><li>Partido Animalista Contra el Maltrato Animal (GUE/NGL): 1.1–2.3%, 0–1 seats</li><li>Euskal Herria Bildu (GUE/NGL): 0.4–1.4%, 0 seats</li><li>Vox (ECR): 9.0–12.0%, 5–7 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-04-electoPanel.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-04-electoPanel.html"/>
+    <title>Opinion Poll by electoPanel for electomania.es, 3–4 December 2018</title>
+    <updated>2018-12-10T19:22:10.119021+01:00</updated>
+    <dc:date>2018-12-10T19:22:10.119021+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 17.3–22.2%, 10–13 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 21.6–26.9%, 13–16 seats</li><li>Unidos Podemos (GUE/NGL): 15.8–20.5%, 9–12 seats</li><li>Ciudadanos–Partido de la Ciudadanía (ALDE): 19.9–25.0%, 12–15 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-14-SimpleLógica.html</id>
@@ -559,5 +567,5 @@
     <updated>2018-04-08T18:55:47.619305+02:00</updated>
     <dc:date>2018-04-08T18:55:47.619305+02:00</dc:date>
   </entry>
-  <dc:date>2018-11-19T18:16:18.342928+01:00</dc:date>
+  <dc:date>2018-12-10T19:22:10.119021+01:00</dc:date>
 </feed>
