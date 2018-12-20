@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.3–5.0% | 1.2–5.4% | 1.1–5.7% | 0.9–6.2% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.3–9.8% | 1.2–10.6% | 1.1–11.1% | 0.9–11.9% |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 10.4% | 9.4–11.5% | 9.2–11.8% | 9.0–12.0% | 8.5–12.6% |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
@@ -91,12 +91,18 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 23% | 100% |  |
 | 1.5–2.5% | 26% | 77% |  |
-| 2.5–3.5% | 18% | 51% | Median |
-| 3.5–4.5% | 16% | 33% |  |
-| 4.5–5.5% | 13% | 16% |  |
-| 5.5–6.5% | 3% | 4% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 2.5–3.5% | 12% | 51% | Median |
+| 3.5–4.5% | 10% | 38% |  |
+| 4.5–5.5% | 12% | 28% |  |
+| 5.5–6.5% | 3% | 16% |  |
+| 6.5–7.5% | 0.1% | 13% |  |
+| 7.5–8.5% | 0.1% | 13% |  |
+| 8.5–9.5% | 2% | 12% |  |
+| 9.5–10.5% | 5% | 11% |  |
+| 10.5–11.5% | 4% | 5% |  |
+| 11.5–12.5% | 0.9% | 1.0% |  |
+| 12.5–13.5% | 0.1% | 0.1% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -107,7 +113,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–3 | 0–3 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 1 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 1 | 1 | 0–1 | 0–2 | 0–2 |
@@ -188,10 +194,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 21% | 100% | Last Result |
-| 1 | 38% | 79% | Median |
-| 2 | 27% | 40% |  |
-| 3 | 13% | 13% |  |
-| 4 | 0.2% | 0.2% |  |
-| 5 | 0% | 0% |  |
+| 1 | 36% | 79% | Median |
+| 2 | 18% | 43% |  |
+| 3 | 12% | 25% |  |
+| 4 | 0.2% | 13% |  |
+| 5 | 0.7% | 12% |  |
+| 6 | 10% | 12% |  |
+| 7 | 2% | 2% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 
