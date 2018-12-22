@@ -113,10 +113,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–6 | 0–6 | 0–6 | 0–7 |
+| N/A | [Poll Average](average.html) | 1 | 0–6 | 0–6 | 0–7 | 0–7 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -193,14 +193,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% | Last Result |
-| 1 | 26% | 70% | Median |
+| 0 | 26% | 100% | Last Result |
+| 1 | 30% | 74% | Median |
 | 2 | 19% | 43% |  |
 | 3 | 12% | 24% |  |
 | 4 | 0.2% | 13% |  |
-| 5 | 2% | 12% |  |
-| 6 | 9% | 11% |  |
-| 7 | 2% | 2% |  |
+| 5 | 1.4% | 12% |  |
+| 6 | 7% | 11% |  |
+| 7 | 4% | 4% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 

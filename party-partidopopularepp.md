@@ -130,11 +130,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–17 | 11–17 | 11–17 | 10–18 |
-| [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–13 | 10–13 |
+| N/A | [Poll Average](average.html) | 13 | 11–16 | 11–17 | 11–17 | 10–18 |
+| [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
-| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
-| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 15–17 | 14–18 | 14–19 |
+| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 15 | 13–15 | 13–15 | 13–16 | 13–16 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 14 | 13–14 | 12–15 | 12–15 | 12–15 |
@@ -221,15 +221,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 2% | 100% |  |
-| 11 | 16% | 98% |  |
-| 12 | 20% | 82% |  |
+| 11 | 15% | 98% |  |
+| 12 | 21% | 83% |  |
 | 13 | 18% | 62% | Median |
 | 14 | 12% | 44% |  |
-| 15 | 11% | 32% |  |
-| 16 | 11% | 21% |  |
-| 17 | 9% | 10% |  |
-| 18 | 1.3% | 1.5% |  |
-| 19 | 0.2% | 0.2% |  |
+| 15 | 13% | 32% |  |
+| 16 | 9% | 19% |  |
+| 17 | 8% | 9% |  |
+| 18 | 1.2% | 1.3% |  |
+| 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
 

@@ -135,10 +135,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 13–19 | 12–20 | 11–20 | 11–21 |
-| [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–12 | 11–13 | 11–13 | 10–14 |
+| [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
-| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
-| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 16–18 | 15–18 | 15–18 | 15–18 |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–16 | 13–16 | 12–16 | 12–16 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
@@ -226,14 +226,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0.2% | 100% |  |
 | 11 | 4% | 99.8% |  |
-| 12 | 5% | 95% |  |
-| 13 | 2% | 91% |  |
+| 12 | 5% | 96% |  |
+| 13 | 3% | 91% |  |
 | 14 | 9% | 88% |  |
 | 15 | 20% | 79% |  |
-| 16 | 26% | 59% | Median |
-| 17 | 16% | 33% |  |
-| 18 | 7% | 18% |  |
-| 19 | 3% | 10% |  |
+| 16 | 24% | 59% | Median |
+| 17 | 18% | 36% |  |
+| 18 | 7% | 17% |  |
+| 19 | 3% | 11% |  |
 | 20 | 7% | 8% |  |
 | 21 | 0.9% | 1.0% |  |
 | 22 | 0% | 0% |  |
