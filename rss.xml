@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Dec 2018 15:13:30 +0100</pubDate>
+    <pubDate>Sat, 22 Dec 2018 16:20:20 +0100</pubDate>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 3–4 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-04-electoPanel.html</link>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-11-09-NCReport.png"
         length="298650"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 15:13:30 +0100</pubDate>
-      <dc:date>2018-12-22T15:13:30.170142+01:00</dc:date>
+      <pubDate>Sat, 22 Dec 2018 15:18:36 +0100</pubDate>
+      <dc:date>2018-12-22T15:18:36.338438+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 5–9 November 2018 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-30-GESOP.png"
         length="266775"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 12:13:51 +0100</pubDate>
-      <dc:date>2018-12-22T12:13:51.361487+01:00</dc:date>
+      <pubDate>Sat, 22 Dec 2018 16:04:02 +0100</pubDate>
+      <dc:date>2018-12-22T16:04:02.510275+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 20–26 October 2018 – Voting Intentions</title>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-18-Metroscopia.png"
         length="188504"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 12:21:51 +0100</pubDate>
-      <dc:date>2018-12-22T12:21:51.530343+01:00</dc:date>
+      <pubDate>Sat, 22 Dec 2018 15:44:31 +0100</pubDate>
+      <dc:date>2018-12-22T15:44:31.13228+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 1–11 October 2018 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-09-CIS.png"
         length="277767"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 12:45:55 +0100</pubDate>
-      <dc:date>2018-12-22T12:45:55.766155+01:00</dc:date>
+      <pubDate>Sat, 22 Dec 2018 15:41:36 +0100</pubDate>
+      <dc:date>2018-12-22T15:41:36.863026+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Simple Lógica, 1–5 October 2018 – Voting Intentions</title>
@@ -146,8 +146,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-09-19-InstitutoDYM.png"
         length="179889"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 12:52:09 +0100</pubDate>
-      <dc:date>2018-12-22T12:52:09.955723+01:00</dc:date>
+      <pubDate>Sat, 22 Dec 2018 15:30:07 +0100</pubDate>
+      <dc:date>2018-12-22T15:30:07.189227+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 6–11 September 2018 – Voting Intentions</title>
@@ -196,8 +196,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-09-07-GAD3.png"
         length="282720"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 13:06:42 +0100</pubDate>
-      <dc:date>2018-12-22T13:06:42.371773+01:00</dc:date>
+      <pubDate>Sat, 22 Dec 2018 16:20:20 +0100</pubDate>
+      <dc:date>2018-12-22T16:20:20.985468+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 3–7 September 2018 – Voting Intentions</title>
@@ -709,6 +709,6 @@
       <pubDate>Sat, 22 Dec 2018 11:13:54 +0100</pubDate>
       <dc:date>2018-12-22T11:13:54.274872+01:00</dc:date>
     </item>
-    <dc:date>2018-12-22T15:13:30.170142+01:00</dc:date>
+    <dc:date>2018-12-22T16:20:20.985468+01:00</dc:date>
   </channel>
 </rss>
