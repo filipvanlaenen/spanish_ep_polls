@@ -121,26 +121,26 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–12 | 8–12 | 8–12 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–12 | 8–12 | 8–12 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–12 | 9–12 | 9–12 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
-| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 9 | 9–11 | 9–11 | 9–11 | 8–11 |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 10 | 9–12 | 9–12 | 9–12 | 9–12 |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 10–12 | 10–12 | 9–12 | 9–12 |
-| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 12 | 11–12 | 11–12 | 11–12 | 9–12 |
+| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 10 | 9–11 | 8–11 | 8–12 | 8–12 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11–12 | 11–12 | 10–13 | 9–13 |
-| [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 10 | 10 | 9–11 | 9–11 | 9–12 |
+| [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 10 | 10–11 | 10–11 | 9–12 | 9–12 |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
-| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 10 | 10 | 10 | 10 | 10 |
+| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 11 | 10–11 | 10–11 | 10–12 | 9–12 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 10–12 | 10–12 | 10–12 | 9–12 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
-| [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 9 | 8–11 | 8–11 | 8–11 | 8–11 |
+| [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
 | [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 10 | 9–10 | 9–10 | 8–11 | 8–12 |
 | [1–11 September 2018](2018-09-11-CIS.html) | CIS | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
 | [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 9–12 | 9–13 | 9–13 |
 | [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
-| [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 9 | 8–10 | 8–10 | 8–11 | 8–12 |
+| [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 10 | 9–10 | 8–11 | 8–11 | 8–12 |
 | [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 9–11 | 9–12 | 9–12 | 8–12 |
 | [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
@@ -208,12 +208,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 3% | 100% |  |
-| 9 | 18% | 97% |  |
-| 10 | 49% | 79% | Median |
-| 11 | 17% | 30% |  |
-| 12 | 13% | 13% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 3% | 99.9% |  |
+| 9 | 19% | 97% |  |
+| 10 | 42% | 78% | Median |
+| 11 | 30% | 36% |  |
+| 12 | 6% | 6% |  |
 | 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |
 
