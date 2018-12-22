@@ -15,7 +15,7 @@
 | Partido Popular (EPP) | 0.0% | 21.2% | 19.6–22.9% |19.2–23.4% |18.8–23.9% |18.0–24.7% |
 | Unidos Podemos (GUE/NGL) | 0.0% | 15.9% | 14.5–17.5% |14.1–17.9% |13.8–18.3% |13.1–19.1% |
 | Partido Animalista Contra el Maltrato Animal (GUE/NGL) | 0.0% | 2.2% | 1.7–2.9% |1.6–3.1% |1.4–3.3% |1.2–3.7% |
-| Vox (*) | 0.0% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.1% |1.1–3.4% |
+| Vox (ECR) | 0.0% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.1% |1.1–3.4% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -32,7 +32,7 @@
 | <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 13 | 12–14 |11–14 |11–14 |11–15 |
 | <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 9 | 9–10 |8–11 |8–11 |8–11 |
 | <a href="#partido-animalista-contra-el-maltrato-animal-(gue/ngl)">Partido Animalista Contra el Maltrato Animal (GUE/NGL)</a> | 0 | 1 | 1 |0–1 |0–2 |0–2 |
-| <a href="#vox-(*)">Vox (*)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–2 |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–2 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -153,11 +153,11 @@
 | 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
-### Vox (*)
+### Vox (ECR)
 
-*For a full overview of the results for this party, see the [Vox (*)](party-vox.html) page.*
+*For a full overview of the results for this party, see the [Vox (ECR)](party-voxecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-10-02-SimpleLógica-seats-pmf-vox.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-10-02-SimpleLógica-seats-pmf-voxecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -177,7 +177,7 @@
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Partido Socialista Obrero Español (S&D) | 0 | 15 | 0% | 14–16 | 14–17 | 14–17 | 13–18 |
 | Partido Popular (EPP) | 0 | 13 | 0% | 12–14 | 11–14 | 11–14 | 11–15 |
-| Vox (*) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–2 |
+| Vox (ECR) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -230,7 +230,7 @@
 | 15 | 1.4% | 1.5% |  |
 | 16 | 0% | 0% |  |
 
-### Vox (*)
+### Vox (ECR)
 
 ![Graph with seats probability mass function not yet produced](2018-10-02-SimpleLógica-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
 
@@ -253,6 +253,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,048,576
++ **Simulations done:** 1,048,575
 + **Error estimate:** 1.01%
 

@@ -104,11 +104,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1 | 0–1 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
@@ -119,7 +119,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
-| [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [1–11 September 2018](2018-09-11-CIS.html) | CIS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -184,9 +184,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 44% | 100% | Last Result |
-| 1 | 55% | 56% | Median |
-| 2 | 0.8% | 0.8% |  |
+| 0 | 26% | 100% | Last Result |
+| 1 | 74% | 74% | Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 
