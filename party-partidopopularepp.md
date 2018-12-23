@@ -140,7 +140,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 13 | 11–16 | 10–16 | 10–17 | 10–17 |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
-| [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 10–13 | 10–13 | 9–13 |
+| [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 16 | 14–17 | 14–17 | 13–17 | 12–17 |
 | [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 12 | 12–13 | 11–13 | 11–14 | 11–15 |
 | [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
@@ -161,11 +161,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
-| [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
+| [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [1–11 September 2018](2018-09-11-CIS.html) | CIS | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
-| [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 15 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 15–18 | 15–19 | 15–20 |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 13–15 | 13–16 | 12–16 | 12–16 |
@@ -235,11 +235,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.3% | 100% |  |
-| 10 | 5% | 99.7% |  |
-| 11 | 18% | 94% |  |
-| 12 | 25% | 77% |  |
-| 13 | 21% | 52% | Median |
+| 9 | 0.2% | 100% |  |
+| 10 | 5% | 99.8% |  |
+| 11 | 20% | 95% |  |
+| 12 | 23% | 75% |  |
+| 13 | 20% | 52% | Median |
 | 14 | 15% | 31% |  |
 | 15 | 6% | 16% |  |
 | 16 | 7% | 10% |  |

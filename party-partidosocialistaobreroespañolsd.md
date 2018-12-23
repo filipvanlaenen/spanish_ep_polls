@@ -161,17 +161,17 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–16 | 13–16 | 12–16 | 12–16 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
-| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 20 | 19–20 | 19–21 | 19–21 | 18–21 |
+| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 20 | 19–21 | 19–21 | 19–21 | 18–21 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 16–19 | 16–19 | 16–19 | 16–19 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
-| [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
+| [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [1–11 September 2018](2018-09-11-CIS.html) | CIS | 19 | 18–20 | 18–20 | 18–20 | 18–21 |
 | [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
+| [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 16–19 | 16–19 | 16–20 | 15–20 |
 | [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–18 | 15–18 | 15–18 | 14–18 |
@@ -247,13 +247,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 6% | 97% |  |
 | 13 | 15% | 92% |  |
 | 14 | 21% | 77% |  |
-| 15 | 26% | 56% | Median |
+| 15 | 26% | 55% | Median |
 | 16 | 16% | 30% |  |
 | 17 | 5% | 13% |  |
 | 18 | 0.6% | 8% |  |
 | 19 | 2% | 8% |  |
-| 20 | 5% | 6% |  |
-| 21 | 0.7% | 0.7% |  |
+| 20 | 4% | 5% |  |
+| 21 | 1.0% | 1.0% |  |
 | 22 | 0% | 0% |  |
 
 
