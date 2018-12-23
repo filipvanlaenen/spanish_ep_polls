@@ -143,16 +143,16 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–17 | 12–20 | 12–20 | 11–21 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 12–20 | 11–20 | 11–21 |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
-| [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 14 | 13–14 | 13–15 | 12–15 |
-| [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 15 | 13–15 | 13–15 | 13–15 | 12–16 |
-| [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 16 | 16 | 16 | 16 | 14–16 |
-| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 15 | 15 | 15 | 15 | 15 |
-| [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 17 | 15–17 | 14–17 | 14–18 | 14–18 |
-| [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 13 | 13–14 | 13–14 | 12–14 | 12–14 |
-| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 14–16 | 14–17 | 14–18 | 14–18 |
-| [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 13 | 13–14 | 13–14 | 12–14 | 12–15 |
+| [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
+| [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
+| [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 14–17 | 13–17 | 13–17 |
+| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 15 | 14–15 | 13–16 | 13–17 | 13–17 |
+| [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
+| [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 13 | 13–14 | 12–14 | 12–14 | 12–15 |
+| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 14–16 | 14–16 | 14–17 | 14–18 |
+| [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
@@ -244,13 +244,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0.2% | 100% |  |
 | 11 | 2% | 99.8% |  |
-| 12 | 5% | 98% |  |
-| 13 | 17% | 93% |  |
-| 14 | 16% | 76% |  |
-| 15 | 23% | 60% | Median |
-| 16 | 23% | 37% |  |
-| 17 | 7% | 15% |  |
-| 18 | 0.7% | 8% |  |
+| 12 | 6% | 97% |  |
+| 13 | 15% | 92% |  |
+| 14 | 21% | 77% |  |
+| 15 | 26% | 56% | Median |
+| 16 | 16% | 30% |  |
+| 17 | 5% | 13% |  |
+| 18 | 0.6% | 8% |  |
 | 19 | 2% | 8% |  |
 | 20 | 5% | 6% |  |
 | 21 | 0.7% | 0.7% |  |

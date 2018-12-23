@@ -116,8 +116,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0 | 0 | 0–1 |
-| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
+| [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -201,8 +201,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 20% | 20% |  |
+| 0 | 86% | 100% | Last Result, Median |
+| 1 | 14% | 14% |  |
 | 2 | 0% | 0% |  |
 
 

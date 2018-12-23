@@ -119,11 +119,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 2 | 2 | 2 | 1–2 | 1–2 |
-| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 2 | 2 | 2 | 2 | 2 |
-| [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
-| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -205,9 +205,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 19% | 100% |  |
-| 2 | 71% | 81% | Median |
-| 3 | 10% | 10% |  |
+| 1 | 16% | 100% |  |
+| 2 | 72% | 84% | Median |
+| 3 | 11% | 12% |  |
 | 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 

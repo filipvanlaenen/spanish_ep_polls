@@ -124,14 +124,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 2–6 | 0–7 | 0–7 | 0–7 |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 5 | 5–6 | 5–6 | 4–6 |
-| [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 5 | 5 | 4–5 | 4–5 | 4–6 |
-| [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 5 | 5 | 5 | 5 | 4–6 |
-| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 5 | 5 | 5 | 5 | 5 |
-| [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
-| [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4 | 4 | 4 | 3–4 | 3–5 |
-| [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 1 | 1 | 0–1 | 0–1 | 0–2 |
@@ -214,12 +214,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 8% | 100% | Last Result |
 | 1 | 0.9% | 92% |  |
 | 2 | 6% | 91% |  |
-| 3 | 4% | 86% |  |
-| 4 | 19% | 82% |  |
-| 5 | 43% | 63% | Median |
-| 6 | 13% | 20% |  |
-| 7 | 6% | 6% |  |
-| 8 | 0.1% | 0.1% |  |
+| 3 | 7% | 86% |  |
+| 4 | 21% | 78% |  |
+| 5 | 31% | 58% | Median |
+| 6 | 19% | 27% |  |
+| 7 | 7% | 7% |  |
+| 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
 
