@@ -148,10 +148,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 14–17 | 13–17 | 13–17 |
-| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 15 | 14–15 | 13–16 | 13–17 | 13–17 |
+| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 15 | 13–16 | 13–16 | 13–17 | 13–17 |
 | [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 13 | 13–14 | 12–14 | 12–14 | 12–15 |
-| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 14–16 | 14–16 | 14–17 | 14–18 |
+| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–17 | 14–17 | 14–17 | 14–18 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
@@ -245,12 +245,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.2% | 100% |  |
 | 11 | 2% | 99.8% |  |
 | 12 | 6% | 97% |  |
-| 13 | 15% | 92% |  |
-| 14 | 21% | 77% |  |
+| 13 | 16% | 92% |  |
+| 14 | 21% | 76% |  |
 | 15 | 26% | 55% | Median |
-| 16 | 16% | 30% |  |
-| 17 | 5% | 13% |  |
-| 18 | 0.6% | 8% |  |
+| 16 | 15% | 29% |  |
+| 17 | 6% | 14% |  |
+| 18 | 0.8% | 8% |  |
 | 19 | 2% | 8% |  |
 | 20 | 4% | 5% |  |
 | 21 | 1.0% | 1.0% |  |

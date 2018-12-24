@@ -130,7 +130,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
-| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -214,10 +214,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 8% | 100% | Last Result |
 | 1 | 1.0% | 92% |  |
 | 2 | 6% | 91% |  |
-| 3 | 7% | 86% |  |
-| 4 | 20% | 78% |  |
+| 3 | 5% | 86% |  |
+| 4 | 22% | 80% |  |
 | 5 | 32% | 58% | Median |
-| 6 | 19% | 27% |  |
+| 6 | 19% | 26% |  |
 | 7 | 7% | 7% |  |
 | 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |

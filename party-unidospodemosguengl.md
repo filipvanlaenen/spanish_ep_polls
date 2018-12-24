@@ -130,15 +130,15 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–11 | 8–12 | 7–12 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 8–11 | 8–12 | 7–12 |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–12 | 9–12 | 9–13 | 9–13 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
 | [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 10 | 10–11 | 9–12 | 9–12 | 8–13 |
-| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 8 | 8–9 | 7–9 | 7–10 | 7–11 |
+| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 9 | 8–9 | 7–10 | 7–10 | 7–11 |
 | [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 11 | 10–11 | 10–11 | 10–12 | 9–12 |
-| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9 | 9–11 | 9–11 | 9–12 | 8–12 |
+| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
@@ -226,12 +226,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.7% | 100% |  |
-| 8 | 10% | 99.3% |  |
-| 9 | 24% | 89% |  |
-| 10 | 33% | 65% | Median |
-| 11 | 27% | 31% |  |
-| 12 | 5% | 5% |  |
+| 7 | 0.8% | 100% |  |
+| 8 | 9% | 99.2% |  |
+| 9 | 23% | 91% |  |
+| 10 | 35% | 67% | Median |
+| 11 | 27% | 32% |  |
+| 12 | 4% | 5% |  |
 | 13 | 0.3% | 0.3% |  |
 | 14 | 0% | 0% |  |
 
