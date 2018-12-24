@@ -154,10 +154,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 15 | 13–15 | 13–15 | 13–16 | 13–16 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 13 | 13–14 | 12–15 | 12–15 | 12–15 |
-| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
-| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 15–17 | 15–18 | 14–19 |
+| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
@@ -167,20 +167,20 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
-| [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 15–18 | 15–19 | 15–20 |
+| [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [1–3 August 2018](2018-08-03-SimpleLógica.html) | Simple Lógica | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
+| [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
 | [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 15 | 14–15 | 14–15 | 13–16 | 13–16 |
 | [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 17 | 16–18 | 15–19 | 15–19 | 15–19 |
 | [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 12–14 | 12–14 | 12–14 |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
 | [1–10 July 2018](2018-07-10-CIS.html) | CIS | 13 | 12–13 | 12–13 | 11–14 | 11–14 |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
-| [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 14–16 | 14–16 | 13–16 | 13–17 |
+| [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 13 | 11–14 | 11–14 | 11–14 | 10–15 |
@@ -188,7 +188,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
-| [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 14–17 | 13–17 | 13–17 |
+| [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
@@ -208,7 +208,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 15 | 14–16 | 13–16 | 13–17 | 12–17 |
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
-| [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
+| [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
