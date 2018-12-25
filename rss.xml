@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 24 Dec 2018 20:45:22 +0100</pubDate>
+    <pubDate>Mon, 24 Dec 2018 21:31:07 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sigma Dos for Antena 3, 16 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-16-SigmaDos.html#seats</link>
@@ -890,14 +890,34 @@
       <dc:date>2018-12-22T11:13:54.69088+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 2–6 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-06-Celeste-Tel.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 13–17 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 15–18 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 11–14 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-06-Celeste-Tel-seats.png"
+        length="237547"
+        type="image/png"/>
+      <pubDate>Mon, 24 Dec 2018 21:31:07 +0100</pubDate>
+      <dc:date>2018-12-24T21:31:07.126503+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 2–6 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-06-Celeste-Tel.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-06-Celeste-Tel-coalitions-seats.png"
+        length="144580"
+        type="image/png"/>
+      <pubDate>Mon, 24 Dec 2018 21:31:07 +0100</pubDate>
+      <dc:date>2018-12-24T21:31:07.126503+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 2–6 July 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-06-Celeste-Tel.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 21.7–26.8%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 24.5–29.8%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 15.6–20.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 18.3–23.1%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.6–1.9%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0.6–1.9%&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 3.1–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-06-Celeste-Tel.png"
         length="299013"
         type="image/png"/>
-      <pubDate>Mon, 24 Dec 2018 20:45:22 +0100</pubDate>
-      <dc:date>2018-12-24T20:45:22.778102+01:00</dc:date>
+      <pubDate>Mon, 24 Dec 2018 21:31:07 +0100</pubDate>
+      <dc:date>2018-12-24T21:31:07.126503+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 25–30 June 2018 – Voting Intentions</title>
@@ -1299,6 +1319,6 @@
       <pubDate>Sat, 22 Dec 2018 11:13:54 +0100</pubDate>
       <dc:date>2018-12-22T11:13:54.274872+01:00</dc:date>
     </item>
-    <dc:date>2018-12-24T20:45:22.778102+01:00</dc:date>
+    <dc:date>2018-12-24T21:31:07.126503+01:00</dc:date>
   </channel>
 </rss>
