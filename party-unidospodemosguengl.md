@@ -173,7 +173,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [1–10 July 2018](2018-07-10-CIS.html) | CIS | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
-| [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 10–11 | 10–11 | 9–12 | 9–12 |
+| [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–12 | 9–12 | 9–13 | 8–13 |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 10 | 9–11 | 9–11 | 8–12 | 8–12 |
