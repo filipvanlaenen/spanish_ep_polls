@@ -187,11 +187,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
-| [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
+| [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 16 | 15–18 | 15–18 | 14–18 | 13–18 |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
-| [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
+| [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
 | [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–11 | 10–11 | 9–11 | 9–12 |
 | [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [3–10 May 2018](2018-05-10-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
@@ -199,9 +199,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
-| [1–10 April 2018](2018-04-10-CIS.html) | CIS | 15 | 14–16 | 14–16 | 14–16 | 13–16 |
+| [1–10 April 2018](2018-04-10-CIS.html) | CIS | 15 | 14–15 | 14–16 | 14–16 | 13–16 |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
-| [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–17 | 14–17 | 14–17 | 13–17 |
+| [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 12–15 | 12–15 | 12–15 | 11–15 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 13–15 | 13–16 | 12–16 | 12–16 |

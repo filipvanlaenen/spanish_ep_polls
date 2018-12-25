@@ -178,7 +178,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–18 | 16–19 | 16–19 | 16–20 |
 | [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [1–3 August 2018](2018-08-03-SimpleLógica.html) | Simple Lógica | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
-| [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
+| [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 16 | 15–17 | 15–17 | 15–17 | 14–17 |
 | [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 16 | 14–17 | 14–17 | 14–18 | 14–18 |
@@ -193,7 +193,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 16 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
-| [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 19 | 17–19 | 16–20 | 16–20 | 15–20 |
+| [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 18 | 17–19 | 16–20 | 16–20 | 15–20 |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 12–14 | 12–15 | 12–15 |
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–16 | 13–16 | 13–16 | 13–17 |
@@ -205,9 +205,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
-| [1–10 April 2018](2018-04-10-CIS.html) | CIS | 14 | 13–14 | 12–15 | 12–15 | 12–15 |
+| [1–10 April 2018](2018-04-10-CIS.html) | CIS | 13 | 13–14 | 13–14 | 12–14 | 12–15 |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
-| [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
+| [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
@@ -216,7 +216,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–16 | 14–17 | 13–17 | 13–17 |
 | [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
-| [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
+| [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
 | [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 15–17 | 14–17 | 14–18 | 14–18 |
