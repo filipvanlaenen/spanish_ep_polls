@@ -204,7 +204,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
-| [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
+| [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 18 | 17–19 | 16–19 | 16–19 | 15–20 |
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 13–16 | 13–16 | 13–16 | 13–17 |
 | [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
