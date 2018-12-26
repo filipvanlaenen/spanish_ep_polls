@@ -48,14 +48,14 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 3.7% | 3.0–4.7% | 2.8–5.0% | 2.6–5.3% | 2.3–5.8% |
 | [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
-| [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 3.2% | N/A | N/A | N/A | N/A |
+| [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 3.2% | 2.6–4.1% | 2.5–4.3% | 2.3–4.5% | 2.1–4.9% |
 | [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 4.0% | N/A | N/A | N/A | N/A |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.2% | N/A | N/A | N/A | N/A |
 | [1–10 July 2018](2018-07-10-CIS.html) | CIS | 4.5% | N/A | N/A | N/A | N/A |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.1–5.5% | 2.9–6.0% |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
-| [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 3.7% | N/A | N/A | N/A | N/A |
+| [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 2.6% | N/A | N/A | N/A | N/A |
 | [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 0.0% | N/A | N/A | N/A | N/A |
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 3.9% | N/A | N/A | N/A | N/A |
@@ -153,14 +153,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
-| [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO |  |  |  |  |  |
+| [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [1–10 July 2018](2018-07-10-CIS.html) | CIS |  |  |  |  |  |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
@@ -184,7 +184,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER |  |  |  |  |  |
-| [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
