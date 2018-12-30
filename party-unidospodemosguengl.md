@@ -189,7 +189,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 10 | 9–11 | 8–11 | 8–11 | 8–11 |
 | [3–10 May 2018](2018-05-10-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
-| [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
+| [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [1–10 April 2018](2018-04-10-CIS.html) | CIS | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
