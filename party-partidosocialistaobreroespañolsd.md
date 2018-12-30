@@ -168,7 +168,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [1–11 September 2018](2018-09-11-CIS.html) | CIS | 19 | 18–20 | 18–20 | 18–20 | 18–21 |
+| [1–11 September 2018](2018-09-11-CIS.html) | CIS | 19 | 18–20 | 18–20 | 17–20 | 17–20 |
 | [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
