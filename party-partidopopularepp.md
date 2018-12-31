@@ -216,7 +216,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
-| [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
+| [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
 
 ### Probability Mass Function
 
