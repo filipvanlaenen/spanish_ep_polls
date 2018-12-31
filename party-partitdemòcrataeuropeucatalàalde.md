@@ -160,7 +160,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
-| [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
