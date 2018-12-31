@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 30 Dec 2018 19:51:02 +0100</pubDate>
+    <pubDate>Mon, 31 Dec 2018 11:48:34 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sigma Dos for Antena 3, 16 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-16-SigmaDos.html#seats</link>
@@ -550,14 +550,34 @@
       <dc:date>2018-12-23T20:07:00.378694+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Simple Lógica, 1–5 October 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-05-SimpleLógica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 13–16 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 13–17 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 11–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-05-SimpleLógica-seats.png"
+        length="151806"
+        type="image/png"/>
+      <pubDate>Mon, 31 Dec 2018 11:48:34 +0100</pubDate>
+      <dc:date>2018-12-31T11:48:34.596649+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 1–5 October 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-05-SimpleLógica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-05-SimpleLógica-coalitions-seats.png"
+        length="135741"
+        type="image/png"/>
+      <pubDate>Mon, 31 Dec 2018 11:48:34 +0100</pubDate>
+      <dc:date>2018-12-31T11:48:34.596649+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Simple Lógica, 1–5 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-05-SimpleLógica.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 21.3–26.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 22.7–27.9%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 15.2–19.8%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 19.2–24.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-05-SimpleLógica.png"
         length="181406"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 11:13:54 +0100</pubDate>
-      <dc:date>2018-12-22T11:13:54.830883+01:00</dc:date>
+      <pubDate>Mon, 31 Dec 2018 11:48:34 +0100</pubDate>
+      <dc:date>2018-12-31T11:48:34.596649+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 1–5 October 2018 – Seat Projections for the Parties</title>
@@ -1690,15 +1710,35 @@
       <dc:date>2018-12-22T11:13:54.274872+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by GAD3 for ABC, 31 January–7 February 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-GAD3.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 14–17 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 8–10 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 14–17 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 1–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-GAD3-seats.png"
+        length="221233"
+        type="image/png"/>
+      <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
+      <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GAD3 for ABC, 31 January–7 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-GAD3.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-GAD3-coalitions-seats.png"
+        length="137215"
+        type="image/png"/>
+      <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
+      <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by GAD3 for ABC, 31 January–7 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-GAD3.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 23.2–28.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 21.1–26.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.7–17.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 23.0–28.5%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 2.0–4.1%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 1.1–2.8%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 23.2–28.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 21.1–26.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.7–17.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 23.0–28.5%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 1.1–2.8%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 2.7–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-GAD3.png"
-        length="288550"
+        length="283819"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 11:13:54 +0100</pubDate>
-      <dc:date>2018-12-22T11:13:54.274872+01:00</dc:date>
+      <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
+      <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2018-12-30T19:51:02.88633+01:00</dc:date>
+    <dc:date>2018-12-31T11:48:34.596649+01:00</dc:date>
   </channel>
 </rss>
