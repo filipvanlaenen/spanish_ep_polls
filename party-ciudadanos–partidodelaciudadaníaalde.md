@@ -190,7 +190,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–16 | 14–17 | 14–17 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
-| [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–18 | 16–19 | 16–19 | 16–20 |
+| [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 16–18 | 16–19 | 16–19 | 16–19 |
 | [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [3–10 May 2018](2018-05-10-SimpleLógica.html) | Simple Lógica | 18 | 17–19 | 16–19 | 16–19 | 15–20 |
 | [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 17 | 16–18 | 16–19 | 16–19 | 16–19 |

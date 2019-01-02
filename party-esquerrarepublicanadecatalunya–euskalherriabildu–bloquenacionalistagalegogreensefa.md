@@ -43,7 +43,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
 | [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4.1% | N/A | N/A | N/A | N/A |
-| [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 4.1% | N/A | N/A | N/A | N/A |
+| [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.1–5.4% | 2.8–5.9% |
 | [1–3 August 2018](2018-08-03-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 3.7% | 3.0–4.7% | 2.8–5.0% | 2.6–5.3% | 2.3–5.8% |
@@ -65,7 +65,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 4.7% | N/A | N/A | N/A | N/A |
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 4.1% | N/A | N/A | N/A | N/A |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
-| [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 4.3% | N/A | N/A | N/A | N/A |
+| [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 4.3% | 3.7–5.0% | 3.6–5.2% | 3.4–5.4% | 3.2–5.7% |
 | [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 3.7% | N/A | N/A | N/A | N/A |
 | [3–10 May 2018](2018-05-10-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 0.0% | N/A | N/A | N/A | N/A |
@@ -148,7 +148,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
-| [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [1–3 August 2018](2018-08-03-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -170,7 +170,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [3–10 May 2018](2018-05-10-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |

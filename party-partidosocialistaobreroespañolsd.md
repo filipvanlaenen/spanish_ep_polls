@@ -176,7 +176,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 16–18 | 15–19 | 15–20 |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–18 | 16–19 | 16–19 | 16–20 |
-| [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–17 | 14–17 | 14–17 | 13–18 |
+| [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [1–3 August 2018](2018-08-03-SimpleLógica.html) | Simple Lógica | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
@@ -198,7 +198,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 12–14 | 12–15 | 12–15 |
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–16 | 13–16 | 13–16 | 13–17 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 12–13 | 12–13 | 11–14 | 11–14 |
+| [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–15 | 11–15 | 11–15 | 10–15 |
 | [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [3–10 May 2018](2018-05-10-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
