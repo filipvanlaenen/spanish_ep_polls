@@ -177,6 +177,7 @@
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Partido Socialista Obrero Español (S&D) | 0 | 15 | 0% | 14–16 | 14–17 | 14–17 | 13–18 |
 | Partido Popular (EPP) | 0 | 13 | 0% | 12–14 | 11–14 | 11–14 | 11–15 |
+| Unidos Podemos (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) | 0 | 10 | 0% | 9–11 | 9–12 | 9–12 | 8–12 |
 | Vox (ECR) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -230,6 +231,28 @@
 | 15 | 1.4% | 1.5% |  |
 | 16 | 0% | 0% |  |
 
+### Unidos Podemos (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2018-10-02-SimpleLógica-coalitions-seats-pmf-up–pacma.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0.6% | 100% |  |
+| 9 | 11% | 99.4% |  |
+| 10 | 46% | 88% | Median |
+| 11 | 34% | 42% |  |
+| 12 | 7% | 8% |  |
+| 13 | 0.4% | 0.4% |  |
+| 14 | 0% | 0% |  |
+
 ### Vox (ECR)
 
 ![Graph with seats probability mass function not yet produced](2018-10-02-SimpleLógica-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
@@ -253,6 +276,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,048,575
++ **Simulations done:** 1,048,576
 + **Error estimate:** 1.01%
 
