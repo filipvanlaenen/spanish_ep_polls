@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 03 Jan 2019 15:19:17 +0100</pubDate>
+    <pubDate>Thu, 03 Jan 2019 20:25:39 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sigma Dos for Antena 3, 16 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-16-SigmaDos.html#seats</link>
@@ -610,14 +610,34 @@
       <dc:date>2018-12-24T17:01:04.863822+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Simple Lógica for eldebate.es, 2 October 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-02-SimpleLógica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 11–14 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 14–17 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 12–16 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0–2 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-02-SimpleLógica-seats.png"
+        length="178536"
+        type="image/png"/>
+      <pubDate>Thu, 03 Jan 2019 17:50:03 +0100</pubDate>
+      <dc:date>2019-01-03T17:50:03.498284+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Simple Lógica for eldebate.es, 2 October 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-02-SimpleLógica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-02-SimpleLógica-coalitions-seats.png"
+        length="145131"
+        type="image/png"/>
+      <pubDate>Thu, 03 Jan 2019 17:50:03 +0100</pubDate>
+      <dc:date>2019-01-03T17:50:03.498284+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Simple Lógica for eldebate.es, 2 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-02-SimpleLógica.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 18.8–23.9%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 22.7–28.1%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 13.8–18.3%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 20.6–25.8%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 1.4–3.3%&lt;/li&gt;&lt;li&gt;Vox (ECR): 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-02-SimpleLógica.png"
-        length="221918"
+        length="221900"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 11:13:54 +0100</pubDate>
-      <dc:date>2018-12-22T11:13:54.810883+01:00</dc:date>
+      <pubDate>Thu, 03 Jan 2019 17:50:03 +0100</pubDate>
+      <dc:date>2019-01-03T17:50:03.498284+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metroscopia for Henneo, 17–19 September 2018 – Voting Intentions</title>
@@ -1080,14 +1100,34 @@
       <dc:date>2018-12-30T18:33:48.379143+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 9–12 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-12-SigmaDos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 12–15 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 14–18 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 13–16 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-12-SigmaDos-seats.png"
+        length="213103"
+        type="image/png"/>
+      <pubDate>Thu, 03 Jan 2019 19:05:16 +0100</pubDate>
+      <dc:date>2019-01-03T19:05:16.130452+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 9–12 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-12-SigmaDos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-12-SigmaDos-coalitions-seats.png"
+        length="154171"
+        type="image/png"/>
+      <pubDate>Thu, 03 Jan 2019 19:05:16 +0100</pubDate>
+      <dc:date>2019-01-03T19:05:16.130452+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 9–12 July 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-12-SigmaDos.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 19.8–25.0%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 23.7–29.1%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 13.9–18.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 21.6–27.0%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.6–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 19.8–25.0%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 23.7–29.1%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 13.9–18.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 21.6–27.0%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 2.3–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-12-SigmaDos.png"
-        length="245313"
+        length="255736"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 11:13:54 +0100</pubDate>
-      <dc:date>2018-12-22T11:13:54.69088+01:00</dc:date>
+      <pubDate>Thu, 03 Jan 2019 19:05:16 +0100</pubDate>
+      <dc:date>2019-01-03T19:05:16.130452+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CIS, 1–10 July 2018 – Voting Intentions</title>
@@ -1840,14 +1880,34 @@
       <dc:date>2018-12-22T11:13:54.290872+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Simple Lógica, 1–7 February 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-SimpleLógica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 12–15 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 11–14 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9–11 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 15–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-SimpleLógica-seats.png"
+        length="145156"
+        type="image/png"/>
+      <pubDate>Thu, 03 Jan 2019 20:25:39 +0100</pubDate>
+      <dc:date>2019-01-03T20:25:39.639586+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 1–7 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-SimpleLógica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-SimpleLógica-coalitions-seats.png"
+        length="130986"
+        type="image/png"/>
+      <pubDate>Thu, 03 Jan 2019 20:25:39 +0100</pubDate>
+      <dc:date>2019-01-03T20:25:39.639586+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Simple Lógica, 1–7 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-SimpleLógica.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 19.8–24.8%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 19.0–24.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 14.9–19.4%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 26.1–31.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-07-SimpleLógica.png"
-        length="174406"
+        length="174383"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 11:13:54 +0100</pubDate>
-      <dc:date>2018-12-22T11:13:54.274872+01:00</dc:date>
+      <pubDate>Thu, 03 Jan 2019 20:25:39 +0100</pubDate>
+      <dc:date>2019-01-03T20:25:39.639586+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 31 January–7 February 2018 – Seat Projections for the Parties</title>
@@ -1879,6 +1939,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-01-03T15:19:17.55385+01:00</dc:date>
+    <dc:date>2019-01-03T20:25:39.639586+01:00</dc:date>
   </channel>
 </rss>
