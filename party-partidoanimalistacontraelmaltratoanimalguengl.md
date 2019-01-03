@@ -144,7 +144,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0–1 | 0–1 |
 | [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0–1 | 0–1 |
+| [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–3 August 2018](2018-08-03-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |

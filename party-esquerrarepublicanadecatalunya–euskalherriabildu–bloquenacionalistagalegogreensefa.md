@@ -42,7 +42,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
 | [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
-| [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4.1% | N/A | N/A | N/A | N/A |
+| [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.1–5.4% | 2.8–5.9% |
 | [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.1–5.4% | 2.8–5.9% |
 | [1–3 August 2018](2018-08-03-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
@@ -147,7 +147,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
+| [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [1–3 August 2018](2018-08-03-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
