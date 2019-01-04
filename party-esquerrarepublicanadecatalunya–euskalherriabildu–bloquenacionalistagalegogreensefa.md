@@ -51,12 +51,12 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 3.2% | 2.6–4.1% | 2.5–4.3% | 2.3–4.5% | 2.1–4.9% |
 | [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 4.0% | 3.6–4.5% | 3.4–4.7% | 3.3–4.8% | 3.1–5.0% |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
-| [1–10 July 2018](2018-07-10-CIS.html) | CIS | 4.5% | N/A | N/A | N/A | N/A |
+| [1–10 July 2018](2018-07-10-CIS.html) | CIS | 4.5% | 4.0–5.1% | 3.9–5.3% | 3.7–5.4% | 3.5–5.7% |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.1–5.5% | 2.9–6.0% |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
-| [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 2.6% | N/A | N/A | N/A | N/A |
+| [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 2.6% | 2.0–3.5% | 1.9–3.8% | 1.7–4.0% | 1.5–4.5% |
 | [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 0.0% | N/A | N/A | N/A | N/A |
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 3.9% | 3.3–4.7% | 3.1–5.0% | 3.0–5.2% | 2.7–5.6% |
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
@@ -156,12 +156,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2 | 2–3 | 2–3 |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [1–10 July 2018](2018-07-10-CIS.html) | CIS |  |  |  |  |  |
+| [1–10 July 2018](2018-07-10-CIS.html) | CIS | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 1–3 | 1–3 | 1–3 |
-| [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
+| [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |

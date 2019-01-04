@@ -176,7 +176,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–13 | 12–14 | 12–14 | 11–14 |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [1–10 July 2018](2018-07-10-CIS.html) | CIS | 13 | 12–13 | 12–13 | 11–14 | 11–14 |
+| [1–10 July 2018](2018-07-10-CIS.html) | CIS | 12 | 12–13 | 12–13 | 11–14 | 11–14 |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 13 | 11–14 | 11–14 | 11–14 | 10–15 |
