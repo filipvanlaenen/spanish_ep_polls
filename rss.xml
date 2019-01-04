@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 04 Jan 2019 16:16:37 +0100</pubDate>
+    <pubDate>Fri, 04 Jan 2019 20:09:18 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sigma Dos for Antena 3, 16 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-16-SigmaDos.html#seats</link>
@@ -1770,14 +1770,34 @@
       <dc:date>2018-12-25T12:07:59.464521+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 23–27 March 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-27-SigmaDos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 12–16 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 10–14 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10–13 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 15–18 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-27-SigmaDos-seats.png"
+        length="201733"
+        type="image/png"/>
+      <pubDate>Fri, 04 Jan 2019 20:09:18 +0100</pubDate>
+      <dc:date>2019-01-04T20:09:18.569748+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 23–27 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-27-SigmaDos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-27-SigmaDos-coalitions-seats.png"
+        length="148982"
+        type="image/png"/>
+      <pubDate>Fri, 04 Jan 2019 20:09:18 +0100</pubDate>
+      <dc:date>2019-01-04T20:09:18.569748+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 23–27 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-27-SigmaDos.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 20.8–26.0%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17.3–22.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 16.1–20.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 24.1–29.5%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 2.4–4.6%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0.8–2.2%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.7–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 20.8–26.0%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17.3–22.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 16.1–20.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 24.1–29.5%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0.8–2.2%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 2.4–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-27-SigmaDos.png"
-        length="251636"
+        length="263549"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 11:13:54 +0100</pubDate>
-      <dc:date>2018-12-22T11:13:54.366873+01:00</dc:date>
+      <pubDate>Fri, 04 Jan 2019 20:09:18 +0100</pubDate>
+      <dc:date>2019-01-04T20:09:18.569748+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MyWord for Cadena SER, 13–16 March 2018 – Voting Intentions</title>
@@ -2039,6 +2059,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-01-04T16:16:37.948268+01:00</dc:date>
+    <dc:date>2019-01-04T20:09:18.569748+01:00</dc:date>
   </channel>
 </rss>
