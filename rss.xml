@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 03 Jan 2019 20:25:39 +0100</pubDate>
+    <pubDate>Fri, 04 Jan 2019 12:34:28 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sigma Dos for Antena 3, 16 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-16-SigmaDos.html#seats</link>
@@ -1460,14 +1460,34 @@
       <dc:date>2019-01-02T21:25:02.873442+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by NC Report for La Razón, 16–25 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-05-25-NCReport.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 14–17 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 13–17 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 1–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-05-25-NCReport-seats.png"
+        length="220834"
+        type="image/png"/>
+      <pubDate>Fri, 04 Jan 2019 11:30:35 +0100</pubDate>
+      <dc:date>2019-01-04T11:30:35.69776+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 16–25 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-05-25-NCReport.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-05-25-NCReport-coalitions-seats.png"
+        length="145889"
+        type="image/png"/>
+      <pubDate>Fri, 04 Jan 2019 11:30:35 +0100</pubDate>
+      <dc:date>2019-01-04T11:30:35.69776+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by NC Report for La Razón, 16–25 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-05-25-NCReport.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 23.0–28.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 21.1–26.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 13.7–18.2%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 21.8–27.2%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 2.0–4.1%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 23.0–28.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 21.1–26.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 13.7–18.2%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 21.8–27.2%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 2.7–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-05-25-NCReport.png"
-        length="289515"
+        length="282467"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 11:13:54 +0100</pubDate>
-      <dc:date>2018-12-22T11:13:54.514876+01:00</dc:date>
+      <pubDate>Fri, 04 Jan 2019 11:30:35 +0100</pubDate>
+      <dc:date>2019-01-04T11:30:35.69776+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Simple Lógica, 3–10 May 2018 – Voting Intentions</title>
@@ -1520,14 +1540,34 @@
       <dc:date>2018-12-30T11:15:52.920289+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by GESOP for El Periódico, 12–18 April 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-04-18-GESOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 11–14 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 11–14 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 15–19 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-04-18-GESOP-seats.png"
+        length="184913"
+        type="image/png"/>
+      <pubDate>Fri, 04 Jan 2019 12:34:28 +0100</pubDate>
+      <dc:date>2019-01-04T12:34:28.133174+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 12–18 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-04-18-GESOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-04-18-GESOP-coalitions-seats.png"
+        length="136829"
+        type="image/png"/>
+      <pubDate>Fri, 04 Jan 2019 12:34:28 +0100</pubDate>
+      <dc:date>2019-01-04T12:34:28.133174+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by GESOP for El Periódico, 12–18 April 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-04-18-GESOP.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 18.6–23.6%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 18.1–23.1%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 15.8–20.6%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 25.8–31.4%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 18.6–23.6%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 18.1–23.1%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 15.8–20.6%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 25.8–31.4%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-04-18-GESOP.png"
-        length="201042"
+        length="235047"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 11:13:54 +0100</pubDate>
-      <dc:date>2018-12-22T11:13:54.510876+01:00</dc:date>
+      <pubDate>Fri, 04 Jan 2019 12:34:28 +0100</pubDate>
+      <dc:date>2019-01-04T12:34:28.133174+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 9–13 April 2018 – Seat Projections for the Parties</title>
@@ -1939,6 +1979,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-01-03T20:25:39.639586+01:00</dc:date>
+    <dc:date>2019-01-04T12:34:28.133174+01:00</dc:date>
   </channel>
 </rss>
