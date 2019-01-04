@@ -66,11 +66,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 4.1% | 3.5–4.9% | 3.4–5.1% | 3.2–5.3% | 3.0–5.7% |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 4.3% | 3.7–5.0% | 3.6–5.2% | 3.4–5.4% | 3.2–5.7% |
-| [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 3.7% | N/A | N/A | N/A | N/A |
+| [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [3–10 May 2018](2018-05-10-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 0.0% | N/A | N/A | N/A | N/A |
 | [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
-| [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 3.0% | N/A | N/A | N/A | N/A |
+| [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [1–10 April 2018](2018-04-10-CIS.html) | CIS | 3.6% | 3.2–4.1% | 3.0–4.3% | 2.9–4.4% | 2.7–4.7% |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
@@ -171,11 +171,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [3–10 May 2018](2018-05-10-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
 | [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
+| [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [1–10 April 2018](2018-04-10-CIS.html) | CIS | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |

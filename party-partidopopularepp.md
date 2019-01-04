@@ -193,7 +193,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
 | [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
-| [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
+| [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [3–10 May 2018](2018-05-10-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 12 | 11–12 | 11–12 | 10–13 | 10–13 |
 | [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
