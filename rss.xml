@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 04 Jan 2019 20:09:18 +0100</pubDate>
+    <pubDate>Sat, 05 Jan 2019 12:56:56 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sigma Dos for Antena 3, 16 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-16-SigmaDos.html#seats</link>
@@ -1422,12 +1422,12 @@
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 26 May–2 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-02-electoPanel.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 15.6–18.9%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 19.8–23.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 15.2–18.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 20.9–24.6%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya (Greens/EFA): 2.6–4.1%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 3.3–5.1%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 3.4–5.2%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 1.0–2.0%&lt;/li&gt;&lt;li&gt;Vox (ECR): 3.8–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 15.6–18.9%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 19.8–23.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 15.2–18.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 20.9–24.6%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 3.3–5.1%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 3.4–5.2%&lt;/li&gt;&lt;li&gt;Vox (ECR): 3.8–5.6%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 3.9–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-06-02-electoPanel.png"
-        length="280533"
+        length="276880"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 11:13:54 +0100</pubDate>
-      <dc:date>2018-12-22T11:13:54.546877+01:00</dc:date>
+      <pubDate>Sat, 05 Jan 2019 12:56:56 +0100</pubDate>
+      <dc:date>2019-01-05T12:56:56.540794+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 26–28 May 2018 – Seat Projections for the Parties</title>
@@ -2059,6 +2059,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-01-04T20:09:18.569748+01:00</dc:date>
+    <dc:date>2019-01-05T12:56:56.540794+01:00</dc:date>
   </channel>
 </rss>
