@@ -208,7 +208,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–10 April 2018](2018-04-10-CIS.html) | CIS | 13 | 13–14 | 13–14 | 12–14 | 12–15 |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
-| [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
+| [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
