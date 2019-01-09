@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.3% | 3.8–10.9% | 1.4–11.5% | 1.2–12.0% | 1.0–12.7% |
+| N/A | [Poll Average](average.html) | 8.4% | 3.8–11.9% | 1.4–12.8% | 1.2–13.5% | 1.0–14.7% |
+| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 12.5% | 11.6–13.5% | 11.4–13.7% | 11.2–14.0% | 10.8–14.4% |
+| [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 12.9% | 11.6–14.4% | 11.3–14.8% | 11.0–15.1% | 10.4–15.9% |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.6–11.2% | 7.1–11.8% |
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 8.6% | 7.5–9.9% | 7.1–10.2% | 6.9–10.6% | 6.4–11.2% |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 8.7% | 7.8–9.9% | 7.5–10.2% | 7.3–10.5% | 6.8–11.0% |
@@ -104,14 +106,17 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 4% | 91% |  |
 | 4.5–5.5% | 3% | 86% |  |
 | 5.5–6.5% | 4% | 83% |  |
-| 6.5–7.5% | 13% | 79% |  |
-| 7.5–8.5% | 21% | 67% | Median |
-| 8.5–9.5% | 20% | 45% |  |
-| 9.5–10.5% | 12% | 25% |  |
-| 10.5–11.5% | 8% | 13% |  |
-| 11.5–12.5% | 4% | 5% |  |
-| 12.5–13.5% | 0.8% | 0.8% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 6.5–7.5% | 12% | 79% |  |
+| 7.5–8.5% | 20% | 67% | Median |
+| 8.5–9.5% | 17% | 47% |  |
+| 9.5–10.5% | 10% | 30% |  |
+| 10.5–11.5% | 8% | 20% |  |
+| 11.5–12.5% | 6% | 12% |  |
+| 12.5–13.5% | 4% | 6% |  |
+| 13.5–14.5% | 2% | 2% |  |
+| 14.5–15.5% | 0.5% | 0.6% |  |
+| 15.5–16.5% | 0.1% | 0.1% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -122,7 +127,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 2–6 | 0–7 | 0–7 | 0–7 |
+| N/A | [Poll Average](average.html) | 5 | 2–7 | 0–8 | 0–8 | 0–9 |
+| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
+| [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -215,11 +222,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 1.1% | 92% |  |
 | 2 | 6% | 91% |  |
 | 3 | 5% | 86% |  |
-| 4 | 22% | 80% |  |
-| 5 | 32% | 58% | Median |
-| 6 | 19% | 26% |  |
-| 7 | 7% | 7% |  |
-| 8 | 0.3% | 0.3% |  |
-| 9 | 0% | 0% |  |
+| 4 | 21% | 80% |  |
+| 5 | 27% | 59% | Median |
+| 6 | 17% | 32% |  |
+| 7 | 10% | 15% |  |
+| 8 | 5% | 6% |  |
+| 9 | 0.9% | 1.0% |  |
+| 10 | 0.1% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 
