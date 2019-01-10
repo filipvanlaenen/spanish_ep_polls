@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 09 Jan 2019 12:35:34 +0100</pubDate>
+    <pubDate>Wed, 09 Jan 2019 12:57:29 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 22 December 2018–5 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-05-SocioMétrica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 10–12 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 13–15 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9–11 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 10–12 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 7–8 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-05-SocioMétrica-seats.png"
+        length="214966"
+        type="image/png"/>
+      <pubDate>Wed, 09 Jan 2019 12:57:29 +0100</pubDate>
+      <dc:date>2019-01-09T12:57:29.687426+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 22 December 2018–5 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-05-SocioMétrica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-05-SocioMétrica-coalitions-seats.png"
+        length="137467"
+        type="image/png"/>
+      <pubDate>Wed, 09 Jan 2019 12:57:29 +0100</pubDate>
+      <dc:date>2019-01-09T12:57:29.687426+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 22 December 2018–5 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-05-SocioMétrica.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-05-SocioMétrica.png"
         length="287498"
         type="image/png"/>
-      <pubDate>Wed, 09 Jan 2019 12:35:34 +0100</pubDate>
-      <dc:date>2019-01-09T12:35:34.796241+01:00</dc:date>
+      <pubDate>Wed, 09 Jan 2019 12:57:29 +0100</pubDate>
+      <dc:date>2019-01-09T12:57:29.687426+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 21–27 December 2018 – Seat Projections for the Parties</title>
@@ -2419,6 +2439,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-01-09T12:35:34.796241+01:00</dc:date>
+    <dc:date>2019-01-09T12:57:29.687426+01:00</dc:date>
   </channel>
 </rss>
