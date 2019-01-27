@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.0% | 13.8–17.8% | 13.3–18.2% | 12.9–18.6% | 12.1–19.5% |
+| N/A | [Poll Average](average.html) | 16.0% | 13.9–17.8% | 13.3–18.2% | 12.9–18.6% | 12.1–19.4% |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 17.1% | 16.1–18.2% | 15.9–18.4% | 15.6–18.7% | 15.2–19.2% |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 16.3% | 15.1–17.6% | 14.7–18.0% | 14.4–18.3% | 13.9–19.0% |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
-| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16.1% | N/A | N/A | N/A | N/A |
+| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16.1% | 14.7–17.6% | 14.4–18.0% | 14.0–18.4% | 13.4–19.1% |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 17.1% | 16.1–18.2% | 15.8–18.5% | 15.6–18.7% | 15.1–19.3% |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 16.7% | 15.3–18.3% | 14.9–18.7% | 14.5–19.1% | 13.9–19.9% |
@@ -115,17 +115,16 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 1.3% | 99.9% |  |
-| 12.5–13.5% | 6% | 98.6% |  |
-| 13.5–14.5% | 14% | 93% |  |
-| 14.5–15.5% | 19% | 79% |  |
-| 15.5–16.5% | 24% | 60% | Median |
-| 16.5–17.5% | 22% | 36% |  |
+| 11.5–12.5% | 1.1% | 99.9% |  |
+| 12.5–13.5% | 5% | 98.7% |  |
+| 13.5–14.5% | 13% | 93% |  |
+| 14.5–15.5% | 20% | 80% |  |
+| 15.5–16.5% | 25% | 61% | Median |
+| 16.5–17.5% | 23% | 36% |  |
 | 17.5–18.5% | 11% | 14% |  |
 | 18.5–19.5% | 2% | 3% |  |
-| 19.5–20.5% | 0.4% | 0.4% |  |
+| 19.5–20.5% | 0.3% | 0.4% |  |
 | 20.5–21.5% | 0% | 0% |  |
-| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -140,7 +139,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9 | 9–10 | 9–10 | 8–11 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
-| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
+| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9 | 8–11 | 8–11 | 8–11 | 7–11 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–11 | 10–11 | 9–11 | 9–12 |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 10 | 9–10 | 8–11 | 8–11 | 8–12 |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
@@ -239,11 +238,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 2% | 100% |  |
-| 8 | 16% | 98% |  |
-| 9 | 37% | 83% | Median |
-| 10 | 30% | 45% |  |
-| 11 | 14% | 15% |  |
-| 12 | 1.2% | 1.3% |  |
+| 8 | 17% | 98% |  |
+| 9 | 37% | 81% | Median |
+| 10 | 27% | 44% |  |
+| 11 | 16% | 17% |  |
+| 12 | 1.1% | 1.2% |  |
 | 13 | 0% | 0% |  |
 
 
