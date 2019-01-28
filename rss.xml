@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 26 Jan 2019 21:20:57 +0100</pubDate>
+    <pubDate>Mon, 28 Jan 2019 07:18:06 +0100</pubDate>
     <item>
       <title>Opinion Poll by Metroscopia for Henneo, 9–15 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-15-Metroscopia.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-15-Metroscopia.png"
         length="182406"
         type="image/png"/>
-      <pubDate>Sat, 26 Jan 2019 20:12:07 +0100</pubDate>
-      <dc:date>2019-01-26T20:12:07.751925+01:00</dc:date>
+      <pubDate>Sun, 27 Jan 2019 22:50:58 +0100</pubDate>
+      <dc:date>2019-01-27T22:50:58.111268+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 6–13 January 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-13-electoPanel.png"
         length="227232"
         type="image/png"/>
-      <pubDate>Sat, 26 Jan 2019 20:31:51 +0100</pubDate>
-      <dc:date>2019-01-26T20:31:51.028266+01:00</dc:date>
+      <pubDate>Sun, 27 Jan 2019 22:54:47 +0100</pubDate>
+      <dc:date>2019-01-27T22:54:47.769017+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Simple Lógica, 3–9 January 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-09-SimpleLógica.png"
         length="200457"
         type="image/png"/>
-      <pubDate>Sat, 26 Jan 2019 20:52:02 +0100</pubDate>
-      <dc:date>2019-01-26T20:52:02.456255+01:00</dc:date>
+      <pubDate>Sun, 27 Jan 2019 18:24:35 +0100</pubDate>
+      <dc:date>2019-01-27T18:24:35.792207+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 2–8 January 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-08-Celeste-Tel.png"
         length="325302"
         type="image/png"/>
-      <pubDate>Sat, 26 Jan 2019 21:20:57 +0100</pubDate>
-      <dc:date>2019-01-26T21:20:57.635814+01:00</dc:date>
+      <pubDate>Mon, 28 Jan 2019 07:18:06 +0100</pubDate>
+      <dc:date>2019-01-28T07:18:06.317068+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 22 December 2018–5 January 2019 – Seat Projections for the Parties</title>
@@ -2479,6 +2479,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-01-26T21:20:57.635814+01:00</dc:date>
+    <dc:date>2019-01-28T07:18:06.317068+01:00</dc:date>
   </channel>
 </rss>
