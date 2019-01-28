@@ -132,10 +132,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 3–8 | 2–8 | 2–8 | 2–9 |
-| [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
-| [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
-| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4 | 3–5 | 3–5 | 3–5 | 3–7 |
+| [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
+| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
@@ -229,13 +229,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.3% | 100% |  |
 | 2 | 6% | 99.7% |  |
-| 3 | 6% | 93% |  |
-| 4 | 17% | 88% |  |
-| 5 | 20% | 71% |  |
-| 6 | 9% | 50% | Median |
-| 7 | 19% | 41% |  |
-| 8 | 20% | 22% |  |
-| 9 | 1.2% | 1.3% |  |
+| 3 | 4% | 93% |  |
+| 4 | 16% | 90% |  |
+| 5 | 22% | 74% |  |
+| 6 | 11% | 52% | Median |
+| 7 | 23% | 40% |  |
+| 8 | 16% | 18% |  |
+| 9 | 2% | 2% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 

@@ -26,11 +26,11 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 15 | 14–15 |14–15 |13–15 |13–15 |
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 11 | 10–12 |10–12 |10–12 |10–13 |
-| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 10 | 10–11 |10–11 |9–12 |9–12 |
-| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 10 | 9–11 |9–11 |9–11 |9–12 |
-| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 7 | 7–8 |6–8 |6–8 |6–8 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 14 | 13–15 |13–15 |13–15 |13–16 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 11 | 11–12 |10–12 |10–12 |10–13 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 11 | 10–11 |10–11 |10–11 |9–12 |
+| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 10 | 9–11 |9–11 |9–11 |9–11 |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 7 | 6–8 |6–8 |6–8 |6–8 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -52,11 +52,11 @@
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 3% | 100% |  |
-| 14 | 29% | 97% |  |
-| 15 | 68% | 68% | Median |
-| 16 | 0.1% | 0.1% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 12% | 99.9% |  |
+| 14 | 59% | 88% | Median |
+| 15 | 27% | 29% |  |
+| 16 | 1.1% | 1.1% |  |
 | 17 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
@@ -77,10 +77,10 @@
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 20% | 100% |  |
-| 11 | 69% | 80% | Median |
-| 12 | 10% | 11% |  |
-| 13 | 1.3% | 1.3% |  |
+| 10 | 5% | 100% |  |
+| 11 | 58% | 95% | Median |
+| 12 | 35% | 36% |  |
+| 13 | 1.2% | 1.2% |  |
 | 14 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (ALDE)
@@ -100,10 +100,10 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 5% | 100% |  |
-| 10 | 64% | 95% | Median |
-| 11 | 28% | 31% |  |
-| 12 | 3% | 3% |  |
+| 9 | 2% | 100% |  |
+| 10 | 45% | 98% |  |
+| 11 | 50% | 53% | Median |
+| 12 | 2% | 2% |  |
 | 13 | 0% | 0% |  |
 
 ### Unidos Podemos (GUE/NGL)
@@ -123,10 +123,10 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 13% | 100% |  |
-| 10 | 57% | 87% | Median |
-| 11 | 30% | 31% |  |
-| 12 | 0.9% | 0.9% |  |
+| 9 | 11% | 100% |  |
+| 10 | 67% | 89% | Median |
+| 11 | 22% | 23% |  |
+| 12 | 0.3% | 0.3% |  |
 | 13 | 0% | 0% |  |
 
 ### Vox (ECR)
@@ -143,9 +143,9 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 6% | 100% |  |
-| 7 | 70% | 94% | Median |
-| 8 | 24% | 24% |  |
+| 6 | 12% | 100% |  |
+| 7 | 76% | 88% | Median |
+| 8 | 12% | 12% |  |
 | 9 | 0% | 0% |  |
 
 
@@ -157,9 +157,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0 | 15 | 0% | 14–15 | 14–15 | 13–15 | 13–15 |
-| Partido Popular (EPP) | 0 | 11 | 0% | 10–12 | 10–12 | 10–12 | 10–13 |
-| Vox (ECR) | 0 | 7 | 0% | 7–8 | 6–8 | 6–8 | 6–8 |
+| Partido Socialista Obrero Español (S&D) | 0 | 14 | 0% | 13–15 | 13–15 | 13–15 | 13–16 |
+| Partido Popular (EPP) | 0 | 11 | 0% | 11–12 | 10–12 | 10–12 | 10–13 |
+| Vox (ECR) | 0 | 7 | 0% | 6–8 | 6–8 | 6–8 | 6–8 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -179,11 +179,11 @@
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 3% | 100% |  |
-| 14 | 29% | 97% |  |
-| 15 | 68% | 68% | Median |
-| 16 | 0.1% | 0.1% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 12% | 99.9% |  |
+| 14 | 59% | 88% | Median |
+| 15 | 27% | 29% |  |
+| 16 | 1.1% | 1.1% |  |
 | 17 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
@@ -202,10 +202,10 @@
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 20% | 100% |  |
-| 11 | 69% | 80% | Median |
-| 12 | 10% | 11% |  |
-| 13 | 1.3% | 1.3% |  |
+| 10 | 5% | 100% |  |
+| 11 | 58% | 95% | Median |
+| 12 | 35% | 36% |  |
+| 13 | 1.2% | 1.2% |  |
 | 14 | 0% | 0% |  |
 
 ### Vox (ECR)
@@ -220,9 +220,9 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 6% | 100% |  |
-| 7 | 70% | 94% | Median |
-| 8 | 24% | 24% |  |
+| 6 | 12% | 100% |  |
+| 7 | 76% | 88% | Median |
+| 8 | 12% | 12% |  |
 | 9 | 0% | 0% |  |
 
 
@@ -237,6 +237,6 @@
 ### Calculations
 
 + **Sample size:** 2332
-+ **Simulations done:** 1,024
-+ **Error estimate:** 1.91%
++ **Simulations done:** 131,072
++ **Error estimate:** 0.85%
 

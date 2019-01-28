@@ -145,11 +145,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
-| [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 15 | 14–15 | 14–15 | 13–15 | 13–15 |
-| [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–14 | 13–14 | 13–14 | 12–14 |
-| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
-| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 13–16 | 13–16 | 13–16 | 13–16 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 13–17 | 12–17 | 12–17 |
+| [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
+| [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
+| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
+| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 13–17 | 13–17 | 13–17 | 12–17 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
@@ -251,14 +251,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 1.2% | 100% |  |
-| 13 | 14% | 98.8% |  |
-| 14 | 34% | 85% |  |
-| 15 | 32% | 51% | Median |
-| 16 | 14% | 19% |  |
-| 17 | 4% | 5% |  |
-| 18 | 0.4% | 0.4% |  |
+| 11 | 0.3% | 100% |  |
+| 12 | 4% | 99.7% |  |
+| 13 | 16% | 96% |  |
+| 14 | 32% | 80% | Median |
+| 15 | 28% | 48% |  |
+| 16 | 14% | 20% |  |
+| 17 | 5% | 6% |  |
+| 18 | 0.4% | 0.5% |  |
 | 19 | 0% | 0% |  |
 
 
