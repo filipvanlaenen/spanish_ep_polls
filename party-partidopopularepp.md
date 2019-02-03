@@ -146,12 +146,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–15 | 9–15 | 9–16 | 8–16 |
+| N/A | [Poll Average](average.html) | 12 | 10–15 | 9–15 | 9–16 | 8–17 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 11 | 11–12 | 10–12 | 10–12 | 10–13 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 13–16 | 13–16 | 13–17 | 13–17 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
@@ -252,16 +252,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 2% | 100% |  |
-| 9 | 4% | 98% |  |
-| 10 | 9% | 95% |  |
+| 8 | 0.7% | 100% |  |
+| 9 | 6% | 99.3% |  |
+| 10 | 7% | 93% |  |
 | 11 | 23% | 86% |  |
 | 12 | 20% | 63% | Median |
 | 13 | 13% | 43% |  |
 | 14 | 17% | 30% |  |
-| 15 | 11% | 13% |  |
+| 15 | 10% | 13% |  |
 | 16 | 2% | 3% |  |
-| 17 | 0.5% | 0.5% |  |
+| 17 | 0.5% | 0.6% |  |
 | 18 | 0% | 0% |  |
 
 
