@@ -15,7 +15,7 @@ The table below lists the polls on which the average is based. They are the most
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 18–21% <br> 10–12 | 22–25% <br> 13–15 | 16–19% <br> 9–11 | 16–19% <br> 10–11 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–13% <br> 6–8 | N/A <br> N/A | N/A <br> N/A |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 17–21% <br> 10–13 | 19–24% <br> 11–14 | 14–18% <br> 8–11 | 18–22% <br> 11–13 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 6–9 | N/A <br> N/A | N/A <br> N/A |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 14–16% <br> 8–10 | 28–32% <br> 18–20 | 14–17% <br> 9–10 | 16–19% <br> 10–12 | N/A <br> N/A | 1% <br> 0 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | 0% <br> 0 | 6–7% <br> 3–4 | N/A <br> N/A | 5–7% <br> 3–4 |
-| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 16–21% <br> 9–12 | 23–28% <br> 13–17 | 12–16% <br> 7–10 | 16–20% <br> 9–12 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 6–8 | N/A <br> N/A | N/A <br> N/A |
+| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 16–21% <br> 9–12 | 23–28% <br> 13–17 | 12–16% <br> 7–10 | 16–20% <br> 9–12 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 5–8 | N/A <br> N/A | N/A <br> N/A |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 21–26% <br> 13–17 | 22–27% <br> 13–17 | 14–18% <br> 9–11 | 17–22% <br> 10–14 | N/A <br> N/A | 1–2% <br> 0–1 | 1–2% <br> 0–1 | 0–2% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 | 7–10% <br> 4–6 | N/A <br> N/A | 3–5% <br> 1–3 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 17–20% <br> 10–12 | 21–24% <br> 13–15 | 16–19% <br> 9–11 | 17–20% <br> 10–12 | N/A <br> N/A | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 11–14% <br> 7–8 | N/A <br> N/A | 3–5% <br> 2–3 |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 17–22% <br> 10–13 | 20–25% <br> 12–15 | 14–18% <br> 8–11 | 16–21% <br> 10–13 | N/A <br> N/A | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 6–9 | N/A <br> N/A | 3–5% <br> 1–3 |
@@ -339,7 +339,7 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 6% | 99.3% |  |
 | 10 | 7% | 93% |  |
 | 11 | 23% | 86% |  |
-| 12 | 20% | 63% | Median |
+| 12 | 21% | 63% | Median |
 | 13 | 13% | 43% |  |
 | 14 | 17% | 30% |  |
 | 15 | 10% | 13% |  |
@@ -395,7 +395,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0.9% | 100% |  |
 | 7 | 8% | 99.1% |  |
 | 8 | 11% | 91% |  |
-| 9 | 31% | 80% | Median |
+| 9 | 32% | 80% | Median |
 | 10 | 36% | 48% |  |
 | 11 | 11% | 12% |  |
 | 12 | 0.9% | 0.9% |  |
@@ -419,8 +419,8 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0.9% | 100% |  |
-| 10 | 17% | 99.1% |  |
-| 11 | 34% | 83% | Median |
+| 10 | 17% | 99.0% |  |
+| 11 | 34% | 82% | Median |
 | 12 | 23% | 48% |  |
 | 13 | 16% | 26% |  |
 | 14 | 8% | 10% |  |
@@ -574,7 +574,7 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 6% | 99.3% |  |
 | 10 | 7% | 93% |  |
 | 11 | 23% | 86% |  |
-| 12 | 20% | 63% | Median |
+| 12 | 21% | 63% | Median |
 | 13 | 13% | 43% |  |
 | 14 | 17% | 30% |  |
 | 15 | 10% | 13% |  |
@@ -597,8 +597,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.7% | 100% |  |
-| 10 | 11% | 99.3% |  |
+| 9 | 0.8% | 100% |  |
+| 10 | 11% | 99.2% |  |
 | 11 | 32% | 88% | Median |
 | 12 | 23% | 56% |  |
 | 13 | 16% | 33% |  |
@@ -622,7 +622,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0.9% | 100% |  |
 | 7 | 8% | 99.1% |  |
 | 8 | 10% | 91% |  |
-| 9 | 26% | 80% | Median |
+| 9 | 26% | 81% | Median |
 | 10 | 39% | 55% |  |
 | 11 | 14% | 16% |  |
 | 12 | 1.3% | 1.3% |  |
@@ -665,5 +665,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 12
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 8,126,464
++ **Total number of simulations done in the polls included in this average:** 9,043,968
 + **Error estimate:** 2.36%
