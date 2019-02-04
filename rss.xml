@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 03 Feb 2019 16:03:29 +0100</pubDate>
+    <pubDate>Mon, 04 Feb 2019 19:33:10 +0100</pubDate>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 21–25 January 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-25-NCReport.html#seats</link>
@@ -100,14 +100,34 @@
       <dc:date>2019-02-03T16:03:29.668897+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Simple Lógica, 3–9 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-09-SimpleLógica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 9–12 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 13–17 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 7–10 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 9–12 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 5–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-09-SimpleLógica-seats.png"
+        length="186844"
+        type="image/png"/>
+      <pubDate>Mon, 04 Feb 2019 19:33:10 +0100</pubDate>
+      <dc:date>2019-02-04T19:33:10.44462+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 3–9 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-09-SimpleLógica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-09-SimpleLógica-coalitions-seats.png"
+        length="159481"
+        type="image/png"/>
+      <pubDate>Mon, 04 Feb 2019 19:33:10 +0100</pubDate>
+      <dc:date>2019-02-04T19:33:10.44462+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Simple Lógica, 3–9 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-09-SimpleLógica.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 16.0–20.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 22.6–27.9%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.0–16.3%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 15.7–20.4%&lt;/li&gt;&lt;li&gt;Vox (ECR): 9.7–13.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-09-SimpleLógica.png"
         length="200457"
         type="image/png"/>
-      <pubDate>Sun, 27 Jan 2019 18:24:35 +0100</pubDate>
-      <dc:date>2019-01-27T18:24:35.792207+01:00</dc:date>
+      <pubDate>Mon, 04 Feb 2019 19:33:10 +0100</pubDate>
+      <dc:date>2019-02-04T19:33:10.44462+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 2–8 January 2019 – Voting Intentions</title>
@@ -2549,6 +2569,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-02-03T16:03:29.668897+01:00</dc:date>
+    <dc:date>2019-02-04T19:33:10.44462+01:00</dc:date>
   </channel>
 </rss>
