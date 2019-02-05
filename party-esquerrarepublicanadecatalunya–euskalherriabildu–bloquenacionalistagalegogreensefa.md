@@ -132,7 +132,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
@@ -224,9 +224,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 16% | 100% |  |
-| 2 | 67% | 84% | Median |
-| 3 | 15% | 17% |  |
+| 1 | 15% | 100% |  |
+| 2 | 68% | 85% | Median |
+| 3 | 14% | 17% |  |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
