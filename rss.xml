@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 05 Feb 2019 14:14:03 +0100</pubDate>
+    <pubDate>Wed, 06 Feb 2019 12:18:24 +0100</pubDate>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 21–25 January 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-25-NCReport.html#seats</link>
@@ -100,14 +100,34 @@
       <dc:date>2019-02-05T13:26:27.034641+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 6–13 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-13-electoPanel.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 12–14 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9–11 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 11–13 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 7–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-13-electoPanel-seats.png"
+        length="165340"
+        type="image/png"/>
+      <pubDate>Wed, 06 Feb 2019 12:18:24 +0100</pubDate>
+      <dc:date>2019-02-06T12:18:24.842269+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 6–13 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-13-electoPanel.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-13-electoPanel-coalitions-seats.png"
+        length="136402"
+        type="image/png"/>
+      <pubDate>Wed, 06 Feb 2019 12:18:24 +0100</pubDate>
+      <dc:date>2019-02-06T12:18:24.842269+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by electoPanel for electomania.es, 6–13 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-13-electoPanel.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.1–21.2%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 19.2–23.5%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 14.4–18.3%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 17.9–22.1%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Vox (ECR): 11.3–14.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-13-electoPanel.png"
         length="227232"
         type="image/png"/>
-      <pubDate>Tue, 05 Feb 2019 06:45:28 +0100</pubDate>
-      <dc:date>2019-02-05T06:45:28.066291+01:00</dc:date>
+      <pubDate>Wed, 06 Feb 2019 12:18:24 +0100</pubDate>
+      <dc:date>2019-02-06T12:18:24.842269+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CIS, 1–13 January 2019 – Seat Projections for the Parties</title>
@@ -2629,6 +2649,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-02-05T14:14:03.33539+01:00</dc:date>
+    <dc:date>2019-02-06T12:18:24.842269+01:00</dc:date>
   </channel>
 </rss>
