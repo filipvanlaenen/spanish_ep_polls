@@ -13,7 +13,7 @@ The table below lists the polls on which the average is based. They are the most
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 21–27% <br> 13–16 | 22–27% <br> 13–17 | 14–19% <br> 8–12 | 16–21% <br> 10–13 | N/A <br> N/A | 1–2% <br> 0–1 | 0–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 8–11% <br> 4–7 | N/A <br> N/A | 3–5% <br> 1–3 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 21–25% <br> 13–15 | 25–29% <br> 15–18 | 10–13% <br> 6–8 | 15–19% <br> 9–11 | N/A <br> N/A | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 8–11% <br> 5–7 | N/A <br> N/A | 3–4% <br> 1–2 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 18–21% <br> 10–12 | 22–25% <br> 13–15 | 16–19% <br> 9–11 | 16–19% <br> 10–12 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–13% <br> 6–8 | N/A <br> N/A | N/A <br> N/A |
-| [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 17–21% <br> 10–13 | 19–24% <br> 12–14 | 14–18% <br> 8–11 | 18–22% <br> 11–13 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 7–9 | N/A <br> N/A | N/A <br> N/A |
+| [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 17–21% <br> 10–13 | 19–24% <br> 12–14 | 14–18% <br> 9–11 | 18–22% <br> 11–13 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 7–9 | N/A <br> N/A | N/A <br> N/A |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 14–16% <br> 8–10 | 28–32% <br> 18–20 | 14–17% <br> 9–10 | 16–19% <br> 10–12 | N/A <br> N/A | 1% <br> 0 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | 0% <br> 0 | 6–7% <br> 3–4 | N/A <br> N/A | 5–7% <br> 3–4 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 16–21% <br> 9–12 | 23–28% <br> 13–17 | 12–16% <br> 7–10 | 16–20% <br> 9–12 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 5–8 | N/A <br> N/A | N/A <br> N/A |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 21–26% <br> 13–16 | 22–27% <br> 13–17 | 14–18% <br> 9–11 | 17–22% <br> 11–14 | N/A <br> N/A | 1–2% <br> 0–1 | 1–2% <br> 0–1 | 0–2% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | 7–10% <br> 4–6 | N/A <br> N/A | 3–5% <br> 1–3 |
@@ -598,7 +598,7 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0% | 100% |  |
 | 9 | 0.8% | 100% |  |
 | 10 | 11% | 99.2% |  |
-| 11 | 30% | 89% | Median |
+| 11 | 30% | 88% | Median |
 | 12 | 25% | 58% |  |
 | 13 | 17% | 33% |  |
 | 14 | 12% | 16% |  |
@@ -663,6 +663,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 12
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 12,058,624
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 12,582,912
 + **Error estimate:** 2.36%
