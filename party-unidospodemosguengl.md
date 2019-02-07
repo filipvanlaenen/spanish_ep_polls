@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.8% | 13.1–17.6% | 11.8–18.0% | 11.2–18.4% | 10.5–19.1% |
+| N/A | [Poll Average](average.html) | 15.6% | 12.9–17.5% | 11.7–18.0% | 11.2–18.3% | 10.5–19.0% |
+| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 14.9% | 14.1–15.8% | 13.9–16.0% | 13.7–16.3% | 13.3–16.7% |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 16.6% | 15.2–18.2% | 14.8–18.6% | 14.4–19.0% | 13.8–19.8% |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 11.6% | 10.7–12.6% | 10.4–12.9% | 10.2–13.2% | 9.8–13.7% |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 17.1% | 16.1–18.2% | 15.9–18.4% | 15.6–18.7% | 15.2–19.2% |
@@ -117,16 +118,16 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.6% | 100% |  |
-| 10.5–11.5% | 3% | 99.4% |  |
-| 11.5–12.5% | 4% | 96% |  |
-| 12.5–13.5% | 4% | 92% |  |
-| 13.5–14.5% | 10% | 88% |  |
-| 14.5–15.5% | 21% | 78% |  |
-| 15.5–16.5% | 26% | 57% | Median |
-| 16.5–17.5% | 21% | 32% |  |
-| 17.5–18.5% | 9% | 11% |  |
-| 18.5–19.5% | 2% | 2% |  |
-| 19.5–20.5% | 0.2% | 0.2% |  |
+| 10.5–11.5% | 4% | 99.4% |  |
+| 11.5–12.5% | 5% | 96% |  |
+| 12.5–13.5% | 5% | 91% |  |
+| 13.5–14.5% | 12% | 87% |  |
+| 14.5–15.5% | 24% | 74% |  |
+| 15.5–16.5% | 23% | 50% | Median |
+| 16.5–17.5% | 18% | 27% |  |
+| 17.5–18.5% | 8% | 10% |  |
+| 18.5–19.5% | 1.4% | 2% |  |
+| 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
 
@@ -138,7 +139,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 7–11 | 7–11 | 6–12 |
+| N/A | [Poll Average](average.html) | 9 | 7–11 | 7–11 | 7–11 | 6–12 |
+| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 10 | 9–11 | 9–11 | 8–12 | 8–12 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
@@ -243,12 +245,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
-| 7 | 7% | 98% |  |
-| 8 | 11% | 91% |  |
-| 9 | 31% | 80% | Median |
-| 10 | 37% | 49% |  |
-| 11 | 11% | 12% |  |
-| 12 | 0.9% | 0.9% |  |
+| 7 | 8% | 98% |  |
+| 8 | 16% | 90% |  |
+| 9 | 31% | 74% | Median |
+| 10 | 32% | 43% |  |
+| 11 | 10% | 11% |  |
+| 12 | 0.8% | 0.8% |  |
 | 13 | 0% | 0% |  |
 
 

@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 0.9–2.0% | 0.8–2.2% | 0.7–2.4% | 0.6–2.7% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.9–2.0% | 0.8–2.1% | 0.7–2.3% | 0.6–2.6% |
+| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 1.6% | 1.3–2.1% | 1.2–2.2% | 1.1–2.3% | 1.0–2.5% |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
@@ -107,9 +108,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.4% | 100% | Last Result |
-| 0.5–1.5% | 62% | 99.6% | Median |
-| 1.5–2.5% | 37% | 38% |  |
-| 2.5–3.5% | 1.0% | 1.1% |  |
+| 0.5–1.5% | 64% | 99.6% | Median |
+| 1.5–2.5% | 34% | 35% |  |
+| 2.5–3.5% | 0.8% | 0.8% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -122,6 +123,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
@@ -219,8 +221,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 62% | 100% | Last Result, Median |
-| 1 | 38% | 38% |  |
+| 0 | 63% | 100% | Last Result, Median |
+| 1 | 37% | 37% |  |
 | 2 | 0% | 0% |  |
 
 
