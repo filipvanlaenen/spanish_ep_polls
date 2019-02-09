@@ -136,7 +136,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 3–8 | 3–9 |
-| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7 | 6–8 | 6–8 | 6–8 |
+| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
