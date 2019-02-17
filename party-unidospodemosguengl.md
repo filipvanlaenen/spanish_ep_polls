@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15.6% | 12.9–17.5% | 11.7–18.0% | 11.2–18.3% | 10.5–19.0% |
+| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 13.6% | 12.3–15.1% | 11.9–15.5% | 11.6–15.9% | 11.0–16.6% |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 13.9% | 12.6–15.3% | 12.2–15.8% | 11.9–16.1% | 11.3–16.9% |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15.8% | 14.5–17.3% | 14.1–17.7% | 13.8–18.1% | 13.2–18.8% |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 14.9% | 14.1–15.8% | 13.9–16.0% | 13.7–16.3% | 13.3–16.7% |
@@ -142,6 +143,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–11 | 7–11 | 7–11 | 6–12 |
+| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 8 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9 | 9–11 | 9–11 | 8–11 | 8–11 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
