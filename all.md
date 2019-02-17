@@ -2,9 +2,10 @@
 
 The table below lists all polls registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | PP | PSOE | UP | Cs | ERC | PDeCAT | EAJ-PNV | PACMA | EH Bildu | CC | Vox | BNG | ERC–EH Bildu–BNG |
+| Period     | Polling firm/Commissioner(s) | PP | PSOE | UP | Cs | ERC | PDeCAT | EAJ/PNV | PACMA | EH Bildu | CC | Vox | BNG | ERC–EH Bildu–BNG |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 18–22% <br> 11–13 | 25–30% <br> 15–17 | 12–16% <br> 6–9 | 12–17% <br> 8–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 7–9 | N/A <br> N/A | N/A <br> N/A |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 16–20% <br> 9–12 | 23–28% <br> 14–17 | 12–16% <br> 7–9 | 15–19% <br> 9–12 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 6–8 | N/A <br> N/A | N/A <br> N/A |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 21–26% <br> 13–16 | 21–26% <br> 13–16 | 14–18% <br> 8–11 | 17–22% <br> 10–13 | N/A <br> N/A | 1–3% <br> 0–1 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 | 7–11% <br> 4–6 | N/A <br> N/A | 3–5% <br> 1–3 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 19–22% <br> 11–13 | 22–25% <br> 13–15 | 14–16% <br> 8–10 | 18–21% <br> 11–13 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–13% <br> 6–8 | N/A <br> N/A | N/A <br> N/A |
@@ -109,7 +110,7 @@ Only polls for which at least the sample size has been published are included in
 + **Cs:** Ciudadanos–Partido de la Ciudadanía (ALDE)
 + **ERC:** Esquerra Republicana de Catalunya (Greens/EFA)
 + **PDeCAT:** Partit Demòcrata Europeu Català (ALDE)
-+ **EAJ-PNV:** Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE)
++ **EAJ/PNV:** Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE)
 + **PACMA:** Partido Animalista Contra el Maltrato Animal (GUE/NGL)
 + **EH Bildu:** Euskal Herria Bildu (GUE/NGL)
 + **CC:** Coalición Canaria (ALDE)
