@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 17 Feb 2019 14:30:10 +0100</pubDate>
+    <pubDate>Mon, 18 Feb 2019 20:18:09 +0100</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 13–15 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-15-SocioMétrica.html</link>
@@ -16,8 +16,38 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-15-SocioMétrica.png"
         length="329327"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 14:30:10 +0100</pubDate>
-      <dc:date>2019-02-17T14:30:10.506989+01:00</dc:date>
+      <pubDate>Mon, 18 Feb 2019 08:01:29 +0100</pubDate>
+      <dc:date>2019-02-18T08:01:29.9651+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 11–15 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-15-NCReport.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 21.1–26.3%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 21.6–26.9%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 13.9–18.4%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 16.6–21.5%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0.8–2.2%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Vox (ECR): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 2.4–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-15-NCReport.png"
+        length="287329"
+        type="image/png"/>
+      <pubDate>Mon, 18 Feb 2019 19:55:38 +0100</pubDate>
+      <dc:date>2019-02-18T19:55:38.081328+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 13–15 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-15-GESOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 15–18 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 7–9 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 7–10 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 6–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-15-GESOP-seats.png"
+        length="168807"
+        type="image/png"/>
+      <pubDate>Mon, 18 Feb 2019 18:00:27 +0100</pubDate>
+      <dc:date>2019-02-18T18:00:27.576452+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 13–15 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-15-GESOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-15-GESOP-coalitions-seats.png"
+        length="150413"
+        type="image/png"/>
+      <pubDate>Mon, 18 Feb 2019 18:00:27 +0100</pubDate>
+      <dc:date>2019-02-18T18:00:27.576452+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 13–15 February 2019 – Voting Intentions</title>
@@ -26,8 +56,28 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-15-GESOP.png"
         length="194267"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 09:47:48 +0100</pubDate>
-      <dc:date>2019-02-17T09:47:48.117138+01:00</dc:date>
+      <pubDate>Mon, 18 Feb 2019 18:00:27 +0100</pubDate>
+      <dc:date>2019-02-18T18:00:27.576452+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GAD3 for La Vanguardia, 12–15 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-15-GAD3.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 21.3–26.1%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 25.7–30.8%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.7–14.4%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 15.1–19.3%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 1.0–2.5%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.7–2.0%&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Vox (ECR): 7.3–10.6%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 2.5–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-15-GAD3.png"
+        length="286210"
+        type="image/png"/>
+      <pubDate>Mon, 18 Feb 2019 20:18:09 +0100</pubDate>
+      <dc:date>2019-02-18T20:18:09.051198+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metroscopia for Henneo, 11–13 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-13-Metroscopia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 18.8–22.3%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 25.7–29.6%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.3–15.4%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 13.9–17.0%&lt;/li&gt;&lt;li&gt;Vox (ECR): 11.3–14.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-13-Metroscopia.png"
+        length="171836"
+        type="image/png"/>
+      <pubDate>Mon, 18 Feb 2019 20:13:07 +0100</pubDate>
+      <dc:date>2019-02-18T20:13:07.526739+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Simple Lógica, 1–8 February 2019 – Seat Projections for the Parties</title>
@@ -2759,6 +2809,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-02-17T14:30:10.506989+01:00</dc:date>
+    <dc:date>2019-02-18T20:18:09.051198+01:00</dc:date>
   </channel>
 </rss>
