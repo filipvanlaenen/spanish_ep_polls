@@ -12,7 +12,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.8% | 17.0–21.7% | 16.6–22.9% | 16.2–23.7% | 15.5–24.9% |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 18.7% | 17.2–20.4% | 16.8–20.8% | 16.4–21.2% | 15.7–22.1% |
+| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 18.9% | 17.4–20.6% | 16.9–21.0% | 16.6–21.5% | 15.9–22.3% |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 14.5% | 13.2–16.0% | 12.8–16.4% | 12.5–16.8% | 11.8–17.6% |
+| [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 17.1% | 15.7–18.5% | 15.4–19.0% | 15.1–19.3% | 14.4–20.0% |
+| [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 15.4% | 14.4–16.5% | 14.1–16.8% | 13.9–17.0% | 13.4–17.6% |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 17.0% | 15.6–18.6% | 15.2–19.1% | 14.8–19.4% | 14.2–20.2% |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 19.2% | 17.7–20.8% | 17.3–21.2% | 17.0–21.6% | 16.3–22.4% |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 19.6% | 18.7–20.6% | 18.4–20.8% | 18.2–21.1% | 17.7–21.6% |
@@ -150,8 +153,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–13 | 10–14 | 10–14 | 9–15 |
-| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 12 | 12 | 12 | 12 |
-| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 8 | 8–10 | 8–10 | 8–10 | 7–11 |
+| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
+| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 12 | 10–12 | 10–13 | 10–13 | 9–14 |
+| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
+| [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 11 | 9–11 | 9–11 | 9–12 | 9–12 |
+| [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–12 | 11–12 | 11–13 | 10–13 |
