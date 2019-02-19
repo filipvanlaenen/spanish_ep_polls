@@ -160,9 +160,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 13–19 | 13–19 | 12–20 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
-| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 14 | 14–16 | 13–16 | 13–17 | 12–17 |
+| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 18 | 17–18 | 17–18 | 17–18 | 16–19 |
+| [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 18 | 17–18 | 16–18 | 16–18 | 15–19 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 17 | 16–17 | 16–18 | 15–18 | 15–18 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–16 | 13–16 | 13–16 | 12–17 |

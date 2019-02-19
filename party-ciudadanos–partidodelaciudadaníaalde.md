@@ -154,7 +154,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–13 | 10–14 | 10–14 | 9–15 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
-| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 12 | 10–12 | 10–13 | 10–13 | 9–14 |
+| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 12 | 11–12 | 10–13 | 10–13 | 9–14 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 11 | 9–11 | 9–11 | 9–12 | 9–12 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
