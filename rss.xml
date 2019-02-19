@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 18 Feb 2019 20:18:09 +0100</pubDate>
+    <pubDate>Mon, 18 Feb 2019 23:09:52 +0100</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 13–15 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-15-SocioMétrica.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-15-NCReport.png"
         length="287329"
         type="image/png"/>
-      <pubDate>Mon, 18 Feb 2019 19:55:38 +0100</pubDate>
-      <dc:date>2019-02-18T19:55:38.081328+01:00</dc:date>
+      <pubDate>Mon, 18 Feb 2019 23:09:52 +0100</pubDate>
+      <dc:date>2019-02-18T23:09:52.558227+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 13–15 February 2019 – Seat Projections for the Parties</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-15-GAD3.png"
         length="286210"
         type="image/png"/>
-      <pubDate>Mon, 18 Feb 2019 20:18:09 +0100</pubDate>
-      <dc:date>2019-02-18T20:18:09.051198+01:00</dc:date>
+      <pubDate>Mon, 18 Feb 2019 20:22:21 +0100</pubDate>
+      <dc:date>2019-02-18T20:22:21.674253+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metroscopia for Henneo, 11–13 February 2019 – Voting Intentions</title>
@@ -2809,6 +2809,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-02-18T20:18:09.051198+01:00</dc:date>
+    <dc:date>2019-02-18T23:09:52.558227+01:00</dc:date>
   </channel>
 </rss>
