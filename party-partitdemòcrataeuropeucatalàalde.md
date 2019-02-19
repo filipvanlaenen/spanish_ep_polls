@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 0.9–2.0% | 0.8–2.1% | 0.7–2.3% | 0.6–2.6% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.9–2.1% | 0.8–2.2% | 0.7–2.4% | 0.6–2.8% |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
@@ -115,9 +115,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.4% | 100% | Last Result |
-| 0.5–1.5% | 64% | 99.6% | Median |
-| 1.5–2.5% | 34% | 35% |  |
-| 2.5–3.5% | 0.8% | 0.8% |  |
+| 0.5–1.5% | 61% | 99.6% | Median |
+| 1.5–2.5% | 37% | 38% |  |
+| 2.5–3.5% | 1.5% | 1.5% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -235,8 +235,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 63% | 100% | Last Result, Median |
-| 1 | 37% | 37% |  |
-| 2 | 0% | 0% |  |
+| 0 | 61% | 100% | Last Result, Median |
+| 1 | 39% | 39% |  |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 
