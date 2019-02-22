@@ -180,7 +180,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
-| [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta | 13 | 12–15 | 12–15 | 11–15 | 11–15 |
+| [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
@@ -308,11 +308,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0.8% | 100% |  |
 | 9 | 6% | 99.2% |  |
 | 10 | 8% | 93% |  |
-| 11 | 18% | 85% |  |
-| 12 | 26% | 66% | Median |
-| 13 | 14% | 40% |  |
-| 14 | 14% | 26% |  |
-| 15 | 10% | 12% |  |
+| 11 | 19% | 85% |  |
+| 12 | 27% | 66% | Median |
+| 13 | 15% | 39% |  |
+| 14 | 14% | 24% |  |
+| 15 | 8% | 10% |  |
 | 16 | 2% | 2% |  |
 | 17 | 0.3% | 0.3% |  |
 | 18 | 0% | 0% |  |
