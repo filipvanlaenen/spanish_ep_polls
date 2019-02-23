@@ -190,14 +190,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [5–9 November 2018](2018-11-09-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [2–7 November 2018](2018-11-07-GAD3.html) | GAD3 <br> La Vanguardia | 3 | 3 | 3 | 2–3 | 2–3 |
+| [2–7 November 2018](2018-11-07-GAD3.html) | GAD3 <br> La Vanguardia | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [22–26 October 2018](2018-10-26-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| [30 September–5 October 2018](2018-10-05-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2 | 2 | 1–3 |
+| [30 September–5 October 2018](2018-10-05-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es |  |  |  |  |  |
@@ -256,7 +256,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER |  |  |  |  |  |
-| [12–16 March 2018](2018-03-16-Invymark.html) | Invymark <br> laSexta | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| [12–16 March 2018](2018-03-16-Invymark.html) | Invymark <br> laSexta | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
