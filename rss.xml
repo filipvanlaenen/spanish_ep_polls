@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 22 Feb 2019 20:26:55 +0100</pubDate>
+    <pubDate>Sat, 23 Feb 2019 11:48:40 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Invymark for laSexta, 28–21 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-21-Invymark.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 18.8–23.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 22.0–26.9%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.1–16.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 18.0–22.5%&lt;/li&gt;&lt;li&gt;Vox (ECR): 9.7–13.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-21-Invymark.png"
+        length="199359"
+        type="image/png"/>
+      <pubDate>Fri, 22 Feb 2019 20:59:40 +0100</pubDate>
+      <dc:date>2019-02-22T20:59:40.446401+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 13–15 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-15-SocioMétrica.html</link>
@@ -246,8 +256,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-18-Invymark.png"
         length="198750"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 22:29:02 +0100</pubDate>
-      <dc:date>2019-02-20T22:29:02.182292+01:00</dc:date>
+      <pubDate>Sat, 23 Feb 2019 11:46:27 +0100</pubDate>
+      <dc:date>2019-02-23T11:46:27.463358+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metroscopia for Henneo, 9–15 January 2019 – Seat Projections for the Parties</title>
@@ -1156,8 +1166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-09-28-Invymark.png"
         length="176378"
         type="image/png"/>
-      <pubDate>Thu, 21 Feb 2019 09:26:36 +0100</pubDate>
-      <dc:date>2019-02-21T09:26:36.501386+01:00</dc:date>
+      <pubDate>Sat, 23 Feb 2019 10:49:11 +0100</pubDate>
+      <dc:date>2019-02-23T10:49:11.034568+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metroscopia for Henneo, 17–19 September 2018 – Seat Projections for the Parties</title>
@@ -1226,8 +1236,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-09-14-Invymark.png"
         length="175467"
         type="image/png"/>
-      <pubDate>Thu, 21 Feb 2019 09:31:58 +0100</pubDate>
-      <dc:date>2019-02-21T09:31:58.692112+01:00</dc:date>
+      <pubDate>Sat, 23 Feb 2019 10:01:29 +0100</pubDate>
+      <dc:date>2019-02-23T10:01:29.280899+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 6–11 September 2018 – Seat Projections for the Parties</title>
@@ -2806,8 +2816,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-03-02-Invymark.png"
         length="172421"
         type="image/png"/>
-      <pubDate>Thu, 21 Feb 2019 10:24:06 +0100</pubDate>
-      <dc:date>2019-02-21T10:24:06.697278+01:00</dc:date>
+      <pubDate>Sat, 23 Feb 2019 11:48:40 +0100</pubDate>
+      <dc:date>2019-02-23T11:48:40.846884+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 22–27 February 2018 – Seat Projections for the Parties</title>
@@ -2846,8 +2856,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-02-16-Invymark.png"
         length="173248"
         type="image/png"/>
-      <pubDate>Thu, 21 Feb 2019 10:30:26 +0100</pubDate>
-      <dc:date>2019-02-21T10:30:26.183661+01:00</dc:date>
+      <pubDate>Sat, 23 Feb 2019 11:09:26 +0100</pubDate>
+      <dc:date>2019-02-23T11:09:26.685553+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MyWord for Cadena SER, 7–14 February 2018 – Seat Projections for the Parties</title>
@@ -2999,6 +3009,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-02-22T20:26:55.150989+01:00</dc:date>
+    <dc:date>2019-02-23T11:48:40.846884+01:00</dc:date>
   </channel>
 </rss>
