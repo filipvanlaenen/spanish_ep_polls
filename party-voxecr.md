@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.2% | 7.3–13.3% | 6.6–13.8% | 6.3–14.2% | 5.8–15.1% |
+| [28–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 11.3% | 10.2–12.6% | 9.9–13.0% | 9.7–13.3% | 9.1–13.9% |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–14.0% | 9.4–14.7% |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
@@ -162,6 +163,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 3–8 | 3–9 |
+| [28–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
@@ -173,7 +175,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -291,8 +293,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 3% | 100% |  |
 | 4 | 11% | 97% |  |
-| 5 | 16% | 86% |  |
-| 6 | 21% | 70% | Median |
+| 5 | 17% | 86% |  |
+| 6 | 20% | 70% | Median |
 | 7 | 32% | 49% |  |
 | 8 | 15% | 17% |  |
 | 9 | 2% | 2% |  |

@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.2% | 16.6–23.8% | 15.1–24.6% | 14.6–25.2% | 13.9–26.2% |
+| [28–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 21.0% | 19.5–22.6% | 19.1–23.0% | 18.8–23.4% | 18.1–24.2% |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 18.6% | 17.1–20.3% | 16.7–20.7% | 16.3–21.1% | 15.6–21.9% |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 23.6% | 21.9–25.4% | 21.5–25.9% | 21.1–26.3% | 20.3–27.2% |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 19.9% | 18.4–21.6% | 17.9–22.1% | 17.5–22.5% | 16.8–23.3% |
@@ -154,9 +155,9 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 9% | 86% |  |
 | 18.5–19.5% | 15% | 77% |  |
 | 19.5–20.5% | 18% | 62% | Median |
-| 20.5–21.5% | 14% | 44% |  |
-| 21.5–22.5% | 9% | 30% |  |
-| 22.5–23.5% | 9% | 21% |  |
+| 20.5–21.5% | 14% | 43% |  |
+| 21.5–22.5% | 9% | 29% |  |
+| 22.5–23.5% | 8% | 20% |  |
 | 23.5–24.5% | 7% | 12% |  |
 | 24.5–25.5% | 4% | 5% |  |
 | 25.5–26.5% | 1.2% | 1.4% |  |
@@ -173,6 +174,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 10–15 | 9–15 | 9–15 | 8–16 |
+| [28–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 11 | 11–14 | 10–14 | 10–15 | 10–15 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–12 | 10–12 | 10–13 | 9–14 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
@@ -184,7 +186,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
-| [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 12 | 12–13 | 12–13 | 12–13 | 11–15 |
+| [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 11 | 11–12 | 10–12 | 10–12 | 10–13 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
@@ -219,10 +221,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [24–28 September 2018](2018-09-28-Invymark.html) | Invymark <br> laSexta | 14 | 14–16 | 14–16 | 14–16 | 13–17 |
+| [24–28 September 2018](2018-09-28-Invymark.html) | Invymark <br> laSexta | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
-| [10–14 September 2018](2018-09-14-Invymark.html) | Invymark <br> laSexta | 14 | 13–16 | 13–16 | 13–17 | 13–17 |
+| [10–14 September 2018](2018-09-14-Invymark.html) | Invymark <br> laSexta | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [1–11 September 2018](2018-09-11-CIS.html) | CIS | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
@@ -280,9 +282,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
-| [26 February–2 March 2018](2018-03-02-Invymark.html) | Invymark <br> laSexta | 16 | 14–17 | 14–17 | 14–17 | 14–17 |
+| [26 February–2 March 2018](2018-03-02-Invymark.html) | Invymark <br> laSexta | 15 | 14–17 | 14–17 | 14–17 | 14–18 |
 | [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
-| [12–16 February 2018](2018-02-16-Invymark.html) | Invymark <br> laSexta | 15 | 14–17 | 14–17 | 14–17 | 13–17 |
+| [12–16 February 2018](2018-02-16-Invymark.html) | Invymark <br> laSexta | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
@@ -307,10 +309,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0.8% | 100% |  |
 | 9 | 6% | 99.2% |  |
-| 10 | 8% | 93% |  |
-| 11 | 19% | 85% |  |
-| 12 | 27% | 66% | Median |
-| 13 | 15% | 39% |  |
+| 10 | 9% | 93% |  |
+| 11 | 23% | 84% |  |
+| 12 | 25% | 61% | Median |
+| 13 | 12% | 37% |  |
 | 14 | 14% | 24% |  |
 | 15 | 8% | 10% |  |
 | 16 | 2% | 2% |  |
