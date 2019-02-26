@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.2% | 7.3–13.3% | 6.6–13.8% | 6.3–14.2% | 5.8–15.1% |
-| [28–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 11.3% | 10.2–12.6% | 9.9–13.0% | 9.7–13.3% | 9.1–13.9% |
+| N/A | [Poll Average](average.html) | 11.6% | 7.6–13.9% | 6.6–14.5% | 6.3–14.9% | 5.8–15.8% |
+| [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 13.3% | 12.1–14.7% | 11.8–15.1% | 11.5–15.4% | 11.0–16.0% |
+| [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 10.8% | 9.4–12.3% | 9.1–12.7% | 8.8–13.1% | 8.2–13.9% |
+| [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 14.2% | 13.1–15.4% | 12.8–15.8% | 12.5–16.1% | 12.0–16.7% |
+| [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 11.3% | 10.2–12.6% | 9.9–13.0% | 9.7–13.3% | 9.1–13.9% |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–14.0% | 9.4–14.7% |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
@@ -140,18 +143,19 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 5% | 99.9% |  |
-| 6.5–7.5% | 6% | 95% |  |
-| 7.5–8.5% | 9% | 89% |  |
-| 8.5–9.5% | 12% | 80% |  |
-| 9.5–10.5% | 10% | 68% |  |
-| 10.5–11.5% | 14% | 58% | Median |
-| 11.5–12.5% | 21% | 44% |  |
-| 12.5–13.5% | 16% | 23% |  |
-| 13.5–14.5% | 6% | 7% |  |
-| 14.5–15.5% | 1.3% | 1.5% |  |
-| 15.5–16.5% | 0.2% | 0.2% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 5.5–6.5% | 4% | 99.9% |  |
+| 6.5–7.5% | 6% | 96% |  |
+| 7.5–8.5% | 6% | 90% |  |
+| 8.5–9.5% | 8% | 84% |  |
+| 9.5–10.5% | 10% | 76% |  |
+| 10.5–11.5% | 15% | 66% |  |
+| 11.5–12.5% | 20% | 51% | Median |
+| 12.5–13.5% | 17% | 30% |  |
+| 13.5–14.5% | 9% | 14% |  |
+| 14.5–15.5% | 4% | 5% |  |
+| 15.5–16.5% | 0.8% | 0.8% |  |
+| 16.5–17.5% | 0.1% | 0.1% |  |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -162,8 +166,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 3–8 | 3–9 |
-| [28–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 7 | 4–9 | 4–10 | 3–10 | 3–10 |
+| [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 9 | 8–9 | 8–9 | 8–10 | 6–10 |
+| [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 6 | 6 | 6 | 6–7 | 6–7 |
+| [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 10 | 9–10 | 9–10 | 9–10 | 7–10 |
+| [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
@@ -292,13 +299,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 3% | 100% |  |
-| 4 | 11% | 97% |  |
-| 5 | 17% | 86% |  |
-| 6 | 20% | 70% | Median |
-| 7 | 32% | 49% |  |
-| 8 | 15% | 17% |  |
-| 9 | 2% | 2% |  |
-| 10 | 0.1% | 0.1% |  |
+| 4 | 9% | 97% |  |
+| 5 | 10% | 89% |  |
+| 6 | 24% | 78% |  |
+| 7 | 28% | 54% | Median |
+| 8 | 14% | 26% |  |
+| 9 | 7% | 12% |  |
+| 10 | 5% | 5% |  |
 | 11 | 0% | 0% |  |
 
 
