@@ -177,9 +177,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 9–15 | 9–15 | 8–16 |
+| N/A | [Poll Average](average.html) | 12 | 10–15 | 9–15 | 9–16 | 8–16 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
-| [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 14 | 14–15 | 14–15 | 14–15 | 14–15 |
+| [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 11 | 11–14 | 10–14 | 10–15 | 10–15 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–12 | 10–12 | 10–13 | 9–14 |
@@ -319,11 +319,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 8% | 94% |  |
 | 11 | 24% | 85% |  |
 | 12 | 28% | 61% | Median |
-| 13 | 11% | 34% |  |
-| 14 | 13% | 23% |  |
-| 15 | 8% | 9% |  |
-| 16 | 2% | 2% |  |
-| 17 | 0.2% | 0.2% |  |
+| 13 | 13% | 34% |  |
+| 14 | 11% | 21% |  |
+| 15 | 7% | 10% |  |
+| 16 | 3% | 3% |  |
+| 17 | 0.3% | 0.3% |  |
 | 18 | 0% | 0% |  |
 
 
