@@ -166,10 +166,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 4–9 | 4–10 | 3–10 | 3–10 |
-| [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 9 | 8–9 | 8–9 | 8–10 | 6–10 |
+| N/A | [Poll Average](average.html) | 7 | 4–8 | 4–9 | 3–9 | 3–9 |
+| [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 6 | 6 | 6 | 6–7 | 6–7 |
-| [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 10 | 9–10 | 9–10 | 9–10 | 7–10 |
+| [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 8 | 8–9 | 8–9 | 7–10 | 7–10 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
@@ -302,10 +302,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 9% | 97% |  |
 | 5 | 10% | 89% |  |
 | 6 | 24% | 78% |  |
-| 7 | 28% | 54% | Median |
-| 8 | 14% | 26% |  |
-| 9 | 7% | 12% |  |
-| 10 | 5% | 5% |  |
+| 7 | 29% | 54% | Median |
+| 8 | 19% | 25% |  |
+| 9 | 5% | 5% |  |
+| 10 | 0.5% | 0.5% |  |
 | 11 | 0% | 0% |  |
 
 
