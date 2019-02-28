@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 26 Feb 2019 22:47:46 +0100</pubDate>
+    <pubDate>Thu, 28 Feb 2019 20:08:21 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 19–22 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-22-SigmaDos.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-22-GAD3.png"
         length="300746"
         type="image/png"/>
-      <pubDate>Mon, 25 Feb 2019 22:45:58 +0100</pubDate>
-      <dc:date>2019-02-25T22:45:58.611399+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 20:08:21 +0100</pubDate>
+      <dc:date>2019-02-28T20:08:21.269769+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sondaxe for La Voz de Galicia, 13–21 February 2019 – Voting Intentions</title>
@@ -3039,6 +3039,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-02-26T22:47:46.990472+01:00</dc:date>
+    <dc:date>2019-02-28T20:08:21.269769+01:00</dc:date>
   </channel>
 </rss>
