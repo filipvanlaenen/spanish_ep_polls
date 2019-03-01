@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Feb 2019 20:08:21 +0100</pubDate>
+    <pubDate>Thu, 28 Feb 2019 21:12:10 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 19–22 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-22-SigmaDos.html</link>
@@ -786,8 +786,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-12-05-SocioMétrica.png"
         length="310543"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 22:48:30 +0100</pubDate>
-      <dc:date>2019-02-20T22:48:30.952625+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 20:49:20 +0100</pubDate>
+      <dc:date>2019-02-28T20:49:20.254768+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 3–4 December 2018 – Seat Projections for the Parties</title>
@@ -996,8 +996,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-10-26-Invymark.png"
         length="174919"
         type="image/png"/>
-      <pubDate>Thu, 21 Feb 2019 09:11:14 +0100</pubDate>
-      <dc:date>2019-02-21T09:11:14.741178+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 21:09:55 +0100</pubDate>
+      <dc:date>2019-02-28T21:09:55.939705+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metroscopia for Henneo, 16–18 October 2018 – Seat Projections for the Parties</title>
@@ -1636,8 +1636,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-07-27-Invymark.png"
         length="172269"
         type="image/png"/>
-      <pubDate>Thu, 21 Feb 2019 09:37:42 +0100</pubDate>
-      <dc:date>2019-02-21T09:37:42.591497+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 21:12:10 +0100</pubDate>
+      <dc:date>2019-02-28T21:12:10.850835+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 24–26 July 2018 – Seat Projections for the Parties</title>
@@ -3039,6 +3039,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-02-28T20:08:21.269769+01:00</dc:date>
+    <dc:date>2019-02-28T21:12:10.850835+01:00</dc:date>
   </channel>
 </rss>
