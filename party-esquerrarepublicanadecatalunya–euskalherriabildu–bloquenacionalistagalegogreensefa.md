@@ -190,7 +190,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [5 December 2018](2018-12-05-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 2 | 2 | 1–2 |
+| [5 December 2018](2018-12-05-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–2 | 1–3 | 1–3 |

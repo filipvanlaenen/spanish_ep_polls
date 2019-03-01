@@ -211,7 +211,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
 | [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
-| [5 December 2018](2018-12-05-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 12 | 12 | 12 | 12–13 |
+| [5 December 2018](2018-12-05-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 12–14 | 11–14 | 11–14 | 10–15 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 15–17 | 14–18 | 14–19 |
@@ -220,7 +220,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [2–7 November 2018](2018-11-07-GAD3.html) | GAD3 <br> La Vanguardia | 14 | 13–14 | 13–15 | 12–15 | 11–17 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 13–15 | 13–16 | 12–17 |
-| [22–26 October 2018](2018-10-26-Invymark.html) | Invymark <br> laSexta | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
+| [22–26 October 2018](2018-10-26-Invymark.html) | Invymark <br> laSexta | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 13 | 13–14 | 12–15 | 12–15 | 12–15 |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
@@ -244,7 +244,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [1–3 August 2018](2018-08-03-SimpleLógica.html) | Simple Lógica | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [23–27 July 2018](2018-07-27-Invymark.html) | Invymark <br> laSexta | 15 | 14–16 | 13–16 | 13–16 | 13–16 |
+| [23–27 July 2018](2018-07-27-Invymark.html) | Invymark <br> laSexta | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
 | [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 15 | 14–15 | 14–15 | 13–16 | 13–16 |
 | [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
