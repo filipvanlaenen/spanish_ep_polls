@@ -256,7 +256,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
-| [28–29 May 2018](2018-05-29-Invymark.html) | Invymark <br> laSexta | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
+| [28–29 May 2018](2018-05-29-Invymark.html) | Invymark <br> laSexta | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
 | [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
