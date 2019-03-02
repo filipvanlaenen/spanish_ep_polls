@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Feb 2019 21:12:10 +0100</pubDate>
+    <pubDate>Sat, 02 Mar 2019 09:28:10 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 19–22 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-22-SigmaDos.html</link>
@@ -44,10 +44,10 @@
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-21-Invymark.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 18.8–23.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 22.0–26.9%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.1–16.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 18.0–22.5%&lt;/li&gt;&lt;li&gt;Vox (ECR): 9.7–13.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-21-Invymark.png"
-        length="199359"
+        length="199367"
         type="image/png"/>
-      <pubDate>Fri, 22 Feb 2019 20:59:40 +0100</pubDate>
-      <dc:date>2019-02-22T20:59:40.446401+01:00</dc:date>
+      <pubDate>Sat, 02 Mar 2019 09:28:10 +0100</pubDate>
+      <dc:date>2019-03-02T09:28:10.27061+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 13–15 February 2019 – Voting Intentions</title>
@@ -3039,6 +3039,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-02-28T21:12:10.850835+01:00</dc:date>
+    <dc:date>2019-03-02T09:28:10.27061+01:00</dc:date>
   </channel>
 </rss>
