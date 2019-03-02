@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 02 Mar 2019 09:28:10 +0100</pubDate>
+    <pubDate>Sat, 02 Mar 2019 15:43:37 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 19–22 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-22-SigmaDos.html</link>
@@ -2186,8 +2186,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2018-05-29-Invymark.png"
         length="173871"
         type="image/png"/>
-      <pubDate>Thu, 21 Feb 2019 10:02:29 +0100</pubDate>
-      <dc:date>2019-02-21T10:02:29.069578+01:00</dc:date>
+      <pubDate>Sat, 02 Mar 2019 15:43:37 +0100</pubDate>
+      <dc:date>2019-03-02T15:43:37.632387+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 26–28 May 2018 – Seat Projections for the Parties</title>
@@ -3039,6 +3039,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-03-02T09:28:10.27061+01:00</dc:date>
+    <dc:date>2019-03-02T15:43:37.632387+01:00</dc:date>
   </channel>
 </rss>
