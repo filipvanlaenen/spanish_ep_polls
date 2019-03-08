@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 02 Mar 2019 15:43:37 +0100</pubDate>
+    <pubDate>Fri, 08 Mar 2019 17:48:45 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 22 February–3 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-03-electoPanel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 18.0–20.2%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 20.2–22.5%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.3–12.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 17.8–19.9%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 2.6–3.5%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 2.7–3.6%&lt;/li&gt;&lt;li&gt;Vox (ECR): 12.5–14.4%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 4.5–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-03-electoPanel.png"
+        length="252399"
+        type="image/png"/>
+      <pubDate>Fri, 08 Mar 2019 17:48:45 +0100</pubDate>
+      <dc:date>2019-03-08T17:48:45.827009+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 25–28 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-28-SigmaDos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.9–22.9%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 26.1–31.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 13.5–18.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 13.5–18.0%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0.8–2.2%&lt;/li&gt;&lt;li&gt;Vox (ECR): 6.8–10.3%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 3.5–6.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-28-SigmaDos.png"
+        length="302352"
+        type="image/png"/>
+      <pubDate>Fri, 08 Mar 2019 17:44:44 +0100</pubDate>
+      <dc:date>2019-03-08T17:44:44.931621+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 19–22 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-22-SigmaDos.html</link>
@@ -3039,6 +3059,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-03-02T15:43:37.632387+01:00</dc:date>
+    <dc:date>2019-03-08T17:48:45.827009+01:00</dc:date>
   </channel>
 </rss>
