@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.1% | 23.0–29.5% | 22.5–30.2% | 22.1–30.7% | 21.3–31.7% |
+| N/A | [Poll Average](average.html) | 26.2% | 23.0–29.8% | 22.5–30.4% | 22.1–30.9% | 21.3–31.9% |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 21.3% | 20.6–22.1% | 20.4–22.3% | 20.2–22.5% | 19.9–22.8% |
+| [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 28.8% | 27.0–30.7% | 26.5–31.2% | 26.1–31.7% | 25.2–32.6% |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 27.3% | 25.7–29.0% | 25.3–29.5% | 24.9–29.9% | 24.1–30.8% |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 28.9% | 26.9–31.0% | 26.3–31.6% | 25.8–32.1% | 24.9–33.2% |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 28.2% | 26.7–29.7% | 26.3–30.2% | 26.0–30.5% | 25.3–31.3% |
@@ -162,15 +164,15 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 5% | 99.1% |  |
 | 22.5–23.5% | 11% | 95% |  |
 | 23.5–24.5% | 14% | 84% |  |
-| 24.5–25.5% | 13% | 70% |  |
-| 25.5–26.5% | 12% | 57% | Median |
-| 26.5–27.5% | 13% | 45% |  |
-| 27.5–28.5% | 12% | 32% |  |
-| 28.5–29.5% | 10% | 20% |  |
-| 29.5–30.5% | 7% | 10% |  |
-| 30.5–31.5% | 3% | 3% |  |
-| 31.5–32.5% | 0.5% | 0.7% |  |
-| 32.5–33.5% | 0.1% | 0.1% |  |
+| 24.5–25.5% | 12% | 70% |  |
+| 25.5–26.5% | 11% | 58% | Median |
+| 26.5–27.5% | 12% | 47% |  |
+| 27.5–28.5% | 12% | 35% |  |
+| 28.5–29.5% | 11% | 23% |  |
+| 29.5–30.5% | 8% | 12% |  |
+| 30.5–31.5% | 3% | 4% |  |
+| 31.5–32.5% | 0.7% | 0.9% |  |
+| 32.5–33.5% | 0.1% | 0.2% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
 
@@ -183,6 +185,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–18 | 14–19 | 13–19 | 13–20 |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
+| [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 16–19 | 16–20 | 16–20 | 16–21 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 18 | 17–18 | 16–18 | 16–19 | 15–19 |
@@ -328,11 +332,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 18% | 96% |  |
 | 15 | 20% | 78% |  |
 | 16 | 20% | 58% | Median |
-| 17 | 18% | 37% |  |
-| 18 | 10% | 19% |  |
-| 19 | 7% | 9% |  |
-| 20 | 1.3% | 1.4% |  |
-| 21 | 0.1% | 0.1% |  |
+| 17 | 16% | 38% |  |
+| 18 | 12% | 22% |  |
+| 19 | 8% | 10% |  |
+| 20 | 2% | 2% |  |
+| 21 | 0.2% | 0.2% |  |
 | 22 | 0% | 0% |  |
 
 
