@@ -182,9 +182,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 12 | 10–14 | 9–15 | 9–16 | 8–16 |
 | [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
 | [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 13 | 11–14 | 11–14 | 11–14 | 10–14 |
-| [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
-| [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
-| [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
+| [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–13 | 11–13 | 10–13 | 10–13 |
+| [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
+| [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 12 | 11–13 | 11–13 | 10–13 | 10–13 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–12 | 10–12 | 10–13 | 9–14 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
@@ -320,14 +320,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0.7% | 100% |  |
 | 9 | 6% | 99.3% |  |
-| 10 | 8% | 94% |  |
+| 10 | 7% | 94% |  |
 | 11 | 18% | 86% |  |
 | 12 | 30% | 68% | Median |
-| 13 | 17% | 38% |  |
+| 13 | 18% | 38% |  |
 | 14 | 11% | 21% |  |
 | 15 | 7% | 10% |  |
-| 16 | 3% | 3% |  |
-| 17 | 0.3% | 0.3% |  |
+| 16 | 2% | 3% |  |
+| 17 | 0.4% | 0.4% |  |
 | 18 | 0% | 0% |  |
 
 
