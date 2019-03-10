@@ -182,7 +182,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 10 | 8–11 | 8–11 | 8–11 | 8–12 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
-| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
+| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–13 | 10–13 | 10–13 | 9–14 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 11 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 11 | 9–11 | 9–11 | 9–12 | 9–12 |
@@ -317,10 +317,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 11% | 98% |  |
 | 9 | 16% | 87% |  |
 | 10 | 16% | 70% |  |
-| 11 | 22% | 54% | Median |
-| 12 | 22% | 32% |  |
+| 11 | 23% | 54% | Median |
+| 12 | 21% | 31% |  |
 | 13 | 8% | 9% |  |
-| 14 | 1.2% | 1.3% |  |
+| 14 | 1.2% | 1.4% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
