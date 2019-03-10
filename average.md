@@ -338,11 +338,11 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0.7% | 100% |  |
 | 9 | 6% | 99.3% |  |
 | 10 | 7% | 94% |  |
-| 11 | 19% | 86% |  |
+| 11 | 18% | 86% |  |
 | 12 | 29% | 68% | Median |
 | 13 | 17% | 39% |  |
-| 14 | 13% | 21% |  |
-| 15 | 6% | 9% |  |
+| 14 | 12% | 21% |  |
+| 15 | 7% | 10% |  |
 | 16 | 2% | 2% |  |
 | 17 | 0.3% | 0.3% |  |
 | 18 | 0% | 0% |  |
@@ -371,10 +371,10 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 4% | 99.8% |  |
 | 14 | 17% | 96% |  |
 | 15 | 20% | 79% |  |
-| 16 | 19% | 58% | Median |
-| 17 | 16% | 39% |  |
-| 18 | 13% | 23% |  |
-| 19 | 8% | 9% |  |
+| 16 | 20% | 58% | Median |
+| 17 | 17% | 39% |  |
+| 18 | 13% | 22% |  |
+| 19 | 7% | 9% |  |
 | 20 | 2% | 2% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
@@ -393,7 +393,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.2% | 100% |  |
-| 6 | 3% | 99.8% |  |
+| 6 | 2% | 99.8% |  |
 | 7 | 9% | 97% |  |
 | 8 | 29% | 88% |  |
 | 9 | 38% | 59% | Median |
@@ -417,8 +417,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 1.4% | 100% |  |
-| 8 | 12% | 98.6% |  |
+| 7 | 2% | 100% |  |
+| 8 | 11% | 98% |  |
 | 9 | 16% | 87% |  |
 | 10 | 16% | 70% |  |
 | 11 | 22% | 54% | Median |
@@ -481,10 +481,10 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 11% | 97% |  |
 | 5 | 15% | 87% |  |
 | 6 | 23% | 72% | Median |
-| 7 | 31% | 49% |  |
+| 7 | 30% | 49% |  |
 | 8 | 14% | 19% |  |
 | 9 | 4% | 5% |  |
-| 10 | 0.3% | 0.3% |  |
+| 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA)
@@ -550,10 +550,10 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 4% | 99.8% |  |
 | 14 | 17% | 96% |  |
 | 15 | 20% | 79% |  |
-| 16 | 19% | 58% | Median |
-| 17 | 16% | 39% |  |
-| 18 | 13% | 23% |  |
-| 19 | 8% | 9% |  |
+| 16 | 20% | 58% | Median |
+| 17 | 17% | 39% |  |
+| 18 | 13% | 22% |  |
+| 19 | 7% | 9% |  |
 | 20 | 2% | 2% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
@@ -575,11 +575,11 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0.7% | 100% |  |
 | 9 | 6% | 99.3% |  |
 | 10 | 7% | 94% |  |
-| 11 | 19% | 86% |  |
+| 11 | 18% | 86% |  |
 | 12 | 29% | 68% | Median |
 | 13 | 17% | 39% |  |
-| 14 | 13% | 21% |  |
-| 15 | 6% | 9% |  |
+| 14 | 12% | 21% |  |
+| 15 | 7% | 10% |  |
 | 16 | 2% | 2% |  |
 | 17 | 0.3% | 0.3% |  |
 | 18 | 0% | 0% |  |
@@ -598,7 +598,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.7% | 100% |  |
-| 8 | 6% | 99.3% |  |
+| 8 | 7% | 99.3% |  |
 | 9 | 17% | 93% |  |
 | 10 | 16% | 76% |  |
 | 11 | 21% | 60% | Median |
@@ -621,7 +621,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.2% | 100% |  |
-| 6 | 3% | 99.8% |  |
+| 6 | 2% | 99.8% |  |
 | 7 | 9% | 97% |  |
 | 8 | 27% | 88% |  |
 | 9 | 28% | 61% |  |
@@ -643,10 +643,10 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 11% | 97% |  |
 | 5 | 15% | 87% |  |
 | 6 | 23% | 72% | Median |
-| 7 | 31% | 49% |  |
+| 7 | 30% | 49% |  |
 | 8 | 14% | 19% |  |
 | 9 | 4% | 5% |  |
-| 10 | 0.3% | 0.3% |  |
+| 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA)
@@ -667,5 +667,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 13
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 9,568,256
++ **Total number of simulations done in the polls included in this average:** 10,616,832
 + **Error estimate:** 2.26%
