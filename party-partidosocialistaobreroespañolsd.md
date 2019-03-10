@@ -188,7 +188,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 16–19 | 16–20 | 16–20 | 16–21 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
-| [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 18 | 17–19 | 16–20 | 16–20 | 15–20 |
+| [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 18 | 16–19 | 16–20 | 16–20 | 15–20 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
@@ -331,10 +331,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 4% | 99.8% |  |
 | 14 | 17% | 96% |  |
 | 15 | 20% | 79% |  |
-| 16 | 19% | 58% | Median |
-| 17 | 16% | 39% |  |
-| 18 | 13% | 23% |  |
-| 19 | 8% | 9% |  |
+| 16 | 20% | 58% | Median |
+| 17 | 17% | 39% |  |
+| 18 | 13% | 22% |  |
+| 19 | 7% | 9% |  |
 | 20 | 2% | 2% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
