@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 16 Mar 2019 11:28:59 +0100</pubDate>
+    <pubDate>Sat, 16 Mar 2019 14:56:35 +0100</pubDate>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–10 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-10-electoPanel.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-08-SocioMétrica.png"
         length="304950"
         type="image/png"/>
-      <pubDate>Sat, 16 Mar 2019 10:20:17 +0100</pubDate>
-      <dc:date>2019-03-16T10:20:17.714655+01:00</dc:date>
+      <pubDate>Sat, 16 Mar 2019 13:03:14 +0100</pubDate>
+      <dc:date>2019-03-16T13:03:14.404871+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 4–8 March 2019 – Voting Intentions</title>
@@ -36,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-08-Invymark.png"
         length="197905"
         type="image/png"/>
-      <pubDate>Sat, 16 Mar 2019 10:58:55 +0100</pubDate>
-      <dc:date>2019-03-16T10:58:55.494595+01:00</dc:date>
+      <pubDate>Sat, 16 Mar 2019 12:38:00 +0100</pubDate>
+      <dc:date>2019-03-16T12:38:00.657692+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GAD3 for ABC, 4–8 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-08-GAD3.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 12–15 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17–21 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 6–9 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 6–8 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-08-GAD3-seats.png"
+        length="224475"
+        type="image/png"/>
+      <pubDate>Sat, 16 Mar 2019 14:56:35 +0100</pubDate>
+      <dc:date>2019-03-16T14:56:35.029259+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GAD3 for ABC, 4–8 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-08-GAD3.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-08-GAD3-coalitions-seats.png"
+        length="154831"
+        type="image/png"/>
+      <pubDate>Sat, 16 Mar 2019 14:56:35 +0100</pubDate>
+      <dc:date>2019-03-16T14:56:35.029259+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 4–8 March 2019 – Voting Intentions</title>
@@ -46,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-08-GAD3.png"
         length="289652"
         type="image/png"/>
-      <pubDate>Sat, 16 Mar 2019 11:20:19 +0100</pubDate>
-      <dc:date>2019-03-16T11:20:19.830701+01:00</dc:date>
+      <pubDate>Sat, 16 Mar 2019 14:56:35 +0100</pubDate>
+      <dc:date>2019-03-16T14:56:35.029259+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 4–8 March 2019 – Voting Intentions</title>
@@ -56,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-08-Celeste-Tel.png"
         length="200373"
         type="image/png"/>
-      <pubDate>Sat, 16 Mar 2019 11:28:59 +0100</pubDate>
-      <dc:date>2019-03-16T11:28:59.819349+01:00</dc:date>
+      <pubDate>Sat, 16 Mar 2019 13:16:57 +0100</pubDate>
+      <dc:date>2019-03-16T13:16:57.422199+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–3 March 2019 – Voting Intentions</title>
@@ -3289,6 +3309,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-03-16T11:28:59.819349+01:00</dc:date>
+    <dc:date>2019-03-16T14:56:35.029259+01:00</dc:date>
   </channel>
 </rss>
