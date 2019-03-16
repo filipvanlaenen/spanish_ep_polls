@@ -177,10 +177,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–10 | 7–10 | 6–11 | 6–11 |
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 9 | 9 | 9 | 8–9 |
-| [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 8 | 6–9 | 6–9 | 6–9 | 6–9 |
-| [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 7 | 7 | 7 | 7 | 6–7 |
-| [4–8 March 2019](2019-03-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 9–10 | 8–10 | 7–10 | 6–10 |
+| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
+| [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
+| [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [4–8 March 2019](2019-03-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
 | [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
