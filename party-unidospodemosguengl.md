@@ -11,11 +11,12 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14.7% | 12.6–16.5% | 11.8–17.0% | 11.0–17.5% | 9.9–18.4% |
+| [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 12.4% | 11.2–13.7% | 10.8–14.1% | 10.5–14.5% | 10.0–15.1% |
+| [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14.3% | 13.0–15.7% | 12.6–16.1% | 12.3–16.5% | 11.7–17.2% |
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 10.9% | 10.4–11.4% | 10.3–11.5% | 10.2–11.7% | 10.0–11.9% |
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 14.1% | 13.1–15.3% | 12.8–15.6% | 12.5–15.9% | 12.0–16.5% |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 13.2% | 12.0–14.5% | 11.6–14.9% | 11.4–15.2% | 10.8–15.9% |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–14.0% | 9.4–14.7% |
-| [4–8 March 2019](2019-03-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14.3% | 13.0–15.7% | 12.6–16.1% | 12.3–16.5% | 11.7–17.2% |
 | [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 11.1% | 10.5–11.7% | 10.4–11.8% | 10.3–12.0% | 10.0–12.3% |
 | [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 15.6% | 14.2–17.2% | 13.8–17.6% | 13.5–18.0% | 12.8–18.8% |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 14.4% | 13.2–15.8% | 12.8–16.2% | 12.5–16.5% | 12.0–17.2% |
@@ -176,11 +177,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–10 | 7–10 | 6–11 | 6–11 |
+| [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
+| [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 9–10 | 8–10 | 7–10 | 6–10 |
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [4–8 March 2019](2019-03-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
 | [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
