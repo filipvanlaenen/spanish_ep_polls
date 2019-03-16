@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 16 Mar 2019 14:56:35 +0100</pubDate>
+    <pubDate>Sat, 16 Mar 2019 19:07:15 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 4–13 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-13-SimpleLógica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 15.0–19.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 28.5–34.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.5–14.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 14.6–19.0%&lt;/li&gt;&lt;li&gt;Vox (ECR): 7.1–10.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-13-SimpleLógica.png"
+        length="184646"
+        type="image/png"/>
+      <pubDate>Sat, 16 Mar 2019 18:57:26 +0100</pubDate>
+      <dc:date>2019-03-16T18:57:26.159893+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 8–11 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-11-Celeste-Tel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 20.4–25.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 22.9–28.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.3–16.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 15.9–20.5%&lt;/li&gt;&lt;li&gt;Vox (ECR): 8.0–11.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-11-Celeste-Tel.png"
+        length="199971"
+        type="image/png"/>
+      <pubDate>Sat, 16 Mar 2019 19:07:15 +0100</pubDate>
+      <dc:date>2019-03-16T19:07:15.648377+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–10 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-10-electoPanel.html</link>
@@ -68,16 +88,6 @@
         type="image/png"/>
       <pubDate>Sat, 16 Mar 2019 14:56:35 +0100</pubDate>
       <dc:date>2019-03-16T14:56:35.029259+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Celeste-Tel for eldiario.es, 4–8 March 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-08-Celeste-Tel.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 20.4–25.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 22.9–28.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.3–16.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 15.9–20.5%&lt;/li&gt;&lt;li&gt;Vox (ECR): 8.0–11.5%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-08-Celeste-Tel.png"
-        length="200373"
-        type="image/png"/>
-      <pubDate>Sat, 16 Mar 2019 13:16:57 +0100</pubDate>
-      <dc:date>2019-03-16T13:16:57.422199+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–3 March 2019 – Voting Intentions</title>
@@ -3309,6 +3319,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-03-16T14:56:35.029259+01:00</dc:date>
+    <dc:date>2019-03-16T19:07:15.648377+01:00</dc:date>
   </channel>
 </rss>
