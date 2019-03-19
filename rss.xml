@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 17 Mar 2019 22:52:02 +0100</pubDate>
+    <pubDate>Tue, 19 Mar 2019 06:48:23 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 11–15 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-15-NCReport.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 20.7–25.9%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 23.4–28.8%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.7–17.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 15.5–20.3%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Vox (ECR): 8.6–12.3%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 2.4–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-15-NCReport.png"
+        length="284376"
+        type="image/png"/>
+      <pubDate>Tue, 19 Mar 2019 06:48:23 +0100</pubDate>
+      <dc:date>2019-03-19T06:48:23.61092+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Simple Lógica, 4–13 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-13-SimpleLógica.html</link>
@@ -3319,6 +3329,6 @@
       <pubDate>Mon, 31 Dec 2018 11:22:46 +0100</pubDate>
       <dc:date>2018-12-31T11:22:46.164427+01:00</dc:date>
     </item>
-    <dc:date>2019-03-17T22:52:02.000335+01:00</dc:date>
+    <dc:date>2019-03-19T06:48:23.61092+01:00</dc:date>
   </channel>
 </rss>
