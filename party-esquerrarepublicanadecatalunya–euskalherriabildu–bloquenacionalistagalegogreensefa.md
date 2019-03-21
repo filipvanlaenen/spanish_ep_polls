@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.2–5.6% | 2.9–6.0% | 2.7–6.2% | 2.4–6.6% |
+| N/A | [Poll Average](average.html) | 4.3% | 3.2–6.1% | 3.0–6.5% | 2.8–6.7% | 2.4–7.1% |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.0% | N/A | N/A | N/A | N/A |
@@ -32,7 +32,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3.6% | 3.0–4.5% | 2.8–4.7% | 2.7–4.9% | 2.4–5.3% |
 | [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
-| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
+| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 6.3% | 5.7–6.9% | 5.6–7.1% | 5.5–7.3% | 5.2–7.6% |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 3.4% | 2.9–4.0% | 2.8–4.2% | 2.6–4.3% | 2.4–4.6% |
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
@@ -41,7 +41,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 5.8% | 5.3–6.4% | 5.1–6.5% | 5.0–6.7% | 4.8–7.0% |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.6–4.8% | 2.3–5.2% |
-| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.0% | 3.1–5.3% |
+| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 5.2% | 4.6–5.9% | 4.5–6.0% | 4.3–6.2% | 4.1–6.5% |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [17–21 December 2018](2018-12-21-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 0.0% | N/A | N/A | N/A | N/A |
@@ -139,6 +139,12 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 0.0% | N/A | N/A | N/A | N/A |
 | [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 3.7% | 3.0–4.6% | 2.8–4.8% | 2.7–5.1% | 2.4–5.5% |
+| [22–26 January 2018](2018-01-26-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [2–14 January 2018](2018-01-14-CIS.html) | CIS | 4.2% | 3.7–4.8% | 3.6–4.9% | 3.5–5.1% | 3.3–5.3% |
+| [9–11 January 2018](2018-01-11-Metroscopia.html) | Metroscopia <br> El País | 0.0% | N/A | N/A | N/A | N/A |
+| [8–11 January 2018](2018-01-11-GAD3.html) | GAD3 <br> ABC | 3.6% | 2.9–4.6% | 2.7–4.9% | 2.5–5.2% | 2.2–5.7% |
+| [2–8 January 2018](2018-01-08-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
+| [2–5 January 2018](2018-01-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3.6% | 3.0–4.5% | 2.8–4.7% | 2.7–4.9% | 2.4–5.3% |
 
 ### Probability Mass Function
 
@@ -148,13 +154,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.0% | 100% |  |
-| 2.5–3.5% | 22% | 99.0% |  |
-| 3.5–4.5% | 42% | 77% | Median |
-| 4.5–5.5% | 23% | 35% |  |
-| 5.5–6.5% | 11% | 12% |  |
-| 6.5–7.5% | 0.7% | 0.7% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.9% | 100% |  |
+| 2.5–3.5% | 20% | 99.1% |  |
+| 3.5–4.5% | 38% | 80% | Median |
+| 4.5–5.5% | 21% | 42% |  |
+| 5.5–6.5% | 17% | 21% |  |
+| 6.5–7.5% | 4% | 4% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -187,7 +194,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 3 | 3 | 3 | 3–4 | 3–4 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
@@ -196,7 +203,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 3 | 3 | 3 | 2–3 |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [17–21 December 2018](2018-12-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
@@ -294,6 +301,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
 | [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| [22–26 January 2018](2018-01-26-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [2–14 January 2018](2018-01-14-CIS.html) | CIS | 2 | 2 | 2 | 2 | 2 |
+| [9–11 January 2018](2018-01-11-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
+| [8–11 January 2018](2018-01-11-GAD3.html) | GAD3 <br> ABC | 2 | 2 | 2 | 2 | 2–3 |
+| [2–8 January 2018](2018-01-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
+| [2–5 January 2018](2018-01-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2 | 2 | 2 | 2 |
 
 ### Probability Mass Function
 
@@ -304,10 +317,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 10% | 100% |  |
-| 2 | 60% | 90% | Median |
-| 3 | 26% | 30% |  |
-| 4 | 3% | 3% |  |
+| 1 | 9% | 100% |  |
+| 2 | 54% | 91% | Median |
+| 3 | 34% | 38% |  |
+| 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
 

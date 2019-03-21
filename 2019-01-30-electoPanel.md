@@ -10,11 +10,14 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0.0% | 23.1% | 22.1–24.1% |21.8–24.4% |21.6–24.7% |21.1–25.2% |
-| Partido Popular (EPP) | 0.0% | 20.1% | 19.2–21.1% |18.9–21.4% |18.7–21.6% |18.2–22.1% |
-| Ciudadanos–Partido de la Ciudadanía (ALDE) | 0.0% | 19.6% | 18.7–20.6% |18.4–20.8% |18.2–21.1% |17.7–21.6% |
-| Unidos Podemos (GUE/NGL) | 0.0% | 14.9% | 14.1–15.8% |13.9–16.0% |13.7–16.3% |13.3–16.7% |
-| Vox (ECR) | 0.0% | 12.1% | 11.4–12.9% |11.1–13.2% |11.0–13.4% |10.6–13.8% |
+| Partido Socialista Obrero Español (S&D) | 0.0% | 21.3% | 20.4–22.3% |20.1–22.6% |19.9–22.8% |19.4–23.3% |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) | 0.0% | 21.0% | 20.0–22.0% |19.8–22.3% |19.6–22.5% |19.1–23.0% |
+| Partido Popular (EPP) | 0.0% | 16.0% | 15.1–16.9% |14.9–17.1% |14.7–17.4% |14.3–17.8% |
+| Vox (ECR) | 0.0% | 13.0% | 12.2–13.9% |12.0–14.1% |11.8–14.3% |11.5–14.7% |
+| Unidos Podemos (GUE/NGL) | 0.0% | 11.3% | 10.6–12.1% |10.4–12.3% |10.2–12.5% |9.9–12.9% |
+| Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA) | 0.0% | 6.3% | 5.7–6.9% |5.6–7.1% |5.5–7.3% |5.2–7.6% |
+| Partit Demòcrata Europeu Català (ALDE) | 0.0% | 3.1% | 2.7–3.6% |2.6–3.7% |2.5–3.8% |2.4–4.1% |
+| Partido Animalista Contra el Maltrato Animal (GUE/NGL) | 0.0% | 1.8% | 1.5–2.2% |1.4–2.3% |1.4–2.4% |1.2–2.5% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -26,11 +29,14 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 14 | 13–14 |13–15 |13–15 |13–15 |
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 12 | 11–13 |11–13 |11–13 |11–13 |
-| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 12 | 11–12 |11–12 |11–13 |10–13 |
-| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 9 | 8–9 |8–9 |8–10 |8–10 |
-| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 7 | 7–8 |6–8 |6–8 |6–8 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 14 | 13–14 |13–14 |12–14 |11–14 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 12 | 12–14 |12–14 |12–14 |11–15 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 10 | 9–10 |9–10 |9–10 |9–10 |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 8 | 8–9 |8–9 |8–9 |7–9 |
+| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 7 | 6–7 |6–7 |6–7 |6–8 |
+| <a href="#esquerra-republicana-de-catalunya–euskal-herria-bildu–bloque-nacionalista-galego-(greens/efa)">Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA)</a> | 0 | 3 | 3 |3 |3–4 |3–4 |
+| <a href="#partit-demòcrata-europeu-català-(alde)">Partit Demòcrata Europeu Català (ALDE)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#partido-animalista-contra-el-maltrato-animal-(gue/ngl)">Partido Animalista Contra el Maltrato Animal (GUE/NGL)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -51,37 +57,10 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0.4% | 100% |  |
-| 13 | 27% | 99.6% |  |
-| 14 | 64% | 72% | Median |
-| 15 | 8% | 8% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
-
-### Partido Popular (EPP)
-
-*For a full overview of the results for this party, see the [Partido Popular (EPP)](party-partidopopularepp.html) page.*
-
-![Graph with seats probability mass function not yet produced](2019-01-30-electoPanel-seats-pmf-partidopopularepp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0.1% | 100% |  |
-| 11 | 17% | 99.9% |  |
-| 12 | 71% | 83% | Median |
-| 13 | 12% | 12% |  |
-| 14 | 0.1% | 0.1% |  |
+| 11 | 0.7% | 100% |  |
+| 12 | 4% | 99.3% |  |
+| 13 | 31% | 96% |  |
+| 14 | 65% | 65% | Median |
 | 15 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (ALDE)
@@ -102,17 +81,19 @@
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.6% | 100% |  |
-| 11 | 39% | 99.4% |  |
-| 12 | 57% | 60% | Median |
-| 13 | 3% | 3% |  |
-| 14 | 0% | 0% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0.8% | 100% |  |
+| 12 | 82% | 99.2% | Median |
+| 13 | 3% | 18% |  |
+| 14 | 14% | 14% |  |
+| 15 | 0.7% | 0.7% |  |
+| 16 | 0% | 0% |  |
 
-### Unidos Podemos (GUE/NGL)
+### Partido Popular (EPP)
 
-*For a full overview of the results for this party, see the [Unidos Podemos (GUE/NGL)](party-unidospodemosguengl.html) page.*
+*For a full overview of the results for this party, see the [Partido Popular (EPP)](party-partidopopularepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-01-30-electoPanel-seats-pmf-unidospodemosguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-01-30-electoPanel-seats-pmf-partidopopularepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -123,10 +104,10 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.1% | 100% |  |
-| 8 | 28% | 99.9% |  |
-| 9 | 68% | 72% | Median |
-| 10 | 4% | 4% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 16% | 100% |  |
+| 10 | 84% | 84% | Median |
 | 11 | 0% | 0% |  |
 
 ### Vox (ECR)
@@ -143,10 +124,70 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 8% | 100% |  |
-| 7 | 81% | 92% | Median |
-| 8 | 10% | 10% |  |
+| 6 | 0.4% | 100% |  |
+| 7 | 0.9% | 99.6% |  |
+| 8 | 85% | 98.8% | Median |
+| 9 | 14% | 14% |  |
+| 10 | 0% | 0% |  |
+
+### Unidos Podemos (GUE/NGL)
+
+*For a full overview of the results for this party, see the [Unidos Podemos (GUE/NGL)](party-unidospodemosguengl.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-01-30-electoPanel-seats-pmf-unidospodemosguengl.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 16% | 100% |  |
+| 7 | 81% | 84% | Median |
+| 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
+
+### Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA)](party-esquerrarepublicanadecatalunya–euskalherriabildu–bloquenacionalistagalegogreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-01-30-electoPanel-seats-pmf-esquerrarepublicanadecatalunya–euskalherriabildu–bloquenacionalistagalegogreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 96% | 100% | Median |
+| 4 | 4% | 4% |  |
+| 5 | 0% | 0% |  |
+
+### Partit Demòcrata Europeu Català (ALDE)
+
+*For a full overview of the results for this party, see the [Partit Demòcrata Europeu Català (ALDE)](party-partitdemòcrataeuropeucatalàalde.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-01-30-electoPanel-seats-pmf-partitdemòcrataeuropeucatalàalde.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 81% | 100% | Median |
+| 2 | 19% | 19% |  |
+| 3 | 0% | 0% |  |
+
+### Partido Animalista Contra el Maltrato Animal (GUE/NGL)
+
+*For a full overview of the results for this party, see the [Partido Animalista Contra el Maltrato Animal (GUE/NGL)](party-partidoanimalistacontraelmaltratoanimalguengl.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-01-30-electoPanel-seats-pmf-partidoanimalistacontraelmaltratoanimalguengl.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 4% | 100% | Last Result |
+| 1 | 96% | 96% | Median |
+| 2 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -157,9 +198,11 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0 | 14 | 0% | 13–14 | 13–15 | 13–15 | 13–15 |
-| Partido Popular (EPP) | 0 | 12 | 0% | 11–13 | 11–13 | 11–13 | 11–13 |
-| Vox (ECR) | 0 | 7 | 0% | 7–8 | 6–8 | 6–8 | 6–8 |
+| Partido Socialista Obrero Español (S&D) | 0 | 14 | 0% | 13–14 | 13–14 | 12–14 | 11–14 |
+| Partido Popular (EPP) | 0 | 10 | 0% | 9–10 | 9–10 | 9–10 | 9–10 |
+| Vox (ECR) | 0 | 8 | 0% | 8–9 | 8–9 | 8–9 | 7–9 |
+| Unidos Podemos (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) | 0 | 8 | 0% | 7–8 | 7–8 | 6–8 | 6–9 |
+| Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA) | 0 | 3 | 0% | 3 | 3 | 3–4 | 3–4 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -178,13 +221,11 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0.4% | 100% |  |
-| 13 | 27% | 99.6% |  |
-| 14 | 64% | 72% | Median |
-| 15 | 8% | 8% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 11 | 0.7% | 100% |  |
+| 12 | 4% | 99.3% |  |
+| 13 | 31% | 96% |  |
+| 14 | 65% | 65% | Median |
+| 15 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
 
@@ -201,13 +242,9 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0.1% | 100% |  |
-| 11 | 17% | 99.9% |  |
-| 12 | 71% | 83% | Median |
-| 13 | 12% | 12% |  |
-| 14 | 0.1% | 0.1% |  |
-| 15 | 0% | 0% |  |
+| 9 | 16% | 100% |  |
+| 10 | 84% | 84% | Median |
+| 11 | 0% | 0% |  |
 
 ### Vox (ECR)
 
@@ -221,10 +258,42 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 8% | 100% |  |
-| 7 | 81% | 92% | Median |
-| 8 | 10% | 10% |  |
-| 9 | 0% | 0% |  |
+| 6 | 0.4% | 100% |  |
+| 7 | 0.9% | 99.6% |  |
+| 8 | 85% | 98.8% | Median |
+| 9 | 14% | 14% |  |
+| 10 | 0% | 0% |  |
+
+### Unidos Podemos (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2019-01-30-electoPanel-coalitions-seats-pmf-up–pacma.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 3% | 100% |  |
+| 7 | 16% | 97% |  |
+| 8 | 79% | 82% | Median |
+| 9 | 2% | 2% |  |
+| 10 | 0% | 0% |  |
+
+### Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](2019-01-30-electoPanel-coalitions-seats-pmf-erc–ehbildu–bng.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 96% | 100% | Median |
+| 4 | 4% | 4% |  |
+| 5 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -238,6 +307,6 @@
 ### Calculations
 
 + **Sample size:** 2890
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.30%
++ **Simulations done:** 1,024
++ **Error estimate:** 2.80%
 
