@@ -200,8 +200,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–19 | 13–19 | 13–19 | 13–20 |
-| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 18 | 14–18 | 14–19 | 14–19 | 13–19 |
-| [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 16 | 15–17 | 15–17 | 15–17 | 15–17 |
+| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
+| [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–16 | 14–17 | 14–17 | 13–17 |

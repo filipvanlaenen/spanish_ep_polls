@@ -192,7 +192,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 8–13 | 8–13 | 8–13 | 7–14 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 11 | 10–11 | 10–11 | 10–12 | 10–12 |
+| [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
