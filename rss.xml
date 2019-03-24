@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 24 Mar 2019 10:04:27 +0100</pubDate>
+    <pubDate>Sun, 24 Mar 2019 15:22:44 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sondaxe for La Voz de Galicia, 15–20 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-20-Sondaxe.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 14–18 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 7–9 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 7–9 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 7–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-20-Sondaxe-seats.png"
+        length="159652"
+        type="image/png"/>
+      <pubDate>Sun, 24 Mar 2019 15:22:44 +0100</pubDate>
+      <dc:date>2019-03-24T15:22:44.030639+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sondaxe for La Voz de Galicia, 15–20 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-20-Sondaxe.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-20-Sondaxe-coalitions-seats.png"
+        length="140417"
+        type="image/png"/>
+      <pubDate>Sun, 24 Mar 2019 15:22:44 +0100</pubDate>
+      <dc:date>2019-03-24T15:22:44.030639+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sondaxe for La Voz de Galicia, 15–20 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-20-Sondaxe.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-20-Sondaxe.png"
         length="196981"
         type="image/png"/>
-      <pubDate>Sun, 24 Mar 2019 09:55:37 +0100</pubDate>
-      <dc:date>2019-03-24T09:55:37.403234+01:00</dc:date>
+      <pubDate>Sun, 24 Mar 2019 15:22:44 +0100</pubDate>
+      <dc:date>2019-03-24T15:22:44.030639+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by 40dB for El País, 14–19 March 2019 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-19-40dB.png"
         length="182480"
         type="image/png"/>
-      <pubDate>Sun, 24 Mar 2019 10:04:27 +0100</pubDate>
-      <dc:date>2019-03-24T10:04:27.466435+01:00</dc:date>
+      <pubDate>Sun, 24 Mar 2019 14:00:25 +0100</pubDate>
+      <dc:date>2019-03-24T14:00:25.792516+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 11–15 March 2019 – Voting Intentions</title>
@@ -3369,6 +3389,6 @@
       <pubDate>Thu, 21 Mar 2019 19:14:53 +0100</pubDate>
       <dc:date>2019-03-21T19:14:53.890309+01:00</dc:date>
     </item>
-    <dc:date>2019-03-24T10:04:27.466435+01:00</dc:date>
+    <dc:date>2019-03-24T15:22:44.030639+01:00</dc:date>
   </channel>
 </rss>
