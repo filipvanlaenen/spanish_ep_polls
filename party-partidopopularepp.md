@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.0% | 15.8–23.6% | 15.0–24.5% | 14.6–25.1% | 13.9–26.2% |
+| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 18.9% | 17.4–20.6% | 16.9–21.0% | 16.6–21.5% | 15.9–22.3% |
+| [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 19.3% | 18.1–20.7% | 17.7–21.1% | 17.4–21.4% | 16.8–22.1% |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 23.2% | 21.6–25.0% | 21.1–25.5% | 20.7–25.9% | 19.9–26.8% |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 17.1% | 15.7–18.7% | 15.3–19.1% | 15.0–19.5% | 14.4–20.2% |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 22.8% | 21.2–24.5% | 20.8–25.0% | 20.4–25.4% | 19.7–26.2% |
@@ -193,6 +195,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 10–14 | 9–15 | 9–16 | 8–16 |
+| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
+| [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 12 | 12 | 11–12 | 11–12 | 11–13 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 15 | 13–15 | 13–15 | 12–16 | 12–17 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
