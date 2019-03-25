@@ -183,7 +183,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–9 | 3–9 | 3–9 |
+| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 3–9 | 3–9 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -207,7 +207,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
-| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -336,9 +336,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 11% | 97% |  |
 | 5 | 15% | 87% |  |
 | 6 | 22% | 72% | Median |
-| 7 | 24% | 49% |  |
-| 8 | 20% | 26% |  |
-| 9 | 5% | 6% |  |
+| 7 | 26% | 49% |  |
+| 8 | 19% | 24% |  |
+| 9 | 5% | 5% |  |
 | 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
 

@@ -185,7 +185,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–10 | 7–10 | 6–11 | 6–11 |
+| N/A | [Poll Average](average.html) | 9 | 7–10 | 6–10 | 6–11 | 6–11 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
@@ -337,9 +337,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.2% | 100% |  |
-| 6 | 4% | 99.8% |  |
-| 7 | 16% | 96% |  |
-| 8 | 27% | 80% |  |
+| 6 | 5% | 99.8% |  |
+| 7 | 14% | 95% |  |
+| 8 | 26% | 80% |  |
 | 9 | 31% | 54% | Median |
 | 10 | 19% | 23% |  |
 | 11 | 4% | 4% |  |
