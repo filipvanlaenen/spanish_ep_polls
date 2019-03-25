@@ -369,8 +369,8 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 1.2% | 100% |  |
-| 13 | 8% | 98.8% |  |
+| 12 | 2% | 100% |  |
+| 13 | 8% | 98% |  |
 | 14 | 13% | 91% |  |
 | 15 | 20% | 78% |  |
 | 16 | 19% | 58% | Median |
@@ -440,7 +440,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 48% | 100% | Last Result |
 | 1 | 47% | 52% | Median |
-| 2 | 6% | 6% |  |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 ### Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE)
@@ -548,8 +548,8 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 1.2% | 100% |  |
-| 13 | 8% | 98.8% |  |
+| 12 | 2% | 100% |  |
+| 13 | 8% | 98% |  |
 | 14 | 13% | 91% |  |
 | 15 | 20% | 78% |  |
 | 16 | 19% | 58% | Median |
@@ -605,10 +605,10 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 16% | 76% |  |
 | 11 | 17% | 60% |  |
 | 12 | 16% | 42% | Median |
-| 13 | 12% | 26% |  |
+| 13 | 13% | 26% |  |
 | 14 | 9% | 13% |  |
-| 15 | 4% | 5% |  |
-| 16 | 0.3% | 0.3% |  |
+| 15 | 4% | 4% |  |
+| 16 | 0.4% | 0.4% |  |
 | 17 | 0% | 0% |  |
 
 ### Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Unidos Podemos (GUE/NGL)
@@ -668,6 +668,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 13
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 13,107,200
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 13,631,488
 + **Error estimate:** 2.26%
