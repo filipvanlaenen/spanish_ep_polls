@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 25 Mar 2019 20:02:29 +0100</pubDate>
+    <pubDate>Mon, 25 Mar 2019 20:52:25 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sondaxe for La Voz de Galicia, 15–20 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-20-Sondaxe.html</link>
@@ -480,14 +480,34 @@
       <dc:date>2019-02-22T20:26:55.150989+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 26–30 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-30-electoPanel.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 9–11 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 12–14 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 6–7 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 12–14 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 7–9 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-30-electoPanel-seats.png"
+        length="212092"
+        type="image/png"/>
+      <pubDate>Mon, 25 Mar 2019 20:52:25 +0100</pubDate>
+      <dc:date>2019-03-25T20:52:25.944054+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 26–30 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-30-electoPanel.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-30-electoPanel-coalitions-seats.png"
+        length="149547"
+        type="image/png"/>
+      <pubDate>Mon, 25 Mar 2019 20:52:25 +0100</pubDate>
+      <dc:date>2019-03-25T20:52:25.944054+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by electoPanel for electomania.es, 26–30 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-30-electoPanel.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 14.7–17.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 19.9–22.8%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.2–12.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 19.6–22.5%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 2.5–3.8%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 1.4–2.4%&lt;/li&gt;&lt;li&gt;Vox (ECR): 11.8–14.3%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 5.5–7.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-30-electoPanel.png"
         length="264678"
         type="image/png"/>
-      <pubDate>Mon, 25 Mar 2019 20:02:29 +0100</pubDate>
-      <dc:date>2019-03-25T20:02:29.128197+01:00</dc:date>
+      <pubDate>Mon, 25 Mar 2019 20:52:25 +0100</pubDate>
+      <dc:date>2019-03-25T20:52:25.944054+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 21–25 January 2019 – Seat Projections for the Parties</title>
@@ -3369,6 +3389,6 @@
       <pubDate>Thu, 21 Mar 2019 19:14:53 +0100</pubDate>
       <dc:date>2019-03-21T19:14:53.890309+01:00</dc:date>
     </item>
-    <dc:date>2019-03-25T20:02:29.128197+01:00</dc:date>
+    <dc:date>2019-03-25T20:52:25.944054+01:00</dc:date>
   </channel>
 </rss>
