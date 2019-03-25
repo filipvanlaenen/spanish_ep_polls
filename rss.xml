@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 24 Mar 2019 17:26:11 +0100</pubDate>
+    <pubDate>Mon, 25 Mar 2019 20:02:29 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sondaxe for La Voz de Galicia, 15–20 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-20-Sondaxe.html</link>
@@ -486,8 +486,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-30-electoPanel.png"
         length="264678"
         type="image/png"/>
-      <pubDate>Thu, 21 Mar 2019 17:53:59 +0100</pubDate>
-      <dc:date>2019-03-21T17:53:59.632389+01:00</dc:date>
+      <pubDate>Mon, 25 Mar 2019 20:02:29 +0100</pubDate>
+      <dc:date>2019-03-25T20:02:29.128197+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 21–25 January 2019 – Seat Projections for the Parties</title>
@@ -3369,6 +3369,6 @@
       <pubDate>Thu, 21 Mar 2019 19:14:53 +0100</pubDate>
       <dc:date>2019-03-21T19:14:53.890309+01:00</dc:date>
     </item>
-    <dc:date>2019-03-24T17:26:11.722243+01:00</dc:date>
+    <dc:date>2019-03-25T20:02:29.128197+01:00</dc:date>
   </channel>
 </rss>
