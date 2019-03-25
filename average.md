@@ -9,7 +9,7 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | PP | PSOE | UP | Cs | ERC | PDeCAT | EAJ/PNV | PACMA | EH Bildu | CC | Vox | BNG | ERC–EH Bildu–BNG |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 15–25% <br> 9–16 | 21–31% <br> 13–19 | 11–18% <br> 6–11 | 13–22% <br> 8–13 | N/A <br> N/A | 1–3% <br> 0–1 | 1–2% <br> 0–1 | 1–3% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 | 6–15% <br> 3–9 | N/A <br> N/A | 3–7% <br> 1–4 |
+| N/A | Poll Average | 15–25% <br> 9–16 | 21–31% <br> 13–19 | 11–18% <br> 6–11 | 13–22% <br> 8–13 | N/A <br> N/A | 1–3% <br> 0–2 | 1–2% <br> 0–1 | 1–3% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 | 6–15% <br> 3–9 | N/A <br> N/A | 3–7% <br> 1–4 |
 | [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 18–23% <br> 11–14 | 26–32% <br> 16–20 | 13–18% <br> 8–11 | 13–18% <br> 8–11 | N/A <br> N/A | 1–2% <br> 0–1 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 7–10% <br> 4–6 | N/A <br> N/A | 3–6% <br> 2–4 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 20–26% <br> 12–16 | 26–32% <br> 16–20 | 9–14% <br> 5–8 | 13–18% <br> 8–11 | N/A <br> N/A | 1–3% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 9–13% <br> 5–8 | N/A <br> N/A | 3–5% <br> 1–3 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 17–21% <br> 10–13 | 26–31% <br> 16–19 | 13–16% <br> 7–10 | 12–15% <br> 7–9 | N/A <br> N/A | 1–3% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 13–16% <br> 7–10 | N/A <br> N/A | 4–6% <br> 2–3 |
@@ -20,7 +20,7 @@ The table below lists the polls on which the average is based. They are the most
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 19–22% <br> 11–13 | 26–30% <br> 15–18 | 12–15% <br> 7–9 | 14–17% <br> 8–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–14% <br> 6–8 | N/A <br> N/A | N/A <br> N/A |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 16–20% <br> 9–12 | 23–28% <br> 14–17 | 12–16% <br> 7–9 | 15–19% <br> 9–12 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 6–8 | N/A <br> N/A | N/A <br> N/A |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 21–26% <br> 13–16 | 21–26% <br> 13–16 | 14–18% <br> 8–11 | 17–22% <br> 10–13 | N/A <br> N/A | 1–3% <br> 0–1 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 | 7–11% <br> 4–6 | N/A <br> N/A | 3–5% <br> 1–3 |
-| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 15–17% <br> 9–10 | 20–23% <br> 12–14 | 10–13% <br> 6–7 | 20–23% <br> 12–14 | N/A <br> N/A | 3–4% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 12–14% <br> 8–9 | N/A <br> N/A | 5–7% <br> 3–4 |
+| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 15–17% <br> 9–11 | 20–23% <br> 12–14 | 10–13% <br> 6–7 | 20–23% <br> 12–14 | N/A <br> N/A | 3–4% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 12–14% <br> 7–9 | N/A <br> N/A | 5–7% <br> 3–4 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 14–16% <br> 8–10 | 28–32% <br> 18–20 | 14–17% <br> 9–10 | 16–19% <br> 10–12 | N/A <br> N/A | 1% <br> 0 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | 0% <br> 0 | 6–7% <br> 3–4 | N/A <br> N/A | 5–7% <br> 3–4 |
 | [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 17–22% <br> 10–14 | 23–29% <br> 14–18 | 13–18% <br> 8–11 | 18–23% <br> 11–14 | N/A <br> N/A | 1–3% <br> 0–1 | 1–2% <br> 0–1 | 1–3% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 7–10% <br> 4–6 | N/A <br> N/A | 3–5% <br> 1–3 |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -308,18 +308,18 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 12 | 10–14 |9–15 | 9–16 | 8–16 |
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 16 | 14–19 |13–19 | 13–19 | 13–20 |
-| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 9 | 7–10 |7–10 | 6–11 | 6–11 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 16 | 14–19 |13–19 | 13–19 | 12–20 |
+| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 9 | 7–10 |6–10 | 6–11 | 6–11 |
 | <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 11 | 8–13 |8–13 | 8–13 | 7–14 |
 | <a href="#esquerra-republicana-de-catalunya-(greens/efa)">Esquerra Republicana de Catalunya (Greens/EFA)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#partit-demòcrata-europeu-català-(alde)">Partit Demòcrata Europeu Català (ALDE)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–2 |
+| <a href="#partit-demòcrata-europeu-català-(alde)">Partit Demòcrata Europeu Català (ALDE)</a> | 0 | 1 | 0–1 |0–2 | 0–2 | 0–2 |
 | <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco-(alde)">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#partido-animalista-contra-el-maltrato-animal-(gue/ngl)">Partido Animalista Contra el Maltrato Animal (GUE/NGL)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#coalición-canaria-(alde)">Coalición Canaria (ALDE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 6 | 4–8 |4–9 | 3–9 | 3–9 |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 6 | 4–8 |4–8 | 3–9 | 3–9 |
 | <a href="#bloque-nacionalista-galego-(greens/efa)">Bloque Nacionalista Galego (Greens/EFA)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#esquerra-republicana-de-catalunya–euskal-herria-bildu–bloque-nacionalista-galego-(greens/efa)">Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA)</a> | 0 | 2 | 2–3 |1–3 | 1–4 | 1–4 |
+| <a href="#esquerra-republicana-de-catalunya–euskal-herria-bildu–bloque-nacionalista-galego-(greens/efa)">Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA)</a> | 0 | 2 | 2–3 |1–4 | 1–4 | 1–4 |
 
 ### Partido Popular (EPP)
 
@@ -338,9 +338,9 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.7% | 100% |  |
-| 9 | 7% | 99.3% |  |
-| 10 | 14% | 92% |  |
-| 11 | 16% | 79% |  |
+| 9 | 9% | 99.3% |  |
+| 10 | 12% | 91% |  |
+| 11 | 17% | 79% |  |
 | 12 | 25% | 62% | Median |
 | 13 | 16% | 38% |  |
 | 14 | 11% | 21% |  |
@@ -368,10 +368,10 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.1% | 100% |  |
-| 12 | 0.4% | 99.9% |  |
-| 13 | 5% | 99.5% |  |
-| 14 | 17% | 95% |  |
+| 11 | 0% | 100% |  |
+| 12 | 1.2% | 100% |  |
+| 13 | 8% | 98.8% |  |
+| 14 | 13% | 91% |  |
 | 15 | 20% | 78% |  |
 | 16 | 19% | 58% | Median |
 | 17 | 18% | 40% |  |
@@ -395,9 +395,9 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.2% | 100% |  |
-| 6 | 4% | 99.8% |  |
-| 7 | 16% | 96% |  |
-| 8 | 27% | 80% |  |
+| 6 | 5% | 99.8% |  |
+| 7 | 14% | 95% |  |
+| 8 | 26% | 80% |  |
 | 9 | 31% | 54% | Median |
 | 10 | 19% | 23% |  |
 | 11 | 4% | 4% |  |
@@ -424,10 +424,10 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 17% | 87% |  |
 | 10 | 15% | 70% |  |
 | 11 | 20% | 54% | Median |
-| 12 | 23% | 34% |  |
-| 13 | 8% | 10% |  |
+| 12 | 19% | 34% |  |
+| 13 | 13% | 15% |  |
 | 14 | 2% | 2% |  |
-| 15 | 0.2% | 0.2% |  |
+| 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
 ### Partit Demòcrata Europeu Català (ALDE)
@@ -439,8 +439,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 48% | 100% | Last Result |
-| 1 | 50% | 52% | Median |
-| 2 | 2% | 2% |  |
+| 1 | 47% | 52% | Median |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 
 ### Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE)
@@ -463,8 +463,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% | Last Result |
-| 1 | 57% | 57% | Median |
+| 0 | 45% | 100% | Last Result |
+| 1 | 55% | 55% | Median |
 | 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
@@ -483,9 +483,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 11% | 97% |  |
 | 5 | 15% | 87% |  |
 | 6 | 22% | 72% | Median |
-| 7 | 24% | 49% |  |
-| 8 | 20% | 26% |  |
-| 9 | 5% | 6% |  |
+| 7 | 26% | 49% |  |
+| 8 | 19% | 24% |  |
+| 9 | 5% | 5% |  |
 | 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
@@ -500,8 +500,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 9% | 100% |  |
 | 2 | 54% | 91% | Median |
-| 3 | 34% | 38% |  |
-| 4 | 4% | 4% |  |
+| 3 | 29% | 38% |  |
+| 4 | 8% | 8% |  |
 | 5 | 0% | 0% |  |
 
 ### Coalición Canaria (ALDE)
@@ -523,12 +523,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0 | 16 | 0% | 14–19 | 13–19 | 13–19 | 13–20 |
+| Partido Socialista Obrero Español (S&D) | 0 | 16 | 0% | 14–19 | 13–19 | 13–19 | 12–20 |
 | Partido Popular (EPP) | 0 | 12 | 0% | 10–14 | 9–15 | 9–16 | 8–16 |
-| Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición Canaria (ALDE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE) – Partit Demòcrata Europeu Català (ALDE) | 0 | 11 | 0% | 9–13 | 8–14 | 8–15 | 7–15 |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición Canaria (ALDE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE) – Partit Demòcrata Europeu Català (ALDE) | 0 | 11 | 0% | 9–14 | 8–14 | 8–15 | 7–15 |
 | Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Unidos Podemos (GUE/NGL) | 0 | 9 | 0% | 7–11 | 7–11 | 6–11 | 6–12 |
-| Vox (ECR) | 0 | 6 | 0% | 4–8 | 4–9 | 3–9 | 3–9 |
-| Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA) | 0 | 2 | 0% | 0–3 | 0–3 | 0–3 | 0–4 |
+| Vox (ECR) | 0 | 6 | 0% | 4–8 | 4–8 | 3–9 | 3–9 |
+| Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA) | 0 | 2 | 0% | 0–3 | 0–4 | 0–4 | 0–4 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -547,10 +547,10 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.1% | 100% |  |
-| 12 | 0.4% | 99.9% |  |
-| 13 | 5% | 99.5% |  |
-| 14 | 17% | 95% |  |
+| 11 | 0% | 100% |  |
+| 12 | 1.2% | 100% |  |
+| 13 | 8% | 98.8% |  |
+| 14 | 13% | 91% |  |
 | 15 | 20% | 78% |  |
 | 16 | 19% | 58% | Median |
 | 17 | 18% | 40% |  |
@@ -575,9 +575,9 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.7% | 100% |  |
-| 9 | 7% | 99.3% |  |
-| 10 | 14% | 92% |  |
-| 11 | 16% | 79% |  |
+| 9 | 9% | 99.3% |  |
+| 10 | 12% | 91% |  |
+| 11 | 17% | 79% |  |
 | 12 | 25% | 62% | Median |
 | 13 | 16% | 38% |  |
 | 14 | 11% | 21% |  |
@@ -605,10 +605,10 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 16% | 76% |  |
 | 11 | 17% | 60% |  |
 | 12 | 16% | 42% | Median |
-| 13 | 17% | 26% |  |
-| 14 | 6% | 9% |  |
-| 15 | 3% | 3% |  |
-| 16 | 0.2% | 0.2% |  |
+| 13 | 12% | 26% |  |
+| 14 | 9% | 13% |  |
+| 15 | 4% | 5% |  |
+| 16 | 0.3% | 0.3% |  |
 | 17 | 0% | 0% |  |
 
 ### Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Unidos Podemos (GUE/NGL)
@@ -624,8 +624,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0.2% | 100% |  |
 | 6 | 3% | 99.8% |  |
-| 7 | 11% | 97% |  |
-| 8 | 31% | 86% |  |
+| 7 | 13% | 97% |  |
+| 8 | 29% | 84% |  |
 | 9 | 23% | 56% |  |
 | 10 | 22% | 32% | Median |
 | 11 | 9% | 10% |  |
@@ -645,9 +645,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 11% | 97% |  |
 | 5 | 15% | 87% |  |
 | 6 | 22% | 72% | Median |
-| 7 | 24% | 49% |  |
-| 8 | 20% | 26% |  |
-| 9 | 5% | 6% |  |
+| 7 | 26% | 49% |  |
+| 8 | 19% | 24% |  |
+| 9 | 5% | 5% |  |
 | 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
@@ -660,14 +660,14 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 31% | 100% | Last Result |
 | 1 | 6% | 69% |  |
 | 2 | 37% | 63% | Median |
-| 3 | 24% | 26% |  |
-| 4 | 2% | 2% |  |
+| 3 | 20% | 26% |  |
+| 4 | 6% | 6% |  |
 | 5 | 0% | 0% |  |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 13
-+ **Lowest number of simulations done in a poll included in this average:** 1,024
-+ **Total number of simulations done in the polls included in this average:** 12,583,936
-+ **Error estimate:** 2.80%
++ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Total number of simulations done in the polls included in this average:** 13,107,200
++ **Error estimate:** 2.26%
