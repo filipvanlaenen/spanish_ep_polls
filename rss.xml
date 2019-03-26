@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 25 Mar 2019 20:52:25 +0100</pubDate>
+    <pubDate>Tue, 26 Mar 2019 20:11:32 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 17–23 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-23-IMOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.5–21.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 28.2–33.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.7–14.2%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 12.6–16.3%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0.8–2.0%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.8–2.0%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 1.4–3.0%&lt;/li&gt;&lt;li&gt;Vox (ECR): 9.5–12.8%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 3.5–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-23-IMOP.png"
+        length="287570"
+        type="image/png"/>
+      <pubDate>Tue, 26 Mar 2019 20:11:32 +0100</pubDate>
+      <dc:date>2019-03-26T20:11:32.909503+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sondaxe for La Voz de Galicia, 15–20 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-20-Sondaxe.html</link>
@@ -3389,6 +3399,6 @@
       <pubDate>Thu, 21 Mar 2019 19:14:53 +0100</pubDate>
       <dc:date>2019-03-21T19:14:53.890309+01:00</dc:date>
     </item>
-    <dc:date>2019-03-25T20:52:25.944054+01:00</dc:date>
+    <dc:date>2019-03-26T20:11:32.909503+01:00</dc:date>
   </channel>
 </rss>
