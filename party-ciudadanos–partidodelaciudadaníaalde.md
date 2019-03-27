@@ -12,11 +12,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.7% | 14.1–21.0% | 13.4–21.6% | 12.9–22.0% | 12.2–22.9% |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 14.4% | 13.2–15.6% | 12.9–16.0% | 12.6–16.3% | 12.1–16.9% |
-| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 17.1% | N/A | N/A | N/A | N/A |
-| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 13.1% | N/A | N/A | N/A | N/A |
+| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 17.1% | 15.7–18.7% | 15.2–19.2% | 14.9–19.6% | 14.2–20.4% |
+| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 13.1% | 12.6–13.6% | 12.5–13.8% | 12.4–13.9% | 12.1–14.1% |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 13.8% | 12.5–15.3% | 12.1–15.7% | 11.8–16.1% | 11.2–16.8% |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 17.7% | 16.5–19.1% | 16.2–19.4% | 15.9–19.8% | 15.3–20.4% |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 17.6% | N/A | N/A | N/A | N/A |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 17.6% | 17.0–18.2% | 16.9–18.4% | 16.7–18.5% | 16.5–18.8% |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 17.8% | 16.3–19.4% | 15.9–19.9% | 15.5–20.3% | 14.9–21.1% |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 16.7% | 15.3–18.2% | 14.9–18.6% | 14.6–19.0% | 13.9–19.8% |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18.1% | 16.7–19.7% | 16.3–20.1% | 15.9–20.5% | 15.3–21.2% |
@@ -196,11 +196,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 8–13 | 8–13 | 8–13 | 7–14 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 8 | 8 | 8–9 | 8–9 | 8–9 |
-| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 10 | 10 | 10–12 | 10–12 | 10–13 |
+| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 8 | 8 | 8 | 8 | 8 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10 | 10 | 10 | 10–11 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 10–12 | 10–12 | 9–12 | 9–13 |

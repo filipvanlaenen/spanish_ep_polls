@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 0.3% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 0.0% | N/A | N/A | N/A | N/A |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
-| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 0.3% | N/A | N/A | N/A | N/A |
+| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 0.3% | 0.2–0.4% | 0.2–0.4% | 0.2–0.5% | 0.2–0.5% |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 0.0% | N/A | N/A | N/A | N/A |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
@@ -174,7 +174,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 0 | 0 | 0 | 0 | 0 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País |  |  |  |  |  |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
