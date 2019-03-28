@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Mar 2019 06:54:56 +0100</pubDate>
+    <pubDate>Thu, 28 Mar 2019 17:42:51 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 20–26 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-26-IMOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.5–22.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 28.1–34.1%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9.9–14.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 12.8–17.4%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (ALDE): 0.7–2.3%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.7–2.2%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 1.2–3.1%&lt;/li&gt;&lt;li&gt;Vox (ECR): 8.3–12.3%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA): 3.2–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-26-IMOP.png"
+        length="301355"
+        type="image/png"/>
+      <pubDate>Thu, 28 Mar 2019 17:32:49 +0100</pubDate>
+      <dc:date>2019-03-28T17:32:49.303344+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metroscopia for Henneo, 18–25 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-25-Metroscopia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.3–20.9%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 26.6–30.8%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.5–15.7%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 14.6–18.1%&lt;/li&gt;&lt;li&gt;Vox (ECR): 10.3–13.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-25-Metroscopia.png"
+        length="178812"
+        type="image/png"/>
+      <pubDate>Thu, 28 Mar 2019 17:42:51 +0100</pubDate>
+      <dc:date>2019-03-28T17:42:51.539117+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 17–23 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-23-IMOP.html</link>
@@ -3429,6 +3449,6 @@
       <pubDate>Thu, 21 Mar 2019 19:14:53 +0100</pubDate>
       <dc:date>2019-03-21T19:14:53.890309+01:00</dc:date>
     </item>
-    <dc:date>2019-03-28T06:54:56.753765+01:00</dc:date>
+    <dc:date>2019-03-28T17:42:51.539117+01:00</dc:date>
   </channel>
 </rss>
