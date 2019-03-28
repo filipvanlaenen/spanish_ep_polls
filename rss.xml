@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 26 Mar 2019 22:36:29 +0100</pubDate>
+    <pubDate>Thu, 28 Mar 2019 06:54:56 +0100</pubDate>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 17–23 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-23-IMOP.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-22-NCReport.png"
         length="283582"
         type="image/png"/>
-      <pubDate>Tue, 26 Mar 2019 20:23:30 +0100</pubDate>
-      <dc:date>2019-03-26T20:23:30.264136+01:00</dc:date>
+      <pubDate>Thu, 28 Mar 2019 06:54:56 +0100</pubDate>
+      <dc:date>2019-03-28T06:54:56.753765+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 1–22 March 2019 – Voting Intentions</title>
@@ -3429,6 +3429,6 @@
       <pubDate>Thu, 21 Mar 2019 19:14:53 +0100</pubDate>
       <dc:date>2019-03-21T19:14:53.890309+01:00</dc:date>
     </item>
-    <dc:date>2019-03-26T22:36:29.918861+01:00</dc:date>
+    <dc:date>2019-03-28T06:54:56.753765+01:00</dc:date>
   </channel>
 </rss>
