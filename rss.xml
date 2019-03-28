@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Mar 2019 17:42:51 +0100</pubDate>
+    <pubDate>Thu, 28 Mar 2019 22:26:18 +0100</pubDate>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 20–26 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-26-IMOP.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-26-IMOP.png"
         length="301355"
         type="image/png"/>
-      <pubDate>Thu, 28 Mar 2019 17:32:49 +0100</pubDate>
-      <dc:date>2019-03-28T17:32:49.303344+01:00</dc:date>
+      <pubDate>Thu, 28 Mar 2019 21:12:01 +0100</pubDate>
+      <dc:date>2019-03-28T21:12:01.835158+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metroscopia for Henneo, 18–25 March 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-25-Metroscopia.png"
         length="178812"
         type="image/png"/>
-      <pubDate>Thu, 28 Mar 2019 17:42:51 +0100</pubDate>
-      <dc:date>2019-03-28T17:42:51.539117+01:00</dc:date>
+      <pubDate>Thu, 28 Mar 2019 21:22:02 +0100</pubDate>
+      <dc:date>2019-03-28T21:22:02.49769+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 17–23 March 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-23-IMOP.png"
         length="287570"
         type="image/png"/>
-      <pubDate>Tue, 26 Mar 2019 20:11:32 +0100</pubDate>
-      <dc:date>2019-03-26T20:11:32.909503+01:00</dc:date>
+      <pubDate>Thu, 28 Mar 2019 21:28:28 +0100</pubDate>
+      <dc:date>2019-03-28T21:28:28.389265+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 18–22 March 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-22-GAD3.png"
         length="238690"
         type="image/png"/>
-      <pubDate>Tue, 26 Mar 2019 21:26:32 +0100</pubDate>
-      <dc:date>2019-03-26T21:26:32.920304+01:00</dc:date>
+      <pubDate>Thu, 28 Mar 2019 22:26:18 +0100</pubDate>
+      <dc:date>2019-03-28T22:26:18.669435+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sondaxe for La Voz de Galicia, 15–20 March 2019 – Voting Intentions</title>
@@ -3449,6 +3449,6 @@
       <pubDate>Thu, 21 Mar 2019 19:14:53 +0100</pubDate>
       <dc:date>2019-03-21T19:14:53.890309+01:00</dc:date>
     </item>
-    <dc:date>2019-03-28T17:42:51.539117+01:00</dc:date>
+    <dc:date>2019-03-28T22:26:18.669435+01:00</dc:date>
   </channel>
 </rss>
