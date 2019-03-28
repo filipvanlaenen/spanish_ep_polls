@@ -190,11 +190,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 3–9 | 3–9 |
-| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 7 | 7 | 6–7 | 5–7 | 5–7 |
+| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 7 | 7 | 7 | 6–7 | 6–7 |
+| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8 | 8 | 8 | 8–9 |
