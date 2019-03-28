@@ -191,7 +191,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–10 | 6–10 | 6–11 | 6–11 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 7 | 7 | 7 | 7 | 6–7 |
-| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
+| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
