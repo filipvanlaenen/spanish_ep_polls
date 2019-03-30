@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.5% | 11.7–16.5% | 11.1–17.0% | 10.6–17.5% | 9.9–18.4% |
+| N/A | [Poll Average](average.html) | 13.3% | 11.0–15.6% | 10.6–16.1% | 10.4–16.5% | 9.9–17.5% |
+| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 14.8% | 13.5–16.2% | 13.2–16.6% | 12.9–17.0% | 12.3–17.6% |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 11.9% | 10.6–13.4% | 10.2–13.8% | 9.9–14.1% | 9.3–14.9% |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 14.0% | 13.0–15.1% | 12.7–15.4% | 12.5–15.7% | 12.0–16.2% |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 12.4% | 11.3–13.6% | 11.0–13.9% | 10.7–14.2% | 10.2–14.8% |
@@ -169,17 +170,17 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 2% | 99.8% |  |
-| 10.5–11.5% | 7% | 98% |  |
-| 11.5–12.5% | 8% | 91% |  |
-| 12.5–13.5% | 13% | 83% |  |
-| 13.5–14.5% | 21% | 70% |  |
-| 14.5–15.5% | 23% | 49% | Median |
-| 15.5–16.5% | 17% | 26% |  |
-| 16.5–17.5% | 7% | 9% |  |
-| 17.5–18.5% | 2% | 2% |  |
-| 18.5–19.5% | 0.3% | 0.3% |  |
+| 8.5–9.5% | 0.1% | 100% |  |
+| 9.5–10.5% | 4% | 99.9% |  |
+| 10.5–11.5% | 15% | 96% |  |
+| 11.5–12.5% | 16% | 81% |  |
+| 12.5–13.5% | 19% | 65% | Median |
+| 13.5–14.5% | 20% | 46% |  |
+| 14.5–15.5% | 15% | 26% |  |
+| 15.5–16.5% | 8% | 10% |  |
+| 16.5–17.5% | 2% | 2% |  |
+| 17.5–18.5% | 0.4% | 0.4% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -191,7 +192,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–10 | 6–10 | 6–11 | 6–11 |
+| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 6–11 |
+| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 8 | 7–8 | 7–8 | 6–8 | 6–9 |
@@ -348,14 +350,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.2% | 100% |  |
-| 6 | 5% | 99.8% |  |
-| 7 | 14% | 95% |  |
-| 8 | 26% | 80% |  |
-| 9 | 31% | 54% | Median |
-| 10 | 19% | 23% |  |
-| 11 | 4% | 4% |  |
-| 12 | 0.2% | 0.2% |  |
-| 13 | 0% | 0% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 14% | 99.9% |  |
+| 7 | 28% | 86% |  |
+| 8 | 28% | 58% | Median |
+| 9 | 23% | 31% |  |
+| 10 | 7% | 7% |  |
+| 11 | 0.7% | 0.7% |  |
+| 12 | 0% | 0% |  |
 
 
