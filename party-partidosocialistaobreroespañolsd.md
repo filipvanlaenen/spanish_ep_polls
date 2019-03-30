@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.9% | 24.3–31.1% | 22.6–31.8% | 22.1–32.5% | 21.6–33.8% |
+| N/A | [Poll Average](average.html) | 28.0% | 24.6–31.1% | 22.6–31.8% | 22.1–32.5% | 21.6–33.8% |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 27.7% | 26.0–29.4% | 25.6–29.9% | 25.2–30.3% | 24.4–31.1% |
+| [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 27.0% | 25.3–28.8% | 24.9–29.3% | 24.4–29.7% | 23.7–30.6% |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 31.0% | 29.1–33.0% | 28.5–33.6% | 28.1–34.1% | 27.2–35.1% |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 28.7% | 27.3–30.1% | 27.0–30.5% | 26.6–30.8% | 26.0–31.5% |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 30.5% | 29.0–32.1% | 28.5–32.6% | 28.2–33.0% | 27.4–33.8% |
@@ -185,12 +186,12 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0.4% | 100% |  |
 | 21.5–22.5% | 4% | 99.6% |  |
 | 22.5–23.5% | 3% | 95% |  |
-| 23.5–24.5% | 3% | 92% |  |
-| 24.5–25.5% | 7% | 89% |  |
-| 25.5–26.5% | 11% | 82% |  |
-| 26.5–27.5% | 15% | 70% |  |
-| 27.5–28.5% | 15% | 55% | Median |
-| 28.5–29.5% | 13% | 40% |  |
+| 23.5–24.5% | 2% | 93% |  |
+| 24.5–25.5% | 6% | 90% |  |
+| 25.5–26.5% | 11% | 85% |  |
+| 26.5–27.5% | 16% | 73% |  |
+| 27.5–28.5% | 16% | 57% | Median |
+| 28.5–29.5% | 13% | 41% |  |
 | 29.5–30.5% | 11% | 28% |  |
 | 30.5–31.5% | 10% | 17% |  |
 | 31.5–32.5% | 4% | 6% |  |
@@ -208,9 +209,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 14–20 | 14–20 | 14–21 |
-| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
-| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 19 | 18–21 | 18–21 | 17–21 | 17–22 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 14–19 | 14–20 | 14–21 |
+| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
+| [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 17 | 17–18 | 15–18 | 15–18 |
+| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 19 | 19–21 | 18–21 | 18–21 | 15–23 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 17 | 16–18 | 16–18 | 16–19 | 16–19 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 19 | 18–20 | 18–20 | 17–20 | 17–21 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
@@ -374,16 +376,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.4% | 100% |  |
-| 14 | 9% | 99.6% |  |
-| 15 | 8% | 90% |  |
-| 16 | 24% | 82% |  |
-| 17 | 20% | 58% | Median |
-| 18 | 15% | 39% |  |
-| 19 | 18% | 24% |  |
-| 20 | 5% | 6% |  |
-| 21 | 0.9% | 1.0% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 13 | 0.3% | 100% |  |
+| 14 | 8% | 99.7% |  |
+| 15 | 6% | 92% |  |
+| 16 | 23% | 85% |  |
+| 17 | 25% | 62% | Median |
+| 18 | 13% | 37% |  |
+| 19 | 20% | 24% |  |
+| 20 | 3% | 4% |  |
+| 21 | 1.1% | 1.2% |  |
+| 22 | 0% | 0.1% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 

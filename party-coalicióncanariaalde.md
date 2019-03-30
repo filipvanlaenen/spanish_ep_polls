@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.3% | 0.1–0.6% | 0.1–0.8% | 0.1–0.9% | 0.1–1.2% |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 0.0% | N/A | N/A | N/A | N/A |
+| [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 0.0% | N/A | N/A | N/A | N/A |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 0.0% | N/A | N/A | N/A | N/A |
@@ -177,6 +178,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO |  |  |  |  |  |
+| [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |

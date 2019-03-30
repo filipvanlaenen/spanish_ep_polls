@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.1% | 7.9–13.5% | 6.8–14.0% | 6.4–14.6% | 5.9–15.7% |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 11.2% | 10.1–12.5% | 9.8–12.9% | 9.5–13.2% | 9.0–13.8% |
+| [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9.1% | 8.1–10.3% | 7.8–10.6% | 7.5–10.9% | 7.1–11.6% |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 10.1% | 8.9–11.5% | 8.6–11.9% | 8.3–12.3% | 7.8–12.9% |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 11.7% | 10.8–12.7% | 10.5–13.0% | 10.3–13.2% | 9.8–13.7% |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 11.0% | 10.0–12.2% | 9.7–12.5% | 9.5–12.8% | 9.0–13.3% |
@@ -168,10 +169,10 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.1% | 100% |  |
 | 5.5–6.5% | 4% | 99.9% |  |
-| 6.5–7.5% | 4% | 96% |  |
-| 7.5–8.5% | 6% | 92% |  |
-| 8.5–9.5% | 11% | 86% |  |
-| 9.5–10.5% | 14% | 75% |  |
+| 6.5–7.5% | 5% | 96% |  |
+| 7.5–8.5% | 7% | 92% |  |
+| 8.5–9.5% | 11% | 85% |  |
+| 9.5–10.5% | 14% | 73% |  |
 | 10.5–11.5% | 20% | 60% | Median |
 | 11.5–12.5% | 18% | 40% |  |
 | 12.5–13.5% | 13% | 22% |  |
@@ -190,9 +191,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 4–8 | 4–9 | 3–9 |
-| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–8 | 4–8 | 4–9 | 3–9 |
+| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 5 | 5 | 5–6 | 4–6 |
+| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 5 | 5–6 | 5–8 | 5–8 | 5–8 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -348,9 +350,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 2% | 100% |  |
 | 4 | 8% | 98% |  |
-| 5 | 16% | 90% |  |
-| 6 | 23% | 75% |  |
-| 7 | 31% | 51% | Median |
+| 5 | 22% | 90% |  |
+| 6 | 19% | 68% | Median |
+| 7 | 29% | 49% |  |
 | 8 | 15% | 20% |  |
 | 9 | 5% | 5% |  |
 | 10 | 0.1% | 0.1% |  |
