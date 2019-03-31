@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 30 Mar 2019 20:13:15 +0100</pubDate>
+    <pubDate>Sun, 31 Mar 2019 11:22:06 +0200</pubDate>
     <item>
       <title>Opinion Poll by Demoscopia y Servicios for OKDIARIO, 24–27 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-27-DemoscopiayServicios.html</link>
@@ -38,6 +38,16 @@
         type="image/png"/>
       <pubDate>Sat, 30 Mar 2019 20:13:15 +0100</pubDate>
       <dc:date>2019-03-30T20:13:15.447556+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metroscopia for Henneo, 18–25 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-25-Metroscopia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.6–20.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 27.0–30.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.7–15.4%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 15.0–17.8%&lt;/li&gt;&lt;li&gt;Vox (ECR): 10.5–13.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-25-Metroscopia.png"
+        length="172610"
+        type="image/png"/>
+      <pubDate>Sat, 30 Mar 2019 20:33:43 +0100</pubDate>
+      <dc:date>2019-03-30T20:33:43.533142+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–24 March 2019 – Voting Intentions</title>
@@ -90,6 +100,26 @@
       <dc:date>2019-03-30T19:58:30.771472+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by 40dB for El País, 14–19 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-19-40dB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.4–21.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 24.9–29.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.8–14.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 15.9–19.8%&lt;/li&gt;&lt;li&gt;Vox (ECR): 8.8–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-19-40dB.png"
+        length="182480"
+        type="image/png"/>
+      <pubDate>Sat, 30 Mar 2019 20:38:37 +0100</pubDate>
+      <dc:date>2019-03-30T20:38:37.060952+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 22 February–17 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-17-electoPanel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 18.7–20.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 21.4–23.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9.9–11.3%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 16.7–18.5%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 2.7–3.5%&lt;/li&gt;&lt;li&gt;Vox (ECR): 12.6–14.2%&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 2.7–3.5%&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 4.6–5.6%&lt;/li&gt;&lt;li&gt;Primavera Europea (Greens/EFA): 2.0–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-17-electoPanel.png"
+        length="247680"
+        type="image/png"/>
+      <pubDate>Sat, 30 Mar 2019 21:12:19 +0100</pubDate>
+      <dc:date>2019-03-30T21:12:19.552601+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by NC Report for La Razón, 11–15 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-15-NCReport.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 20.7–25.9%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 23.4–28.8%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.7–17.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 15.5–20.3%&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Vox (ECR): 8.6–12.3%&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 2.4–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -100,6 +130,16 @@
       <dc:date>2019-03-19T06:48:23.61092+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Simple Lógica, 4–13 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-13-SimpleLógica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 15.0–19.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 28.5–34.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.5–14.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 14.6–19.0%&lt;/li&gt;&lt;li&gt;Vox (ECR): 7.1–10.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-13-SimpleLógica.png"
+        length="184646"
+        type="image/png"/>
+      <pubDate>Sat, 30 Mar 2019 21:17:17 +0100</pubDate>
+      <dc:date>2019-03-30T21:17:17.132974+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 8–11 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-11-Celeste-Tel.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 20.4–25.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 22.9–28.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.3–16.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 15.9–20.5%&lt;/li&gt;&lt;li&gt;Vox (ECR): 8.0–11.5%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -108,6 +148,36 @@
         type="image/png"/>
       <pubDate>Sun, 17 Mar 2019 22:52:02 +0100</pubDate>
       <dc:date>2019-03-17T22:52:02.000335+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 22 February–10 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-10-electoPanel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 18.1–20.0%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 20.8–22.8%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.2–11.7%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 17.4–19.2%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 2.6–3.4%&lt;/li&gt;&lt;li&gt;Vox (ECR): 12.5–14.1%&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 2.7–3.6%&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 4.8–5.9%&lt;/li&gt;&lt;li&gt;Primavera Europea (Greens/EFA): 2.0–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-10-electoPanel.png"
+        length="246444"
+        type="image/png"/>
+      <pubDate>Sun, 31 Mar 2019 10:06:02 +0200</pubDate>
+      <dc:date>2019-03-31T10:06:02.35465+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 5–8 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-08-SocioMétrica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 15.7–19.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 25.5–29.9%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.5–15.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 16.0–19.8%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 1.4–2.8%&lt;/li&gt;&lt;li&gt;Vox (ECR): 10.6–13.8%&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 2.0–3.6%&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 3.1–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-08-SocioMétrica.png"
+        length="253080"
+        type="image/png"/>
+      <pubDate>Sun, 31 Mar 2019 11:16:31 +0200</pubDate>
+      <dc:date>2019-03-31T11:16:31.985434+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Invymark for laSexta, 4–8 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-08-Invymark.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 18.2–22.8%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 22.8–27.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.4–15.2%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 18.2–22.7%&lt;/li&gt;&lt;li&gt;Vox (ECR): 9.8–13.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-08-Invymark.png"
+        length="197905"
+        type="image/png"/>
+      <pubDate>Sun, 31 Mar 2019 11:22:06 +0200</pubDate>
+      <dc:date>2019-03-31T11:22:06.584136+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 4–8 March 2019 – Seat Projections for the Parties</title>
@@ -3309,6 +3379,6 @@
       <pubDate>Thu, 21 Mar 2019 19:14:53 +0100</pubDate>
       <dc:date>2019-03-21T19:14:53.890309+01:00</dc:date>
     </item>
-    <dc:date>2019-03-30T20:13:15.447556+01:00</dc:date>
+    <dc:date>2019-03-31T11:22:06.584136+02:00</dc:date>
   </channel>
 </rss>
