@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 31 Mar 2019 11:22:06 +0200</pubDate>
+    <pubDate>Sun, 31 Mar 2019 14:03:45 +0200</pubDate>
     <item>
       <title>Opinion Poll by Demoscopia y Servicios for OKDIARIO, 24–27 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-27-DemoscopiayServicios.html</link>
@@ -210,6 +210,26 @@
       <dc:date>2019-03-16T14:56:35.029259+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 22 February–3 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-03-electoPanel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 18.0–20.2%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 20.2–22.5%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.3–12.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 17.8–19.9%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 2.7–3.6%&lt;/li&gt;&lt;li&gt;Vox (ECR): 12.5–14.4%&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 2.6–3.5%&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 4.5–5.7%&lt;/li&gt;&lt;li&gt;Primavera Europea (Greens/EFA): 2.0–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-03-electoPanel.png"
+        length="256696"
+        type="image/png"/>
+      <pubDate>Sun, 31 Mar 2019 12:30:57 +0200</pubDate>
+      <dc:date>2019-03-31T12:30:57.808527+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 25–28 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-28-SigmaDos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.9–22.9%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 26.1–31.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 13.5–18.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 13.5–18.0%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0.8–2.2%&lt;/li&gt;&lt;li&gt;Vox (ECR): 6.8–10.3%&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 1.6–3.6%&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 3.5–6.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-28-SigmaDos.png"
+        length="267313"
+        type="image/png"/>
+      <pubDate>Sun, 31 Mar 2019 13:06:06 +0200</pubDate>
+      <dc:date>2019-03-31T13:06:06.542467+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 19–22 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-22-SigmaDos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 15–19 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 7–10 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 8–11 seats&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 7–9 seats&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -388,6 +408,16 @@
         type="image/png"/>
       <pubDate>Sun, 10 Mar 2019 17:16:49 +0100</pubDate>
       <dc:date>2019-03-10T17:16:49.325764+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 13–15 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-15-GESOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.5–22.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 24.7–30.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.6–15.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 12.5–16.8%&lt;/li&gt;&lt;li&gt;Vox (ECR): 11.1–15.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-02-15-GESOP.png"
+        length="194267"
+        type="image/png"/>
+      <pubDate>Sun, 31 Mar 2019 13:27:38 +0200</pubDate>
+      <dc:date>2019-03-31T13:27:38.766597+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for La Vanguardia, 12–15 February 2019 – Voting Intentions</title>
@@ -658,6 +688,16 @@
         type="image/png"/>
       <pubDate>Wed, 06 Feb 2019 12:18:24 +0100</pubDate>
       <dc:date>2019-02-06T12:18:24.842269+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CIS, 1–13 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-13-CIS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 13.7–16.2%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 28.3–31.6%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 14.1–16.7%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 16.4–19.1%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 1.3–2.2%&lt;/li&gt;&lt;li&gt;Vox (ECR): 5.7–7.4%&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 2.0–3.1%&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 5.0–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-01-13-CIS.png"
+        length="229686"
+        type="image/png"/>
+      <pubDate>Sun, 31 Mar 2019 14:03:45 +0200</pubDate>
+      <dc:date>2019-03-31T14:03:45.501208+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Simple Lógica, 3–9 January 2019 – Seat Projections for the Parties</title>
@@ -3379,6 +3419,6 @@
       <pubDate>Thu, 21 Mar 2019 19:14:53 +0100</pubDate>
       <dc:date>2019-03-21T19:14:53.890309+01:00</dc:date>
     </item>
-    <dc:date>2019-03-31T11:22:06.584136+02:00</dc:date>
+    <dc:date>2019-03-31T14:03:45.501208+02:00</dc:date>
   </channel>
 </rss>
