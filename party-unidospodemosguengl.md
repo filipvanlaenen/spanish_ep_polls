@@ -29,7 +29,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 14.1% | 13.1–15.3% | 12.8–15.6% | 12.5–15.9% | 12.0–16.5% |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 13.2% | 12.0–14.5% | 11.6–14.9% | 11.4–15.2% | 10.8–15.9% |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–14.0% | 9.4–14.7% |
-| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 11.1% | 10.5–11.7% | 10.4–11.8% | 10.2–12.0% | 10.0–12.3% |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 11.1% | 10.5–11.7% | 10.4–11.8% | 10.3–12.0% | 10.0–12.3% |
 | [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 15.6% | 14.2–17.2% | 13.8–17.6% | 13.5–18.0% | 12.8–18.8% |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 14.4% | 13.2–15.8% | 12.8–16.2% | 12.5–16.5% | 12.0–17.2% |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 11.5% | 10.2–13.1% | 9.8–13.5% | 9.5–13.9% | 8.9–14.7% |
@@ -194,7 +194,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 7–9 | 6–9 | 6–10 | 6–11 |
+| N/A | [Poll Average](average.html) | 7 | 7–9 | 6–11 | 6–11 | 6–11 |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 7 | 7 | 7 | 7–8 | 6–8 |
@@ -213,15 +213,15 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 8 | 6–9 | 6–9 | 6–9 | 6–9 |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6–7 | 6–7 | 6–7 |
+| [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 11 | 10–11 | 9–11 | 9–11 | 7–12 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 8 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
-| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 8 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
@@ -233,7 +233,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 9 | 9 | 9 | 9 | 9–10 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 9 | 9 | 8–10 | 8–10 |
@@ -357,10 +357,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0.1% | 100% |  |
 | 6 | 9% | 99.9% |  |
 | 7 | 45% | 90% | Median |
-| 8 | 24% | 45% |  |
-| 9 | 17% | 21% |  |
-| 10 | 4% | 5% |  |
-| 11 | 0.6% | 0.7% |  |
-| 12 | 0% | 0% |  |
+| 8 | 23% | 45% |  |
+| 9 | 14% | 22% |  |
+| 10 | 2% | 8% |  |
+| 11 | 6% | 6% |  |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 

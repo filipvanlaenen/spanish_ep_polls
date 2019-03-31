@@ -198,7 +198,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1 | 1 | 0–2 |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
@@ -218,7 +218,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0–1 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
@@ -334,8 +334,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% | Last Result |
-| 1 | 45% | 64% | Median |
+| 0 | 39% | 100% | Last Result |
+| 1 | 42% | 61% | Median |
 | 2 | 20% | 20% |  |
 | 3 | 0% | 0% |  |
 

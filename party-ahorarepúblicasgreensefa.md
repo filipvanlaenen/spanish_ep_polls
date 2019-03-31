@@ -29,7 +29,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
-| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 5.1% | 4.7–5.5% | 4.6–5.7% | 4.5–5.8% | 4.3–5.9% |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 5.1% | 4.7–5.5% | 4.6–5.6% | 4.5–5.7% | 4.4–5.9% |
 | [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.2% | 2.6–3.9% | 2.4–4.1% | 2.3–4.3% | 2.1–4.7% |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 3.6% | 2.9–4.6% | 2.7–4.9% | 2.5–5.2% | 2.2–5.7% |
@@ -182,7 +182,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–4 | 1–4 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–4 | 1–4 | 1–4 |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2 | 2 | 2 | 2–4 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -201,8 +201,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 2–3 | 2–4 | 1–4 |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 3 | 3 | 3 | 3 | 3 |
+| [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -221,7 +221,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 3 | 3 | 3 | 3 | 3–4 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 3 | 3 | 3 | 2–3 |
@@ -339,8 +339,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 7% | 100% |  |
-| 2 | 53% | 93% | Median |
-| 3 | 30% | 40% |  |
+| 2 | 57% | 93% | Median |
+| 3 | 26% | 36% |  |
 | 4 | 10% | 10% |  |
 | 5 | 0% | 0% |  |
 
