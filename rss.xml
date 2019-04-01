@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 01 Apr 2019 06:52:00 +0200</pubDate>
+    <pubDate>Mon, 01 Apr 2019 16:02:33 +0200</pubDate>
     <item>
       <title>Opinion Poll by Demoscopia y Servicios for OKDIARIO, 24–27 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-27-DemoscopiayServicios.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-27-Celeste-Tel.png"
         length="281118"
         type="image/png"/>
-      <pubDate>Sat, 30 Mar 2019 18:56:24 +0100</pubDate>
-      <dc:date>2019-03-30T18:56:24.419897+01:00</dc:date>
+      <pubDate>Mon, 01 Apr 2019 15:59:06 +0200</pubDate>
+      <dc:date>2019-04-01T15:59:06.544065+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 20–26 March 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-25-Metroscopia.png"
         length="172610"
         type="image/png"/>
-      <pubDate>Sat, 30 Mar 2019 20:33:43 +0100</pubDate>
-      <dc:date>2019-03-30T20:33:43.533142+01:00</dc:date>
+      <pubDate>Mon, 01 Apr 2019 16:02:33 +0200</pubDate>
+      <dc:date>2019-04-01T16:02:33.393797+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–24 March 2019 – Voting Intentions</title>
@@ -3419,6 +3419,6 @@
       <pubDate>Thu, 21 Mar 2019 19:14:53 +0100</pubDate>
       <dc:date>2019-03-21T19:14:53.890309+01:00</dc:date>
     </item>
-    <dc:date>2019-04-01T06:52:00.044638+02:00</dc:date>
+    <dc:date>2019-04-01T16:02:33.393797+02:00</dc:date>
   </channel>
 </rss>
