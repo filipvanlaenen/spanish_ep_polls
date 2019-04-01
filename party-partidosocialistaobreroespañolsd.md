@@ -210,10 +210,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–20 | 14–20 | 14–20 | 13–20 |
-| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 18 | 17–19 | 17–19 | 17–19 | 17–20 |
+| N/A | [Poll Average](average.html) | 17 | 14–19 | 14–20 | 14–20 | 13–20 |
+| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–17 | 16–17 | 16–17 | 16–17 |
-| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 20 | 20 | 17–20 | 16–20 | 16–23 |
+| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 19 | 18–20 | 18–20 | 18–21 | 17–21 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 18 | 16–19 | 16–19 | 16–19 | 15–19 |
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14–15 | 14–15 | 14–15 | 14–16 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 19 | 18–20 | 18–20 | 17–20 | 17–21 |
@@ -381,14 +381,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 2% | 99.9% |  |
 | 14 | 10% | 98% |  |
 | 15 | 9% | 88% |  |
-| 16 | 12% | 79% |  |
-| 17 | 19% | 67% | Median |
-| 18 | 27% | 49% |  |
-| 19 | 10% | 21% |  |
-| 20 | 11% | 11% |  |
-| 21 | 0.1% | 0.2% |  |
-| 22 | 0% | 0.1% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 16 | 14% | 79% |  |
+| 17 | 21% | 66% | Median |
+| 18 | 25% | 45% |  |
+| 19 | 14% | 20% |  |
+| 20 | 5% | 6% |  |
+| 21 | 0.4% | 0.4% |  |
+| 22 | 0% | 0% |  |
 
 
