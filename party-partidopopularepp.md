@@ -201,11 +201,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 10–15 | 10–15 | 9–15 |
+| N/A | [Poll Average](average.html) | 12 | 10–14 | 10–14 | 10–15 | 9–15 |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
-| [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–15 | 14–15 | 14–15 | 14–15 |
+| [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 13–15 | 13–15 | 13–16 | 12–17 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 13 | 12–13 | 11–13 | 11–13 | 11–14 |
-| [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
+| [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 11 | 11–12 | 10–12 | 10–12 | 10–13 |
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11–12 | 11–12 | 11–12 | 11–12 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 12 | 11–14 | 11–14 | 11–14 | 11–14 |
@@ -366,12 +366,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0.2% | 100% |  |
 | 9 | 2% | 99.8% |  |
-| 10 | 15% | 98% |  |
-| 11 | 22% | 83% |  |
-| 12 | 32% | 61% | Median |
-| 13 | 17% | 30% |  |
-| 14 | 8% | 13% |  |
-| 15 | 5% | 5% |  |
-| 16 | 0% | 0% |  |
+| 10 | 14% | 98% |  |
+| 11 | 22% | 84% |  |
+| 12 | 33% | 62% | Median |
+| 13 | 19% | 29% |  |
+| 14 | 7% | 10% |  |
+| 15 | 3% | 3% |  |
+| 16 | 0.2% | 0.3% |  |
+| 17 | 0.1% | 0.1% |  |
+| 18 | 0% | 0% |  |
 
 

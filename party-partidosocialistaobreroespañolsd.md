@@ -212,9 +212,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 14–19 | 14–20 | 14–20 | 13–20 |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
-| [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–17 | 16–17 | 16–17 | 16–17 |
+| [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–18 | 15–19 | 14–19 | 14–19 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 19 | 18–20 | 18–20 | 18–21 | 17–21 |
-| [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 18 | 16–19 | 16–19 | 16–19 | 15–19 |
+| [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 17 | 17–18 | 16–18 | 16–18 | 16–19 |
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14–15 | 14–15 | 14–15 | 14–16 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 19 | 18–20 | 18–20 | 17–20 | 17–21 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
@@ -380,10 +380,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.1% | 100% |  |
 | 13 | 2% | 99.9% |  |
 | 14 | 10% | 98% |  |
-| 15 | 9% | 88% |  |
-| 16 | 14% | 79% |  |
-| 17 | 21% | 66% | Median |
-| 18 | 25% | 45% |  |
+| 15 | 10% | 88% |  |
+| 16 | 13% | 78% |  |
+| 17 | 21% | 65% | Median |
+| 18 | 24% | 44% |  |
 | 19 | 14% | 20% |  |
 | 20 | 5% | 6% |  |
 | 21 | 0.4% | 0.4% |  |
