@@ -29,7 +29,7 @@
 | <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 17 | 17–18 |16–18 |16–18 |16–19 |
 | <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 11 | 11–12 |10–12 |10–12 |10–13 |
 | <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 10 | 9–10 |9–10 |9–11 |8–11 |
-| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 8 | 8–9 |8–9 |7–9 |7–9 |
+| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 8 | 8–9 |7–9 |7–9 |7–9 |
 | <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 7 | 6–7 |6–7 |6–8 |6–8 |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -58,8 +58,8 @@
 | 15 | 0.1% | 100% |  |
 | 16 | 8% | 99.9% |  |
 | 17 | 59% | 92% | Median |
-| 18 | 31% | 33% |  |
-| 19 | 2% | 2% |  |
+| 18 | 32% | 33% |  |
+| 19 | 1.4% | 1.4% |  |
 | 20 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
@@ -81,8 +81,8 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 5% | 100% |  |
-| 11 | 63% | 95% | Median |
-| 12 | 31% | 32% |  |
+| 11 | 64% | 95% | Median |
+| 12 | 30% | 31% |  |
 | 13 | 0.6% | 0.6% |  |
 | 14 | 0% | 0% |  |
 
@@ -102,9 +102,9 @@
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.6% | 100% |  |
-| 9 | 41% | 99.4% |  |
-| 10 | 56% | 58% | Median |
+| 8 | 0.5% | 100% |  |
+| 9 | 40% | 99.5% |  |
+| 10 | 57% | 59% | Median |
 | 11 | 3% | 3% |  |
 | 12 | 0% | 0% |  |
 
@@ -185,8 +185,8 @@
 | 15 | 0.1% | 100% |  |
 | 16 | 8% | 99.9% |  |
 | 17 | 59% | 92% | Median |
-| 18 | 31% | 33% |  |
-| 19 | 2% | 2% |  |
+| 18 | 32% | 33% |  |
+| 19 | 1.4% | 1.4% |  |
 | 20 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
@@ -206,8 +206,8 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 5% | 100% |  |
-| 11 | 63% | 95% | Median |
-| 12 | 31% | 32% |  |
+| 11 | 64% | 95% | Median |
+| 12 | 30% | 31% |  |
 | 13 | 0.6% | 0.6% |  |
 | 14 | 0% | 0% |  |
 
@@ -240,6 +240,6 @@
 ### Calculations
 
 + **Sample size:** 2722
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.53%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.27%
 
