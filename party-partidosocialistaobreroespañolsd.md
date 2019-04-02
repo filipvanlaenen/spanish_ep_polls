@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.8% | 24.2–31.2% | 23.8–31.8% | 23.5–32.4% | 22.6–33.7% |
+| N/A | [Poll Average](average.html) | 28.0% | 24.5–31.1% | 23.9–31.7% | 23.5–32.3% | 22.7–33.6% |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 26.7% | 23.6–30.1% | 22.7–31.1% | 22.0–32.0% | 20.6–33.7% |
-| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 30.0% | 28.4–31.7% | 28.0–32.1% | 27.6–32.5% | 26.9–33.3% |
-| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 29.0% | N/A | N/A | N/A | N/A |
-| [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta | 25.9% | N/A | N/A | N/A | N/A |
+| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 30.0% | 28.5–31.6% | 28.1–32.1% | 27.7–32.5% | 27.0–33.2% |
+| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 29.0% | 27.6–30.5% | 27.2–30.9% | 26.8–31.3% | 26.2–32.0% |
+| [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta | 25.9% | 24.3–27.6% | 23.9–28.1% | 23.5–28.5% | 22.8–29.3% |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 27.7% | 26.0–29.4% | 25.6–29.9% | 25.2–30.3% | 24.4–31.1% |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 27.0% | 25.3–28.8% | 24.9–29.3% | 24.4–29.7% | 23.7–30.6% |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 31.0% | 29.4–32.6% | 29.0–33.1% | 28.6–33.5% | 27.9–34.3% |
@@ -188,20 +188,20 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 99.9% |  |
-| 21.5–22.5% | 0.3% | 99.8% |  |
-| 22.5–23.5% | 3% | 99.5% |  |
-| 23.5–24.5% | 10% | 97% |  |
-| 24.5–25.5% | 6% | 87% |  |
-| 25.5–26.5% | 11% | 81% |  |
-| 26.5–27.5% | 16% | 70% |  |
-| 27.5–28.5% | 16% | 54% | Median |
-| 28.5–29.5% | 12% | 38% |  |
-| 29.5–30.5% | 9% | 26% |  |
+| 20.5–21.5% | 0.1% | 100% |  |
+| 21.5–22.5% | 0.3% | 99.9% |  |
+| 22.5–23.5% | 2% | 99.6% |  |
+| 23.5–24.5% | 8% | 97% |  |
+| 24.5–25.5% | 7% | 89% |  |
+| 25.5–26.5% | 11% | 82% |  |
+| 26.5–27.5% | 14% | 72% |  |
+| 27.5–28.5% | 15% | 57% | Median |
+| 28.5–29.5% | 14% | 42% |  |
+| 29.5–30.5% | 11% | 28% |  |
 | 30.5–31.5% | 11% | 17% |  |
 | 31.5–32.5% | 4% | 6% |  |
-| 32.5–33.5% | 2% | 2% |  |
-| 33.5–34.5% | 0.5% | 0.6% |  |
+| 32.5–33.5% | 1.3% | 2% |  |
+| 33.5–34.5% | 0.4% | 0.5% |  |
 | 34.5–35.5% | 0.1% | 0.1% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
@@ -214,18 +214,18 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 14–19 | 14–20 | 14–20 |
-| [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 16 | 14–19 | 14–19 | 13–19 | 12–19 |
-| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
-| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–20 | 14–20 |
+| [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 16 | 14–18 | 14–19 | 13–19 | 12–20 |
+| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 18 | 18–19 | 17–20 | 17–20 | 16–21 |
+| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–19 | 17–19 | 16–19 | 16–21 |
+| [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 19 | 18–20 | 18–21 | 18–21 | 17–21 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 17 | 17–18 | 16–18 | 16–18 | 16–19 |
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–15 | 14–16 | 14–16 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 19 | 18–20 | 18–20 | 17–20 | 17–21 |
-| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
+| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 19 | 18–20 | 18–20 | 18–20 | 18–20 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 15 | 15 | 15–17 | 15–17 | 14–18 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 16 | 15–17 | 15–17 | 15–17 | 15–17 |
@@ -385,16 +385,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.2% | 100% |  |
-| 13 | 0.2% | 99.8% |  |
-| 14 | 7% | 99.6% |  |
-| 15 | 20% | 93% |  |
-| 16 | 16% | 73% |  |
-| 17 | 24% | 57% | Median |
-| 18 | 16% | 32% |  |
-| 19 | 12% | 16% |  |
-| 20 | 5% | 5% |  |
-| 21 | 0.1% | 0.1% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 0.4% | 99.9% |  |
+| 14 | 4% | 99.6% |  |
+| 15 | 20% | 96% |  |
+| 16 | 15% | 75% |  |
+| 17 | 22% | 60% | Median |
+| 18 | 22% | 38% |  |
+| 19 | 11% | 16% |  |
+| 20 | 4% | 4% |  |
+| 21 | 0.3% | 0.3% |  |
 | 22 | 0% | 0% |  |
 
 
