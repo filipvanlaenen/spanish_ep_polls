@@ -198,8 +198,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 7 | 6–9 | 5–9 | 5–10 | 4–10 |
-| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 8 | 8 | 7–9 | 7–10 | 7–10 |
-| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 7–8 | 7–8 | 7–9 | 7–9 |
+| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
+| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
@@ -362,9 +362,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.1% | 100% |  |
 | 5 | 0.6% | 99.9% |  |
 | 6 | 15% | 99.4% |  |
-| 7 | 41% | 85% | Median |
-| 8 | 37% | 44% |  |
-| 9 | 7% | 7% |  |
+| 7 | 42% | 85% | Median |
+| 8 | 34% | 43% |  |
+| 9 | 9% | 9% |  |
 | 10 | 0.6% | 0.6% |  |
 | 11 | 0% | 0% |  |
 

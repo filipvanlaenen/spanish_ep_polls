@@ -11,8 +11,8 @@ The table below lists the polls on which the average is based. They are the most
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 16–25% <br> 10–15 | 24–32% <br> 14–20 | 10–15% <br> 6–9 | 13–19% <br> 7–12 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 8–15% <br> 5–8 | N/A <br> N/A | 3–6% <br> 1–4 | 2–4% <br> 1–2 | 0–4% <br> 0–2 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 19–28% <br> 11–17 | 22–32% <br> 13–19 | 9–16% <br> 5–10 | 13–21% <br> 7–12 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 7–14% <br> 4–8 | N/A <br> N/A | 2–6% <br> 1–3 | 1–5% <br> 0–3 | N/A <br> N/A |
-| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 20–24% <br> 12–15 | 28–32% <br> 17–20 | 12–16% <br> 7–10 | 12–16% <br> 7–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 8–11% <br> 5–6 | N/A <br> N/A | 4–6% <br> 2–3 | 2–3% <br> 1 | 0–1% <br> 0 |
-| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 17–21% <br> 11–12 | 27–31% <br> 16–19 | 11–14% <br> 7–9 | 14–18% <br> 8–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 6–8 | N/A <br> N/A | 3–5% <br> 1–3 | 2–4% <br> 1–2 | 0–1% <br> 0 |
+| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 20–24% <br> 12–15 | 28–32% <br> 17–20 | 12–16% <br> 7–10 | 12–16% <br> 7–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 8–11% <br> 5–7 | N/A <br> N/A | 4–6% <br> 2–3 | 2–3% <br> 1 | 0–1% <br> 0 |
+| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 17–21% <br> 10–13 | 27–31% <br> 17–20 | 11–14% <br> 7–9 | 14–18% <br> 9–11 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 6–8 | N/A <br> N/A | 3–5% <br> 1–3 | 2–4% <br> 1–2 | 0–1% <br> 0 |
 | [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta | 18–22% <br> 11–13 | 24–28% <br> 14–17 | 11–15% <br> 6–9 | 15–20% <br> 9–12 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 6–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 19–23% <br> 11–14 | 25–30% <br> 15–19 | 12–15% <br> 7–9 | 15–19% <br> 9–12 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–13% <br> 6–8 | N/A <br> N/A | 2–4% <br> 1–2 | 2–4% <br> 1–2 | 1–2% <br> 0–1 |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 21–25% <br> 13–16 | 24–30% <br> 15–19 | 10–14% <br> 6–9 | 15–19% <br> 9–12 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 8–11% <br> 4–6 | N/A <br> N/A | 3–5% <br> 1–3 | 2–4% <br> 1–2 | 1–3% <br> 0–1 |
@@ -307,7 +307,7 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 12 | 11–14 |10–15 | 10–15 | 9–16 |
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 17 | 15–19 |15–19 | 14–20 | 14–20 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 17 | 15–19 |15–20 | 14–20 | 14–20 |
 | <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 7 | 6–8 |6–9 | 6–9 | 5–10 |
 | <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 10 | 8–11 |7–12 | 7–12 | 7–12 |
 | <a href="#esquerra-republicana-de-catalunya-(greens/efa)">Esquerra Republicana de Catalunya (Greens/EFA)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -341,12 +341,12 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0.2% | 100% |  |
 | 9 | 1.1% | 99.8% |  |
 | 10 | 8% | 98.7% |  |
-| 11 | 14% | 91% |  |
-| 12 | 39% | 77% | Median |
-| 13 | 22% | 38% |  |
-| 14 | 9% | 16% |  |
-| 15 | 5% | 7% |  |
-| 16 | 1.2% | 2% |  |
+| 11 | 15% | 91% |  |
+| 12 | 38% | 76% | Median |
+| 13 | 20% | 38% |  |
+| 14 | 10% | 18% |  |
+| 15 | 7% | 8% |  |
+| 16 | 1.2% | 1.5% |  |
 | 17 | 0.2% | 0.3% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
@@ -377,10 +377,10 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 20% | 96% |  |
 | 16 | 15% | 75% |  |
 | 17 | 22% | 60% | Median |
-| 18 | 22% | 38% |  |
-| 19 | 11% | 16% |  |
-| 20 | 4% | 4% |  |
-| 21 | 0.3% | 0.3% |  |
+| 18 | 20% | 38% |  |
+| 19 | 12% | 17% |  |
+| 20 | 5% | 5% |  |
+| 21 | 0.1% | 0.2% |  |
 | 22 | 0% | 0% |  |
 
 ### Unidos Podemos (GUE/NGL)
@@ -398,9 +398,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0.1% | 100% |  |
 | 5 | 0.6% | 99.9% |  |
 | 6 | 15% | 99.4% |  |
-| 7 | 41% | 85% | Median |
-| 8 | 37% | 44% |  |
-| 9 | 7% | 7% |  |
+| 7 | 42% | 85% | Median |
+| 8 | 34% | 43% |  |
+| 9 | 9% | 9% |  |
 | 10 | 0.6% | 0.6% |  |
 | 11 | 0% | 0% |  |
 
@@ -420,10 +420,10 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 8% | 100% |  |
-| 8 | 12% | 92% |  |
-| 9 | 19% | 79% |  |
-| 10 | 34% | 60% | Median |
-| 11 | 21% | 27% |  |
+| 8 | 16% | 92% |  |
+| 9 | 18% | 77% |  |
+| 10 | 31% | 59% | Median |
+| 11 | 22% | 27% |  |
 | 12 | 5% | 6% |  |
 | 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |
@@ -441,10 +441,10 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
 | 4 | 1.3% | 99.9% |  |
-| 5 | 22% | 98.6% |  |
-| 6 | 23% | 76% |  |
-| 7 | 39% | 53% | Median |
-| 8 | 14% | 15% |  |
+| 5 | 23% | 98.6% |  |
+| 6 | 22% | 75% |  |
+| 7 | 37% | 53% | Median |
+| 8 | 15% | 16% |  |
 | 9 | 0.9% | 1.1% |  |
 | 10 | 0.2% | 0.3% |  |
 | 11 | 0% | 0% |  |
@@ -457,9 +457,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.0% | 100% | Last Result |
-| 1 | 54% | 99.0% | Median |
-| 2 | 44% | 45% |  |
+| 0 | 1.1% | 100% | Last Result |
+| 1 | 55% | 98.9% | Median |
+| 2 | 44% | 44% |  |
 | 3 | 0.7% | 0.7% |  |
 | 4 | 0% | 0% |  |
 
@@ -472,9 +472,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 16% | 99.9% |  |
-| 2 | 51% | 84% | Median |
-| 3 | 22% | 33% |  |
+| 1 | 15% | 99.9% |  |
+| 2 | 53% | 85% | Median |
+| 3 | 21% | 32% |  |
 | 4 | 11% | 11% |  |
 | 5 | 0% | 0% |  |
 
@@ -486,8 +486,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% | Last Result |
-| 1 | 43% | 64% | Median |
+| 0 | 42% | 100% | Last Result |
+| 1 | 37% | 58% | Median |
 | 2 | 21% | 21% |  |
 | 3 | 0% | 0% |  |
 
@@ -514,7 +514,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0 | 17 | 0% | 15–19 | 15–19 | 14–20 | 14–20 |
+| Partido Socialista Obrero Español (S&D) | 0 | 17 | 0% | 15–19 | 15–20 | 14–20 | 14–20 |
 | Partido Popular (EPP) | 0 | 12 | 0% | 11–14 | 10–15 | 10–15 | 9–16 |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE) | 0 | 10 | 0% | 9–12 | 9–13 | 9–13 | 8–14 |
 | Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Unidos Podemos (GUE/NGL) | 0 | 8 | 0% | 7–9 | 6–9 | 6–9 | 5–10 |
@@ -545,10 +545,10 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 20% | 96% |  |
 | 16 | 15% | 75% |  |
 | 17 | 22% | 60% | Median |
-| 18 | 22% | 38% |  |
-| 19 | 11% | 16% |  |
-| 20 | 4% | 4% |  |
-| 21 | 0.3% | 0.3% |  |
+| 18 | 20% | 38% |  |
+| 19 | 12% | 17% |  |
+| 20 | 5% | 5% |  |
+| 21 | 0.1% | 0.2% |  |
 | 22 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
@@ -568,12 +568,12 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0.2% | 100% |  |
 | 9 | 1.1% | 99.8% |  |
 | 10 | 8% | 98.7% |  |
-| 11 | 14% | 91% |  |
-| 12 | 39% | 77% | Median |
-| 13 | 22% | 38% |  |
-| 14 | 9% | 16% |  |
-| 15 | 5% | 7% |  |
-| 16 | 1.2% | 2% |  |
+| 11 | 15% | 91% |  |
+| 12 | 38% | 76% | Median |
+| 13 | 20% | 38% |  |
+| 14 | 10% | 18% |  |
+| 15 | 7% | 8% |  |
+| 16 | 1.2% | 1.5% |  |
 | 17 | 0.2% | 0.3% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
@@ -592,12 +592,12 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 2% | 100% |  |
-| 9 | 16% | 98% |  |
-| 10 | 36% | 82% |  |
-| 11 | 24% | 46% | Median |
-| 12 | 13% | 22% |  |
-| 13 | 7% | 9% |  |
+| 8 | 0.9% | 100% |  |
+| 9 | 19% | 99.1% |  |
+| 10 | 36% | 80% |  |
+| 11 | 21% | 43% | Median |
+| 12 | 14% | 23% |  |
+| 13 | 8% | 9% |  |
 | 14 | 2% | 2% |  |
 | 15 | 0.1% | 0.2% |  |
 | 16 | 0% | 0% |  |
@@ -615,10 +615,10 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0.1% | 100% |  |
 | 5 | 0.5% | 99.9% |  |
 | 6 | 6% | 99.4% |  |
-| 7 | 38% | 93% |  |
-| 8 | 40% | 55% | Median |
-| 9 | 14% | 15% |  |
-| 10 | 0.8% | 1.1% |  |
+| 7 | 40% | 93% |  |
+| 8 | 38% | 53% | Median |
+| 9 | 13% | 15% |  |
+| 10 | 2% | 2% |  |
 | 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
@@ -633,10 +633,10 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
 | 4 | 1.3% | 99.9% |  |
-| 5 | 22% | 98.6% |  |
-| 6 | 23% | 76% |  |
-| 7 | 39% | 53% | Median |
-| 8 | 14% | 15% |  |
+| 5 | 23% | 98.6% |  |
+| 6 | 22% | 75% |  |
+| 7 | 37% | 53% | Median |
+| 8 | 15% | 16% |  |
 | 9 | 0.9% | 1.1% |  |
 | 10 | 0.2% | 0.3% |  |
 | 11 | 0% | 0% |  |
@@ -648,8 +648,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 33% | 100% | Last Result |
-| 1 | 9% | 67% |  |
-| 2 | 30% | 58% | Median |
+| 1 | 8% | 67% |  |
+| 2 | 31% | 59% | Median |
 | 3 | 12% | 28% |  |
 | 4 | 8% | 16% |  |
 | 5 | 7% | 8% |  |
@@ -661,5 +661,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 12
 + **Lowest number of simulations done in a poll included in this average:** 1,024
-+ **Total number of simulations done in the polls included in this average:** 4,509,696
++ **Total number of simulations done in the polls included in this average:** 4,722,688
 + **Error estimate:** 3.46%
