@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 02 Apr 2019 06:54:34 +0200</pubDate>
+    <pubDate>Tue, 02 Apr 2019 19:44:21 +0200</pubDate>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 28–30 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-30-NCReport.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-30-IMOP.png"
         length="269483"
         type="image/png"/>
-      <pubDate>Mon, 01 Apr 2019 21:08:38 +0200</pubDate>
-      <dc:date>2019-04-01T21:08:38.684426+02:00</dc:date>
+      <pubDate>Tue, 02 Apr 2019 19:44:21 +0200</pubDate>
+      <dc:date>2019-04-02T19:44:21.091877+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 25–29 March 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-29-SocioMétrica.png"
         length="263780"
         type="image/png"/>
-      <pubDate>Tue, 02 Apr 2019 06:54:34 +0200</pubDate>
-      <dc:date>2019-04-02T06:54:34.457746+02:00</dc:date>
+      <pubDate>Tue, 02 Apr 2019 19:40:21 +0200</pubDate>
+      <dc:date>2019-04-02T19:40:21.800701+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 25–29 March 2019 – Voting Intentions</title>
@@ -3559,6 +3559,6 @@
       <pubDate>Thu, 21 Mar 2019 19:14:53 +0100</pubDate>
       <dc:date>2019-03-21T19:14:53.890309+01:00</dc:date>
     </item>
-    <dc:date>2019-04-02T06:54:34.457746+02:00</dc:date>
+    <dc:date>2019-04-02T19:44:21.091877+02:00</dc:date>
   </channel>
 </rss>
