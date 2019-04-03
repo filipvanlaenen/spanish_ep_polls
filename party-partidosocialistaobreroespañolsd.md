@@ -216,7 +216,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 14–20 | 14–20 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 16 | 14–18 | 14–19 | 13–19 | 12–20 |
-| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 18 | 18–19 | 18–20 | 17–20 | 17–21 |
+| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
 | [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–20 | 17–20 | 17–20 | 16–20 |
 | [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
@@ -390,10 +390,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 4% | 99.6% |  |
 | 15 | 20% | 96% |  |
 | 16 | 15% | 75% |  |
-| 17 | 22% | 60% | Median |
-| 18 | 20% | 38% |  |
-| 19 | 12% | 17% |  |
-| 20 | 5% | 5% |  |
+| 17 | 23% | 60% | Median |
+| 18 | 19% | 37% |  |
+| 19 | 12% | 18% |  |
+| 20 | 6% | 6% |  |
 | 21 | 0.1% | 0.2% |  |
 | 22 | 0% | 0% |  |
 
