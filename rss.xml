@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 03 Apr 2019 15:33:29 +0200</pubDate>
+    <pubDate>Wed, 03 Apr 2019 17:57:44 +0200</pubDate>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 28–30 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-30-NCReport.html#seats</link>
@@ -306,8 +306,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-22-GAD3.png"
         length="205420"
         type="image/png"/>
-      <pubDate>Sat, 30 Mar 2019 20:08:32 +0100</pubDate>
-      <dc:date>2019-03-30T20:08:32.511807+01:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 17:57:44 +0200</pubDate>
+      <dc:date>2019-04-03T17:57:44.763627+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sondaxe for La Voz de Galicia, 15–20 March 2019 – Voting Intentions</title>
@@ -326,8 +326,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-19-40dB.png"
         length="182480"
         type="image/png"/>
-      <pubDate>Sat, 30 Mar 2019 20:38:37 +0100</pubDate>
-      <dc:date>2019-03-30T20:38:37.060952+01:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 17:52:28 +0200</pubDate>
+      <dc:date>2019-04-03T17:52:28.206677+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–17 March 2019 – Voting Intentions</title>
@@ -336,8 +336,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-17-electoPanel.png"
         length="247680"
         type="image/png"/>
-      <pubDate>Sat, 30 Mar 2019 21:12:19 +0100</pubDate>
-      <dc:date>2019-03-30T21:12:19.552601+01:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 17:11:39 +0200</pubDate>
+      <dc:date>2019-04-03T17:11:39.173471+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 11–15 March 2019 – Voting Intentions</title>
@@ -376,8 +376,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-10-electoPanel.png"
         length="246444"
         type="image/png"/>
-      <pubDate>Sun, 31 Mar 2019 10:06:02 +0200</pubDate>
-      <dc:date>2019-03-31T10:06:02.35465+02:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 17:28:40 +0200</pubDate>
+      <dc:date>2019-04-03T17:28:40.98189+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 5–8 March 2019 – Voting Intentions</title>
@@ -3639,6 +3639,6 @@
       <pubDate>Thu, 21 Mar 2019 19:14:53 +0100</pubDate>
       <dc:date>2019-03-21T19:14:53.890309+01:00</dc:date>
     </item>
-    <dc:date>2019-04-03T15:33:29.078041+02:00</dc:date>
+    <dc:date>2019-04-03T17:57:44.763627+02:00</dc:date>
   </channel>
 </rss>
