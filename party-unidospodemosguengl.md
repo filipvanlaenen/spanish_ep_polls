@@ -210,8 +210,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6 | 6 | 6 |
+| [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
@@ -362,8 +362,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.1% | 100% |  |
 | 5 | 0.6% | 99.9% |  |
 | 6 | 16% | 99.3% |  |
-| 7 | 39% | 84% | Median |
-| 8 | 35% | 45% |  |
+| 7 | 36% | 83% | Median |
+| 8 | 37% | 47% |  |
 | 9 | 10% | 10% |  |
 | 10 | 0.5% | 0.5% |  |
 | 11 | 0% | 0% |  |

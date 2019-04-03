@@ -208,10 +208,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
-| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 7 | 7 | 7 | 7 | 6–7 |
+| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 7 | 7 | 6–7 | 6–7 | 6–7 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
-| [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8 | 8 | 8 | 8 |
+| [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8 | 8 | 8–9 | 7–9 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
@@ -360,8 +360,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
 | 4 | 3% | 99.9% |  |
-| 5 | 21% | 97% |  |
-| 6 | 22% | 76% |  |
+| 5 | 19% | 97% |  |
+| 6 | 25% | 78% |  |
 | 7 | 38% | 53% | Median |
 | 8 | 12% | 15% |  |
 | 9 | 3% | 4% |  |
