@@ -196,11 +196,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–8 | 4–9 |
+| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 4–9 | 4–9 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
 | [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
-| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
+| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -209,15 +209,15 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 7 | 7 | 7 | 7 | 6–7 |
-| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 8 | 8 | 7–8 | 7–10 | 7–10 |
+| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8 | 8 | 8 | 8 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 5 | 5 | 5 | 4–5 | 3–6 |
+| [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8 | 8 | 8–9 | 7–9 |
-| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 6 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
+| [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8 | 7–8 | 7–8 | 7–8 |
 | [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
@@ -359,13 +359,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
-| 4 | 1.3% | 99.9% |  |
-| 5 | 24% | 98.6% |  |
-| 6 | 21% | 75% |  |
-| 7 | 37% | 53% | Median |
-| 8 | 15% | 16% |  |
-| 9 | 0.9% | 1.1% |  |
-| 10 | 0.3% | 0.3% |  |
+| 4 | 3% | 99.9% |  |
+| 5 | 21% | 97% |  |
+| 6 | 22% | 76% |  |
+| 7 | 38% | 53% | Median |
+| 8 | 12% | 15% |  |
+| 9 | 3% | 4% |  |
+| 10 | 0.5% | 0.5% |  |
 | 11 | 0% | 0% |  |
 
 

@@ -205,7 +205,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 10 | 8–11 | 7–12 | 7–12 | 7–12 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 10 | 8–12 | 8–12 | 7–13 | 7–14 |
 | [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 8 | 8–9 | 8–9 | 7–10 | 7–10 |
-| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 9–10 | 9–11 | 9–11 | 8–12 |
+| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
@@ -215,15 +215,15 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 8 | 8 | 8 | 8–9 | 8–9 |
+| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 11 | 10–11 | 10–11 | 10–12 | 10–12 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11 | 11 | 11 | 11 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
-| [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 10 | 10 | 10–11 | 10–11 | 9–12 |
+| [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
-| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10 | 9–11 | 9–11 | 9–11 |
-| [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
+| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
+| [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12 | 11–12 | 11–12 | 11–12 |
 | [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 8–10 | 8–10 | 8–10 | 8–10 |
@@ -367,12 +367,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 8% | 100% |  |
-| 8 | 15% | 92% |  |
-| 9 | 18% | 77% |  |
-| 10 | 32% | 59% | Median |
-| 11 | 22% | 27% |  |
+| 6 | 0.1% | 100% |  |
+| 7 | 9% | 99.9% |  |
+| 8 | 11% | 91% |  |
+| 9 | 21% | 80% |  |
+| 10 | 31% | 59% | Median |
+| 11 | 23% | 28% |  |
 | 12 | 5% | 5% |  |
 | 13 | 0.3% | 0.3% |  |
 | 14 | 0% | 0% |  |
