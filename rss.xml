@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 02 Apr 2019 22:50:38 +0200</pubDate>
+    <pubDate>Wed, 03 Apr 2019 15:33:29 +0200</pubDate>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 28–30 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-30-NCReport.html#seats</link>
@@ -70,14 +70,54 @@
       <dc:date>2019-04-02T21:16:46.354427+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 25–29 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-29-SocioMétrica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17–20 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 7–9 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 9–11 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 6–8 seats&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 1–3 seats&lt;/li&gt;&lt;li&gt;Primavera Europea (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-29-SocioMétrica-seats.png"
+        length="200546"
+        type="image/png"/>
+      <pubDate>Wed, 03 Apr 2019 13:30:23 +0200</pubDate>
+      <dc:date>2019-04-03T13:30:23.629981+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 25–29 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-29-SocioMétrica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-29-SocioMétrica-coalitions-seats.png"
+        length="133246"
+        type="image/png"/>
+      <pubDate>Wed, 03 Apr 2019 13:30:23 +0200</pubDate>
+      <dc:date>2019-04-03T13:30:23.629981+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SocioMétrica for El Español, 25–29 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-29-SocioMétrica.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.0–20.8%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 26.8–31.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.1–14.4%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 14.4–18.0%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0.8–1.9%&lt;/li&gt;&lt;li&gt;Vox (ECR): 10.4–13.6%&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 2.1–3.7%&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 3.0–4.9%&lt;/li&gt;&lt;li&gt;Primavera Europea (Greens/EFA): 0.2–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-29-SocioMétrica.png"
         length="263780"
         type="image/png"/>
-      <pubDate>Tue, 02 Apr 2019 19:40:21 +0200</pubDate>
-      <dc:date>2019-04-02T19:40:21.800701+02:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 13:30:23 +0200</pubDate>
+      <dc:date>2019-04-03T13:30:23.629981+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Invymark for laSexta, 25–29 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-29-Invymark.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 11–13 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 14–17 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 6–9 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 9–12 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 6–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-29-Invymark-seats.png"
+        length="178531"
+        type="image/png"/>
+      <pubDate>Wed, 03 Apr 2019 13:46:19 +0200</pubDate>
+      <dc:date>2019-04-03T13:46:19.717326+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Invymark for laSexta, 25–29 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-29-Invymark.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-29-Invymark-coalitions-seats.png"
+        length="143973"
+        type="image/png"/>
+      <pubDate>Wed, 03 Apr 2019 13:46:19 +0200</pubDate>
+      <dc:date>2019-04-03T13:46:19.717326+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 25–29 March 2019 – Voting Intentions</title>
@@ -86,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-29-Invymark.png"
         length="191729"
         type="image/png"/>
-      <pubDate>Tue, 02 Apr 2019 06:53:42 +0200</pubDate>
-      <dc:date>2019-04-02T06:53:42.648496+02:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 13:46:19 +0200</pubDate>
+      <dc:date>2019-04-03T13:46:19.717326+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoscopia y Servicios for OKDIARIO, 24–27 March 2019 – Seat Projections for the Parties</title>
@@ -276,8 +316,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-20-Sondaxe.png"
         length="241629"
         type="image/png"/>
-      <pubDate>Sat, 30 Mar 2019 19:58:30 +0100</pubDate>
-      <dc:date>2019-03-30T19:58:30.771472+01:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 15:33:29 +0200</pubDate>
+      <dc:date>2019-04-03T15:33:29.078041+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by 40dB for El País, 14–19 March 2019 – Voting Intentions</title>
@@ -316,8 +356,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-13-SimpleLógica.png"
         length="184646"
         type="image/png"/>
-      <pubDate>Sat, 30 Mar 2019 21:17:17 +0100</pubDate>
-      <dc:date>2019-03-30T21:17:17.132974+01:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 14:50:20 +0200</pubDate>
+      <dc:date>2019-04-03T14:50:20.1805+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 8–11 March 2019 – Voting Intentions</title>
@@ -346,8 +386,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-08-SocioMétrica.png"
         length="253080"
         type="image/png"/>
-      <pubDate>Sun, 31 Mar 2019 11:16:31 +0200</pubDate>
-      <dc:date>2019-03-31T11:16:31.985434+02:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 14:54:19 +0200</pubDate>
+      <dc:date>2019-04-03T14:54:19.275724+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 4–8 March 2019 – Voting Intentions</title>
@@ -356,8 +396,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-08-Invymark.png"
         length="197905"
         type="image/png"/>
-      <pubDate>Sun, 31 Mar 2019 11:22:06 +0200</pubDate>
-      <dc:date>2019-03-31T11:22:06.584136+02:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 14:35:27 +0200</pubDate>
+      <dc:date>2019-04-03T14:35:27.328961+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 4–8 March 2019 – Seat Projections for the Parties</title>
@@ -3599,6 +3639,6 @@
       <pubDate>Thu, 21 Mar 2019 19:14:53 +0100</pubDate>
       <dc:date>2019-03-21T19:14:53.890309+01:00</dc:date>
     </item>
-    <dc:date>2019-04-02T22:50:38.769437+02:00</dc:date>
+    <dc:date>2019-04-03T15:33:29.078041+02:00</dc:date>
   </channel>
 </rss>
