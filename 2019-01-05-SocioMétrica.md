@@ -15,8 +15,9 @@
 | Ciudadanos–Partido de la Ciudadanía (ALDE) | 0.0% | 18.2% | 17.2–19.3% |16.9–19.6% |16.6–19.9% |16.1–20.4% |
 | Unidos Podemos (GUE/NGL) | 0.0% | 15.6% | 14.6–16.6% |14.4–16.9% |14.1–17.2% |13.7–17.7% |
 | Vox (ECR) | 0.0% | 15.6% | 14.6–16.6% |14.4–16.9% |14.1–17.2% |13.7–17.7% |
-| Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA) | 0.0% | 5.2% | 4.6–5.9% |4.5–6.0% |4.3–6.2% |4.1–6.5% |
-| Partit Demòcrata Europeu Català (ALDE) | 0.0% | 3.0% | 2.6–3.5% |2.5–3.7% |2.4–3.8% |2.2–4.1% |
+| Ahora Repúblicas (Greens/EFA) | 0.0% | 5.2% | 4.6–5.9% |4.5–6.0% |4.3–6.2% |4.1–6.5% |
+| Coalición por Europa (ALDE) | 0.0% | 3.0% | 2.6–3.5% |2.5–3.7% |2.4–3.8% |2.2–4.1% |
+| Primavera Europea (Greens/EFA) | 0.0% | 2.2% | 1.8–2.6% |1.7–2.8% |1.6–2.9% |1.5–3.1% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -28,13 +29,14 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 14 | 14 |14 |14 |12–14 |
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 11 | 11 |11–12 |11–12 |11–12 |
-| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 11 | 11 |10–11 |10–11 |10–12 |
-| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 9 | 9 |9 |8–10 |8–10 |
-| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 9 | 9 |9–10 |9–10 |9–10 |
-| <a href="#esquerra-republicana-de-catalunya–euskal-herria-bildu–bloque-nacionalista-galego-(greens/efa)">Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA)</a> | 0 | 3 | 3 |3 |3 |2–3 |
-| <a href="#partit-demòcrata-europeu-català-(alde)">Partit Demòcrata Europeu Català (ALDE)</a> | 0 | 1 | 1 |1 |1 |1–2 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 13 | 13 |13 |13–14 |12–14 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 11 | 11 |11 |10–11 |10–12 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 11 | 11 |11 |11 |10–12 |
+| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 9 | 9–10 |9–10 |9–10 |8–10 |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 10 | 9–10 |9–10 |9–10 |8–10 |
+| <a href="#ahora-repúblicas-(greens/efa)">Ahora Repúblicas (Greens/EFA)</a> | 0 | 3 | 3 |2–3 |2–3 |2–3 |
+| <a href="#coalición-por-europa-(alde)">Coalición por Europa (ALDE)</a> | 0 | 1 | 1 |1–2 |1–2 |1–2 |
+| <a href="#primavera-europea-(greens/efa)">Primavera Europea (Greens/EFA)</a> | 0 | 1 | 1 |1 |1 |1 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -56,12 +58,11 @@
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.8% | 100% |  |
-| 13 | 2% | 99.2% |  |
-| 14 | 97% | 98% | Median |
-| 15 | 0.4% | 0.5% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 12 | 0.9% | 100% |  |
+| 13 | 95% | 99.1% | Median |
+| 14 | 4% | 4% |  |
+| 15 | 0.4% | 0.4% |  |
+| 16 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
 
@@ -80,11 +81,12 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0.2% | 100% |  |
-| 11 | 95% | 99.8% | Median |
-| 12 | 5% | 5% |  |
-| 13 | 0% | 0% |  |
+| 9 | 0.2% | 100% |  |
+| 10 | 3% | 99.8% |  |
+| 11 | 96% | 97% | Median |
+| 12 | 1.0% | 1.3% |  |
+| 13 | 0.3% | 0.3% |  |
+| 14 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (ALDE)
 
@@ -104,11 +106,10 @@
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 7% | 100% |  |
-| 11 | 92% | 93% | Median |
-| 12 | 0.5% | 0.6% |  |
-| 13 | 0.1% | 0.1% |  |
-| 14 | 0% | 0% |  |
+| 10 | 0.9% | 100% |  |
+| 11 | 98% | 99.1% | Median |
+| 12 | 1.5% | 1.5% |  |
+| 13 | 0% | 0% |  |
 
 ### Unidos Podemos (GUE/NGL)
 
@@ -126,9 +127,9 @@
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 4% | 100% |  |
-| 9 | 92% | 96% | Median |
-| 10 | 4% | 4% |  |
+| 8 | 1.0% | 100% |  |
+| 9 | 77% | 99.0% | Median |
+| 10 | 22% | 22% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
@@ -148,38 +149,51 @@
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.1% | 100% |  |
-| 9 | 94% | 99.9% | Median |
-| 10 | 6% | 6% |  |
-| 11 | 0.1% | 0.1% |  |
+| 8 | 1.1% | 100% |  |
+| 9 | 23% | 98.9% |  |
+| 10 | 76% | 76% | Median |
+| 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
-### Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA)
+### Ahora Repúblicas (Greens/EFA)
 
-*For a full overview of the results for this party, see the [Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA)](party-esquerrarepublicanadecatalunya–euskalherriabildu–bloquenacionalistagalegogreensefa.html) page.*
+*For a full overview of the results for this party, see the [Ahora Repúblicas (Greens/EFA)](party-ahorarepúblicasgreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-01-05-SocioMétrica-seats-pmf-esquerrarepublicanadecatalunya–euskalherriabildu–bloquenacionalistagalegogreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-01-05-SocioMétrica-seats-pmf-ahorarepúblicasgreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.7% | 100% |  |
-| 3 | 99.3% | 99.3% | Median |
-| 4 | 0% | 0% |  |
+| 2 | 9% | 100% |  |
+| 3 | 91% | 91% | Median |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
-### Partit Demòcrata Europeu Català (ALDE)
+### Coalición por Europa (ALDE)
 
-*For a full overview of the results for this party, see the [Partit Demòcrata Europeu Català (ALDE)](party-partitdemòcrataeuropeucatalàalde.html) page.*
+*For a full overview of the results for this party, see the [Coalición por Europa (ALDE)](party-coaliciónporeuropaalde.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-01-05-SocioMétrica-seats-pmf-partitdemòcrataeuropeucatalàalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-01-05-SocioMétrica-seats-pmf-coaliciónporeuropaalde.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.2% | 100% | Median |
-| 2 | 0.8% | 0.8% |  |
+| 1 | 91% | 100% | Median |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
+
+### Primavera Europea (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Primavera Europea (Greens/EFA)](party-primaveraeuropeagreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-01-05-SocioMétrica-seats-pmf-primaveraeuropeagreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 99.9% | 99.9% | Median |
+| 2 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -190,10 +204,11 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0 | 14 | 0% | 14 | 14 | 14 | 12–14 |
-| Partido Popular (EPP) | 0 | 11 | 0% | 11 | 11–12 | 11–12 | 11–12 |
-| Vox (ECR) | 0 | 9 | 0% | 9 | 9–10 | 9–10 | 9–10 |
-| Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA) | 0 | 3 | 0% | 3 | 3 | 3 | 2–3 |
+| Partido Socialista Obrero Español (S&D) | 0 | 13 | 0% | 13 | 13 | 13–14 | 12–14 |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE) | 0 | 12 | 0% | 12 | 12–13 | 12–13 | 11–13 |
+| Partido Popular (EPP) | 0 | 11 | 0% | 11 | 11 | 10–11 | 10–12 |
+| Vox (ECR) | 0 | 10 | 0% | 9–10 | 9–10 | 9–10 | 8–10 |
+| Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA) | 0 | 4 | 0% | 4 | 3–4 | 3–4 | 3–4 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -213,12 +228,34 @@
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.8% | 100% |  |
-| 13 | 2% | 99.2% |  |
-| 14 | 97% | 98% | Median |
-| 15 | 0.4% | 0.5% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 12 | 0.9% | 100% |  |
+| 13 | 95% | 99.1% | Median |
+| 14 | 4% | 4% |  |
+| 15 | 0.4% | 0.4% |  |
+| 16 | 0% | 0% |  |
+
+### Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE)
+
+![Graph with seats probability mass function not yet produced](2019-01-05-SocioMétrica-coalitions-seats-pmf-cs–ceu.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0.7% | 100% |  |
+| 12 | 89% | 99.3% | Median |
+| 13 | 10% | 10% |  |
+| 14 | 0.4% | 0.4% |  |
+| 15 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
 
@@ -235,11 +272,12 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0.2% | 100% |  |
-| 11 | 95% | 99.8% | Median |
-| 12 | 5% | 5% |  |
-| 13 | 0% | 0% |  |
+| 9 | 0.2% | 100% |  |
+| 10 | 3% | 99.8% |  |
+| 11 | 96% | 97% | Median |
+| 12 | 1.0% | 1.3% |  |
+| 13 | 0.3% | 0.3% |  |
+| 14 | 0% | 0% |  |
 
 ### Vox (ECR)
 
@@ -255,23 +293,25 @@
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.1% | 100% |  |
-| 9 | 94% | 99.9% | Median |
-| 10 | 6% | 6% |  |
-| 11 | 0.1% | 0.1% |  |
+| 8 | 1.1% | 100% |  |
+| 9 | 23% | 98.9% |  |
+| 10 | 76% | 76% | Median |
+| 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
-### Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA)
+### Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA)
 
-![Graph with seats probability mass function not yet produced](2019-01-05-SocioMétrica-coalitions-seats-pmf-erc–ehbildu–bng.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-01-05-SocioMétrica-coalitions-seats-pmf-ar–pe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.7% | 100% |  |
-| 3 | 99.3% | 99.3% | Median |
-| 4 | 0% | 0% |  |
+| 2 | 0% | 100% |  |
+| 3 | 9% | 100% |  |
+| 4 | 91% | 91% | Median |
+| 5 | 0.1% | 0.1% |  |
+| 6 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -285,6 +325,6 @@
 ### Calculations
 
 + **Sample size:** 2200
-+ **Simulations done:** 1,024
-+ **Error estimate:** 2.33%
++ **Simulations done:** 131,072
++ **Error estimate:** 0.66%
 

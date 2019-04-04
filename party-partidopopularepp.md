@@ -232,15 +232,15 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
-| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13 | 12–13 | 12–13 | 12–13 |
-| [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–12 | 11–12 | 10–13 | 10–13 |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–12 | 11–12 | 11–12 | 11–13 |
+| [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 12–13 | 11–14 | 11–14 | 10–15 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 13 | 12–13 | 11–14 | 11–14 | 11–14 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
-| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 12 | 12–13 | 12–13 | 11–13 | 10–14 |
+| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 14 | 14–15 | 13–15 | 13–16 | 13–16 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
@@ -252,10 +252,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 11 | 11–12 | 10–12 | 10–12 | 10–13 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 9 | 9 | 8–10 | 8–10 | 8–10 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 11 | 11–12 | 11–12 | 11–12 |
+| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 11 | 11 | 10–11 | 10–12 |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [17–21 December 2018](2018-12-21-Invymark.html) | Invymark <br> laSexta | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
@@ -355,9 +355,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [22–26 January 2018](2018-01-26-Invymark.html) | Invymark <br> laSexta | 15 | 14–15 | 14–16 | 14–17 | 14–18 |
 | [2–14 January 2018](2018-01-14-CIS.html) | CIS | 16 | 16 | 16 | 16 | 15–16 |
-| [9–11 January 2018](2018-01-11-Metroscopia.html) | Metroscopia <br> El País | 13 | 13–15 | 13–15 | 12–15 | 12–15 |
-| [8–11 January 2018](2018-01-11-GAD3.html) | GAD3 <br> ABC | 15 | 13–18 | 13–18 | 13–18 | 13–18 |
-| [2–8 January 2018](2018-01-08-SimpleLógica.html) | Simple Lógica | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
+| [9–11 January 2018](2018-01-11-Metroscopia.html) | Metroscopia <br> El País | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
+| [8–11 January 2018](2018-01-11-GAD3.html) | GAD3 <br> ABC | 15 | 14–16 | 14–17 | 13–17 | 12–17 |
+| [2–8 January 2018](2018-01-08-SimpleLógica.html) | Simple Lógica | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [2–5 January 2018](2018-01-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 18 | 18 | 18 | 18–20 |
 
 ### Probability Mass Function
