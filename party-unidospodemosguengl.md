@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.7% | 10.7–14.4% | 10.3–14.8% | 10.1–15.2% | 9.4–16.0% |
+| [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 13.9% | 12.8–15.2% | 12.5–15.5% | 12.2–15.8% | 11.7–16.4% |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 12.0% | 9.9–14.7% | 9.3–15.5% | 8.8–16.2% | 7.9–17.6% |
 | [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 13.7% | 12.6–14.9% | 12.2–15.3% | 12.0–15.6% | 11.5–16.2% |
 | [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 12.6% | 11.6–13.7% | 11.3–14.1% | 11.1–14.4% | 10.6–14.9% |
@@ -197,6 +198,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 8 | 8 | 8 | 8 | 7–8 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 7 | 6–9 | 5–9 | 5–9 | 4–10 |
 | [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
@@ -340,12 +342,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
-| [22–26 January 2018](2018-01-26-Invymark.html) | Invymark <br> laSexta | 10 | 9–10 | 9–10 | 9–10 | 8–12 |
-| [2–14 January 2018](2018-01-14-CIS.html) | CIS | 11 | 11 | 11 | 11 | 11 |
+| [22–26 January 2018](2018-01-26-Invymark.html) | Invymark <br> laSexta | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
+| [2–14 January 2018](2018-01-14-CIS.html) | CIS | 11 | 11–12 | 11–12 | 10–12 | 10–13 |
 | [9–11 January 2018](2018-01-11-Metroscopia.html) | Metroscopia <br> El País | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [8–11 January 2018](2018-01-11-GAD3.html) | GAD3 <br> ABC | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [2–8 January 2018](2018-01-08-SimpleLógica.html) | Simple Lógica | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
-| [2–5 January 2018](2018-01-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9 | 9 | 9–10 | 9–10 | 9–11 |
+| [2–5 January 2018](2018-01-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 
 ### Probability Mass Function
 
