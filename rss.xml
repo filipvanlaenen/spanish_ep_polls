@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 04 Apr 2019 20:09:03 +0200</pubDate>
+    <pubDate>Sat, 06 Apr 2019 12:21:16 +0200</pubDate>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 27 March–2 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-04-02-IMOP.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-04-02-IMOP.png"
         length="269086"
         type="image/png"/>
-      <pubDate>Thu, 04 Apr 2019 20:09:03 +0200</pubDate>
-      <dc:date>2019-04-04T20:09:03.351566+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 12:08:04 +0200</pubDate>
+      <dc:date>2019-04-06T12:08:04.560249+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 28–30 March 2019 – Seat Projections for the Parties</title>
@@ -316,8 +316,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-22-GAD3.png"
         length="205420"
         type="image/png"/>
-      <pubDate>Wed, 03 Apr 2019 17:57:44 +0200</pubDate>
-      <dc:date>2019-04-03T17:57:44.763627+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 12:21:16 +0200</pubDate>
+      <dc:date>2019-04-06T12:21:16.522318+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sondaxe for La Voz de Galicia, 15–20 March 2019 – Voting Intentions</title>
@@ -3649,6 +3649,6 @@
       <pubDate>Thu, 04 Apr 2019 16:55:59 +0200</pubDate>
       <dc:date>2019-04-04T16:55:59.571449+02:00</dc:date>
     </item>
-    <dc:date>2019-04-04T20:09:03.351566+02:00</dc:date>
+    <dc:date>2019-04-06T12:21:16.522318+02:00</dc:date>
   </channel>
 </rss>
