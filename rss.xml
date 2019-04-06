@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 06 Apr 2019 12:21:16 +0200</pubDate>
+    <pubDate>Sat, 06 Apr 2019 13:27:37 +0200</pubDate>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 27 March–2 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-04-02-IMOP.html</link>
@@ -316,8 +316,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-22-GAD3.png"
         length="205420"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 12:21:16 +0200</pubDate>
-      <dc:date>2019-04-06T12:21:16.522318+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 12:38:34 +0200</pubDate>
+      <dc:date>2019-04-06T12:38:34.827988+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sondaxe for La Voz de Galicia, 15–20 March 2019 – Voting Intentions</title>
@@ -326,8 +326,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-20-Sondaxe.png"
         length="241629"
         type="image/png"/>
-      <pubDate>Wed, 03 Apr 2019 15:33:29 +0200</pubDate>
-      <dc:date>2019-04-03T15:33:29.078041+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 12:59:00 +0200</pubDate>
+      <dc:date>2019-04-06T12:59:00.634353+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by 40dB for El País, 14–19 March 2019 – Voting Intentions</title>
@@ -336,8 +336,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-19-40dB.png"
         length="182480"
         type="image/png"/>
-      <pubDate>Wed, 03 Apr 2019 17:52:28 +0200</pubDate>
-      <dc:date>2019-04-03T17:52:28.206677+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 13:13:27 +0200</pubDate>
+      <dc:date>2019-04-06T13:13:27.326265+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–17 March 2019 – Voting Intentions</title>
@@ -366,8 +366,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-13-SimpleLógica.png"
         length="184646"
         type="image/png"/>
-      <pubDate>Wed, 03 Apr 2019 14:50:20 +0200</pubDate>
-      <dc:date>2019-04-03T14:50:20.1805+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 13:27:37 +0200</pubDate>
+      <dc:date>2019-04-06T13:27:37.941288+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 8–11 March 2019 – Voting Intentions</title>
@@ -3649,6 +3649,6 @@
       <pubDate>Thu, 04 Apr 2019 16:55:59 +0200</pubDate>
       <dc:date>2019-04-04T16:55:59.571449+02:00</dc:date>
     </item>
-    <dc:date>2019-04-06T12:21:16.522318+02:00</dc:date>
+    <dc:date>2019-04-06T13:27:37.941288+02:00</dc:date>
   </channel>
 </rss>
