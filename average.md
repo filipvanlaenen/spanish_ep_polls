@@ -375,10 +375,10 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 0.4% | 99.9% |  |
 | 14 | 4% | 99.6% |  |
 | 15 | 14% | 96% |  |
-| 16 | 19% | 81% |  |
+| 16 | 18% | 81% |  |
 | 17 | 24% | 63% | Median |
 | 18 | 18% | 39% |  |
-| 19 | 17% | 21% |  |
+| 19 | 16% | 21% |  |
 | 20 | 4% | 4% |  |
 | 21 | 0.3% | 0.4% |  |
 | 22 | 0% | 0% |  |
@@ -397,8 +397,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
 | 5 | 0.6% | 99.9% |  |
-| 6 | 16% | 99.3% |  |
-| 7 | 37% | 84% | Median |
+| 6 | 17% | 99.3% |  |
+| 7 | 35% | 83% | Median |
 | 8 | 37% | 47% |  |
 | 9 | 10% | 10% |  |
 | 10 | 0.5% | 0.5% |  |
@@ -422,7 +422,7 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 3% | 99.9% |  |
 | 8 | 17% | 97% |  |
 | 9 | 21% | 80% |  |
-| 10 | 32% | 59% | Median |
+| 10 | 33% | 59% | Median |
 | 11 | 21% | 26% |  |
 | 12 | 5% | 5% |  |
 | 13 | 0.2% | 0.3% |  |
@@ -445,8 +445,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 25% | 78% |  |
 | 7 | 38% | 53% | Median |
 | 8 | 12% | 15% |  |
-| 9 | 3% | 4% |  |
-| 10 | 0.5% | 0.5% |  |
+| 9 | 3% | 3% |  |
+| 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
 ### Coalición por Europa (ALDE)
@@ -458,7 +458,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.9% | 100% | Last Result |
-| 1 | 65% | 99.1% | Median |
+| 1 | 66% | 99.1% | Median |
 | 2 | 33% | 34% |  |
 | 3 | 0.7% | 0.8% |  |
 | 4 | 0% | 0% |  |
@@ -472,8 +472,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 16% | 100% |  |
-| 2 | 57% | 84% | Median |
+| 1 | 15% | 100% |  |
+| 2 | 58% | 85% | Median |
 | 3 | 26% | 27% |  |
 | 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
@@ -543,10 +543,10 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 0.4% | 99.9% |  |
 | 14 | 4% | 99.6% |  |
 | 15 | 14% | 96% |  |
-| 16 | 19% | 81% |  |
+| 16 | 18% | 81% |  |
 | 17 | 24% | 63% | Median |
 | 18 | 18% | 39% |  |
-| 19 | 17% | 21% |  |
+| 19 | 16% | 21% |  |
 | 20 | 4% | 4% |  |
 | 21 | 0.3% | 0.4% |  |
 | 22 | 0% | 0% |  |
@@ -593,9 +593,9 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 2% | 100% |  |
-| 9 | 20% | 98% |  |
-| 10 | 31% | 78% |  |
-| 11 | 22% | 47% | Median |
+| 9 | 21% | 98% |  |
+| 10 | 30% | 77% |  |
+| 11 | 23% | 47% | Median |
 | 12 | 15% | 24% |  |
 | 13 | 7% | 9% |  |
 | 14 | 1.5% | 2% |  |
@@ -614,8 +614,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
 | 5 | 0.6% | 99.9% |  |
-| 6 | 7% | 99.3% |  |
-| 7 | 35% | 92% |  |
+| 6 | 8% | 99.3% |  |
+| 7 | 34% | 91% |  |
 | 8 | 41% | 57% | Median |
 | 9 | 14% | 16% |  |
 | 10 | 2% | 3% |  |
@@ -637,8 +637,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 25% | 78% |  |
 | 7 | 38% | 53% | Median |
 | 8 | 12% | 15% |  |
-| 9 | 3% | 4% |  |
-| 10 | 0.5% | 0.5% |  |
+| 9 | 3% | 3% |  |
+| 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
 ### Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA)
@@ -649,8 +649,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 33% | 100% | Last Result |
 | 1 | 8% | 67% |  |
-| 2 | 34% | 58% | Median |
-| 3 | 16% | 24% |  |
+| 2 | 35% | 59% | Median |
+| 3 | 15% | 24% |  |
 | 4 | 1.0% | 9% |  |
 | 5 | 7% | 8% |  |
 | 6 | 0.4% | 0.4% |  |
@@ -660,6 +660,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 12
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 9,043,968
++ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Total number of simulations done in the polls included in this average:** 10,485,760
 + **Error estimate:** 2.67%
