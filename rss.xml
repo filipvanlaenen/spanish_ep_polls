@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 06 Apr 2019 13:27:37 +0200</pubDate>
+    <pubDate>Sat, 06 Apr 2019 16:23:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 27 March–2 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-04-02-IMOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 12–14 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17–20 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 7–9 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 8–10 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 5–7 seats&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 0–2 seats&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Primavera Europea (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-04-02-IMOP-seats.png"
+        length="188550"
+        type="image/png"/>
+      <pubDate>Sat, 06 Apr 2019 16:23:40 +0200</pubDate>
+      <dc:date>2019-04-06T16:23:40.817586+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 27 March–2 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-04-02-IMOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-04-02-IMOP-coalitions-seats.png"
+        length="121786"
+        type="image/png"/>
+      <pubDate>Sat, 06 Apr 2019 16:23:40 +0200</pubDate>
+      <dc:date>2019-04-06T16:23:40.817586+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 27 March–2 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-04-02-IMOP.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-04-02-IMOP.png"
         length="269086"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 12:08:04 +0200</pubDate>
-      <dc:date>2019-04-06T12:08:04.560249+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 16:23:40 +0200</pubDate>
+      <dc:date>2019-04-06T16:23:40.817586+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 28–30 March 2019 – Seat Projections for the Parties</title>
@@ -3649,6 +3669,6 @@
       <pubDate>Thu, 04 Apr 2019 16:55:59 +0200</pubDate>
       <dc:date>2019-04-04T16:55:59.571449+02:00</dc:date>
     </item>
-    <dc:date>2019-04-06T13:27:37.941288+02:00</dc:date>
+    <dc:date>2019-04-06T16:23:40.817586+02:00</dc:date>
   </channel>
 </rss>
