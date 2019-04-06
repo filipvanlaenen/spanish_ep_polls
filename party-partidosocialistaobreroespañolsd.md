@@ -216,7 +216,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–20 | 14–20 |
-| [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 19 | 19 | 18–19 | 18–19 | 18–19 |
+| [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 16 | 14–18 | 14–19 | 13–19 | 12–20 |
 | [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
 | [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–19 | 17–19 | 17–20 | 16–20 |

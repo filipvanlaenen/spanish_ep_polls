@@ -211,7 +211,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 11–14 | 10–15 | 10–15 | 9–16 |
-| [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 13 | 13 | 12–13 | 12–13 | 12–13 |
+| [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 14 | 12–16 | 11–16 | 11–17 | 10–18 |
 | [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
@@ -223,7 +223,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–12 | 11–12 | 11–12 | 11–12 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
-| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 14 | 13–14 | 13–14 | 13–14 | 13–14 |
+| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 13 | 13–14 | 13–14 | 13–14 | 13–14 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12–13 | 12–13 | 11–13 | 11–13 |
@@ -383,8 +383,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 7% | 98% |  |
 | 11 | 24% | 91% |  |
 | 12 | 28% | 68% | Median |
-| 13 | 20% | 39% |  |
-| 14 | 14% | 20% |  |
+| 13 | 21% | 39% |  |
+| 14 | 13% | 19% |  |
 | 15 | 4% | 6% |  |
 | 16 | 1.2% | 2% |  |
 | 17 | 0.3% | 0.4% |  |
