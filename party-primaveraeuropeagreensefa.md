@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1.6% | 1.2–2.3% | 1.1–2.4% | 1.0–2.6% | 0.9–2.9% |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 0.7% | 0.5–1.1% | 0.4–1.2% | 0.4–1.3% | 0.3–1.5% |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
-| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 2.5% | 2.2–2.7% | 2.2–2.9% | 2.1–2.9% | 2.1–3.0% |
+| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 2.5% | 2.3–2.7% | 2.2–2.8% | 2.2–2.9% | 2.1–3.0% |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 0.0% | N/A | N/A | N/A | N/A |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 0.5% | 0.4–0.6% | 0.4–0.7% | 0.4–0.7% | 0.3–0.8% |
@@ -197,7 +197,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 0 | 0 | 0 | 0 | 0–1 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
-| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1 | 1 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |

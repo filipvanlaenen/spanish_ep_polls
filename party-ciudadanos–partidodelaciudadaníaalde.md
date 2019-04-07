@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16.7% | 15.3–18.2% | 15.0–18.7% | 14.6–19.1% | 14.0–19.8% |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 14.9% | 13.8–16.2% | 13.4–16.6% | 13.2–16.9% | 12.6–17.5% |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 16.3% | 15.4–17.3% | 15.2–17.5% | 15.0–17.8% | 14.6–18.2% |
-| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 18.6% | 18.0–19.2% | 17.8–19.3% | 17.7–19.5% | 17.4–19.8% |
+| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 18.6% | 18.0–19.2% | 17.9–19.3% | 17.8–19.5% | 17.5–19.7% |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 14.4% | 13.2–15.6% | 12.9–16.0% | 12.6–16.3% | 12.1–16.9% |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 17.1% | 15.7–18.7% | 15.2–19.2% | 14.9–19.6% | 14.2–20.4% |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 13.1% | 12.6–13.6% | 12.5–13.8% | 12.4–13.9% | 12.1–14.1% |
@@ -217,7 +217,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 10 | 9–10 | 9–10 | 9–11 | 8–11 |
-| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11–12 | 11–12 | 11–12 | 11–12 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
