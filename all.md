@@ -174,7 +174,7 @@ Only polls for which at least the sample size has been published are included in
 + **PACMA:** Partido Animalista Contra el Maltrato Animal (GUE/NGL)
 + **EH Bildu:** Euskal Herria Bildu (GUE/NGL)
 + **CC:** Coalición Canaria (ALDE)
-+ **Vox:** Vox (ECR)
++ **Vox:** Vox (ENF)
 + **BNG:** Bloque Nacionalista Galego (Greens/EFA)
 + **AR:** Ahora Repúblicas (Greens/EFA)
 + **CEU:** Coalición por Europa (ALDE)
