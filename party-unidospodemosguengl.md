@@ -11,6 +11,13 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.7% | 11.0–14.4% | 10.7–14.8% | 10.4–15.2% | 9.4–16.0% |
+| [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 13.2% | N/A | N/A | N/A | N/A |
+| [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC | 12.0% | N/A | N/A | N/A | N/A |
+| [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 11.2% | N/A | N/A | N/A | N/A |
+| [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 12.9% | N/A | N/A | N/A | N/A |
+| [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 14.4% | N/A | N/A | N/A | N/A |
+| [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 12.0% | N/A | N/A | N/A | N/A |
+| [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC | 11.5% | N/A | N/A | N/A | N/A |
 | [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12.2% | 11.0–13.5% | 10.7–13.9% | 10.4–14.3% | 9.8–14.9% |
 | [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 13.9% | 12.8–15.2% | 12.5–15.5% | 12.2–15.8% | 11.7–16.4% |
 | [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 10.9% | 10.5–11.3% | 10.4–11.5% | 10.3–11.6% | 10.1–11.8% |
@@ -28,6 +35,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 11.3% | 10.8–11.8% | 10.7–11.9% | 10.6–12.1% | 10.4–12.3% |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 13.4% | 12.1–14.9% | 11.7–15.3% | 11.4–15.7% | 10.8–16.4% |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 12.3% | 11.3–13.5% | 11.0–13.8% | 10.8–14.1% | 10.3–14.7% |
+| [1–18 March 2019](2019-03-18-CIS.html) | CIS | 12.9% | N/A | N/A | N/A | N/A |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 10.6% | 10.1–11.1% | 10.0–11.2% | 9.9–11.3% | 9.7–11.6% |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 14.8% | 13.4–16.3% | 13.1–16.8% | 12.7–17.1% | 12.1–17.9% |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 12.4% | 11.2–13.7% | 10.8–14.1% | 10.5–14.5% | 10.0–15.1% |
@@ -200,6 +208,13 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
+| [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
+| [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -217,6 +232,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [1–18 March 2019](2019-03-18-CIS.html) | CIS |  |  |  |  |  |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
