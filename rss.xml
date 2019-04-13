@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 13 Apr 2019 16:39:34 +0200</pubDate>
+    <pubDate>Sat, 13 Apr 2019 19:46:39 +0200</pubDate>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 26 March–3 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-04-03-Celeste-Tel.html#seats</link>
@@ -490,14 +490,64 @@
       <dc:date>2019-04-13T16:39:34.363909+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by 40dB for El País, 14–19 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-19-40dB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 15–18 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 9–12 seats&lt;/li&gt;&lt;li&gt;Vox (ENF): 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-19-40dB-seats.png"
+        length="150488"
+        type="image/png"/>
+      <pubDate>Sat, 13 Apr 2019 16:57:34 +0200</pubDate>
+      <dc:date>2019-04-13T16:57:34.432841+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by 40dB for El País, 14–19 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-19-40dB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-19-40dB-coalitions-seats.png"
+        length="122133"
+        type="image/png"/>
+      <pubDate>Sat, 13 Apr 2019 16:57:34 +0200</pubDate>
+      <dc:date>2019-04-13T16:57:34.432841+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by 40dB for El País, 14–19 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-19-40dB.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.4–21.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 24.9–29.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.8–14.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 15.9–19.8%&lt;/li&gt;&lt;li&gt;Vox (ENF): 8.8–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-19-40dB.png"
-        length="182480"
+        length="181743"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 13:13:27 +0200</pubDate>
-      <dc:date>2019-04-06T13:13:27.326265+02:00</dc:date>
+      <pubDate>Sat, 13 Apr 2019 16:57:34 +0200</pubDate>
+      <dc:date>2019-04-13T16:57:34.432841+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CIS, 1–18 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-18-CIS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 10–11 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 18–20 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 7–8 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 8–9 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Vox (ENF): 7–8 seats&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 3 seats&lt;/li&gt;&lt;li&gt;Primavera Europea (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-18-CIS-seats.png"
+        length="169328"
+        type="image/png"/>
+      <pubDate>Sat, 13 Apr 2019 19:31:05 +0200</pubDate>
+      <dc:date>2019-04-13T19:31:05.404318+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CIS, 1–18 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-18-CIS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-18-CIS-coalitions-seats.png"
+        length="94705"
+        type="image/png"/>
+      <pubDate>Sat, 13 Apr 2019 19:31:05 +0200</pubDate>
+      <dc:date>2019-04-13T19:31:05.404318+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CIS, 1–18 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-18-CIS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 16.6–17.8%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 29.5–30.9%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.4–13.4%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 13.1–14.1%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 1.2–1.6%&lt;/li&gt;&lt;li&gt;Vox (ENF): 11.4–12.4%&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 2.7–3.2%&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 5.2–6.0%&lt;/li&gt;&lt;li&gt;Primavera Europea (Greens/EFA): 0.8–1.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-18-CIS.png"
+        length="220023"
+        type="image/png"/>
+      <pubDate>Sat, 13 Apr 2019 19:31:05 +0200</pubDate>
+      <dc:date>2019-04-13T19:31:05.404318+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–17 March 2019 – Seat Projections for the Parties</title>
@@ -560,14 +610,34 @@
       <dc:date>2019-04-10T16:09:54.916235+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Simple Lógica, 4–13 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-13-SimpleLógica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 9–12 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17–21 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 8–11 seats&lt;/li&gt;&lt;li&gt;Vox (ENF): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-13-SimpleLógica-seats.png"
+        length="157141"
+        type="image/png"/>
+      <pubDate>Sat, 13 Apr 2019 19:46:39 +0200</pubDate>
+      <dc:date>2019-04-13T19:46:39.146588+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 4–13 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-13-SimpleLógica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-13-SimpleLógica-coalitions-seats.png"
+        length="125403"
+        type="image/png"/>
+      <pubDate>Sat, 13 Apr 2019 19:46:39 +0200</pubDate>
+      <dc:date>2019-04-13T19:46:39.146588+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Simple Lógica, 4–13 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-13-SimpleLógica.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 15.0–19.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 28.5–34.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.5–14.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 14.6–19.0%&lt;/li&gt;&lt;li&gt;Vox (ENF): 7.1–10.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-03-13-SimpleLógica.png"
-        length="184646"
+        length="183910"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 13:27:37 +0200</pubDate>
-      <dc:date>2019-04-06T13:27:37.941288+02:00</dc:date>
+      <pubDate>Sat, 13 Apr 2019 19:46:39 +0200</pubDate>
+      <dc:date>2019-04-13T19:46:39.146588+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 8–11 March 2019 – Seat Projections for the Parties</title>
@@ -3869,6 +3939,6 @@
       <pubDate>Thu, 04 Apr 2019 16:55:59 +0200</pubDate>
       <dc:date>2019-04-04T16:55:59.571449+02:00</dc:date>
     </item>
-    <dc:date>2019-04-13T16:39:34.363909+02:00</dc:date>
+    <dc:date>2019-04-13T19:46:39.146588+02:00</dc:date>
   </channel>
 </rss>
