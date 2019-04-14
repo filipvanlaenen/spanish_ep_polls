@@ -11,9 +11,12 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.2% | 3.1–5.6% | 2.8–5.7% | 2.6–5.9% | 2.2–6.4% |
+| [11 April 2019](2019-04-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 5.0% | N/A | N/A | N/A | N/A |
+| [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3.6% | N/A | N/A | N/A | N/A |
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 3.9% | N/A | N/A | N/A | N/A |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 5.0% | N/A | N/A | N/A | N/A |
+| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 3.6% | N/A | N/A | N/A | N/A |
 | [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 4.1% | N/A | N/A | N/A | N/A |
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
@@ -199,9 +202,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [11 April 2019](2019-04-11-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
