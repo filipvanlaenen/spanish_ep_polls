@@ -10,8 +10,14 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.3% | 24.3–31.0% | 23.3–31.6% | 22.9–32.2% | 22.4–33.5% |
+| N/A | [Poll Average](average.html) | 28.3% | 26.0–30.3% | 25.4–30.5% | 24.9–30.7% | 24.0–31.0% |
+| [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 27.5% | N/A | N/A | N/A | N/A |
+| [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 31.0% | N/A | N/A | N/A | N/A |
+| [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 29.9% | N/A | N/A | N/A | N/A |
 | [11 April 2019](2019-04-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 29.6% | N/A | N/A | N/A | N/A |
+| [8–11 April 2019](2019-04-11-Invymark.html) | Invymark <br> laSexta | 27.1% | N/A | N/A | N/A | N/A |
+| [9–11 April 2019](2019-04-11-GAD3.html) | GAD3 <br> La Vanguardia | 31.1% | N/A | N/A | N/A | N/A |
+| [8–11 April 2019](2019-04-11-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 27.9% | N/A | N/A | N/A | N/A |
 | [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 27.3% | N/A | N/A | N/A | N/A |
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 31.0% | N/A | N/A | N/A | N/A |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC | 30.9% | N/A | N/A | N/A | N/A |
@@ -202,22 +208,18 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.8% | 99.9% |  |
-| 22.5–23.5% | 6% | 99.1% |  |
-| 23.5–24.5% | 4% | 93% |  |
-| 24.5–25.5% | 5% | 89% |  |
-| 25.5–26.5% | 10% | 84% |  |
-| 26.5–27.5% | 13% | 74% |  |
-| 27.5–28.5% | 14% | 60% | Median |
-| 28.5–29.5% | 13% | 46% |  |
-| 29.5–30.5% | 16% | 33% |  |
-| 30.5–31.5% | 11% | 17% |  |
-| 31.5–32.5% | 4% | 5% |  |
-| 32.5–33.5% | 1.2% | 2% |  |
-| 33.5–34.5% | 0.4% | 0.5% |  |
-| 34.5–35.5% | 0.1% | 0.1% |  |
-| 35.5–36.5% | 0% | 0% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0.2% | 100% |  |
+| 23.5–24.5% | 1.1% | 99.8% |  |
+| 24.5–25.5% | 5% | 98.7% |  |
+| 25.5–26.5% | 12% | 94% |  |
+| 26.5–27.5% | 18% | 83% |  |
+| 27.5–28.5% | 20% | 65% | Median |
+| 28.5–29.5% | 16% | 45% |  |
+| 29.5–30.5% | 25% | 30% |  |
+| 30.5–31.5% | 5% | 5% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -228,8 +230,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 14–19 | 14–20 | 14–20 |
+| N/A | [Poll Average](average.html) | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
+| [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [11 April 2019](2019-04-11-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [8–11 April 2019](2019-04-11-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [9–11 April 2019](2019-04-11-GAD3.html) | GAD3 <br> La Vanguardia |  |  |  |  |  |
+| [8–11 April 2019](2019-04-11-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario |  |  |  |  |  |
 | [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
@@ -413,16 +421,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.1% | 100% |  |
-| 13 | 0.4% | 99.9% |  |
-| 14 | 7% | 99.5% |  |
-| 15 | 10% | 92% |  |
-| 16 | 17% | 83% |  |
-| 17 | 22% | 66% | Median |
-| 18 | 17% | 44% |  |
-| 19 | 22% | 27% |  |
-| 20 | 4% | 5% |  |
-| 21 | 0.3% | 0.3% |  |
-| 22 | 0% | 0% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0.5% | 100% |  |
+| 15 | 7% | 99.5% |  |
+| 16 | 24% | 93% |  |
+| 17 | 31% | 68% | Median |
+| 18 | 12% | 37% |  |
+| 19 | 23% | 25% |  |
+| 20 | 2% | 2% |  |
+| 21 | 0% | 0% |  |
 
 
