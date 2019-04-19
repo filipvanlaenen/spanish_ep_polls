@@ -10,13 +10,19 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.9% | 25.5–31.4% | 23.4–32.0% | 23.0–32.5% | 22.5–33.5% |
+| N/A | [Poll Average](average.html) | 28.6% | 24.9–31.4% | 23.2–32.1% | 22.9–32.6% | 22.4–33.5% |
+| [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 31.0% | 29.6–32.4% | 29.2–32.8% | 28.9–33.2% | 28.2–33.9% |
+| [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 30.8% | N/A | N/A | N/A | N/A |
+| [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 28.1% | N/A | N/A | N/A | N/A |
+| [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 30.5% | N/A | N/A | N/A | N/A |
+| [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 30.4% | N/A | N/A | N/A | N/A |
+| [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 27.8% | N/A | N/A | N/A | N/A |
+| [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español | 30.2% | N/A | N/A | N/A | N/A |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC | 31.3% | 30.0–32.7% | 29.6–33.0% | 29.3–33.4% | 28.7–34.0% |
-| [7–14 April 2019](2019-04-14-SocioMétrica.html) | SocioMétrica <br> El Español | 30.5% | 29.1–31.9% | 28.7–32.3% | 28.4–32.7% | 27.8–33.4% |
+| [12–15 April 2019](2019-04-15-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 28.9% | N/A | N/A | N/A | N/A |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 27.5% | 25.7–29.4% | 25.2–29.9% | 24.8–30.4% | 24.0–31.3% |
 | [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 31.0% | 29.4–32.6% | 29.0–33.1% | 28.6–33.5% | 27.9–34.2% |
 | [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 29.9% | 28.5–31.3% | 28.1–31.7% | 27.8–32.1% | 27.2–32.7% |
-| [11 April 2019](2019-04-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 29.6% | 27.8–31.5% | 27.3–32.0% | 26.8–32.5% | 26.0–33.4% |
 | [8–11 April 2019](2019-04-11-Invymark.html) | Invymark <br> laSexta | 27.1% | 25.5–28.8% | 25.0–29.3% | 24.6–29.7% | 23.9–30.5% |
 | [9–11 April 2019](2019-04-11-GAD3.html) | GAD3 <br> La Vanguardia | 31.1% | 29.1–33.3% | 28.5–33.9% | 28.0–34.4% | 27.1–35.5% |
 | [8–11 April 2019](2019-04-11-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 27.9% | 26.1–29.9% | 25.6–30.5% | 25.1–30.9% | 24.3–31.9% |
@@ -39,6 +45,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 27.7% | 26.0–29.4% | 25.6–29.9% | 25.2–30.3% | 24.4–31.1% |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 27.0% | 25.3–28.8% | 24.9–29.3% | 24.4–29.7% | 23.7–30.6% |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 31.0% | 29.4–32.6% | 29.0–33.1% | 28.6–33.5% | 27.9–34.3% |
+| [20–25 March 2019](2019-03-25-SigmaDos.html) | Sigma Dos <br> El Mundo | 29.6% | N/A | N/A | N/A | N/A |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 28.7% | 27.6–29.8% | 27.3–30.1% | 27.0–30.4% | 26.5–31.0% |
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 24.0% | 23.3–24.7% | 23.2–24.8% | 23.0–25.0% | 22.8–25.2% |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 30.5% | 29.0–32.1% | 28.5–32.6% | 28.2–33.0% | 27.4–33.8% |
@@ -211,20 +218,21 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.7% | 100% |  |
-| 22.5–23.5% | 5% | 99.3% |  |
-| 23.5–24.5% | 2% | 94% |  |
-| 24.5–25.5% | 3% | 93% |  |
-| 25.5–26.5% | 8% | 90% |  |
-| 26.5–27.5% | 13% | 82% |  |
-| 27.5–28.5% | 14% | 69% |  |
-| 28.5–29.5% | 15% | 55% | Median |
-| 29.5–30.5% | 19% | 40% |  |
-| 30.5–31.5% | 13% | 21% |  |
+| 21.5–22.5% | 0.8% | 100% |  |
+| 22.5–23.5% | 6% | 99.2% |  |
+| 23.5–24.5% | 2% | 93% |  |
+| 24.5–25.5% | 3% | 91% |  |
+| 25.5–26.5% | 9% | 87% |  |
+| 26.5–27.5% | 13% | 79% |  |
+| 27.5–28.5% | 14% | 65% |  |
+| 28.5–29.5% | 13% | 51% | Median |
+| 29.5–30.5% | 18% | 38% |  |
+| 30.5–31.5% | 11% | 20% |  |
 | 31.5–32.5% | 6% | 9% |  |
-| 32.5–33.5% | 2% | 2% |  |
-| 33.5–34.5% | 0.4% | 0.4% |  |
+| 32.5–33.5% | 2% | 3% |  |
+| 33.5–34.5% | 0.4% | 0.5% |  |
 | 34.5–35.5% | 0% | 0% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -236,15 +244,21 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–18 | 13–18 | 13–18 | 13–19 |
+| [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 18–19 | 18–19 | 18–19 | 16–19 |
+| [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
+| [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position |  |  |  |  |  |
+| [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC | 17 | 17–18 | 16–18 | 16–19 | 16–19 |
-| [7–14 April 2019](2019-04-14-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–18 | 16–18 | 16–18 | 16–19 |
+| [12–15 April 2019](2019-04-15-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO |  |  |  |  |  |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
 | [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–18 | 16–18 | 16–18 | 16–19 |
-| [11 April 2019](2019-04-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [8–11 April 2019](2019-04-11-Invymark.html) | Invymark <br> laSexta | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
 | [9–11 April 2019](2019-04-11-GAD3.html) | GAD3 <br> La Vanguardia | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
-| [8–11 April 2019](2019-04-11-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
+| [8–11 April 2019](2019-04-11-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 17 | 17–18 | 16–19 | 16–19 | 16–20 |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 16–18 | 16–18 | 16–19 |
@@ -264,6 +278,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 16 | 16–17 | 16–17 | 16–17 | 16–18 |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–16 | 15–16 | 15–16 | 14–16 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 18 | 18–19 | 15–19 | 15–19 | 15–21 |
+| [20–25 March 2019](2019-03-25-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 16 | 15–17 | 15–17 | 15–17 | 15–17 |
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–17 | 16–18 | 16–18 | 16–18 |
@@ -428,13 +443,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.1% | 100% |  |
-| 13 | 5% | 99.9% |  |
-| 14 | 9% | 94% |  |
-| 15 | 19% | 85% |  |
-| 16 | 25% | 66% | Median |
-| 17 | 25% | 41% |  |
-| 18 | 14% | 16% |  |
+| 12 | 0.2% | 100% |  |
+| 13 | 7% | 99.8% |  |
+| 14 | 11% | 93% |  |
+| 15 | 21% | 82% |  |
+| 16 | 25% | 62% | Median |
+| 17 | 24% | 37% |  |
+| 18 | 11% | 13% |  |
 | 19 | 2% | 2% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |

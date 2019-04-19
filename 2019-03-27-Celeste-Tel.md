@@ -14,7 +14,7 @@
 | Partido Popular (EPP) | 0.0% | 22.9% | 21.3–24.6% |20.9–25.1% |20.5–25.5% |19.8–26.3% |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) | 0.0% | 16.7% | 15.3–18.2% |15.0–18.7% |14.6–19.1% |14.0–19.8% |
 | Unidos Podemos (GUE/NGL) | 0.0% | 12.1% | 10.9–13.4% |10.6–13.8% |10.3–14.2% |9.8–14.8% |
-| Vox (ENF) | 0.0% | 9.1% | 8.1–10.3% |7.8–10.6% |7.5–10.9% |7.1–11.6% |
+| Vox (EAPN) | 0.0% | 9.1% | 8.1–10.3% |7.8–10.6% |7.5–10.9% |7.1–11.6% |
 | Ahora Repúblicas (Greens/EFA) | 0.0% | 3.5% | 2.9–4.4% |2.7–4.6% |2.6–4.8% |2.3–5.2% |
 | Coalición por Europa (ALDE) | 0.0% | 3.2% | 2.6–4.0% |2.4–4.2% |2.3–4.4% |2.0–4.8% |
 | Primavera Europea (Greens/EFA) | 0.0% | 1.6% | 1.2–2.3% |1.1–2.4% |1.0–2.6% |0.9–2.9% |
@@ -34,7 +34,7 @@
 | <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 13 | 13–14 |13–14 |13–14 |13–14 |
 | <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 8 | 8–9 |8–9 |8–9 |8–9 |
 | <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 7 | 5–7 |5–7 |5–7 |5–7 |
-| <a href="#vox-(enf)">Vox (ENF)</a> | 0 | 5 | 4–6 |4–6 |4–6 |4–6 |
+| <a href="#vox-(eapn)">Vox (EAPN)</a> | 0 | 5 | 4–6 |4–6 |4–6 |4–6 |
 | <a href="#ahora-repúblicas-(greens/efa)">Ahora Repúblicas (Greens/EFA)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–3 |
 | <a href="#coalición-por-europa-(alde)">Coalición por Europa (ALDE)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#primavera-europea-(greens/efa)">Primavera Europea (Greens/EFA)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
@@ -136,11 +136,11 @@
 | 7 | 80% | 80% | Median |
 | 8 | 0% | 0% |  |
 
-### Vox (ENF)
+### Vox (EAPN)
 
-*For a full overview of the results for this party, see the [Vox (ENF)](party-voxenf.html) page.*
+*For a full overview of the results for this party, see the [Vox (EAPN)](party-voxeapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-03-27-Celeste-Tel-seats-pmf-voxenf.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-03-27-Celeste-Tel-seats-pmf-voxeapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -217,7 +217,7 @@
 | Partido Popular (EPP) | 0 | 13 | 0% | 13–14 | 13–14 | 13–14 | 13–14 |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE) | 0 | 10 | 0% | 10 | 10 | 10 | 10–11 |
 | Unidos Podemos (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) | 0 | 7 | 0% | 6–7 | 6–7 | 6–7 | 6–7 |
-| Vox (ENF) | 0 | 5 | 0% | 4–6 | 4–6 | 4–6 | 4–6 |
+| Vox (EAPN) | 0 | 5 | 0% | 4–6 | 4–6 | 4–6 | 4–6 |
 | Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA) | 0 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -310,7 +310,7 @@
 | 8 | 0% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
-### Vox (ENF)
+### Vox (EAPN)
 
 ![Graph with seats probability mass function not yet produced](2019-03-27-Celeste-Tel-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
 

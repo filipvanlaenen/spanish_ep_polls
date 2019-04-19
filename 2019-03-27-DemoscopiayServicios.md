@@ -14,7 +14,7 @@
 | Partido Popular (EPP) | 0.0% | 21.0% | 19.6–22.6% |19.1–23.1% |18.8–23.5% |18.1–24.2% |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) | 0.0% | 16.9% | 15.6–18.4% |15.2–18.8% |14.9–19.2% |14.3–19.9% |
 | Unidos Podemos (GUE/NGL) | 0.0% | 13.4% | 12.2–14.7% |11.8–15.1% |11.5–15.4% |11.0–16.1% |
-| Vox (ENF) | 0.0% | 11.2% | 10.1–12.5% |9.8–12.9% |9.5–13.2% |9.0–13.8% |
+| Vox (EAPN) | 0.0% | 11.2% | 10.1–12.5% |9.8–12.9% |9.5–13.2% |9.0–13.8% |
 | Ahora Repúblicas (Greens/EFA) | 0.0% | 3.1% | 2.6–3.9% |2.4–4.1% |2.3–4.3% |2.0–4.7% |
 | Coalición por Europa (ALDE) | 0.0% | 2.9% | 2.3–3.6% |2.2–3.8% |2.1–4.0% |1.8–4.4% |
 | Primavera Europea (Greens/EFA) | 0.0% | 1.4% | 1.0–1.9% |0.9–2.1% |0.8–2.2% |0.7–2.5% |
@@ -33,7 +33,7 @@
 | <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 13 | 11–13 |11–13 |11–13 |10–13 |
 | <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 8 | 8–9 |8–9 |8–9 |8–10 |
 | <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 7 | 7–8 |7–8 |7–8 |7–9 |
-| <a href="#vox-(enf)">Vox (ENF)</a> | 0 | 5 | 5–7 |5–7 |5–7 |5–8 |
+| <a href="#vox-(eapn)">Vox (EAPN)</a> | 0 | 5 | 5–7 |5–7 |5–7 |5–8 |
 | <a href="#ahora-repúblicas-(greens/efa)">Ahora Repúblicas (Greens/EFA)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#coalición-por-europa-(alde)">Coalición por Europa (ALDE)</a> | 0 | 2 | 1–2 |1–2 |1–2 |0–2 |
 | <a href="#primavera-europea-(greens/efa)">Primavera Europea (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0–1 |
@@ -135,11 +135,11 @@
 | 9 | 0.8% | 0.8% |  |
 | 10 | 0% | 0% |  |
 
-### Vox (ENF)
+### Vox (EAPN)
 
-*For a full overview of the results for this party, see the [Vox (ENF)](party-voxenf.html) page.*
+*For a full overview of the results for this party, see the [Vox (EAPN)](party-voxeapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-03-27-DemoscopiayServicios-seats-pmf-voxenf.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-03-27-DemoscopiayServicios-seats-pmf-voxeapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -204,7 +204,7 @@
 | Partido Socialista Obrero Español (S&D) | 0 | 16 | 0% | 16–17 | 16–17 | 16–17 | 16–18 |
 | Partido Popular (EPP) | 0 | 13 | 0% | 11–13 | 11–13 | 11–13 | 10–13 |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE) | 0 | 10 | 0% | 10 | 10 | 10 | 9–12 |
-| Vox (ENF) | 0 | 5 | 0% | 5–7 | 5–7 | 5–7 | 5–8 |
+| Vox (EAPN) | 0 | 5 | 0% | 5–7 | 5–7 | 5–7 | 5–8 |
 | Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -280,7 +280,7 @@
 | 13 | 0.3% | 0.3% |  |
 | 14 | 0% | 0% |  |
 
-### Vox (ENF)
+### Vox (EAPN)
 
 ![Graph with seats probability mass function not yet produced](2019-03-27-DemoscopiayServicios-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
 

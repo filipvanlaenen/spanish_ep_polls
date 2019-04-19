@@ -14,7 +14,7 @@
 | Partido Popular (EPP) | 0.0% | 22.8% | 21.2–24.5% |20.8–25.0% |20.4–25.4% |19.7–26.2% |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) | 0.0% | 18.1% | 16.7–19.7% |16.3–20.1% |15.9–20.5% |15.3–21.2% |
 | Unidos Podemos (GUE/NGL) | 0.0% | 14.3% | 13.0–15.7% |12.6–16.1% |12.3–16.5% |11.7–17.2% |
-| Vox (ENF) | 0.0% | 9.6% | 8.6–10.9% |8.3–11.2% |8.0–11.5% |7.5–12.1% |
+| Vox (EAPN) | 0.0% | 9.6% | 8.6–10.9% |8.3–11.2% |8.0–11.5% |7.5–12.1% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -30,7 +30,7 @@
 | <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 12 | 10–12 |10–13 |10–15 |10–15 |
 | <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 9 | 8–11 |8–12 |8–12 |8–12 |
 | <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 9 | 8–9 |7–9 |7–9 |6–9 |
-| <a href="#vox-(enf)">Vox (ENF)</a> | 0 | 4 | 4–5 |4–6 |3–6 |3–6 |
+| <a href="#vox-(eapn)">Vox (EAPN)</a> | 0 | 4 | 4–5 |4–6 |3–6 |3–6 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -129,11 +129,11 @@
 | 9 | 56% | 56% | Median |
 | 10 | 0% | 0% |  |
 
-### Vox (ENF)
+### Vox (EAPN)
 
-*For a full overview of the results for this party, see the [Vox (ENF)](party-voxenf.html) page.*
+*For a full overview of the results for this party, see the [Vox (EAPN)](party-voxeapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-03-11-Celeste-Tel-seats-pmf-voxenf.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-03-11-Celeste-Tel-seats-pmf-voxeapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -158,7 +158,7 @@
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Partido Socialista Obrero Español (S&D) | 0 | 15 | 0% | 14–16 | 13–16 | 12–16 | 12–16 |
 | Partido Popular (EPP) | 0 | 12 | 0% | 10–12 | 10–13 | 10–15 | 10–15 |
-| Vox (ENF) | 0 | 4 | 0% | 4–5 | 4–6 | 3–6 | 3–6 |
+| Vox (EAPN) | 0 | 4 | 0% | 4–5 | 4–6 | 3–6 | 3–6 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -210,7 +210,7 @@
 | 15 | 3% | 4% |  |
 | 16 | 0% | 0% |  |
 
-### Vox (ENF)
+### Vox (EAPN)
 
 ![Graph with seats probability mass function not yet produced](2019-03-11-Celeste-Tel-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
 

@@ -14,7 +14,7 @@
 | Partido Popular (EPP) | 0.0% | 18.8% | 17.6–20.1% |17.3–20.5% |17.0–20.8% |16.4–21.4% |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) | 0.0% | 16.1% | 15.0–17.4% |14.7–17.7% |14.4–18.0% |13.9–18.6% |
 | Unidos Podemos (GUE/NGL) | 0.0% | 12.6% | 11.6–13.7% |11.3–14.1% |11.1–14.4% |10.6–14.9% |
-| Vox (ENF) | 0.0% | 11.9% | 10.9–13.0% |10.6–13.3% |10.4–13.6% |9.9–14.1% |
+| Vox (EAPN) | 0.0% | 11.9% | 10.9–13.0% |10.6–13.3% |10.4–13.6% |9.9–14.1% |
 | Ahora Repúblicas (Greens/EFA) | 0.0% | 3.9% | 3.3–4.6% |3.2–4.8% |3.0–4.9% |2.8–5.3% |
 | Coalición por Europa (ALDE) | 0.0% | 2.8% | 2.3–3.4% |2.2–3.6% |2.1–3.7% |1.9–4.1% |
 | Partido Animalista Contra el Maltrato Animal (GUE/NGL) | 0.0% | 1.2% | 0.9–1.6% |0.8–1.7% |0.8–1.9% |0.6–2.1% |
@@ -34,7 +34,7 @@
 | <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 11 | 11 |11 |11–12 |10–12 |
 | <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 9 | 9 |8–9 |8–9 |8–10 |
 | <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 7 | 7 |7 |6–7 |6–7 |
-| <a href="#vox-(enf)">Vox (ENF)</a> | 0 | 6 | 6 |5–6 |5–7 |5–7 |
+| <a href="#vox-(eapn)">Vox (EAPN)</a> | 0 | 6 | 6 |5–6 |5–7 |5–7 |
 | <a href="#ahora-repúblicas-(greens/efa)">Ahora Repúblicas (Greens/EFA)</a> | 0 | 2 | 2 |2 |2 |2 |
 | <a href="#coalición-por-europa-(alde)">Coalición por Europa (ALDE)</a> | 0 | 1 | 1 |1 |1 |1 |
 | <a href="#partido-animalista-contra-el-maltrato-animal-(gue/ngl)">Partido Animalista Contra el Maltrato Animal (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -131,11 +131,11 @@
 | 7 | 97% | 97% | Median |
 | 8 | 0% | 0% |  |
 
-### Vox (ENF)
+### Vox (EAPN)
 
-*For a full overview of the results for this party, see the [Vox (ENF)](party-voxenf.html) page.*
+*For a full overview of the results for this party, see the [Vox (EAPN)](party-voxeapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-03-29-SocioMétrica-seats-pmf-voxenf.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-03-29-SocioMétrica-seats-pmf-voxeapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -211,7 +211,7 @@
 | Partido Popular (EPP) | 0 | 11 | 0% | 11 | 11 | 11–12 | 10–12 |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE) | 0 | 10 | 0% | 10 | 9–10 | 9–10 | 9–11 |
 | Unidos Podemos (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) | 0 | 7 | 0% | 7 | 7 | 6–7 | 6–7 |
-| Vox (ENF) | 0 | 6 | 0% | 6 | 5–6 | 5–7 | 5–7 |
+| Vox (EAPN) | 0 | 6 | 0% | 6 | 5–6 | 5–7 | 5–7 |
 | Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA) | 0 | 2 | 0% | 2 | 2 | 2 | 2 |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -299,7 +299,7 @@
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
-### Vox (ENF)
+### Vox (EAPN)
 
 ![Graph with seats probability mass function not yet produced](2019-03-29-SocioMétrica-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
 
