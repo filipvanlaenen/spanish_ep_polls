@@ -222,7 +222,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [7–14 April 2019](2019-04-14-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
-| [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
+| [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [11 April 2019](2019-04-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [8–11 April 2019](2019-04-11-Invymark.html) | Invymark <br> laSexta | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -408,7 +408,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 26% | 99.3% |  |
 | 7 | 51% | 73% | Median |
 | 8 | 20% | 22% |  |
-| 9 | 1.4% | 1.5% |  |
+| 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
 

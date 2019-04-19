@@ -231,10 +231,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC | 11 | 11–12 | 11–12 | 10–12 | 10–13 |
-| [7–14 April 2019](2019-04-14-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–11 | 10–11 | 9–12 | 9–12 |
+| [7–14 April 2019](2019-04-14-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–11 | 10–11 | 10–12 | 9–12 |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
-| [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 11 | 10–11 | 10–11 | 10–11 | 9–12 |
-| [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
+| [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 10 | 10–11 | 10–11 | 9–12 | 9–12 |
+| [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–12 | 10–12 | 10–12 | 9–12 |
 | [11 April 2019](2019-04-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [8–11 April 2019](2019-04-11-Invymark.html) | Invymark <br> laSexta | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
 | [9–11 April 2019](2019-04-11-GAD3.html) | GAD3 <br> La Vanguardia | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
@@ -419,9 +419,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
 | 8 | 2% | 99.9% |  |
-| 9 | 6% | 98% |  |
-| 10 | 27% | 92% |  |
-| 11 | 31% | 65% | Median |
+| 9 | 7% | 98% |  |
+| 10 | 27% | 91% |  |
+| 11 | 30% | 64% | Median |
 | 12 | 17% | 34% |  |
 | 13 | 9% | 17% |  |
 | 14 | 6% | 8% |  |
