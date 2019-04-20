@@ -1,50 +1,50 @@
-# Opinion Poll by IMOP for El Confidencial, 10–16 April 2019
+# Opinion Poll by SocioMétrica for El Español, 9–16 April 2019
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](2019-04-16-IMOP.png "Voting Intentions")
+![Graph with voting intentions not yet produced](2019-04-16-SocioMétrica.png "Voting Intentions")
 
 ### Confidence Intervals
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0.0% | 30.4% | 28.9–32.0% |28.4–32.5% |28.1–32.9% |27.3–33.7% |
-| Partido Popular (EPP) | 0.0% | 19.3% | 18.0–20.7% |17.6–21.1% |17.3–21.4% |16.7–22.1% |
-| Ciudadanos–Partido de la Ciudadanía (ALDE) | 0.0% | 15.3% | 14.1–16.6% |13.8–16.9% |13.5–17.3% |12.9–17.9% |
-| Unidos Podemos (GUE/NGL) | 0.0% | 13.5% | 12.4–14.7% |12.1–15.1% |11.8–15.4% |11.3–16.0% |
-| Vox (EAPN) | 0.0% | 9.6% | 8.6–10.7% |8.4–11.0% |8.1–11.2% |7.7–11.8% |
-| Ahora Repúblicas (Greens/EFA) | 0.0% | 4.0% | 3.4–4.8% |3.2–5.0% |3.1–5.2% |2.8–5.5% |
-| Coalición por Europa (ALDE) | 0.0% | 2.9% | 2.4–3.6% |2.3–3.8% |2.2–4.0% |1.9–4.3% |
-| Partido Animalista Contra el Maltrato Animal (GUE/NGL) | 0.0% | 1.9% | 1.5–2.5% |1.4–2.7% |1.3–2.8% |1.2–3.1% |
-| Primavera Europea (Greens/EFA) | 0.0% | 0.8% | 0.5–1.2% |0.5–1.3% |0.4–1.4% |0.4–1.6% |
+| Partido Socialista Obrero Español (S&D) | 0.0% | 30.5% | 29.1–31.9% |28.7–32.3% |28.4–32.7% |27.8–33.4% |
+| Partido Popular (EPP) | 0.0% | 18.8% | 17.6–20.0% |17.3–20.3% |17.0–20.7% |16.5–21.3% |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) | 0.0% | 16.0% | 14.9–17.2% |14.6–17.5% |14.4–17.8% |13.9–18.3% |
+| Unidos Podemos (GUE/NGL) | 0.0% | 12.7% | 11.8–13.8% |11.5–14.1% |11.2–14.3% |10.8–14.9% |
+| Vox (EAPN) | 0.0% | 10.9% | 10.0–11.9% |9.7–12.2% |9.5–12.4% |9.1–12.9% |
+| Ahora Repúblicas (Greens/EFA) | 0.0% | 4.3% | 3.7–5.0% |3.6–5.2% |3.4–5.3% |3.2–5.7% |
+| Coalición por Europa (ALDE) | 0.0% | 2.6% | 2.2–3.2% |2.1–3.3% |2.0–3.5% |1.8–3.7% |
+| Partido Animalista Contra el Maltrato Animal (GUE/NGL) | 0.0% | 1.0% | 0.7–1.4% |0.7–1.5% |0.6–1.6% |0.5–1.8% |
+| Primavera Europea (Greens/EFA) | 0.0% | 0.8% | 0.6–1.1% |0.5–1.2% |0.5–1.3% |0.4–1.5% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
 ## Seats
 
-![Graph with seats not yet produced](2019-04-16-IMOP-seats.png "Seats")
+![Graph with seats not yet produced](2019-04-16-SocioMétrica-seats.png "Seats")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 17 | 16–18 |16–18 |16–19 |16–19 |
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 11 | 10–11 |10–12 |10–12 |9–12 |
-| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 8 | 8–9 |8–9 |7–9 |7–10 |
-| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 7 | 7–8 |7–8 |6–8 |6–9 |
-| <a href="#vox-(eapn)">Vox (EAPN)</a> | 0 | 5 | 5–6 |4–6 |4–6 |4–6 |
-| <a href="#ahora-repúblicas-(greens/efa)">Ahora Repúblicas (Greens/EFA)</a> | 0 | 2 | 2 |2 |1–2 |1–3 |
-| <a href="#coalición-por-europa-(alde)">Coalición por Europa (ALDE)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#partido-animalista-contra-el-maltrato-animal-(gue/ngl)">Partido Animalista Contra el Maltrato Animal (GUE/NGL)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#primavera-europea-(greens/efa)">Primavera Europea (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 19 | 17–19 |17–19 |17–19 |15–19 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 10 | 10–11 |10–11 |10–11 |10–11 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 9 | 8–9 |8–9 |8–9 |8–9 |
+| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 6 | 6–8 |6–8 |6–9 |6–9 |
+| <a href="#vox-(eapn)">Vox (EAPN)</a> | 0 | 6 | 6–7 |6–7 |6–7 |5–7 |
+| <a href="#ahora-repúblicas-(greens/efa)">Ahora Repúblicas (Greens/EFA)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–3 |
+| <a href="#coalición-por-europa-(alde)">Coalición por Europa (ALDE)</a> | 0 | 1 | 1 |1 |1 |1 |
+| <a href="#partido-animalista-contra-el-maltrato-animal-(gue/ngl)">Partido Animalista Contra el Maltrato Animal (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#primavera-europea-(greens/efa)">Primavera Europea (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 
 ### Partido Socialista Obrero Español (S&D)
 
 *For a full overview of the results for this party, see the [Partido Socialista Obrero Español (S&D)](party-partidosocialistaobreroespañolsd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-16-IMOP-seats-pmf-partidosocialistaobreroespañolsd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-16-SocioMétrica-seats-pmf-partidosocialistaobreroespañolsd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -63,19 +63,18 @@
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.4% | 100% |  |
-| 16 | 15% | 99.6% |  |
-| 17 | 47% | 85% | Median |
-| 18 | 34% | 38% |  |
-| 19 | 3% | 3% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 15 | 0.6% | 100% |  |
+| 16 | 0% | 99.4% |  |
+| 17 | 45% | 99.4% |  |
+| 18 | 1.0% | 55% |  |
+| 19 | 54% | 54% | Median |
+| 20 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
 
 *For a full overview of the results for this party, see the [Partido Popular (EPP)](party-partidopopularepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-16-IMOP-seats-pmf-partidopopularepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-16-SocioMétrica-seats-pmf-partidopopularepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -88,18 +87,17 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.8% | 100% |  |
-| 10 | 22% | 99.2% |  |
-| 11 | 70% | 77% | Median |
-| 12 | 6% | 7% |  |
-| 13 | 0.5% | 0.5% |  |
-| 14 | 0% | 0% |  |
+| 9 | 0% | 100% |  |
+| 10 | 78% | 100% | Median |
+| 11 | 21% | 22% |  |
+| 12 | 0.5% | 0.5% |  |
+| 13 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (ALDE)
 
 *For a full overview of the results for this party, see the [Ciudadanos–Partido de la Ciudadanía (ALDE)](party-ciudadanos–partidodelaciudadaníaalde.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-16-IMOP-seats-pmf-ciudadanos–partidodelaciudadaníaalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-16-SocioMétrica-seats-pmf-ciudadanos–partidodelaciudadaníaalde.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -110,17 +108,16 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 4% | 100% |  |
-| 8 | 50% | 96% | Median |
-| 9 | 44% | 46% |  |
-| 10 | 2% | 2% |  |
-| 11 | 0% | 0% |  |
+| 7 | 0% | 100% |  |
+| 8 | 30% | 100% |  |
+| 9 | 70% | 70% | Median |
+| 10 | 0% | 0% |  |
 
 ### Unidos Podemos (GUE/NGL)
 
 *For a full overview of the results for this party, see the [Unidos Podemos (GUE/NGL)](party-unidospodemosguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-16-IMOP-seats-pmf-unidospodemosguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-16-SocioMétrica-seats-pmf-unidospodemosguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -129,18 +126,18 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 3% | 100% |  |
-| 7 | 59% | 97% | Median |
-| 8 | 36% | 38% |  |
-| 9 | 2% | 2% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 54% | 99.8% | Median |
+| 7 | 21% | 45% |  |
+| 8 | 20% | 24% |  |
+| 9 | 4% | 4% |  |
 | 10 | 0% | 0% |  |
 
 ### Vox (EAPN)
 
 *For a full overview of the results for this party, see the [Vox (EAPN)](party-voxeapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-16-IMOP-seats-pmf-voxeapn.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-16-SocioMétrica-seats-pmf-voxeapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -148,82 +145,83 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 6% | 100% |  |
-| 5 | 60% | 94% | Median |
-| 6 | 33% | 33% |  |
-| 7 | 0.4% | 0.4% |  |
-| 8 | 0% | 0% |  |
+| 4 | 0% | 100% |  |
+| 5 | 1.4% | 100% |  |
+| 6 | 73% | 98.6% | Median |
+| 7 | 26% | 26% |  |
+| 8 | 0.2% | 0.2% |  |
+| 9 | 0% | 0% |  |
 
 ### Ahora Repúblicas (Greens/EFA)
 
 *For a full overview of the results for this party, see the [Ahora Repúblicas (Greens/EFA)](party-ahorarepúblicasgreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-16-IMOP-seats-pmf-ahorarepúblicasgreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-16-SocioMétrica-seats-pmf-ahorarepúblicasgreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 5% | 100% |  |
-| 2 | 94% | 95% | Median |
-| 3 | 2% | 2% |  |
+| 1 | 20% | 100% |  |
+| 2 | 79% | 80% | Median |
+| 3 | 0.7% | 0.7% |  |
 | 4 | 0% | 0% |  |
 
 ### Coalición por Europa (ALDE)
 
 *For a full overview of the results for this party, see the [Coalición por Europa (ALDE)](party-coaliciónporeuropaalde.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-16-IMOP-seats-pmf-coaliciónporeuropaalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-16-SocioMétrica-seats-pmf-coaliciónporeuropaalde.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 82% | 100% | Median |
-| 2 | 18% | 18% |  |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 99.8% | 99.9% | Median |
+| 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
 ### Partido Animalista Contra el Maltrato Animal (GUE/NGL)
 
 *For a full overview of the results for this party, see the [Partido Animalista Contra el Maltrato Animal (GUE/NGL)](party-partidoanimalistacontraelmaltratoanimalguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-16-IMOP-seats-pmf-partidoanimalistacontraelmaltratoanimalguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-16-SocioMétrica-seats-pmf-partidoanimalistacontraelmaltratoanimalguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 34% | 100% | Last Result |
-| 1 | 66% | 66% | Median |
+| 0 | 79% | 100% | Last Result, Median |
+| 1 | 21% | 21% |  |
 | 2 | 0% | 0% |  |
 
 ### Primavera Europea (Greens/EFA)
 
 *For a full overview of the results for this party, see the [Primavera Europea (Greens/EFA)](party-primaveraeuropeagreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-16-IMOP-seats-pmf-primaveraeuropeagreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-16-SocioMétrica-seats-pmf-primaveraeuropeagreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0.2% | 0.2% |  |
+| 0 | 99.1% | 100% | Last Result, Median |
+| 1 | 0.9% | 0.9% |  |
 | 2 | 0% | 0% |  |
 
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](2019-04-16-IMOP-coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](2019-04-16-SocioMétrica-coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0 | 17 | 0% | 16–18 | 16–18 | 16–19 | 16–19 |
-| Partido Popular (EPP) | 0 | 11 | 0% | 10–11 | 10–12 | 10–12 | 9–12 |
-| Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE) | 0 | 10 | 0% | 9–10 | 9–10 | 8–11 | 8–11 |
-| Unidos Podemos (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) | 0 | 8 | 0% | 7–9 | 7–9 | 7–9 | 7–10 |
-| Vox (EAPN) | 0 | 5 | 0% | 5–6 | 4–6 | 4–6 | 4–6 |
-| Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA) | 0 | 2 | 0% | 2 | 2 | 1–2 | 1–3 |
+| Partido Socialista Obrero Español (S&D) | 0 | 19 | 0% | 17–19 | 17–19 | 17–19 | 15–19 |
+| Partido Popular (EPP) | 0 | 10 | 0% | 10–11 | 10–11 | 10–11 | 10–11 |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE) | 0 | 10 | 0% | 9–10 | 9–10 | 9–10 | 9–10 |
+| Unidos Podemos (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) | 0 | 6 | 0% | 6–8 | 6–8 | 6–9 | 6–9 |
+| Vox (EAPN) | 0 | 6 | 0% | 6–7 | 6–7 | 6–7 | 5–7 |
+| Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
 
 ### Partido Socialista Obrero Español (S&D)
 
-![Graph with seats probability mass function not yet produced](2019-04-16-IMOP-coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-16-SocioMétrica-coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -242,17 +240,16 @@
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.4% | 100% |  |
-| 16 | 15% | 99.6% |  |
-| 17 | 47% | 85% | Median |
-| 18 | 34% | 38% |  |
-| 19 | 3% | 3% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 15 | 0.6% | 100% |  |
+| 16 | 0% | 99.4% |  |
+| 17 | 45% | 99.4% |  |
+| 18 | 1.0% | 55% |  |
+| 19 | 54% | 54% | Median |
+| 20 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
 
-![Graph with seats probability mass function not yet produced](2019-04-16-IMOP-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-16-SocioMétrica-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -265,16 +262,15 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.8% | 100% |  |
-| 10 | 22% | 99.2% |  |
-| 11 | 70% | 77% | Median |
-| 12 | 6% | 7% |  |
-| 13 | 0.5% | 0.5% |  |
-| 14 | 0% | 0% |  |
+| 9 | 0% | 100% |  |
+| 10 | 78% | 100% | Median |
+| 11 | 21% | 22% |  |
+| 12 | 0.5% | 0.5% |  |
+| 13 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE)
 
-![Graph with seats probability mass function not yet produced](2019-04-16-IMOP-coalitions-seats-pmf-cs–ceu.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-16-SocioMétrica-coalitions-seats-pmf-cs–ceu.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -286,16 +282,15 @@
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 3% | 100% |  |
-| 9 | 36% | 97% | Median |
-| 10 | 57% | 61% |  |
-| 11 | 4% | 4% |  |
-| 12 | 0.2% | 0.2% |  |
-| 13 | 0% | 0% |  |
+| 8 | 0% | 100% |  |
+| 9 | 30% | 100% |  |
+| 10 | 70% | 70% | Median |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 ### Unidos Podemos (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL)
 
-![Graph with seats probability mass function not yet produced](2019-04-16-IMOP-coalitions-seats-pmf-up–pacma.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-16-SocioMétrica-coalitions-seats-pmf-up–pacma.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -304,17 +299,16 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0.1% | 100% |  |
-| 7 | 23% | 99.9% |  |
-| 8 | 52% | 77% | Median |
-| 9 | 23% | 25% |  |
-| 10 | 2% | 2% |  |
-| 11 | 0% | 0% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 54% | 99.8% | Median |
+| 7 | 1.0% | 45% |  |
+| 8 | 40% | 44% |  |
+| 9 | 4% | 4% |  |
+| 10 | 0% | 0% |  |
 
 ### Vox (EAPN)
 
-![Graph with seats probability mass function not yet produced](2019-04-16-IMOP-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-16-SocioMétrica-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -322,21 +316,22 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 6% | 100% |  |
-| 5 | 60% | 94% | Median |
-| 6 | 33% | 33% |  |
-| 7 | 0.4% | 0.4% |  |
-| 8 | 0% | 0% |  |
+| 4 | 0% | 100% |  |
+| 5 | 1.4% | 100% |  |
+| 6 | 73% | 98.6% | Median |
+| 7 | 26% | 26% |  |
+| 8 | 0.2% | 0.2% |  |
+| 9 | 0% | 0% |  |
 
 ### Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA)
 
-![Graph with seats probability mass function not yet produced](2019-04-16-IMOP-coalitions-seats-pmf-ar–pe.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-16-SocioMétrica-coalitions-seats-pmf-ar–pe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 5% | 100% |  |
-| 2 | 94% | 95% | Median |
+| 1 | 20% | 100% |  |
+| 2 | 79% | 80% | Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
@@ -345,13 +340,13 @@
 
 ### Opinion Poll
 
-+ **Polling firm:** IMOP
-+ **Commissioner(s):** El Confidencial
-+ **Fieldwork period:** 10–16 April 2019
++ **Polling firm:** SocioMétrica
++ **Commissioner(s):** El Español
++ **Fieldwork period:** 9–16 April 2019
 
 ### Calculations
 
-+ **Sample size:** 1400
-+ **Simulations done:** 131,072
-+ **Error estimate:** 2.45%
++ **Sample size:** 1800
++ **Simulations done:** 1,024
++ **Error estimate:** 4.72%
 
