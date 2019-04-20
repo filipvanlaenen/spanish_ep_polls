@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 20 Apr 2019 11:22:28 +0200</pubDate>
+    <pubDate>Sat, 20 Apr 2019 14:04:43 +0200</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 11–18 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-04-18-SocioMétrica.html</link>
@@ -68,6 +68,16 @@
         type="image/png"/>
       <pubDate>Sat, 20 Apr 2019 10:48:40 +0200</pubDate>
       <dc:date>2019-04-20T10:48:40.36206+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 8–15 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-04-15-SocioMétrica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.3–20.9%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 28.1–32.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.7–14.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 14.1–17.5%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0.7–1.7%&lt;/li&gt;&lt;li&gt;Vox (EAPN): 9.6–12.5%&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 2.0–3.5%&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 3.3–5.1%&lt;/li&gt;&lt;li&gt;Primavera Europea (Greens/EFA): 0.5–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-04-15-SocioMétrica.png"
+        length="260360"
+        type="image/png"/>
+      <pubDate>Sat, 20 Apr 2019 14:04:43 +0200</pubDate>
+      <dc:date>2019-04-20T14:04:43.272108+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 9–15 April 2019 – Seat Projections for the Parties</title>
@@ -589,6 +599,6 @@
       <pubDate>Fri, 12 Apr 2019 22:03:31 +0200</pubDate>
       <dc:date>2019-04-12T22:03:31.3214+02:00</dc:date>
     </item>
-    <dc:date>2019-04-20T11:22:28.866024+02:00</dc:date>
+    <dc:date>2019-04-20T14:04:43.272108+02:00</dc:date>
   </channel>
 </rss>
