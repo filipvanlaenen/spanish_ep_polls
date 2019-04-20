@@ -336,7 +336,7 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 2% | 99.9% |  |
 | 9 | 9% | 98% |  |
 | 10 | 26% | 89% |  |
-| 11 | 32% | 63% | Median |
+| 11 | 33% | 63% | Median |
 | 12 | 15% | 31% |  |
 | 13 | 7% | 16% |  |
 | 14 | 7% | 9% |  |
@@ -364,9 +364,9 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.2% | 100% |  |
-| 13 | 7% | 99.8% |  |
-| 14 | 11% | 93% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 8% | 99.9% |  |
+| 14 | 10% | 92% |  |
 | 15 | 21% | 82% |  |
 | 16 | 25% | 62% | Median |
 | 17 | 24% | 37% |  |
@@ -389,7 +389,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.8% | 100% |  |
-| 6 | 28% | 99.2% |  |
+| 6 | 29% | 99.2% |  |
 | 7 | 50% | 71% | Median |
 | 8 | 20% | 21% |  |
 | 9 | 1.5% | 2% |  |
@@ -413,7 +413,7 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 16% | 98.5% |  |
 | 8 | 33% | 83% |  |
 | 9 | 36% | 50% | Median |
-| 10 | 14% | 15% |  |
+| 10 | 13% | 14% |  |
 | 11 | 0.7% | 0.7% |  |
 | 12 | 0% | 0% |  |
 
@@ -446,8 +446,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 71% | 99.9% | Median |
-| 2 | 29% | 29% |  |
+| 1 | 72% | 99.9% | Median |
+| 2 | 28% | 28% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -461,8 +461,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 11% | 100% |  |
-| 2 | 62% | 89% | Median |
-| 3 | 27% | 27% |  |
+| 2 | 60% | 89% | Median |
+| 3 | 29% | 29% |  |
 | 4 | 0% | 0% |  |
 
 ### Primavera Europea (Greens/EFA)
@@ -486,8 +486,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 47% | 100% | Last Result |
-| 1 | 36% | 53% | Median |
-| 2 | 17% | 17% |  |
+| 1 | 33% | 53% | Median |
+| 2 | 20% | 20% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -501,10 +501,10 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Partido Socialista Obrero Español (S&D) | 0 | 16 | 0% | 14–18 | 13–18 | 13–18 | 13–19 |
 | Partido Popular (EPP) | 0 | 11 | 0% | 9–13 | 9–14 | 9–14 | 8–15 |
-| Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE) | 0 | 9 | 0% | 7–11 | 7–11 | 7–12 | 6–12 |
-| Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Unidos Podemos (GUE/NGL) | 0 | 7 | 0% | 6–8 | 6–8 | 6–9 | 5–9 |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE) | 0 | 9 | 0% | 7–11 | 7–11 | 7–11 | 6–12 |
+| Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Unidos Podemos (GUE/NGL) | 0 | 7 | 0% | 6–8 | 6–9 | 6–9 | 5–9 |
 | Vox (EAPN) | 0 | 6 | 0% | 4–7 | 4–7 | 4–8 | 3–9 |
-| Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA) | 0 | 0 | 0% | 0–3 | 0–3 | 0–3 | 0–4 |
+| Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA) | 0 | 0 | 0% | 0–3 | 0–3 | 0–4 | 0–4 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -524,9 +524,9 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.2% | 100% |  |
-| 13 | 7% | 99.8% |  |
-| 14 | 11% | 93% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 8% | 99.9% |  |
+| 14 | 10% | 92% |  |
 | 15 | 21% | 82% |  |
 | 16 | 25% | 62% | Median |
 | 17 | 24% | 37% |  |
@@ -552,7 +552,7 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 2% | 99.9% |  |
 | 9 | 9% | 98% |  |
 | 10 | 26% | 89% |  |
-| 11 | 32% | 63% | Median |
+| 11 | 33% | 63% | Median |
 | 12 | 15% | 31% |  |
 | 13 | 7% | 16% |  |
 | 14 | 7% | 9% |  |
@@ -577,8 +577,8 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 20% | 89% |  |
 | 9 | 34% | 70% |  |
 | 10 | 21% | 35% | Median |
-| 11 | 12% | 15% |  |
-| 12 | 3% | 3% |  |
+| 11 | 13% | 15% |  |
+| 12 | 2% | 2% |  |
 | 13 | 0% | 0% |  |
 
 ### Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Unidos Podemos (GUE/NGL)
@@ -627,8 +627,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 50% | 100% | Last Result |
 | 1 | 2% | 50% |  |
 | 2 | 23% | 48% | Median |
-| 3 | 23% | 25% |  |
-| 4 | 2% | 2% |  |
+| 3 | 22% | 25% |  |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 
@@ -636,5 +636,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 16
 + **Lowest number of simulations done in a poll included in this average:** 0
-+ **Total number of simulations done in the polls included in this average:** 6,160,384
++ **Total number of simulations done in the polls included in this average:** 6,553,600
 + **Error estimate:** 2.56%
