@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.7% | 25.5–31.3% | 23.4–32.0% | 23.0–32.5% | 22.5–33.4% |
+| N/A | [Poll Average](average.html) | 28.8% | 25.6–31.3% | 23.4–32.0% | 23.0–32.5% | 22.5–33.4% |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 31.0% | 29.6–32.4% | 29.2–32.8% | 28.9–33.2% | 28.2–33.9% |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 30.8% | 29.4–32.2% | 29.0–32.6% | 28.7–33.0% | 28.0–33.6% |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 28.1% | 26.4–29.9% | 25.9–30.4% | 25.5–30.8% | 24.7–31.7% |
 | [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 30.5% | 29.1–31.9% | 28.7–32.3% | 28.4–32.7% | 27.8–33.4% |
 | [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 30.4% | 28.9–32.0% | 28.4–32.5% | 28.1–32.9% | 27.3–33.7% |
 | [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 27.8% | 26.2–29.5% | 25.8–30.0% | 25.4–30.5% | 24.6–31.3% |
-| [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español | 30.2% | N/A | N/A | N/A | N/A |
+| [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español | 30.2% | 28.9–31.6% | 28.5–32.0% | 28.1–32.4% | 27.5–33.1% |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC | 31.3% | 30.0–32.7% | 29.6–33.0% | 29.3–33.4% | 28.7–34.0% |
 | [12–15 April 2019](2019-04-15-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 28.9% | 27.1–30.9% | 26.5–31.4% | 26.1–31.9% | 25.2–32.9% |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 27.5% | 25.7–29.4% | 25.2–29.9% | 24.8–30.4% | 24.0–31.3% |
@@ -218,19 +218,19 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.7% | 100% |  |
-| 22.5–23.5% | 5% | 99.3% |  |
-| 23.5–24.5% | 2% | 94% |  |
+| 21.5–22.5% | 0.6% | 100% |  |
+| 22.5–23.5% | 5% | 99.4% |  |
+| 23.5–24.5% | 2% | 95% |  |
 | 24.5–25.5% | 3% | 93% |  |
 | 25.5–26.5% | 8% | 90% |  |
-| 26.5–27.5% | 14% | 81% |  |
-| 27.5–28.5% | 16% | 68% |  |
-| 28.5–29.5% | 15% | 52% | Median |
-| 29.5–30.5% | 18% | 37% |  |
-| 30.5–31.5% | 11% | 19% |  |
+| 26.5–27.5% | 13% | 83% |  |
+| 27.5–28.5% | 15% | 70% |  |
+| 28.5–29.5% | 16% | 55% | Median |
+| 29.5–30.5% | 19% | 39% |  |
+| 30.5–31.5% | 12% | 20% |  |
 | 31.5–32.5% | 6% | 8% |  |
 | 32.5–33.5% | 2% | 2% |  |
-| 33.5–34.5% | 0.4% | 0.4% |  |
+| 33.5–34.5% | 0.3% | 0.4% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
 
@@ -249,7 +249,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 17–19 | 17–19 | 17–19 | 15–19 |
 | [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–18 | 16–19 | 16–19 |
 | [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
-| [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 18 | 17–18 | 17–18 | 16–18 |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC | 17 | 17–18 | 16–18 | 16–19 | 16–19 |
 | [12–15 April 2019](2019-04-15-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
@@ -444,12 +444,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0.1% | 100% |  |
 | 13 | 6% | 99.9% |  |
-| 14 | 9% | 94% |  |
-| 15 | 21% | 85% |  |
-| 16 | 28% | 64% | Median |
-| 17 | 24% | 36% |  |
-| 18 | 11% | 12% |  |
-| 19 | 2% | 2% |  |
+| 14 | 8% | 94% |  |
+| 15 | 20% | 86% |  |
+| 16 | 26% | 67% | Median |
+| 17 | 23% | 40% |  |
+| 18 | 16% | 18% |  |
+| 19 | 1.5% | 2% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 

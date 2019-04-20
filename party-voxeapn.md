@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.3% | 8.7–13.7% | 8.0–14.5% | 7.5–15.1% | 6.7–16.0% |
+| N/A | [Poll Average](average.html) | 11.3% | 8.7–13.6% | 8.1–14.4% | 7.6–15.0% | 6.8–16.0% |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 11.0% | 10.1–12.0% | 9.8–12.3% | 9.6–12.5% | 9.2–13.0% |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 10.6% | 9.7–11.6% | 9.5–11.9% | 9.3–12.1% | 8.9–12.6% |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7.7% | 6.8–8.9% | 6.5–9.2% | 6.3–9.5% | 5.9–10.0% |
 | [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 10.9% | 10.0–11.9% | 9.7–12.2% | 9.5–12.4% | 9.1–12.9% |
 | [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 9.6% | 8.6–10.7% | 8.4–11.0% | 8.1–11.2% | 7.7–11.8% |
 | [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 14.2% | 12.9–15.5% | 12.6–15.9% | 12.3–16.3% | 11.7–16.9% |
-| [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español | 11.0% | N/A | N/A | N/A | N/A |
+| [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español | 11.0% | 10.1–12.0% | 9.8–12.3% | 9.6–12.5% | 9.2–13.0% |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC | 11.8% | 10.9–12.8% | 10.7–13.0% | 10.5–13.3% | 10.0–13.8% |
 | [12–15 April 2019](2019-04-15-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 12.2% | 10.9–13.7% | 10.5–14.1% | 10.2–14.4% | 9.6–15.2% |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 9.1% | 8.0–10.4% | 7.7–10.7% | 7.5–11.1% | 7.0–11.7% |
@@ -204,16 +204,16 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.3% | 100% |  |
 | 6.5–7.5% | 2% | 99.7% |  |
-| 7.5–8.5% | 6% | 97% |  |
-| 8.5–9.5% | 13% | 91% |  |
-| 9.5–10.5% | 16% | 78% |  |
-| 10.5–11.5% | 18% | 62% | Median |
-| 11.5–12.5% | 24% | 45% |  |
-| 12.5–13.5% | 9% | 21% |  |
-| 13.5–14.5% | 7% | 11% |  |
-| 14.5–15.5% | 4% | 5% |  |
-| 15.5–16.5% | 1.0% | 1.2% |  |
-| 16.5–17.5% | 0.2% | 0.2% |  |
+| 7.5–8.5% | 6% | 98% |  |
+| 8.5–9.5% | 12% | 92% |  |
+| 9.5–10.5% | 16% | 79% |  |
+| 10.5–11.5% | 20% | 63% | Median |
+| 11.5–12.5% | 24% | 43% |  |
+| 12.5–13.5% | 9% | 20% |  |
+| 13.5–14.5% | 6% | 11% |  |
+| 14.5–15.5% | 3% | 4% |  |
+| 15.5–16.5% | 1.0% | 1.1% |  |
+| 16.5–17.5% | 0.1% | 0.2% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -232,7 +232,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
-| [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6 | 6 | 6 | 5–6 |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [12–15 April 2019](2019-04-15-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -417,12 +417,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.8% | 100% |  |
-| 4 | 9% | 99.2% |  |
-| 5 | 27% | 90% |  |
-| 6 | 33% | 63% | Median |
-| 7 | 22% | 30% |  |
+| 4 | 8% | 99.2% |  |
+| 5 | 25% | 91% |  |
+| 6 | 37% | 66% | Median |
+| 7 | 20% | 28% |  |
 | 8 | 7% | 8% |  |
-| 9 | 1.1% | 1.1% |  |
+| 9 | 1.0% | 1.1% |  |
 | 10 | 0% | 0% |  |
 
 
