@@ -266,8 +266,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 7 | 7 | 6–7 | 6–7 | 6–7 |
-| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
-| [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
+| [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [1–18 March 2019](2019-03-18-CIS.html) | CIS | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8 | 8 | 8 | 8 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
@@ -422,7 +422,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 38% | 65% | Median |
 | 7 | 20% | 28% |  |
 | 8 | 7% | 8% |  |
-| 9 | 1.1% | 1.1% |  |
+| 9 | 0.9% | 1.0% |  |
 | 10 | 0% | 0% |  |
 
 

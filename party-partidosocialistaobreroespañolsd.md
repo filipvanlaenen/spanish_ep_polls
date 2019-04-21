@@ -283,7 +283,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–17 | 16–18 | 16–18 | 16–18 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 18 | 17–18 | 17–18 | 17–18 | 17–18 |
-| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 15 | 14–16 | 14–17 | 13–17 | 13–17 |
+| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
 | [1–18 March 2019](2019-03-18-CIS.html) | CIS | 17 | 17–18 | 17–18 | 17–18 | 17–18 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12 | 12 | 12 | 12 |
@@ -442,12 +442,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.1% | 100% |  |
-| 13 | 6% | 99.9% |  |
+| 12 | 0% | 100% |  |
+| 13 | 6% | 100% |  |
 | 14 | 8% | 94% |  |
 | 15 | 20% | 86% |  |
-| 16 | 27% | 67% | Median |
-| 17 | 22% | 40% |  |
+| 16 | 26% | 67% | Median |
+| 17 | 23% | 40% |  |
 | 18 | 16% | 18% |  |
 | 19 | 2% | 2% |  |
 | 20 | 0.1% | 0.1% |  |
