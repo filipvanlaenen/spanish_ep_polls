@@ -237,15 +237,15 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
-| [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–11 | 9–11 | 9–11 | 9–12 |
+| [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 9–11 | 9–11 | 9–11 | 9–11 |
-| [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 13–14 | 12–15 | 12–15 | 12–15 |
+| [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 12–14 | 12–15 | 12–15 | 12–15 |
 | [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
-| [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
-| [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 12 | 12–14 | 11–14 | 11–14 | 11–14 |
+| [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
+| [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
 | [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 11 | 11 | 11 | 10–11 |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC | 11 | 11–12 | 11–12 | 10–12 | 10–13 |
-| [12–15 April 2019](2019-04-15-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
+| [12–15 April 2019](2019-04-15-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 10 | 10–11 | 10–11 | 9–12 | 9–12 |
 | [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–12 | 10–12 | 10–12 | 9–12 |
@@ -271,7 +271,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 13 | 11–13 | 11–13 | 11–13 | 10–13 |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 13–14 | 13–14 | 13–14 | 13–14 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 12 | 10–13 | 10–13 | 10–13 | 10–13 |
-| [20–25 March 2019](2019-03-25-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
+| [20–25 March 2019](2019-03-25-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
@@ -432,13 +432,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
-| 8 | 1.4% | 99.9% |  |
-| 9 | 7% | 98.5% |  |
+| 8 | 1.3% | 99.9% |  |
+| 9 | 7% | 98.6% |  |
 | 10 | 20% | 92% |  |
-| 11 | 33% | 72% | Median |
+| 11 | 34% | 72% | Median |
 | 12 | 20% | 38% |  |
-| 13 | 10% | 18% |  |
-| 14 | 7% | 8% |  |
+| 13 | 11% | 18% |  |
+| 14 | 6% | 8% |  |
 | 15 | 2% | 2% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |

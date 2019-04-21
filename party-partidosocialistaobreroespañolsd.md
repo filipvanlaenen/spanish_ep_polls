@@ -243,11 +243,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–18 | 13–18 | 13–18 | 13–19 |
-| [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–18 | 17–19 | 17–19 | 16–19 |
+| [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–20 | 16–20 | 16–20 | 16–20 |
-| [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
+| [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 17–19 | 17–19 | 17–19 | 15–19 |
-| [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–18 | 16–19 | 16–19 |
+| [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 18 | 17–18 | 17–18 | 16–18 |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC | 17 | 17–18 | 16–18 | 16–19 | 16–19 |
@@ -446,10 +446,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 6% | 99.9% |  |
 | 14 | 8% | 94% |  |
 | 15 | 20% | 86% |  |
-| 16 | 26% | 67% | Median |
-| 17 | 23% | 40% |  |
+| 16 | 27% | 67% | Median |
+| 17 | 22% | 40% |  |
 | 18 | 16% | 18% |  |
-| 19 | 1.5% | 2% |  |
+| 19 | 2% | 2% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 

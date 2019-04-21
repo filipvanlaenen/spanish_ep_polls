@@ -213,16 +213,16 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1 | 1 | 1 |
-| [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1 | 1 | 1 |
 | [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1 | 1–2 | 1–2 |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [12–15 April 2019](2019-04-15-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [12–15 April 2019](2019-04-15-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -401,8 +401,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 77% | 97% | Median |
+| 0 | 2% | 100% | Last Result |
+| 1 | 78% | 98% | Median |
 | 2 | 20% | 20% |  |
 | 3 | 0% | 0% |  |
 
