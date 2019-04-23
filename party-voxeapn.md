@@ -18,16 +18,16 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 10.9% | 10.0–11.9% | 9.7–12.2% | 9.5–12.4% | 9.1–12.9% |
 | [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 12.7% | 11.5–14.0% | 11.2–14.4% | 10.9–14.7% | 10.4–15.3% |
-| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 11.4% | 11.0–11.8% | 10.9–12.0% | 10.8–12.1% | 10.6–12.3% |
-| [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 10.5% | N/A | N/A | N/A | N/A |
+| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 11.4% | 11.0–11.8% | 10.9–11.9% | 10.8–12.0% | 10.6–12.3% |
+| [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.6% | 8.2–13.2% |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 11.0% | 10.1–12.0% | 9.8–12.3% | 9.6–12.5% | 9.2–13.0% |
-| [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 12.4% | N/A | N/A | N/A | N/A |
-| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 12.5% | N/A | N/A | N/A | N/A |
+| [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 12.4% | 11.1–13.9% | 10.8–14.3% | 10.5–14.7% | 9.9–15.4% |
+| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 12.5% | 11.6–13.5% | 11.3–13.8% | 11.1–14.0% | 10.7–14.5% |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 10.6% | 9.7–11.6% | 9.5–11.9% | 9.3–12.1% | 8.9–12.6% |
-| [15–17 April 2019](2019-04-17-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 10.4% | N/A | N/A | N/A | N/A |
+| [15–17 April 2019](2019-04-17-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 10.4% | 9.3–11.8% | 9.0–12.1% | 8.7–12.5% | 8.2–13.1% |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7.7% | 6.8–8.9% | 6.5–9.2% | 6.3–9.5% | 5.9–10.0% |
 | [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 10.9% | 10.0–11.9% | 9.7–12.2% | 9.5–12.4% | 9.1–12.9% |
-| [11–16 April 2019](2019-04-16-Metroscopia.html) | Metroscopia <br> Henneo | 11.1% | N/A | N/A | N/A | N/A |
+| [11–16 April 2019](2019-04-16-Metroscopia.html) | Metroscopia <br> Henneo | 11.1% | 10.5–11.7% | 10.4–11.9% | 10.2–12.0% | 10.0–12.3% |
 | [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 9.6% | 8.6–10.7% | 8.4–11.0% | 8.1–11.2% | 7.7–11.8% |
 | [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 14.2% | 12.9–15.5% | 12.6–15.9% | 12.3–16.3% | 11.7–16.9% |
 | [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español | 11.0% | 10.1–12.0% | 9.8–12.3% | 9.6–12.5% | 9.2–13.0% |
@@ -246,16 +246,16 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 7 | 7 | 6–7 | 6–7 | 6–7 |
-| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
+| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 6 | 6 | 6 | 6 | 6 |
+| [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario |  |  |  |  |  |
-| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País |  |  |  |  |  |
+| [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 6 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 5–6 | 5–6 | 5–7 | 5–8 |
-| [15–17 April 2019](2019-04-17-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
+| [15–17 April 2019](2019-04-17-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [11–16 April 2019](2019-04-16-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
+| [11–16 April 2019](2019-04-16-Metroscopia.html) | Metroscopia <br> Henneo | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6 | 6 | 6 | 5–6 |

@@ -18,11 +18,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 0.7% | 0.5–1.1% | 0.5–1.2% | 0.4–1.2% | 0.3–1.4% |
 | [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
-| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 1.9% | 1.7–2.1% | 1.6–2.1% | 1.6–2.2% | 1.6–2.3% |
+| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 1.9% | 1.7–2.1% | 1.7–2.1% | 1.6–2.2% | 1.6–2.3% |
 | [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 0.0% | N/A | N/A | N/A | N/A |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 0.9% | 0.7–1.2% | 0.6–1.4% | 0.5–1.4% | 0.5–1.6% |
 | [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 0.0% | N/A | N/A | N/A | N/A |
-| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 2.8% | N/A | N/A | N/A | N/A |
+| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 2.8% | 2.4–3.3% | 2.3–3.5% | 2.2–3.6% | 2.0–3.9% |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
 | [15–17 April 2019](2019-04-17-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 0.0% | N/A | N/A | N/A | N/A |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1.4% | 1.0–1.9% | 0.9–2.1% | 0.8–2.2% | 0.7–2.5% |
@@ -233,11 +233,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
 | [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 1 | 1 | 1 | 1 | 1 |
 | [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
 | [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario |  |  |  |  |  |
-| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País |  |  |  |  |  |
+| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [15–17 April 2019](2019-04-17-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
