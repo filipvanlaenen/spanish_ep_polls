@@ -256,14 +256,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–18 | 13–18 | 13–18 | 13–19 |
-| [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 17 | 17 | 17 | 17 |
-| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 17 | 17 | 16–18 | 16–18 |
-| [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 17 | 17 | 17 | 17 | 14–17 |
-| [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–16 | 15–16 | 15–17 | 15–18 |
-| [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 18 | 17–18 | 16–18 | 16–20 |
-| [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 15 | 14–18 | 14–18 | 14–18 | 14–18 |
-| [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 16 | 16 | 16–17 | 16–17 | 15–17 |
-| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 18 | 18 | 18 | 18 | 17–18 |
+| [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–18 | 16–18 | 16–18 | 15–18 |
+| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
+| [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
+| [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
+| [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–18 | 16–19 | 16–19 | 16–19 |
+| [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
+| [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
+| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 18 | 17–19 | 17–19 | 17–19 | 17–19 |
 | [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 18 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
 | [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 17 | 16–17 | 16–17 | 16–17 | 16–18 |

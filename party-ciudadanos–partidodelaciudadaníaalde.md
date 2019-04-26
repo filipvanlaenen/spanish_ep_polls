@@ -242,14 +242,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
-| [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
-| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 7–8 | 7–9 | 7–10 | 7–10 |
-| [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 9 | 9 | 8–9 | 8–9 | 8–9 |
-| [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9 | 8–9 | 8–9 | 8–9 | 6–10 |
-| [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
-| [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 8 | 7–10 | 6–10 | 6–10 | 6–10 |
-| [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 8 | 8 | 8 | 8 | 7–8 |
-| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 8 | 8 | 8 | 8 | 8 |
+| [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
+| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
+| [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–9 | 7–9 | 7–10 | 7–11 |
+| [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
+| [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
+| [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
+| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 8 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 8 | 8 | 8 | 8–9 | 8–9 |

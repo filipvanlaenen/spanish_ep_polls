@@ -30,13 +30,13 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 18 | 18 |17–18 |16–18 |16–20 |
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 10 | 10 |10 |9–11 |8–11 |
-| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 9 | 8–9 |8–9 |8–9 |7–10 |
-| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 8 | 8 |7–9 |7–9 |7–9 |
-| <a href="#vox-(eapn)">Vox (EAPN)</a> | 0 | 5 | 5–6 |5–6 |5–7 |5–7 |
-| <a href="#ahora-repúblicas-(greens/efa)">Ahora Repúblicas (Greens/EFA)</a> | 0 | 2 | 2 |2–3 |2–3 |2–3 |
-| <a href="#coalición-por-europa-(alde)">Coalición por Europa (ALDE)</a> | 0 | 2 | 2 |1–2 |0–2 |0–2 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 18 | 17–18 |16–19 |16–19 |16–19 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 10 | 10–11 |10–11 |10–11 |9–12 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 9 | 8–9 |8–10 |8–10 |8–10 |
+| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 7 | 7–8 |7–8 |7–9 |6–9 |
+| <a href="#vox-(eapn)">Vox (EAPN)</a> | 0 | 6 | 5–7 |5–7 |5–7 |5–7 |
+| <a href="#ahora-repúblicas-(greens/efa)">Ahora Repúblicas (Greens/EFA)</a> | 0 | 2 | 2 |2–3 |1–3 |1–3 |
+| <a href="#coalición-por-europa-(alde)">Coalición por Europa (ALDE)</a> | 0 | 1 | 1 |1–2 |1–2 |1–2 |
 | <a href="#primavera-europea-(greens/efa)">Primavera Europea (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#partido-animalista-contra-el-maltrato-animal-(gue/ngl)">Partido Animalista Contra el Maltrato Animal (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -63,12 +63,12 @@
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.1% | 100% |  |
-| 16 | 4% | 99.9% |  |
-| 17 | 4% | 96% |  |
-| 18 | 91% | 92% | Median |
-| 19 | 0.4% | 1.1% |  |
-| 20 | 0.7% | 0.7% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 8% | 99.8% |  |
+| 17 | 41% | 92% |  |
+| 18 | 43% | 51% | Median |
+| 19 | 8% | 8% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
@@ -87,11 +87,11 @@
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.6% | 100% |  |
-| 9 | 3% | 99.4% |  |
-| 10 | 91% | 96% | Median |
-| 11 | 5% | 5% |  |
-| 12 | 0.3% | 0.3% |  |
+| 8 | 0% | 100% |  |
+| 9 | 1.1% | 100% |  |
+| 10 | 66% | 98.8% | Median |
+| 11 | 31% | 33% |  |
+| 12 | 2% | 2% |  |
 | 13 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (ALDE)
@@ -109,11 +109,12 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 1.0% | 100% |  |
-| 8 | 12% | 99.0% |  |
-| 9 | 86% | 87% | Median |
-| 10 | 0.6% | 0.6% |  |
-| 11 | 0% | 0% |  |
+| 7 | 0.4% | 100% |  |
+| 8 | 33% | 99.6% |  |
+| 9 | 60% | 66% | Median |
+| 10 | 7% | 7% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 ### Unidos Podemos (GUE/NGL)
 
@@ -129,12 +130,11 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 9% | 100% |  |
-| 8 | 83% | 91% | Median |
-| 9 | 8% | 8% |  |
-| 10 | 0.2% | 0.2% |  |
-| 11 | 0% | 0% |  |
+| 6 | 1.3% | 100% |  |
+| 7 | 58% | 98.7% | Median |
+| 8 | 38% | 41% |  |
+| 9 | 3% | 3% |  |
+| 10 | 0% | 0% |  |
 
 ### Vox (EAPN)
 
@@ -149,9 +149,9 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 87% | 100% | Median |
-| 6 | 9% | 13% |  |
-| 7 | 3% | 3% |  |
+| 5 | 19% | 100% |  |
+| 6 | 58% | 81% | Median |
+| 7 | 23% | 23% |  |
 | 8 | 0% | 0% |  |
 
 ### Ahora Repúblicas (Greens/EFA)
@@ -163,9 +163,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.1% | 100% |  |
-| 2 | 93% | 99.9% | Median |
-| 3 | 7% | 7% |  |
+| 1 | 3% | 100% |  |
+| 2 | 91% | 97% | Median |
+| 3 | 5% | 5% |  |
 | 4 | 0% | 0% |  |
 
 ### Coalición por Europa (ALDE)
@@ -176,9 +176,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 5% | 96% |  |
-| 2 | 91% | 91% | Median |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 94% | 99.9% | Median |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 
 ### Primavera Europea (Greens/EFA)
@@ -189,7 +189,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
+| 2 | 0% | 0% |  |
 
 ### Partido Animalista Contra el Maltrato Animal (GUE/NGL)
 
@@ -199,9 +201,7 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Coalitions
@@ -212,12 +212,12 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0 | 18 | 0% | 18 | 17–18 | 16–18 | 16–20 |
-| Partido Popular (EPP) | 0 | 10 | 0% | 10 | 10 | 9–11 | 8–11 |
-| Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE) | 0 | 11 | 0% | 10–11 | 9–11 | 8–11 | 8–11 |
-| Unidos Podemos (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) | 0 | 8 | 0% | 8 | 7–9 | 7–9 | 7–9 |
-| Vox (EAPN) | 0 | 5 | 0% | 5–6 | 5–6 | 5–7 | 5–7 |
-| Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA) | 0 | 2 | 0% | 2 | 2–3 | 2–3 | 2–3 |
+| Partido Socialista Obrero Español (S&D) | 0 | 18 | 0% | 17–18 | 16–19 | 16–19 | 16–19 |
+| Partido Popular (EPP) | 0 | 10 | 0% | 10–11 | 10–11 | 10–11 | 9–12 |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE) | 0 | 10 | 0% | 9–10 | 9–11 | 9–11 | 9–11 |
+| Unidos Podemos (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) | 0 | 7 | 0% | 7–8 | 7–8 | 7–9 | 6–9 |
+| Vox (EAPN) | 0 | 6 | 0% | 5–7 | 5–7 | 5–7 | 5–7 |
+| Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA) | 0 | 2 | 0% | 2 | 2–3 | 1–3 | 1–3 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -240,12 +240,12 @@
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.1% | 100% |  |
-| 16 | 4% | 99.9% |  |
-| 17 | 4% | 96% |  |
-| 18 | 91% | 92% | Median |
-| 19 | 0.4% | 1.1% |  |
-| 20 | 0.7% | 0.7% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 8% | 99.8% |  |
+| 17 | 41% | 92% |  |
+| 18 | 43% | 51% | Median |
+| 19 | 8% | 8% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
@@ -262,11 +262,11 @@
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.6% | 100% |  |
-| 9 | 3% | 99.4% |  |
-| 10 | 91% | 96% | Median |
-| 11 | 5% | 5% |  |
-| 12 | 0.3% | 0.3% |  |
+| 8 | 0% | 100% |  |
+| 9 | 1.1% | 100% |  |
+| 10 | 66% | 98.8% | Median |
+| 11 | 31% | 33% |  |
+| 12 | 2% | 2% |  |
 | 13 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE)
@@ -283,11 +283,12 @@
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 5% | 100% |  |
-| 9 | 3% | 95% |  |
-| 10 | 5% | 92% |  |
-| 11 | 86% | 86% | Median |
-| 12 | 0% | 0% |  |
+| 8 | 0.4% | 100% |  |
+| 9 | 31% | 99.6% |  |
+| 10 | 59% | 69% | Median |
+| 11 | 10% | 10% |  |
+| 12 | 0.4% | 0.4% |  |
+| 13 | 0% | 0% |  |
 
 ### Unidos Podemos (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL)
 
@@ -301,12 +302,11 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 9% | 100% |  |
-| 8 | 83% | 91% | Median |
-| 9 | 8% | 8% |  |
-| 10 | 0.2% | 0.2% |  |
-| 11 | 0% | 0% |  |
+| 6 | 1.3% | 100% |  |
+| 7 | 58% | 98.7% | Median |
+| 8 | 38% | 41% |  |
+| 9 | 3% | 3% |  |
+| 10 | 0% | 0% |  |
 
 ### Vox (EAPN)
 
@@ -319,9 +319,9 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 87% | 100% | Median |
-| 6 | 9% | 13% |  |
-| 7 | 3% | 3% |  |
+| 5 | 19% | 100% |  |
+| 6 | 58% | 81% | Median |
+| 7 | 23% | 23% |  |
 | 8 | 0% | 0% |  |
 
 ### Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA)
@@ -331,9 +331,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.1% | 100% |  |
-| 2 | 93% | 99.9% | Median |
-| 3 | 7% | 7% |  |
+| 1 | 3% | 100% |  |
+| 2 | 91% | 97% | Median |
+| 3 | 5% | 5% |  |
 | 4 | 0% | 0% |  |
 
 
@@ -348,6 +348,6 @@
 ### Calculations
 
 + **Sample size:** 1800
-+ **Simulations done:** 1,024
-+ **Error estimate:** 2.42%
++ **Simulations done:** 131,072
++ **Error estimate:** 2.04%
 
