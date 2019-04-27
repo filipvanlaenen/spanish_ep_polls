@@ -29,14 +29,14 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 17 | 16–17 |16–17 |16–17 |16–18 |
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 13 | 12–13 |12–13 |12–13 |12–13 |
-| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 8 | 8 |8 |8–9 |8–9 |
-| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 7 | 6–7 |6–7 |6–7 |5–7 |
-| <a href="#vox-(eapn)">Vox (EAPN)</a> | 0 | 6 | 6–8 |6–8 |6–8 |6–8 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 16 | 15–17 |15–18 |14–18 |14–18 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 12 | 11–13 |11–13 |11–14 |10–14 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 8 | 7–9 |7–9 |7–10 |6–10 |
+| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 7 | 6–8 |6–8 |6–8 |5–9 |
+| <a href="#vox-(eapn)">Vox (EAPN)</a> | 0 | 7 | 6–8 |6–8 |6–8 |5–8 |
 | <a href="#ahora-repúblicas-(greens/efa)">Ahora Repúblicas (Greens/EFA)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#coalición-por-europa-(alde)">Coalición por Europa (ALDE)</a> | 0 | 1 | 1 |1 |1 |0–1 |
-| <a href="#primavera-europea-(greens/efa)">Primavera Europea (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#coalición-por-europa-(alde)">Coalición por Europa (ALDE)</a> | 0 | 1 | 1–2 |1–2 |1–2 |0–2 |
+| <a href="#primavera-europea-(greens/efa)">Primavera Europea (Greens/EFA)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -59,13 +59,14 @@
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0.3% | 100% |  |
-| 16 | 32% | 99.7% |  |
-| 17 | 67% | 68% | Median |
-| 18 | 1.1% | 1.1% |  |
-| 19 | 0% | 0% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 4% | 99.9% |  |
+| 15 | 19% | 96% |  |
+| 16 | 44% | 77% | Median |
+| 17 | 28% | 33% |  |
+| 18 | 5% | 5% |  |
+| 19 | 0.3% | 0.4% |  |
+| 20 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
 
@@ -85,11 +86,13 @@
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0.3% | 100% |  |
-| 12 | 34% | 99.7% |  |
-| 13 | 66% | 66% | Median |
-| 14 | 0% | 0% |  |
+| 10 | 2% | 100% |  |
+| 11 | 25% | 98% |  |
+| 12 | 45% | 73% | Median |
+| 13 | 25% | 28% |  |
+| 14 | 3% | 3% |  |
+| 15 | 0.2% | 0.2% |  |
+| 16 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (ALDE)
 
@@ -105,13 +108,12 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.4% | 100% |  |
-| 7 | 0% | 99.6% |  |
-| 8 | 97% | 99.6% | Median |
-| 9 | 3% | 3% |  |
-| 10 | 0% | 0.2% |  |
-| 11 | 0.2% | 0.2% |  |
-| 12 | 0% | 0% |  |
+| 6 | 0.6% | 100% |  |
+| 7 | 16% | 99.4% |  |
+| 8 | 57% | 84% | Median |
+| 9 | 23% | 27% |  |
+| 10 | 4% | 4% |  |
+| 11 | 0% | 0% |  |
 
 ### Unidos Podemos (GUE/NGL)
 
@@ -126,11 +128,11 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 1.5% | 100% |  |
-| 6 | 32% | 98.5% |  |
-| 7 | 66% | 67% | Median |
-| 8 | 0.4% | 0.4% |  |
-| 9 | 0.1% | 0.1% |  |
+| 5 | 0.7% | 100% |  |
+| 6 | 24% | 99.3% |  |
+| 7 | 53% | 76% | Median |
+| 8 | 22% | 23% |  |
+| 9 | 1.2% | 1.2% |  |
 | 10 | 0% | 0% |  |
 
 ### Vox (EAPN)
@@ -146,11 +148,12 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 67% | 100% | Median |
-| 7 | 0.5% | 33% |  |
-| 8 | 32% | 32% |  |
-| 9 | 0% | 0% |  |
+| 5 | 1.4% | 100% |  |
+| 6 | 31% | 98.6% |  |
+| 7 | 53% | 68% | Median |
+| 8 | 15% | 15% |  |
+| 9 | 0.3% | 0.3% |  |
+| 10 | 0% | 0% |  |
 
 ### Ahora Repúblicas (Greens/EFA)
 
@@ -161,9 +164,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 66% | 100% | Median |
-| 2 | 34% | 34% |  |
-| 3 | 0.1% | 0.1% |  |
+| 1 | 55% | 100% | Median |
+| 2 | 45% | 45% |  |
+| 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 
 ### Coalición por Europa (ALDE)
@@ -174,9 +177,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.0% | 100% | Last Result |
-| 1 | 98.8% | 99.0% | Median |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 0.6% | 100% | Last Result |
+| 1 | 79% | 99.4% | Median |
+| 2 | 20% | 20% |  |
 | 3 | 0% | 0% |  |
 
 ### Primavera Europea (Greens/EFA)
@@ -187,7 +190,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
+| 2 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -198,11 +203,11 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0 | 17 | 0% | 16–17 | 16–17 | 16–17 | 16–18 |
-| Partido Popular (EPP) | 0 | 13 | 0% | 12–13 | 12–13 | 12–13 | 12–13 |
-| Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE) | 0 | 9 | 0% | 9 | 9 | 9 | 9–10 |
-| Vox (EAPN) | 0 | 6 | 0% | 6–8 | 6–8 | 6–8 | 6–8 |
-| Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Partido Socialista Obrero Español (S&D) | 0 | 16 | 0% | 15–17 | 15–18 | 14–18 | 14–18 |
+| Partido Popular (EPP) | 0 | 12 | 0% | 11–13 | 11–13 | 11–14 | 10–14 |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE) | 0 | 9 | 0% | 8–10 | 8–11 | 8–11 | 8–11 |
+| Vox (EAPN) | 0 | 7 | 0% | 6–8 | 6–8 | 6–8 | 5–8 |
+| Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA) | 0 | 2 | 0% | 1–2 | 1–3 | 1–3 | 1–3 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -223,13 +228,14 @@
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0.3% | 100% |  |
-| 16 | 32% | 99.7% |  |
-| 17 | 67% | 68% | Median |
-| 18 | 1.1% | 1.1% |  |
-| 19 | 0% | 0% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 4% | 99.9% |  |
+| 15 | 19% | 96% |  |
+| 16 | 44% | 77% | Median |
+| 17 | 28% | 33% |  |
+| 18 | 5% | 5% |  |
+| 19 | 0.3% | 0.4% |  |
+| 20 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
 
@@ -247,11 +253,13 @@
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0.3% | 100% |  |
-| 12 | 34% | 99.7% |  |
-| 13 | 66% | 66% | Median |
-| 14 | 0% | 0% |  |
+| 10 | 2% | 100% |  |
+| 11 | 25% | 98% |  |
+| 12 | 45% | 73% | Median |
+| 13 | 25% | 28% |  |
+| 14 | 3% | 3% |  |
+| 15 | 0.2% | 0.2% |  |
+| 16 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE)
 
@@ -266,12 +274,12 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.4% | 100% |  |
-| 8 | 0.1% | 99.6% |  |
-| 9 | 98% | 99.6% | Median |
-| 10 | 2% | 2% |  |
-| 11 | 0% | 0.2% |  |
-| 12 | 0.2% | 0.2% |  |
+| 7 | 0.5% | 100% |  |
+| 8 | 13% | 99.5% |  |
+| 9 | 49% | 86% | Median |
+| 10 | 29% | 38% |  |
+| 11 | 8% | 9% |  |
+| 12 | 0.4% | 0.4% |  |
 | 13 | 0% | 0% |  |
 
 ### Vox (EAPN)
@@ -285,11 +293,12 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 67% | 100% | Median |
-| 7 | 0.5% | 33% |  |
-| 8 | 32% | 32% |  |
-| 9 | 0% | 0% |  |
+| 5 | 1.4% | 100% |  |
+| 6 | 31% | 98.6% |  |
+| 7 | 53% | 68% | Median |
+| 8 | 15% | 15% |  |
+| 9 | 0.3% | 0.3% |  |
+| 10 | 0% | 0% |  |
 
 ### Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA)
 
@@ -298,9 +307,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 66% | 100% | Median |
-| 2 | 34% | 34% |  |
-| 3 | 0.1% | 0.1% |  |
+| 1 | 48% | 100% | Median |
+| 2 | 47% | 52% |  |
+| 3 | 5% | 5% |  |
 | 4 | 0% | 0% |  |
 
 
@@ -315,6 +324,6 @@
 ### Calculations
 
 + **Sample size:** 950
-+ **Simulations done:** 1,024
-+ **Error estimate:** 2.96%
++ **Simulations done:** 524,288
++ **Error estimate:** 2.00%
 

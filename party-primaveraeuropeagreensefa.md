@@ -235,8 +235,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
 | [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
-| [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 0 | 0 | 0 | 0 | 0 |
-| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 0 | 0 | 0 | 0 | 0–1 |
+| [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 0 | 0 | 0 | 0 | 0 |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
 | [15–17 April 2019](2019-04-17-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
