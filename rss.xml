@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 27 Apr 2019 20:49:57 +0200</pubDate>
+    <pubDate>Sat, 27 Apr 2019 21:04:44 +0200</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 14–21 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-04-21-SocioMétrica.html</link>
@@ -176,8 +176,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-04-16-Metroscopia.png"
         length="164893"
         type="image/png"/>
-      <pubDate>Sat, 27 Apr 2019 20:49:57 +0200</pubDate>
-      <dc:date>2019-04-27T20:49:57.446635+02:00</dc:date>
+      <pubDate>Sat, 27 Apr 2019 21:04:44 +0200</pubDate>
+      <dc:date>2019-04-27T21:04:44.551599+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 10–16 April 2019 – Voting Intentions</title>
@@ -729,6 +729,6 @@
       <pubDate>Fri, 12 Apr 2019 22:03:31 +0200</pubDate>
       <dc:date>2019-04-12T22:03:31.3214+02:00</dc:date>
     </item>
-    <dc:date>2019-04-27T20:49:57.446635+02:00</dc:date>
+    <dc:date>2019-04-27T21:04:44.551599+02:00</dc:date>
   </channel>
 </rss>
