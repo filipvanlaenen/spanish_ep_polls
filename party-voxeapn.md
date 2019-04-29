@@ -47,7 +47,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 9.3% | 8.4–10.4% | 8.1–10.7% | 7.9–10.9% | 7.5–11.4% |
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 9.8% | 8.7–11.1% | 8.4–11.4% | 8.1–11.7% | 7.6–12.4% |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 10.6% | 9.6–11.7% | 9.4–12.0% | 9.1–12.3% | 8.7–12.8% |
-| [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC | 9.8% | N/A | N/A | N/A | N/A |
+| [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC | 9.8% | 9.2–10.4% | 9.1–10.6% | 8.9–10.8% | 8.6–11.1% |
 | [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8.7% | 7.7–9.9% | 7.4–10.3% | 7.2–10.5% | 6.7–11.1% |
 | [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 9.6% | 8.6–10.7% | 8.4–10.9% | 8.2–11.2% | 7.7–11.8% |
 | [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 11.9% | 11.5–12.4% | 11.3–12.5% | 11.2–12.6% | 11.0–12.8% |
@@ -251,10 +251,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 5–6 | 5–6 | 5–7 | 5–8 |
+| [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [15–17 April 2019](2019-04-17-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
-| [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [11–16 April 2019](2019-04-16-Metroscopia.html) | Metroscopia <br> Henneo | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
@@ -275,7 +275,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 5–6 | 5–6 | 3–6 | 3–6 |
 | [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 5 | 5 | 5 | 5–6 | 5–6 |
 | [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6 | 6 | 6 |
