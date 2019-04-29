@@ -259,9 +259,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
-| [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 16–18 | 15–18 | 15–18 | 14–19 |
+| [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–18 | 16–19 | 16–19 | 16–19 |
-| [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 18 | 17–18 | 17–18 | 17–19 | 17–19 |
 | [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
@@ -275,7 +275,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [11–16 April 2019](2019-04-16-Metroscopia.html) | Metroscopia <br> Henneo | 16 | 16–17 | 15–17 | 15–17 | 15–17 |
 | [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
-| [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 18 | 17–18 | 17–18 | 16–18 |
+| [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–18 | 16–19 | 16–19 | 16–19 |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC | 17 | 17–18 | 16–18 | 16–19 | 16–19 |
 | [12–15 April 2019](2019-04-15-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
@@ -288,16 +288,16 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 17 | 17–18 | 16–19 | 16–19 | 16–20 |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 16–18 | 16–18 | 16–19 |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 13–14 | 13–14 | 12–14 |
-| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 14 | 14–15 | 14–16 | 14–16 | 14–17 |
-| [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 18 | 17–19 | 17–20 | 17–20 | 17–20 |
+| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
+| [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 18 | 17–19 | 17–19 | 16–19 | 16–20 |
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 16 | 16–17 | 15–18 | 15–18 | 15–18 |
-| [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 16–18 | 16–18 | 16–19 |
-| [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 14–16 | 14–16 | 14–16 | 14–16 |
-| [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 18 | 18 | 17–18 | 17–18 | 17–18 |
-| [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 13–14 | 13–14 | 13–14 |
+| [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC | 17 | 17–18 | 17–18 | 16–18 | 16–18 |
+| [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
+| [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–18 | 16–18 | 15–18 |
+| [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13 | 13–14 | 13–14 | 13–14 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
-| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 18 | 18 | 17–18 | 17–18 | 16–18 |
+| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 17 | 17–18 | 16–18 | 16–18 |
 | [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta | 15 | 14–15 | 13–15 | 13–15 | 13–16 |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 16 | 16–17 | 16–17 | 16–17 | 16–18 |
@@ -472,9 +472,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 6% | 100% |  |
 | 14 | 8% | 94% |  |
 | 15 | 20% | 86% |  |
-| 16 | 26% | 67% | Median |
-| 17 | 23% | 40% |  |
-| 18 | 16% | 18% |  |
+| 16 | 27% | 67% | Median |
+| 17 | 26% | 40% |  |
+| 18 | 12% | 14% |  |
 | 19 | 2% | 2% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
