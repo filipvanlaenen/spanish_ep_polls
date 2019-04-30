@@ -268,7 +268,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [8–11 April 2019](2019-04-11-Invymark.html) | Invymark <br> laSexta | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
-| [9–11 April 2019](2019-04-11-GAD3.html) | GAD3 <br> La Vanguardia | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
+| [9–11 April 2019](2019-04-11-GAD3.html) | GAD3 <br> La Vanguardia | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [8–11 April 2019](2019-04-11-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
