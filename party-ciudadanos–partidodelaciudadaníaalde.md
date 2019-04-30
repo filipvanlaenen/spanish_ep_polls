@@ -243,7 +243,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
-| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
+| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
@@ -279,7 +279,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC | 8 | 8 | 8–9 | 7–9 | 7–9 |
-| [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 8–10 | 8–10 | 8–10 | 7–11 |
+| [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
 | [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 9 | 8–11 | 7–11 | 7–12 | 6–12 |

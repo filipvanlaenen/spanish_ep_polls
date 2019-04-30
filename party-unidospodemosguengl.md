@@ -240,17 +240,17 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
-| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
-| [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 7–8 | 7–8 | 7–9 | 6–9 |
+| [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
+| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [15–17 April 2019](2019-04-17-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -276,7 +276,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC | 6 | 6 | 6–7 | 6–7 | 5–7 |
-| [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
 | [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6 | 6 | 6 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 6 | 5–8 | 5–8 | 5–9 | 4–10 |

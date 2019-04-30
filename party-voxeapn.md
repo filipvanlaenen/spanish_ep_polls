@@ -240,10 +240,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 4–8 | 4–8 | 3–9 |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
+| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 6 | 6 | 6 | 6 | 6–7 |
@@ -276,7 +276,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC | 5 | 5 | 5–6 | 5–6 | 4–6 |
-| [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 5 | 4–7 | 4–7 | 4–8 | 3–8 |
