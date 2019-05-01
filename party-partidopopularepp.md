@@ -288,7 +288,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 11 | 11–12 | 10–12 | 10–13 | 10–13 |
 | [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
 | [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 13–14 | 12–15 | 12–15 | 12–15 |
-| [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 12 | 11–12 | 11–13 | 11–13 | 10–14 |
+| [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 13 | 11–14 | 10–15 | 10–15 | 9–16 |
 | [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
@@ -461,7 +461,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 1.3% | 99.9% |  |
 | 9 | 7% | 98.6% |  |
 | 10 | 22% | 92% |  |
-| 11 | 32% | 70% | Median |
+| 11 | 31% | 70% | Median |
 | 12 | 20% | 38% |  |
 | 13 | 11% | 18% |  |
 | 14 | 6% | 8% |  |

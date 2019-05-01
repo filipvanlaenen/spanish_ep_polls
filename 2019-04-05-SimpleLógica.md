@@ -26,7 +26,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 17 | 16–18 |16–18 |15–18 |15–19 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 17 | 16–18 |15–18 |15–18 |15–19 |
 | <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 9 | 8–10 |8–10 |8–10 |7–11 |
 | <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 8 | 8–9 |7–9 |7–10 |7–10 |
 | <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 8 | 7–9 |7–9 |7–9 |6–9 |
@@ -81,7 +81,7 @@
 | 7 | 0.8% | 100% |  |
 | 8 | 21% | 99.2% |  |
 | 9 | 56% | 78% | Median |
-| 10 | 22% | 23% |  |
+| 10 | 21% | 23% |  |
 | 11 | 1.4% | 1.4% |  |
 | 12 | 0% | 0% |  |
 
@@ -101,9 +101,9 @@
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
 | 7 | 10% | 99.9% |  |
-| 8 | 52% | 90% | Median |
-| 9 | 35% | 38% |  |
-| 10 | 3% | 3% |  |
+| 8 | 53% | 90% | Median |
+| 9 | 34% | 38% |  |
+| 10 | 3% | 4% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
@@ -122,8 +122,8 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
-| 7 | 35% | 98% |  |
-| 8 | 53% | 63% | Median |
+| 7 | 34% | 98% |  |
+| 8 | 53% | 64% | Median |
 | 9 | 10% | 11% |  |
 | 10 | 0.3% | 0.3% |  |
 | 11 | 0% | 0% |  |
@@ -140,8 +140,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 13% | 100% |  |
-| 5 | 66% | 87% | Median |
+| 4 | 12% | 100% |  |
+| 5 | 66% | 88% | Median |
 | 6 | 21% | 22% |  |
 | 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
@@ -155,7 +155,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0 | 17 | 0% | 16–18 | 16–18 | 15–18 | 15–19 |
+| Partido Socialista Obrero Español (S&D) | 0 | 17 | 0% | 16–18 | 15–18 | 15–18 | 15–19 |
 | Partido Popular (EPP) | 0 | 9 | 0% | 8–10 | 8–10 | 8–10 | 7–11 |
 | Vox (EAPN) | 0 | 5 | 0% | 4–6 | 4–6 | 4–6 | 4–7 |
 
@@ -204,7 +204,7 @@
 | 7 | 0.8% | 100% |  |
 | 8 | 21% | 99.2% |  |
 | 9 | 56% | 78% | Median |
-| 10 | 22% | 23% |  |
+| 10 | 21% | 23% |  |
 | 11 | 1.4% | 1.4% |  |
 | 12 | 0% | 0% |  |
 
@@ -218,8 +218,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 13% | 100% |  |
-| 5 | 66% | 87% | Median |
+| 4 | 12% | 100% |  |
+| 5 | 66% | 88% | Median |
 | 6 | 21% | 22% |  |
 | 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
@@ -236,6 +236,6 @@
 ### Calculations
 
 + **Sample size:** 1054
-+ **Simulations done:** 524,288
-+ **Error estimate:** 0.27%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.15%
 

@@ -335,7 +335,7 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 1.3% | 99.9% |  |
 | 9 | 7% | 98.6% |  |
 | 10 | 22% | 92% |  |
-| 11 | 32% | 70% | Median |
+| 11 | 31% | 70% | Median |
 | 12 | 20% | 38% |  |
 | 13 | 11% | 18% |  |
 | 14 | 6% | 8% |  |
@@ -363,8 +363,8 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 6% | 100% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 6% | 99.9% |  |
 | 14 | 8% | 94% |  |
 | 15 | 20% | 86% |  |
 | 16 | 27% | 67% | Median |
@@ -390,7 +390,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0.8% | 100% |  |
 | 6 | 27% | 99.2% |  |
 | 7 | 51% | 72% | Median |
-| 8 | 20% | 21% |  |
+| 8 | 19% | 21% |  |
 | 9 | 1.3% | 1.3% |  |
 | 10 | 0% | 0% |  |
 
@@ -410,9 +410,9 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
 | 7 | 19% | 98% |  |
-| 8 | 34% | 79% | Median |
+| 8 | 35% | 79% | Median |
 | 9 | 33% | 44% |  |
-| 10 | 10% | 11% |  |
+| 10 | 11% | 11% |  |
 | 11 | 0.5% | 0.5% |  |
 | 12 | 0% | 0% |  |
 
@@ -430,10 +430,10 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0.8% | 100% |  |
 | 4 | 8% | 99.2% |  |
 | 5 | 26% | 91% |  |
-| 6 | 36% | 65% | Median |
+| 6 | 37% | 65% | Median |
 | 7 | 20% | 28% |  |
 | 8 | 7% | 8% |  |
-| 9 | 0.9% | 1.0% |  |
+| 9 | 1.0% | 1.1% |  |
 | 10 | 0% | 0% |  |
 
 ### Coalición por Europa (ALDE)
@@ -458,9 +458,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 19% | 100% |  |
-| 2 | 59% | 81% | Median |
-| 3 | 22% | 22% |  |
+| 1 | 18% | 100% |  |
+| 2 | 59% | 82% | Median |
+| 3 | 22% | 23% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -473,8 +473,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 63% | 100% | Last Result, Median |
-| 1 | 23% | 37% |  |
-| 2 | 14% | 14% |  |
+| 1 | 24% | 37% |  |
+| 2 | 13% | 13% |  |
 | 3 | 0% | 0% |  |
 
 ### Primavera Europea (Greens/EFA)
@@ -503,7 +503,7 @@ Only polls for which at least the sample size has been published are included in
 | Ciudadanos–Partido de la Ciudadanía (ALDE) – Coalición por Europa (ALDE) | 0 | 9 | 0% | 8–11 | 7–11 | 7–11 | 6–12 |
 | Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Unidos Podemos (GUE/NGL) | 0 | 7 | 0% | 6–8 | 6–8 | 6–9 | 5–9 |
 | Vox (EAPN) | 0 | 6 | 0% | 5–7 | 4–8 | 4–8 | 3–9 |
-| Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA) | 0 | 2 | 0% | 0–3 | 0–3 | 0–3 | 0–4 |
+| Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA) | 0 | 2 | 0% | 0–3 | 0–3 | 0–4 | 0–4 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -523,8 +523,8 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 6% | 100% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 6% | 99.9% |  |
 | 14 | 8% | 94% |  |
 | 15 | 20% | 86% |  |
 | 16 | 27% | 67% | Median |
@@ -551,7 +551,7 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 1.3% | 99.9% |  |
 | 9 | 7% | 98.6% |  |
 | 10 | 22% | 92% |  |
-| 11 | 32% | 70% | Median |
+| 11 | 31% | 70% | Median |
 | 12 | 20% | 38% |  |
 | 13 | 11% | 18% |  |
 | 14 | 6% | 8% |  |
@@ -593,7 +593,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0.8% | 100% |  |
 | 6 | 21% | 99.2% |  |
-| 7 | 48% | 79% | Median |
+| 7 | 48% | 78% | Median |
 | 8 | 26% | 30% |  |
 | 9 | 4% | 4% |  |
 | 10 | 0.1% | 0.1% |  |
@@ -611,10 +611,10 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0.8% | 100% |  |
 | 4 | 8% | 99.2% |  |
 | 5 | 26% | 91% |  |
-| 6 | 36% | 65% | Median |
+| 6 | 37% | 65% | Median |
 | 7 | 20% | 28% |  |
 | 8 | 7% | 8% |  |
-| 9 | 0.9% | 1.0% |  |
+| 9 | 1.0% | 1.1% |  |
 | 10 | 0% | 0% |  |
 
 ### Ahora Repúblicas (Greens/EFA) – Primavera Europea (Greens/EFA)
@@ -627,7 +627,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 9% | 62% |  |
 | 2 | 32% | 53% | Median |
 | 3 | 19% | 22% |  |
-| 4 | 2% | 2% |  |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 
@@ -635,5 +635,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 16
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 11,141,120
++ **Total number of simulations done in the polls included in this average:** 13,238,272
 + **Error estimate:** 2.23%

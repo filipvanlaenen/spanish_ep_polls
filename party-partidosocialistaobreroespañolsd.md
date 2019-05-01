@@ -290,11 +290,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 13–14 | 13–14 | 12–14 |
 | [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
 | [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 18 | 17–19 | 17–19 | 16–19 | 16–20 |
-| [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
+| [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 16 | 16–17 | 15–18 | 15–18 | 15–18 |
 | [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC | 17 | 17–18 | 17–18 | 16–18 | 16–18 |
 | [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
-| [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–18 | 16–18 | 15–18 |
+| [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
 | [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13 | 13–14 | 13–14 | 13–14 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
 | [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
@@ -468,8 +468,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 6% | 100% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 6% | 99.9% |  |
 | 14 | 8% | 94% |  |
 | 15 | 20% | 86% |  |
 | 16 | 27% | 67% | Median |
