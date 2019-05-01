@@ -271,7 +271,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 17–18 | 17–18 | 16–19 | 16–19 |
 | [15–17 April 2019](2019-04-17-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
-| [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–18 | 16–18 | 16–18 | 16–19 |
+| [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 17–18 | 16–18 | 16–19 | 16–19 |
 | [11–16 April 2019](2019-04-16-Metroscopia.html) | Metroscopia <br> Henneo | 16 | 16–17 | 15–17 | 15–17 | 15–17 |
 | [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
@@ -288,7 +288,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 17 | 17–18 | 16–19 | 16–19 | 16–20 |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 16–18 | 16–18 | 16–19 |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 13–14 | 13–14 | 12–14 |
-| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
+| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 18 | 17–19 | 17–19 | 16–19 | 16–20 |
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 16 | 16–17 | 15–18 | 15–18 | 15–18 |

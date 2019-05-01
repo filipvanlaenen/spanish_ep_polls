@@ -242,7 +242,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1 | 1 | 1–2 |
 | [15–17 April 2019](2019-04-17-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1 | 1 | 1 |
+| [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [11–16 April 2019](2019-04-16-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 1 | 1–2 | 1–2 | 1–2 | 1–2 |

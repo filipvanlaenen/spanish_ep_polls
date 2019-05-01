@@ -271,7 +271,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6–7 | 6–7 | 6–7 |
-| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
+| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
