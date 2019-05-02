@@ -259,7 +259,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 11 | 10–12 | 10–13 | 10–13 | 10–13 |
 | [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
 | [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
-| [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
+| [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–11 | 10–11 | 9–11 | 9–12 |
 | [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–11 | 10–11 | 9–12 | 9–12 |
@@ -280,7 +280,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [8–11 April 2019](2019-04-11-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 12–15 | 12–15 | 12–15 | 12–16 |
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
-| [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC | 12 | 11–12 | 11–12 | 11–13 | 10–13 |
+| [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11–12 | 11–12 | 11–12 | 11–12 |
 | [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 11 | 11–12 | 10–12 | 10–13 | 10–13 |
