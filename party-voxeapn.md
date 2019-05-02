@@ -60,7 +60,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 10.1% | 9.1–11.2% | 8.8–11.5% | 8.6–11.8% | 8.2–12.3% |
 | [20–25 March 2019](2019-03-25-SigmaDos.html) | Sigma Dos <br> El Mundo | 9.6% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 11.7% | 10.9–12.5% | 10.7–12.7% | 10.5–13.0% | 10.2–13.4% |
-| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 11.3% | 10.8–11.8% | 10.7–11.9% | 10.6–12.1% | 10.4–12.3% |
+| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 11.3% | 10.9–11.8% | 10.7–11.9% | 10.6–12.0% | 10.4–12.2% |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 11.0% | 10.0–12.2% | 9.7–12.5% | 9.5–12.8% | 9.0–13.3% |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 10.7% | 9.5–12.1% | 9.2–12.4% | 8.9–12.8% | 8.4–13.5% |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 11.5% | 11.0–12.0% | 10.9–12.1% | 10.8–12.3% | 10.6–12.5% |
@@ -268,7 +268,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [9–11 April 2019](2019-04-11-GAD3.html) | GAD3 <br> La Vanguardia | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [8–11 April 2019](2019-04-11-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
-| [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -288,7 +288,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [20–25 March 2019](2019-03-25-SigmaDos.html) | Sigma Dos <br> El Mundo | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
-| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 7 | 7 | 6–7 | 6–7 | 6–7 |
