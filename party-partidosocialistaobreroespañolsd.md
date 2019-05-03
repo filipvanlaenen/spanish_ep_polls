@@ -71,9 +71,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 26.0% | 24.3–27.8% | 23.8–28.4% | 23.4–28.8% | 22.6–29.7% |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 31.2% | 29.5–33.1% | 29.0–33.6% | 28.5–34.0% | 27.7–34.9% |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 25.4% | 23.7–27.1% | 23.3–27.6% | 22.9–28.0% | 22.1–28.9% |
-| [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 21.8% | N/A | N/A | N/A | N/A |
-| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 27.6% | N/A | N/A | N/A | N/A |
-| [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 25.2% | N/A | N/A | N/A | N/A |
+| [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 21.8% | 21.2–22.5% | 21.0–22.6% | 20.8–22.8% | 20.5–23.1% |
+| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 27.6% | 26.2–29.1% | 25.8–29.5% | 25.5–29.9% | 24.8–30.6% |
+| [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 25.2% | 23.6–26.8% | 23.2–27.3% | 22.8–27.7% | 22.1–28.5% |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 30.6% | N/A | N/A | N/A | N/A |
 | [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 21.3% | N/A | N/A | N/A | N/A |
 | [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 28.8% | N/A | N/A | N/A | N/A |
@@ -316,9 +316,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 14 | 14–15 | 14–15 | 13–16 | 12–17 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 16 | 16–18 | 16–19 | 16–19 | 16–19 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 14–16 | 13–16 | 12–16 | 12–16 |
-| [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12–13 | 12–13 | 12–13 | 12–13 |
+| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–16 | 15–17 | 14–17 | 14–17 |
+| [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
