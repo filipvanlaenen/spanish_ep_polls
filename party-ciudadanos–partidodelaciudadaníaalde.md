@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.3% | 13.1–17.3% | 12.6–17.8% | 12.2–18.3% | 11.5–19.3% |
+| N/A | [Poll Average](average.html) | 14.6% | 13.2–16.6% | 12.7–17.0% | 12.3–17.2% | 11.6–17.9% |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 15.1% | 14.1–16.2% | 13.8–16.6% | 13.5–16.8% | 13.0–17.4% |
 | [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 15.5% | 14.4–16.6% | 14.1–17.0% | 13.9–17.3% | 13.4–17.8% |
 | [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 15.1% | 13.9–16.4% | 13.6–16.7% | 13.3–17.1% | 12.7–17.7% |
@@ -221,16 +221,15 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.5% | 100% |  |
-| 11.5–12.5% | 4% | 99.5% |  |
-| 12.5–13.5% | 13% | 96% |  |
-| 13.5–14.5% | 19% | 82% |  |
-| 14.5–15.5% | 18% | 63% | Median |
-| 15.5–16.5% | 21% | 45% |  |
-| 16.5–17.5% | 17% | 24% |  |
-| 17.5–18.5% | 5% | 7% |  |
-| 18.5–19.5% | 1.5% | 2% |  |
-| 19.5–20.5% | 0.3% | 0.3% |  |
-| 20.5–21.5% | 0% | 0% |  |
+| 11.5–12.5% | 3% | 99.5% |  |
+| 12.5–13.5% | 12% | 96% |  |
+| 13.5–14.5% | 31% | 84% |  |
+| 14.5–15.5% | 26% | 53% | Median |
+| 15.5–16.5% | 16% | 26% |  |
+| 16.5–17.5% | 9% | 10% |  |
+| 17.5–18.5% | 1.0% | 1.1% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -241,7 +240,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
@@ -449,11 +448,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
-| 7 | 19% | 98% |  |
-| 8 | 35% | 79% | Median |
-| 9 | 33% | 44% |  |
-| 10 | 11% | 11% |  |
-| 11 | 0.5% | 0.5% |  |
-| 12 | 0% | 0% |  |
+| 7 | 22% | 98% |  |
+| 8 | 50% | 76% | Median |
+| 9 | 22% | 26% |  |
+| 10 | 4% | 4% |  |
+| 11 | 0% | 0% |  |
 
 
