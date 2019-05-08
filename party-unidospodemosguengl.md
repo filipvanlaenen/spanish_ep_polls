@@ -74,7 +74,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 10.9% | 10.4–11.4% | 10.3–11.5% | 10.2–11.7% | 10.0–11.9% |
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 14.1% | 13.1–15.3% | 12.8–15.6% | 12.5–15.9% | 12.0–16.5% |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 13.2% | 12.0–14.5% | 11.6–14.9% | 11.4–15.2% | 10.8–15.9% |
-| [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 11.8% | N/A | N/A | N/A | N/A |
+| [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–14.0% | 9.4–14.7% |
 | [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 11.1% | N/A | N/A | N/A | N/A |
 | [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 15.6% | N/A | N/A | N/A | N/A |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 14.4% | N/A | N/A | N/A | N/A |
@@ -302,7 +302,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6 | 6 | 5–6 |
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [25–28 February 2019](2019-02-28-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
