@@ -242,9 +242,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [29 April–8 May 2019](2019-05-08-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
-| [29 April–6 May 2019](2019-05-06-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8 | 8 | 8 | 7–10 |
-| [29 April–4 May 2019](2019-05-04-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
+| [29 April–8 May 2019](2019-05-08-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
+| [29 April–6 May 2019](2019-05-06-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
+| [29 April–4 May 2019](2019-05-04-electoPanel.html) | electoPanel <br> electomania.es | 8 | 6–9 | 6–9 | 6–10 | 6–10 |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
