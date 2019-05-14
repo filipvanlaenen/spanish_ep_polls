@@ -14,6 +14,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [29 April–8 May 2019](2019-05-08-electoPanel.html) | electoPanel <br> electomania.es | 15.0% | 13.1–17.2% | 12.6–17.8% | 12.1–18.4% | 11.3–19.5% |
 | [29 April–6 May 2019](2019-05-06-electoPanel.html) | electoPanel <br> electomania.es | 14.8% | 12.9–17.0% | 12.4–17.6% | 11.9–18.2% | 11.1–19.3% |
 | [29 April–4 May 2019](2019-05-04-electoPanel.html) | electoPanel <br> electomania.es | 16.0% | 14.1–18.3% | 13.5–18.9% | 13.0–19.5% | 12.2–20.6% |
+| [21 March–23 April 2019](2019-04-23-CIS.html) | CIS | 19.0% | N/A | N/A | N/A | N/A |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 18.2% | 17.1–19.4% | 16.8–19.8% | 16.5–20.1% | 16.0–20.7% |
 | [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 18.4% | 17.3–19.6% | 16.9–20.0% | 16.7–20.3% | 16.1–20.9% |
 | [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 19.8% | 18.5–21.2% | 18.1–21.6% | 17.8–22.0% | 17.2–22.7% |
@@ -255,6 +256,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [29 April–8 May 2019](2019-05-08-electoPanel.html) | electoPanel <br> electomania.es | 9 | 7–9 | 7–10 | 7–10 | 6–11 |
 | [29 April–6 May 2019](2019-05-06-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–9 | 7–10 | 6–10 | 6–11 |
 | [29 April–4 May 2019](2019-05-04-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–10 | 8–10 | 7–10 | 7–12 |
+| [21 March–23 April 2019](2019-04-23-CIS.html) | CIS |  |  |  |  |  |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
 | [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
 | [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
