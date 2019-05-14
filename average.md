@@ -10,6 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 16–25% <br> 9–14 | 23–32% <br> 13–18 | 11–16% <br> 6–8 | 12–17% <br> 7–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 8–15% <br> 4–8 | N/A <br> N/A | 3–5% <br> 1–3 | 2–4% <br> 1–2 | 0–3% <br> 0–1 |
+| [21 March–23 April 2019](2019-04-23-CIS.html) | CIS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 17–20% <br> 9–11 | 27–32% <br> 16–18 | 12–15% <br> 7–8 | 14–17% <br> 8–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 11–14% <br> 6–8 | N/A <br> N/A | 3–5% <br> 1–3 | 2–3% <br> 1–2 | 1–2% <br> 0 |
 | [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 18–22% <br> 10–12 | 27–32% <br> 16–18 | 12–16% <br> 7–9 | 13–17% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 4–6 | N/A <br> N/A | 3–5% <br> 1–2 | 2–4% <br> 1–2 | 0–1% <br> 0 |
 | [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 21–26% <br> 12–15 | 26–32% <br> 15–18 | 12–16% <br> 6–9 | 13–17% <br> 7–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 3–5 | N/A <br> N/A | 3–5% <br> 1–2 | 2–4% <br> 1–2 | 1–2% <br> 0–1 |
@@ -630,7 +631,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
-+ **Number of polls included in this average:** 15
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Number of polls included in this average:** 16
++ **Lowest number of simulations done in a poll included in this average:** 0
 + **Total number of simulations done in the polls included in this average:** 15,728,640
 + **Error estimate:** 2.21%
