@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.2% | 17.8–23.7% | 17.3–24.5% | 16.9–25.1% | 16.1–26.3% |
+| N/A | [Poll Average](average.html) | 20.0% | 17.9–23.6% | 17.3–24.4% | 16.9–25.1% | 16.2–26.2% |
 | [29 April–8 May 2019](2019-05-08-electoPanel.html) | electoPanel <br> electomania.es | 15.0% | 13.1–17.2% | 12.6–17.8% | 12.1–18.4% | 11.3–19.5% |
 | [29 April–6 May 2019](2019-05-06-electoPanel.html) | electoPanel <br> electomania.es | 14.8% | 12.9–17.0% | 12.4–17.6% | 11.9–18.2% | 11.1–19.3% |
 | [29 April–4 May 2019](2019-05-04-electoPanel.html) | electoPanel <br> electomania.es | 16.0% | 14.1–18.3% | 13.5–18.9% | 13.0–19.5% | 12.2–20.6% |
-| [21 March–23 April 2019](2019-04-23-CIS.html) | CIS | 19.0% | N/A | N/A | N/A | N/A |
+| [21 March–23 April 2019](2019-04-23-CIS.html) | CIS | 19.0% | 18.6–19.4% | 18.5–19.5% | 18.4–19.6% | 18.2–19.8% |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 18.2% | 17.1–19.4% | 16.8–19.8% | 16.5–20.1% | 16.0–20.7% |
 | [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 18.4% | 17.3–19.6% | 16.9–20.0% | 16.7–20.3% | 16.1–20.9% |
 | [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 19.8% | 18.5–21.2% | 18.1–21.6% | 17.8–22.0% | 17.2–22.7% |
@@ -229,18 +229,18 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 1.2% | 99.9% |  |
-| 16.5–17.5% | 6% | 98.7% |  |
-| 17.5–18.5% | 12% | 93% |  |
-| 18.5–19.5% | 16% | 81% |  |
-| 19.5–20.5% | 22% | 65% | Median |
-| 20.5–21.5% | 13% | 43% |  |
-| 21.5–22.5% | 10% | 30% |  |
-| 22.5–23.5% | 9% | 20% |  |
-| 23.5–24.5% | 6% | 11% |  |
-| 24.5–25.5% | 3% | 5% |  |
-| 25.5–26.5% | 1.2% | 1.5% |  |
-| 26.5–27.5% | 0.3% | 0.3% |  |
+| 15.5–16.5% | 1.1% | 99.9% |  |
+| 16.5–17.5% | 5% | 98.8% |  |
+| 17.5–18.5% | 11% | 93% |  |
+| 18.5–19.5% | 22% | 82% |  |
+| 19.5–20.5% | 21% | 60% | Median |
+| 20.5–21.5% | 12% | 39% |  |
+| 21.5–22.5% | 9% | 28% |  |
+| 22.5–23.5% | 8% | 18% |  |
+| 23.5–24.5% | 6% | 10% |  |
+| 24.5–25.5% | 3% | 4% |  |
+| 25.5–26.5% | 1.1% | 1.4% |  |
+| 26.5–27.5% | 0.2% | 0.3% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
 
@@ -256,7 +256,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [29 April–8 May 2019](2019-05-08-electoPanel.html) | electoPanel <br> electomania.es | 9 | 7–9 | 7–10 | 7–10 | 6–11 |
 | [29 April–6 May 2019](2019-05-06-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–9 | 7–10 | 6–10 | 6–11 |
 | [29 April–4 May 2019](2019-05-04-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–10 | 8–10 | 7–10 | 7–12 |
-| [21 March–23 April 2019](2019-04-23-CIS.html) | CIS |  |  |  |  |  |
+| [21 March–23 April 2019](2019-04-23-CIS.html) | CIS | 11 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
 | [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
 | [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
@@ -466,13 +466,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.1% | 100% |  |
-| 9 | 4% | 99.9% |  |
-| 10 | 21% | 96% |  |
-| 11 | 36% | 76% | Median |
-| 12 | 18% | 40% |  |
-| 13 | 12% | 22% |  |
-| 14 | 8% | 10% |  |
-| 15 | 1.1% | 1.1% |  |
+| 9 | 3% | 99.9% |  |
+| 10 | 20% | 96% |  |
+| 11 | 40% | 77% | Median |
+| 12 | 17% | 37% |  |
+| 13 | 11% | 20% |  |
+| 14 | 8% | 9% |  |
+| 15 | 1.0% | 1.1% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 

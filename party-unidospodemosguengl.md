@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.3% | 11.9–14.7% | 11.5–15.1% | 11.2–15.4% | 10.6–16.2% |
+| N/A | [Poll Average](average.html) | 13.4% | 11.9–14.7% | 11.6–15.1% | 11.3–15.4% | 10.6–16.1% |
 | [29 April–8 May 2019](2019-05-08-electoPanel.html) | electoPanel <br> electomania.es | 14.2% | 12.4–16.4% | 11.8–17.0% | 11.4–17.5% | 10.6–18.6% |
 | [29 April–6 May 2019](2019-05-06-electoPanel.html) | electoPanel <br> electomania.es | 14.2% | 12.4–16.4% | 11.8–17.0% | 11.4–17.5% | 10.6–18.6% |
 | [29 April–4 May 2019](2019-05-04-electoPanel.html) | electoPanel <br> electomania.es | 14.0% | 12.2–16.2% | 11.7–16.8% | 11.2–17.3% | 10.4–18.4% |
-| [21 March–23 April 2019](2019-04-23-CIS.html) | CIS | 14.0% | N/A | N/A | N/A | N/A |
+| [21 March–23 April 2019](2019-04-23-CIS.html) | CIS | 14.0% | 13.7–14.3% | 13.6–14.4% | 13.5–14.5% | 13.3–14.7% |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 13.6% | 12.6–14.7% | 12.3–15.0% | 12.1–15.3% | 11.6–15.8% |
 | [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 13.7% | 12.7–14.8% | 12.4–15.1% | 12.2–15.4% | 11.7–15.9% |
 | [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 14.1% | 12.9–15.3% | 12.6–15.7% | 12.3–16.0% | 11.8–16.6% |
@@ -223,12 +223,12 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.5% | 100% |  |
-| 10.5–11.5% | 5% | 99.5% |  |
-| 11.5–12.5% | 23% | 95% |  |
-| 12.5–13.5% | 30% | 72% | Median |
-| 13.5–14.5% | 29% | 43% |  |
-| 14.5–15.5% | 12% | 14% |  |
+| 9.5–10.5% | 0.4% | 100% |  |
+| 10.5–11.5% | 4% | 99.5% |  |
+| 11.5–12.5% | 21% | 95% |  |
+| 12.5–13.5% | 28% | 75% | Median |
+| 13.5–14.5% | 34% | 47% |  |
+| 14.5–15.5% | 11% | 13% |  |
 | 15.5–16.5% | 2% | 2% |  |
 | 16.5–17.5% | 0.2% | 0.2% |  |
 | 17.5–18.5% | 0% | 0% |  |
@@ -246,7 +246,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [29 April–8 May 2019](2019-05-08-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
 | [29 April–6 May 2019](2019-05-06-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
 | [29 April–4 May 2019](2019-05-04-electoPanel.html) | electoPanel <br> electomania.es | 8 | 6–9 | 6–9 | 6–10 | 6–10 |
-| [21 March–23 April 2019](2019-04-23-CIS.html) | CIS |  |  |  |  |  |
+| [21 March–23 April 2019](2019-04-23-CIS.html) | CIS | 8 | 8 | 8 | 7–8 | 7–8 |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
@@ -453,9 +453,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.3% | 100% |  |
-| 6 | 13% | 99.7% |  |
-| 7 | 50% | 87% | Median |
-| 8 | 35% | 37% |  |
+| 6 | 12% | 99.7% |  |
+| 7 | 46% | 88% | Median |
+| 8 | 39% | 41% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
