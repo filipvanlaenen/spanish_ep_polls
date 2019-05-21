@@ -11,6 +11,17 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.2% | 8.1–13.6% | 7.8–14.2% | 7.5–14.8% | 6.8–15.8% |
+| [17–20 May 2019](2019-05-20-GAD3.html) | GAD3 <br> ABC | 6.8% | 5.9–7.9% | 5.6–8.3% | 5.4–8.5% | 5.0–9.1% |
+| [29 April–19 May 2019](2019-05-19-electoPanel.html) | electoPanel <br> electomania.es | 8.2% | 7.7–8.6% | 7.7–8.8% | 7.5–8.9% | 7.4–9.1% |
+| [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es | 8.3% | N/A | N/A | N/A | N/A |
+| [29 April–16 May 2019](2019-05-16-electoPanel.html) | electoPanel <br> electomania.es | 8.8% | N/A | N/A | N/A | N/A |
+| [16 May 2019](2019-05-16-KeyData.html) | Key Data <br> Público | 9.8% | N/A | N/A | N/A | N/A |
+| [10–15 May 2019](2019-05-15-DYM.html) | DYM <br> El Independiente | 8.0% | N/A | N/A | N/A | N/A |
+| [29 April–14 May 2019](2019-05-14-electoPanel.html) | electoPanel <br> electomania.es | 9.6% | N/A | N/A | N/A | N/A |
+| [9–14 May 2019](2019-05-14-Metroscopia.html) | Metroscopia <br> Henneo | 7.7% | N/A | N/A | N/A | N/A |
+| [29 April–12 May 2019](2019-05-12-electoPanel.html) | electoPanel <br> electomania.es | 10.0% | N/A | N/A | N/A | N/A |
+| [29 April–10 May 2019](2019-05-10-electoPanel.html) | electoPanel <br> electomania.es | 10.2% | N/A | N/A | N/A | N/A |
+| [6–10 May 2019](2019-05-10-40dB.html) | 40dB <br> El País | 8.4% | N/A | N/A | N/A | N/A |
 | [29 April–8 May 2019](2019-05-08-electoPanel.html) | electoPanel <br> electomania.es | 10.4% | 8.8–12.3% | 8.4–12.9% | 8.0–13.4% | 7.3–14.4% |
 | [29 April–6 May 2019](2019-05-06-electoPanel.html) | electoPanel <br> electomania.es | 10.4% | 8.8–12.3% | 8.4–12.9% | 8.0–13.4% | 7.3–14.4% |
 | [29 April–4 May 2019](2019-05-04-electoPanel.html) | electoPanel <br> electomania.es | 9.8% | 8.3–11.7% | 7.8–12.3% | 7.5–12.7% | 6.8–13.7% |
@@ -243,6 +254,17 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 4–7 | 4–8 | 4–8 | 3–9 |
+| [17–20 May 2019](2019-05-20-GAD3.html) | GAD3 <br> ABC | 4 | 3–5 | 2–5 | 2–5 | 2–5 |
+| [29 April–19 May 2019](2019-05-19-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [29 April–16 May 2019](2019-05-16-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [16 May 2019](2019-05-16-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [10–15 May 2019](2019-05-15-DYM.html) | DYM <br> El Independiente |  |  |  |  |  |
+| [29 April–14 May 2019](2019-05-14-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [9–14 May 2019](2019-05-14-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
+| [29 April–12 May 2019](2019-05-12-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [29 April–10 May 2019](2019-05-10-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [6–10 May 2019](2019-05-10-40dB.html) | 40dB <br> El País |  |  |  |  |  |
 | [29 April–8 May 2019](2019-05-08-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [29 April–6 May 2019](2019-05-06-electoPanel.html) | electoPanel <br> electomania.es | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
 | [29 April–4 May 2019](2019-05-04-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
