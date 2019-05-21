@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 19 May 2019 20:37:00 +0200</pubDate>
+    <pubDate>Tue, 21 May 2019 20:30:24 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by GAD3 for ABC, 17–20 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-20-GAD3.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.3–22.3%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 30.1–35.9%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 8.8–12.7%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 11.5–15.8%&lt;/li&gt;&lt;li&gt;Vox (EAPN): 5.4–8.5%&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 5.2–8.3%&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 2.5–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-20-GAD3.png"
+        length="228045"
+        type="image/png"/>
+      <pubDate>Tue, 21 May 2019 20:30:24 +0200</pubDate>
+      <dc:date>2019-05-21T20:30:24.367875+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 29 April–8 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-08-electoPanel.html#seats</link>
@@ -1569,6 +1579,6 @@
       <pubDate>Wed, 08 May 2019 06:48:06 +0200</pubDate>
       <dc:date>2019-05-08T06:48:06.019133+02:00</dc:date>
     </item>
-    <dc:date>2019-05-19T20:37:00.891893+02:00</dc:date>
+    <dc:date>2019-05-21T20:30:24.367875+02:00</dc:date>
   </channel>
 </rss>
