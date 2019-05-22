@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-05-19T20:37:00.891893+02:00</updated>
+  <updated>2019-05-22T20:20:16.136694+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 17.3–22.3%, 9–12 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 30.1–35.9%, 17–20 seats</li><li>Unidos Podemos (GUE/NGL): 8.8–12.7%, 5–7 seats</li><li>Ciudadanos–Partido de la Ciudadanía (ALDE): 11.5–15.8%, 6–9 seats</li><li>Vox (EAPN): 5.4–8.5%, 3–4 seats</li><li>Coalición por Europa (ALDE): 5.2–8.3%, 3–4 seats</li><li>Ahora Repúblicas (Greens/EFA): 2.5–4.8%, 1–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-20-GAD3.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-20-GAD3.html"/>
+    <title>Opinion Poll by GAD3 for ABC, 17–20 May 2019</title>
+    <updated>2019-05-22T19:30:00.505389+02:00</updated>
+    <dc:date>2019-05-22T19:30:00.505389+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 15.9–17.6%, 9–10 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 27.2–29.2%, 15–17 seats</li><li>Unidos Podemos (GUE/NGL): 12.1–13.6%, 7–8 seats</li><li>Ciudadanos–Partido de la Ciudadanía (ALDE): 16.0–17.7%, 9–10 seats</li><li>Partido Animalista Contra el Maltrato Animal (GUE/NGL): 1.5–2.1%, 0–1 seats</li><li>Vox (EAPN): 7.6–8.8%, 4–5 seats</li><li>Coalición por Europa (ALDE): 5.1–6.2%, 3 seats</li><li>Ahora Repúblicas (Greens/EFA): 4.4–5.4%, 2–3 seats</li><li>Primavera Europea (Greens/EFA): 1.0–1.5%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-19-electoPanel.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-19-electoPanel.html"/>
+    <title>Opinion Poll by electoPanel for electomania.es, 29 April–19 May 2019</title>
+    <updated>2019-05-22T20:20:16.136694+02:00</updated>
+    <dc:date>2019-05-22T20:20:16.136694+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 12.1–18.4%, 7–10 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 19.5–26.9%, 11–15 seats</li><li>Unidos Podemos (GUE/NGL): 11.4–17.5%, 6–10 seats</li><li>Ciudadanos–Partido de la Ciudadanía (ALDE): 15.2–22.0%, 8–12 seats</li><li>Partido Animalista Contra el Maltrato Animal (GUE/NGL): 1.5–4.4%, 0–2 seats</li><li>Vox (EAPN): 8.0–13.4%, 4–7 seats</li><li>Coalición por Europa (ALDE): 3.6–7.5%, 2–4 seats</li><li>Ahora Repúblicas (Greens/EFA): 4.1–8.2%, 2–4 seats</li><li>Primavera Europea (Greens/EFA): 0.8–3.1%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-08-electoPanel.html</id>
@@ -359,5 +375,5 @@
     <updated>2019-05-01T09:09:41.551416+02:00</updated>
     <dc:date>2019-05-01T09:09:41.551416+02:00</dc:date>
   </entry>
-  <dc:date>2019-05-19T20:37:00.891893+02:00</dc:date>
+  <dc:date>2019-05-22T20:20:16.136694+02:00</dc:date>
 </feed>
