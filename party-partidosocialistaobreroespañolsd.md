@@ -12,8 +12,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29.3% | 27.2–31.4% | 26.6–31.8% | 26.1–32.2% | 25.2–33.2% |
 | [17–20 May 2019](2019-05-20-GAD3.html) | GAD3 <br> ABC | 32.9% | 31.0–34.9% | 30.5–35.4% | 30.1–35.9% | 29.2–36.8% |
-| [29 April–19 May 2019](2019-05-19-electoPanel.html) | electoPanel <br> electomania.es | 28.2% | 27.4–28.9% | 27.3–29.1% | 27.2–29.2% | 26.9–29.6% |
-| [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es | 26.8% | N/A | N/A | N/A | N/A |
+| [29 April–19 May 2019](2019-05-19-electoPanel.html) | electoPanel <br> electomania.es | 28.2% | 27.5–28.9% | 27.4–29.1% | 27.2–29.2% | 26.9–29.5% |
+| [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es | 26.8% | 26.0–27.6% | 25.8–27.8% | 25.6–28.1% | 25.2–28.4% |
 | [29 April–16 May 2019](2019-05-16-electoPanel.html) | electoPanel <br> electomania.es | 25.8% | N/A | N/A | N/A | N/A |
 | [16 May 2019](2019-05-16-KeyData.html) | Key Data <br> Público | 28.8% | N/A | N/A | N/A | N/A |
 | [10–15 May 2019](2019-05-15-DYM.html) | DYM <br> El Independiente | 30.0% | N/A | N/A | N/A | N/A |
@@ -273,8 +273,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [17–20 May 2019](2019-05-20-GAD3.html) | GAD3 <br> ABC | 18 | 17–22 | 17–22 | 17–22 | 16–22 |
-| [29 April–19 May 2019](2019-05-19-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [29 April–19 May 2019](2019-05-19-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16 | 16 | 16 | 16–17 |
+| [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15 | 15 | 15 | 15 |
 | [29 April–16 May 2019](2019-05-16-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [16 May 2019](2019-05-16-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [10–15 May 2019](2019-05-15-DYM.html) | DYM <br> El Independiente |  |  |  |  |  |
