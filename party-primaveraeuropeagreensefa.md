@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [17–20 May 2019](2019-05-20-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
 | [29 April–19 May 2019](2019-05-19-electoPanel.html) | electoPanel <br> electomania.es | 1.2% | 1.0–1.4% | 1.0–1.4% | 1.0–1.5% | 0.9–1.6% |
 | [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.1–1.5% | 1.1–1.6% | 1.0–1.7% | 0.9–1.8% |
-| [29 April–16 May 2019](2019-05-16-electoPanel.html) | electoPanel <br> electomania.es | 1.6% | N/A | N/A | N/A | N/A |
+| [29 April–16 May 2019](2019-05-16-electoPanel.html) | electoPanel <br> electomania.es | 1.6% | 1.1–2.6% | 0.9–2.9% | 0.8–3.1% | 0.6–3.7% |
 | [16 May 2019](2019-05-16-KeyData.html) | Key Data <br> Público | 1.6% | 1.1–2.6% | 0.9–2.9% | 0.8–3.1% | 0.6–3.7% |
 | [10–15 May 2019](2019-05-15-DYM.html) | DYM <br> El Independiente | 0.0% | N/A | N/A | N/A | N/A |
 | [29 April–14 May 2019](2019-05-14-electoPanel.html) | electoPanel <br> electomania.es | 1.4% | N/A | N/A | N/A | N/A |
@@ -243,7 +243,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [17–20 May 2019](2019-05-20-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [29 April–19 May 2019](2019-05-19-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
 | [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
-| [29 April–16 May 2019](2019-05-16-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [29 April–16 May 2019](2019-05-16-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [16 May 2019](2019-05-16-KeyData.html) | Key Data <br> Público | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [10–15 May 2019](2019-05-15-DYM.html) | DYM <br> El Independiente |  |  |  |  |  |
 | [29 April–14 May 2019](2019-05-14-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
