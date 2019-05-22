@@ -15,7 +15,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [29 April–19 May 2019](2019-05-19-electoPanel.html) | electoPanel <br> electomania.es | 28.2% | 27.5–28.9% | 27.4–29.1% | 27.2–29.2% | 26.9–29.5% |
 | [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es | 26.8% | 26.0–27.6% | 25.8–27.8% | 25.6–28.1% | 25.2–28.4% |
 | [29 April–16 May 2019](2019-05-16-electoPanel.html) | electoPanel <br> electomania.es | 25.8% | N/A | N/A | N/A | N/A |
-| [16 May 2019](2019-05-16-KeyData.html) | Key Data <br> Público | 28.8% | N/A | N/A | N/A | N/A |
+| [16 May 2019](2019-05-16-KeyData.html) | Key Data <br> Público | 28.8% | 26.3–31.5% | 25.6–32.3% | 25.0–32.9% | 23.8–34.2% |
 | [10–15 May 2019](2019-05-15-DYM.html) | DYM <br> El Independiente | 30.0% | N/A | N/A | N/A | N/A |
 | [29 April–14 May 2019](2019-05-14-electoPanel.html) | electoPanel <br> electomania.es | 24.8% | N/A | N/A | N/A | N/A |
 | [9–14 May 2019](2019-05-14-Metroscopia.html) | Metroscopia <br> Henneo | 30.8% | N/A | N/A | N/A | N/A |
@@ -272,11 +272,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [17–20 May 2019](2019-05-20-GAD3.html) | GAD3 <br> ABC | 18 | 17–22 | 17–22 | 17–22 | 16–22 |
-| [29 April–19 May 2019](2019-05-19-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16 | 16 | 16 | 16–17 |
+| [17–20 May 2019](2019-05-20-GAD3.html) | GAD3 <br> ABC | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
+| [29 April–19 May 2019](2019-05-19-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–17 | 15–17 | 15–17 |
 | [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15 | 15 | 15 | 15 |
 | [29 April–16 May 2019](2019-05-16-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [16 May 2019](2019-05-16-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [16 May 2019](2019-05-16-KeyData.html) | Key Data <br> Público | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
 | [10–15 May 2019](2019-05-15-DYM.html) | DYM <br> El Independiente |  |  |  |  |  |
 | [29 April–14 May 2019](2019-05-14-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [9–14 May 2019](2019-05-14-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
