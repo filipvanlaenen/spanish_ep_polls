@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.6% | 13.3–16.1% | 12.8–16.6% | 12.4–17.0% | 11.6–17.8% |
+| N/A | [Poll Average](average.html) | 15.9% | 13.6–17.3% | 12.9–17.7% | 12.4–18.2% | 11.6–19.3% |
 | [17–20 May 2019](2019-05-20-GAD3.html) | GAD3 <br> ABC | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
 | [29 April–19 May 2019](2019-05-19-electoPanel.html) | electoPanel <br> electomania.es | 16.8% | 16.3–17.4% | 16.1–17.5% | 16.0–17.7% | 15.7–17.9% |
 | [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es | 16.9% | 16.2–17.6% | 16.0–17.8% | 15.9–18.0% | 15.6–18.3% |
@@ -237,14 +237,16 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.5% | 100% |  |
 | 11.5–12.5% | 3% | 99.5% |  |
-| 12.5–13.5% | 12% | 97% |  |
-| 13.5–14.5% | 32% | 85% |  |
-| 14.5–15.5% | 33% | 52% | Median |
-| 15.5–16.5% | 14% | 20% |  |
-| 16.5–17.5% | 4% | 5% |  |
-| 17.5–18.5% | 0.8% | 0.9% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
-| 19.5–20.5% | 0% | 0% |  |
+| 12.5–13.5% | 7% | 97% |  |
+| 13.5–14.5% | 11% | 90% |  |
+| 14.5–15.5% | 20% | 79% |  |
+| 15.5–16.5% | 28% | 59% | Median |
+| 16.5–17.5% | 25% | 31% |  |
+| 17.5–18.5% | 5% | 7% |  |
+| 18.5–19.5% | 1.1% | 1.4% |  |
+| 19.5–20.5% | 0.2% | 0.3% |  |
+| 20.5–21.5% | 0.1% | 0.1% |  |
+| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -255,7 +257,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| N/A | [Poll Average](average.html) | 9 | 7–10 | 7–10 | 7–10 | 6–11 |
 | [17–20 May 2019](2019-05-20-GAD3.html) | GAD3 <br> ABC | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [29 April–19 May 2019](2019-05-19-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10 | 10 | 10 | 10 |
@@ -478,10 +480,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
-| 7 | 22% | 98% |  |
-| 8 | 55% | 77% | Median |
-| 9 | 19% | 21% |  |
-| 10 | 2% | 2% |  |
-| 11 | 0% | 0% |  |
+| 7 | 11% | 98% |  |
+| 8 | 30% | 87% |  |
+| 9 | 44% | 58% | Median |
+| 10 | 13% | 14% |  |
+| 11 | 0.9% | 0.9% |  |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 
