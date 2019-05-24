@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 24 May 2019 20:16:58 +0200</pubDate>
+    <pubDate>Fri, 24 May 2019 21:08:14 +0200</pubDate>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 29 April–21 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-21-electoPanel.html</link>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-18-electoPanel.png"
         length="247846"
         type="image/png"/>
-      <pubDate>Tue, 21 May 2019 22:54:54 +0200</pubDate>
-      <dc:date>2019-05-21T22:54:54.220807+02:00</dc:date>
+      <pubDate>Fri, 24 May 2019 21:08:14 +0200</pubDate>
+      <dc:date>2019-05-24T21:08:14.634624+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 29 April–16 May 2019 – Voting Intentions</title>
@@ -1789,6 +1789,6 @@
       <pubDate>Wed, 08 May 2019 06:48:06 +0200</pubDate>
       <dc:date>2019-05-08T06:48:06.019133+02:00</dc:date>
     </item>
-    <dc:date>2019-05-24T20:16:58.790974+02:00</dc:date>
+    <dc:date>2019-05-24T21:08:14.634624+02:00</dc:date>
   </channel>
 </rss>
