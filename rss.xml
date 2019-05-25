@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 25 May 2019 01:55:36 +0200</pubDate>
+    <pubDate>Sat, 25 May 2019 05:26:03 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 29 April–21 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-21-electoPanel.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 9–10 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 16–17 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 6–7 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 9–10 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Vox (EAPN): 4–5 seats&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Primavera Europea (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-21-electoPanel-seats.png"
+        length="175762"
+        type="image/png"/>
+      <pubDate>Sat, 25 May 2019 05:26:03 +0200</pubDate>
+      <dc:date>2019-05-25T05:26:03.35094+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 29 April–21 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-21-electoPanel.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-21-electoPanel-coalitions-seats.png"
+        length="103947"
+        type="image/png"/>
+      <pubDate>Sat, 25 May 2019 05:26:03 +0200</pubDate>
+      <dc:date>2019-05-25T05:26:03.35094+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 29 April–21 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-21-electoPanel.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-21-electoPanel.png"
         length="235416"
         type="image/png"/>
-      <pubDate>Sat, 25 May 2019 01:55:36 +0200</pubDate>
-      <dc:date>2019-05-25T01:55:36.238318+02:00</dc:date>
+      <pubDate>Sat, 25 May 2019 05:26:03 +0200</pubDate>
+      <dc:date>2019-05-25T05:26:03.35094+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 29 April–20 May 2019 – Voting Intentions</title>
@@ -1789,6 +1809,6 @@
       <pubDate>Wed, 08 May 2019 06:48:06 +0200</pubDate>
       <dc:date>2019-05-08T06:48:06.019133+02:00</dc:date>
     </item>
-    <dc:date>2019-05-25T01:55:36.238318+02:00</dc:date>
+    <dc:date>2019-05-25T05:26:03.35094+02:00</dc:date>
   </channel>
 </rss>
