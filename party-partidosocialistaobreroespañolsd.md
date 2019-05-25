@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29.7% | 27.7–32.9% | 27.2–33.8% | 26.6–34.5% | 25.1–35.8% |
+| [29 April–23 May 2019](2019-05-23-electoPanel.html) | electoPanel <br> electomania.es | 28.4% | 27.7–29.1% | 27.6–29.3% | 27.4–29.4% | 27.1–29.8% |
+| [29 April–22 May 2019](2019-05-22-electoPanel.html) | electoPanel <br> electomania.es | 28.3% | 27.6–29.0% | 27.5–29.2% | 27.3–29.3% | 27.0–29.6% |
 | [29 April–21 May 2019](2019-05-21-electoPanel.html) | electoPanel <br> electomania.es | 28.4% | 27.7–29.1% | 27.6–29.3% | 27.4–29.4% | 27.1–29.8% |
 | [29 April–20 May 2019](2019-05-20-electoPanel.html) | electoPanel <br> electomania.es | 28.4% | 27.7–29.1% | 27.6–29.3% | 27.4–29.4% | 27.1–29.8% |
 | [17–20 May 2019](2019-05-20-GAD3.html) | GAD3 <br> ABC | 32.9% | 31.0–34.9% | 30.5–35.4% | 30.1–35.9% | 29.2–36.8% |
@@ -276,11 +278,13 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
+| [29 April–23 May 2019](2019-05-23-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–17 | 16–17 | 16–17 |
+| [29 April–22 May 2019](2019-05-22-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–17 | 15–17 | 15–17 |
 | [29 April–21 May 2019](2019-05-21-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–17 | 16–17 | 15–17 |
-| [29 April–20 May 2019](2019-05-20-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–17 | 15–17 | 15–17 | 15–17 |
+| [29 April–20 May 2019](2019-05-20-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–17 | 16–17 | 15–17 |
 | [17–20 May 2019](2019-05-20-GAD3.html) | GAD3 <br> ABC | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [29 April–19 May 2019](2019-05-19-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–17 | 15–17 | 15–17 |
-| [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15 | 15 | 15 | 15 |
+| [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–16 | 15–16 | 15–16 | 15–16 |
 | [29 April–16 May 2019](2019-05-16-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–18 | 13–18 | 13–18 | 12–18 |
 | [16 May 2019](2019-05-16-KeyData.html) | Key Data <br> Público | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
 | [10–15 May 2019](2019-05-15-DYM.html) | DYM <br> El Independiente | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
