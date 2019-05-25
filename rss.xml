@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 25 May 2019 05:26:03 +0200</pubDate>
+    <pubDate>Sat, 25 May 2019 15:40:03 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 29 April–23 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-23-electoPanel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 16.0–17.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 27.4–29.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.6–13.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 16.3–18.0%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 1.2–1.8%&lt;/li&gt;&lt;li&gt;Vox (EAPN): 7.8–9.1%&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 5.4–6.5%&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 4.7–5.7%&lt;/li&gt;&lt;li&gt;Primavera Europea (Greens/EFA): 1.2–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-23-electoPanel.png"
+        length="237806"
+        type="image/png"/>
+      <pubDate>Sat, 25 May 2019 14:38:32 +0200</pubDate>
+      <dc:date>2019-05-25T14:38:32.535875+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 29 April–22 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-22-electoPanel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 16.1–17.8%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 27.3–29.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.7–13.2%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (ALDE): 16.2–17.9%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 1.2–1.8%&lt;/li&gt;&lt;li&gt;Vox (EAPN): 7.7–8.9%&lt;/li&gt;&lt;li&gt;Coalición por Europa (ALDE): 5.1–6.2%&lt;/li&gt;&lt;li&gt;Ahora Repúblicas (Greens/EFA): 4.7–5.7%&lt;/li&gt;&lt;li&gt;Primavera Europea (Greens/EFA): 1.1–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-22-electoPanel.png"
+        length="236655"
+        type="image/png"/>
+      <pubDate>Sat, 25 May 2019 15:02:01 +0200</pubDate>
+      <dc:date>2019-05-25T15:02:01.258241+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 29 April–21 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-21-electoPanel.html#seats</link>
@@ -46,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-20-electoPanel.png"
         length="237094"
         type="image/png"/>
-      <pubDate>Fri, 24 May 2019 20:16:58 +0200</pubDate>
-      <dc:date>2019-05-24T20:16:58.790974+02:00</dc:date>
+      <pubDate>Sat, 25 May 2019 15:40:03 +0200</pubDate>
+      <dc:date>2019-05-25T15:40:03.824915+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 17–20 May 2019 – Seat Projections for the Parties</title>
@@ -116,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-18-electoPanel.png"
         length="247846"
         type="image/png"/>
-      <pubDate>Fri, 24 May 2019 21:08:14 +0200</pubDate>
-      <dc:date>2019-05-24T21:08:14.634624+02:00</dc:date>
+      <pubDate>Sat, 25 May 2019 15:32:42 +0200</pubDate>
+      <dc:date>2019-05-25T15:32:42.01283+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 29 April–16 May 2019 – Voting Intentions</title>
@@ -1809,6 +1829,6 @@
       <pubDate>Wed, 08 May 2019 06:48:06 +0200</pubDate>
       <dc:date>2019-05-08T06:48:06.019133+02:00</dc:date>
     </item>
-    <dc:date>2019-05-25T05:26:03.35094+02:00</dc:date>
+    <dc:date>2019-05-25T15:40:03.824915+02:00</dc:date>
   </channel>
 </rss>
