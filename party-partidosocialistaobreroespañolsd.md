@@ -284,7 +284,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [29 April–20 May 2019](2019-05-20-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–17 | 16–17 | 15–17 |
 | [17–20 May 2019](2019-05-20-GAD3.html) | GAD3 <br> ABC | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [29 April–19 May 2019](2019-05-19-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–17 | 15–17 | 15–17 |
-| [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–16 | 15–16 | 15–16 | 15–16 |
+| [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–16 | 15–16 | 15–16 | 14–16 |
 | [29 April–16 May 2019](2019-05-16-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–18 | 13–18 | 13–18 | 12–18 |
 | [16 May 2019](2019-05-16-KeyData.html) | Key Data <br> Público | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
 | [10–15 May 2019](2019-05-15-DYM.html) | DYM <br> El Independiente | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
@@ -514,7 +514,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.9% | 99.9% |  |
 | 15 | 8% | 99.0% |  |
 | 16 | 31% | 91% |  |
-| 17 | 32% | 60% | Median |
+| 17 | 32% | 61% | Median |
 | 18 | 18% | 28% |  |
 | 19 | 8% | 10% |  |
 | 20 | 2% | 2% |  |

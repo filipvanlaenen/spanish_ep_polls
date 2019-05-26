@@ -251,7 +251,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | [29 April–23 May 2019](2019-05-23-electoPanel.html) | electoPanel <br> electomania.es | 3 | 3 | 3 | 3 | 3 |
-| [29 April–22 May 2019](2019-05-22-electoPanel.html) | electoPanel <br> electomania.es | 3 | 3 | 3 | 2–3 | 2–3 |
+| [29 April–22 May 2019](2019-05-22-electoPanel.html) | electoPanel <br> electomania.es | 3 | 3 | 3 | 3 | 2–3 |
 | [29 April–21 May 2019](2019-05-21-electoPanel.html) | electoPanel <br> electomania.es | 3 | 3 | 3 | 2–3 | 2–3 |
 | [29 April–20 May 2019](2019-05-20-electoPanel.html) | electoPanel <br> electomania.es | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [17–20 May 2019](2019-05-20-GAD3.html) | GAD3 <br> ABC | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
