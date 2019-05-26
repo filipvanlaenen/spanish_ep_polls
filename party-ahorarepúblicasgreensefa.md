@@ -21,10 +21,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [29 April–16 May 2019](2019-05-16-electoPanel.html) | electoPanel <br> electomania.es | 5.4% | 4.3–6.9% | 4.0–7.4% | 3.7–7.8% | 3.3–8.6% |
 | [16 May 2019](2019-05-16-KeyData.html) | Key Data <br> Público | 5.0% | 3.9–6.5% | 3.7–6.9% | 3.4–7.3% | 3.0–8.1% |
 | [10–15 May 2019](2019-05-15-DYM.html) | DYM <br> El Independiente | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
-| [29 April–14 May 2019](2019-05-14-electoPanel.html) | electoPanel <br> electomania.es | 5.6% | N/A | N/A | N/A | N/A |
+| [29 April–14 May 2019](2019-05-14-electoPanel.html) | electoPanel <br> electomania.es | 5.6% | 4.5–7.1% | 4.2–7.6% | 3.9–8.0% | 3.4–8.8% |
 | [9–14 May 2019](2019-05-14-Metroscopia.html) | Metroscopia <br> Henneo | 3.8% | 3.3–4.5% | 3.1–4.7% | 3.0–4.8% | 2.8–5.2% |
-| [29 April–12 May 2019](2019-05-12-electoPanel.html) | electoPanel <br> electomania.es | 5.6% | N/A | N/A | N/A | N/A |
-| [29 April–10 May 2019](2019-05-10-electoPanel.html) | electoPanel <br> electomania.es | 5.4% | N/A | N/A | N/A | N/A |
+| [29 April–12 May 2019](2019-05-12-electoPanel.html) | electoPanel <br> electomania.es | 5.6% | 4.5–7.1% | 4.2–7.6% | 3.9–8.0% | 3.4–8.8% |
+| [29 April–10 May 2019](2019-05-10-electoPanel.html) | electoPanel <br> electomania.es | 5.4% | 4.3–6.9% | 4.0–7.4% | 3.7–7.8% | 3.3–8.6% |
 | [6–10 May 2019](2019-05-10-40dB.html) | 40dB <br> El País | 5.5% | 4.8–6.4% | 4.6–6.6% | 4.5–6.8% | 4.2–7.2% |
 | [29 April–8 May 2019](2019-05-08-electoPanel.html) | electoPanel <br> electomania.es | 5.8% | 4.6–7.4% | 4.3–7.8% | 4.1–8.2% | 3.6–9.0% |
 | [29 April–6 May 2019](2019-05-06-electoPanel.html) | electoPanel <br> electomania.es | 6.0% | 4.8–7.6% | 4.5–8.0% | 4.2–8.4% | 3.7–9.3% |
@@ -260,10 +260,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [29 April–16 May 2019](2019-05-16-electoPanel.html) | electoPanel <br> electomania.es | 3 | 2–3 | 2–3 | 2–3 | 2–6 |
 | [16 May 2019](2019-05-16-KeyData.html) | Key Data <br> Público | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
 | [10–15 May 2019](2019-05-15-DYM.html) | DYM <br> El Independiente | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [29 April–14 May 2019](2019-05-14-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [29 April–14 May 2019](2019-05-14-electoPanel.html) | electoPanel <br> electomania.es | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–14 May 2019](2019-05-14-Metroscopia.html) | Metroscopia <br> Henneo | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [29 April–12 May 2019](2019-05-12-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [29 April–10 May 2019](2019-05-10-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [29 April–12 May 2019](2019-05-12-electoPanel.html) | electoPanel <br> electomania.es | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
+| [29 April–10 May 2019](2019-05-10-electoPanel.html) | electoPanel <br> electomania.es | 3 | 3 | 3 | 3 | 1–5 |
 | [6–10 May 2019](2019-05-10-40dB.html) | 40dB <br> El País | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [29 April–8 May 2019](2019-05-08-electoPanel.html) | electoPanel <br> electomania.es | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [29 April–6 May 2019](2019-05-06-electoPanel.html) | electoPanel <br> electomania.es | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
