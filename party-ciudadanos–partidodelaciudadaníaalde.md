@@ -265,10 +265,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [29 April–23 May 2019](2019-05-23-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [29 April–22 May 2019](2019-05-22-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [29 April–21 May 2019](2019-05-21-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
-| [29 April–20 May 2019](2019-05-20-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
+| [29 April–20 May 2019](2019-05-20-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [17–20 May 2019](2019-05-20-GAD3.html) | GAD3 <br> ABC | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [29 April–19 May 2019](2019-05-19-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
-| [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
+| [29 April–18 May 2019](2019-05-18-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [29 April–16 May 2019](2019-05-16-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–10 | 8–10 | 8–13 | 8–13 |
 | [16 May 2019](2019-05-16-KeyData.html) | Key Data <br> Público | 9 | 8–10 | 7–10 | 7–11 | 6–11 |
 | [10–15 May 2019](2019-05-15-DYM.html) | DYM <br> El Independiente | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
