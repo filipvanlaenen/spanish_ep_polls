@@ -254,7 +254,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0.1% | 100% |  |
 | 7 | 9% | 99.9% |  |
 | 8 | 55% | 91% | Median |
-| 9 | 34% | 36% |  |
+| 9 | 33% | 36% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0% | 0% |  |
 
@@ -282,11 +282,11 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.3% | 100% |  |
-| 17 | 9% | 99.7% |  |
-| 18 | 36% | 91% |  |
-| 19 | 41% | 54% | Median |
-| 20 | 13% | 13% |  |
+| 16 | 0.4% | 100% |  |
+| 17 | 8% | 99.6% |  |
+| 18 | 37% | 91% |  |
+| 19 | 42% | 55% | Median |
+| 20 | 12% | 12% |  |
 | 21 | 0.9% | 1.0% |  |
 | 22 | 0% | 0% |  |
 
@@ -305,8 +305,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0.1% | 100% |  |
 | 6 | 14% | 99.9% |  |
-| 7 | 60% | 86% | Median |
-| 8 | 25% | 26% |  |
+| 7 | 61% | 86% | Median |
+| 8 | 24% | 25% |  |
 | 9 | 0.9% | 0.9% |  |
 | 10 | 0% | 0% |  |
 
@@ -326,9 +326,9 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0.2% | 100% |  |
 | 7 | 15% | 99.8% |  |
-| 8 | 61% | 85% | Median |
-| 9 | 22% | 24% |  |
-| 10 | 1.2% | 1.2% |  |
+| 8 | 60% | 85% | Median |
+| 9 | 24% | 25% |  |
+| 10 | 1.1% | 1.1% |  |
 | 11 | 0% | 0% |  |
 
 ### Vox (EAPN)
@@ -343,9 +343,9 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 3% | 100% |  |
-| 4 | 63% | 97% | Median |
-| 5 | 33% | 34% |  |
-| 6 | 0.9% | 0.9% |  |
+| 4 | 62% | 97% | Median |
+| 5 | 34% | 34% |  |
+| 6 | 0.7% | 0.7% |  |
 | 7 | 0% | 0% |  |
 
 
@@ -385,11 +385,11 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.3% | 100% |  |
-| 17 | 9% | 99.7% |  |
-| 18 | 36% | 91% |  |
-| 19 | 41% | 54% | Median |
-| 20 | 13% | 13% |  |
+| 16 | 0.4% | 100% |  |
+| 17 | 8% | 99.6% |  |
+| 18 | 37% | 91% |  |
+| 19 | 42% | 55% | Median |
+| 20 | 12% | 12% |  |
 | 21 | 0.9% | 1.0% |  |
 | 22 | 0% | 0% |  |
 
@@ -407,9 +407,9 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0.2% | 100% |  |
 | 7 | 15% | 99.8% |  |
-| 8 | 61% | 85% | Median |
-| 9 | 22% | 24% |  |
-| 10 | 1.2% | 1.2% |  |
+| 8 | 60% | 85% | Median |
+| 9 | 24% | 25% |  |
+| 10 | 1.1% | 1.1% |  |
 | 11 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
@@ -427,7 +427,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0.1% | 100% |  |
 | 7 | 9% | 99.9% |  |
 | 8 | 55% | 91% | Median |
-| 9 | 34% | 36% |  |
+| 9 | 33% | 36% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0% | 0% |  |
 
@@ -444,8 +444,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0.1% | 100% |  |
 | 6 | 14% | 99.9% |  |
-| 7 | 60% | 86% | Median |
-| 8 | 25% | 26% |  |
+| 7 | 61% | 86% | Median |
+| 8 | 24% | 25% |  |
 | 9 | 0.9% | 0.9% |  |
 | 10 | 0% | 0% |  |
 
@@ -459,15 +459,15 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 3% | 100% |  |
-| 4 | 63% | 97% | Median |
-| 5 | 33% | 34% |  |
-| 6 | 0.9% | 0.9% |  |
+| 4 | 62% | 97% | Median |
+| 5 | 34% | 34% |  |
+| 6 | 0.7% | 0.7% |  |
 | 7 | 0% | 0% |  |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 1
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 131,072
-+ **Error estimate:** 0.94%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 1,048,576
++ **Error estimate:** 0.09%

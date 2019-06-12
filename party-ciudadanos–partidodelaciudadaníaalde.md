@@ -69,9 +69,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0.2% | 100% |  |
 | 7 | 15% | 99.8% |  |
-| 8 | 61% | 85% | Median |
-| 9 | 22% | 24% |  |
-| 10 | 1.2% | 1.2% |  |
+| 8 | 60% | 85% | Median |
+| 9 | 24% | 25% |  |
+| 10 | 1.1% | 1.1% |  |
 | 11 | 0% | 0% |  |
 
 
