@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.6% | 31.9–35.4% | 31.4–35.9% | 31.0–36.3% | 30.2–37.2% |
+| N/A | [Poll Average](average.html) | 35.9% | 34.2–37.7% | 33.7–38.2% | 33.2–38.7% | 32.4–39.5% |
+| [17–21 June 2019](2019-06-21-Invymark.html) | Invymark <br> laSexta | 35.9% | 34.2–37.7% | 33.7–38.2% | 33.2–38.7% | 32.4–39.6% |
+| [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 32.0% | N/A | N/A | N/A | N/A |
+| [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 30.6% | N/A | N/A | N/A | N/A |
+| [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 30.4% | N/A | N/A | N/A | N/A |
 | [27–31 May 2019](2019-05-31-Invymark.html) | Invymark <br> laSexta | 33.6% | 31.9–35.4% | 31.4–35.9% | 31.0–36.3% | 30.1–37.2% |
 
 ### Probability Mass Function
@@ -48,17 +52,20 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0% | 100% |  |
-| 28.5–29.5% | 0.1% | 100% |  |
-| 29.5–30.5% | 1.0% | 99.9% |  |
-| 30.5–31.5% | 5% | 98.9% |  |
-| 31.5–32.5% | 16% | 94% |  |
-| 32.5–33.5% | 26% | 78% |  |
-| 33.5–34.5% | 27% | 52% | Median |
-| 34.5–35.5% | 16% | 24% |  |
-| 35.5–36.5% | 6% | 8% |  |
-| 36.5–37.5% | 1.4% | 2% |  |
-| 37.5–38.5% | 0.2% | 0.2% |  |
-| 38.5–39.5% | 0% | 0% |  |
+| 28.5–29.5% | 0% | 100% |  |
+| 29.5–30.5% | 0% | 100% |  |
+| 30.5–31.5% | 0.1% | 100% |  |
+| 31.5–32.5% | 0.6% | 99.9% |  |
+| 32.5–33.5% | 3% | 99.3% |  |
+| 33.5–34.5% | 12% | 96% |  |
+| 34.5–35.5% | 23% | 84% |  |
+| 35.5–36.5% | 28% | 61% | Median |
+| 36.5–37.5% | 21% | 33% |  |
+| 37.5–38.5% | 9% | 12% |  |
+| 38.5–39.5% | 3% | 3% |  |
+| 39.5–40.5% | 0.4% | 0.5% |  |
+| 40.5–41.5% | 0% | 0.1% |  |
+| 41.5–42.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -69,7 +76,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
+| N/A | [Poll Average](average.html) | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
+| [17–21 June 2019](2019-06-21-Invymark.html) | Invymark <br> laSexta | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
+| [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
+| [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
+| [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario |  |  |  |  |  |
 | [27–31 May 2019](2019-05-31-Invymark.html) | Invymark <br> laSexta | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
 
 ### Probability Mass Function
@@ -96,12 +107,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.4% | 100% |  |
-| 17 | 8% | 99.6% |  |
-| 18 | 37% | 91% |  |
-| 19 | 42% | 55% | Median |
-| 20 | 12% | 12% |  |
-| 21 | 0.9% | 1.0% |  |
-| 22 | 0% | 0% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0.1% | 100% |  |
+| 18 | 4% | 99.9% |  |
+| 19 | 26% | 96% |  |
+| 20 | 46% | 70% | Median |
+| 21 | 21% | 24% |  |
+| 22 | 3% | 3% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 
