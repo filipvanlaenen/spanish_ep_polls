@@ -1,42 +1,42 @@
-# Opinion Poll by Invymark for laSexta, 17–21 June 2019
+# Opinion Poll by Demoscopia y Servicios for ESDiario, 4–7 June 2019
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](2019-06-21-Invymark.png "Voting Intentions")
+![Graph with voting intentions not yet produced](2019-06-07-DemoscopiayServicios.png "Voting Intentions")
 
 ### Confidence Intervals
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0.0% | 35.9% | 34.2–37.7% |33.7–38.2% |33.2–38.7% |32.4–39.6% |
-| Partido Popular (EPP) | 0.0% | 15.1% | 13.8–16.5% |13.5–16.9% |13.2–17.2% |12.6–17.9% |
-| Ciudadanos–Partido de la Ciudadanía (ALDE) | 0.0% | 14.0% | 12.8–15.4% |12.4–15.7% |12.1–16.1% |11.6–16.8% |
-| Unidos Podemos (GUE/NGL) | 0.0% | 12.9% | 11.7–14.2% |11.4–14.6% |11.1–14.9% |10.6–15.6% |
-| Vox (EAPN) | 0.0% | 8.1% | 7.1–9.2% |6.9–9.5% |6.7–9.8% |6.2–10.3% |
+| Partido Socialista Obrero Español (S&D) | 0.0% | 30.4% | 28.6–32.3% |28.1–32.9% |27.6–33.3% |26.8–34.3% |
+| Partido Popular (EPP) | 0.0% | 21.1% | 19.5–22.8% |19.1–23.3% |18.7–23.7% |17.9–24.6% |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) | 0.0% | 17.6% | 16.1–19.2% |15.7–19.7% |15.4–20.1% |14.7–20.9% |
+| Unidos Podemos (GUE/NGL) | 0.0% | 10.8% | 9.6–12.2% |9.3–12.5% |9.0–12.9% |8.5–13.6% |
+| Vox (EAPN) | 0.0% | 7.9% | 6.9–9.1% |6.6–9.4% |6.4–9.7% |5.9–10.3% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
 ## Seats
 
-![Graph with seats not yet produced](2019-06-21-Invymark-seats.png "Seats")
+![Graph with seats not yet produced](2019-06-07-DemoscopiayServicios-seats.png "Seats")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 20 | 19–21 |19–21 |18–22 |18–22 |
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 8 | 7–9 |7–9 |7–9 |7–10 |
-| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 7 | 7–8 |7–8 |6–9 |6–9 |
-| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 7 | 6–8 |6–8 |6–8 |6–8 |
-| <a href="#vox-(eapn)">Vox (EAPN)</a> | 0 | 4 | 4–5 |3–5 |3–5 |3–5 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 17 | 16–18 |15–18 |15–18 |15–19 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 11 | 11–12 |10–13 |10–13 |10–13 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 9 | 9–10 |8–11 |8–11 |8–11 |
+| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 6 | 5–6 |5–7 |5–7 |4–7 |
+| <a href="#vox-(eapn)">Vox (EAPN)</a> | 0 | 4 | 3–5 |3–5 |3–5 |3–5 |
 
 ### Partido Socialista Obrero Español (S&D)
 
 *For a full overview of the results for this party, see the [Partido Socialista Obrero Español (S&D)](party-partidosocialistaobreroespañolsd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-21-Invymark-seats-pmf-partidosocialistaobreroespañolsd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-07-DemoscopiayServicios-seats-pmf-partidosocialistaobreroespañolsd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -54,23 +54,20 @@
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0.1% | 100% |  |
-| 18 | 4% | 99.9% |  |
-| 19 | 27% | 96% |  |
-| 20 | 46% | 69% | Median |
-| 21 | 21% | 24% |  |
-| 22 | 3% | 3% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 14 | 0.2% | 100% |  |
+| 15 | 6% | 99.8% |  |
+| 16 | 31% | 93% |  |
+| 17 | 41% | 62% | Median |
+| 18 | 19% | 21% |  |
+| 19 | 2% | 2% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
 
 *For a full overview of the results for this party, see the [Partido Popular (EPP)](party-partidopopularepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-21-Invymark-seats-pmf-partidopopularepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-07-DemoscopiayServicios-seats-pmf-partidopopularepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -80,18 +77,22 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.2% | 100% |  |
-| 7 | 15% | 99.8% |  |
-| 8 | 60% | 84% | Median |
-| 9 | 23% | 24% |  |
-| 10 | 1.1% | 1.1% |  |
-| 11 | 0% | 0% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 7% | 99.7% |  |
+| 11 | 43% | 92% | Median |
+| 12 | 41% | 50% |  |
+| 13 | 8% | 8% |  |
+| 14 | 0.5% | 0.5% |  |
+| 15 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (ALDE)
 
 *For a full overview of the results for this party, see the [Ciudadanos–Partido de la Ciudadanía (ALDE)](party-ciudadanos–partidodelaciudadaníaalde.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-21-Invymark-seats-pmf-ciudadanos–partidodelaciudadaníaalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-07-DemoscopiayServicios-seats-pmf-ciudadanos–partidodelaciudadaníaalde.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -101,17 +102,20 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 4% | 100% |  |
-| 7 | 47% | 96% | Median |
-| 8 | 45% | 49% |  |
-| 9 | 4% | 4% |  |
-| 10 | 0% | 0% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 5% | 99.9% |  |
+| 9 | 45% | 95% | Median |
+| 10 | 43% | 50% |  |
+| 11 | 7% | 7% |  |
+| 12 | 0.3% | 0.3% |  |
+| 13 | 0% | 0% |  |
 
 ### Unidos Podemos (GUE/NGL)
 
 *For a full overview of the results for this party, see the [Unidos Podemos (GUE/NGL)](party-unidospodemosguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-21-Invymark-seats-pmf-unidospodemosguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-07-DemoscopiayServicios-seats-pmf-unidospodemosguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -119,47 +123,46 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0.5% | 100% |  |
-| 6 | 25% | 99.5% |  |
-| 7 | 61% | 74% | Median |
-| 8 | 13% | 13% |  |
-| 9 | 0.3% | 0.3% |  |
-| 10 | 0% | 0% |  |
+| 4 | 1.4% | 100% |  |
+| 5 | 38% | 98.6% |  |
+| 6 | 53% | 61% | Median |
+| 7 | 8% | 8% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 ### Vox (EAPN)
 
 *For a full overview of the results for this party, see the [Vox (EAPN)](party-voxeapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-21-Invymark-seats-pmf-voxeapn.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-07-DemoscopiayServicios-seats-pmf-voxeapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 8% | 100% |  |
-| 4 | 72% | 92% | Median |
-| 5 | 20% | 20% |  |
-| 6 | 0.2% | 0.2% |  |
+| 3 | 13% | 100% |  |
+| 4 | 71% | 87% | Median |
+| 5 | 16% | 17% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](2019-06-21-Invymark-coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](2019-06-07-DemoscopiayServicios-coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0 | 20 | 0% | 19–21 | 19–21 | 18–22 | 18–22 |
-| Partido Popular (EPP) | 0 | 8 | 0% | 7–9 | 7–9 | 7–9 | 7–10 |
-| Vox (EAPN) | 0 | 4 | 0% | 4–5 | 3–5 | 3–5 | 3–5 |
+| Partido Socialista Obrero Español (S&D) | 0 | 17 | 0% | 16–18 | 15–18 | 15–18 | 15–19 |
+| Partido Popular (EPP) | 0 | 11 | 0% | 11–12 | 10–13 | 10–13 | 10–13 |
+| Vox (EAPN) | 0 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
 
 ### Partido Socialista Obrero Español (S&D)
 
-![Graph with seats probability mass function not yet produced](2019-06-21-Invymark-coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-07-DemoscopiayServicios-coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -177,21 +180,18 @@
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0.1% | 100% |  |
-| 18 | 4% | 99.9% |  |
-| 19 | 27% | 96% |  |
-| 20 | 46% | 69% | Median |
-| 21 | 21% | 24% |  |
-| 22 | 3% | 3% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 14 | 0.2% | 100% |  |
+| 15 | 6% | 99.8% |  |
+| 16 | 31% | 93% |  |
+| 17 | 41% | 62% | Median |
+| 18 | 19% | 21% |  |
+| 19 | 2% | 2% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
 
-![Graph with seats probability mass function not yet produced](2019-06-21-Invymark-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-07-DemoscopiayServicios-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -201,26 +201,30 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.2% | 100% |  |
-| 7 | 15% | 99.8% |  |
-| 8 | 60% | 84% | Median |
-| 9 | 23% | 24% |  |
-| 10 | 1.1% | 1.1% |  |
-| 11 | 0% | 0% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 7% | 99.7% |  |
+| 11 | 43% | 92% | Median |
+| 12 | 41% | 50% |  |
+| 13 | 8% | 8% |  |
+| 14 | 0.5% | 0.5% |  |
+| 15 | 0% | 0% |  |
 
 ### Vox (EAPN)
 
-![Graph with seats probability mass function not yet produced](2019-06-21-Invymark-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-07-DemoscopiayServicios-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 8% | 100% |  |
-| 4 | 72% | 92% | Median |
-| 5 | 20% | 20% |  |
-| 6 | 0.2% | 0.2% |  |
+| 3 | 13% | 100% |  |
+| 4 | 71% | 87% | Median |
+| 5 | 16% | 17% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 
@@ -228,13 +232,13 @@
 
 ### Opinion Poll
 
-+ **Polling firm:** Invymark
-+ **Commissioner(s):** laSexta
-+ **Fieldwork period:** 17–21 June 2019
++ **Polling firm:** Demoscopia y Servicios
++ **Commissioner(s):** ESDiario
++ **Fieldwork period:** 4–7 June 2019
 
 ### Calculations
 
-+ **Sample size:** 1200
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.35%
++ **Sample size:** 1000
++ **Simulations done:** 131,072
++ **Error estimate:** 0.93%
 
