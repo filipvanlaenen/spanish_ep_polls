@@ -24,17 +24,17 @@ Only polls for which at least the sample size has been published are included in
 + **PP:** Partido Popular (EPP)
 + **PSOE:** Partido Socialista Obrero Español (S&D)
 + **UP:** Unidos Podemos (GUE/NGL)
-+ **Cs:** Ciudadanos–Partido de la Ciudadanía (ALDE)
++ **Cs:** Ciudadanos–Partido de la Ciudadanía (RE)
 + **ERC:** Esquerra Republicana de Catalunya (Greens/EFA)
-+ **PDeCAT:** Partit Demòcrata Europeu Català (ALDE)
-+ **EAJ/PNV:** Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE)
++ **PDeCAT:** Partit Demòcrata Europeu Català (RE)
++ **EAJ/PNV:** Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)
 + **PACMA:** Partido Animalista Contra el Maltrato Animal (GUE/NGL)
 + **EH Bildu:** Euskal Herria Bildu (GUE/NGL)
-+ **CC:** Coalición Canaria–Partido Nacionalista Canario (ALDE)
-+ **Vox:** Vox (EAPN)
++ **CC:** Coalición Canaria–Partido Nacionalista Canario (RE)
++ **Vox:** Vox (ID)
 + **BNG:** Bloque Nacionalista Galego (Greens/EFA)
 + **AR:** Ahora Repúblicas (Greens/EFA)
-+ **CEU:** Coalición por Europa (ALDE)
++ **CEU:** Coalición por Europa (RE)
 + **PE:** Primavera Europea (Greens/EFA)
 + **Cmp:** Coalició Compromís (Greens/EFA)
 + **N/A (single party):** Party not included the published results
@@ -51,17 +51,17 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0.0% | 17.6% | 14.5–21.6% |14.0–22.3% | 13.7–22.8% | 13.0–23.9% |
 | <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0.0% | 31.7% | 29.3–36.3% |28.7–37.1% | 28.2–37.7% | 27.3–38.8% |
 | <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0.0% | 12.8% | 10.6–14.4% |10.0–14.8% | 9.6–15.2% | 8.9–15.9% |
-| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0.0% | 16.2% | 13.5–20.1% |13.0–20.8% | 12.6–21.3% | 12.0–22.3% |
+| <a href="#ciudadanos–partido-de-la-ciudadanía-(re)">Ciudadanos–Partido de la Ciudadanía (RE)</a> | 0.0% | 16.2% | 13.5–20.1% |13.0–20.8% | 12.6–21.3% | 12.0–22.3% |
 | <a href="#esquerra-republicana-de-catalunya-(greens/efa)">Esquerra Republicana de Catalunya (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#partit-demòcrata-europeu-català-(alde)">Partit Demòcrata Europeu Català (ALDE)</a> | 0.0% | 2.0% | 1.5–2.6% |1.4–2.7% | 1.3–2.9% | 1.1–3.2% |
-| <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco-(alde)">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE)</a> | 0.0% | 1.6% | 1.2–2.1% |1.1–2.3% | 1.0–2.5% | 0.8–2.8% |
+| <a href="#partit-demòcrata-europeu-català-(re)">Partit Demòcrata Europeu Català (RE)</a> | 0.0% | 2.0% | 1.5–2.6% |1.4–2.7% | 1.3–2.9% | 1.1–3.2% |
+| <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco-(re)">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)</a> | 0.0% | 1.6% | 1.2–2.1% |1.1–2.3% | 1.0–2.5% | 0.8–2.8% |
 | <a href="#partido-animalista-contra-el-maltrato-animal-(gue/ngl)">Partido Animalista Contra el Maltrato Animal (GUE/NGL)</a> | 0.0% | 1.3% | 0.9–1.8% |0.8–2.0% | 0.8–2.1% | 0.6–2.4% |
 | <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#coalición-canaria–partido-nacionalista-canario-(alde)">Coalición Canaria–Partido Nacionalista Canario (ALDE)</a> | 0.0% | 0.8% | 0.5–1.2% |0.4–1.3% | 0.4–1.4% | 0.3–1.7% |
-| <a href="#vox-(eapn)">Vox (EAPN)</a> | 0.0% | 8.5% | 7.3–9.7% |7.0–10.1% | 6.7–10.4% | 6.2–11.0% |
+| <a href="#coalición-canaria–partido-nacionalista-canario-(re)">Coalición Canaria–Partido Nacionalista Canario (RE)</a> | 0.0% | 0.8% | 0.5–1.2% |0.4–1.3% | 0.4–1.4% | 0.3–1.7% |
+| <a href="#vox-(id)">Vox (ID)</a> | 0.0% | 8.5% | 7.3–9.7% |7.0–10.1% | 6.7–10.4% | 6.2–11.0% |
 | <a href="#bloque-nacionalista-galego-(greens/efa)">Bloque Nacionalista Galego (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#ahora-repúblicas-(greens/efa)">Ahora Repúblicas (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#coalición-por-europa-(alde)">Coalición por Europa (ALDE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#coalición-por-europa-(re)">Coalición por Europa (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#primavera-europea-(greens/efa)">Primavera Europea (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#coalició-compromís-(greens/efa)">Coalició Compromís (Greens/EFA)</a> | 0.0% | 0.4% | 0.2–0.7% |0.2–0.8% | 0.1–0.9% | 0.1–1.1% |
 
