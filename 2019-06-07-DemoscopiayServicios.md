@@ -12,9 +12,9 @@
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Partido Socialista Obrero Español (S&D) | 0.0% | 30.4% | 28.6–32.3% |28.1–32.9% |27.6–33.3% |26.8–34.3% |
 | Partido Popular (EPP) | 0.0% | 21.1% | 19.5–22.8% |19.1–23.3% |18.7–23.7% |17.9–24.6% |
-| Ciudadanos–Partido de la Ciudadanía (ALDE) | 0.0% | 17.6% | 16.1–19.2% |15.7–19.7% |15.4–20.1% |14.7–20.9% |
+| Ciudadanos–Partido de la Ciudadanía (RE) | 0.0% | 17.6% | 16.1–19.2% |15.7–19.7% |15.4–20.1% |14.7–20.9% |
 | Unidos Podemos (GUE/NGL) | 0.0% | 10.8% | 9.6–12.2% |9.3–12.5% |9.0–12.9% |8.5–13.6% |
-| Vox (EAPN) | 0.0% | 7.9% | 6.9–9.1% |6.6–9.4% |6.4–9.7% |5.9–10.3% |
+| Vox (ID) | 0.0% | 7.9% | 6.9–9.1% |6.6–9.4% |6.4–9.7% |5.9–10.3% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -28,9 +28,9 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 17 | 16–18 |15–18 |15–18 |15–19 |
 | <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 11 | 11–12 |10–13 |10–13 |10–13 |
-| <a href="#ciudadanos–partido-de-la-ciudadanía-(alde)">Ciudadanos–Partido de la Ciudadanía (ALDE)</a> | 0 | 9 | 9–10 |8–11 |8–11 |8–11 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía-(re)">Ciudadanos–Partido de la Ciudadanía (RE)</a> | 0 | 9 | 9–10 |8–11 |8–11 |8–11 |
 | <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 6 | 5–6 |5–7 |5–7 |4–7 |
-| <a href="#vox-(eapn)">Vox (EAPN)</a> | 0 | 4 | 3–5 |3–5 |3–5 |3–5 |
+| <a href="#vox-(id)">Vox (ID)</a> | 0 | 4 | 3–5 |3–5 |3–5 |3–5 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -88,11 +88,11 @@
 | 14 | 0.5% | 0.5% |  |
 | 15 | 0% | 0% |  |
 
-### Ciudadanos–Partido de la Ciudadanía (ALDE)
+### Ciudadanos–Partido de la Ciudadanía (RE)
 
-*For a full overview of the results for this party, see the [Ciudadanos–Partido de la Ciudadanía (ALDE)](party-ciudadanos–partidodelaciudadaníaalde.html) page.*
+*For a full overview of the results for this party, see the [Ciudadanos–Partido de la Ciudadanía (RE)](party-ciudadanos–partidodelaciudadaníare.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-07-DemoscopiayServicios-seats-pmf-ciudadanos–partidodelaciudadaníaalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-07-DemoscopiayServicios-seats-pmf-ciudadanos–partidodelaciudadaníare.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -130,11 +130,11 @@
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
-### Vox (EAPN)
+### Vox (ID)
 
-*For a full overview of the results for this party, see the [Vox (EAPN)](party-voxeapn.html) page.*
+*For a full overview of the results for this party, see the [Vox (ID)](party-voxid.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-07-DemoscopiayServicios-seats-pmf-voxeapn.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-07-DemoscopiayServicios-seats-pmf-voxid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -158,7 +158,7 @@
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Partido Socialista Obrero Español (S&D) | 0 | 17 | 0% | 16–18 | 15–18 | 15–18 | 15–19 |
 | Partido Popular (EPP) | 0 | 11 | 0% | 11–12 | 10–13 | 10–13 | 10–13 |
-| Vox (EAPN) | 0 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
+| Vox (ID) | 0 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -212,7 +212,7 @@
 | 14 | 0.5% | 0.5% |  |
 | 15 | 0% | 0% |  |
 
-### Vox (EAPN)
+### Vox (ID)
 
 ![Graph with seats probability mass function not yet produced](2019-06-07-DemoscopiayServicios-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
 
