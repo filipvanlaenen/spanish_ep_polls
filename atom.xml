@@ -6,38 +6,54 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-06-23T18:30:13.07406+02:00</updated>
+  <updated>2019-06-29T19:07:29.21765+02:00</updated>
   <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 13.2–17.2%, 7–9 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 33.2–38.7%, 18–22 seats</li><li>Unidos Podemos (GUE/NGL): 11.1–14.9%, 6–8 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 12.1–16.1%, 6–9 seats</li><li>Vox (ID): 6.7–9.8%, 3–5 seats</li></ul></div></content>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 19.4–21.1%, 10–12 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 31.1–33.1%, 17–18 seats</li><li>Unidos Podemos (GUE/NGL): 11.5–12.9%, 6–7 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 11.8–13.2%, 6–7 seats</li><li>Vox (ECR): 8.4–9.6%, 4–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2019-06-25-electoPanel.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2019-06-25-electoPanel.html"/>
+    <title>Opinion Poll by electoPanel for electomania.es, 22–25 June 2019</title>
+    <updated>2019-06-29T17:25:02.769953+02:00</updated>
+    <dc:date>2019-06-29T17:25:02.769953+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 13.2–17.2%, 7–9 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 33.2–38.7%, 18–22 seats</li><li>Unidos Podemos (GUE/NGL): 11.1–14.9%, 6–8 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 12.1–16.1%, 6–9 seats</li><li>Vox (ECR): 6.7–9.8%, 3–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_ep_polls/2019-06-21-Invymark.html</id>
     <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2019-06-21-Invymark.html"/>
     <title>Opinion Poll by Invymark for laSexta, 17–21 June 2019</title>
-    <updated>2019-06-23T16:22:47.593159+02:00</updated>
-    <dc:date>2019-06-23T16:22:47.593159+02:00</dc:date>
+    <updated>2019-06-29T17:37:59.918796+02:00</updated>
+    <dc:date>2019-06-29T17:37:59.918796+02:00</dc:date>
   </entry>
   <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 13.6–18.0%, 7–10 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 29.3–34.9%, 16–19 seats</li><li>Unidos Podemos (GUE/NGL): 11.5–15.6%, 6–8 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 17.5–22.2%, 9–12 seats</li><li>Vox (ID): 7.3–10.7%, 4–6 seats</li></ul></div></content>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 18.0–23.6%, 10–13 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 27.6–34.0%, 15–19 seats</li><li>Unidos Podemos (GUE/NGL): 10.8–15.5%, 6–8 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 13.9–19.0%, 7–10 seats</li><li>Vox (ECR): 4.2–7.5%, 2–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2019-06-19-GAD3.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2019-06-19-GAD3.html"/>
+    <title>Opinion Poll by GAD3 for ABC, 19 June 2019</title>
+    <updated>2019-06-29T18:06:42.949874+02:00</updated>
+    <dc:date>2019-06-29T18:06:42.949874+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 13.6–18.0%, 7–10 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 29.3–34.9%, 16–19 seats</li><li>Unidos Podemos (GUE/NGL): 11.5–15.6%, 6–8 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 17.5–22.2%, 9–12 seats</li><li>Vox (ECR): 7.3–10.7%, 4–6 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_ep_polls/2019-06-11-SimpleLógica.html</id>
     <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2019-06-11-SimpleLógica.html"/>
     <title>Opinion Poll by Simple Lógica, 3–11 June 2019</title>
-    <updated>2019-06-23T18:30:13.07406+02:00</updated>
-    <dc:date>2019-06-23T18:30:13.07406+02:00</dc:date>
+    <updated>2019-06-29T18:20:20.380962+02:00</updated>
+    <dc:date>2019-06-29T18:20:20.380962+02:00</dc:date>
   </entry>
   <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 17.1–21.8%, 10–12 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 28.0–33.4%, 16–20 seats</li><li>Unidos Podemos (GUE/NGL): 11.3–15.3%, 6–9 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 12.7–16.9%, 7–10 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 2.9–5.2%, 1–3 seats</li><li>Partit Demòcrata Europeu Català (RE): 1.2–2.9%, 0–1 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 1.0–2.5%, 0–1 seats</li><li>Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0.8–2.1%, 0–1 seats</li><li>Euskal Herria Bildu (Greens/EFA): 0.6–1.8%, 0–1 seats</li><li>Coalición Canaria–Partido Nacionalista Canario (RE): 0.4–1.4%, 0 seats</li><li>Vox (ID): 7.2–10.5%, 4–6 seats</li><li>Coalició Compromís (Greens/EFA): 0.1–0.9%, 0 seats</li></ul></div></content>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 17.1–21.8%, 10–12 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 28.0–33.4%, 16–20 seats</li><li>Unidos Podemos (GUE/NGL): 11.3–15.3%, 6–9 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 12.7–16.9%, 7–10 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 2.9–5.2%, 1–3 seats</li><li>Partit Demòcrata Europeu Català (NI): 1.2–2.9%, 0–1 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 1.0–2.5%, 0–1 seats</li><li>Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0.8–2.1%, 0–1 seats</li><li>Euskal Herria Bildu (Greens/EFA): 0.6–1.8%, 0–1 seats</li><li>Coalición Canaria–Partido Nacionalista Canario (RE): 0.4–1.4%, 0 seats</li><li>Vox (ECR): 7.2–10.5%, 4–6 seats</li><li>Coalició Compromís (Greens/EFA): 0.1–0.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_ep_polls/2019-06-11-Celeste-Tel.html</id>
     <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2019-06-11-Celeste-Tel.html"/>
     <title>Opinion Poll by Celeste-Tel for eldiario.es, 5–11 June 2019</title>
-    <updated>2019-06-23T18:09:05.074584+02:00</updated>
-    <dc:date>2019-06-23T18:09:05.074584+02:00</dc:date>
+    <updated>2019-06-29T18:54:01.004302+02:00</updated>
+    <dc:date>2019-06-29T18:54:01.004302+02:00</dc:date>
   </entry>
   <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 13.5–17.6%, 7–9 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 31.0–36.3%, 17–20 seats</li><li>Unidos Podemos (GUE/NGL): 11.5–15.4%, 6–8 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 13.2–17.2%, 7–9 seats</li><li>Vox (ID): 7.0–10.1%, 3–5 seats</li></ul></div></content>
-    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-31-Invymark.html</id>
-    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-31-Invymark.html"/>
-    <title>Opinion Poll by Invymark for laSexta, 27–31 May 2019</title>
-    <updated>2019-06-12T17:15:30.107591+02:00</updated>
-    <dc:date>2019-06-12T17:15:30.107591+02:00</dc:date>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 18.7–23.7%, 10–13 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 27.6–33.3%, 15–18 seats</li><li>Unidos Podemos (GUE/NGL): 9.0–12.9%, 5–7 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 15.4–20.1%, 8–11 seats</li><li>Vox (ECR): 6.4–9.7%, 3–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2019-06-07-DemoscopiayServicios.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2019-06-07-DemoscopiayServicios.html"/>
+    <title>Opinion Poll by Demoscopia y Servicios for ESDiario, 4–7 June 2019</title>
+    <updated>2019-06-29T19:07:29.21765+02:00</updated>
+    <dc:date>2019-06-29T19:07:29.21765+02:00</dc:date>
   </entry>
-  <dc:date>2019-06-23T18:30:13.07406+02:00</dc:date>
+  <dc:date>2019-06-29T19:07:29.21765+02:00</dc:date>
 </feed>
