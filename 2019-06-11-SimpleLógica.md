@@ -14,7 +14,7 @@
 | Ciudadanos–Partido de la Ciudadanía (RE) | 0.0% | 19.7% | 18.2–21.3% |17.8–21.8% |17.5–22.2% |16.8–23.0% |
 | Partido Popular (EPP) | 0.0% | 15.7% | 14.3–17.2% |14.0–17.6% |13.6–18.0% |13.0–18.7% |
 | Unidos Podemos (GUE/NGL) | 0.0% | 13.4% | 12.1–14.8% |11.8–15.2% |11.5–15.6% |10.9–16.2% |
-| Vox (ID) | 0.0% | 8.9% | 7.9–10.1% |7.6–10.4% |7.3–10.7% |6.9–11.4% |
+| Vox (ECR) | 0.0% | 8.9% | 7.9–10.1% |7.6–10.4% |7.3–10.7% |6.9–11.4% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -30,7 +30,7 @@
 | <a href="#ciudadanos–partido-de-la-ciudadanía-(re)">Ciudadanos–Partido de la Ciudadanía (RE)</a> | 0 | 11 | 10–12 |10–12 |9–12 |9–13 |
 | <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 8 | 8–9 |7–10 |7–10 |7–10 |
 | <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 7 | 6–8 |6–8 |6–8 |6–9 |
-| <a href="#vox-(id)">Vox (ID)</a> | 0 | 5 | 4–5 |4–5 |4–6 |3–6 |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 5 | 4–5 |4–5 |4–6 |3–6 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -61,7 +61,8 @@
 | 18 | 43% | 60% | Median |
 | 19 | 15% | 17% |  |
 | 20 | 2% | 2% |  |
-| 21 | 0% | 0% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (RE)
 
@@ -80,11 +81,11 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 3% | 100% |  |
-| 10 | 34% | 97% |  |
-| 11 | 49% | 63% | Median |
-| 12 | 13% | 14% |  |
-| 13 | 0.7% | 0.7% |  |
+| 9 | 4% | 100% |  |
+| 10 | 33% | 96% |  |
+| 11 | 48% | 63% | Median |
+| 12 | 14% | 15% |  |
+| 13 | 0.8% | 0.8% |  |
 | 14 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
@@ -104,7 +105,7 @@
 | 6 | 0.1% | 100% |  |
 | 7 | 6% | 99.9% |  |
 | 8 | 48% | 94% | Median |
-| 9 | 41% | 46% |  |
+| 9 | 40% | 45% |  |
 | 10 | 5% | 5% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
@@ -124,25 +125,25 @@
 | 4 | 0% | 100% |  |
 | 5 | 0.2% | 100% |  |
 | 6 | 14% | 99.8% |  |
-| 7 | 59% | 86% | Median |
+| 7 | 58% | 86% | Median |
 | 8 | 26% | 27% |  |
 | 9 | 1.3% | 1.3% |  |
 | 10 | 0% | 0% |  |
 
-### Vox (ID)
+### Vox (ECR)
 
-*For a full overview of the results for this party, see the [Vox (ID)](party-voxid.html) page.*
+*For a full overview of the results for this party, see the [Vox (ECR)](party-voxecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-11-SimpleLógica-seats-pmf-voxid.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-11-SimpleLógica-seats-pmf-voxecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.9% | 100% |  |
-| 4 | 42% | 99.1% |  |
-| 5 | 53% | 57% | Median |
+| 3 | 1.0% | 100% |  |
+| 4 | 44% | 99.0% |  |
+| 5 | 50% | 55% | Median |
 | 6 | 4% | 4% |  |
 | 7 | 0% | 0% |  |
 
@@ -157,7 +158,7 @@
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Partido Socialista Obrero Español (S&D) | 0 | 18 | 0% | 17–19 | 16–19 | 16–19 | 16–20 |
 | Partido Popular (EPP) | 0 | 8 | 0% | 8–9 | 7–10 | 7–10 | 7–10 |
-| Vox (ID) | 0 | 5 | 0% | 4–5 | 4–5 | 4–6 | 3–6 |
+| Vox (ECR) | 0 | 5 | 0% | 4–5 | 4–5 | 4–6 | 3–6 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -186,7 +187,8 @@
 | 18 | 43% | 60% | Median |
 | 19 | 15% | 17% |  |
 | 20 | 2% | 2% |  |
-| 21 | 0% | 0% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
 
@@ -203,12 +205,12 @@
 | 6 | 0.1% | 100% |  |
 | 7 | 6% | 99.9% |  |
 | 8 | 48% | 94% | Median |
-| 9 | 41% | 46% |  |
+| 9 | 40% | 45% |  |
 | 10 | 5% | 5% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
-### Vox (ID)
+### Vox (ECR)
 
 ![Graph with seats probability mass function not yet produced](2019-06-11-SimpleLógica-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
 
@@ -217,9 +219,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.9% | 100% |  |
-| 4 | 42% | 99.1% |  |
-| 5 | 53% | 57% | Median |
+| 3 | 1.0% | 100% |  |
+| 4 | 44% | 99.0% |  |
+| 5 | 50% | 55% | Median |
 | 6 | 4% | 4% |  |
 | 7 | 0% | 0% |  |
 
@@ -235,6 +237,6 @@
 ### Calculations
 
 + **Sample size:** 1090
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.64%
++ **Simulations done:** 524,288
++ **Error estimate:** 1.04%
 

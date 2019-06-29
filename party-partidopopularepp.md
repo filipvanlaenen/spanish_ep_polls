@@ -63,8 +63,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 10 | 8–12 | 7–12 | 7–13 | 7–13 |
 | [17–21 June 2019](2019-06-21-Invymark.html) | Invymark <br> laSexta | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
-| [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
-| [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
+| [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
+| [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 12 | 11–12 | 10–13 | 10–13 | 10–13 |
 | [27–31 May 2019](2019-05-31-Invymark.html) | Invymark <br> laSexta | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 
 ### Probability Mass Function
@@ -83,12 +83,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
 | 7 | 5% | 99.9% |  |
-| 8 | 27% | 94% |  |
-| 9 | 16% | 68% |  |
-| 10 | 7% | 51% | Median |
-| 11 | 23% | 44% |  |
-| 12 | 18% | 21% |  |
-| 13 | 2% | 3% |  |
+| 8 | 27% | 95% |  |
+| 9 | 16% | 67% |  |
+| 10 | 9% | 51% | Median |
+| 11 | 22% | 42% |  |
+| 12 | 17% | 20% |  |
+| 13 | 3% | 3% |  |
 | 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0% |  |
 
