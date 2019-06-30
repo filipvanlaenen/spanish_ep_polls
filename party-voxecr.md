@@ -17,7 +17,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 8.9% | 7.9–10.1% | 7.6–10.4% | 7.3–10.7% | 6.9–11.4% |
 | [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8.7% | 7.7–9.9% | 7.4–10.3% | 7.2–10.5% | 6.7–11.1% |
 | [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
-| [27–31 May 2019](2019-05-31-Invymark.html) | Invymark <br> laSexta | 8.4% | N/A | N/A | N/A | N/A |
+| [27–31 May 2019](2019-05-31-Invymark.html) | Invymark <br> laSexta | 8.4% | 7.5–9.5% | 7.2–9.8% | 7.0–10.1% | 6.5–10.7% |
 
 ### Probability Mass Function
 
@@ -56,7 +56,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [27–31 May 2019](2019-05-31-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [27–31 May 2019](2019-05-31-Invymark.html) | Invymark <br> laSexta | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 
 ### Probability Mass Function
 
