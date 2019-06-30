@@ -44,7 +44,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](average-2019-06-30.png "Voting Intentions")
+![Graph with voting intentions not yet produced](average-.png "Voting Intentions")
 
 ### Confidence Intervals
 
