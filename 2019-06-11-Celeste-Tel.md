@@ -33,17 +33,17 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 17 | 17–19 |17–20 |16–20 |16–20 |
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 11 | 11 |10–13 |10–13 |10–13 |
-| <a href="#ciudadanos–partido-de-la-ciudadanía-(re)">Ciudadanos–Partido de la Ciudadanía (RE)</a> | 0 | 8 | 7–9 |7–9 |7–10 |7–10 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 17 | 16–19 |16–19 |16–20 |16–20 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 11 | 10–12 |10–12 |10–12 |9–13 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía-(re)">Ciudadanos–Partido de la Ciudadanía (RE)</a> | 0 | 8 | 7–9 |7–10 |7–10 |7–10 |
 | <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 7 | 7–8 |6–8 |6–9 |6–9 |
-| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 4 | 4–5 |4–5 |4–5 |4–6 |
-| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 2 | 2–3 |2–3 |2–3 |1–3 |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 5 | 4–6 |4–6 |4–6 |4–6 |
+| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 2 | 2 |1–3 |1–3 |1–3 |
 | <a href="#partit-demòcrata-europeu-català-(ni)">Partit Demòcrata Europeu Català (NI)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco-(re)">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#partido-animalista-contra-el-maltrato-animal-(gue/ngl)">Partido Animalista Contra el Maltrato Animal (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#coalición-canaria–partido-nacionalista-canario-(re)">Coalición Canaria–Partido Nacionalista Canario (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
+| <a href="#coalición-canaria–partido-nacionalista-canario-(re)">Coalición Canaria–Partido Nacionalista Canario (RE)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 | <a href="#coalició-compromís-(greens/efa)">Coalició Compromís (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -69,13 +69,14 @@
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.4% | 100% |  |
-| 16 | 4% | 99.6% |  |
-| 17 | 49% | 96% | Median |
-| 18 | 15% | 47% |  |
-| 19 | 26% | 32% |  |
-| 20 | 6% | 6% |  |
-| 21 | 0% | 0% |  |
+| 15 | 0.1% | 100% |  |
+| 16 | 11% | 99.9% |  |
+| 17 | 39% | 89% | Median |
+| 18 | 18% | 50% |  |
+| 19 | 28% | 31% |  |
+| 20 | 3% | 3% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
 
@@ -94,12 +95,12 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.5% | 100% |  |
-| 10 | 7% | 99.5% |  |
-| 11 | 84% | 93% | Median |
-| 12 | 3% | 9% |  |
-| 13 | 5% | 5% |  |
-| 14 | 0.2% | 0.2% |  |
+| 9 | 1.0% | 100% |  |
+| 10 | 15% | 99.0% |  |
+| 11 | 50% | 84% | Median |
+| 12 | 32% | 34% |  |
+| 13 | 2% | 2% |  |
+| 14 | 0.3% | 0.3% |  |
 | 15 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (RE)
@@ -117,10 +118,10 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
-| 7 | 24% | 99.9% |  |
-| 8 | 27% | 76% | Median |
-| 9 | 45% | 50% |  |
-| 10 | 5% | 5% |  |
+| 7 | 32% | 99.9% |  |
+| 8 | 30% | 68% | Median |
+| 9 | 31% | 38% |  |
+| 10 | 8% | 8% |  |
 | 11 | 0% | 0% |  |
 
 ### Unidos Podemos (GUE/NGL)
@@ -137,11 +138,12 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 8% | 100% |  |
-| 7 | 50% | 92% | Median |
-| 8 | 39% | 42% |  |
-| 9 | 3% | 3% |  |
-| 10 | 0% | 0% |  |
+| 6 | 5% | 100% |  |
+| 7 | 58% | 95% | Median |
+| 8 | 34% | 37% |  |
+| 9 | 2% | 3% |  |
+| 10 | 0.4% | 0.4% |  |
+| 11 | 0% | 0% |  |
 
 ### Vox (ECR)
 
@@ -155,9 +157,9 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.4% | 100% |  |
-| 4 | 52% | 99.6% | Median |
-| 5 | 47% | 48% |  |
-| 6 | 1.1% | 1.2% |  |
+| 4 | 35% | 99.6% |  |
+| 5 | 52% | 65% | Median |
+| 6 | 12% | 12% |  |
 | 7 | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)
@@ -169,9 +171,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 2% | 100% |  |
-| 2 | 62% | 98% | Median |
-| 3 | 35% | 35% |  |
+| 1 | 9% | 100% |  |
+| 2 | 82% | 91% | Median |
+| 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 
 ### Partit Demòcrata Europeu Català (NI)
@@ -182,8 +184,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 41% | 100% | Last Result |
-| 1 | 59% | 59% | Median |
+| 0 | 22% | 100% | Last Result |
+| 1 | 78% | 78% | Median |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
@@ -195,8 +197,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 45% | 100% | Last Result |
-| 1 | 55% | 55% | Median |
+| 0 | 39% | 100% | Last Result |
+| 1 | 61% | 61% | Median |
 | 2 | 0% | 0% |  |
 
 ### Partido Animalista Contra el Maltrato Animal (GUE/NGL)
@@ -207,8 +209,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Last Result, Median |
-| 1 | 13% | 13% |  |
+| 0 | 83% | 100% | Last Result, Median |
+| 1 | 17% | 17% |  |
 | 2 | 0% | 0% |  |
 
 ### Euskal Herria Bildu (GUE/NGL)
@@ -219,8 +221,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 74% | 100% | Last Result, Median |
-| 1 | 26% | 26% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 8% | 8% |  |
 | 2 | 0% | 0% |  |
 
 ### Coalición Canaria–Partido Nacionalista Canario (RE)
@@ -231,8 +233,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
+| 0 | 98.7% | 100% | Last Result, Median |
+| 1 | 1.3% | 1.3% |  |
 | 2 | 0% | 0% |  |
 
 ### Coalició Compromís (Greens/EFA)
@@ -254,10 +256,10 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0 | 17 | 0% | 17–19 | 17–20 | 16–20 | 16–20 |
-| Partido Popular (EPP) | 0 | 11 | 0% | 11 | 10–13 | 10–13 | 10–13 |
+| Partido Socialista Obrero Español (S&D) | 0 | 17 | 0% | 16–19 | 16–19 | 16–20 | 16–20 |
+| Partido Popular (EPP) | 0 | 11 | 0% | 10–12 | 10–12 | 10–12 | 9–13 |
 | Unidos Podemos (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Euskal Herria Bildu (GUE/NGL) | 0 | 8 | 0% | 7–8 | 7–9 | 6–9 | 6–10 |
-| Vox (ECR) | 0 | 4 | 0% | 4–5 | 4–5 | 4–5 | 4–6 |
+| Vox (ECR) | 0 | 5 | 0% | 4–6 | 4–6 | 4–6 | 4–6 |
 | Partit Demòcrata Europeu Català (NI) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -281,13 +283,14 @@
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.4% | 100% |  |
-| 16 | 4% | 99.6% |  |
-| 17 | 49% | 96% | Median |
-| 18 | 15% | 47% |  |
-| 19 | 26% | 32% |  |
-| 20 | 6% | 6% |  |
-| 21 | 0% | 0% |  |
+| 15 | 0.1% | 100% |  |
+| 16 | 11% | 99.9% |  |
+| 17 | 39% | 89% | Median |
+| 18 | 18% | 50% |  |
+| 19 | 28% | 31% |  |
+| 20 | 3% | 3% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
 
@@ -304,12 +307,12 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.5% | 100% |  |
-| 10 | 7% | 99.5% |  |
-| 11 | 84% | 93% | Median |
-| 12 | 3% | 9% |  |
-| 13 | 5% | 5% |  |
-| 14 | 0.2% | 0.2% |  |
+| 9 | 1.0% | 100% |  |
+| 10 | 15% | 99.0% |  |
+| 11 | 50% | 84% | Median |
+| 12 | 32% | 34% |  |
+| 13 | 2% | 2% |  |
+| 14 | 0.3% | 0.3% |  |
 | 15 | 0% | 0% |  |
 
 ### Unidos Podemos (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Euskal Herria Bildu (GUE/NGL)
@@ -325,10 +328,10 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 3% | 100% |  |
-| 7 | 25% | 97% | Median |
-| 8 | 66% | 72% |  |
-| 9 | 3% | 5% |  |
-| 10 | 2% | 2% |  |
+| 7 | 46% | 97% | Median |
+| 8 | 43% | 52% |  |
+| 9 | 8% | 9% |  |
+| 10 | 1.4% | 1.4% |  |
 | 11 | 0% | 0% |  |
 
 ### Vox (ECR)
@@ -341,9 +344,9 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.4% | 100% |  |
-| 4 | 52% | 99.6% | Median |
-| 5 | 47% | 48% |  |
-| 6 | 1.1% | 1.2% |  |
+| 4 | 35% | 99.6% |  |
+| 5 | 52% | 65% | Median |
+| 6 | 12% | 12% |  |
 | 7 | 0% | 0% |  |
 
 ### Partit Demòcrata Europeu Català (NI)
@@ -352,8 +355,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 41% | 100% | Last Result |
-| 1 | 59% | 59% | Median |
+| 0 | 22% | 100% | Last Result |
+| 1 | 78% | 78% | Median |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
@@ -369,6 +372,6 @@
 ### Calculations
 
 + **Sample size:** 1100
-+ **Simulations done:** 262,144
-+ **Error estimate:** 2.50%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 3.52%
 
