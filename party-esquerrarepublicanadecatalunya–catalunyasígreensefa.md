@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.3–4.8% | 3.1–5.0% | 2.9–5.2% | 2.6–5.7% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.0–5.5% | 2.7–6.0% |
+| [9 July 2019](2019-07-09-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 0.0% | N/A | N/A | N/A | N/A |
+| [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3.9% | 3.2–4.8% | 3.1–5.0% | 2.9–5.2% | 2.6–5.7% |
 | [22–25 June 2019](2019-06-25-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
+| [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [17–21 June 2019](2019-06-21-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
@@ -27,12 +31,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.3% | 100% |  |
-| 2.5–3.5% | 23% | 99.7% |  |
-| 3.5–4.5% | 60% | 77% | Median |
-| 4.5–5.5% | 16% | 17% |  |
-| 5.5–6.5% | 0.8% | 0.8% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 17% | 99.8% |  |
+| 3.5–4.5% | 58% | 82% | Median |
+| 4.5–5.5% | 23% | 25% |  |
+| 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0% | 0% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -43,8 +48,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [9 July 2019](2019-07-09-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario |  |  |  |  |  |
+| [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [22–25 June 2019](2019-06-25-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [17–21 June 2019](2019-06-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -61,9 +70,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 9% | 100% |  |
-| 2 | 82% | 91% | Median |
-| 3 | 9% | 9% |  |
+| 1 | 8% | 100% |  |
+| 2 | 81% | 92% | Median |
+| 3 | 11% | 11% |  |
 | 4 | 0% | 0% |  |
 
 
