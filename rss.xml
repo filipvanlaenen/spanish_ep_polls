@@ -8,36 +8,56 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 12 Jul 2019 18:37:13 +0200</pubDate>
+    <pubDate>Thu, 25 Jul 2019 18:29:01 +0200</pubDate>
     <item>
-      <title>Opinion Poll by Demoscopia y Servicios for ESDiario, 9 July 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-09-DemoscopiayServicios.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 16–19 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 5–7 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 8–10 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-09-DemoscopiayServicios-seats.png"
-        length="142059"
+      <title>Opinion Poll by Invymark for laSexta, 15–19 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-19-Invymark.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 14.1–18.3%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 34.0–39.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.7–14.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 11.1–14.9%&lt;/li&gt;&lt;li&gt;Vox (ECR): 6.0–9.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-19-Invymark.png"
+        length="173143"
         type="image/png"/>
-      <pubDate>Fri, 12 Jul 2019 17:33:49 +0200</pubDate>
-      <dc:date>2019-07-12T17:33:49.215868+02:00</dc:date>
+      <pubDate>Thu, 25 Jul 2019 06:57:25 +0200</pubDate>
+      <dc:date>2019-07-25T06:57:25.101345+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Demoscopia y Servicios for ESDiario, 9 July 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-09-DemoscopiayServicios.html#coalitions</link>
+      <title>Opinion Poll by Simple Lógica, 1–9 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-09-SimpleLógica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 15.7–20.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 29.9–35.6%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 13.2–17.6%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 11.2–15.3%&lt;/li&gt;&lt;li&gt;Vox (ECR): 7.6–11.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-09-SimpleLógica.png"
+        length="184738"
+        type="image/png"/>
+      <pubDate>Thu, 25 Jul 2019 06:55:11 +0200</pubDate>
+      <dc:date>2019-07-25T06:55:11.299614+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Key Data for Público, 7 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-07-KeyData.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 8–12 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 15–20 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 6–9 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 7–11 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1–3 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-07-KeyData-seats.png"
+        length="241571"
+        type="image/png"/>
+      <pubDate>Thu, 25 Jul 2019 18:29:01 +0200</pubDate>
+      <dc:date>2019-07-25T18:29:01.120822+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Key Data for Público, 7 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-07-KeyData.html#coalitions</link>
       <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-09-DemoscopiayServicios-coalitions-seats.png"
-        length="158976"
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-07-KeyData-coalitions-seats.png"
+        length="210838"
         type="image/png"/>
-      <pubDate>Fri, 12 Jul 2019 17:33:49 +0200</pubDate>
-      <dc:date>2019-07-12T17:33:49.215868+02:00</dc:date>
+      <pubDate>Thu, 25 Jul 2019 18:29:01 +0200</pubDate>
+      <dc:date>2019-07-25T18:29:01.120822+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Demoscopia y Servicios for ESDiario, 9 July 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-09-DemoscopiayServicios.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 19.1–24.2%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 28.5–34.2%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9.4–13.3%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 14.4–19.0%&lt;/li&gt;&lt;li&gt;Vox (ECR): 6.2–9.5%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-09-DemoscopiayServicios.png"
-        length="187015"
+      <title>Opinion Poll by Key Data for Público, 7 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-07-KeyData.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 14.3–21.0%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 27.3–35.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.5–16.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 13.6–20.1%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 2.6–6.1%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 0.8–3.1%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.7–2.9%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.5–2.6%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.1–1.4%&lt;/li&gt;&lt;li&gt;Vox (ECR): 5.6–10.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-07-KeyData.png"
+        length="321981"
         type="image/png"/>
-      <pubDate>Fri, 12 Jul 2019 17:33:49 +0200</pubDate>
-      <dc:date>2019-07-12T17:33:49.215868+02:00</dc:date>
+      <pubDate>Thu, 25 Jul 2019 18:29:01 +0200</pubDate>
+      <dc:date>2019-07-25T18:29:01.120822+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 3–6 July 2019 – Seat Projections for the Parties</title>
@@ -68,6 +88,16 @@
         type="image/png"/>
       <pubDate>Fri, 12 Jul 2019 17:49:43 +0200</pubDate>
       <dc:date>2019-07-12T17:49:43.744716+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoscopia y Servicios for ESDiario, 2–5 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-05-DemoscopiayServicios.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 19.1–24.2%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 28.5–34.2%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9.4–13.3%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 14.0–18.6%&lt;/li&gt;&lt;li&gt;Vox (ECR): 6.2–9.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-07-05-DemoscopiayServicios.png"
+        length="187396"
+        type="image/png"/>
+      <pubDate>Thu, 25 Jul 2019 06:53:22 +0200</pubDate>
+      <dc:date>2019-07-25T06:53:22.370204+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 1–5 July 2019 – Seat Projections for the Parties</title>
@@ -339,6 +369,6 @@
       <pubDate>Sun, 30 Jun 2019 18:13:36 +0200</pubDate>
       <dc:date>2019-06-30T18:13:36.669695+02:00</dc:date>
     </item>
-    <dc:date>2019-07-12T18:37:13.178794+02:00</dc:date>
+    <dc:date>2019-07-25T18:29:01.120822+02:00</dc:date>
   </channel>
 </rss>
