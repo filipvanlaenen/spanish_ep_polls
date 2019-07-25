@@ -10,9 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.2% | 6.1–9.4% | 5.4–9.8% | 5.0–10.1% | 4.3–10.8% |
-| [9 July 2019](2019-07-09-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 7.7% | 6.7–8.9% | 6.4–9.2% | 6.2–9.5% | 5.8–10.1% |
+| N/A | [Poll Average](average.html) | 8.1% | 6.1–9.5% | 5.4–9.9% | 5.0–10.3% | 4.4–11.1% |
+| [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta | 7.3% | 6.4–8.4% | 6.2–8.7% | 6.0–9.0% | 5.6–9.5% |
+| [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 9.3% | 8.2–10.5% | 7.9–10.9% | 7.6–11.2% | 7.1–11.8% |
+| [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 7.6% | 6.3–9.3% | 5.9–9.8% | 5.6–10.3% | 5.0–11.2% |
 | [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 7.6% | 6.7–8.7% | 6.4–9.0% | 6.2–9.2% | 5.8–9.8% |
+| [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 7.7% | 6.7–8.9% | 6.4–9.2% | 6.2–9.5% | 5.8–10.1% |
 | [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.1–10.5% | 6.7–11.1% |
 | [22–25 June 2019](2019-06-25-electoPanel.html) | electoPanel <br> electomania.es | 9.0% | 8.6–9.4% | 8.5–9.5% | 8.4–9.6% | 8.2–9.8% |
 | [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
@@ -33,15 +36,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.9% | 100% |  |
-| 4.5–5.5% | 5% | 99.0% |  |
-| 5.5–6.5% | 8% | 94% |  |
-| 6.5–7.5% | 17% | 86% |  |
-| 7.5–8.5% | 29% | 68% | Median |
-| 8.5–9.5% | 32% | 40% |  |
-| 9.5–10.5% | 7% | 7% |  |
-| 10.5–11.5% | 0.9% | 0.9% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0.8% | 100% |  |
+| 4.5–5.5% | 5% | 99.1% |  |
+| 5.5–6.5% | 10% | 94% |  |
+| 6.5–7.5% | 19% | 85% |  |
+| 7.5–8.5% | 27% | 65% | Median |
+| 8.5–9.5% | 29% | 39% |  |
+| 9.5–10.5% | 8% | 9% |  |
+| 10.5–11.5% | 1.5% | 2% |  |
+| 11.5–12.5% | 0.2% | 0.2% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -53,9 +56,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 2–5 | 2–6 |
-| [9 July 2019](2019-07-09-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 2–6 | 2–6 |
+| [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [22–25 June 2019](2019-06-25-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
@@ -77,10 +83,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 4% | 100% |  |
-| 3 | 16% | 96% |  |
-| 4 | 46% | 79% | Median |
-| 5 | 32% | 34% |  |
-| 6 | 2% | 2% |  |
+| 3 | 19% | 96% |  |
+| 4 | 44% | 77% | Median |
+| 5 | 31% | 33% |  |
+| 6 | 3% | 3% |  |
 | 7 | 0% | 0% |  |
 
 
