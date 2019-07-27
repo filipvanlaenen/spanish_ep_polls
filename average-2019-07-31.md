@@ -348,9 +348,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.4% | 100% |  |
-| 8 | 6% | 99.6% |  |
-| 9 | 13% | 93% |  |
+| 7 | 0.5% | 100% |  |
+| 8 | 6% | 99.5% |  |
+| 9 | 13% | 94% |  |
 | 10 | 21% | 80% |  |
 | 11 | 37% | 59% | Median |
 | 12 | 17% | 22% |  |
@@ -388,8 +388,9 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 16% | 32% |  |
 | 20 | 10% | 16% |  |
 | 21 | 5% | 6% |  |
-| 22 | 1.0% | 1.1% |  |
-| 23 | 0% | 0% |  |
+| 22 | 1.0% | 1.0% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 ### Unidos Podemos (GUE/NGL)
 
@@ -405,9 +406,9 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
 | 5 | 4% | 99.9% |  |
-| 6 | 27% | 96% |  |
-| 7 | 39% | 69% | Median |
-| 8 | 23% | 29% |  |
+| 6 | 28% | 96% |  |
+| 7 | 39% | 68% | Median |
+| 8 | 24% | 29% |  |
 | 9 | 6% | 6% |  |
 | 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
@@ -539,7 +540,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Partido Socialista Obrero Español (S&D) | 0 | 18 | 0% | 17–20 | 16–21 | 16–21 | 15–22 |
 | Partido Popular (EPP) | 0 | 11 | 0% | 9–12 | 8–13 | 8–13 | 8–13 |
-| Ciudadanos–Partido de la Ciudadanía (RE) – Coalición Canaria–Partido Nacionalista Canario (RE) – Coalición por Europa (RE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE) | 0 | 8 | 0% | 7–10 | 6–10 | 6–10 | 6–11 |
+| Ciudadanos–Partido de la Ciudadanía (RE) – Coalición Canaria–Partido Nacionalista Canario (RE) – Coalición por Europa (RE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE) | 0 | 8 | 0% | 6–10 | 6–10 | 6–10 | 6–11 |
 | Euskal Herria Bildu (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Unidos Podemos (GUE/NGL) | 0 | 7 | 0% | 6–8 | 6–9 | 5–9 | 5–10 |
 | Vox (ECR) | 0 | 4 | 0% | 3–5 | 3–5 | 2–6 | 2–6 |
 | Partit Demòcrata Europeu Català (NI) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -572,8 +573,9 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 16% | 32% |  |
 | 20 | 10% | 16% |  |
 | 21 | 5% | 6% |  |
-| 22 | 1.0% | 1.1% |  |
-| 23 | 0% | 0% |  |
+| 22 | 1.0% | 1.0% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
 
@@ -588,9 +590,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.4% | 100% |  |
-| 8 | 6% | 99.6% |  |
-| 9 | 13% | 93% |  |
+| 7 | 0.5% | 100% |  |
+| 8 | 6% | 99.5% |  |
+| 9 | 13% | 94% |  |
 | 10 | 21% | 80% |  |
 | 11 | 37% | 59% | Median |
 | 12 | 17% | 22% |  |
@@ -670,5 +672,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 8
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 5,636,096
++ **Total number of simulations done in the polls included in this average:** 6,553,600
 + **Error estimate:** 3.75%
