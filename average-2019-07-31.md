@@ -355,7 +355,7 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 37% | 59% | Median |
 | 12 | 17% | 22% |  |
 | 13 | 5% | 5% |  |
-| 14 | 0.2% | 0.3% |  |
+| 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -383,7 +383,7 @@ Only polls for which at least the sample size has been published are included in
 | 14 | 0.1% | 100% |  |
 | 15 | 1.2% | 99.9% |  |
 | 16 | 7% | 98.7% |  |
-| 17 | 22% | 92% |  |
+| 17 | 21% | 92% |  |
 | 18 | 39% | 70% | Median |
 | 19 | 16% | 32% |  |
 | 20 | 10% | 16% |  |
@@ -429,8 +429,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0.2% | 100% |  |
 | 6 | 11% | 99.8% |  |
 | 7 | 33% | 89% |  |
-| 8 | 25% | 56% | Median |
-| 9 | 24% | 31% |  |
+| 8 | 25% | 55% | Median |
+| 9 | 23% | 31% |  |
 | 10 | 6% | 8% |  |
 | 11 | 1.1% | 1.3% |  |
 | 12 | 0.1% | 0.1% |  |
@@ -448,8 +448,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 4% | 100% |  |
 | 3 | 19% | 96% |  |
-| 4 | 44% | 77% | Median |
-| 5 | 31% | 33% |  |
+| 4 | 43% | 77% | Median |
+| 5 | 31% | 34% |  |
 | 6 | 3% | 3% |  |
 | 7 | 0% | 0% |  |
 
@@ -568,7 +568,7 @@ Only polls for which at least the sample size has been published are included in
 | 14 | 0.1% | 100% |  |
 | 15 | 1.2% | 99.9% |  |
 | 16 | 7% | 98.7% |  |
-| 17 | 22% | 92% |  |
+| 17 | 21% | 92% |  |
 | 18 | 39% | 70% | Median |
 | 19 | 16% | 32% |  |
 | 20 | 10% | 16% |  |
@@ -597,7 +597,7 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 37% | 59% | Median |
 | 12 | 17% | 22% |  |
 | 13 | 5% | 5% |  |
-| 14 | 0.2% | 0.3% |  |
+| 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (RE) – Coalición Canaria–Partido Nacionalista Canario (RE) – Coalición por Europa (RE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)
@@ -611,12 +611,12 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.2% | 100% |  |
-| 6 | 10% | 99.8% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 10% | 99.9% |  |
 | 7 | 31% | 90% |  |
 | 8 | 23% | 59% | Median |
 | 9 | 24% | 36% |  |
-| 10 | 9% | 12% |  |
+| 10 | 10% | 12% |  |
 | 11 | 2% | 2% |  |
 | 12 | 0.4% | 0.5% |  |
 | 13 | 0.1% | 0.1% |  |
@@ -635,10 +635,10 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0.1% | 100% |  |
 | 5 | 4% | 99.9% |  |
 | 6 | 27% | 96% |  |
-| 7 | 39% | 69% | Median |
+| 7 | 38% | 69% | Median |
 | 8 | 24% | 31% |  |
 | 9 | 6% | 6% |  |
-| 10 | 0.6% | 0.6% |  |
+| 10 | 0.6% | 0.7% |  |
 | 11 | 0% | 0% |  |
 
 ### Vox (ECR)
@@ -651,8 +651,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 4% | 100% |  |
 | 3 | 19% | 96% |  |
-| 4 | 44% | 77% | Median |
-| 5 | 31% | 33% |  |
+| 4 | 43% | 77% | Median |
+| 5 | 31% | 34% |  |
 | 6 | 3% | 3% |  |
 | 7 | 0% | 0% |  |
 
@@ -671,6 +671,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 8
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 6,553,600
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 8,388,608
 + **Error estimate:** 3.75%

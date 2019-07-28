@@ -67,10 +67,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 6–11 |
 | [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 9 | 8–10 | 8–11 | 7–11 | 7–12 |
 | [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
+| [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [22–25 June 2019](2019-06-25-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -97,8 +97,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0.2% | 100% |  |
 | 6 | 11% | 99.8% |  |
 | 7 | 33% | 89% |  |
-| 8 | 25% | 56% | Median |
-| 9 | 24% | 31% |  |
+| 8 | 25% | 55% | Median |
+| 9 | 23% | 31% |  |
 | 10 | 6% | 8% |  |
 | 11 | 1.1% | 1.3% |  |
 | 12 | 0.1% | 0.1% |  |
