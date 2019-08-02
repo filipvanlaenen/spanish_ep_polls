@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.1% | 6.1–9.5% | 5.4–9.9% | 5.0–10.3% | 4.4–11.1% |
+| N/A | [Poll Average](average.html) | 8.3% | 6.8–9.8% | 6.5–10.2% | 6.2–10.6% | 5.6–11.3% |
+| [25–26 July 2019](2019-07-26-SocioMétrica.html) | SocioMétrica <br> El Español | 8.7% | 7.7–10.0% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
 | [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta | 7.3% | 6.4–8.4% | 6.2–8.7% | 6.0–9.0% | 5.6–9.5% |
 | [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 9.3% | 8.2–10.5% | 7.9–10.9% | 7.6–11.2% | 7.1–11.8% |
 | [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 7.6% | 6.3–9.3% | 5.9–9.8% | 5.6–10.3% | 5.0–11.2% |
@@ -36,15 +37,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.8% | 100% |  |
-| 4.5–5.5% | 5% | 99.1% |  |
-| 5.5–6.5% | 10% | 94% |  |
-| 6.5–7.5% | 19% | 85% |  |
-| 7.5–8.5% | 27% | 65% | Median |
-| 8.5–9.5% | 29% | 39% |  |
-| 9.5–10.5% | 8% | 9% |  |
-| 10.5–11.5% | 1.5% | 2% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.5% | 100% |  |
+| 5.5–6.5% | 5% | 99.5% |  |
+| 6.5–7.5% | 21% | 94% |  |
+| 7.5–8.5% | 32% | 73% | Median |
+| 8.5–9.5% | 27% | 41% |  |
+| 9.5–10.5% | 11% | 14% |  |
+| 10.5–11.5% | 2% | 3% |  |
+| 11.5–12.5% | 0.2% | 0.3% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -56,7 +57,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 2–6 | 2–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| [25–26 July 2019](2019-07-26-SocioMétrica.html) | SocioMétrica <br> El Español | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
@@ -82,11 +84,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 4% | 100% |  |
-| 3 | 19% | 96% |  |
-| 4 | 43% | 77% | Median |
-| 5 | 31% | 34% |  |
-| 6 | 3% | 3% |  |
-| 7 | 0% | 0% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 14% | 99.9% |  |
+| 4 | 51% | 86% | Median |
+| 5 | 31% | 35% |  |
+| 6 | 4% | 4% |  |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 
