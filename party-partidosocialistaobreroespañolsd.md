@@ -10,9 +10,19 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.0% | 29.0–36.4% | 28.2–37.4% | 27.6–38.1% | 26.5–39.3% |
+| N/A | [Poll Average](average.html) | 31.4% | 28.6–35.7% | 27.9–37.1% | 27.4–37.9% | 26.4–39.1% |
+| [1–15 August 2019](2019-08-15-electoPanel.html) | electoPanel <br> electomania.es | 29.3% | 28.2–30.5% | 27.8–30.8% | 27.6–31.1% | 27.0–31.7% |
+| [11 August 2019](2019-08-11-NCReport.html) | NC Report <br> La Razón | 29.7% | 27.9–31.6% | 27.4–32.1% | 26.9–32.6% | 26.1–33.5% |
+| [1–7 August 2019](2019-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 30.9% | 29.2–32.7% | 28.7–33.3% | 28.2–33.7% | 27.4–34.6% |
+| [1–5 August 2019](2019-08-05-SimpleLógica.html) | Simple Lógica | 31.4% | 29.6–33.2% | 29.1–33.8% | 28.7–34.2% | 27.8–35.1% |
+| [5 August 2019](2019-08-05-KeyData.html) | Key Data <br> Público | 31.6% | 29.0–34.4% | 28.3–35.1% | 27.7–35.8% | 26.5–37.1% |
+| [29 July–1 August 2019](2019-08-01-Invymark.html) | Invymark <br> laSexta | 36.1% | 34.3–37.9% | 33.8–38.4% | 33.4–38.9% | 32.6–39.7% |
+| [24–26 July 2019](2019-07-26-electoPanel.html) | electoPanel <br> electomania.es | 29.2% | 27.5–30.9% | 27.1–31.4% | 26.7–31.8% | 25.9–32.6% |
 | [25–26 July 2019](2019-07-26-SocioMétrica.html) | SocioMétrica <br> El Español | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
+| [23 July 2019](2019-07-23-electoPanel.html) | electoPanel <br> electomania.es | 32.2% | 29.6–35.0% | 28.9–35.7% | 28.2–36.4% | 27.0–37.8% |
+| [21 July 2019](2019-07-21-electoPanel.html) | electoPanel <br> electomania.es | 32.0% | 29.4–34.8% | 28.7–35.5% | 28.1–36.2% | 26.8–37.6% |
 | [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta | 36.7% | 34.9–38.5% | 34.4–39.0% | 34.0–39.4% | 33.2–40.3% |
+| [11–12 July 2019](2019-07-12-Metroscopia.html) | Metroscopia <br> Henneo | 31.0% | 29.4–32.7% | 28.9–33.2% | 28.5–33.6% | 27.7–34.5% |
 | [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 32.7% | 30.9–34.6% | 30.3–35.1% | 29.9–35.6% | 29.0–36.5% |
 | [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 31.2% | 28.6–33.9% | 27.9–34.7% | 27.3–35.4% | 26.1–36.7% |
 | [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 36.6% | 34.8–38.4% | 34.3–38.9% | 33.9–39.4% | 33.1–40.2% |
@@ -22,6 +32,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 32.6% | 30.7–34.6% | 30.2–35.1% | 29.8–35.6% | 28.9–36.5% |
 | [17–21 June 2019](2019-06-21-Invymark.html) | Invymark <br> laSexta | 35.9% | 34.2–37.7% | 33.7–38.2% | 33.2–38.7% | 32.4–39.6% |
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 30.8% | 28.7–32.9% | 28.1–33.5% | 27.6–34.0% | 26.7–35.1% |
+| [7–13 June 2019](2019-06-13-NCReport.html) | NC Report <br> La Razón | 30.5% | 28.7–32.4% | 28.2–33.0% | 27.7–33.4% | 26.9–34.4% |
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 32.0% | 30.2–33.9% | 29.7–34.4% | 29.3–34.9% | 28.5–35.8% |
 | [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 30.6% | 28.9–32.5% | 28.4–33.0% | 28.0–33.4% | 27.2–34.3% |
 | [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 30.4% | 28.6–32.3% | 28.1–32.9% | 27.6–33.3% | 26.8–34.3% |
@@ -59,23 +70,22 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0.1% | 100% |  |
-| 25.5–26.5% | 0.5% | 99.9% |  |
-| 26.5–27.5% | 2% | 99.4% |  |
-| 27.5–28.5% | 5% | 98% |  |
-| 28.5–29.5% | 8% | 93% |  |
-| 29.5–30.5% | 12% | 85% |  |
-| 30.5–31.5% | 16% | 73% |  |
-| 31.5–32.5% | 16% | 57% | Median |
-| 32.5–33.5% | 13% | 41% |  |
-| 33.5–34.5% | 8% | 28% |  |
-| 34.5–35.5% | 5% | 20% |  |
-| 35.5–36.5% | 5% | 14% |  |
-| 36.5–37.5% | 5% | 9% |  |
-| 37.5–38.5% | 3% | 4% |  |
-| 38.5–39.5% | 1.2% | 2% |  |
-| 39.5–40.5% | 0.3% | 0.3% |  |
-| 40.5–41.5% | 0% | 0.1% |  |
-| 41.5–42.5% | 0% | 0% |  |
+| 25.5–26.5% | 0.6% | 99.9% |  |
+| 26.5–27.5% | 2% | 99.3% |  |
+| 27.5–28.5% | 6% | 97% |  |
+| 28.5–29.5% | 11% | 91% |  |
+| 29.5–30.5% | 15% | 79% |  |
+| 30.5–31.5% | 17% | 65% | Median |
+| 31.5–32.5% | 16% | 48% |  |
+| 32.5–33.5% | 11% | 32% |  |
+| 33.5–34.5% | 6% | 21% |  |
+| 34.5–35.5% | 4% | 15% |  |
+| 35.5–36.5% | 4% | 11% |  |
+| 36.5–37.5% | 4% | 7% |  |
+| 37.5–38.5% | 2% | 3% |  |
+| 38.5–39.5% | 0.9% | 1.1% |  |
+| 39.5–40.5% | 0.2% | 0.3% |  |
+| 40.5–41.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -86,9 +96,19 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–21 | 15–21 | 15–22 |
+| N/A | [Poll Average](average.html) | 18 | 16–20 | 15–21 | 15–21 | 14–22 |
+| [1–15 August 2019](2019-08-15-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 16–18 | 16–18 | 16–19 |
+| [11 August 2019](2019-08-11-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
+| [1–7 August 2019](2019-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 17–20 | 17–20 | 16–20 | 16–20 |
+| [1–5 August 2019](2019-08-05-SimpleLógica.html) | Simple Lógica | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
+| [5 August 2019](2019-08-05-KeyData.html) | Key Data <br> Público | 17 | 16–19 | 16–19 | 15–20 | 14–21 |
+| [29 July–1 August 2019](2019-08-01-Invymark.html) | Invymark <br> laSexta | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
+| [24–26 July 2019](2019-07-26-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [25–26 July 2019](2019-07-26-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
+| [23 July 2019](2019-07-23-electoPanel.html) | electoPanel <br> electomania.es | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
+| [21 July 2019](2019-07-21-electoPanel.html) | electoPanel <br> electomania.es | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta | 20 | 19–21 | 19–22 | 19–22 | 18–22 |
+| [11–12 July 2019](2019-07-12-Metroscopia.html) | Metroscopia <br> Henneo | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 20 | 19–21 | 19–22 | 19–22 | 18–22 |
@@ -98,6 +118,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [17–21 June 2019](2019-06-21-Invymark.html) | Invymark <br> laSexta | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 15–19 | 15–19 | 15–19 |
+| [7–13 June 2019](2019-06-13-NCReport.html) | NC Report <br> La Razón | 18 | 17–18 | 16–19 | 16–19 | 16–20 |
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
 | [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–19 | 16–19 | 16–20 | 16–20 |
 | [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
@@ -125,15 +146,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.4% | 100% |  |
-| 15 | 4% | 99.6% |  |
-| 16 | 12% | 96% |  |
-| 17 | 21% | 84% |  |
-| 18 | 30% | 63% | Median |
-| 19 | 14% | 33% |  |
-| 20 | 11% | 19% |  |
-| 21 | 6% | 8% |  |
-| 22 | 1.3% | 1.4% |  |
+| 14 | 0.5% | 100% |  |
+| 15 | 6% | 99.5% |  |
+| 16 | 17% | 94% |  |
+| 17 | 25% | 76% |  |
+| 18 | 26% | 52% | Median |
+| 19 | 11% | 25% |  |
+| 20 | 8% | 14% |  |
+| 21 | 5% | 6% |  |
+| 22 | 1.0% | 1.0% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 
