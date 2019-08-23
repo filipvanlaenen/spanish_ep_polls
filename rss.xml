@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 21 Aug 2019 19:43:55 +0200</pubDate>
+    <pubDate>Fri, 23 Aug 2019 19:28:33 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 1–15 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-15-electoPanel.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 11–13 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 16–18 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 7–8 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 6–8 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 4–6 seats&lt;/li&gt;&lt;li&gt;Coalició Compromís (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-15-electoPanel-seats.png"
+        length="223994"
+        type="image/png"/>
+      <pubDate>Fri, 23 Aug 2019 19:28:33 +0200</pubDate>
+      <dc:date>2019-08-23T19:28:33.790693+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 1–15 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-15-electoPanel.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-15-electoPanel-coalitions-seats.png"
+        length="167904"
+        type="image/png"/>
+      <pubDate>Fri, 23 Aug 2019 19:28:33 +0200</pubDate>
+      <dc:date>2019-08-23T19:28:33.790693+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 1–15 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-15-electoPanel.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-15-electoPanel.png"
         length="294667"
         type="image/png"/>
-      <pubDate>Wed, 21 Aug 2019 06:58:56 +0200</pubDate>
-      <dc:date>2019-08-21T06:58:56.02493+02:00</dc:date>
+      <pubDate>Fri, 23 Aug 2019 19:28:33 +0200</pubDate>
+      <dc:date>2019-08-23T19:28:33.790693+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 11 August 2019 – Seat Projections for the Parties</title>
@@ -609,6 +629,6 @@
       <pubDate>Sun, 30 Jun 2019 18:13:36 +0200</pubDate>
       <dc:date>2019-06-30T18:13:36.669695+02:00</dc:date>
     </item>
-    <dc:date>2019-08-21T19:43:55.105864+02:00</dc:date>
+    <dc:date>2019-08-23T19:28:33.790693+02:00</dc:date>
   </channel>
 </rss>
