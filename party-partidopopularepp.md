@@ -82,7 +82,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–13 | 8–13 |
-| [1–15 August 2019](2019-08-15-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
+| [1–15 August 2019](2019-08-15-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [11 August 2019](2019-08-11-NCReport.html) | NC Report <br> La Razón | 12 | 11–14 | 11–14 | 11–14 | 11–14 |
 | [1–7 August 2019](2019-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12 | 10–13 | 10–13 | 10–13 | 10–14 |
 | [1–5 August 2019](2019-08-05-SimpleLógica.html) | Simple Lógica | 9 | 9–10 | 8–10 | 8–11 | 8–11 |
