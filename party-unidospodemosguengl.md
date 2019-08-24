@@ -82,7 +82,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–5 August 2019](2019-08-05-SimpleLógica.html) | Simple Lógica | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [5 August 2019](2019-08-05-KeyData.html) | Key Data <br> Público | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [29 July–1 August 2019](2019-08-01-Invymark.html) | Invymark <br> laSexta | 7 | 6–7 | 6–7 | 5–8 | 5–8 |
-| [24–26 July 2019](2019-07-26-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [24–26 July 2019](2019-07-26-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [25–26 July 2019](2019-07-26-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [23 July 2019](2019-07-23-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [21 July 2019](2019-07-21-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
@@ -118,8 +118,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.1% | 100% |  |
 | 5 | 4% | 99.9% |  |
 | 6 | 21% | 96% |  |
-| 7 | 41% | 75% | Median |
-| 8 | 28% | 34% |  |
+| 7 | 41% | 76% | Median |
+| 8 | 28% | 35% |  |
 | 9 | 6% | 7% |  |
 | 10 | 0.4% | 0.5% |  |
 | 11 | 0% | 0% |  |
