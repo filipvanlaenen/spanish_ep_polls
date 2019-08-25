@@ -100,7 +100,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–15 August 2019](2019-08-15-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 16–18 | 16–19 |
 | [11 August 2019](2019-08-11-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [1–7 August 2019](2019-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 17–20 | 17–20 | 16–20 | 16–20 |
-| [1–5 August 2019](2019-08-05-SimpleLógica.html) | Simple Lógica | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
+| [1–5 August 2019](2019-08-05-SimpleLógica.html) | Simple Lógica | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [5 August 2019](2019-08-05-KeyData.html) | Key Data <br> Público | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
 | [29 July–1 August 2019](2019-08-01-Invymark.html) | Invymark <br> laSexta | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
 | [24–26 July 2019](2019-07-26-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
