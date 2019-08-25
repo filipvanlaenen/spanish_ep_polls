@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 25 Aug 2019 12:33:11 +0200</pubDate>
+    <pubDate>Sun, 25 Aug 2019 12:52:53 +0200</pubDate>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 1–15 August 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-15-electoPanel.html#seats</link>
@@ -100,14 +100,34 @@
       <dc:date>2019-08-21T19:43:55.105864+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Simple Lógica, 1–5 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-SimpleLógica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 8–11 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 16–19 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 6–9 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 7–9 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-SimpleLógica-seats.png"
+        length="135815"
+        type="image/png"/>
+      <pubDate>Sun, 25 Aug 2019 12:52:53 +0200</pubDate>
+      <dc:date>2019-08-25T12:52:53.090002+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 1–5 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-SimpleLógica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-SimpleLógica-coalitions-seats.png"
+        length="154680"
+        type="image/png"/>
+      <pubDate>Sun, 25 Aug 2019 12:52:53 +0200</pubDate>
+      <dc:date>2019-08-25T12:52:53.090002+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Simple Lógica, 1–5 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-SimpleLógica.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 15.1–19.6%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 28.7–34.2%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.8–16.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 12.9–17.2%&lt;/li&gt;&lt;li&gt;Vox (ECR): 9.3–13.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-SimpleLógica.png"
         length="187385"
         type="image/png"/>
-      <pubDate>Sun, 25 Aug 2019 12:33:11 +0200</pubDate>
-      <dc:date>2019-08-25T12:33:11.95276+02:00</dc:date>
+      <pubDate>Sun, 25 Aug 2019 12:52:53 +0200</pubDate>
+      <dc:date>2019-08-25T12:52:53.090002+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Key Data for Público, 5 August 2019 – Seat Projections for the Parties</title>
@@ -689,6 +709,6 @@
       <pubDate>Sun, 30 Jun 2019 18:13:36 +0200</pubDate>
       <dc:date>2019-06-30T18:13:36.669695+02:00</dc:date>
     </item>
-    <dc:date>2019-08-25T12:33:11.95276+02:00</dc:date>
+    <dc:date>2019-08-25T12:52:53.090002+02:00</dc:date>
   </channel>
 </rss>
