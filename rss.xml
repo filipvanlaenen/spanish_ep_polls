@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 23 Aug 2019 23:36:14 +0200</pubDate>
+    <pubDate>Sun, 25 Aug 2019 12:33:11 +0200</pubDate>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 1–15 August 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-15-electoPanel.html#seats</link>
@@ -106,8 +106,28 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-SimpleLógica.png"
         length="187385"
         type="image/png"/>
-      <pubDate>Wed, 21 Aug 2019 18:08:14 +0200</pubDate>
-      <dc:date>2019-08-21T18:08:14.438781+02:00</dc:date>
+      <pubDate>Sun, 25 Aug 2019 12:33:11 +0200</pubDate>
+      <dc:date>2019-08-25T12:33:11.95276+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Key Data for Público, 5 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-KeyData.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 8–12 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 15–20 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 6–9 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 6–10 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-KeyData-seats.png"
+        length="154529"
+        type="image/png"/>
+      <pubDate>Sun, 25 Aug 2019 11:25:44 +0200</pubDate>
+      <dc:date>2019-08-25T11:25:44.951753+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Key Data for Público, 5 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-KeyData.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-KeyData-coalitions-seats.png"
+        length="180169"
+        type="image/png"/>
+      <pubDate>Sun, 25 Aug 2019 11:25:44 +0200</pubDate>
+      <dc:date>2019-08-25T11:25:44.951753+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Key Data for Público, 5 August 2019 – Voting Intentions</title>
@@ -116,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-KeyData.png"
         length="204720"
         type="image/png"/>
-      <pubDate>Wed, 21 Aug 2019 18:10:30 +0200</pubDate>
-      <dc:date>2019-08-21T18:10:30.629114+02:00</dc:date>
+      <pubDate>Sun, 25 Aug 2019 11:25:44 +0200</pubDate>
+      <dc:date>2019-08-25T11:25:44.951753+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 29 July–1 August 2019 – Voting Intentions</title>
@@ -669,6 +689,6 @@
       <pubDate>Sun, 30 Jun 2019 18:13:36 +0200</pubDate>
       <dc:date>2019-06-30T18:13:36.669695+02:00</dc:date>
     </item>
-    <dc:date>2019-08-23T23:36:14.249777+02:00</dc:date>
+    <dc:date>2019-08-25T12:33:11.95276+02:00</dc:date>
   </channel>
 </rss>
