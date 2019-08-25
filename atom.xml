@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-08-25T11:25:44.951753+02:00</updated>
+  <updated>2019-08-25T12:52:53.090002+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 19.4–22.6%, 11–13 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 27.6–31.1%, 16–18 seats</li><li>Unidos Podemos (GUE/NGL): 11.9–14.6%, 7–8 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 11.3–13.9%, 6–8 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 3.8–5.4%, 2–3 seats</li><li>Partit Demòcrata Europeu Català (NI): 1.5–2.6%, 0–1 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 1.2–2.2%, 0–1 seats</li><li>Euskal Herria Bildu (GUE/NGL): 0.8–1.6%, 0 seats</li><li>Coalición Canaria–Partido Nacionalista Canario (RE): 0.4–1.0%, 0 seats</li><li>Vox (ECR): 7.9–10.2%, 4–6 seats</li><li>Coalició Compromís (Greens/EFA): 0.6–1.4%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-15-electoPanel.html</id>
@@ -30,6 +30,14 @@
     <title>Opinion Poll by Celeste-Tel for eldiario.es, 1–7 August 2019</title>
     <updated>2019-08-21T19:43:55.105864+02:00</updated>
     <dc:date>2019-08-21T19:43:55.105864+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 15.1–19.6%, 8–11 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 28.7–34.2%, 16–19 seats</li><li>Unidos Podemos (GUE/NGL): 11.8–16.0%, 6–9 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 12.9–17.2%, 7–9 seats</li><li>Vox (ECR): 9.3–13.0%, 5–7 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-SimpleLógica.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-SimpleLógica.html"/>
+    <title>Opinion Poll by Simple Lógica, 1–5 August 2019</title>
+    <updated>2019-08-25T12:52:53.090002+02:00</updated>
+    <dc:date>2019-08-25T12:52:53.090002+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 15.6–22.5%, 8–12 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 27.7–35.8%, 15–20 seats</li><li>Unidos Podemos (GUE/NGL): 10.7–16.7%, 6–9 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 11.6–17.8%, 6–10 seats</li><li>Vox (ECR): 5.6–10.3%, 3–5 seats</li></ul></div></content>
@@ -175,5 +183,5 @@
     <updated>2019-06-30T18:13:36.669695+02:00</updated>
     <dc:date>2019-06-30T18:13:36.669695+02:00</dc:date>
   </entry>
-  <dc:date>2019-08-25T11:25:44.951753+02:00</dc:date>
+  <dc:date>2019-08-25T12:52:53.090002+02:00</dc:date>
 </feed>
