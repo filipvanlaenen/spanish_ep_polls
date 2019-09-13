@@ -11,9 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31.4% | 28.6–35.7% | 27.9–37.1% | 27.4–37.9% | 26.4–39.1% |
-| [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 34.4% | N/A | N/A | N/A | N/A |
-| [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 31.3% | N/A | N/A | N/A | N/A |
-| [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 33.4% | N/A | N/A | N/A | N/A |
+| [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 34.4% | 32.7–36.2% | 32.2–36.7% | 31.8–37.2% | 31.0–38.0% |
+| [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 31.3% | 29.5–33.1% | 29.0–33.6% | 28.6–34.1% | 27.8–35.0% |
+| [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 33.4% | 31.5–35.4% | 31.0–35.9% | 30.5–36.4% | 29.7–37.3% |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 29.5% | N/A | N/A | N/A | N/A |
 | [1–15 August 2019](2019-08-15-electoPanel.html) | electoPanel <br> electomania.es | 29.3% | 28.2–30.5% | 27.8–30.8% | 27.6–31.1% | 27.0–31.7% |
 | [11 August 2019](2019-08-11-NCReport.html) | NC Report <br> La Razón | 29.7% | 27.9–31.6% | 27.4–32.1% | 26.9–32.6% | 26.1–33.5% |
@@ -101,9 +101,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–20 | 15–21 | 15–21 | 14–22 |
-| [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 20 | 19–20 | 19–20 | 19–20 | 17–20 |
+| [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 20 | 20 | 20 | 20 |
+| [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 17–18 | 17–18 | 17–18 | 16–20 |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [1–15 August 2019](2019-08-15-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 16–18 | 16–19 |
 | [11 August 2019](2019-08-11-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
