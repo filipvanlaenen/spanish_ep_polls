@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 11.5% | 10.4–12.8% | 10.1–13.1% | 9.8–13.4% | 9.3–14.1% |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 12.2% | 11.0–13.5% | 10.7–13.9% | 10.4–14.3% | 9.8–14.9% |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–14.0% | 9.4–14.7% |
-| [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 13.9% | N/A | N/A | N/A | N/A |
+| [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 13.9% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
 | [1–15 August 2019](2019-08-15-electoPanel.html) | electoPanel <br> electomania.es | 12.5% | 11.7–13.4% | 11.5–13.7% | 11.3–13.9% | 10.9–14.3% |
 | [11 August 2019](2019-08-11-NCReport.html) | NC Report <br> La Razón | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
 | [1–7 August 2019](2019-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14.3% | 13.0–15.7% | 12.6–16.1% | 12.3–16.5% | 11.7–17.2% |
@@ -83,9 +83,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 6–11 |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 6 | 6 | 6 | 6 | 6 |
-| [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 7 | 7 | 7 | 7 |
-| [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 7 | 7 | 6–7 | 6–7 |
-| [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 6–8 | 5–9 | 5–9 |
+| [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 8 | 8 | 8 | 8 | 7–8 |
 | [1–15 August 2019](2019-08-15-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [11 August 2019](2019-08-11-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [1–7 August 2019](2019-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
