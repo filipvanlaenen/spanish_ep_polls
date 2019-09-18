@@ -101,7 +101,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–20 | 15–21 | 15–21 | 14–22 |
-| [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 20 | 19–20 | 19–20 | 19–20 | 17–20 |
+| [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–20 | 16–20 | 16–20 | 15–21 |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 17 | 17 | 17 | 17 | 17–18 |
