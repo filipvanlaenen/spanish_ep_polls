@@ -85,7 +85,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 6–8 | 5–9 | 5–9 |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
-| [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 8 | 8 | 8 | 8 | 7–8 |
+| [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [1–15 August 2019](2019-08-15-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [11 August 2019](2019-08-11-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [1–7 August 2019](2019-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
