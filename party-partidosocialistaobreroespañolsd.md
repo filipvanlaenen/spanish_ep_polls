@@ -11,7 +11,17 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31.4% | 28.6–35.7% | 27.9–37.1% | 27.4–37.9% | 26.4–39.1% |
+| [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 33.4% | N/A | N/A | N/A | N/A |
+| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 27.7% | N/A | N/A | N/A | N/A |
+| [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 28.4% | N/A | N/A | N/A | N/A |
+| [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 31.8% | N/A | N/A | N/A | N/A |
+| [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 33.9% | N/A | N/A | N/A | N/A |
+| [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 29.8% | N/A | N/A | N/A | N/A |
+| [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 30.6% | N/A | N/A | N/A | N/A |
+| [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 30.6% | N/A | N/A | N/A | N/A |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 34.4% | 32.7–36.2% | 32.2–36.7% | 31.8–37.2% | 31.0–38.0% |
+| [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 32.1% | N/A | N/A | N/A | N/A |
+| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 30.5% | N/A | N/A | N/A | N/A |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 31.3% | 29.5–33.1% | 29.0–33.6% | 28.6–34.1% | 27.8–35.0% |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 33.4% | 31.5–35.4% | 31.0–35.9% | 30.5–36.4% | 29.7–37.3% |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 29.5% | 27.7–31.4% | 27.2–31.9% | 26.7–32.4% | 25.9–33.3% |
@@ -101,7 +111,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–20 | 15–21 | 15–21 | 14–22 |
+| [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario |  |  |  |  |  |
+| [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente |  |  |  |  |  |
+| [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
+| [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
+| [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–20 | 16–20 | 16–20 | 15–21 |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 17 | 15–18 | 15–19 | 15–19 | 15–20 |
