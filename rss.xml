@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 23 Sep 2019 12:00:12 +0200</pubDate>
+    <pubDate>Mon, 23 Sep 2019 16:13:54 +0200</pubDate>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 16–20 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-20-Invymark.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-18-electoPanel.png"
         length="324836"
         type="image/png"/>
-      <pubDate>Mon, 23 Sep 2019 09:42:00 +0200</pubDate>
-      <dc:date>2019-09-23T09:42:00.180884+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2019 15:51:09 +0200</pubDate>
+      <dc:date>2019-09-23T15:51:09.06907+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 10–15 September 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-15-electoPanel.png"
         length="319113"
         type="image/png"/>
-      <pubDate>Mon, 23 Sep 2019 11:48:01 +0200</pubDate>
-      <dc:date>2019-09-23T11:48:01.675671+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2019 15:27:57 +0200</pubDate>
+      <dc:date>2019-09-23T15:27:57.441052+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoscopia y Servicios for ESDiario, 12–14 September 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-14-DemoscopiayServicios.png"
         length="187007"
         type="image/png"/>
-      <pubDate>Mon, 23 Sep 2019 11:56:41 +0200</pubDate>
-      <dc:date>2019-09-23T11:56:41.322438+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2019 16:13:54 +0200</pubDate>
+      <dc:date>2019-09-23T16:13:54.00221+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 9–13 September 2019 – Voting Intentions</title>
@@ -60,6 +60,36 @@
       <dc:date>2019-09-23T12:00:12.800435+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by DYM for El Independiente, 9–12 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-12-DYM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 16.1–20.9%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 27.0–32.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.5–16.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 11.3–15.5%&lt;/li&gt;&lt;li&gt;Vox (ECR): 5.6–8.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-12-DYM.png"
+        length="186908"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2019 15:53:48 +0200</pubDate>
+      <dc:date>2019-09-23T15:53:48.477261+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 2–6 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-06-SimpleLógica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 16.2–20.8%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 27.9–33.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.8–16.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 11.7–15.8%&lt;/li&gt;&lt;li&gt;Vox (ECR): 10.3–14.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-06-SimpleLógica.png"
+        length="187514"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2019 13:37:23 +0200</pubDate>
+      <dc:date>2019-09-23T13:37:23.451652+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Key Data for Público, 6 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-06-KeyData.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 16.2–23.1%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 26.7–34.8%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.9–16.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 11.1–17.1%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 2.6–6.1%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 0.8–3.1%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.8–3.1%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.4–2.3%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.2–1.8%&lt;/li&gt;&lt;li&gt;Vox (ECR): 6.3–11.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-06-KeyData.png"
+        length="322614"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2019 16:06:14 +0200</pubDate>
+      <dc:date>2019-09-23T16:06:14.937562+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Invymark for laSexta, 2–6 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-06-Invymark.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.9–22.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 31.8–37.2%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.4–14.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 9.8–13.4%&lt;/li&gt;&lt;li&gt;Vox (ECR): 5.4–8.2%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -68,6 +98,26 @@
         type="image/png"/>
       <pubDate>Wed, 18 Sep 2019 15:06:27 +0200</pubDate>
       <dc:date>2019-09-18T15:06:27.083286+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GAD3 for ABC, 2–6 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-06-GAD3.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.5–22.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 29.3–35.1%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.3–15.6%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 12.0–16.3%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 1.2–3.0%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Vox (ECR): 6.4–9.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-06-GAD3.png"
+        length="278608"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2019 13:49:20 +0200</pubDate>
+      <dc:date>2019-09-23T13:49:20.436482+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 2–5 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-05-Celeste-Tel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.8–22.6%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 27.9–33.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.8–15.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 12.1–16.3%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 3.2–5.6%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Vox (ECR): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Coalició Compromís (Greens/EFA): 0.2–1.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-05-Celeste-Tel.png"
+        length="304130"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2019 16:01:13 +0200</pubDate>
+      <dc:date>2019-09-23T16:01:13.46511+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 27–30 August 2019 – Voting Intentions</title>
@@ -819,6 +869,6 @@
       <pubDate>Sun, 30 Jun 2019 18:13:36 +0200</pubDate>
       <dc:date>2019-06-30T18:13:36.669695+02:00</dc:date>
     </item>
-    <dc:date>2019-09-23T12:00:12.800435+02:00</dc:date>
+    <dc:date>2019-09-23T16:13:54.00221+02:00</dc:date>
   </channel>
 </rss>
