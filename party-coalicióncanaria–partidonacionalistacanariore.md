@@ -80,7 +80,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente |  |  |  |  |  |
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 0 | 0 | 0 | 0 | 0–1 |
+| [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 0 | 0 | 0 | 0–1 | 0–1 |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0–1 |

@@ -98,14 +98,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–13 | 8–13 |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–13 | 11–14 | 11–14 | 10–14 |
-| [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 12 | 10–13 | 10–14 | 10–14 | 10–15 |
+| [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
-| [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 10 | 10–11 | 10–11 | 10–11 | 10–12 |
+| [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
-| [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 10 | 10–12 | 9–12 | 8–12 | 8–12 |
+| [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
-| [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 11 | 11–12 | 11–12 | 11–12 | 11–12 |
+| [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 11 | 10–12 | 10–13 | 10–13 | 9–13 |
 | [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12 | 11–13 | 10–13 | 10–13 | 9–13 |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–11 | 9–11 | 9–11 | 8–12 |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 11 | 9–12 | 9–12 | 9–13 | 9–13 |

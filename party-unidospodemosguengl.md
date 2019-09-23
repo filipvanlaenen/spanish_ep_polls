@@ -92,14 +92,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–9 | 7–9 | 6–10 |
-| [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–9 | 6–9 | 6–9 | 6–9 |
+| [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
-| [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
+| [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
+| [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
-| [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 7 | 7 | 7–8 | 7–8 | 6–8 |
+| [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–8 | 7–8 | 6–9 | 6–9 |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
