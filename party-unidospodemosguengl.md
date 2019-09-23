@@ -16,12 +16,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 13.5% | 12.3–14.8% | 12.0–15.2% | 11.7–15.6% | 11.1–16.2% |
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 12.7% | 11.4–14.1% | 11.1–14.6% | 10.8–14.9% | 10.2–15.6% |
 | [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 12.3% | 11.2–13.6% | 10.9–14.0% | 10.6–14.3% | 10.1–15.0% |
-| [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 14.6% | N/A | N/A | N/A | N/A |
-| [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 13.8% | N/A | N/A | N/A | N/A |
-| [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 13.6% | N/A | N/A | N/A | N/A |
+| [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 14.6% | 13.2–16.1% | 12.8–16.5% | 12.5–16.9% | 11.9–17.7% |
+| [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 13.8% | 12.5–15.2% | 12.1–15.6% | 11.8–16.0% | 11.3–16.7% |
+| [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 13.6% | 11.8–15.7% | 11.3–16.4% | 10.9–16.9% | 10.1–18.0% |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 12.2% | 11.0–13.5% | 10.7–13.8% | 10.4–14.1% | 9.9–14.8% |
-| [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 13.3% | N/A | N/A | N/A | N/A |
-| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13.7% | N/A | N/A | N/A | N/A |
+| [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 13.3% | 12.0–14.8% | 11.6–15.2% | 11.3–15.6% | 10.7–16.3% |
+| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13.7% | 12.5–15.2% | 12.1–15.5% | 11.8–15.9% | 11.2–16.6% |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 13.9% | 12.7–15.3% | 12.3–15.7% | 12.0–16.1% | 11.4–16.8% |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 14.2% | 12.9–15.7% | 12.5–16.1% | 12.2–16.5% | 11.6–17.3% |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 13.1% | 11.8–14.6% | 11.4–15.0% | 11.1–15.3% | 10.6–16.1% |
@@ -91,16 +91,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
-| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9 | 7–9 | 7–9 | 7–9 |
-| [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8 | 8 | 8 | 8 |
-| [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
+| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–9 | 7–9 | 6–10 |
+| [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–9 | 6–9 | 6–9 | 6–9 |
+| [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente |  |  |  |  |  |
-| [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
+| [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
-| [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
+| [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 7 | 7 | 7–8 | 7–8 | 6–8 |
+| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–8 | 7–8 | 6–9 | 6–9 |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 7 | 6–9 | 6–9 | 6–9 | 6–9 |
