@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14.2% | 12.0–17.2% | 11.6–17.9% | 11.3–18.5% | 10.6–19.8% |
-| [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 12.1% | N/A | N/A | N/A | N/A |
+| [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 12.1% | 10.9–13.4% | 10.6–13.7% | 10.3–14.1% | 9.8–14.7% |
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 13.0% | N/A | N/A | N/A | N/A |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 12.7% | N/A | N/A | N/A | N/A |
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 14.0% | N/A | N/A | N/A | N/A |
@@ -92,7 +92,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 6–11 |
-| [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario |  |  |  |  |  |

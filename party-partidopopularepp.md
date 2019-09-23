@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19.0% | 16.1–21.8% | 15.5–22.5% | 15.0–23.0% | 14.1–24.0% |
-| [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 20.2% | N/A | N/A | N/A | N/A |
+| [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 20.2% | 18.7–21.7% | 18.3–22.2% | 18.0–22.5% | 17.3–23.3% |
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 21.0% | N/A | N/A | N/A | N/A |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 20.8% | N/A | N/A | N/A | N/A |
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 20.6% | N/A | N/A | N/A | N/A |
@@ -96,7 +96,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–13 | 8–13 |
-| [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario |  |  |  |  |  |
