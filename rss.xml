@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 19 Sep 2019 07:35:56 +0200</pubDate>
+    <pubDate>Mon, 23 Sep 2019 08:09:10 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Invymark for laSexta, 16–20 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-20-Invymark.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 18.0–22.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 30.8–36.1%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.7–14.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 10.3–14.1%&lt;/li&gt;&lt;li&gt;Vox (ECR): 5.5–8.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-20-Invymark.png"
+        length="179418"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2019 08:09:10 +0200</pubDate>
+      <dc:date>2019-09-23T08:09:10.8666+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 2–6 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-06-Invymark.html</link>
@@ -769,6 +779,6 @@
       <pubDate>Sun, 30 Jun 2019 18:13:36 +0200</pubDate>
       <dc:date>2019-06-30T18:13:36.669695+02:00</dc:date>
     </item>
-    <dc:date>2019-09-19T07:35:56.564771+02:00</dc:date>
+    <dc:date>2019-09-23T08:09:10.8666+02:00</dc:date>
   </channel>
 </rss>
