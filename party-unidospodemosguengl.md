@@ -12,10 +12,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.3% | 11.4–15.4% | 10.8–16.0% | 10.3–16.5% | 9.5–17.5% |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 12.5% | 11.3–13.8% | 11.0–14.2% | 10.7–14.5% | 10.2–15.2% |
-| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 13.8% | N/A | N/A | N/A | N/A |
-| [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 13.5% | N/A | N/A | N/A | N/A |
-| [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 12.7% | N/A | N/A | N/A | N/A |
-| [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 12.3% | N/A | N/A | N/A | N/A |
+| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 13.8% | 12.5–15.3% | 12.1–15.7% | 11.8–16.1% | 11.2–16.8% |
+| [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 13.5% | 12.3–14.8% | 12.0–15.2% | 11.7–15.6% | 11.1–16.2% |
+| [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 12.7% | 11.4–14.1% | 11.1–14.6% | 10.8–14.9% | 10.2–15.6% |
+| [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 12.3% | 11.2–13.6% | 10.9–14.0% | 10.6–14.3% | 10.1–15.0% |
 | [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 14.6% | N/A | N/A | N/A | N/A |
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 13.8% | N/A | N/A | N/A | N/A |
 | [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 13.6% | N/A | N/A | N/A | N/A |
@@ -91,10 +91,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
-| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario |  |  |  |  |  |
-| [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9 | 7–9 | 7–9 | 7–9 |
+| [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8 | 8 | 8 | 8 |
+| [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
+| [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente |  |  |  |  |  |
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
