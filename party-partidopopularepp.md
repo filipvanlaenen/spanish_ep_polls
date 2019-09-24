@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.0% | 16.1–21.8% | 15.5–22.5% | 15.0–23.0% | 14.1–24.0% |
+| N/A | [Poll Average](average.html) | 19.1% | 16.6–21.9% | 16.0–22.6% | 15.6–23.2% | 14.8–24.3% |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 20.2% | 18.7–21.7% | 18.3–22.2% | 18.0–22.5% | 17.3–23.3% |
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 20.8% | 19.4–22.4% | 19.0–22.8% | 18.6–23.2% | 18.0–24.0% |
@@ -71,20 +71,21 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 1.1% | 99.8% |  |
-| 14.5–15.5% | 4% | 98.7% |  |
-| 15.5–16.5% | 9% | 95% |  |
-| 16.5–17.5% | 13% | 86% |  |
-| 17.5–18.5% | 16% | 73% |  |
-| 18.5–19.5% | 16% | 58% | Median |
-| 19.5–20.5% | 15% | 41% |  |
-| 20.5–21.5% | 13% | 26% |  |
-| 21.5–22.5% | 8% | 13% |  |
-| 22.5–23.5% | 3% | 4% |  |
-| 23.5–24.5% | 0.9% | 1.1% |  |
-| 24.5–25.5% | 0.2% | 0.2% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.2% | 100% |  |
+| 14.5–15.5% | 2% | 99.7% |  |
+| 15.5–16.5% | 8% | 98% |  |
+| 16.5–17.5% | 14% | 90% |  |
+| 17.5–18.5% | 17% | 76% |  |
+| 18.5–19.5% | 15% | 59% | Median |
+| 19.5–20.5% | 15% | 44% |  |
+| 20.5–21.5% | 15% | 29% |  |
+| 21.5–22.5% | 9% | 14% |  |
+| 22.5–23.5% | 4% | 5% |  |
+| 23.5–24.5% | 1.2% | 2% |  |
+| 24.5–25.5% | 0.3% | 0.3% |  |
+| 25.5–26.5% | 0% | 0.1% |  |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -95,7 +96,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–13 | 8–13 |
+| N/A | [Poll Average](average.html) | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–13 | 11–14 | 11–14 | 10–14 |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
@@ -107,7 +108,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 11 | 10–12 | 10–13 | 10–13 | 9–13 |
 | [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12 | 11–13 | 10–13 | 10–13 | 9–13 |
-| [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–11 | 9–11 | 9–11 | 8–12 |
+| [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–11 | 9–11 | 9–12 | 8–12 |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 11 | 9–12 | 9–12 | 9–13 | 9–13 |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [1–15 August 2019](2019-08-15-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
@@ -152,14 +153,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.5% | 100% |  |
-| 8 | 6% | 99.5% |  |
-| 9 | 17% | 93% |  |
-| 10 | 29% | 76% | Median |
-| 11 | 26% | 47% |  |
-| 12 | 15% | 20% |  |
-| 13 | 5% | 5% |  |
-| 14 | 0.2% | 0.2% |  |
-| 15 | 0% | 0% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 4% | 99.9% |  |
+| 9 | 18% | 96% |  |
+| 10 | 24% | 78% |  |
+| 11 | 24% | 54% | Median |
+| 12 | 22% | 30% |  |
+| 13 | 8% | 8% |  |
+| 14 | 0.6% | 0.9% |  |
+| 15 | 0.2% | 0.2% |  |
+| 16 | 0% | 0% |  |
 
 

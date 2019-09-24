@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.2% | 12.0–17.2% | 11.6–17.9% | 11.3–18.5% | 10.6–19.8% |
+| N/A | [Poll Average](average.html) | 13.2% | 11.5–15.5% | 11.1–16.1% | 10.7–16.6% | 10.0–17.6% |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 12.1% | 10.9–13.4% | 10.6–13.7% | 10.3–14.1% | 9.8–14.7% |
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 12.7% | 11.5–14.0% | 11.2–14.4% | 10.9–14.7% | 10.4–15.3% |
@@ -67,20 +67,18 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.4% | 100% |  |
-| 10.5–11.5% | 4% | 99.6% |  |
-| 11.5–12.5% | 14% | 95% |  |
-| 12.5–13.5% | 20% | 81% |  |
-| 13.5–14.5% | 16% | 62% | Median |
-| 14.5–15.5% | 14% | 46% |  |
-| 15.5–16.5% | 14% | 32% |  |
-| 16.5–17.5% | 10% | 18% |  |
-| 17.5–18.5% | 5% | 7% |  |
-| 18.5–19.5% | 2% | 2% |  |
-| 19.5–20.5% | 0.5% | 0.7% |  |
-| 20.5–21.5% | 0.1% | 0.2% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 8.5–9.5% | 0.1% | 100% |  |
+| 9.5–10.5% | 2% | 99.9% |  |
+| 10.5–11.5% | 9% | 98% |  |
+| 11.5–12.5% | 22% | 89% |  |
+| 12.5–13.5% | 25% | 68% | Median |
+| 13.5–14.5% | 20% | 43% |  |
+| 14.5–15.5% | 14% | 23% |  |
+| 15.5–16.5% | 7% | 9% |  |
+| 16.5–17.5% | 2% | 3% |  |
+| 17.5–18.5% | 0.5% | 0.6% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -91,7 +89,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 6–11 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -103,7 +101,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 6–8 | 5–9 | 5–9 |
+| [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [1–15 August 2019](2019-08-15-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
@@ -146,14 +144,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.4% | 100% |  |
-| 6 | 14% | 99.6% |  |
-| 7 | 31% | 86% |  |
-| 8 | 24% | 55% | Median |
-| 9 | 23% | 31% |  |
-| 10 | 6% | 7% |  |
-| 11 | 1.1% | 1.2% |  |
-| 12 | 0.1% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 5 | 2% | 100% |  |
+| 6 | 16% | 98% |  |
+| 7 | 42% | 82% | Median |
+| 8 | 30% | 40% |  |
+| 9 | 10% | 11% |  |
+| 10 | 0.7% | 0.7% |  |
+| 11 | 0% | 0% |  |
 
 
