@@ -349,8 +349,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
 | 8 | 4% | 99.9% |  |
-| 9 | 18% | 96% |  |
-| 10 | 24% | 78% |  |
+| 9 | 19% | 96% |  |
+| 10 | 23% | 77% |  |
 | 11 | 24% | 54% | Median |
 | 12 | 22% | 30% |  |
 | 13 | 8% | 8% |  |
@@ -383,9 +383,9 @@ Only polls for which at least the sample size has been published are included in
 | 14 | 0.1% | 100% |  |
 | 15 | 1.3% | 99.9% |  |
 | 16 | 10% | 98.6% |  |
-| 17 | 31% | 89% |  |
-| 18 | 30% | 58% | Median |
-| 19 | 12% | 28% |  |
+| 17 | 31% | 88% |  |
+| 18 | 29% | 57% | Median |
+| 19 | 13% | 28% |  |
 | 20 | 11% | 16% |  |
 | 21 | 4% | 4% |  |
 | 22 | 0.6% | 0.6% |  |
@@ -406,9 +406,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0.6% | 100% |  |
 | 6 | 12% | 99.4% |  |
-| 7 | 45% | 88% | Median |
+| 7 | 44% | 88% | Median |
 | 8 | 36% | 43% |  |
-| 9 | 7% | 7% |  |
+| 9 | 7% | 8% |  |
 | 10 | 0.5% | 0.5% |  |
 | 11 | 0% | 0% |  |
 
@@ -427,8 +427,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 2% | 100% |  |
 | 6 | 16% | 98% |  |
-| 7 | 42% | 82% | Median |
-| 8 | 30% | 40% |  |
+| 7 | 41% | 82% | Median |
+| 8 | 30% | 41% |  |
 | 9 | 10% | 11% |  |
 | 10 | 0.7% | 0.7% |  |
 | 11 | 0% | 0% |  |
@@ -442,8 +442,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 18% | 100% |  |
-| 2 | 75% | 82% | Median |
+| 1 | 19% | 100% |  |
+| 2 | 74% | 81% | Median |
 | 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
 
@@ -455,8 +455,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 46% | 100% | Last Result |
-| 1 | 54% | 54% | Median |
+| 0 | 45% | 100% | Last Result |
+| 1 | 55% | 55% | Median |
 | 2 | 0% | 0% |  |
 
 ### Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)
@@ -467,8 +467,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 60% | 100% | Last Result, Median |
-| 1 | 40% | 40% |  |
+| 0 | 58% | 100% | Last Result, Median |
+| 1 | 41% | 42% |  |
 | 2 | 0% | 0% |  |
 
 ### Euskal Herria Bildu (GUE/NGL)
@@ -479,8 +479,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Last Result, Median |
-| 1 | 14% | 14% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
 | 2 | 0% | 0% |  |
 
 ### Coalición Canaria–Partido Nacionalista Canario (RE)
@@ -508,8 +508,8 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0.5% | 100% |  |
 | 3 | 15% | 99.5% |  |
 | 4 | 32% | 85% |  |
-| 5 | 35% | 53% | Median |
-| 6 | 15% | 18% |  |
+| 5 | 36% | 53% | Median |
+| 6 | 15% | 17% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
@@ -521,8 +521,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0.2% | 0.2% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -564,9 +564,9 @@ Only polls for which at least the sample size has been published are included in
 | 14 | 0.1% | 100% |  |
 | 15 | 1.3% | 99.9% |  |
 | 16 | 10% | 98.6% |  |
-| 17 | 31% | 89% |  |
-| 18 | 30% | 58% | Median |
-| 19 | 12% | 28% |  |
+| 17 | 31% | 88% |  |
+| 18 | 29% | 57% | Median |
+| 19 | 13% | 28% |  |
 | 20 | 11% | 16% |  |
 | 21 | 4% | 4% |  |
 | 22 | 0.6% | 0.6% |  |
@@ -587,8 +587,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
 | 8 | 4% | 99.9% |  |
-| 9 | 18% | 96% |  |
-| 10 | 24% | 78% |  |
+| 9 | 19% | 96% |  |
+| 10 | 23% | 77% |  |
 | 11 | 24% | 54% | Median |
 | 12 | 22% | 30% |  |
 | 13 | 8% | 8% |  |
@@ -609,9 +609,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 1.1% | 100% |  |
 | 6 | 12% | 98.9% |  |
-| 7 | 35% | 87% | Median |
+| 7 | 34% | 87% | Median |
 | 8 | 35% | 52% |  |
-| 9 | 14% | 17% |  |
+| 9 | 15% | 18% |  |
 | 10 | 3% | 3% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
@@ -629,9 +629,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0.6% | 100% |  |
 | 6 | 11% | 99.4% |  |
-| 7 | 44% | 88% | Median |
-| 8 | 33% | 45% |  |
-| 9 | 11% | 12% |  |
+| 7 | 43% | 88% | Median |
+| 8 | 35% | 45% |  |
+| 9 | 10% | 11% |  |
 | 10 | 0.6% | 0.6% |  |
 | 11 | 0% | 0% |  |
 
@@ -646,8 +646,8 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0.5% | 100% |  |
 | 3 | 15% | 99.5% |  |
 | 4 | 32% | 85% |  |
-| 5 | 35% | 53% | Median |
-| 6 | 15% | 18% |  |
+| 5 | 36% | 53% | Median |
+| 6 | 15% | 17% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
@@ -657,8 +657,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 66% | 100% | Last Result |
-| 1 | 34% | 34% | Median |
+| 0 | 65% | 100% | Last Result |
+| 1 | 35% | 35% | Median |
 | 2 | 0% | 0% |  |
 
 
@@ -666,5 +666,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 8
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 6,946,816
++ **Total number of simulations done in the polls included in this average:** 7,471,104
 + **Error estimate:** 2.65%
