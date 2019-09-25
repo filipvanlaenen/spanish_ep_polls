@@ -118,7 +118,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
 | [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 17 | 16–19 | 16–20 | 15–20 | 14–21 |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
-| [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 18 | 17–19 | 17–20 | 16–20 | 15–21 |
+| [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–18 | 16–18 | 16–19 | 15–20 |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
@@ -175,9 +175,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.4% | 100% |  |
 | 15 | 3% | 99.5% |  |
 | 16 | 21% | 97% |  |
-| 17 | 29% | 76% | Median |
-| 18 | 28% | 47% |  |
-| 19 | 15% | 19% |  |
+| 17 | 28% | 76% | Median |
+| 18 | 28% | 48% |  |
+| 19 | 15% | 20% |  |
 | 20 | 4% | 5% |  |
 | 21 | 0.6% | 0.6% |  |
 | 22 | 0% | 0% |  |
