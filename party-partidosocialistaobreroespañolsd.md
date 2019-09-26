@@ -108,9 +108,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–19 | 16–19 | 15–20 | 15–21 |
-| [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 19 | 18–19 | 17–20 | 17–20 | 16–21 |
-| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 15–17 | 14–17 | 14–18 |
+| N/A | [Poll Average](average.html) | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
+| [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
+| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 14–18 | 14–18 | 14–18 |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 17 | 15–18 | 15–18 | 15–18 | 14–18 |
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 19 | 18–20 | 18–20 | 17–20 | 17–21 |
@@ -172,10 +172,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.4% | 100% |  |
-| 15 | 3% | 99.5% |  |
-| 16 | 21% | 97% |  |
-| 17 | 28% | 76% | Median |
+| 14 | 0.7% | 100% |  |
+| 15 | 4% | 99.2% |  |
+| 16 | 16% | 95% |  |
+| 17 | 31% | 79% | Median |
 | 18 | 28% | 48% |  |
 | 19 | 15% | 20% |  |
 | 20 | 4% | 5% |  |

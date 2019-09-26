@@ -95,7 +95,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
+| [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
@@ -144,9 +144,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 1.1% | 100% |  |
-| 6 | 19% | 98.9% |  |
-| 7 | 41% | 80% | Median |
-| 8 | 32% | 39% |  |
+| 6 | 17% | 98.9% |  |
+| 7 | 44% | 82% | Median |
+| 8 | 31% | 38% |  |
 | 9 | 7% | 8% |  |
 | 10 | 0.5% | 0.6% |  |
 | 11 | 0% | 0% |  |
