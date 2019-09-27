@@ -88,7 +88,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -145,10 +145,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 1.1% | 100% |  |
 | 6 | 17% | 98.9% |  |
-| 7 | 44% | 82% | Median |
+| 7 | 43% | 82% | Median |
 | 8 | 31% | 38% |  |
 | 9 | 7% | 8% |  |
-| 10 | 0.5% | 0.6% |  |
+| 10 | 0.4% | 0.5% |  |
 | 11 | 0% | 0% |  |
 
 

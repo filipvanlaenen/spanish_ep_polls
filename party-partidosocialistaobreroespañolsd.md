@@ -115,11 +115,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 19 | 18–20 | 18–20 | 17–20 | 17–21 |
 | [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
+| [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 17 | 16–19 | 16–20 | 15–20 | 14–21 |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
 | [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
-| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–18 | 16–18 | 16–19 | 15–20 |
+| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–19 | 16–19 | 16–19 | 16–20 |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
@@ -174,10 +174,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0.7% | 100% |  |
 | 15 | 4% | 99.2% |  |
-| 16 | 16% | 95% |  |
-| 17 | 31% | 79% | Median |
-| 18 | 28% | 48% |  |
-| 19 | 15% | 20% |  |
+| 16 | 18% | 95% |  |
+| 17 | 27% | 77% | Median |
+| 18 | 29% | 50% |  |
+| 19 | 16% | 21% |  |
 | 20 | 4% | 5% |  |
 | 21 | 0.6% | 0.6% |  |
 | 22 | 0% | 0% |  |
