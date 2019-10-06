@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.7% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.2% | 0.4–1.4% | 0.3–1.5% | 0.2–1.8% |
 | [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
-| [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 0.8% | N/A | N/A | N/A | N/A |
+| [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
 | [18–20 September 2019](2019-09-20-Ipsos.html) | Ipsos <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
@@ -63,9 +63,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 25% | 100% | Last Result |
-| 0.5–1.5% | 73% | 75% | Median |
-| 1.5–2.5% | 1.4% | 1.4% |  |
+| 0.0–0.5% | 20% | 100% | Last Result |
+| 0.5–1.5% | 78% | 80% | Median |
+| 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -79,7 +79,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
 | [18–20 September 2019](2019-09-20-Ipsos.html) | Ipsos <br> Henneo |  |  |  |  |  |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
@@ -132,8 +132,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.2% | 100% | Last Result, Median |
-| 1 | 0.8% | 0.8% |  |
+| 0 | 99.4% | 100% | Last Result, Median |
+| 1 | 0.6% | 0.6% |  |
 | 2 | 0% | 0% |  |
 
 

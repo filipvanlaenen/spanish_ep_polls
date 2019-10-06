@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.0% | 27.9–34.1% | 27.1–34.8% | 26.4–35.4% | 25.2–36.5% |
-| [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón | 28.6% | N/A | N/A | N/A | N/A |
-| [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 28.6% | N/A | N/A | N/A | N/A |
-| [18–20 September 2019](2019-09-20-Ipsos.html) | Ipsos <br> Henneo | 28.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 30.3% | 27.4–33.6% | 26.8–34.4% | 26.3–35.1% | 25.2–36.2% |
+| [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón | 28.6% | 26.8–30.5% | 26.3–31.0% | 25.9–31.5% | 25.0–32.4% |
+| [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 28.6% | 26.8–30.5% | 26.3–31.0% | 25.9–31.5% | 25.0–32.4% |
+| [18–20 September 2019](2019-09-20-Ipsos.html) | Ipsos <br> Henneo | 28.0% | 26.7–29.4% | 26.3–29.8% | 26.0–30.1% | 25.3–30.8% |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 33.4% | 31.7–35.2% | 31.2–35.7% | 30.8–36.1% | 30.0–37.0% |
-| [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC | 31.6% | N/A | N/A | N/A | N/A |
+| [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC | 31.6% | 29.8–33.6% | 29.2–34.1% | 28.8–34.6% | 27.9–35.5% |
 | [18–20 September 2019](2019-09-20-40dB.html) | 40dB <br> El País | 30.3% | N/A | N/A | N/A | N/A |
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 27.7% | 25.9–29.6% | 25.4–30.1% | 25.0–30.6% | 24.2–31.5% |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 28.4% | 26.8–30.1% | 26.3–30.6% | 25.9–31.0% | 25.2–31.9% |
@@ -89,19 +89,19 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0.1% | 100% |  |
 | 24.5–25.5% | 0.7% | 99.9% |  |
-| 25.5–26.5% | 2% | 99.2% |  |
-| 26.5–27.5% | 5% | 97% |  |
-| 27.5–28.5% | 8% | 93% |  |
-| 28.5–29.5% | 12% | 85% |  |
-| 29.5–30.5% | 15% | 73% |  |
-| 30.5–31.5% | 16% | 58% | Median |
-| 31.5–32.5% | 15% | 42% |  |
-| 32.5–33.5% | 12% | 27% |  |
-| 33.5–34.5% | 8% | 15% |  |
-| 34.5–35.5% | 4% | 6% |  |
-| 35.5–36.5% | 2% | 2% |  |
-| 36.5–37.5% | 0.4% | 0.4% |  |
-| 37.5–38.5% | 0.1% | 0.1% |  |
+| 25.5–26.5% | 3% | 99.2% |  |
+| 26.5–27.5% | 8% | 96% |  |
+| 27.5–28.5% | 12% | 88% |  |
+| 28.5–29.5% | 15% | 76% |  |
+| 29.5–30.5% | 15% | 61% | Median |
+| 30.5–31.5% | 14% | 47% |  |
+| 31.5–32.5% | 12% | 33% |  |
+| 32.5–33.5% | 9% | 20% |  |
+| 33.5–34.5% | 6% | 11% |  |
+| 34.5–35.5% | 3% | 4% |  |
+| 35.5–36.5% | 1.1% | 1.4% |  |
+| 36.5–37.5% | 0.3% | 0.3% |  |
+| 37.5–38.5% | 0% | 0% |  |
 | 38.5–39.5% | 0% | 0% |  |
 
 
@@ -113,10 +113,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–19 | 15–20 | 15–20 | 14–21 |
-| [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [18–20 September 2019](2019-09-20-Ipsos.html) | Ipsos <br> Henneo |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 15–20 | 14–20 |
+| [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
+| [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 15–17 | 15–17 | 15–17 | 14–18 |
+| [18–20 September 2019](2019-09-20-Ipsos.html) | Ipsos <br> Henneo | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [18–20 September 2019](2019-09-20-40dB.html) | 40dB <br> El País |  |  |  |  |  |
@@ -182,15 +182,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 1.0% | 100% |  |
-| 15 | 5% | 99.0% |  |
-| 16 | 20% | 94% |  |
-| 17 | 29% | 74% | Median |
-| 18 | 25% | 45% |  |
-| 19 | 15% | 21% |  |
-| 20 | 5% | 5% |  |
-| 21 | 0.6% | 0.7% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 14 | 2% | 100% |  |
+| 15 | 11% | 98% |  |
+| 16 | 25% | 87% |  |
+| 17 | 29% | 63% | Median |
+| 18 | 18% | 33% |  |
+| 19 | 11% | 15% |  |
+| 20 | 3% | 4% |  |
+| 21 | 0.4% | 0.5% |  |
+| 22 | 0% | 0% |  |
 
 
