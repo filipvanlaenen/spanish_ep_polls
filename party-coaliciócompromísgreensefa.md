@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [30 September–4 October 2019](2019-10-04-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 0.0% | N/A | N/A | N/A | N/A |
@@ -24,7 +24,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
 | [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 0.0% | N/A | N/A | N/A | N/A |
 | [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
-| [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.7% | N/A | N/A | N/A | N/A |
+| [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% | 0.3–1.7% |
 | [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
 | [18–20 September 2019](2019-09-20-Ipsos.html) | Ipsos <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
@@ -77,9 +77,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 10% | 100% | Last Result |
-| 0.5–1.5% | 87% | 90% | Median |
-| 1.5–2.5% | 3% | 3% |  |
+| 0.0–0.5% | 13% | 100% | Last Result |
+| 0.5–1.5% | 85% | 87% | Median |
+| 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -91,7 +91,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [30 September–4 October 2019](2019-10-04-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
@@ -105,7 +105,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
 | [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
+| [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0–1 |
 | [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
 | [18–20 September 2019](2019-09-20-Ipsos.html) | Ipsos <br> Henneo |  |  |  |  |  |
@@ -160,8 +160,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0.2% | 0.2% |  |
+| 0 | 99.1% | 100% | Last Result, Median |
+| 1 | 0.9% | 0.9% |  |
 | 2 | 0% | 0% |  |
 
 
