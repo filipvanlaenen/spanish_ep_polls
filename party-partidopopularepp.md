@@ -116,7 +116,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 10–13 | 10–13 | 9–14 | 9–14 |
-| [30 September–4 October 2019](2019-10-04-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 11–14 | 11–14 | 11–14 | 10–14 |
+| [30 September–4 October 2019](2019-10-04-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 12–13 | 11–14 | 11–14 | 11–14 |
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 12 | 10–13 | 10–13 | 9–13 | 9–14 |
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
@@ -128,7 +128,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1 October 2019](2019-10-01-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–15 | 12–15 | 12–16 |
 | [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
-| [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
+| [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12 | 12–13 | 11–14 | 11–14 | 11–15 |
 | [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
@@ -196,9 +196,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 4% | 99.7% |  |
 | 10 | 17% | 95% |  |
 | 11 | 27% | 78% |  |
-| 12 | 27% | 51% | Median |
-| 13 | 20% | 24% |  |
-| 14 | 4% | 5% |  |
+| 12 | 27% | 52% | Median |
+| 13 | 20% | 25% |  |
+| 14 | 4% | 4% |  |
 | 15 | 0.2% | 0.2% |  |
 | 16 | 0% | 0% |  |
 
