@@ -110,7 +110,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 6–9 | 6–10 |
 | [30 September–4 October 2019](2019-10-04-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
-| [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [30 September–4 October 2019](2019-10-04-Hamalgama.html) | Hamalgama <br> OKDIARIO | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
