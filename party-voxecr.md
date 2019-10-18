@@ -108,10 +108,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 September–4 October 2019](2019-10-04-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 5 | 4–7 | 4–7 | 4–7 | 3–7 |
-| [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
+| [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [30 September–4 October 2019](2019-10-04-Hamalgama.html) | Hamalgama <br> OKDIARIO | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 6 | 6 | 6–7 | 6–7 | 5–8 |
+| [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [1 October 2019](2019-10-01-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -178,8 +178,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0.2% | 100% |  |
 | 3 | 18% | 99.8% |  |
 | 4 | 28% | 82% |  |
-| 5 | 30% | 53% | Median |
-| 6 | 17% | 23% |  |
+| 5 | 31% | 54% | Median |
+| 6 | 16% | 23% |  |
 | 7 | 6% | 7% |  |
 | 8 | 0.4% | 0.4% |  |
 | 9 | 0% | 0% |  |
