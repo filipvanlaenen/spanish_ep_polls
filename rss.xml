@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 18 Oct 2019 13:32:39 +0200</pubDate>
+    <pubDate>Fri, 18 Oct 2019 19:54:23 +0200</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 30 September–4 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-04-SocioMétrica.html#seats</link>
@@ -80,14 +80,34 @@
       <dc:date>2019-10-17T19:52:58.300296+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Invymark for laSexta, 30 September–4 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-04-Invymark.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 12–15 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 18–21 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 6–8 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-04-Invymark-seats.png"
+        length="134000"
+        type="image/png"/>
+      <pubDate>Fri, 18 Oct 2019 19:54:23 +0200</pubDate>
+      <dc:date>2019-10-18T19:54:23.105206+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Invymark for laSexta, 30 September–4 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-04-Invymark.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-04-Invymark-coalitions-seats.png"
+        length="147879"
+        type="image/png"/>
+      <pubDate>Fri, 18 Oct 2019 19:54:23 +0200</pubDate>
+      <dc:date>2019-10-18T19:54:23.105206+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Invymark for laSexta, 30 September–4 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-04-Invymark.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 21.6–26.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 32.3–37.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.3–15.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 11.8–15.7%&lt;/li&gt;&lt;li&gt;Vox (ECR): 7.5–10.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-04-Invymark.png"
         length="179935"
         type="image/png"/>
-      <pubDate>Thu, 10 Oct 2019 19:34:34 +0200</pubDate>
-      <dc:date>2019-10-10T19:34:34.911058+02:00</dc:date>
+      <pubDate>Fri, 18 Oct 2019 19:54:23 +0200</pubDate>
+      <dc:date>2019-10-18T19:54:23.105206+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Hamalgama for OKDIARIO, 30 September–4 October 2019 – Seat Projections for the Parties</title>
@@ -150,14 +170,54 @@
       <dc:date>2019-10-10T22:41:28.696719+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 1–3 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-03-IMOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 11–14 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 16–18 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 5–7 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 0–2 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-03-IMOP-seats.png"
+        length="221519"
+        type="image/png"/>
+      <pubDate>Fri, 18 Oct 2019 18:41:06 +0200</pubDate>
+      <dc:date>2019-10-18T18:41:06.800987+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 1–3 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-03-IMOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-03-IMOP-coalitions-seats.png"
+        length="178359"
+        type="image/png"/>
+      <pubDate>Fri, 18 Oct 2019 18:41:06 +0200</pubDate>
+      <dc:date>2019-10-18T18:41:06.800987+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IMOP for El Confidencial, 1–3 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-03-IMOP.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 19.1–23.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 27.5–32.6%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.0–14.7%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 9.7–13.2%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 2.6–4.7%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 1.6–3.4%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 1.1–2.6%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Vox (ECR): 9.7–13.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-03-IMOP.png"
         length="293879"
         type="image/png"/>
-      <pubDate>Thu, 10 Oct 2019 19:58:17 +0200</pubDate>
-      <dc:date>2019-10-10T19:58:17.883942+02:00</dc:date>
+      <pubDate>Fri, 18 Oct 2019 18:41:06 +0200</pubDate>
+      <dc:date>2019-10-18T18:41:06.800987+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 30 September–3 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-03-GESOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 16–19 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 6–9 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 5–7 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-03-GESOP-seats.png"
+        length="186006"
+        type="image/png"/>
+      <pubDate>Fri, 18 Oct 2019 19:25:15 +0200</pubDate>
+      <dc:date>2019-10-18T19:25:15.208818+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 30 September–3 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-03-GESOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-03-GESOP-coalitions-seats.png"
+        length="180722"
+        type="image/png"/>
+      <pubDate>Fri, 18 Oct 2019 19:25:15 +0200</pubDate>
+      <dc:date>2019-10-18T19:25:15.208818+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 30 September–3 October 2019 – Voting Intentions</title>
@@ -166,8 +226,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-03-GESOP.png"
         length="239768"
         type="image/png"/>
-      <pubDate>Thu, 10 Oct 2019 17:35:56 +0200</pubDate>
-      <dc:date>2019-10-10T17:35:56.449822+02:00</dc:date>
+      <pubDate>Fri, 18 Oct 2019 19:25:15 +0200</pubDate>
+      <dc:date>2019-10-18T19:25:15.208818+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 30 September–2 October 2019 – Seat Projections for the Parties</title>
@@ -390,14 +450,34 @@
       <dc:date>2019-10-11T20:56:58.00556+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ipsos for Henneo, 18–20 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-20-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 10–12 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 15–17 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 7–9 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 7–9 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-20-Ipsos-seats.png"
+        length="199486"
+        type="image/png"/>
+      <pubDate>Fri, 18 Oct 2019 17:51:05 +0200</pubDate>
+      <dc:date>2019-10-18T17:51:05.526646+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Henneo, 18–20 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-20-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-20-Ipsos-coalitions-seats.png"
+        length="175938"
+        type="image/png"/>
+      <pubDate>Fri, 18 Oct 2019 17:51:05 +0200</pubDate>
+      <dc:date>2019-10-18T17:51:05.526646+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for Henneo, 18–20 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-20-Ipsos.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 18.0–21.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 26.0–30.1%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 13.6–16.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 12.7–15.9%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 2.9–4.7%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 1.2–2.4%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 1.1–2.2%&lt;/li&gt;&lt;li&gt;Vox (ECR): 8.5–11.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-20-Ipsos.png"
         length="248949"
         type="image/png"/>
-      <pubDate>Sun, 06 Oct 2019 16:29:36 +0200</pubDate>
-      <dc:date>2019-10-06T16:29:36.98887+02:00</dc:date>
+      <pubDate>Fri, 18 Oct 2019 17:51:05 +0200</pubDate>
+      <dc:date>2019-10-18T17:51:05.526646+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 16–20 September 2019 – Seat Projections for the Parties</title>
@@ -1539,6 +1619,6 @@
       <pubDate>Sun, 30 Jun 2019 18:13:36 +0200</pubDate>
       <dc:date>2019-06-30T18:13:36.669695+02:00</dc:date>
     </item>
-    <dc:date>2019-10-18T13:32:39.044464+02:00</dc:date>
+    <dc:date>2019-10-18T19:54:23.105206+02:00</dc:date>
   </channel>
 </rss>
