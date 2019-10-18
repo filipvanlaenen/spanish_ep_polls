@@ -105,7 +105,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [1 October 2019](2019-10-01-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2 | 2 | 2–3 |
 | [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
@@ -115,7 +115,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [18–20 September 2019](2019-09-20-Ipsos.html) | Ipsos <br> Henneo | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [18–20 September 2019](2019-09-20-40dB.html) | 40dB <br> El País |  |  |  |  |  |
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 1–3 | 1–3 |

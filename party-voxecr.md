@@ -123,7 +123,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [18–20 September 2019](2019-09-20-Ipsos.html) | Ipsos <br> Henneo | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
-| [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [18–20 September 2019](2019-09-20-40dB.html) | 40dB <br> El País | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
