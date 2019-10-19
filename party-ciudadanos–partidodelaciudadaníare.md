@@ -119,7 +119,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [1 October 2019](2019-10-01-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
+| [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7 | 7–8 | 7–8 | 6–9 | 6–9 |
 | [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
@@ -127,7 +127,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [18–20 September 2019](2019-09-20-Ipsos.html) | Ipsos <br> Henneo | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
-| [18–20 September 2019](2019-09-20-40dB.html) | 40dB <br> El País | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
+| [18–20 September 2019](2019-09-20-40dB.html) | 40dB <br> El País | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
@@ -183,8 +183,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 2% | 100% |  |
 | 6 | 24% | 98% |  |
-| 7 | 46% | 75% | Median |
-| 8 | 25% | 29% |  |
+| 7 | 46% | 74% | Median |
+| 8 | 25% | 28% |  |
 | 9 | 3% | 4% |  |
 | 10 | 0.2% | 0.3% |  |
 | 11 | 0% | 0% |  |
