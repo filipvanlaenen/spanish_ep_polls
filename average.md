@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 17–24% <br> 9–14 | 26–34% <br> 15–19 | 11–16% <br> 6–9 | 10–16% <br> 6–9 | 3–6% <br> 1–3 | 1–3% <br> 0–1 | 1–3% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0–1 | 0–1% <br> 0 | 6–13% <br> 3–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 |
 | [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 21–24% <br> 12–14 | 25–28% <br> 14–16 | 11–13% <br> 6–7 | 11–13% <br> 6–7 | 4–5% <br> 2–3 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | 1% <br> 0 | 0–1% <br> 0 | 8–10% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 20–25% <br> 11–14 | 28–34% <br> 15–19 | 12–17% <br> 6–9 | 10–14% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 20–25% <br> 11–14 | 28–34% <br> 15–19 | 12–17% <br> 7–9 | 10–14% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC | 19–24% <br> 11–14 | 25–30% <br> 14–17 | 11–14% <br> 6–8 | 10–13% <br> 5–8 | 3–5% <br> 1–3 | 1–3% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 | 0–1% <br> 0 | 8–11% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 20–25% <br> 11–14 | 27–32% <br> 15–19 | 12–16% <br> 7–9 | 11–16% <br> 6–9 | 3–6% <br> 1–3 | 1–3% <br> 0–1 | 1–3% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0–1 | 0–1% <br> 0 | 6–9% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
 | [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón | 20–25% <br> 11–14 | 26–31% <br> 14–17 | 12–16% <br> 6–9 | 12–16% <br> 6–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -356,7 +356,7 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0.3% | 100% |  |
 | 9 | 4% | 99.7% |  |
 | 10 | 17% | 95% |  |
-| 11 | 28% | 79% |  |
+| 11 | 27% | 79% |  |
 | 12 | 27% | 51% | Median |
 | 13 | 20% | 24% |  |
 | 14 | 4% | 4% |  |
@@ -389,7 +389,7 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 14% | 98% |  |
 | 16 | 31% | 84% |  |
 | 17 | 28% | 53% | Median |
-| 18 | 17% | 25% |  |
+| 18 | 18% | 25% |  |
 | 19 | 6% | 7% |  |
 | 20 | 1.3% | 1.4% |  |
 | 21 | 0.1% | 0.1% |  |
@@ -431,8 +431,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 2% | 100% |  |
 | 6 | 24% | 98% |  |
-| 7 | 46% | 75% | Median |
-| 8 | 25% | 29% |  |
+| 7 | 46% | 74% | Median |
+| 8 | 25% | 28% |  |
 | 9 | 3% | 4% |  |
 | 10 | 0.2% | 0.3% |  |
 | 11 | 0% | 0% |  |
@@ -518,7 +518,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 31% | 54% | Median |
 | 6 | 16% | 23% |  |
 | 7 | 6% | 7% |  |
-| 8 | 0.4% | 0.4% |  |
+| 8 | 0.5% | 0.5% |  |
 | 9 | 0% | 0% |  |
 
 ### Coalició Compromís (Greens/EFA)
@@ -573,7 +573,7 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 14% | 98% |  |
 | 16 | 31% | 84% |  |
 | 17 | 28% | 53% | Median |
-| 18 | 17% | 25% |  |
+| 18 | 18% | 25% |  |
 | 19 | 6% | 7% |  |
 | 20 | 1.3% | 1.4% |  |
 | 21 | 0.1% | 0.1% |  |
@@ -596,7 +596,7 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0.3% | 100% |  |
 | 9 | 4% | 99.7% |  |
 | 10 | 17% | 95% |  |
-| 11 | 28% | 79% |  |
+| 11 | 27% | 79% |  |
 | 12 | 27% | 51% | Median |
 | 13 | 20% | 24% |  |
 | 14 | 4% | 4% |  |
@@ -615,10 +615,10 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 1.0% | 100% |  |
-| 6 | 17% | 99.0% |  |
-| 7 | 43% | 82% | Median |
-| 8 | 30% | 38% |  |
-| 9 | 8% | 9% |  |
+| 6 | 18% | 99.0% |  |
+| 7 | 43% | 81% | Median |
+| 8 | 29% | 38% |  |
+| 9 | 7% | 9% |  |
 | 10 | 1.0% | 1.2% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
@@ -637,7 +637,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0.3% | 100% |  |
 | 6 | 12% | 99.7% |  |
 | 7 | 44% | 88% | Median |
-| 8 | 33% | 44% |  |
+| 8 | 33% | 45% |  |
 | 9 | 10% | 11% |  |
 | 10 | 0.8% | 1.0% |  |
 | 11 | 0.2% | 0.2% |  |
@@ -657,7 +657,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 31% | 54% | Median |
 | 6 | 16% | 23% |  |
 | 7 | 6% | 7% |  |
-| 8 | 0.4% | 0.4% |  |
+| 8 | 0.5% | 0.5% |  |
 | 9 | 0% | 0% |  |
 
 ### Partit Demòcrata Europeu Català (NI)
@@ -675,6 +675,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 13
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 11,796,480
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 13,631,488
 + **Error estimate:** 2.04%
