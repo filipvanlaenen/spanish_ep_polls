@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 25 Oct 2019 21:20:19 +0200</pubDate>
+    <pubDate>Sun, 27 Oct 2019 21:24:51 +0100</pubDate>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 19–20 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-20-electoPanel.html</link>
@@ -110,14 +110,34 @@
       <dc:date>2019-10-24T21:16:02.829631+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 30 September–4 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-04-SocioMétrica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 11–14 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 15–18 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 5–7 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-04-SocioMétrica-seats.png"
+        length="228477"
+        type="image/png"/>
+      <pubDate>Sun, 27 Oct 2019 21:24:51 +0100</pubDate>
+      <dc:date>2019-10-27T21:24:51.210748+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 30 September–4 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-04-SocioMétrica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-04-SocioMétrica-coalitions-seats.png"
+        length="186469"
+        type="image/png"/>
+      <pubDate>Sun, 27 Oct 2019 21:24:51 +0100</pubDate>
+      <dc:date>2019-10-27T21:24:51.210748+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SocioMétrica for El Español, 30 September–4 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-04-SocioMétrica.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 19.4–24.6%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 26.0–31.6%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.5–14.6%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 9.4–13.3%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 2.7–5.1%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 1.2–3.0%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.2–1.0%&lt;/li&gt;&lt;li&gt;Vox (ECR): 9.7–13.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-04-SocioMétrica.png"
         length="302620"
         type="image/png"/>
-      <pubDate>Thu, 24 Oct 2019 19:54:06 +0200</pubDate>
-      <dc:date>2019-10-24T19:54:06.941544+02:00</dc:date>
+      <pubDate>Sun, 27 Oct 2019 21:24:51 +0100</pubDate>
+      <dc:date>2019-10-27T21:24:51.210748+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Simple Lógica, 1–4 October 2019 – Voting Intentions</title>
@@ -1539,6 +1559,6 @@
       <pubDate>Sun, 30 Jun 2019 18:13:36 +0200</pubDate>
       <dc:date>2019-06-30T18:13:36.669695+02:00</dc:date>
     </item>
-    <dc:date>2019-10-25T21:20:19.679508+02:00</dc:date>
+    <dc:date>2019-10-27T21:24:51.210748+01:00</dc:date>
   </channel>
 </rss>
