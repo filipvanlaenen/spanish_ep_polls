@@ -147,7 +147,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–18 October 2019](2019-10-18-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 16–19 | 16–19 | 16–19 |
 | [16–17 October 2019](2019-10-17-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [15–17 October 2019](2019-10-17-Ipsos.html) | Ipsos <br> Henneo | 15 | 15–16 | 14–16 | 14–17 | 14–17 |
-| [30 September–4 October 2019](2019-10-04-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–17 | 15–17 | 15–18 | 14–19 |
+| [30 September–4 October 2019](2019-10-04-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 17 | 15–19 | 15–19 | 14–20 | 14–20 |
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
