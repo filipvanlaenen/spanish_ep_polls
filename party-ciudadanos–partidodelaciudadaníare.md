@@ -135,7 +135,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| [1 October 2019](2019-10-01-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–9 | 6–9 | 6–9 | 6–9 |
+| [1 October 2019](2019-10-01-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
