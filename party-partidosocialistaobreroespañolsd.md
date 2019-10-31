@@ -139,19 +139,19 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
 | [19–20 October 2019](2019-10-20-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 15–17 | 15–18 | 14–18 |
 | [18–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
-| [17–18 October 2019](2019-10-18-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–16 | 15–16 | 15–17 | 14–17 |
+| [17–18 October 2019](2019-10-18-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 15–17 | 14–19 |
 | [14–18 October 2019](2019-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 15–17 | 15–18 | 14–18 | 14–18 |
-| [9–18 October 2019](2019-10-18-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
+| [9–18 October 2019](2019-10-18-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [14–18 October 2019](2019-10-18-Invymark.html) | Invymark <br> laSexta | 16 | 15–17 | 15–18 | 15–18 | 15–18 |
 | [16–18 October 2019](2019-10-18-Hamalgama.html) | Hamalgama <br> OKDIARIO | 16 | 15–16 | 15–17 | 14–17 | 14–18 |
-| [14–18 October 2019](2019-10-18-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 16–19 | 16–19 | 16–19 |
+| [14–18 October 2019](2019-10-18-GAD3.html) | GAD3 <br> ABC | 18 | 17–18 | 17–18 | 17–18 | 16–19 |
 | [16–17 October 2019](2019-10-17-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [15–17 October 2019](2019-10-17-Ipsos.html) | Ipsos <br> Henneo | 15 | 15–16 | 14–16 | 14–17 | 14–17 |
 | [30 September–4 October 2019](2019-10-04-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 17 | 15–19 | 15–19 | 14–20 | 14–20 |
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
-| [30 September–4 October 2019](2019-10-04-Hamalgama.html) | Hamalgama <br> OKDIARIO | 15 | 14–16 | 14–16 | 14–17 | 13–18 |
+| [30 September–4 October 2019](2019-10-04-Hamalgama.html) | Hamalgama <br> OKDIARIO | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 17 | 17–18 | 17–18 | 16–18 | 15–19 |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
@@ -228,12 +228,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.1% | 100% |  |
-| 14 | 2% | 99.9% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 3% | 99.8% |  |
 | 15 | 16% | 97% |  |
-| 16 | 27% | 81% |  |
-| 17 | 32% | 54% | Median |
-| 18 | 15% | 22% |  |
+| 16 | 26% | 81% |  |
+| 17 | 31% | 55% | Median |
+| 18 | 18% | 23% |  |
 | 19 | 5% | 6% |  |
 | 20 | 0.8% | 0.9% |  |
 | 21 | 0.1% | 0.1% |  |

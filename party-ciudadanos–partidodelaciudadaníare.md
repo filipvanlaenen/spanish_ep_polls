@@ -118,7 +118,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | [19–20 October 2019](2019-10-20-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [18–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| [17–18 October 2019](2019-10-18-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [17–18 October 2019](2019-10-18-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [14–18 October 2019](2019-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [9–18 October 2019](2019-10-18-NCReport.html) | NC Report <br> La Razón | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [14–18 October 2019](2019-10-18-Invymark.html) | Invymark <br> laSexta | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -199,7 +199,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 3% | 100% |  |
-| 5 | 24% | 97% |  |
+| 5 | 23% | 97% |  |
 | 6 | 47% | 73% | Median |
 | 7 | 21% | 26% |  |
 | 8 | 5% | 5% |  |
