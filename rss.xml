@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 01 Nov 2019 20:34:21 +0100</pubDate>
+    <pubDate>Fri, 01 Nov 2019 21:05:49 +0100</pubDate>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 19–20 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-20-electoPanel.html#seats</link>
@@ -560,14 +560,34 @@
       <dc:date>2019-10-25T06:50:47.851952+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sondaxe for La Voz de Galicia, 23–26 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-26-Sondaxe.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 11–14 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 15–19 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 7–9 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 5–8 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 5–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-26-Sondaxe-seats.png"
+        length="159438"
+        type="image/png"/>
+      <pubDate>Fri, 01 Nov 2019 21:05:49 +0100</pubDate>
+      <dc:date>2019-11-01T21:05:49.286143+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sondaxe for La Voz de Galicia, 23–26 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-26-Sondaxe.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-26-Sondaxe-coalitions-seats.png"
+        length="170299"
+        type="image/png"/>
+      <pubDate>Fri, 01 Nov 2019 21:05:49 +0100</pubDate>
+      <dc:date>2019-11-01T21:05:49.286143+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sondaxe for La Voz de Galicia, 23–26 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-26-Sondaxe.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 19.9–25.1%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 27.8–33.5%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.3–16.6%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 10.2–14.3%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.9–2.5%&lt;/li&gt;&lt;li&gt;Vox (ECR): 9.9–13.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-26-Sondaxe.png"
         length="195619"
         type="image/png"/>
-      <pubDate>Thu, 24 Oct 2019 06:48:31 +0200</pubDate>
-      <dc:date>2019-10-24T06:48:31.461131+02:00</dc:date>
+      <pubDate>Fri, 01 Nov 2019 21:05:49 +0100</pubDate>
+      <dc:date>2019-11-01T21:05:49.286143+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 23–25 September 2019 – Seat Projections for the Parties</title>
@@ -1859,6 +1879,6 @@
       <pubDate>Sun, 30 Jun 2019 18:13:36 +0200</pubDate>
       <dc:date>2019-06-30T18:13:36.669695+02:00</dc:date>
     </item>
-    <dc:date>2019-11-01T20:34:21.358084+01:00</dc:date>
+    <dc:date>2019-11-01T21:05:49.286143+01:00</dc:date>
   </channel>
 </rss>
