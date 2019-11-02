@@ -158,7 +158,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [1 October 2019](2019-10-01-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–16 | 14–16 | 14–16 | 14–16 |
-| [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
+| [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
 | [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
@@ -234,8 +234,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 28% | 83% |  |
 | 17 | 30% | 55% | Median |
 | 18 | 20% | 26% |  |
-| 19 | 5% | 5% |  |
-| 20 | 0.9% | 1.0% |  |
+| 19 | 4% | 5% |  |
+| 20 | 0.9% | 0.9% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
