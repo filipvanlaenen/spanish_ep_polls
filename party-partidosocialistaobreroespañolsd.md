@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.6% | 27.9–31.3% | 27.5–31.8% | 27.1–32.2% | 26.3–33.1% |
-| [5–7 November 2019](2019-11-07-GESOP.html) | GESOP <br> El Periòdic | 29.6% | N/A | N/A | N/A | N/A |
-| [5–6 November 2019](2019-11-06-GESOP.html) | GESOP <br> El Periòdic | 29.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 29.6% | 27.9–31.5% | 27.4–32.0% | 26.9–32.5% | 26.1–33.4% |
+| [5–7 November 2019](2019-11-07-GESOP.html) | GESOP <br> El Periòdic | 29.6% | 27.8–31.7% | 27.2–32.2% | 26.7–32.7% | 25.9–33.7% |
+| [5–6 November 2019](2019-11-06-GESOP.html) | GESOP <br> El Periòdic | 29.5% | 27.6–31.5% | 27.1–32.1% | 26.6–32.6% | 25.8–33.6% |
 | [3–5 November 2019](2019-11-05-GESOP.html) | GESOP <br> El Periòdic | 29.4% | N/A | N/A | N/A | N/A |
 | [3–4 November 2019](2019-11-04-electoPanel.html) | electoPanel <br> electomania.es | 28.2% | N/A | N/A | N/A | N/A |
 | [31 October–4 November 2019](2019-11-04-GESOP.html) | GESOP <br> El Periòdic | 29.3% | N/A | N/A | N/A | N/A |
@@ -155,17 +155,18 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.1% | 100% |  |
-| 25.5–26.5% | 0.8% | 99.9% |  |
-| 26.5–27.5% | 5% | 99.1% |  |
-| 27.5–28.5% | 15% | 94% |  |
-| 28.5–29.5% | 27% | 79% |  |
-| 29.5–30.5% | 28% | 52% | Median |
-| 30.5–31.5% | 17% | 24% |  |
-| 31.5–32.5% | 6% | 7% |  |
-| 32.5–33.5% | 1.2% | 1.4% |  |
-| 33.5–34.5% | 0.2% | 0.2% |  |
-| 34.5–35.5% | 0% | 0% |  |
+| 24.5–25.5% | 0.2% | 100% |  |
+| 25.5–26.5% | 1.2% | 99.8% |  |
+| 26.5–27.5% | 5% | 98.7% |  |
+| 27.5–28.5% | 15% | 93% |  |
+| 28.5–29.5% | 26% | 78% |  |
+| 29.5–30.5% | 26% | 52% | Median |
+| 30.5–31.5% | 17% | 26% |  |
+| 31.5–32.5% | 7% | 9% |  |
+| 32.5–33.5% | 2% | 2% |  |
+| 33.5–34.5% | 0.4% | 0.4% |  |
+| 34.5–35.5% | 0% | 0.1% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -176,9 +177,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–17 | 15–18 | 15–18 | 15–18 |
-| [5–7 November 2019](2019-11-07-GESOP.html) | GESOP <br> El Periòdic |  |  |  |  |  |
-| [5–6 November 2019](2019-11-06-GESOP.html) | GESOP <br> El Periòdic |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
+| [5–7 November 2019](2019-11-07-GESOP.html) | GESOP <br> El Periòdic | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
+| [5–6 November 2019](2019-11-06-GESOP.html) | GESOP <br> El Periòdic | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [3–5 November 2019](2019-11-05-GESOP.html) | GESOP <br> El Periòdic |  |  |  |  |  |
 | [3–4 November 2019](2019-11-04-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [31 October–4 November 2019](2019-11-04-GESOP.html) | GESOP <br> El Periòdic |  |  |  |  |  |
@@ -312,12 +313,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.5% | 100% |  |
-| 15 | 10% | 99.5% |  |
-| 16 | 43% | 89% | Median |
-| 17 | 37% | 46% |  |
-| 18 | 9% | 9% |  |
-| 19 | 0.5% | 0.5% |  |
-| 20 | 0% | 0% |  |
+| 14 | 0.4% | 100% |  |
+| 15 | 7% | 99.6% |  |
+| 16 | 42% | 93% |  |
+| 17 | 37% | 50% | Median |
+| 18 | 12% | 13% |  |
+| 19 | 0.7% | 0.8% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 
