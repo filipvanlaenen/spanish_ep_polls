@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 01 Nov 2019 21:05:49 +0100</pubDate>
+    <pubDate>Fri, 15 Nov 2019 12:56:26 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by GESOP for El Periòdic, 5–7 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-11-07-GESOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 19.5–25.0%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 26.7–32.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.7–17.3%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 5.7–9.1%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 1.1–2.9%&lt;/li&gt;&lt;li&gt;Vox (ECR): 14.8–19.8%&lt;/li&gt;&lt;li&gt;Coalició Compromís (Greens/EFA): 1.9–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-11-07-GESOP.png"
+        length="268444"
+        type="image/png"/>
+      <pubDate>Fri, 15 Nov 2019 11:57:54 +0100</pubDate>
+      <dc:date>2019-11-15T11:57:54.41685+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periòdic, 5–6 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-11-06-GESOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 19.3–24.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 26.6–32.6%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.2–16.8%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 6.2–9.7%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 2.3–4.7%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 1.0–2.7%&lt;/li&gt;&lt;li&gt;Vox (ECR): 14.8–19.8%&lt;/li&gt;&lt;li&gt;Coalició Compromís (Greens/EFA): 2.0–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-11-06-GESOP.png"
+        length="269554"
+        type="image/png"/>
+      <pubDate>Fri, 15 Nov 2019 12:56:26 +0100</pubDate>
+      <dc:date>2019-11-15T12:56:26.347169+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 19–20 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-20-electoPanel.html#seats</link>
@@ -1879,6 +1899,6 @@
       <pubDate>Sun, 30 Jun 2019 18:13:36 +0200</pubDate>
       <dc:date>2019-06-30T18:13:36.669695+02:00</dc:date>
     </item>
-    <dc:date>2019-11-01T21:05:49.286143+01:00</dc:date>
+    <dc:date>2019-11-15T12:56:26.347169+01:00</dc:date>
   </channel>
 </rss>
