@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 16 Nov 2019 20:18:48 +0100</pubDate>
+    <pubDate>Sun, 17 Nov 2019 10:38:29 +0100</pubDate>
     <item>
       <title>Opinion Poll by GESOP for El Periòdic, 5–7 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-11-07-GESOP.html</link>
@@ -108,6 +108,66 @@
         type="image/png"/>
       <pubDate>Sat, 16 Nov 2019 20:18:48 +0100</pubDate>
       <dc:date>2019-11-16T20:18:48.002736+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GAD3 for ABC, 14–31 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-31-GAD3.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 21.8–23.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 27.8–29.8%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.1–12.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 7.8–9.1%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 3.3–4.1%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 1.2–1.8%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 1.3–1.9%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.7–1.1%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.3–0.6%&lt;/li&gt;&lt;li&gt;Vox (ECR): 14.9–16.5%&lt;/li&gt;&lt;li&gt;Coalició Compromís (Greens/EFA): 2.6–3.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-31-GAD3.png"
+        length="273983"
+        type="image/png"/>
+      <pubDate>Sat, 16 Nov 2019 23:17:54 +0100</pubDate>
+      <dc:date>2019-11-16T23:17:54.129331+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 25–31 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-31-Celeste-Tel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 20.3–25.2%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 25.9–31.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.5–15.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 7.9–11.4%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 3.0–5.3%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Vox (ECR): 10.6–14.5%&lt;/li&gt;&lt;li&gt;Coalició Compromís (Greens/EFA): 2.4–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-31-Celeste-Tel.png"
+        length="323803"
+        type="image/png"/>
+      <pubDate>Sun, 17 Nov 2019 09:59:44 +0100</pubDate>
+      <dc:date>2019-11-17T09:59:44.026902+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by DYM for Prensa Ibérica, 25–30 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-30-DYM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.1–22.0%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 24.1–29.6%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.6–14.7%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 8.3–12.1%&lt;/li&gt;&lt;li&gt;Vox (ECR): 11.6–15.9%&lt;/li&gt;&lt;li&gt;Coalició Compromís (Greens/EFA): 2.3–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-30-DYM.png"
+        length="215485"
+        type="image/png"/>
+      <pubDate>Sun, 17 Nov 2019 10:07:03 +0100</pubDate>
+      <dc:date>2019-11-17T10:07:03.905717+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Henneo, 28–29 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-29-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.7–21.2%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 24.1–28.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.6–14.6%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 8.7–11.4%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 2.8–4.4%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 1.6–2.8%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 1.1–2.1%&lt;/li&gt;&lt;li&gt;Vox (ECR): 12.5–15.6%&lt;/li&gt;&lt;li&gt;Coalició Compromís (Greens/EFA): 3.9–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-29-Ipsos.png"
+        length="272776"
+        type="image/png"/>
+      <pubDate>Sun, 17 Nov 2019 10:21:42 +0100</pubDate>
+      <dc:date>2019-11-17T10:21:42.103121+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by 40dB for El País, 23–29 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-29-40dB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 19.4–23.0%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 25.4–29.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.0–13.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 7.2–9.6%&lt;/li&gt;&lt;li&gt;Vox (ECR): 12.2–15.3%&lt;/li&gt;&lt;li&gt;Coalició Compromís (Greens/EFA): 3.6–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-29-40dB.png"
+        length="196931"
+        type="image/png"/>
+      <pubDate>Sun, 17 Nov 2019 10:31:34 +0100</pubDate>
+      <dc:date>2019-11-17T10:31:34.704151+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SyM consulting for EPDA, 26–27 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-27-SyMconsulting.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 20.4–24.1%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 25.1–29.1%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 8.4–11.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 9.0–11.7%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 2.7–4.4%&lt;/li&gt;&lt;li&gt;Vox (ECR): 12.3–15.4%&lt;/li&gt;&lt;li&gt;Coalició Compromís (Greens/EFA): 2.6–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-27-SyMconsulting.png"
+        length="227386"
+        type="image/png"/>
+      <pubDate>Sun, 17 Nov 2019 10:38:29 +0100</pubDate>
+      <dc:date>2019-11-17T10:38:29.266468+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 19–20 October 2019 – Seat Projections for the Parties</title>
@@ -1979,6 +2039,6 @@
       <pubDate>Sun, 30 Jun 2019 18:13:36 +0200</pubDate>
       <dc:date>2019-06-30T18:13:36.669695+02:00</dc:date>
     </item>
-    <dc:date>2019-11-16T20:18:48.002736+01:00</dc:date>
+    <dc:date>2019-11-17T10:38:29.266468+01:00</dc:date>
   </channel>
 </rss>
