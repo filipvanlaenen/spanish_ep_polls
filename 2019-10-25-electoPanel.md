@@ -1,0 +1,257 @@
+# Opinion Poll by electoPanel for electomania.es, 24–25 October 2019
+
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
+
+## Voting Intentions
+
+![Graph with voting intentions not yet produced](2019-10-25-electoPanel.png "Voting Intentions")
+
+### Confidence Intervals
+
+| Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Partido Socialista Obrero Español (S&D) | 0.0% | 27.6% | 26.0–29.3% |25.6–29.7% |25.2–30.1% |24.4–31.0% |
+| Partido Popular (EPP) | 0.0% | 22.2% | 20.8–23.8% |20.4–24.2% |20.0–24.6% |19.3–25.4% |
+| Unidos Podemos (GUE/NGL) | 0.0% | 12.0% | 10.9–13.3% |10.6–13.6% |10.3–13.9% |9.8–14.6% |
+| Vox (ECR) | 0.0% | 11.3% | 10.2–12.5% |9.9–12.9% |9.6–13.2% |9.1–13.8% |
+| Ciudadanos–Partido de la Ciudadanía (RE) | 0.0% | 9.4% | 8.4–10.6% |8.2–10.9% |7.9–11.2% |7.5–11.8% |
+| Coalició Compromís (Greens/EFA) | 0.0% | 4.4% | 3.7–5.2% |3.6–5.5% |3.4–5.7% |3.1–6.1% |
+
+*Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
+
+## Seats
+
+![Graph with seats not yet produced](2019-10-25-electoPanel-seats.png "Seats")
+
+![Graph with seating plan not yet produced](2019-10-25-electoPanel-seating-plan.png "Seating Plan")
+
+### Confidence Intervals
+
+| Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 15 | 15 |14–15 |14–15 |14–16 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 12 | 12 |12 |12–13 |11–13 |
+| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 6 | 6 |6 |5–6 |5–8 |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 6 | 6–7 |6–7 |6–7 |5–7 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía-(re)">Ciudadanos–Partido de la Ciudadanía (RE)</a> | 0 | 6 | 6 |5–6 |5–6 |4–6 |
+| <a href="#coalició-compromís-(greens/efa)">Coalició Compromís (Greens/EFA)</a> | 0 | 2 | 2 |2–3 |2–3 |2–3 |
+
+### Partido Socialista Obrero Español (S&D)
+
+*For a full overview of the results for this party, see the [Partido Socialista Obrero Español (S&D)](party-partidosocialistaobreroespañolsd.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-10-25-electoPanel-seats-pmf-partidosocialistaobreroespañolsd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 10% | 99.9% |  |
+| 15 | 89% | 90% | Median |
+| 16 | 0.6% | 0.7% |  |
+| 17 | 0.1% | 0.1% |  |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
+
+### Partido Popular (EPP)
+
+*For a full overview of the results for this party, see the [Partido Popular (EPP)](party-partidopopularepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-10-25-electoPanel-seats-pmf-partidopopularepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 1.2% | 99.9% |  |
+| 12 | 95% | 98.8% | Median |
+| 13 | 3% | 4% |  |
+| 14 | 0.4% | 0.4% |  |
+| 15 | 0% | 0% |  |
+
+### Unidos Podemos (GUE/NGL)
+
+*For a full overview of the results for this party, see the [Unidos Podemos (GUE/NGL)](party-unidospodemosguengl.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-10-25-electoPanel-seats-pmf-unidospodemosguengl.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 4% | 100% |  |
+| 6 | 95% | 96% | Median |
+| 7 | 0.9% | 1.5% |  |
+| 8 | 0.6% | 0.6% |  |
+| 9 | 0% | 0% |  |
+
+### Vox (ECR)
+
+*For a full overview of the results for this party, see the [Vox (ECR)](party-voxecr.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-10-25-electoPanel-seats-pmf-voxecr.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0.8% | 100% |  |
+| 6 | 82% | 99.2% | Median |
+| 7 | 17% | 18% |  |
+| 8 | 0.4% | 0.4% |  |
+| 9 | 0% | 0% |  |
+
+### Ciudadanos–Partido de la Ciudadanía (RE)
+
+*For a full overview of the results for this party, see the [Ciudadanos–Partido de la Ciudadanía (RE)](party-ciudadanos–partidodelaciudadaníare.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-10-25-electoPanel-seats-pmf-ciudadanos–partidodelaciudadaníare.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0.9% | 100% |  |
+| 5 | 8% | 99.1% |  |
+| 6 | 91% | 92% | Median |
+| 7 | 0.2% | 0.2% |  |
+| 8 | 0% | 0% |  |
+
+### Coalició Compromís (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Coalició Compromís (Greens/EFA)](party-coaliciócompromísgreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-10-25-electoPanel-seats-pmf-coaliciócompromísgreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0.4% | 100% |  |
+| 2 | 92% | 99.6% | Median |
+| 3 | 8% | 8% |  |
+| 4 | 0% | 0% |  |
+
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](2019-10-25-electoPanel-coalitions-seats.png "Coalitions Seats")
+
+### Confidence Intervals
+
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Partido Socialista Obrero Español (S&D) | 0 | 15 | 0% | 15 | 14–15 | 14–15 | 14–16 |
+| Partido Popular (EPP) | 0 | 12 | 0% | 12 | 12 | 12–13 | 11–13 |
+| Vox (ECR) | 0 | 6 | 0% | 6–7 | 6–7 | 6–7 | 5–7 |
+
+### Partido Socialista Obrero Español (S&D)
+
+![Graph with seats probability mass function not yet produced](2019-10-25-electoPanel-coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 10% | 99.9% |  |
+| 15 | 89% | 90% | Median |
+| 16 | 0.6% | 0.7% |  |
+| 17 | 0.1% | 0.1% |  |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
+
+### Partido Popular (EPP)
+
+![Graph with seats probability mass function not yet produced](2019-10-25-electoPanel-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 1.2% | 99.9% |  |
+| 12 | 95% | 98.8% | Median |
+| 13 | 3% | 4% |  |
+| 14 | 0.4% | 0.4% |  |
+| 15 | 0% | 0% |  |
+
+### Vox (ECR)
+
+![Graph with seats probability mass function not yet produced](2019-10-25-electoPanel-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0.8% | 100% |  |
+| 6 | 82% | 99.2% | Median |
+| 7 | 17% | 18% |  |
+| 8 | 0.4% | 0.4% |  |
+| 9 | 0% | 0% |  |
+
+
+## Technical Information
+
+### Opinion Poll
+
++ **Polling firm:** electoPanel
++ **Commissioner(s):** electomania.es
++ **Fieldwork period:** 24–25 October 2019
+
+### Calculations
+
++ **Sample size:** 1250
++ **Simulations done:** 1,024
++ **Error estimate:** 1.57%
+
