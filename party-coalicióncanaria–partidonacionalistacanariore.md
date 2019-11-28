@@ -49,10 +49,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [22–25 October 2019](2019-10-25-Hamalgama.html) | Hamalgama <br> OKDIARIO | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
 | [23–24 October 2019](2019-10-24-electoPanel.html) | electoPanel <br> electomania.es | 0.6% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.2–1.5% |
 | [16–24 October 2019](2019-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
-| [21–24 October 2019](2019-10-24-GAD3.html) | GAD3 <br> ABC | 0.4% | 0.3–0.6% | 0.2–0.7% | 0.2–0.7% | 0.2–0.9% |
-| [21–24 October 2019](2019-10-24-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.7% | N/A | N/A | N/A | N/A |
+| [21–24 October 2019](2019-10-24-GAD3.html) | GAD3 <br> ABC | 0.4% | 0.3–0.6% | 0.2–0.7% | 0.2–0.7% | 0.2–0.8% |
+| [21–24 October 2019](2019-10-24-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% | 0.3–1.7% |
 | [22–23 October 2019](2019-10-23-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
-| [21–22 October 2019](2019-10-22-electoPanel.html) | electoPanel <br> electomania.es | 0.6% | N/A | N/A | N/A | N/A |
+| [21–22 October 2019](2019-10-22-electoPanel.html) | electoPanel <br> electomania.es | 0.6% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.2–1.5% |
 | [11–22 October 2019](2019-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
 | [18–22 October 2019](2019-10-22-Hamalgama.html) | Hamalgama <br> OKDIARIO | 0.0% | N/A | N/A | N/A | N/A |
 | [20–21 October 2019](2019-10-21-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
@@ -185,10 +185,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22–25 October 2019](2019-10-25-Hamalgama.html) | Hamalgama <br> OKDIARIO | 0 | 0 | 0 | 0 | 0 |
 | [23–24 October 2019](2019-10-24-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0–1 |
 | [16–24 October 2019](2019-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [21–24 October 2019](2019-10-24-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [21–24 October 2019](2019-10-24-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
+| [21–24 October 2019](2019-10-24-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
+| [21–24 October 2019](2019-10-24-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |
 | [22–23 October 2019](2019-10-23-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [21–22 October 2019](2019-10-22-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [21–22 October 2019](2019-10-22-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
 | [11–22 October 2019](2019-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [18–22 October 2019](2019-10-22-Hamalgama.html) | Hamalgama <br> OKDIARIO |  |  |  |  |  |
 | [20–21 October 2019](2019-10-21-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |

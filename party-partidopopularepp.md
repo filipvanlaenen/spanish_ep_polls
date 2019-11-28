@@ -35,7 +35,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [29–30 October 2019](2019-10-30-electoPanel.html) | electoPanel <br> electomania.es | 22.5% | 21.0–24.1% | 20.6–24.5% | 20.2–24.9% | 19.6–25.7% |
 | [25–30 October 2019](2019-10-30-DYM.html) | DYM <br> Prensa Ibérica | 19.4% | 17.9–21.1% | 17.4–21.6% | 17.1–22.0% | 16.4–22.8% |
 | [28–29 October 2019](2019-10-29-electoPanel.html) | electoPanel <br> electomania.es | 21.8% | 20.4–23.4% | 20.0–23.8% | 19.6–24.2% | 19.0–25.0% |
-| [21–29 October 2019](2019-10-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 20.6% | 19.4–21.9% | 19.1–22.3% | 18.8–22.5% | 18.2–23.2% |
+| [21–29 October 2019](2019-10-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 20.6% | 19.4–21.9% | 19.1–22.2% | 18.8–22.6% | 18.2–23.2% |
 | [28–29 October 2019](2019-10-29-Ipsos.html) | Ipsos <br> Henneo | 19.4% | 18.3–20.6% | 18.0–20.9% | 17.7–21.2% | 17.2–21.8% |
 | [25–29 October 2019](2019-10-29-Hamalgama.html) | Hamalgama <br> OKDIARIO | 23.3% | 21.6–25.1% | 21.2–25.6% | 20.8–26.0% | 20.0–26.9% |
 | [23–29 October 2019](2019-10-29-40dB.html) | 40dB <br> El País | 21.2% | 20.0–22.4% | 19.7–22.7% | 19.4–23.0% | 18.9–23.6% |
@@ -49,13 +49,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [22–25 October 2019](2019-10-25-Hamalgama.html) | Hamalgama <br> OKDIARIO | 23.4% | 21.7–25.2% | 21.3–25.7% | 20.9–26.1% | 20.1–27.0% |
 | [23–24 October 2019](2019-10-24-electoPanel.html) | electoPanel <br> electomania.es | 22.9% | 21.4–24.5% | 21.0–24.9% | 20.6–25.3% | 19.9–26.1% |
 | [16–24 October 2019](2019-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 20.8% | 19.6–22.2% | 19.2–22.5% | 18.9–22.9% | 18.3–23.5% |
-| [21–24 October 2019](2019-10-24-GAD3.html) | GAD3 <br> ABC | 22.6% | 21.5–23.6% | 21.3–23.9% | 21.0–24.2% | 20.5–24.7% |
-| [21–24 October 2019](2019-10-24-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 22.7% | N/A | N/A | N/A | N/A |
-| [22–23 October 2019](2019-10-23-electoPanel.html) | electoPanel <br> electomania.es | 22.1% | N/A | N/A | N/A | N/A |
-| [21–22 October 2019](2019-10-22-electoPanel.html) | electoPanel <br> electomania.es | 22.7% | N/A | N/A | N/A | N/A |
-| [11–22 October 2019](2019-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 21.4% | N/A | N/A | N/A | N/A |
-| [18–22 October 2019](2019-10-22-Hamalgama.html) | Hamalgama <br> OKDIARIO | 22.8% | N/A | N/A | N/A | N/A |
-| [20–21 October 2019](2019-10-21-electoPanel.html) | electoPanel <br> electomania.es | 22.1% | N/A | N/A | N/A | N/A |
+| [21–24 October 2019](2019-10-24-GAD3.html) | GAD3 <br> ABC | 22.6% | 21.6–23.6% | 21.3–23.9% | 21.0–24.2% | 20.6–24.7% |
+| [21–24 October 2019](2019-10-24-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 22.7% | 21.2–24.4% | 20.7–24.9% | 20.3–25.3% | 19.6–26.1% |
+| [22–23 October 2019](2019-10-23-electoPanel.html) | electoPanel <br> electomania.es | 22.1% | 20.6–23.6% | 20.2–24.1% | 19.9–24.5% | 19.2–25.2% |
+| [21–22 October 2019](2019-10-22-electoPanel.html) | electoPanel <br> electomania.es | 22.7% | 21.2–24.3% | 20.8–24.7% | 20.5–25.1% | 19.8–25.9% |
+| [11–22 October 2019](2019-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 21.4% | 20.1–22.7% | 19.7–23.1% | 19.4–23.5% | 18.8–24.1% |
+| [18–22 October 2019](2019-10-22-Hamalgama.html) | Hamalgama <br> OKDIARIO | 22.8% | 21.1–24.6% | 20.7–25.1% | 20.3–25.5% | 19.5–26.4% |
+| [20–21 October 2019](2019-10-21-electoPanel.html) | electoPanel <br> electomania.es | 22.1% | 20.6–23.6% | 20.2–24.1% | 19.9–24.5% | 19.2–25.2% |
 | [19–20 October 2019](2019-10-20-electoPanel.html) | electoPanel <br> electomania.es | 23.0% | 21.6–24.6% | 21.1–25.1% | 20.8–25.5% | 20.1–26.2% |
 | [18–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 22.4% | 20.9–24.0% | 20.5–24.4% | 20.2–24.8% | 19.5–25.6% |
 | [17–18 October 2019](2019-10-18-electoPanel.html) | electoPanel <br> electomania.es | 23.1% | 21.6–24.7% | 21.2–25.1% | 20.9–25.5% | 20.2–26.3% |
@@ -168,8 +168,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 11 | 11 | 11 | 11 |
-| [13–20 November 2019](2019-11-20-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11 | 11 | 11 | 11 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 10–13 | 10–13 | 10–13 |
+| [13–20 November 2019](2019-11-20-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–13 | 10–13 | 10–13 | 10–13 |
 | [12 November 2019](2019-11-12-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12 | 11–13 | 11–13 | 11–14 |
 | [5–7 November 2019](2019-11-07-GESOP.html) | GESOP <br> El Periòdic | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [5–6 November 2019](2019-11-06-GESOP.html) | GESOP <br> El Periòdic | 12 | 11–13 | 11–14 | 10–14 | 10–14 |
@@ -193,7 +193,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29–30 October 2019](2019-10-30-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12 | 12 | 12 | 12 |
 | [25–30 October 2019](2019-10-30-DYM.html) | DYM <br> Prensa Ibérica | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
 | [28–29 October 2019](2019-10-29-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
-| [21–29 October 2019](2019-10-29-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [21–29 October 2019](2019-10-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 11 | 11–12 | 11–12 | 10–12 | 10–13 |
 | [28–29 October 2019](2019-10-29-Ipsos.html) | Ipsos <br> Henneo | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [25–29 October 2019](2019-10-29-Hamalgama.html) | Hamalgama <br> OKDIARIO | 13 | 13 | 13–14 | 13–14 | 13–14 |
 | [23–29 October 2019](2019-10-29-40dB.html) | 40dB <br> El País | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
@@ -207,13 +207,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22–25 October 2019](2019-10-25-Hamalgama.html) | Hamalgama <br> OKDIARIO | 12 | 12–13 | 12–13 | 12–13 | 12–13 |
 | [23–24 October 2019](2019-10-24-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11–14 | 11–14 | 11–14 | 11–16 |
 | [16–24 October 2019](2019-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 12 | 10–13 | 10–13 | 10–13 |
-| [21–24 October 2019](2019-10-24-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [21–24 October 2019](2019-10-24-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
-| [22–23 October 2019](2019-10-23-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [21–22 October 2019](2019-10-22-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [11–22 October 2019](2019-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [21–24 October 2019](2019-10-24-GAD3.html) | GAD3 <br> ABC | 14 | 13–14 | 13–14 | 12–14 | 12–14 |
+| [21–24 October 2019](2019-10-24-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 13 | 13 | 13 | 13 |
+| [22–23 October 2019](2019-10-23-electoPanel.html) | electoPanel <br> electomania.es | 13 | 11–13 | 11–13 | 11–14 | 11–14 |
+| [21–22 October 2019](2019-10-22-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12–13 | 12–13 | 12–13 | 12–13 |
+| [11–22 October 2019](2019-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–14 | 11–14 | 11–14 | 11–14 |
 | [18–22 October 2019](2019-10-22-Hamalgama.html) | Hamalgama <br> OKDIARIO |  |  |  |  |  |
-| [20–21 October 2019](2019-10-21-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [20–21 October 2019](2019-10-21-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12–13 | 12–13 | 12–13 | 11–13 |
 | [19–20 October 2019](2019-10-20-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [18–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
 | [17–18 October 2019](2019-10-18-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–14 | 13–14 | 12–15 | 11–15 |
@@ -301,10 +301,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0.3% | 100% |  |
-| 11 | 99.4% | 99.7% | Median |
-| 12 | 0.3% | 0.3% |  |
-| 13 | 0% | 0% |  |
+| 9 | 0.1% | 100% |  |
+| 10 | 16% | 99.9% |  |
+| 11 | 40% | 84% | Median |
+| 12 | 20% | 44% |  |
+| 13 | 23% | 23% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 
