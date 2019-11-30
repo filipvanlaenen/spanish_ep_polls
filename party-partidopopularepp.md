@@ -170,50 +170,50 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 11–12 | 10–12 | 10–12 | 10–13 |
 | [13–20 November 2019](2019-11-20-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11–12 | 10–12 | 10–12 | 10–13 |
-| [12 November 2019](2019-11-12-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12 | 11–13 | 11–13 | 11–14 |
-| [5–7 November 2019](2019-11-07-GESOP.html) | GESOP <br> El Periòdic | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
+| [12 November 2019](2019-11-12-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
+| [5–7 November 2019](2019-11-07-GESOP.html) | GESOP <br> El Periòdic | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [5–6 November 2019](2019-11-06-GESOP.html) | GESOP <br> El Periòdic | 12 | 11–13 | 11–14 | 10–14 | 10–14 |
-| [3–5 November 2019](2019-11-05-GESOP.html) | GESOP <br> El Periòdic | 12 | 12–13 | 11–13 | 10–13 | 10–13 |
+| [3–5 November 2019](2019-11-05-GESOP.html) | GESOP <br> El Periòdic | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [3–4 November 2019](2019-11-04-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–13 | 12–13 | 12–13 | 11–14 |
-| [31 October–4 November 2019](2019-11-04-GESOP.html) | GESOP <br> El Periòdic | 11 | 11–12 | 11–13 | 11–15 | 11–15 |
-| [2–3 November 2019](2019-11-03-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12 | 12 | 12–14 | 11–14 |
+| [31 October–4 November 2019](2019-11-04-GESOP.html) | GESOP <br> El Periòdic | 11 | 11–12 | 11–12 | 10–14 | 10–14 |
+| [2–3 November 2019](2019-11-03-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–14 | 11–14 |
 | [1–2 November 2019](2019-11-02-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
-| [31 October–2 November 2019](2019-11-02-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 11–13 | 11–14 | 11–14 | 10–14 |
+| [31 October–2 November 2019](2019-11-02-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
 | [28 October–2 November 2019](2019-11-02-SWDemoscopia.html) | SW Demoscopia <br> infoLibre | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
 | [29 October–2 November 2019](2019-11-02-IMOP.html) | IMOP <br> El Confidencial | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
 | [31 October–1 November 2019](2019-11-01-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
-| [30–31 October 2019](2019-10-31-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11–14 | 11–14 | 11–14 | 9–14 |
+| [30–31 October 2019](2019-10-31-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [28–31 October 2019](2019-10-31-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
 | [24–31 October 2019](2019-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [14–31 October 2019](2019-10-31-NCReport.html) | NC Report <br> La Razón | 14 | 13–14 | 12–14 | 12–14 | 11–15 |
-| [29–31 October 2019](2019-10-31-Hamalgama.html) | Hamalgama <br> OKDIARIO | 14 | 12–14 | 12–14 | 11–14 | 11–15 |
-| [28–31 October 2019](2019-10-31-GESOP.html) | GESOP <br> El Periódico | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
+| [29–31 October 2019](2019-10-31-Hamalgama.html) | Hamalgama <br> OKDIARIO | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
+| [28–31 October 2019](2019-10-31-GESOP.html) | GESOP <br> El Periódico | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [14–31 October 2019](2019-10-31-GAD3.html) | GAD3 <br> ABC | 13 | 13 | 12–13 | 12–13 | 12–14 |
 | [25–31 October 2019](2019-10-31-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [29–30 October 2019](2019-10-30-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13 | 13 | 12–14 | 12–14 |
 | [25–30 October 2019](2019-10-30-DYM.html) | DYM <br> Prensa Ibérica | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
-| [28–29 October 2019](2019-10-29-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
-| [21–29 October 2019](2019-10-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 11 | 11–12 | 11–12 | 10–12 | 10–13 |
+| [28–29 October 2019](2019-10-29-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
+| [21–29 October 2019](2019-10-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–13 | 11–13 | 10–13 | 10–13 |
 | [28–29 October 2019](2019-10-29-Ipsos.html) | Ipsos <br> Henneo | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [25–29 October 2019](2019-10-29-Hamalgama.html) | Hamalgama <br> OKDIARIO | 13 | 12–14 | 12–14 | 12–15 | 12–16 |
 | [23–29 October 2019](2019-10-29-40dB.html) | 40dB <br> El País | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [27–28 October 2019](2019-10-28-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13 | 13 | 12–14 | 12–15 |
-| [26–27 October 2019](2019-10-27-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–12 | 10–13 | 10–14 |
-| [26–27 October 2019](2019-10-27-SyMconsulting.html) | SyM consulting <br> EPDA | 12 | 11–13 | 11–13 | 11–13 | 11–15 |
-| [25–26 October 2019](2019-10-26-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13 | 13–15 | 13–15 | 13–16 |
+| [26–27 October 2019](2019-10-27-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
+| [26–27 October 2019](2019-10-27-SyMconsulting.html) | SyM consulting <br> EPDA | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
+| [25–26 October 2019](2019-10-26-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
 | [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 11–14 | 11–15 | 11–15 | 11–15 |
-| [24–25 October 2019](2019-10-25-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12 | 12 | 12–13 | 11–13 |
-| [16–25 October 2019](2019-10-25-NCReport.html) | NC Report <br> La Razón | 12 | 12–14 | 12–14 | 12–15 | 12–15 |
-| [22–25 October 2019](2019-10-25-Hamalgama.html) | Hamalgama <br> OKDIARIO | 12 | 12–13 | 12–13 | 12–13 | 12–13 |
+| [24–25 October 2019](2019-10-25-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
+| [16–25 October 2019](2019-10-25-NCReport.html) | NC Report <br> La Razón | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
+| [22–25 October 2019](2019-10-25-Hamalgama.html) | Hamalgama <br> OKDIARIO | 14 | 12–15 | 12–16 | 12–16 | 11–16 |
 | [23–24 October 2019](2019-10-24-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 13–14 | 13–15 | 12–15 |
-| [16–24 October 2019](2019-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 12 | 10–13 | 10–13 | 10–13 |
-| [21–24 October 2019](2019-10-24-GAD3.html) | GAD3 <br> ABC | 14 | 13–14 | 13–14 | 12–14 | 12–14 |
-| [21–24 October 2019](2019-10-24-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 13 | 13 | 13 | 13 |
+| [16–24 October 2019](2019-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
+| [21–24 October 2019](2019-10-24-GAD3.html) | GAD3 <br> ABC | 14 | 13–14 | 12–14 | 12–14 | 12–14 |
+| [21–24 October 2019](2019-10-24-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [22–23 October 2019](2019-10-23-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
-| [21–22 October 2019](2019-10-22-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12–13 | 12–13 | 12–13 | 12–13 |
-| [11–22 October 2019](2019-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 13 | 12–13 | 12–13 | 11–13 | 11–13 |
+| [21–22 October 2019](2019-10-22-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13 | 13 | 12–14 | 12–14 |
+| [11–22 October 2019](2019-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 12–13 | 12–13 | 11–13 | 11–13 |
 | [18–22 October 2019](2019-10-22-Hamalgama.html) | Hamalgama <br> OKDIARIO | 13 | 11–14 | 11–14 | 11–14 | 11–15 |
-| [20–21 October 2019](2019-10-21-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12–13 | 12–13 | 12–13 | 11–13 |
+| [20–21 October 2019](2019-10-21-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [19–20 October 2019](2019-10-20-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [18–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
 | [17–18 October 2019](2019-10-18-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–14 | 13–14 | 12–15 | 11–15 |
