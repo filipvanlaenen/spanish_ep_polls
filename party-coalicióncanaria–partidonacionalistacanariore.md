@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% |
 | [21–27 November 2019](2019-11-27-electoPanel.html) | electoPanel <br> electomania.es | 0.5% | 0.3–0.9% | 0.3–0.9% | 0.2–1.1% | 0.2–1.2% |
-| [19–27 November 2019](2019-11-27-GAD3.html) | GAD3 <br> ABC | 0.5% | N/A | N/A | N/A | N/A |
+| [19–27 November 2019](2019-11-27-GAD3.html) | GAD3 <br> ABC | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% |
 | [13–20 November 2019](2019-11-20-electoPanel.html) | electoPanel <br> electomania.es | 0.5% | 0.3–0.9% | 0.3–0.9% | 0.2–1.1% | 0.2–1.2% |
 | [12 November 2019](2019-11-12-electoPanel.html) | electoPanel <br> electomania.es | 0.5% | 0.4–0.9% | 0.3–1.0% | 0.3–1.1% | 0.2–1.2% |
 | [5–7 November 2019](2019-11-07-GESOP.html) | GESOP <br> El Periòdic | 0.0% | N/A | N/A | N/A | N/A |
@@ -137,7 +137,6 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 53% | 100% | Last Result |
 | 0.5–1.5% | 47% | 47% | Median |
 | 1.5–2.5% | 0% | 0% |  |
-| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -150,7 +149,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [21–27 November 2019](2019-11-27-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
-| [19–27 November 2019](2019-11-27-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [19–27 November 2019](2019-11-27-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
 | [13–20 November 2019](2019-11-20-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
 | [12 November 2019](2019-11-12-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
 | [5–7 November 2019](2019-11-07-GESOP.html) | GESOP <br> El Periòdic |  |  |  |  |  |

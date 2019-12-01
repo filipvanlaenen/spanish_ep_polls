@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.3% | 24.8–28.0% | 24.3–28.4% | 24.0–28.8% | 23.2–29.6% |
+| N/A | [Poll Average](average.html) | 27.1% | 25.3–28.7% | 24.8–29.2% | 24.3–29.5% | 23.5–30.2% |
 | [21–27 November 2019](2019-11-27-electoPanel.html) | electoPanel <br> electomania.es | 26.3% | 24.8–28.0% | 24.3–28.4% | 23.9–28.8% | 23.2–29.6% |
-| [19–27 November 2019](2019-11-27-GAD3.html) | GAD3 <br> ABC | 27.7% | N/A | N/A | N/A | N/A |
+| [19–27 November 2019](2019-11-27-GAD3.html) | GAD3 <br> ABC | 27.7% | 26.4–29.1% | 26.0–29.5% | 25.7–29.8% | 25.0–30.5% |
 | [13–20 November 2019](2019-11-20-electoPanel.html) | electoPanel <br> electomania.es | 26.4% | 24.8–28.0% | 24.4–28.5% | 24.0–28.9% | 23.3–29.7% |
 | [12 November 2019](2019-11-12-electoPanel.html) | electoPanel <br> electomania.es | 27.5% | 26.0–29.0% | 25.6–29.4% | 25.3–29.8% | 24.6–30.5% |
 | [5–7 November 2019](2019-11-07-GESOP.html) | GESOP <br> El Periòdic | 29.6% | 27.8–31.7% | 27.2–32.2% | 26.7–32.7% | 25.9–33.7% |
@@ -156,16 +156,16 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.1% | 100% |  |
-| 22.5–23.5% | 1.0% | 99.9% |  |
-| 23.5–24.5% | 6% | 98.9% |  |
-| 24.5–25.5% | 19% | 93% |  |
-| 25.5–26.5% | 31% | 74% | Median |
-| 26.5–27.5% | 27% | 43% |  |
-| 27.5–28.5% | 13% | 17% |  |
-| 28.5–29.5% | 4% | 4% |  |
-| 29.5–30.5% | 0.5% | 0.6% |  |
-| 30.5–31.5% | 0.1% | 0.1% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0.5% | 100% |  |
+| 23.5–24.5% | 3% | 99.5% |  |
+| 24.5–25.5% | 10% | 96% |  |
+| 25.5–26.5% | 21% | 86% |  |
+| 26.5–27.5% | 29% | 65% | Median |
+| 27.5–28.5% | 23% | 36% |  |
+| 28.5–29.5% | 10% | 13% |  |
+| 29.5–30.5% | 2% | 2% |  |
+| 30.5–31.5% | 0.2% | 0.2% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
 
@@ -177,9 +177,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
+| N/A | [Poll Average](average.html) | 15 | 14–16 | 14–17 | 14–18 | 13–18 |
 | [21–27 November 2019](2019-11-27-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
-| [19–27 November 2019](2019-11-27-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [19–27 November 2019](2019-11-27-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 15–18 | 15–18 | 15–18 |
 | [13–20 November 2019](2019-11-20-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–16 | 14–16 | 13–17 | 13–17 |
 | [12 November 2019](2019-11-12-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 15–17 | 14–17 |
 | [5–7 November 2019](2019-11-07-GESOP.html) | GESOP <br> El Periòdic | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
@@ -316,12 +316,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 1.5% | 100% |  |
-| 14 | 33% | 98.5% |  |
-| 15 | 45% | 65% | Median |
-| 16 | 17% | 20% |  |
-| 17 | 3% | 3% |  |
-| 18 | 0.1% | 0.1% |  |
+| 13 | 0.7% | 100% |  |
+| 14 | 17% | 99.3% |  |
+| 15 | 33% | 82% | Median |
+| 16 | 40% | 50% |  |
+| 17 | 6% | 9% |  |
+| 18 | 3% | 3% |  |
 | 19 | 0% | 0% |  |
 
 
