@@ -175,7 +175,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–3 November 2019](2019-11-03-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [1–2 November 2019](2019-11-02-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [31 October–2 November 2019](2019-11-02-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
-| [28 October–2 November 2019](2019-11-02-SWDemoscopia.html) | SW Demoscopia <br> infoLibre | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
+| [28 October–2 November 2019](2019-11-02-SWDemoscopia.html) | SW Demoscopia <br> infoLibre | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [29 October–2 November 2019](2019-11-02-IMOP.html) | IMOP <br> El Confidencial | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [31 October–1 November 2019](2019-11-01-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [30–31 October 2019](2019-10-31-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
