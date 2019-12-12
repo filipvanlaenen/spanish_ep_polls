@@ -175,7 +175,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 13 | 10–14 | 10–14 | 10–14 | 10–15 |
 | [21–27 November 2019](2019-11-27-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–13 | 10–13 | 10–13 | 9–13 |
 | [19–27 November 2019](2019-11-27-GAD3.html) | GAD3 <br> ABC | 13 | 13–14 | 13–14 | 12–14 | 12–15 |
-| [13–20 November 2019](2019-11-20-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11–12 | 10–12 | 10–12 | 10–13 |
+| [13–20 November 2019](2019-11-20-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 10–13 | 10–13 |
 | [12 November 2019](2019-11-12-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
 | [5–7 November 2019](2019-11-07-GESOP.html) | GESOP <br> El Periòdic | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [5–6 November 2019](2019-11-06-GESOP.html) | GESOP <br> El Periòdic | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
