@@ -11,6 +11,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.3% | 18.4–23.8% | 17.9–24.3% | 17.5–24.7% | 16.8–25.4% |
+| [17–19 December 2019](2019-12-19-electoPanel.html) | electoPanel <br> electomania.es | 20.1% | 18.7–21.6% | 18.3–22.0% | 17.9–22.4% | 17.3–23.1% |
+| [10–13 December 2019](2019-12-13-NCReport.html) | NC Report <br> La Razón | 21.6% | 20.0–23.4% | 19.5–23.8% | 19.2–24.3% | 18.4–25.1% |
+| [9–13 December 2019](2019-12-13-Invymark.html) | Invymark <br> laSexta | 21.6% | 20.1–23.2% | 19.7–23.6% | 19.3–24.0% | 18.7–24.8% |
+| [10–12 December 2019](2019-12-12-electoPanel.html) | electoPanel <br> electomania.es | 19.6% | 18.2–21.1% | 17.8–21.5% | 17.5–21.9% | 16.8–22.6% |
+| [2–12 December 2019](2019-12-12-SimpleLógica.html) | Simple Lógica | 22.9% | 21.3–24.6% | 20.9–25.1% | 20.5–25.6% | 19.8–26.4% |
+| [3–5 December 2019](2019-12-05-electoPanel.html) | electoPanel <br> electomania.es | 19.5% | N/A | N/A | N/A | N/A |
 | [21–27 November 2019](2019-11-27-electoPanel.html) | electoPanel <br> electomania.es | 19.3% | 17.9–20.8% | 17.5–21.2% | 17.2–21.6% | 16.5–22.3% |
 | [19–27 November 2019](2019-11-27-GAD3.html) | GAD3 <br> ABC | 23.0% | 21.7–24.3% | 21.4–24.7% | 21.1–25.0% | 20.5–25.6% |
 | [13–20 November 2019](2019-11-20-electoPanel.html) | electoPanel <br> electomania.es | 20.1% | 18.7–21.6% | 18.3–22.0% | 17.9–22.4% | 17.3–23.1% |
@@ -30,6 +36,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [28–31 October 2019](2019-10-31-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 21.4% | 19.8–23.1% | 19.3–23.6% | 18.9–24.0% | 18.2–24.9% |
 | [24–31 October 2019](2019-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 20.3% | 19.1–21.5% | 18.8–21.9% | 18.5–22.2% | 17.9–22.8% |
 | [14–31 October 2019](2019-10-31-NCReport.html) | NC Report <br> La Razón | 22.7% | 21.1–24.5% | 20.6–25.0% | 20.2–25.4% | 19.4–26.3% |
+| [28–31 October 2019](2019-10-31-Invymark.html) | Invymark <br> laSexta | 22.0% | N/A | N/A | N/A | N/A |
 | [29–31 October 2019](2019-10-31-Hamalgama.html) | Hamalgama <br> OKDIARIO | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.5–26.4% |
 | [28–31 October 2019](2019-10-31-GESOP.html) | GESOP <br> El Periódico | 21.2% | 19.9–22.6% | 19.5–23.0% | 19.2–23.4% | 18.6–24.0% |
 | [14–31 October 2019](2019-10-31-GAD3.html) | GAD3 <br> ABC | 22.7% | 22.1–23.3% | 21.9–23.5% | 21.8–23.7% | 21.5–23.9% |
@@ -48,6 +55,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 22.0% | 20.5–23.7% | 20.0–24.1% | 19.6–24.6% | 18.9–25.4% |
 | [24–25 October 2019](2019-10-25-electoPanel.html) | electoPanel <br> electomania.es | 22.2% | 20.8–23.8% | 20.4–24.2% | 20.0–24.6% | 19.3–25.4% |
 | [16–25 October 2019](2019-10-25-NCReport.html) | NC Report <br> La Razón | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
+| [21–25 October 2019](2019-10-25-Invymark.html) | Invymark <br> laSexta | 21.7% | N/A | N/A | N/A | N/A |
 | [22–25 October 2019](2019-10-25-Hamalgama.html) | Hamalgama <br> OKDIARIO | 23.4% | 21.7–25.2% | 21.3–25.7% | 20.9–26.1% | 20.1–27.0% |
 | [23–24 October 2019](2019-10-24-electoPanel.html) | electoPanel <br> electomania.es | 22.9% | 21.4–24.5% | 21.0–24.9% | 20.6–25.3% | 19.9–26.1% |
 | [16–24 October 2019](2019-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 20.8% | 19.6–22.2% | 19.2–22.5% | 18.9–22.9% | 18.3–23.5% |
@@ -173,6 +181,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 10–14 | 10–14 | 10–14 | 10–15 |
+| [17–19 December 2019](2019-12-19-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11–12 | 10–12 | 10–13 | 10–13 |
+| [10–13 December 2019](2019-12-13-NCReport.html) | NC Report <br> La Razón | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
+| [9–13 December 2019](2019-12-13-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
+| [10–12 December 2019](2019-12-12-electoPanel.html) | electoPanel <br> electomania.es | 12 | 10–12 | 10–12 | 10–13 | 9–13 |
+| [2–12 December 2019](2019-12-12-SimpleLógica.html) | Simple Lógica | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
+| [3–5 December 2019](2019-12-05-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [21–27 November 2019](2019-11-27-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–13 | 10–13 | 10–13 | 9–13 |
 | [19–27 November 2019](2019-11-27-GAD3.html) | GAD3 <br> ABC | 13 | 13–14 | 13–14 | 12–14 | 12–15 |
 | [13–20 November 2019](2019-11-20-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 10–13 | 10–13 |
@@ -192,6 +206,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [28–31 October 2019](2019-10-31-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
 | [24–31 October 2019](2019-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [14–31 October 2019](2019-10-31-NCReport.html) | NC Report <br> La Razón | 14 | 13–14 | 12–14 | 12–14 | 11–15 |
+| [28–31 October 2019](2019-10-31-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [29–31 October 2019](2019-10-31-Hamalgama.html) | Hamalgama <br> OKDIARIO | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [28–31 October 2019](2019-10-31-GESOP.html) | GESOP <br> El Periódico | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [14–31 October 2019](2019-10-31-GAD3.html) | GAD3 <br> ABC | 13 | 13 | 12–13 | 12–13 | 12–14 |
@@ -210,6 +225,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 11–14 | 11–15 | 11–15 | 11–15 |
 | [24–25 October 2019](2019-10-25-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
 | [16–25 October 2019](2019-10-25-NCReport.html) | NC Report <br> La Razón | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
+| [21–25 October 2019](2019-10-25-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [22–25 October 2019](2019-10-25-Hamalgama.html) | Hamalgama <br> OKDIARIO | 14 | 12–15 | 12–16 | 12–16 | 11–16 |
 | [23–24 October 2019](2019-10-24-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 13–14 | 13–15 | 12–15 |
 | [16–24 October 2019](2019-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
