@@ -34,13 +34,13 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 17 | 15–17 |15–17 |15–17 |14–18 |
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 13 | 12–14 |12–14 |12–15 |12–16 |
-| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 8 | 7–8 |7–9 |6–9 |6–9 |
-| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 7 | 6–8 |6–8 |6–8 |6–9 |
-| <a href="#ciudadanos–partido-de-la-ciudadanía-(re)">Ciudadanos–Partido de la Ciudadanía (RE)</a> | 0 | 5 | 5–6 |4–6 |4–6 |4–6 |
-| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 2 | 2 |2 |1–3 |1–3 |
-| <a href="#coalició-compromís-(greens/efa)">Coalició Compromís (Greens/EFA)</a> | 0 | 2 | 2 |1–2 |1–3 |1–3 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 16 | 15–17 |15–17 |15–18 |14–18 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 13 | 12–15 |12–15 |12–16 |11–16 |
+| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 8 | 6–8 |6–8 |6–9 |5–9 |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 7 | 6–8 |6–8 |6–8 |5–9 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía-(re)">Ciudadanos–Partido de la Ciudadanía (RE)</a> | 0 | 5 | 4–6 |4–6 |4–6 |4–7 |
+| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 2 | 1–2 |1–3 |1–3 |1–3 |
+| <a href="#coalició-compromís-(greens/efa)">Coalició Compromís (Greens/EFA)</a> | 0 | 2 | 1–2 |1–3 |1–3 |1–3 |
 | <a href="#partit-demòcrata-europeu-català-(ni)">Partit Demòcrata Europeu Català (NI)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco-(re)">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
@@ -67,13 +67,13 @@
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0.8% | 100% |  |
-| 15 | 27% | 99.2% |  |
-| 16 | 8% | 72% |  |
-| 17 | 62% | 64% | Median |
-| 18 | 2% | 2% |  |
-| 19 | 0.2% | 0.2% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 2% | 99.9% |  |
+| 15 | 20% | 98% |  |
+| 16 | 31% | 78% | Median |
+| 17 | 43% | 47% |  |
+| 18 | 3% | 4% |  |
+| 19 | 0.4% | 0.4% |  |
 | 20 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
@@ -95,12 +95,12 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.2% | 100% |  |
-| 12 | 36% | 99.8% |  |
-| 13 | 30% | 64% | Median |
-| 14 | 29% | 34% |  |
-| 15 | 4% | 5% |  |
-| 16 | 0.6% | 0.6% |  |
+| 11 | 2% | 100% |  |
+| 12 | 19% | 98% |  |
+| 13 | 41% | 78% | Median |
+| 14 | 23% | 38% |  |
+| 15 | 11% | 15% |  |
+| 16 | 4% | 4% |  |
 | 17 | 0% | 0% |  |
 
 ### Unidos Podemos (GUE/NGL)
@@ -116,12 +116,13 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.1% | 100% |  |
-| 6 | 3% | 99.9% |  |
-| 7 | 38% | 97% |  |
-| 8 | 53% | 59% | Median |
-| 9 | 6% | 6% |  |
-| 10 | 0% | 0% |  |
+| 5 | 0.6% | 100% |  |
+| 6 | 11% | 99.4% |  |
+| 7 | 38% | 88% |  |
+| 8 | 45% | 50% | Median |
+| 9 | 5% | 5% |  |
+| 10 | 0.1% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 ### Vox (ECR)
 
@@ -136,11 +137,11 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.1% | 100% |  |
-| 6 | 30% | 99.9% |  |
-| 7 | 33% | 69% | Median |
-| 8 | 36% | 37% |  |
-| 9 | 1.2% | 1.2% |  |
+| 5 | 0.9% | 100% |  |
+| 6 | 29% | 99.1% |  |
+| 7 | 45% | 70% | Median |
+| 8 | 23% | 25% |  |
+| 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (RE)
@@ -155,10 +156,10 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 8% | 100% |  |
-| 5 | 68% | 92% | Median |
-| 6 | 25% | 25% |  |
-| 7 | 0.2% | 0.2% |  |
+| 4 | 15% | 100% |  |
+| 5 | 63% | 85% | Median |
+| 6 | 21% | 21% |  |
+| 7 | 0.6% | 0.6% |  |
 | 8 | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)
@@ -170,9 +171,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 4% | 100% |  |
-| 2 | 93% | 96% | Median |
-| 3 | 3% | 3% |  |
+| 1 | 12% | 100% |  |
+| 2 | 80% | 88% | Median |
+| 3 | 8% | 8% |  |
 | 4 | 0% | 0% |  |
 
 ### Coalició Compromís (Greens/EFA)
@@ -184,9 +185,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 6% | 100% |  |
-| 2 | 91% | 94% | Median |
-| 3 | 3% | 3% |  |
+| 1 | 11% | 100% |  |
+| 2 | 82% | 89% | Median |
+| 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
 
 ### Partit Demòcrata Europeu Català (NI)
@@ -197,8 +198,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 70% | 100% | Last Result, Median |
-| 1 | 30% | 30% |  |
+| 0 | 57% | 100% | Last Result, Median |
+| 1 | 42% | 43% |  |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -210,9 +211,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 59% | 100% | Last Result, Median |
-| 1 | 41% | 41% |  |
-| 2 | 0% | 0% |  |
+| 0 | 52% | 100% | Last Result, Median |
+| 1 | 48% | 48% |  |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 ### Euskal Herria Bildu (GUE/NGL)
 
@@ -222,8 +224,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 3% | 3% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 4% | 4% |  |
 | 2 | 0% | 0% |  |
 
 ### Coalición Canaria–Partido Nacionalista Canario (RE)
@@ -234,7 +236,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0.2% | 0.2% |  |
+| 2 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -245,9 +249,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0 | 17 | 0% | 15–17 | 15–17 | 15–17 | 14–18 |
-| Partido Popular (EPP) | 0 | 13 | 0% | 12–14 | 12–14 | 12–15 | 12–16 |
-| Vox (ECR) | 0 | 7 | 0% | 6–8 | 6–8 | 6–8 | 6–9 |
+| Partido Socialista Obrero Español (S&D) | 0 | 16 | 0% | 15–17 | 15–17 | 15–18 | 14–18 |
+| Partido Popular (EPP) | 0 | 13 | 0% | 12–15 | 12–15 | 12–16 | 11–16 |
+| Vox (ECR) | 0 | 7 | 0% | 6–8 | 6–8 | 6–8 | 5–9 |
 | Partit Demòcrata Europeu Català (NI) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -269,13 +273,13 @@
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0.8% | 100% |  |
-| 15 | 27% | 99.2% |  |
-| 16 | 8% | 72% |  |
-| 17 | 62% | 64% | Median |
-| 18 | 2% | 2% |  |
-| 19 | 0.2% | 0.2% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 2% | 99.9% |  |
+| 15 | 20% | 98% |  |
+| 16 | 31% | 78% | Median |
+| 17 | 43% | 47% |  |
+| 18 | 3% | 4% |  |
+| 19 | 0.4% | 0.4% |  |
 | 20 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
@@ -295,12 +299,12 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.2% | 100% |  |
-| 12 | 36% | 99.8% |  |
-| 13 | 30% | 64% | Median |
-| 14 | 29% | 34% |  |
-| 15 | 4% | 5% |  |
-| 16 | 0.6% | 0.6% |  |
+| 11 | 2% | 100% |  |
+| 12 | 19% | 98% |  |
+| 13 | 41% | 78% | Median |
+| 14 | 23% | 38% |  |
+| 15 | 11% | 15% |  |
+| 16 | 4% | 4% |  |
 | 17 | 0% | 0% |  |
 
 ### Vox (ECR)
@@ -314,11 +318,11 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.1% | 100% |  |
-| 6 | 30% | 99.9% |  |
-| 7 | 33% | 69% | Median |
-| 8 | 36% | 37% |  |
-| 9 | 1.2% | 1.2% |  |
+| 5 | 0.9% | 100% |  |
+| 6 | 29% | 99.1% |  |
+| 7 | 45% | 70% | Median |
+| 8 | 23% | 25% |  |
+| 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
 ### Partit Demòcrata Europeu Català (NI)
@@ -327,8 +331,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 70% | 100% | Last Result, Median |
-| 1 | 30% | 30% |  |
+| 0 | 57% | 100% | Last Result, Median |
+| 1 | 42% | 43% |  |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -344,6 +348,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 3.46%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 4.28%
 
