@@ -11,8 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.3% | 18.4–23.8% | 17.9–24.3% | 17.5–24.7% | 16.8–25.4% |
-| [23 December 2019](2019-12-23-KeyData.html) | Key Data <br> Público | 20.4% | N/A | N/A | N/A | N/A |
-| [20–21 December 2019](2019-12-21-SocioMétrica.html) | SocioMétrica <br> El Español | 21.6% | N/A | N/A | N/A | N/A |
+| [23 December 2019](2019-12-23-KeyData.html) | Key Data <br> Público | 20.4% | 18.2–22.9% | 17.6–23.5% | 17.1–24.2% | 16.1–25.4% |
+| [20–21 December 2019](2019-12-21-SocioMétrica.html) | SocioMétrica <br> El Español | 21.6% | 20.5–22.8% | 20.2–23.1% | 19.9–23.4% | 19.4–24.0% |
 | [17–19 December 2019](2019-12-19-electoPanel.html) | electoPanel <br> electomania.es | 20.1% | 18.7–21.6% | 18.3–22.0% | 17.9–22.4% | 17.3–23.1% |
 | [10–13 December 2019](2019-12-13-NCReport.html) | NC Report <br> La Razón | 21.6% | 20.0–23.4% | 19.5–23.8% | 19.2–24.3% | 18.4–25.1% |
 | [9–13 December 2019](2019-12-13-Invymark.html) | Invymark <br> laSexta | 21.6% | 20.1–23.2% | 19.7–23.6% | 19.3–24.0% | 18.7–24.8% |
@@ -184,8 +184,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 10–14 | 10–14 | 10–14 | 10–15 |
-| [23 December 2019](2019-12-23-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
-| [20–21 December 2019](2019-12-21-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [23 December 2019](2019-12-23-KeyData.html) | Key Data <br> Público | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
+| [20–21 December 2019](2019-12-21-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 12–13 | 12–13 | 11–13 | 11–14 |
 | [17–19 December 2019](2019-12-19-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11–12 | 10–12 | 10–13 | 10–13 |
 | [10–13 December 2019](2019-12-13-NCReport.html) | NC Report <br> La Razón | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [9–13 December 2019](2019-12-13-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
