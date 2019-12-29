@@ -216,11 +216,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–25 October 2019](2019-10-25-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [16–25 October 2019](2019-10-25-NCReport.html) | NC Report <br> La Razón | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [21–25 October 2019](2019-10-25-Invymark.html) | Invymark <br> laSexta | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
-| [22–25 October 2019](2019-10-25-Hamalgama.html) | Hamalgama <br> OKDIARIO | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
+| [22–25 October 2019](2019-10-25-Hamalgama.html) | Hamalgama <br> OKDIARIO | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [23–24 October 2019](2019-10-24-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [16–24 October 2019](2019-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [21–24 October 2019](2019-10-24-GAD3.html) | GAD3 <br> ABC | 5 | 5 | 5 | 4–6 | 4–6 |
-| [21–24 October 2019](2019-10-24-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 5–6 | 5–6 | 5–7 | 4–8 |
+| [21–24 October 2019](2019-10-24-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [22–23 October 2019](2019-10-23-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [21–22 October 2019](2019-10-22-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [11–22 October 2019](2019-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -290,7 +290,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [17–21 June 2019](2019-06-21-Invymark.html) | Invymark <br> laSexta | 7 | 7–8 | 7–8 | 6–9 | 6–9 |
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
-| [7–13 June 2019](2019-06-13-NCReport.html) | NC Report <br> La Razón | 9 | 8–9 | 7–9 | 7–10 | 7–10 |
+| [7–13 June 2019](2019-06-13-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
 | [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
