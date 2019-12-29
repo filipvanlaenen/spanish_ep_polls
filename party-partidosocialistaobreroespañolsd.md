@@ -33,7 +33,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [31 October–2 November 2019](2019-11-02-SocioMétrica.html) | SocioMétrica <br> El Español | 26.4% | 24.7–28.1% | 24.2–28.6% | 23.8–29.1% | 23.1–29.9% |
 | [28 October–2 November 2019](2019-11-02-SWDemoscopia.html) | SW Demoscopia <br> infoLibre | 30.3% | 28.8–31.8% | 28.3–32.3% | 28.0–32.6% | 27.3–33.4% |
 | [29 October–2 November 2019](2019-11-02-IMOP.html) | IMOP <br> El Confidencial | 28.0% | 26.6–29.5% | 26.2–29.9% | 25.9–30.2% | 25.2–30.9% |
-| [30 October–2 November 2019](2019-11-02-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 27.3% | N/A | N/A | N/A | N/A |
+| [30 October–2 November 2019](2019-11-02-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 27.3% | 25.5–29.2% | 25.0–29.7% | 24.6–30.1% | 23.8–31.1% |
 | [31 October–1 November 2019](2019-11-01-electoPanel.html) | electoPanel <br> electomania.es | 28.4% | 26.8–30.1% | 26.4–30.6% | 26.0–31.0% | 25.2–31.8% |
 | [30–31 October 2019](2019-10-31-electoPanel.html) | electoPanel <br> electomania.es | 27.6% | 26.0–29.3% | 25.6–29.7% | 25.2–30.1% | 24.4–31.0% |
 | [28–31 October 2019](2019-10-31-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 27.8% | 26.0–29.6% | 25.5–30.2% | 25.1–30.6% | 24.2–31.6% |
@@ -211,7 +211,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [31 October–2 November 2019](2019-11-02-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [28 October–2 November 2019](2019-11-02-SWDemoscopia.html) | SW Demoscopia <br> infoLibre | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [29 October–2 November 2019](2019-11-02-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–16 | 14–17 | 14–17 | 14–17 |
-| [30 October–2 November 2019](2019-11-02-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario |  |  |  |  |  |
+| [30 October–2 November 2019](2019-11-02-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [31 October–1 November 2019](2019-11-01-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 16–18 | 14–18 |
 | [30–31 October 2019](2019-10-31-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–17 | 14–17 | 14–17 |
 | [28–31 October 2019](2019-10-31-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 16 | 15–17 | 15–17 | 15–17 | 14–19 |
