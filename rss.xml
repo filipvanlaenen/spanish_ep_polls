@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 28 Dec 2019 09:35:35 +0100</pubDate>
+    <pubDate>Sat, 28 Dec 2019 23:38:27 +0100</pubDate>
     <item>
       <title>Opinion Poll by Key Data for Público, 23 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-12-23-KeyData.html#seats</link>
@@ -548,6 +548,36 @@
         type="image/png"/>
       <pubDate>Sat, 16 Nov 2019 19:08:32 +0100</pubDate>
       <dc:date>2019-11-16T19:08:32.066343+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoscopia y Servicios for ESdiario, 30 October–2 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-11-02-DemoscopiayServicios.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 11–14 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 14–17 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 4–6 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 6–8 seats&lt;/li&gt;&lt;li&gt;Coalició Compromís (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-11-02-DemoscopiayServicios-seats.png"
+        length="158120"
+        type="image/png"/>
+      <pubDate>Sat, 28 Dec 2019 23:38:27 +0100</pubDate>
+      <dc:date>2019-12-28T23:38:27.410113+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoscopia y Servicios for ESdiario, 30 October–2 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-11-02-DemoscopiayServicios.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-11-02-DemoscopiayServicios-coalitions-seats.png"
+        length="175291"
+        type="image/png"/>
+      <pubDate>Sat, 28 Dec 2019 23:38:27 +0100</pubDate>
+      <dc:date>2019-12-28T23:38:27.410113+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoscopia y Servicios for ESdiario, 30 October–2 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-11-02-DemoscopiayServicios.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 19.6–24.8%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 24.6–30.1%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.9–15.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 7.6–11.2%&lt;/li&gt;&lt;li&gt;Vox (ECR): 10.8–14.9%&lt;/li&gt;&lt;li&gt;Coalició Compromís (Greens/EFA): 2.8–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-11-02-DemoscopiayServicios.png"
+        length="217193"
+        type="image/png"/>
+      <pubDate>Sat, 28 Dec 2019 23:38:27 +0100</pubDate>
+      <dc:date>2019-12-28T23:38:27.410113+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 31 October–1 November 2019 – Voting Intentions</title>
@@ -2869,6 +2899,6 @@
       <pubDate>Sun, 30 Jun 2019 18:13:36 +0200</pubDate>
       <dc:date>2019-06-30T18:13:36.669695+02:00</dc:date>
     </item>
-    <dc:date>2019-12-28T09:35:35.833091+01:00</dc:date>
+    <dc:date>2019-12-28T23:38:27.410113+01:00</dc:date>
   </channel>
 </rss>
