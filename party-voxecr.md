@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.3% | 13.4–17.7% | 13.1–18.1% | 12.8–18.5% | 12.3–19.3% |
+| N/A | [Poll Average](average.html) | 16.1% | 14.2–17.6% | 13.5–18.1% | 12.9–18.5% | 11.9–19.3% |
 | [23 December 2019](2019-12-23-KeyData.html) | Key Data <br> Público | 15.0% | 13.1–17.2% | 12.6–17.8% | 12.1–18.4% | 11.3–19.5% |
 | [20–21 December 2019](2019-12-21-SocioMétrica.html) | SocioMétrica <br> El Español | 16.2% | 15.2–17.3% | 14.9–17.6% | 14.7–17.8% | 14.3–18.3% |
 | [17–19 December 2019](2019-12-19-electoPanel.html) | electoPanel <br> electomania.es | 16.6% | 15.3–18.1% | 15.0–18.5% | 14.7–18.8% | 14.1–19.5% |
@@ -156,14 +156,14 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 1.1% | 100% |  |
-| 12.5–13.5% | 11% | 98.8% |  |
-| 13.5–14.5% | 24% | 88% |  |
-| 14.5–15.5% | 18% | 64% | Median |
-| 15.5–16.5% | 17% | 46% |  |
-| 16.5–17.5% | 17% | 29% |  |
-| 17.5–18.5% | 9% | 12% |  |
+| 10.5–11.5% | 0.3% | 100% |  |
+| 11.5–12.5% | 1.3% | 99.7% |  |
+| 12.5–13.5% | 4% | 98% |  |
+| 13.5–14.5% | 8% | 95% |  |
+| 14.5–15.5% | 18% | 87% |  |
+| 15.5–16.5% | 33% | 69% | Median |
+| 16.5–17.5% | 25% | 36% |  |
+| 17.5–18.5% | 9% | 11% |  |
 | 18.5–19.5% | 2% | 2% |  |
 | 19.5–20.5% | 0.3% | 0.3% |  |
 | 20.5–21.5% | 0% | 0% |  |
@@ -177,7 +177,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–10 | 7–10 | 7–11 | 7–11 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 7–11 | 6–11 |
 | [23 December 2019](2019-12-23-KeyData.html) | Key Data <br> Público | 8 | 7–9 | 7–10 | 7–10 | 6–11 |
 | [20–21 December 2019](2019-12-21-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [17–19 December 2019](2019-12-19-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 8–11 | 8–11 |
@@ -195,7 +195,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–5 November 2019](2019-11-05-GESOP.html) | GESOP <br> El Periòdic | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
 | [3–4 November 2019](2019-11-04-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [31 October–4 November 2019](2019-11-04-GESOP.html) | GESOP <br> El Periòdic | 9 | 9–10 | 8–10 | 8–11 | 7–11 |
-| [2–3 November 2019](2019-11-03-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [2–3 November 2019](2019-11-03-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [1–2 November 2019](2019-11-02-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [31 October–2 November 2019](2019-11-02-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [28 October–2 November 2019](2019-11-02-SWDemoscopia.html) | SW Demoscopia <br> infoLibre | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
@@ -222,7 +222,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–27 October 2019](2019-10-27-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [26–27 October 2019](2019-10-27-SyMconsulting.html) | SyM consulting <br> EPDA | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [25–26 October 2019](2019-10-26-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 7–8 | 6–8 | 6–8 | 5–9 |
+| [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [24–25 October 2019](2019-10-25-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [16–25 October 2019](2019-10-25-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [21–25 October 2019](2019-10-25-Invymark.html) | Invymark <br> laSexta | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
@@ -320,13 +320,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.1% | 100% |  |
-| 7 | 22% | 99.9% |  |
-| 8 | 27% | 78% |  |
-| 9 | 19% | 50% | Median |
-| 10 | 27% | 31% |  |
-| 11 | 3% | 4% |  |
-| 12 | 0.2% | 0.2% |  |
-| 13 | 0% | 0% |  |
+| 6 | 0.8% | 100% |  |
+| 7 | 3% | 99.2% |  |
+| 8 | 15% | 96% |  |
+| 9 | 45% | 81% | Median |
+| 10 | 23% | 36% |  |
+| 11 | 12% | 12% |  |
+| 12 | 0% | 0% |  |
 
 
