@@ -238,7 +238,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21–24 October 2019](2019-10-24-GAD3.html) | GAD3 <br> ABC | 14 | 13–14 | 12–14 | 12–14 | 12–14 |
 | [21–24 October 2019](2019-10-24-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [22–23 October 2019](2019-10-23-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
-| [21–22 October 2019](2019-10-22-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13 | 13 | 12–14 | 12–14 |
+| [21–22 October 2019](2019-10-22-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [11–22 October 2019](2019-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 12–13 | 12–13 | 11–13 | 11–13 |
 | [18–22 October 2019](2019-10-22-Hamalgama.html) | Hamalgama <br> OKDIARIO | 13 | 11–14 | 11–14 | 11–14 | 11–15 |
 | [20–21 October 2019](2019-10-21-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
