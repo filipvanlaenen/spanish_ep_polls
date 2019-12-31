@@ -201,7 +201,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–6 November 2019](2019-11-06-GESOP.html) | GESOP <br> El Periòdic | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [3–5 November 2019](2019-11-05-GESOP.html) | GESOP <br> El Periòdic | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [3–4 November 2019](2019-11-04-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–13 | 12–13 | 12–13 | 11–14 |
-| [31 October–4 November 2019](2019-11-04-GESOP.html) | GESOP <br> El Periòdic | 11 | 11–12 | 11–12 | 10–14 | 10–14 |
+| [31 October–4 November 2019](2019-11-04-GESOP.html) | GESOP <br> El Periòdic | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [2–3 November 2019](2019-11-03-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–13 | 11–14 | 11–14 | 11–15 |
 | [1–2 November 2019](2019-11-02-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [31 October–2 November 2019](2019-11-02-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
@@ -210,7 +210,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 October–2 November 2019](2019-11-02-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [31 October–1 November 2019](2019-11-01-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
 | [30–31 October 2019](2019-10-31-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
-| [28–31 October 2019](2019-10-31-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
+| [28–31 October 2019](2019-10-31-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [24–31 October 2019](2019-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [14–31 October 2019](2019-10-31-NCReport.html) | NC Report <br> La Razón | 14 | 13–14 | 12–14 | 12–14 | 11–15 |
 | [28–31 October 2019](2019-10-31-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
@@ -222,7 +222,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–30 October 2019](2019-10-30-DYM.html) | DYM <br> Prensa Ibérica | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
 | [28–29 October 2019](2019-10-29-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [21–29 October 2019](2019-10-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–13 | 11–13 | 10–13 | 10–13 |
-| [28–29 October 2019](2019-10-29-Ipsos.html) | Ipsos <br> Henneo | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
+| [28–29 October 2019](2019-10-29-Ipsos.html) | Ipsos <br> Henneo | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
 | [25–29 October 2019](2019-10-29-Hamalgama.html) | Hamalgama <br> OKDIARIO | 13 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [23–29 October 2019](2019-10-29-40dB.html) | 40dB <br> El País | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [27–28 October 2019](2019-10-28-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13 | 13 | 12–14 | 12–15 |
