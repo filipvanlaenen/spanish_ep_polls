@@ -223,7 +223,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21–24 October 2019](2019-10-24-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [22–23 October 2019](2019-10-23-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [21–22 October 2019](2019-10-22-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
-| [11–22 October 2019](2019-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [11–22 October 2019](2019-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [18–22 October 2019](2019-10-22-Hamalgama.html) | Hamalgama <br> OKDIARIO | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [20–21 October 2019](2019-10-21-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [19–20 October 2019](2019-10-20-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -246,7 +246,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [1 October 2019](2019-10-01-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
-| [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7 | 7–8 | 7–8 | 6–9 | 6–9 |

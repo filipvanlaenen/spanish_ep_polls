@@ -243,7 +243,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22–25 October 2019](2019-10-25-Hamalgama.html) | Hamalgama <br> OKDIARIO | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [23–24 October 2019](2019-10-24-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–18 | 15–18 | 15–18 | 15–19 |
 | [16–24 October 2019](2019-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 15–16 | 14–17 | 14–17 | 14–17 |
-| [21–24 October 2019](2019-10-24-GAD3.html) | GAD3 <br> ABC | 16 | 16–17 | 16–17 | 16–18 | 15–18 |
+| [21–24 October 2019](2019-10-24-GAD3.html) | GAD3 <br> ABC | 17 | 16–17 | 16–17 | 16–17 | 15–18 |
 | [21–24 October 2019](2019-10-24-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 14–18 | 14–18 | 14–18 |
 | [22–23 October 2019](2019-10-23-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [21–22 October 2019](2019-10-22-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
@@ -270,7 +270,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [1 October 2019](2019-10-01-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
-| [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–16 | 14–16 | 14–16 | 14–16 |
+| [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–16 | 14–16 | 14–16 | 14–17 |
 | [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
