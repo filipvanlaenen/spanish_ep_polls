@@ -238,7 +238,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–26 October 2019](2019-10-26-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 15–18 | 15–18 |
 | [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 14–16 | 14–16 | 14–16 | 14–17 |
 | [24–25 October 2019](2019-10-25-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–17 | 14–17 | 14–17 |
-| [16–25 October 2019](2019-10-25-NCReport.html) | NC Report <br> La Razón | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
+| [16–25 October 2019](2019-10-25-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [21–25 October 2019](2019-10-25-Invymark.html) | Invymark <br> laSexta | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [22–25 October 2019](2019-10-25-Hamalgama.html) | Hamalgama <br> OKDIARIO | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [23–24 October 2019](2019-10-24-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–18 | 15–18 | 15–18 | 15–19 |
@@ -263,7 +263,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 September–4 October 2019](2019-10-04-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 17 | 15–19 | 15–19 | 14–20 | 14–20 |
-| [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
+| [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 19 | 18–20 | 18–21 | 18–21 | 17–21 |
 | [30 September–4 October 2019](2019-10-04-Hamalgama.html) | Hamalgama <br> OKDIARIO | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
