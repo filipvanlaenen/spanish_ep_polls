@@ -216,7 +216,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29 October–2 November 2019](2019-11-02-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–16 | 14–17 | 14–17 | 14–17 |
 | [30 October–2 November 2019](2019-11-02-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [31 October–1 November 2019](2019-11-01-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–18 | 15–18 | 15–18 | 14–19 |
-| [30–31 October 2019](2019-10-31-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–17 | 14–17 | 14–17 |
+| [30–31 October 2019](2019-10-31-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [28–31 October 2019](2019-10-31-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
 | [24–31 October 2019](2019-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 16 | 15–16 | 15–17 | 15–17 | 14–18 |
 | [14–31 October 2019](2019-10-31-NCReport.html) | NC Report <br> La Razón | 15 | 15–17 | 15–17 | 14–17 | 14–18 |
@@ -225,7 +225,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [28–31 October 2019](2019-10-31-GESOP.html) | GESOP <br> El Periódico | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [14–31 October 2019](2019-10-31-GAD3.html) | GAD3 <br> ABC | 17 | 16–17 | 16–17 | 16–17 | 16–18 |
 | [25–31 October 2019](2019-10-31-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 15–17 | 15–18 | 15–18 | 14–19 |
-| [29–30 October 2019](2019-10-30-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16 | 16 | 15–17 | 14–17 |
+| [29–30 October 2019](2019-10-30-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–16 | 15–17 | 15–17 | 14–18 |
 | [25–30 October 2019](2019-10-30-DYM.html) | DYM <br> Prensa Ibérica | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [28–29 October 2019](2019-10-29-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
 | [21–29 October 2019](2019-10-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 15–16 | 15–17 | 14–17 | 14–17 |
