@@ -211,7 +211,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [28–31 October 2019](2019-10-31-Invymark.html) | Invymark <br> laSexta | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [29–31 October 2019](2019-10-31-Hamalgama.html) | Hamalgama <br> OKDIARIO | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [28–31 October 2019](2019-10-31-GESOP.html) | GESOP <br> El Periódico | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| [14–31 October 2019](2019-10-31-GAD3.html) | GAD3 <br> ABC | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [14–31 October 2019](2019-10-31-GAD3.html) | GAD3 <br> ABC | 7 | 7 | 6–7 | 6–7 | 6–7 |
 | [25–31 October 2019](2019-10-31-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [29–30 October 2019](2019-10-30-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [25–30 October 2019](2019-10-30-DYM.html) | DYM <br> Prensa Ibérica | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
@@ -220,7 +220,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [28–29 October 2019](2019-10-29-Ipsos.html) | Ipsos <br> Henneo | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [25–29 October 2019](2019-10-29-Hamalgama.html) | Hamalgama <br> OKDIARIO | 8 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [23–29 October 2019](2019-10-29-40dB.html) | 40dB <br> El País | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [27–28 October 2019](2019-10-28-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [27–28 October 2019](2019-10-28-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [26–27 October 2019](2019-10-27-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [26–27 October 2019](2019-10-27-SyMconsulting.html) | SyM consulting <br> EPDA | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [25–26 October 2019](2019-10-26-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
