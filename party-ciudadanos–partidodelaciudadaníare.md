@@ -194,7 +194,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [31 October–1 November 2019](2019-11-01-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [30–31 October 2019](2019-10-31-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [28–31 October 2019](2019-10-31-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 6 | 5–6 | 4–6 | 4–6 | 4–7 |
-| [24–31 October 2019](2019-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 5 | 5 | 4–5 | 4–5 | 4–6 |
+| [24–31 October 2019](2019-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [14–31 October 2019](2019-10-31-NCReport.html) | NC Report <br> La Razón | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [28–31 October 2019](2019-10-31-Invymark.html) | Invymark <br> laSexta | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [29–31 October 2019](2019-10-31-Hamalgama.html) | Hamalgama <br> OKDIARIO | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
