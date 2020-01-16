@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 10 Jan 2020 23:44:09 +0100</pubDate>
+    <pubDate>Thu, 16 Jan 2020 20:07:50 +0100</pubDate>
     <item>
       <title>Opinion Poll by Key Data for Público, 23 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-12-23-KeyData.html#seats</link>
@@ -770,14 +770,34 @@
       <dc:date>2019-12-31T10:53:16.689346+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 24–31 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-31-SigmaDos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 15–17 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 7–8 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 4–6 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 6–8 seats&lt;/li&gt;&lt;li&gt;Coalició Compromís (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-31-SigmaDos-seats.png"
+        length="214748"
+        type="image/png"/>
+      <pubDate>Thu, 16 Jan 2020 20:07:50 +0100</pubDate>
+      <dc:date>2020-01-16T20:07:50.946369+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 24–31 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-31-SigmaDos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-31-SigmaDos-coalitions-seats.png"
+        length="183334"
+        type="image/png"/>
+      <pubDate>Thu, 16 Jan 2020 20:07:50 +0100</pubDate>
+      <dc:date>2020-01-16T20:07:50.946369+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 24–31 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-31-SigmaDos.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 18.5–22.2%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 25.9–30.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 12.0–15.2%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 7.7–10.3%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 3.2–5.0%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 0.8–1.8%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.8–1.8%&lt;/li&gt;&lt;li&gt;Vox (ECR): 11.7–14.9%&lt;/li&gt;&lt;li&gt;Coalició Compromís (Greens/EFA): 3.2–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-31-SigmaDos.png"
-        length="273191"
+        length="273244"
         type="image/png"/>
-      <pubDate>Sat, 16 Nov 2019 19:43:38 +0100</pubDate>
-      <dc:date>2019-11-16T19:43:38.934977+01:00</dc:date>
+      <pubDate>Thu, 16 Jan 2020 20:07:50 +0100</pubDate>
+      <dc:date>2020-01-16T20:07:50.946369+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 14–31 October 2019 – Seat Projections for the Parties</title>
@@ -3639,6 +3659,6 @@
       <pubDate>Sun, 30 Jun 2019 18:13:36 +0200</pubDate>
       <dc:date>2019-06-30T18:13:36.669695+02:00</dc:date>
     </item>
-    <dc:date>2020-01-10T23:44:09.576697+01:00</dc:date>
+    <dc:date>2020-01-16T20:07:50.946369+01:00</dc:date>
   </channel>
 </rss>
