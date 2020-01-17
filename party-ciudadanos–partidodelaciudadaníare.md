@@ -215,7 +215,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [24–25 October 2019](2019-10-25-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [16–25 October 2019](2019-10-25-NCReport.html) | NC Report <br> La Razón | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [21–25 October 2019](2019-10-25-Invymark.html) | Invymark <br> laSexta | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [21–25 October 2019](2019-10-25-Invymark.html) | Invymark <br> laSexta | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [22–25 October 2019](2019-10-25-Hamalgama.html) | Hamalgama <br> OKDIARIO | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [23–24 October 2019](2019-10-24-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [16–24 October 2019](2019-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
@@ -259,7 +259,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
-| [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 8 | 6–9 | 6–9 | 6–10 | 5–10 |

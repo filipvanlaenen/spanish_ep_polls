@@ -239,7 +239,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 14–16 | 14–16 | 14–16 | 14–17 |
 | [24–25 October 2019](2019-10-25-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–17 | 14–17 | 14–17 |
 | [16–25 October 2019](2019-10-25-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
-| [21–25 October 2019](2019-10-25-Invymark.html) | Invymark <br> laSexta | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [21–25 October 2019](2019-10-25-Invymark.html) | Invymark <br> laSexta | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [22–25 October 2019](2019-10-25-Hamalgama.html) | Hamalgama <br> OKDIARIO | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [23–24 October 2019](2019-10-24-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–18 | 15–18 | 15–18 | 15–19 |
 | [16–24 October 2019](2019-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 15–16 | 14–17 | 14–17 | 14–17 |
@@ -283,7 +283,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 14–18 | 14–18 | 14–18 |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 17 | 15–18 | 15–18 | 15–18 | 14–18 |
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
-| [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 19 | 18–20 | 18–20 | 17–20 | 17–21 |
+| [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
 | [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 17 | 16–19 | 16–20 | 15–20 | 14–21 |

@@ -232,7 +232,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 12–13 | 12–13 | 11–14 | 11–15 |
 | [24–25 October 2019](2019-10-25-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
 | [16–25 October 2019](2019-10-25-NCReport.html) | NC Report <br> La Razón | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
-| [21–25 October 2019](2019-10-25-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
+| [21–25 October 2019](2019-10-25-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [22–25 October 2019](2019-10-25-Hamalgama.html) | Hamalgama <br> OKDIARIO | 13 | 12–14 | 12–15 | 12–15 | 12–16 |
 | [23–24 October 2019](2019-10-24-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
 | [16–24 October 2019](2019-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–13 | 11–13 | 11–13 | 10–13 |

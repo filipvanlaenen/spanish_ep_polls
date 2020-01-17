@@ -269,7 +269,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
-| [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
