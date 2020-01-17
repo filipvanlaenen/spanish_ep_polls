@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 16 Jan 2020 20:07:50 +0100</pubDate>
+    <pubDate>Thu, 16 Jan 2020 21:44:23 +0100</pubDate>
     <item>
       <title>Opinion Poll by Key Data for Público, 23 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-12-23-KeyData.html#seats</link>
@@ -1360,14 +1360,34 @@
       <dc:date>2020-01-03T23:57:33.831229+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Invymark for laSexta, 21–25 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-25-Invymark.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 11–13 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 14–17 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 5–7 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 5–7 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 4–6 seats&lt;/li&gt;&lt;li&gt;Coalició Compromís (Greens/EFA): 1–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-25-Invymark-seats.png"
+        length="164178"
+        type="image/png"/>
+      <pubDate>Thu, 16 Jan 2020 21:44:23 +0100</pubDate>
+      <dc:date>2020-01-16T21:44:23.842289+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Invymark for laSexta, 21–25 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-25-Invymark.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-25-Invymark-coalitions-seats.png"
+        length="186025"
+        type="image/png"/>
+      <pubDate>Thu, 16 Jan 2020 21:44:23 +0100</pubDate>
+      <dc:date>2020-01-16T21:44:23.842289+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Invymark for laSexta, 21–25 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-25-Invymark.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 19.4–24.1%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 26.1–31.2%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9.8–13.4%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 9.0–12.5%&lt;/li&gt;&lt;li&gt;Vox (ECR): 8.4–11.8%&lt;/li&gt;&lt;li&gt;Coalició Compromís (Greens/EFA): 3.2–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-10-25-Invymark.png"
-        length="210142"
+        length="210199"
         type="image/png"/>
-      <pubDate>Mon, 23 Dec 2019 08:48:11 +0100</pubDate>
-      <dc:date>2019-12-23T08:48:11.152223+01:00</dc:date>
+      <pubDate>Thu, 16 Jan 2020 21:44:23 +0100</pubDate>
+      <dc:date>2020-01-16T21:44:23.842289+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Hamalgama for OKDIARIO, 22–25 October 2019 – Seat Projections for the Parties</title>
@@ -2640,14 +2660,34 @@
       <dc:date>2019-09-26T19:59:27.030892+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Invymark for laSexta, 9–13 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-13-Invymark.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 10–12 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17–20 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 5–7 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-13-Invymark-seats.png"
+        length="132092"
+        type="image/png"/>
+      <pubDate>Thu, 16 Jan 2020 20:44:05 +0100</pubDate>
+      <dc:date>2020-01-16T20:44:05.585258+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Invymark for laSexta, 9–13 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-13-Invymark.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-13-Invymark-coalitions-seats.png"
+        length="152891"
+        type="image/png"/>
+      <pubDate>Thu, 16 Jan 2020 20:44:05 +0100</pubDate>
+      <dc:date>2020-01-16T20:44:05.585258+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Invymark for laSexta, 9–13 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-13-Invymark.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.8–22.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 31.3–36.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 10.6–14.3%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 10.0–13.6%&lt;/li&gt;&lt;li&gt;Vox (ECR): 5.7–8.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-09-13-Invymark.png"
-        length="176856"
+        length="176943"
         type="image/png"/>
-      <pubDate>Mon, 23 Sep 2019 17:25:41 +0200</pubDate>
-      <dc:date>2019-09-23T17:25:41.285468+02:00</dc:date>
+      <pubDate>Thu, 16 Jan 2020 20:44:05 +0100</pubDate>
+      <dc:date>2020-01-16T20:44:05.585258+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by DYM for El Independiente, 9–12 September 2019 – Seat Projections for the Parties</title>
@@ -3659,6 +3699,6 @@
       <pubDate>Sun, 30 Jun 2019 18:13:36 +0200</pubDate>
       <dc:date>2019-06-30T18:13:36.669695+02:00</dc:date>
     </item>
-    <dc:date>2020-01-16T20:07:50.946369+01:00</dc:date>
+    <dc:date>2020-01-16T21:44:23.842289+01:00</dc:date>
   </channel>
 </rss>
