@@ -10,10 +10,25 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.2% | 4.2–7.7% | 3.7–8.1% | 3.5–8.4% | 3.0–9.1% |
+| N/A | [Poll Average](average.html) | 6.2% | 4.2–8.1% | 3.7–8.5% | 3.4–8.9% | 3.0–9.6% |
+| [21–23 January 2020](2020-01-23-electoPanel.html) | electoPanel <br> electomania.es | 7.0% | 6.2–8.1% | 5.9–8.4% | 5.7–8.6% | 5.4–9.1% |
+| [15–18 January 2020](2020-01-18-SocioMétrica.html) | SocioMétrica <br> El Español | 5.7% | 4.9–6.7% | 4.7–7.0% | 4.5–7.3% | 4.1–7.8% |
+| [7–17 January 2020](2020-01-17-NCReport.html) | NC Report <br> La Razón | 5.6% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
+| [13–17 January 2020](2020-01-17-Invymark.html) | Invymark <br> laSexta | 3.8% | 3.2–4.6% | 3.0–4.9% | 2.9–5.1% | 2.6–5.5% |
+| [13–15 January 2020](2020-01-15-electoPanel.html) | electoPanel <br> electomania.es | 7.5% | 6.8–8.2% | 6.7–8.4% | 6.5–8.6% | 6.2–8.9% |
+| [7–10 January 2020](2020-01-10-SimpleLógica.html) | Simple Lógica | 7.9% | 7.0–9.1% | 6.7–9.4% | 6.5–9.7% | 6.0–10.3% |
+| [7–10 January 2020](2020-01-10-Invymark.html) | Invymark <br> laSexta | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
+| [7–10 January 2020](2020-01-10-GAD3.html) | GAD3 <br> ABC | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
+| [2–9 January 2020](2020-01-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6.4% | 5.5–7.4% | 5.3–7.7% | 5.1–8.0% | 4.7–8.5% |
+| [7–8 January 2020](2020-01-08-electoPanel.html) | electoPanel <br> electomania.es | 7.0% | 6.2–8.1% | 5.9–8.4% | 5.7–8.6% | 5.4–9.1% |
+| [29 December 2019–2 January 2020](2020-01-02-electoPanel.html) | electoPanel <br> electomania.es | 6.9% | 6.0–7.9% | 5.8–8.2% | 5.6–8.4% | 5.2–8.9% |
+| [30 December 2019–2 January 2020](2020-01-02-SWDemoscopia.html) | SW Demoscopia | 5.1% | 4.4–5.9% | 4.2–6.2% | 4.0–6.4% | 3.7–6.9% |
+| [25–28 December 2019](2019-12-28-electoPanel.html) | electoPanel <br> electomania.es | 7.0% | 6.2–8.1% | 5.9–8.4% | 5.7–8.6% | 5.4–9.1% |
+| [26–27 December 2019](2019-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.8% | N/A | N/A | N/A | N/A |
 | [23 December 2019](2019-12-23-KeyData.html) | Key Data <br> Público | 6.0% | 4.8–7.6% | 4.5–8.0% | 4.2–8.4% | 3.7–9.3% |
 | [20–21 December 2019](2019-12-21-SocioMétrica.html) | SocioMétrica <br> El Español | 5.8% | 5.2–6.5% | 5.0–6.7% | 4.9–6.9% | 4.6–7.2% |
 | [17–19 December 2019](2019-12-19-electoPanel.html) | electoPanel <br> electomania.es | 7.3% | 6.4–8.3% | 6.2–8.6% | 6.0–8.9% | 5.6–9.4% |
+| [29 November–19 December 2019](2019-12-19-CIS.html) | CIS | 5.9% | N/A | N/A | N/A | N/A |
 | [10–13 December 2019](2019-12-13-NCReport.html) | NC Report <br> La Razón | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
 | [9–13 December 2019](2019-12-13-Invymark.html) | Invymark <br> laSexta | 3.9% | 3.3–4.7% | 3.1–5.0% | 3.0–5.2% | 2.7–5.6% |
 | [10–12 December 2019](2019-12-12-electoPanel.html) | electoPanel <br> electomania.es | 7.6% | 6.7–8.7% | 6.5–8.9% | 6.2–9.2% | 5.9–9.7% |
@@ -149,13 +164,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 10% | 97% |  |
-| 4.5–5.5% | 15% | 87% |  |
-| 5.5–6.5% | 33% | 72% | Median |
-| 6.5–7.5% | 27% | 39% |  |
-| 7.5–8.5% | 11% | 13% |  |
-| 8.5–9.5% | 2% | 2% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 11% | 97% |  |
+| 4.5–5.5% | 19% | 86% |  |
+| 5.5–6.5% | 25% | 66% | Median |
+| 6.5–7.5% | 23% | 41% |  |
+| 7.5–8.5% | 14% | 18% |  |
+| 8.5–9.5% | 4% | 5% |  |
+| 9.5–10.5% | 0.5% | 0.5% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -167,10 +182,25 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 1–5 | 1–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–5 | 1–5 | 1–5 |
+| [21–23 January 2020](2020-01-23-electoPanel.html) | electoPanel <br> electomania.es | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [15–18 January 2020](2020-01-18-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [7–17 January 2020](2020-01-17-NCReport.html) | NC Report <br> La Razón | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [13–17 January 2020](2020-01-17-Invymark.html) | Invymark <br> laSexta | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [13–15 January 2020](2020-01-15-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4 | 4 | 4 | 3–5 |
+| [7–10 January 2020](2020-01-10-SimpleLógica.html) | Simple Lógica | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [7–10 January 2020](2020-01-10-Invymark.html) | Invymark <br> laSexta | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [7–10 January 2020](2020-01-10-GAD3.html) | GAD3 <br> ABC | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [2–9 January 2020](2020-01-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [7–8 January 2020](2020-01-08-electoPanel.html) | electoPanel <br> electomania.es | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [29 December 2019–2 January 2020](2020-01-02-electoPanel.html) | electoPanel <br> electomania.es | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [30 December 2019–2 January 2020](2020-01-02-SWDemoscopia.html) | SW Demoscopia | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [25–28 December 2019](2019-12-28-electoPanel.html) | electoPanel <br> electomania.es | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [26–27 December 2019](2019-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [23 December 2019](2019-12-23-KeyData.html) | Key Data <br> Público | 3 | 3–4 | 2–4 | 2–5 | 1–5 |
 | [20–21 December 2019](2019-12-21-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [17–19 December 2019](2019-12-19-electoPanel.html) | electoPanel <br> electomania.es | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [29 November–19 December 2019](2019-12-19-CIS.html) | CIS |  |  |  |  |  |
 | [10–13 December 2019](2019-12-13-NCReport.html) | NC Report <br> La Razón | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [9–13 December 2019](2019-12-13-Invymark.html) | Invymark <br> laSexta | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [10–12 December 2019](2019-12-12-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -306,10 +336,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 3% | 100% |  |
-| 2 | 15% | 97% |  |
-| 3 | 49% | 82% | Median |
-| 4 | 30% | 33% |  |
-| 5 | 3% | 3% |  |
+| 2 | 20% | 97% |  |
+| 3 | 38% | 77% | Median |
+| 4 | 33% | 39% |  |
+| 5 | 6% | 6% |  |
 | 6 | 0% | 0% |  |
 
 
