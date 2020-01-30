@@ -28,7 +28,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23 December 2019](2019-12-23-KeyData.html) | Key Data <br> Público | 1.2% | 0.8–2.1% | 0.7–2.4% | 0.5–2.6% | 0.4–3.1% |
 | [20–21 December 2019](2019-12-21-SocioMétrica.html) | SocioMétrica <br> El Español | 1.1% | 0.9–1.5% | 0.8–1.6% | 0.7–1.7% | 0.6–1.8% |
 | [17–19 December 2019](2019-12-19-electoPanel.html) | electoPanel <br> electomania.es | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% |
-| [29 November–19 December 2019](2019-12-19-CIS.html) | CIS | 1.3% | N/A | N/A | N/A | N/A |
+| [29 November–19 December 2019](2019-12-19-CIS.html) | CIS | 1.3% | 1.1–1.5% | 1.0–1.6% | 1.0–1.6% | 0.9–1.8% |
 | [10–13 December 2019](2019-12-13-NCReport.html) | NC Report <br> La Razón | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [9–13 December 2019](2019-12-13-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [10–12 December 2019](2019-12-12-electoPanel.html) | electoPanel <br> electomania.es | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.7–1.9% | 0.5–2.1% |
@@ -193,7 +193,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23 December 2019](2019-12-23-KeyData.html) | Key Data <br> Público | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–21 December 2019](2019-12-21-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0–1 |
 | [17–19 December 2019](2019-12-19-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0–1 | 0–1 |
-| [29 November–19 December 2019](2019-12-19-CIS.html) | CIS |  |  |  |  |  |
+| [29 November–19 December 2019](2019-12-19-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0–1 |
 | [10–13 December 2019](2019-12-13-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [9–13 December 2019](2019-12-13-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [10–12 December 2019](2019-12-12-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0–1 | 0–1 | 0–1 |

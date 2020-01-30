@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.9% | 25.7–30.3% | 25.1–31.1% | 24.6–31.7% | 23.6–32.8% |
+| N/A | [Poll Average](average.html) | 27.8% | 25.7–30.2% | 25.1–31.0% | 24.6–31.6% | 23.7–32.7% |
 | [21–23 January 2020](2020-01-23-electoPanel.html) | electoPanel <br> electomania.es | 27.4% | 25.8–29.0% | 25.3–29.5% | 25.0–29.9% | 24.2–30.7% |
 | [15–18 January 2020](2020-01-18-SocioMétrica.html) | SocioMétrica <br> El Español | 28.9% | 27.2–30.7% | 26.7–31.2% | 26.3–31.7% | 25.5–32.5% |
 | [7–17 January 2020](2020-01-17-NCReport.html) | NC Report <br> La Razón | 27.8% | 26.0–29.7% | 25.5–30.2% | 25.1–30.7% | 24.3–31.6% |
@@ -24,11 +24,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [29 December 2019–2 January 2020](2020-01-02-electoPanel.html) | electoPanel <br> electomania.es | 27.6% | 26.0–29.3% | 25.6–29.7% | 25.2–30.1% | 24.4–31.0% |
 | [30 December 2019–2 January 2020](2020-01-02-SWDemoscopia.html) | SW Demoscopia | 28.0% | 26.4–29.6% | 26.0–30.1% | 25.6–30.5% | 24.9–31.3% |
 | [25–28 December 2019](2019-12-28-electoPanel.html) | electoPanel <br> electomania.es | 27.8% | 26.2–29.5% | 25.8–30.0% | 25.4–30.4% | 24.7–31.2% |
-| [26–27 December 2019](2019-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 27.5% | N/A | N/A | N/A | N/A |
+| [26–27 December 2019](2019-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 27.5% | 25.7–29.4% | 25.2–29.9% | 24.8–30.4% | 24.0–31.3% |
 | [23 December 2019](2019-12-23-KeyData.html) | Key Data <br> Público | 26.4% | 24.0–29.1% | 23.3–29.8% | 22.7–30.4% | 21.6–31.7% |
 | [20–21 December 2019](2019-12-21-SocioMétrica.html) | SocioMétrica <br> El Español | 27.2% | 26.0–28.5% | 25.7–28.8% | 25.4–29.1% | 24.8–29.8% |
 | [17–19 December 2019](2019-12-19-electoPanel.html) | electoPanel <br> electomania.es | 26.7% | 25.1–28.4% | 24.7–28.8% | 24.3–29.2% | 23.6–30.1% |
-| [29 November–19 December 2019](2019-12-19-CIS.html) | CIS | 29.9% | N/A | N/A | N/A | N/A |
+| [29 November–19 December 2019](2019-12-19-CIS.html) | CIS | 29.9% | 29.0–30.7% | 28.8–31.0% | 28.6–31.2% | 28.2–31.6% |
 | [10–13 December 2019](2019-12-13-NCReport.html) | NC Report <br> La Razón | 27.1% | 25.3–29.0% | 24.9–29.5% | 24.4–29.9% | 23.6–30.8% |
 | [9–13 December 2019](2019-12-13-Invymark.html) | Invymark <br> laSexta | 28.8% | 27.2–30.6% | 26.7–31.0% | 26.3–31.5% | 25.6–32.3% |
 | [10–12 December 2019](2019-12-12-electoPanel.html) | electoPanel <br> electomania.es | 26.6% | 25.1–28.3% | 24.6–28.8% | 24.2–29.2% | 23.5–30.0% |
@@ -183,17 +183,17 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.4% | 100% |  |
+| 22.5–23.5% | 0.3% | 100% |  |
 | 23.5–24.5% | 2% | 99.6% |  |
 | 24.5–25.5% | 6% | 98% |  |
-| 25.5–26.5% | 14% | 91% |  |
-| 26.5–27.5% | 21% | 78% |  |
-| 27.5–28.5% | 22% | 57% | Median |
-| 28.5–29.5% | 17% | 35% |  |
-| 29.5–30.5% | 10% | 19% |  |
+| 25.5–26.5% | 14% | 92% |  |
+| 26.5–27.5% | 21% | 77% |  |
+| 27.5–28.5% | 22% | 56% | Median |
+| 28.5–29.5% | 17% | 34% |  |
+| 29.5–30.5% | 10% | 17% |  |
 | 30.5–31.5% | 5% | 8% |  |
 | 31.5–32.5% | 2% | 3% |  |
-| 32.5–33.5% | 0.6% | 0.7% |  |
+| 32.5–33.5% | 0.5% | 0.6% |  |
 | 33.5–34.5% | 0.1% | 0.1% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
@@ -206,7 +206,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
+| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–18 | 14–18 | 13–18 |
 | [21–23 January 2020](2020-01-23-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [15–18 January 2020](2020-01-18-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 15–17 | 15–18 | 15–18 | 15–19 |
 | [7–17 January 2020](2020-01-17-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
@@ -220,11 +220,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29 December 2019–2 January 2020](2020-01-02-electoPanel.html) | electoPanel <br> electomania.es | 17 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [30 December 2019–2 January 2020](2020-01-02-SWDemoscopia.html) | SW Demoscopia | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [25–28 December 2019](2019-12-28-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
-| [26–27 December 2019](2019-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [26–27 December 2019](2019-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 15–16 | 14–17 | 14–17 | 14–18 |
 | [23 December 2019](2019-12-23-KeyData.html) | Key Data <br> Público | 15 | 13–17 | 13–18 | 13–18 | 12–18 |
 | [20–21 December 2019](2019-12-21-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–17 | 15–17 | 15–17 | 14–17 |
 | [17–19 December 2019](2019-12-19-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–17 | 15–17 | 14–17 | 14–17 |
-| [29 November–19 December 2019](2019-12-19-CIS.html) | CIS |  |  |  |  |  |
+| [29 November–19 December 2019](2019-12-19-CIS.html) | CIS | 17 | 17–18 | 17–18 | 17–18 | 16–19 |
 | [10–13 December 2019](2019-12-13-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [9–13 December 2019](2019-12-13-Invymark.html) | Invymark <br> laSexta | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [10–12 December 2019](2019-12-12-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
@@ -373,10 +373,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.1% | 100% |  |
 | 13 | 2% | 99.9% |  |
 | 14 | 11% | 98% |  |
-| 15 | 26% | 87% |  |
-| 16 | 28% | 61% | Median |
-| 17 | 27% | 33% |  |
-| 18 | 6% | 6% |  |
+| 15 | 29% | 87% |  |
+| 16 | 29% | 59% | Median |
+| 17 | 24% | 30% |  |
+| 18 | 5% | 6% |  |
 | 19 | 0.5% | 0.5% |  |
 | 20 | 0% | 0% |  |
 
