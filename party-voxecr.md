@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.5% | 14.1–18.4% | 13.6–18.9% | 13.2–19.3% | 12.4–20.1% |
+| N/A | [Poll Average](average.html) | 16.3% | 14.0–18.4% | 13.5–18.9% | 13.1–19.3% | 12.3–20.2% |
+| [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16.9% | N/A | N/A | N/A | N/A |
 | [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> lasexta | 16.8% | N/A | N/A | N/A | N/A |
 | [31 January 2020](2020-01-31-SWDemoscopia.html) | SW Demoscopia | 18.7% | N/A | N/A | N/A | N/A |
 | [13–29 January 2020](2020-01-29-Metroscopia.html) | Metroscopia | 15.3% | N/A | N/A | N/A | N/A |
@@ -178,14 +179,14 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.6% | 100% |  |
-| 12.5–13.5% | 4% | 99.3% |  |
-| 13.5–14.5% | 11% | 95% |  |
-| 14.5–15.5% | 15% | 85% |  |
-| 15.5–16.5% | 20% | 69% |  |
-| 16.5–17.5% | 23% | 49% | Median |
-| 17.5–18.5% | 17% | 26% |  |
-| 18.5–19.5% | 7% | 9% |  |
+| 11.5–12.5% | 0.8% | 100% |  |
+| 12.5–13.5% | 5% | 99.2% |  |
+| 13.5–14.5% | 12% | 94% |  |
+| 14.5–15.5% | 17% | 82% |  |
+| 15.5–16.5% | 20% | 65% | Median |
+| 16.5–17.5% | 21% | 45% |  |
+| 17.5–18.5% | 16% | 24% |  |
+| 18.5–19.5% | 7% | 8% |  |
 | 19.5–20.5% | 2% | 2% |  |
 | 20.5–21.5% | 0.2% | 0.2% |  |
 | 21.5–22.5% | 0% | 0% |  |
@@ -199,7 +200,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 7–11 | 7–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 7–11 | 7–11 | 7–11 | 7–12 |
+| [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> lasexta |  |  |  |  |  |
 | [31 January 2020](2020-01-31-SWDemoscopia.html) | SW Demoscopia |  |  |  |  |  |
 | [13–29 January 2020](2020-01-29-Metroscopia.html) | Metroscopia |  |  |  |  |  |
@@ -363,13 +365,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.4% | 100% |  |
-| 7 | 9% | 99.6% |  |
-| 8 | 21% | 91% |  |
-| 9 | 23% | 70% | Median |
-| 10 | 35% | 48% |  |
-| 11 | 11% | 12% |  |
-| 12 | 1.0% | 1.1% |  |
+| 6 | 0.5% | 100% |  |
+| 7 | 10% | 99.5% |  |
+| 8 | 24% | 89% |  |
+| 9 | 23% | 65% | Median |
+| 10 | 30% | 42% |  |
+| 11 | 12% | 13% |  |
+| 12 | 1.2% | 1.2% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 

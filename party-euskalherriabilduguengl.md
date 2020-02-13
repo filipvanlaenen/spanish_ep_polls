@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.2% | 0.8–1.7% | 0.7–1.9% | 0.6–2.0% | 0.5–2.3% |
+| [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1.1% | N/A | N/A | N/A | N/A |
 | [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> lasexta | 0.0% | N/A | N/A | N/A | N/A |
 | [31 January 2020](2020-01-31-SWDemoscopia.html) | SW Demoscopia | 0.0% | N/A | N/A | N/A | N/A |
 | [13–29 January 2020](2020-01-29-Metroscopia.html) | Metroscopia | 0.0% | N/A | N/A | N/A | N/A |
@@ -166,8 +167,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.8% | 100% | Last Result |
-| 0.5–1.5% | 81% | 99.2% | Median |
+| 0.0–0.5% | 1.0% | 100% | Last Result |
+| 0.5–1.5% | 81% | 99.0% | Median |
 | 1.5–2.5% | 18% | 18% |  |
 | 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
@@ -182,6 +183,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> lasexta |  |  |  |  |  |
 | [31 January 2020](2020-01-31-SWDemoscopia.html) | SW Demoscopia |  |  |  |  |  |
 | [13–29 January 2020](2020-01-29-Metroscopia.html) | Metroscopia |  |  |  |  |  |
@@ -339,8 +341,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Last Result, Median |
-| 1 | 14% | 14% |  |
+| 0 | 87% | 100% | Last Result, Median |
+| 1 | 13% | 13% |  |
 | 2 | 0% | 0% |  |
 
 
