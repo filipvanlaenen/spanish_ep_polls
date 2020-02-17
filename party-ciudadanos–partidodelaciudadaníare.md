@@ -330,7 +330,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 7 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 11 | 10–11 | 10–11 | 10–11 | 9–11 |
 | [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 10 | 10 | 9–10 | 9–10 |
-| [22–25 June 2019](2019-06-25-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7 | 7 | 7 | 7–8 |
+| [22–25 June 2019](2019-06-25-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 8 | 6–8 | 6–8 | 6–8 |
 | [17–21 June 2019](2019-06-21-Invymark.html) | Invymark <br> laSexta | 7 | 7–10 | 7–10 | 7–10 | 7–10 |
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 10 | 8–11 | 8–11 | 8–12 | 8–12 |
@@ -338,7 +338,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
-| [27–31 May 2019](2019-05-31-Invymark.html) | Invymark <br> laSexta | 8 | 8–10 | 8–10 | 8–10 | 7–10 |
+| [27–31 May 2019](2019-05-31-Invymark.html) | Invymark <br> laSexta | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 
 ### Probability Mass Function
 
