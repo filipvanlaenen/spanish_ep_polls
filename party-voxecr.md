@@ -157,8 +157,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 5.6% | 4.7–6.8% | 4.5–7.1% | 4.2–7.5% | 3.8–8.1% |
 | [7–13 June 2019](2019-06-13-NCReport.html) | NC Report <br> La Razón | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 8.9% | 7.9–10.1% | 7.6–10.4% | 7.3–10.7% | 6.9–11.4% |
-| [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8.7% | N/A | N/A | N/A | N/A |
-| [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 7.9% | N/A | N/A | N/A | N/A |
+| [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8.7% | 7.7–9.9% | 7.4–10.3% | 7.2–10.5% | 6.7–11.1% |
+| [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [27–31 May 2019](2019-05-31-Invymark.html) | Invymark <br> laSexta | 8.4% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
@@ -348,8 +348,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [7–13 June 2019](2019-06-13-NCReport.html) | NC Report <br> La Razón | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
-| [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario |  |  |  |  |  |
+| [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
 | [27–31 May 2019](2019-05-31-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 
 ### Probability Mass Function

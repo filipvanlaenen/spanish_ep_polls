@@ -157,8 +157,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 13.0% | 11.6–14.6% | 11.2–15.1% | 10.8–15.5% | 10.2–16.3% |
 | [7–13 June 2019](2019-06-13-NCReport.html) | NC Report <br> La Razón | 12.7% | 11.4–14.1% | 11.1–14.6% | 10.8–14.9% | 10.2–15.6% |
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 13.4% | 12.1–14.8% | 11.8–15.2% | 11.5–15.6% | 10.9–16.2% |
-| [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13.2% | N/A | N/A | N/A | N/A |
-| [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 10.8% | N/A | N/A | N/A | N/A |
+| [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13.2% | 11.9–14.6% | 11.6–15.0% | 11.3–15.3% | 10.7–16.0% |
+| [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 10.8% | 9.6–12.2% | 9.3–12.5% | 9.0–12.9% | 8.5–13.6% |
 | [27–31 May 2019](2019-05-31-Invymark.html) | Invymark <br> laSexta | 13.3% | 12.1–14.7% | 11.8–15.1% | 11.5–15.4% | 11.0–16.0% |
 
 ### Probability Mass Function
@@ -345,8 +345,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 6 | 6–9 | 6–9 | 6–10 | 6–10 |
 | [7–13 June 2019](2019-06-13-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
-| [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario |  |  |  |  |  |
+| [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–8 | 7–8 | 7–9 | 7–10 |
+| [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [27–31 May 2019](2019-05-31-Invymark.html) | Invymark <br> laSexta | 7 | 7–8 | 7–8 | 7–8 | 7–10 |
 
 ### Probability Mass Function

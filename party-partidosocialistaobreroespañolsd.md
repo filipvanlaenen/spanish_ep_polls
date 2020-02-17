@@ -157,8 +157,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 30.8% | 28.7–32.9% | 28.1–33.5% | 27.6–34.0% | 26.7–35.1% |
 | [7–13 June 2019](2019-06-13-NCReport.html) | NC Report <br> La Razón | 30.5% | 28.7–32.4% | 28.2–33.0% | 27.7–33.4% | 26.9–34.4% |
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 32.0% | 30.2–33.9% | 29.7–34.4% | 29.3–34.9% | 28.5–35.8% |
-| [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 30.6% | N/A | N/A | N/A | N/A |
-| [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 30.4% | N/A | N/A | N/A | N/A |
+| [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 30.6% | 28.9–32.5% | 28.4–33.0% | 28.0–33.4% | 27.2–34.3% |
+| [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 30.4% | 28.6–32.3% | 28.1–32.9% | 27.6–33.3% | 26.8–34.3% |
 | [27–31 May 2019](2019-05-31-Invymark.html) | Invymark <br> laSexta | 33.6% | 31.9–35.4% | 31.4–35.9% | 31.0–36.3% | 30.1–37.2% |
 
 ### Probability Mass Function
@@ -360,8 +360,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 18 | 16–18 | 16–20 | 16–20 | 16–20 |
 | [7–13 June 2019](2019-06-13-NCReport.html) | NC Report <br> La Razón | 20 | 18–20 | 18–20 | 18–21 | 17–21 |
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
-| [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
-| [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario |  |  |  |  |  |
+| [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 19 | 18–20 | 18–21 | 18–21 | 17–21 |
+| [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [27–31 May 2019](2019-05-31-Invymark.html) | Invymark <br> laSexta | 21 | 19–22 | 19–22 | 19–22 | 19–22 |
 
 ### Probability Mass Function
