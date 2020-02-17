@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 14 Feb 2020 23:29:58 +0100</pubDate>
+    <pubDate>Mon, 17 Feb 2020 20:26:56 +0100</pubDate>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 3–7 February 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-02-07-Celeste-Tel.html#seats</link>
@@ -3176,8 +3176,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-06-25-electoPanel.png"
         length="150807"
         type="image/png"/>
-      <pubDate>Sat, 13 Jul 2019 15:39:01 +0200</pubDate>
-      <dc:date>2019-07-13T15:39:01.420935+02:00</dc:date>
+      <pubDate>Mon, 17 Feb 2020 18:58:41 +0100</pubDate>
+      <dc:date>2020-02-17T18:58:41.58428+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 21 June 2019 – Voting Intentions</title>
@@ -3229,6 +3229,36 @@
       <pubDate>Fri, 14 Feb 2020 23:29:58 +0100</pubDate>
       <dc:date>2020-02-14T23:29:58.732983+01:00</dc:date>
     </item>
-    <dc:date>2020-02-14T23:29:58.732983+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 5–11 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-06-11-Celeste-Tel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 17.1–21.8%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 28.0–33.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.3–15.3%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 12.7–16.9%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 2.9–5.2%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català (NI): 1.2–2.9%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 1.0–2.5%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal (GUE/NGL): 0.8–2.1%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Vox (ECR): 7.2–10.5%&lt;/li&gt;&lt;li&gt;Coalició Compromís (Greens/EFA): 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-06-11-Celeste-Tel.png"
+        length="333750"
+        type="image/png"/>
+      <pubDate>Mon, 17 Feb 2020 17:22:49 +0100</pubDate>
+      <dc:date>2020-02-17T17:22:49.656189+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoscopia y Servicios for ESDiario, 4–7 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-06-07-DemoscopiayServicios.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 18.7–23.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 27.6–33.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 9.0–12.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 15.4–20.1%&lt;/li&gt;&lt;li&gt;Vox (ECR): 6.4–9.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-06-07-DemoscopiayServicios.png"
+        length="178376"
+        type="image/png"/>
+      <pubDate>Mon, 17 Feb 2020 18:26:30 +0100</pubDate>
+      <dc:date>2020-02-17T18:26:30.084068+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Invymark for laSexta, 27–31 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-31-Invymark.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 13.5–17.6%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 31.0–36.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.5–15.4%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 13.2–17.2%&lt;/li&gt;&lt;li&gt;Vox (ECR): 7.0–10.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-31-Invymark.png"
+        length="180389"
+        type="image/png"/>
+      <pubDate>Mon, 17 Feb 2020 20:26:56 +0100</pubDate>
+      <dc:date>2020-02-17T20:26:56.117118+01:00</dc:date>
+    </item>
+    <dc:date>2020-02-17T20:26:56.117118+01:00</dc:date>
   </channel>
 </rss>
