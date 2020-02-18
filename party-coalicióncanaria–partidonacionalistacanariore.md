@@ -318,7 +318,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [11–12 July 2019](2019-07-12-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 0 | 0 | 0 | 0 | 0 |
+| [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 0 | 0 | 0 | 0 | 0–1 |
 | [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario |  |  |  |  |  |
 | [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |

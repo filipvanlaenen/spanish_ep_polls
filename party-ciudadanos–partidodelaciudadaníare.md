@@ -320,20 +320,20 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5 August 2019](2019-08-05-KeyData.html) | Key Data <br> Público | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
 | [29 July–1 August 2019](2019-08-01-Invymark.html) | Invymark <br> laSexta | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [24–26 July 2019](2019-07-26-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [25–26 July 2019](2019-07-26-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 9–11 | 9–11 | 8–11 | 7–12 |
+| [25–26 July 2019](2019-07-26-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 9–10 | 8–11 | 8–11 | 8–12 |
 | [23 July 2019](2019-07-23-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | [21 July 2019](2019-07-21-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta | 8 | 8 | 7–8 | 6–8 | 6–8 |
 | [11–12 July 2019](2019-07-12-Metroscopia.html) | Metroscopia <br> Henneo | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 10 | 8–10 | 8–10 | 8–10 | 8–10 |
-| [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 7 | 7–9 | 7–9 | 6–9 | 6–9 |
-| [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 11 | 10–11 | 10–11 | 10–11 | 9–11 |
-| [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 10 | 10 | 9–10 | 9–10 |
+| [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 10 | 9–10 | 9–11 | 8–12 | 8–12 |
+| [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
+| [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
+| [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9 | 9 | 8–9 | 8–9 | 7–11 |
 | [22–25 June 2019](2019-06-25-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 8 | 6–8 | 6–8 | 6–8 |
+| [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [17–21 June 2019](2019-06-21-Invymark.html) | Invymark <br> laSexta | 7 | 7–10 | 7–10 | 7–10 | 7–10 |
-| [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 10 | 8–11 | 8–11 | 8–12 | 8–12 |
+| [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [7–13 June 2019](2019-06-13-NCReport.html) | NC Report <br> La Razón | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 8–10 | 8–10 | 8–10 | 8–11 |

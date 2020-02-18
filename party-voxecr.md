@@ -332,18 +332,18 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5 August 2019](2019-08-05-KeyData.html) | Key Data <br> Público | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
 | [29 July–1 August 2019](2019-08-01-Invymark.html) | Invymark <br> laSexta | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [24–26 July 2019](2019-07-26-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| [25–26 July 2019](2019-07-26-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 5–6 | 5–6 | 4–6 | 3–6 |
+| [25–26 July 2019](2019-07-26-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [23 July 2019](2019-07-23-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | [21 July 2019](2019-07-21-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta | 4 | 4 | 4 | 3–5 | 3–5 |
 | [11–12 July 2019](2019-07-12-Metroscopia.html) | Metroscopia <br> Henneo | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
-| [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 4 | 4 | 4 | 4–5 | 4–5 |
-| [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 6 | 6 | 6 | 4–6 |
+| [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
+| [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
+| [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
+| [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [22–25 June 2019](2019-06-25-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5 | 5 | 5 | 5–6 |
-| [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
+| [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [17–21 June 2019](2019-06-21-Invymark.html) | Invymark <br> laSexta | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [7–13 June 2019](2019-06-13-NCReport.html) | NC Report <br> La Razón | 4 | 4–5 | 4–5 | 4–6 | 3–6 |

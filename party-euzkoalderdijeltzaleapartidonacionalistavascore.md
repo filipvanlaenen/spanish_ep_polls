@@ -320,12 +320,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [11–12 July 2019](2019-07-12-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario |  |  |  |  |  |
-| [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 1 | 1 | 1 | 1 |
+| [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 1 | 1 | 1 | 0–1 |
 | [22–25 June 2019](2019-06-25-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–21 June 2019](2019-06-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [7–13 June 2019](2019-06-13-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
