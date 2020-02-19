@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.4% | 24.1–30.3% | 20.8–30.9% | 20.0–31.5% | 18.9–32.6% |
+| N/A | [Poll Average](average.html) | 27.4% | 22.2–29.8% | 20.6–30.6% | 19.8–31.3% | 18.8–32.7% |
+| [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 26.9% | 25.1–28.8% | 24.7–29.3% | 24.2–29.7% | 23.4–30.7% |
+| [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica | 28.5% | 26.8–30.3% | 26.3–30.8% | 25.9–31.3% | 25.1–32.2% |
 | [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 27.6% | 26.0–29.4% | 25.5–29.9% | 25.1–30.4% | 24.3–31.2% |
 | [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> lasexta | 20.7% | 19.2–22.2% | 18.8–22.7% | 18.5–23.1% | 17.8–23.8% |
 | [31 January 2020](2020-01-31-SWDemoscopia.html) | SW Demoscopia | 27.0% | 25.5–28.6% | 25.0–29.1% | 24.6–29.5% | 23.9–30.3% |
@@ -185,24 +187,25 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.2% | 100% |  |
-| 18.5–19.5% | 1.2% | 99.7% |  |
-| 19.5–20.5% | 3% | 98.5% |  |
-| 20.5–21.5% | 3% | 96% |  |
-| 21.5–22.5% | 2% | 93% |  |
-| 22.5–23.5% | 0.8% | 91% |  |
-| 23.5–24.5% | 2% | 91% |  |
-| 24.5–25.5% | 6% | 89% |  |
-| 25.5–26.5% | 15% | 83% |  |
-| 26.5–27.5% | 22% | 68% | Median |
-| 27.5–28.5% | 17% | 46% |  |
-| 28.5–29.5% | 12% | 29% |  |
-| 29.5–30.5% | 9% | 17% |  |
-| 30.5–31.5% | 6% | 8% |  |
-| 31.5–32.5% | 2% | 2% |  |
-| 32.5–33.5% | 0.4% | 0.5% |  |
-| 33.5–34.5% | 0.1% | 0.1% |  |
+| 17.5–18.5% | 0.3% | 100% |  |
+| 18.5–19.5% | 1.5% | 99.7% |  |
+| 19.5–20.5% | 3% | 98% |  |
+| 20.5–21.5% | 4% | 95% |  |
+| 21.5–22.5% | 2% | 92% |  |
+| 22.5–23.5% | 0.7% | 90% |  |
+| 23.5–24.5% | 1.0% | 89% |  |
+| 24.5–25.5% | 4% | 88% |  |
+| 25.5–26.5% | 14% | 84% |  |
+| 26.5–27.5% | 23% | 69% | Median |
+| 27.5–28.5% | 20% | 46% |  |
+| 28.5–29.5% | 14% | 27% |  |
+| 29.5–30.5% | 8% | 13% |  |
+| 30.5–31.5% | 3% | 5% |  |
+| 31.5–32.5% | 1.2% | 2% |  |
+| 32.5–33.5% | 0.4% | 0.6% |  |
+| 33.5–34.5% | 0.1% | 0.2% |  |
 | 34.5–35.5% | 0% | 0% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -213,7 +216,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–19 | 12–20 | 12–20 | 11–20 |
+| N/A | [Poll Average](average.html) | 17 | 13–19 | 12–19 | 12–20 | 11–20 |
+| [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> lasexta | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
 | [31 January 2020](2020-01-31-SWDemoscopia.html) | SW Demoscopia | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
@@ -309,7 +314,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 19 | 17–20 | 16–21 | 16–21 | 16–21 |
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 21 | 20–22 | 20–23 | 19–23 | 19–23 |
 | [30 September–4 October 2019](2019-10-04-Hamalgama.html) | Hamalgama <br> OKDIARIO | 16 | 16–18 | 15–18 | 15–19 | 14–19 |
-| [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 17 | 16–18 | 16–18 | 15–19 |
+| [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 17–19 | 16–19 | 16–19 | 15–20 |
 | [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 19 | 19 | 18–19 | 18–20 | 17–21 |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
 | [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
@@ -347,16 +352,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–26 July 2019](2019-07-26-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [23 July 2019](2019-07-23-electoPanel.html) | electoPanel <br> electomania.es | 19 | 18–21 | 17–22 | 17–22 | 16–23 |
 | [21 July 2019](2019-07-21-electoPanel.html) | electoPanel <br> electomania.es | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
-| [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta | 23 | 22–23 | 22–23 | 21–24 | 21–24 |
+| [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
 | [11–12 July 2019](2019-07-12-Metroscopia.html) | Metroscopia <br> Henneo | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
-| [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 19 | 19–21 | 19–21 | 18–21 | 18–21 |
+| [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 20 | 19–21 | 18–21 | 18–22 | 17–22 |
 | [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 20 | 18–20 | 17–20 | 16–22 | 16–23 |
 | [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 22 | 21–23 | 21–24 | 20–24 | 20–24 |
 | [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
 | [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 20 | 20 | 20–21 | 19–22 | 18–23 |
 | [22–25 June 2019](2019-06-25-electoPanel.html) | electoPanel <br> electomania.es | 20 | 19–20 | 19–20 | 19–20 | 19–20 |
 | [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 20 | 19–21 | 19–22 | 18–22 | 17–23 |
-| [17–21 June 2019](2019-06-21-Invymark.html) | Invymark <br> laSexta | 21 | 20–23 | 20–24 | 20–24 | 20–24 |
+| [17–21 June 2019](2019-06-21-Invymark.html) | Invymark <br> laSexta | 22 | 21–23 | 20–23 | 20–23 | 19–24 |
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 18 | 17–20 | 17–20 | 17–21 | 16–21 |
 | [7–13 June 2019](2019-06-13-NCReport.html) | NC Report <br> La Razón | 20 | 18–20 | 18–20 | 18–21 | 17–21 |
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
@@ -383,16 +388,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 1.0% | 100% |  |
-| 12 | 4% | 98.9% |  |
-| 13 | 3% | 95% |  |
-| 14 | 2% | 91% |  |
-| 15 | 7% | 90% |  |
-| 16 | 24% | 82% |  |
-| 17 | 26% | 59% | Median |
-| 18 | 13% | 32% |  |
-| 19 | 14% | 19% |  |
-| 20 | 5% | 5% |  |
+| 11 | 1.3% | 100% |  |
+| 12 | 5% | 98.7% |  |
+| 13 | 4% | 94% |  |
+| 14 | 1.0% | 90% |  |
+| 15 | 4% | 89% |  |
+| 16 | 25% | 84% |  |
+| 17 | 33% | 59% | Median |
+| 18 | 14% | 27% |  |
+| 19 | 10% | 13% |  |
+| 20 | 2% | 3% |  |
 | 21 | 0.3% | 0.4% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |

@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 3.0–4.5% | 2.8–4.8% | 2.6–5.0% | 2.2–5.6% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.9–4.6% | 2.7–4.8% | 2.5–5.1% | 2.2–5.7% |
+| [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
+| [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.6–4.8% | 2.3–5.2% |
 | [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> lasexta | 0.0% | N/A | N/A | N/A | N/A |
 | [31 January 2020](2020-01-31-SWDemoscopia.html) | SW Demoscopia | 0.0% | N/A | N/A | N/A | N/A |
@@ -169,12 +171,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 34% | 98% |  |
-| 3.5–4.5% | 54% | 63% | Median |
-| 4.5–5.5% | 8% | 9% |  |
-| 5.5–6.5% | 0.6% | 0.6% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 38% | 97% |  |
+| 3.5–4.5% | 49% | 59% | Median |
+| 4.5–5.5% | 9% | 10% |  |
+| 5.5–6.5% | 0.7% | 0.8% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -187,6 +189,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> lasexta |  |  |  |  |  |
 | [31 January 2020](2020-01-31-SWDemoscopia.html) | SW Demoscopia |  |  |  |  |  |
@@ -282,7 +286,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [30 September–4 October 2019](2019-10-04-Hamalgama.html) | Hamalgama <br> OKDIARIO | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
-| [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3 | 3 | 3 | 2–3 | 2–4 |
+| [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
@@ -346,9 +350,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 14% | 100% |  |
-| 2 | 80% | 86% | Median |
-| 3 | 6% | 6% |  |
+| 1 | 17% | 100% |  |
+| 2 | 76% | 83% | Median |
+| 3 | 7% | 7% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 

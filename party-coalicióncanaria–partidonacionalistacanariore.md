@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% | 0.1–1.7% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.4–1.0% | 0.3–1.2% | 0.3–1.4% | 0.2–1.8% |
+| [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 0.0% | N/A | N/A | N/A | N/A |
+| [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.5% | 0.4–1.0% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> lasexta | 0.0% | N/A | N/A | N/A | N/A |
 | [31 January 2020](2020-01-31-SWDemoscopia.html) | SW Demoscopia | 0.0% | N/A | N/A | N/A | N/A |
@@ -167,9 +169,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 48% | 100% | Last Result |
-| 0.5–1.5% | 51% | 52% | Median |
-| 1.5–2.5% | 0.9% | 0.9% |  |
+| 0.0–0.5% | 37% | 100% | Last Result |
+| 0.5–1.5% | 62% | 63% | Median |
+| 1.5–2.5% | 1.3% | 1.3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -182,6 +184,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon |  |  |  |  |  |
+| [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |
 | [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> lasexta |  |  |  |  |  |
 | [31 January 2020](2020-01-31-SWDemoscopia.html) | SW Demoscopia |  |  |  |  |  |
@@ -277,7 +281,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 0 | 0 | 0 | 0 | 0–1 |
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [30 September–4 October 2019](2019-10-04-Hamalgama.html) | Hamalgama <br> OKDIARIO | 0 | 0 | 0 | 0 | 0–1 |
-| [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |
+| [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0–1 |
 | [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 0 | 0 | 0 | 0 | 0 |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
@@ -340,8 +344,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.1% | 100% | Last Result, Median |
-| 1 | 0.9% | 0.9% |  |
+| 0 | 98.7% | 100% | Last Result, Median |
+| 1 | 1.3% | 1.3% |  |
 | 2 | 0% | 0% |  |
 
 
