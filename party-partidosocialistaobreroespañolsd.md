@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.3% | 25.8–29.2% | 25.3–29.8% | 24.9–30.3% | 24.0–31.3% |
-| [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta | 29.1% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 27.5% | 25.9–29.7% | 25.4–30.3% | 25.0–30.9% | 24.1–32.0% |
+| [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta | 29.1% | 27.3–31.0% | 26.8–31.5% | 26.4–32.0% | 25.5–32.9% |
 | [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 26.9% | 25.1–28.8% | 24.7–29.3% | 24.2–29.7% | 23.4–30.7% |
 | [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica | 28.5% | 26.8–30.3% | 26.3–30.8% | 25.9–31.3% | 25.1–32.2% |
 | [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 27.6% | 26.0–29.4% | 25.5–29.9% | 25.1–30.4% | 24.3–31.2% |
@@ -193,17 +193,18 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.2% | 100% |  |
-| 23.5–24.5% | 1.2% | 99.8% |  |
-| 24.5–25.5% | 6% | 98.6% |  |
-| 25.5–26.5% | 20% | 93% |  |
-| 26.5–27.5% | 31% | 73% | Median |
-| 27.5–28.5% | 23% | 42% |  |
-| 28.5–29.5% | 13% | 20% |  |
-| 29.5–30.5% | 5% | 7% |  |
-| 30.5–31.5% | 1.5% | 2% |  |
-| 31.5–32.5% | 0.3% | 0.3% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 22.5–23.5% | 0.1% | 100% |  |
+| 23.5–24.5% | 1.1% | 99.9% |  |
+| 24.5–25.5% | 5% | 98.8% |  |
+| 25.5–26.5% | 17% | 94% |  |
+| 26.5–27.5% | 28% | 76% |  |
+| 27.5–28.5% | 22% | 49% | Median |
+| 28.5–29.5% | 15% | 26% |  |
+| 29.5–30.5% | 8% | 11% |  |
+| 30.5–31.5% | 3% | 4% |  |
+| 31.5–32.5% | 0.8% | 1.0% |  |
+| 32.5–33.5% | 0.2% | 0.2% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -214,8 +215,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
-| [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 17 | 16–18 | 15–19 | 15–19 | 15–20 |
+| [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
@@ -391,12 +392,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0.4% | 100% |  |
-| 15 | 7% | 99.6% |  |
-| 16 | 35% | 93% |  |
-| 17 | 39% | 58% | Median |
-| 18 | 15% | 19% |  |
-| 19 | 4% | 4% |  |
-| 20 | 0.4% | 0.4% |  |
+| 15 | 6% | 99.6% |  |
+| 16 | 31% | 94% |  |
+| 17 | 39% | 62% | Median |
+| 18 | 18% | 24% |  |
+| 19 | 5% | 6% |  |
+| 20 | 0.5% | 0.6% |  |
 | 21 | 0% | 0% |  |
 
 
