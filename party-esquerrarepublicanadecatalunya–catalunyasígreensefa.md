@@ -11,13 +11,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.5% | 2.9–4.2% | 2.8–4.5% | 2.6–4.7% | 2.3–5.1% |
+| [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 3.6% | 3.0–4.4% | 2.9–4.6% | 2.7–4.8% | 2.5–5.2% |
 | [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [1–11 February 2020](2020-02-11-CIS.html) | CIS | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.5–4.3% |
 | [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.6–4.8% | 2.3–5.2% |
-| [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> lasexta | 0.0% | N/A | N/A | N/A | N/A |
+| [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [31 January 2020](2020-01-31-SWDemoscopia.html) | SW Demoscopia | 0.0% | N/A | N/A | N/A | N/A |
 | [13–29 January 2020](2020-01-29-Metroscopia.html) | Metroscopia | 0.0% | N/A | N/A | N/A | N/A |
 | [21–23 January 2020](2020-01-23-electoPanel.html) | electoPanel <br> electomania.es | 3.8% | 3.2–4.6% | 3.0–4.9% | 2.9–5.1% | 2.6–5.5% |
@@ -191,13 +192,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–11 February 2020](2020-02-11-CIS.html) | CIS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> lasexta |  |  |  |  |  |
+| [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [31 January 2020](2020-01-31-SWDemoscopia.html) | SW Demoscopia |  |  |  |  |  |
 | [13–29 January 2020](2020-01-29-Metroscopia.html) | Metroscopia |  |  |  |  |  |
 | [21–23 January 2020](2020-01-23-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 1–3 | 1–3 | 1–3 |
