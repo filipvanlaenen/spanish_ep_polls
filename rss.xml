@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 06 Mar 2020 18:47:55 +0100</pubDate>
+    <pubDate>Tue, 10 Mar 2020 18:47:19 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Invymark for laSexta, 2–6 March 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-03-06-Invymark.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 11–14 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 16–19 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 6–9 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Vox (ECR): 9–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-03-06-Invymark-seats.png"
+        length="146229"
+        type="image/png"/>
+      <pubDate>Tue, 10 Mar 2020 18:47:19 +0100</pubDate>
+      <dc:date>2020-03-10T18:47:19.70302+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Invymark for laSexta, 2–6 March 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-03-06-Invymark.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-03-06-Invymark-coalitions-seats.png"
+        length="167093"
+        type="image/png"/>
+      <pubDate>Tue, 10 Mar 2020 18:47:19 +0100</pubDate>
+      <dc:date>2020-03-10T18:47:19.70302+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Invymark for laSexta, 2–6 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-03-06-Invymark.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular (EPP): 18.7–23.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 26.1–31.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos (GUE/NGL): 11.2–15.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía (RE): 2.4–4.6%&lt;/li&gt;&lt;li&gt;Vox (ECR): 15.4–20.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-03-06-Invymark.png"
+        length="189073"
+        type="image/png"/>
+      <pubDate>Tue, 10 Mar 2020 18:47:19 +0100</pubDate>
+      <dc:date>2020-03-10T18:47:19.70302+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SW Demoscopia, 24–28 February 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-02-28-SWDemoscopia.html#seats</link>
@@ -3449,6 +3479,6 @@
       <pubDate>Mon, 17 Feb 2020 20:26:56 +0100</pubDate>
       <dc:date>2020-02-17T20:26:56.117118+01:00</dc:date>
     </item>
-    <dc:date>2020-03-06T18:47:55.94755+01:00</dc:date>
+    <dc:date>2020-03-10T18:47:19.70302+01:00</dc:date>
   </channel>
 </rss>
