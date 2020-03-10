@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.5% | 12.3–14.8% | 11.9–15.3% | 11.6–15.6% | 11.0–16.4% |
-| [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 13.2% | N/A | N/A | N/A | N/A |
+| [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 13.2% | 11.9–14.7% | 11.6–15.1% | 11.2–15.5% | 10.7–16.2% |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 13.2% | 12.1–14.5% | 11.8–14.8% | 11.5–15.2% | 10.9–15.8% |
 | [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta | 13.4% | 12.1–14.9% | 11.7–15.3% | 11.4–15.7% | 10.8–16.4% |
 | [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 13.2% | 11.9–14.7% | 11.6–15.1% | 11.2–15.5% | 10.7–16.2% |
@@ -203,7 +203,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 8 | 7–9 | 7–9 | 7–9 | 6–10 |

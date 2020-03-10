@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19.8% | 17.7–22.5% | 17.0–23.2% | 16.5–23.8% | 15.5–24.8% |
-| [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 21.1% | N/A | N/A | N/A | N/A |
+| [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 21.1% | 19.5–22.8% | 19.1–23.3% | 18.7–23.7% | 17.9–24.6% |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 19.7% | 18.3–21.1% | 17.9–21.6% | 17.6–21.9% | 16.9–22.6% |
 | [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 22.2% | 20.6–24.0% | 20.1–24.4% | 19.7–24.9% | 19.0–25.7% |
@@ -212,7 +212,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 11–14 | 10–14 | 10–15 | 9–15 |
-| [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta | 12 | 11–14 | 11–14 | 11–14 | 11–15 |
 | [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
