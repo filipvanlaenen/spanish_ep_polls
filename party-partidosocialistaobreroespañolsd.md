@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.4% | 26.2–31.0% | 25.6–31.5% | 25.2–32.0% | 24.2–32.7% |
+| N/A | [Poll Average](average.html) | 28.3% | 26.2–31.0% | 25.6–31.5% | 25.1–31.9% | 24.2–32.6% |
 | [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 28.8% | 27.0–30.7% | 26.5–31.2% | 26.1–31.7% | 25.2–32.6% |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 27.8% | 26.2–29.4% | 25.8–29.9% | 25.4–30.3% | 24.7–31.1% |
 | [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta | 29.1% | 27.3–31.0% | 26.8–31.5% | 26.4–32.0% | 25.5–32.9% |
@@ -201,14 +201,13 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 3% | 99.1% |  |
 | 25.5–26.5% | 10% | 96% |  |
 | 26.5–27.5% | 18% | 86% |  |
-| 27.5–28.5% | 21% | 68% | Median |
-| 28.5–29.5% | 18% | 47% |  |
-| 29.5–30.5% | 14% | 29% |  |
-| 30.5–31.5% | 11% | 16% |  |
+| 27.5–28.5% | 21% | 67% | Median |
+| 28.5–29.5% | 18% | 46% |  |
+| 29.5–30.5% | 13% | 28% |  |
+| 30.5–31.5% | 10% | 15% |  |
 | 31.5–32.5% | 4% | 5% |  |
-| 32.5–33.5% | 0.6% | 0.7% |  |
+| 32.5–33.5% | 0.6% | 0.6% |  |
 | 33.5–34.5% | 0% | 0% |  |
-| 34.5–35.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -342,7 +341,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
-| [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 19 | 17–20 | 17–21 | 17–21 | 15–22 |
+| [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 19 | 17–20 | 17–21 | 17–22 | 16–22 |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 21 | 20–22 | 19–22 | 19–22 | 19–23 |
 | [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 20 | 18–21 | 18–22 | 18–22 | 17–22 |
 | [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 18–20 | 17–20 | 16–20 | 16–20 |
@@ -362,7 +361,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
 | [11–12 July 2019](2019-07-12-Metroscopia.html) | Metroscopia <br> Henneo | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
 | [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 20 | 19–21 | 18–21 | 18–22 | 17–22 |
-| [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 20 | 18–20 | 17–20 | 16–22 | 16–23 |
+| [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 19 | 18–21 | 17–22 | 17–22 | 16–23 |
 | [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 22 | 21–23 | 21–24 | 20–24 | 20–24 |
 | [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
 | [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 20 | 20 | 20–21 | 19–22 | 18–23 |
@@ -398,11 +397,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.2% | 100% |  |
-| 15 | 3% | 99.8% |  |
-| 16 | 16% | 97% |  |
-| 17 | 35% | 80% | Median |
-| 18 | 24% | 46% |  |
+| 14 | 0.3% | 100% |  |
+| 15 | 3% | 99.7% |  |
+| 16 | 17% | 96% |  |
+| 17 | 35% | 79% | Median |
+| 18 | 24% | 44% |  |
 | 19 | 15% | 21% |  |
 | 20 | 5% | 6% |  |
 | 21 | 1.1% | 1.1% |  |

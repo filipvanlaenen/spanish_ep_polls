@@ -314,7 +314,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente |  |  |  |  |  |
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
+| [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
@@ -334,7 +334,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [11–12 July 2019](2019-07-12-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 1 | 1–3 | 1–3 | 1–3 | 1–4 |
+| [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario |  |  |  |  |  |
 | [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2 | 2 | 2 | 1–3 |
