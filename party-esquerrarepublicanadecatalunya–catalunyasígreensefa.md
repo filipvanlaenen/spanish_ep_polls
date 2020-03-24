@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.5% | 2.9–4.2% | 2.8–4.5% | 2.6–4.7% | 2.3–5.1% |
+| [2–6 March 2020](2020-03-06-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 3.6% | 3.0–4.4% | 2.9–4.6% | 2.7–4.8% | 2.5–5.2% |
 | [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
@@ -192,6 +193,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [2–6 March 2020](2020-03-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
@@ -300,10 +302,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1 October 2019](2019-10-01-electoPanel.html) | electoPanel <br> electomania.es | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
-| [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | [18–20 September 2019](2019-09-20-Ipsos.html) | Ipsos <br> Henneo | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
