@@ -24,7 +24,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [25 March–1 April 2020](2020-04-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.9% | N/A | N/A | N/A | N/A |
 | [27–31 March 2020](2020-03-31-SWDemoscopia.html) | SW Demoscopia | 2.8% | 2.3–3.4% | 2.1–3.6% | 2.0–3.8% | 1.8–4.2% |
 | [26–30 March 2020](2020-03-30-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | N/A | N/A | N/A | N/A |
-| [30 March 2020](2020-03-30-KeyData.html) | Key Data <br> Público | 2.2% | N/A | N/A | N/A | N/A |
+| [30 March 2020](2020-03-30-KeyData.html) | Key Data <br> Público | 2.2% | 1.6–3.3% | 1.4–3.6% | 1.2–3.9% | 1.0–4.5% |
 | [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica | 0.0% | N/A | N/A | N/A | N/A |
 | [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA | 0.0% | N/A | N/A | N/A | N/A |
 | [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 2.9% | N/A | N/A | N/A | N/A |
@@ -229,7 +229,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25 March–1 April 2020](2020-04-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [27–31 March 2020](2020-03-31-SWDemoscopia.html) | SW Demoscopia | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26–30 March 2020](2020-03-30-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [30 March 2020](2020-03-30-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [30 March 2020](2020-03-30-KeyData.html) | Key Data <br> Público | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica |  |  |  |  |  |
 | [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA |  |  |  |  |  |
 | [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario |  |  |  |  |  |
@@ -407,8 +407,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 13% | 100% | Last Result |
-| 1 | 67% | 87% | Median |
-| 2 | 20% | 20% |  |
+| 1 | 71% | 87% | Median |
+| 2 | 16% | 16% |  |
 | 3 | 0% | 0% |  |
 
 

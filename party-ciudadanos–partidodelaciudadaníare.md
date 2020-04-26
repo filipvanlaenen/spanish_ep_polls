@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.1% | 4.9–8.1% | 4.7–8.4% | 4.5–8.7% | 4.0–9.1% |
+| N/A | [Poll Average](average.html) | 6.1% | 4.9–8.1% | 4.7–8.4% | 4.5–8.7% | 4.1–9.2% |
 | [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 7.5% | N/A | N/A | N/A | N/A |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 7.3% | 6.5–8.3% | 6.3–8.5% | 6.1–8.8% | 5.7–9.2% |
 | [20 April 2020](2020-04-20-KeyData.html) | Key Data <br> Público | 6.8% | N/A | N/A | N/A | N/A |
@@ -24,9 +24,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [25 March–1 April 2020](2020-04-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.4% | N/A | N/A | N/A | N/A |
 | [27–31 March 2020](2020-03-31-SWDemoscopia.html) | SW Demoscopia | 5.4% | 4.6–6.3% | 4.5–6.5% | 4.3–6.8% | 3.9–7.2% |
 | [26–30 March 2020](2020-03-30-electoPanel.html) | electoPanel <br> electomania.es | 9.2% | N/A | N/A | N/A | N/A |
-| [30 March 2020](2020-03-30-KeyData.html) | Key Data <br> Público | 6.4% | N/A | N/A | N/A | N/A |
-| [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica | 7.2% | N/A | N/A | N/A | N/A |
-| [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA | 5.2% | N/A | N/A | N/A | N/A |
+| [30 March 2020](2020-03-30-KeyData.html) | Key Data <br> Público | 6.4% | 5.2–8.0% | 4.8–8.5% | 4.6–8.9% | 4.1–9.7% |
+| [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
+| [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA | 5.2% | 4.7–5.7% | 4.6–5.9% | 4.5–6.0% | 4.2–6.3% |
 | [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 8.6% | N/A | N/A | N/A | N/A |
 | [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 8.1% | N/A | N/A | N/A | N/A |
 | [1–13 March 2020](2020-03-13-CIS.html) | CIS | 7.5% | N/A | N/A | N/A | N/A |
@@ -204,10 +204,10 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 3% | 100% |  |
-| 4.5–5.5% | 28% | 97% |  |
-| 5.5–6.5% | 27% | 68% | Median |
-| 6.5–7.5% | 19% | 41% |  |
-| 7.5–8.5% | 18% | 22% |  |
+| 4.5–5.5% | 31% | 97% |  |
+| 5.5–6.5% | 25% | 66% | Median |
+| 6.5–7.5% | 20% | 41% |  |
+| 7.5–8.5% | 18% | 21% |  |
 | 8.5–9.5% | 4% | 4% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -221,11 +221,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
 | [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [20 April 2020](2020-04-20-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
-| [14–17 April 2020](2020-04-17-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| [14–17 April 2020](2020-04-17-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [13–15 April 2020](2020-04-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 3 | 3 | 2–3 | 2–4 |
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [2–7 April 2020](2020-04-07-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
@@ -235,9 +235,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25 March–1 April 2020](2020-04-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [27–31 March 2020](2020-03-31-SWDemoscopia.html) | SW Demoscopia | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [26–30 March 2020](2020-03-30-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [30 March 2020](2020-03-30-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
-| [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica |  |  |  |  |  |
-| [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA |  |  |  |  |  |
+| [30 March 2020](2020-03-30-KeyData.html) | Key Data <br> Público | 3 | 3–4 | 3–5 | 3–5 | 2–6 |
+| [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario |  |  |  |  |  |
 | [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [1–13 March 2020](2020-03-13-CIS.html) | CIS |  |  |  |  |  |
@@ -415,9 +415,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 5% | 100% |  |
-| 3 | 50% | 95% | Median |
-| 4 | 29% | 46% |  |
-| 5 | 17% | 17% |  |
+| 3 | 49% | 95% | Median |
+| 4 | 31% | 46% |  |
+| 5 | 15% | 15% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
