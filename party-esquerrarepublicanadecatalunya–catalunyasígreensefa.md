@@ -10,40 +10,40 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 3.2–4.4% | 3.0–4.7% | 2.9–4.9% | 2.6–5.3% |
-| [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 3.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 3.7% | 3.0–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.5% |
+| [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 3.2% | 2.6–3.9% | 2.4–4.1% | 2.3–4.3% | 2.1–4.7% |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 3.7% | 3.2–4.5% | 3.0–4.6% | 2.9–4.8% | 2.6–5.2% |
-| [20 April 2020](2020-04-20-KeyData.html) | Key Data <br> Público | 3.6% | N/A | N/A | N/A | N/A |
+| [20 April 2020](2020-04-20-KeyData.html) | Key Data <br> Público | 3.6% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
 | [14–17 April 2020](2020-04-17-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [13–15 April 2020](2020-04-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.6% | 3.2–4.0% | 3.1–4.2% | 3.0–4.3% | 2.9–4.5% |
-| [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 3.7% | N/A | N/A | N/A | N/A |
-| [2–7 April 2020](2020-04-07-electoPanel.html) | electoPanel <br> electomania.es | 3.8% | N/A | N/A | N/A | N/A |
+| [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 3.7% | 3.3–4.2% | 3.2–4.3% | 3.1–4.4% | 3.0–4.6% |
+| [2–7 April 2020](2020-04-07-electoPanel.html) | electoPanel <br> electomania.es | 3.8% | 3.3–4.4% | 3.2–4.6% | 3.1–4.7% | 2.9–5.0% |
 | [1–7 April 2020](2020-04-07-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [1 July–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3.7% | 3.1–4.6% | 2.9–4.8% | 2.8–5.0% | 2.5–5.5% |
 | [30 March–7 April 2020](2020-04-07-CIS.html) | CIS | 3.5% | 3.1–4.0% | 3.0–4.1% | 2.9–4.2% | 2.7–4.5% |
-| [25 March–1 April 2020](2020-04-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.7% | N/A | N/A | N/A | N/A |
+| [25 March–1 April 2020](2020-04-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.7% | 3.2–4.4% | 3.1–4.5% | 2.9–4.7% | 2.7–5.0% |
 | [27–31 March 2020](2020-03-31-SWDemoscopia.html) | SW Demoscopia | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.0–5.2% | 2.8–5.6% |
-| [26–30 March 2020](2020-03-30-electoPanel.html) | electoPanel <br> electomania.es | 3.9% | N/A | N/A | N/A | N/A |
+| [26–30 March 2020](2020-03-30-electoPanel.html) | electoPanel <br> electomania.es | 3.9% | 3.5–4.5% | 3.3–4.6% | 3.2–4.8% | 3.0–5.0% |
 | [30 March 2020](2020-03-30-KeyData.html) | Key Data <br> Público | 3.6% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
 | [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica | 0.0% | N/A | N/A | N/A | N/A |
 | [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA | 4.0% | 3.6–4.5% | 3.5–4.6% | 3.4–4.8% | 3.2–5.0% |
-| [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 3.1% | N/A | N/A | N/A | N/A |
-| [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 3.9% | N/A | N/A | N/A | N/A |
-| [1–13 March 2020](2020-03-13-CIS.html) | CIS | 2.5% | N/A | N/A | N/A | N/A |
+| [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
+| [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 3.9% | 3.3–4.7% | 3.1–5.0% | 3.0–5.2% | 2.7–5.6% |
+| [1–13 March 2020](2020-03-13-CIS.html) | CIS | 2.5% | 2.2–2.9% | 2.1–3.0% | 2.1–3.0% | 1.9–3.2% |
 | [2–6 March 2020](2020-03-06-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
-| [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 3.7% | N/A | N/A | N/A | N/A |
-| [5 March 2020](2020-03-05-KeyData.html) | Key Data <br> Público | 3.4% | N/A | N/A | N/A | N/A |
+| [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 3.7% | 3.1–4.5% | 2.9–4.7% | 2.8–4.9% | 2.5–5.3% |
+| [5 March 2020](2020-03-05-KeyData.html) | Key Data <br> Público | 3.4% | 2.4–5.0% | 2.2–5.4% | 2.0–5.8% | 1.6–6.7% |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 3.6% | 3.0–4.4% | 2.9–4.6% | 2.7–4.8% | 2.5–5.2% |
-| [23–25 February 2020](2020-02-25-electoPanel.html) | electoPanel <br> electomania.es | 3.6% | N/A | N/A | N/A | N/A |
+| [23–25 February 2020](2020-02-25-electoPanel.html) | electoPanel <br> electomania.es | 3.6% | 2.9–4.4% | 2.7–4.7% | 2.6–4.8% | 2.3–5.2% |
 | [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [1–11 February 2020](2020-02-11-CIS.html) | CIS | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.5–4.3% |
 | [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.6–4.8% | 2.3–5.2% |
-| [3–5 February 2020](2020-02-05-electoPanel.html) | electoPanel <br> electomania.es | 3.7% | N/A | N/A | N/A | N/A |
+| [3–5 February 2020](2020-02-05-electoPanel.html) | electoPanel <br> electomania.es | 3.7% | 3.1–4.4% | 3.0–4.6% | 2.8–4.8% | 2.6–5.1% |
 | [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
-| [30 January–1 February 2020](2020-02-01-electoPanel.html) | electoPanel <br> electomania.es | 3.4% | N/A | N/A | N/A | N/A |
+| [30 January–1 February 2020](2020-02-01-electoPanel.html) | electoPanel <br> electomania.es | 3.4% | 2.9–4.2% | 2.7–4.4% | 2.6–4.6% | 2.3–5.0% |
 | [31 January 2020](2020-01-31-SWDemoscopia.html) | SW Demoscopia | 0.0% | N/A | N/A | N/A | N/A |
 | [27–31 January 2020](2020-01-31-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [13–29 January 2020](2020-01-29-Metroscopia.html) | Metroscopia | 0.0% | N/A | N/A | N/A | N/A |
@@ -93,7 +93,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [24–31 October 2019](2019-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.0% | 3.5–4.7% | 3.3–4.8% | 3.2–5.0% | 2.9–5.3% |
 | [14–31 October 2019](2019-10-31-NCReport.html) | NC Report <br> La Razón | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [28–31 October 2019](2019-10-31-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
-| [29–31 October 2019](2019-10-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 4.0% | N/A | N/A | N/A | N/A |
+| [29–31 October 2019](2019-10-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [28–31 October 2019](2019-10-31-GESOP.html) | GESOP <br> El Periódico | 3.9% | 3.3–4.6% | 3.2–4.8% | 3.0–5.0% | 2.8–5.4% |
 | [14–31 October 2019](2019-10-31-GAD3.html) | GAD3 <br> ABC | 3.7% | 3.4–4.0% | 3.3–4.1% | 3.3–4.1% | 3.2–4.3% |
 | [25–31 October 2019](2019-10-31-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
@@ -102,18 +102,18 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [28–29 October 2019](2019-10-29-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
 | [21–29 October 2019](2019-10-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.0% | 3.5–4.7% | 3.3–4.8% | 3.2–5.0% | 2.9–5.3% |
 | [28–29 October 2019](2019-10-29-Ipsos.html) | Ipsos <br> Henneo | 3.5% | 3.0–4.1% | 2.9–4.3% | 2.8–4.4% | 2.6–4.7% |
-| [25–29 October 2019](2019-10-29-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 4.0% | N/A | N/A | N/A | N/A |
+| [25–29 October 2019](2019-10-29-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [23–29 October 2019](2019-10-29-40dB.html) | 40dB <br> El País | 0.0% | N/A | N/A | N/A | N/A |
 | [27–28 October 2019](2019-10-28-electoPanel.html) | electoPanel <br> electomania.es | 4.2% | 3.6–5.1% | 3.4–5.3% | 3.2–5.5% | 3.0–5.9% |
 | [26–27 October 2019](2019-10-27-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
-| [26–27 October 2019](2019-10-27-SyMConsulting.html) | SyM Consulting <br> EPDA | 3.5% | N/A | N/A | N/A | N/A |
+| [26–27 October 2019](2019-10-27-SyMConsulting.html) | SyM Consulting <br> EPDA | 3.5% | 3.0–4.1% | 2.9–4.3% | 2.7–4.4% | 2.5–4.7% |
 | [25–26 October 2019](2019-10-26-electoPanel.html) | electoPanel <br> electomania.es | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.0–5.2% | 2.8–5.7% |
 | [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 3.8% | 3.2–4.7% | 3.0–4.9% | 2.8–5.1% | 2.5–5.6% |
 | [26 October 2019](2019-10-26-KeyData.html) | Key Data <br> Público | 4.0% | 3.1–5.4% | 2.8–5.8% | 2.6–6.1% | 2.2–6.8% |
 | [24–25 October 2019](2019-10-25-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
 | [16–25 October 2019](2019-10-25-NCReport.html) | NC Report <br> La Razón | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [21–25 October 2019](2019-10-25-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
-| [22–25 October 2019](2019-10-25-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 4.0% | N/A | N/A | N/A | N/A |
+| [22–25 October 2019](2019-10-25-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [23–24 October 2019](2019-10-24-electoPanel.html) | electoPanel <br> electomania.es | 4.1% | 3.4–4.9% | 3.3–5.1% | 3.1–5.3% | 2.8–5.7% |
 | [16–24 October 2019](2019-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.4% | 3.8–5.1% | 3.6–5.3% | 3.5–5.5% | 3.2–5.9% |
 | [21–24 October 2019](2019-10-24-GAD3.html) | GAD3 <br> ABC | 3.3% | 2.9–3.8% | 2.8–4.0% | 2.7–4.1% | 2.5–4.3% |
@@ -121,7 +121,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [22–23 October 2019](2019-10-23-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
 | [21–22 October 2019](2019-10-22-electoPanel.html) | electoPanel <br> electomania.es | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.0–5.2% | 2.8–5.7% |
 | [11–22 October 2019](2019-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.2% | 3.6–4.9% | 3.4–5.1% | 3.3–5.3% | 3.0–5.7% |
-| [18–22 October 2019](2019-10-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 4.0% | N/A | N/A | N/A | N/A |
+| [18–22 October 2019](2019-10-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [20–21 October 2019](2019-10-21-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
 | [19–20 October 2019](2019-10-20-electoPanel.html) | electoPanel <br> electomania.es | 4.2% | 3.5–5.0% | 3.3–5.2% | 3.2–5.4% | 2.9–5.8% |
 | [18–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
@@ -129,7 +129,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [14–18 October 2019](2019-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [9–18 October 2019](2019-10-18-NCReport.html) | NC Report <br> La Razón | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [14–18 October 2019](2019-10-18-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
-| [16–18 October 2019](2019-10-18-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 4.2% | N/A | N/A | N/A | N/A |
+| [16–18 October 2019](2019-10-18-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [14–18 October 2019](2019-10-18-GAD3.html) | GAD3 <br> ABC | 4.0% | 3.6–4.4% | 3.4–4.6% | 3.3–4.7% | 3.2–4.9% |
 | [16–17 October 2019](2019-10-17-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
 | [15–17 October 2019](2019-10-17-Ipsos.html) | Ipsos <br> Henneo | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
@@ -137,7 +137,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 3.8% | 2.9–5.1% | 2.7–5.5% | 2.5–5.9% | 2.1–6.6% |
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
-| [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 4.4% | N/A | N/A | N/A | N/A |
+| [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 4.4% | 3.7–5.5% | 3.5–5.7% | 3.3–6.0% | 2.9–6.5% |
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4.4% | 3.7–5.3% | 3.5–5.5% | 3.3–5.7% | 3.0–6.2% |
 | [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 3.5% | 2.8–4.3% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
@@ -201,11 +201,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.4% | 100% |  |
-| 2.5–3.5% | 32% | 99.6% |  |
-| 3.5–4.5% | 60% | 67% | Median |
-| 4.5–5.5% | 7% | 7% |  |
-| 5.5–6.5% | 0.2% | 0.2% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 37% | 98% |  |
+| 3.5–4.5% | 54% | 62% | Median |
+| 4.5–5.5% | 7% | 8% |  |
+| 5.5–6.5% | 0.4% | 0.5% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -217,30 +217,30 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [20 April 2020](2020-04-20-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [20 April 2020](2020-04-20-KeyData.html) | Key Data <br> Público | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [14–17 April 2020](2020-04-17-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [13–15 April 2020](2020-04-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [2–7 April 2020](2020-04-07-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2 | 2 | 2–3 |
+| [2–7 April 2020](2020-04-07-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [1–7 April 2020](2020-04-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1 July–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [30 March–7 April 2020](2020-04-07-CIS.html) | CIS | 2 | 2 | 2 | 2 | 1–2 |
-| [25 March–1 April 2020](2020-04-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [25 March–1 April 2020](2020-04-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [27–31 March 2020](2020-03-31-SWDemoscopia.html) | SW Demoscopia | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
-| [26–30 March 2020](2020-03-30-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [26–30 March 2020](2020-03-30-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [30 March 2020](2020-03-30-KeyData.html) | Key Data <br> Público | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica |  |  |  |  |  |
 | [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA | 2 | 2 | 2 | 2 | 1–3 |
-| [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario |  |  |  |  |  |
-| [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [1–13 March 2020](2020-03-13-CIS.html) | CIS |  |  |  |  |  |
+| [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [1–13 March 2020](2020-03-13-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1–2 |
 | [2–6 March 2020](2020-03-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [5 March 2020](2020-03-05-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [5 March 2020](2020-03-05-KeyData.html) | Key Data <br> Público | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [23–25 February 2020](2020-02-25-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
@@ -248,9 +248,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–11 February 2020](2020-02-11-CIS.html) | CIS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [3–5 February 2020](2020-02-05-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [3–5 February 2020](2020-02-05-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2 | 2–3 | 1–3 |
 | [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [30 January–1 February 2020](2020-02-01-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [30 January–1 February 2020](2020-02-01-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [31 January 2020](2020-01-31-SWDemoscopia.html) | SW Demoscopia |  |  |  |  |  |
 | [27–31 January 2020](2020-01-31-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [13–29 January 2020](2020-01-29-Metroscopia.html) | Metroscopia |  |  |  |  |  |
@@ -300,7 +300,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–31 October 2019](2019-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [14–31 October 2019](2019-10-31-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [28–31 October 2019](2019-10-31-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [29–31 October 2019](2019-10-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO |  |  |  |  |  |
+| [29–31 October 2019](2019-10-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [28–31 October 2019](2019-10-31-GESOP.html) | GESOP <br> El Periódico | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [14–31 October 2019](2019-10-31-GAD3.html) | GAD3 <br> ABC | 2 | 2 | 2 | 2 | 2 |
 | [25–31 October 2019](2019-10-31-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
@@ -309,18 +309,18 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [28–29 October 2019](2019-10-29-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [21–29 October 2019](2019-10-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [28–29 October 2019](2019-10-29-Ipsos.html) | Ipsos <br> Henneo | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [25–29 October 2019](2019-10-29-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO |  |  |  |  |  |
+| [25–29 October 2019](2019-10-29-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [23–29 October 2019](2019-10-29-40dB.html) | 40dB <br> El País |  |  |  |  |  |
 | [27–28 October 2019](2019-10-28-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [26–27 October 2019](2019-10-27-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [26–27 October 2019](2019-10-27-SyMConsulting.html) | SyM Consulting <br> EPDA |  |  |  |  |  |
+| [26–27 October 2019](2019-10-27-SyMConsulting.html) | SyM Consulting <br> EPDA | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25–26 October 2019](2019-10-26-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [26 October 2019](2019-10-26-KeyData.html) | Key Data <br> Público | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | [24–25 October 2019](2019-10-25-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [16–25 October 2019](2019-10-25-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [21–25 October 2019](2019-10-25-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [22–25 October 2019](2019-10-25-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO |  |  |  |  |  |
+| [22–25 October 2019](2019-10-25-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [23–24 October 2019](2019-10-24-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [16–24 October 2019](2019-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–24 October 2019](2019-10-24-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -328,7 +328,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22–23 October 2019](2019-10-23-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [21–22 October 2019](2019-10-22-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [11–22 October 2019](2019-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| [18–22 October 2019](2019-10-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO |  |  |  |  |  |
+| [18–22 October 2019](2019-10-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [20–21 October 2019](2019-10-21-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [19–20 October 2019](2019-10-20-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [18–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
@@ -336,7 +336,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–18 October 2019](2019-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [9–18 October 2019](2019-10-18-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [14–18 October 2019](2019-10-18-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [16–18 October 2019](2019-10-18-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO |  |  |  |  |  |
+| [16–18 October 2019](2019-10-18-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [14–18 October 2019](2019-10-18-GAD3.html) | GAD3 <br> ABC | 2 | 2 | 2 | 2 | 2–3 |
 | [16–17 October 2019](2019-10-17-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [15–17 October 2019](2019-10-17-Ipsos.html) | Ipsos <br> Henneo | 2 | 2 | 2–3 | 2–3 | 1–3 |
@@ -344,7 +344,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO |  |  |  |  |  |
+| [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -409,8 +409,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 5% | 100% |  |
-| 2 | 84% | 95% | Median |
+| 1 | 13% | 100% |  |
+| 2 | 77% | 87% | Median |
 | 3 | 10% | 10% |  |
 | 4 | 0% | 0% |  |
 
