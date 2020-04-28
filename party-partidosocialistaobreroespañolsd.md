@@ -35,7 +35,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 27.7% | 26.1–29.4% | 25.7–29.8% | 25.3–30.2% | 24.5–31.0% |
 | [5 March 2020](2020-03-05-KeyData.html) | Key Data <br> Público | 27.8% | 24.9–31.0% | 24.1–31.9% | 23.4–32.7% | 22.1–34.2% |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 27.8% | 26.2–29.4% | 25.8–29.9% | 25.4–30.3% | 24.7–31.1% |
-| [23–25 February 2020](2020-02-25-electoPanel.html) | electoPanel <br> electomania.es | 27.7% | 26.1–29.4% | 25.7–29.9% | 25.2–30.3% | 24.4–31.1% |
+| [23–25 February 2020](2020-02-25-electoPanel.html) | electoPanel <br> electomania.es | 27.7% | 26.1–29.4% | 25.7–29.8% | 25.3–30.2% | 24.5–31.0% |
 | [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta | 29.1% | 27.3–31.0% | 26.8–31.5% | 26.4–32.0% | 25.5–32.9% |
 | [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 26.9% | 25.1–28.8% | 24.7–29.3% | 24.2–29.7% | 23.4–30.7% |
 | [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica | 28.5% | 26.8–30.3% | 26.3–30.8% | 25.9–31.3% | 25.1–32.2% |
@@ -265,20 +265,20 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA | 16 | 15–17 | 15–17 | 15–17 | 15–17 |
 | [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 17 | 16–17 | 15–17 | 14–17 | 14–17 |
-| [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–18 | 15–18 | 15–19 | 15–19 |
+| [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
 | [1–13 March 2020](2020-03-13-CIS.html) | CIS | 21 | 21–23 | 21–23 | 21–23 | 21–23 |
 | [2–6 March 2020](2020-03-06-SimpleLógica.html) | Simple Lógica | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
-| [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–20 | 16–20 | 16–20 | 16–20 |
-| [5 March 2020](2020-03-05-KeyData.html) | Key Data <br> Público | 18 | 18 | 16–19 | 15–19 | 14–20 |
+| [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 18 | 16–18 | 16–19 | 16–19 | 15–20 |
+| [5 March 2020](2020-03-05-KeyData.html) | Key Data <br> Público | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 17 | 16–19 | 16–19 | 16–19 | 15–19 |
-| [23–25 February 2020](2020-02-25-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [23–25 February 2020](2020-02-25-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–19 | 16–19 | 16–19 | 15–19 |
 | [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [1–11 February 2020](2020-02-11-CIS.html) | CIS | 19 | 19–20 | 18–21 | 18–21 | 18–21 |
 | [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
-| [3–5 February 2020](2020-02-05-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–17 | 16–18 | 16–19 |
+| [3–5 February 2020](2020-02-05-electoPanel.html) | electoPanel <br> electomania.es | 18 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
 | [30 January–1 February 2020](2020-02-01-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [31 January 2020](2020-01-31-SWDemoscopia.html) | SW Demoscopia | 16 | 15–17 | 15–17 | 15–18 | 14–18 |

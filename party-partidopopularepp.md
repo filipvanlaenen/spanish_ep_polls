@@ -35,7 +35,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 20.3% | 18.9–21.8% | 18.5–22.3% | 18.2–22.6% | 17.5–23.4% |
 | [5 March 2020](2020-03-05-KeyData.html) | Key Data <br> Público | 20.5% | 18.0–23.5% | 17.2–24.3% | 16.6–25.0% | 15.5–26.5% |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 19.7% | 18.3–21.1% | 17.9–21.6% | 17.6–21.9% | 16.9–22.6% |
-| [23–25 February 2020](2020-02-25-electoPanel.html) | electoPanel <br> electomania.es | 20.4% | 18.9–21.9% | 18.5–22.4% | 18.2–22.8% | 17.6–23.6% |
+| [23–25 February 2020](2020-02-25-electoPanel.html) | electoPanel <br> electomania.es | 20.4% | 19.0–21.9% | 18.6–22.4% | 18.3–22.7% | 17.6–23.5% |
 | [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 22.2% | 20.6–24.0% | 20.1–24.4% | 19.7–24.9% | 19.0–25.7% |
 | [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica | 17.6% | 16.2–19.2% | 15.8–19.6% | 15.4–20.0% | 14.8–20.8% |
@@ -258,20 +258,20 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
 | [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
 | [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 16 | 14–16 | 14–16 | 14–16 | 14–17 |
-| [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14–15 | 13–15 | 13–16 | 12–16 |
+| [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14–15 | 13–15 | 13–15 | 12–16 |
 | [1–13 March 2020](2020-03-13-CIS.html) | CIS | 13 | 13 | 13 | 12–14 | 12–14 |
 | [2–6 March 2020](2020-03-06-SimpleLógica.html) | Simple Lógica | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12–13 | 11–14 | 11–14 | 11–15 |
-| [5 March 2020](2020-03-05-KeyData.html) | Key Data <br> Público | 14 | 12–14 | 11–14 | 11–14 | 10–15 |
+| [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 13 | 11–13 | 11–14 | 11–14 | 11–14 |
+| [5 March 2020](2020-03-05-KeyData.html) | Key Data <br> Público | 13 | 11–14 | 11–15 | 10–15 | 9–16 |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
-| [23–25 February 2020](2020-02-25-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [23–25 February 2020](2020-02-25-electoPanel.html) | electoPanel <br> electomania.es | 13 | 11–13 | 11–13 | 11–14 | 11–15 |
 | [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta | 12 | 11–14 | 11–14 | 11–14 | 11–15 |
 | [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
 | [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
 | [1–11 February 2020](2020-02-11-CIS.html) | CIS | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
 | [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
-| [3–5 February 2020](2020-02-05-electoPanel.html) | electoPanel <br> electomania.es | 14 | 12–14 | 11–14 | 11–14 | 11–14 |
+| [3–5 February 2020](2020-02-05-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 11–14 | 11–14 |
 | [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [30 January–1 February 2020](2020-02-01-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–13 | 11–13 | 11–13 | 11–15 |
 | [31 January 2020](2020-01-31-SWDemoscopia.html) | SW Demoscopia | 12 | 11–12 | 10–13 | 10–13 | 10–13 |

@@ -35,7 +35,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 5.5% | 4.8–6.4% | 4.6–6.7% | 4.4–6.9% | 4.0–7.4% |
 | [5 March 2020](2020-03-05-KeyData.html) | Key Data <br> Público | 5.9% | 4.6–7.8% | 4.2–8.4% | 3.9–8.9% | 3.3–9.9% |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 3.9% | 3.3–4.7% | 3.1–4.9% | 3.0–5.1% | 2.7–5.5% |
-| [23–25 February 2020](2020-02-25-electoPanel.html) | electoPanel <br> electomania.es | 5.3% | 4.5–6.3% | 4.3–6.4% | 4.1–6.7% | 3.8–7.1% |
+| [23–25 February 2020](2020-02-25-electoPanel.html) | electoPanel <br> electomania.es | 5.3% | 4.5–6.2% | 4.3–6.4% | 4.2–6.7% | 3.8–7.1% |
 | [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 5.6% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
 | [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica | 7.9% | 7.0–9.1% | 6.7–9.4% | 6.4–9.7% | 6.0–10.3% |
@@ -239,14 +239,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 4 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [1–13 March 2020](2020-03-13-CIS.html) | CIS | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [2–6 March 2020](2020-03-06-SimpleLógica.html) | Simple Lógica | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
-| [5 March 2020](2020-03-05-KeyData.html) | Key Data <br> Público | 3 | 3 | 3–4 | 3–4 | 2–5 |
+| [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [5 March 2020](2020-03-05-KeyData.html) | Key Data <br> Público | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 2 | 2 | 2–3 | 1–3 | 1–3 |
-| [23–25 February 2020](2020-02-25-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [23–25 February 2020](2020-02-25-electoPanel.html) | electoPanel <br> electomania.es | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [17–21 February 2020](2020-02-21-Invymark.html) | Invymark <br> laSexta | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
