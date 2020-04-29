@@ -251,9 +251,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 March 2020](2020-03-30-KeyData.html) | Key Data <br> Público | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
 | [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
-| [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
+| [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 9 | 8–10 | 8–10 | 8–11 | 8–12 |
 | [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9–10 | 9–11 | 9–11 | 8–12 |
-| [1–13 March 2020](2020-03-13-CIS.html) | CIS | 10 | 9–10 | 9–10 | 9–10 | 8–11 |
+| [1–13 March 2020](2020-03-13-CIS.html) | CIS | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [2–6 March 2020](2020-03-06-SimpleLógica.html) | Simple Lógica | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
 | [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 10–11 | 10–11 | 9–12 |
@@ -267,7 +267,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | [3–5 February 2020](2020-02-05-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 10–11 | 9–12 | 9–12 |
 | [2 February 2020](2020-02-02-Invymark.html) | Invymark <br> laSexta | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
-| [30 January–1 February 2020](2020-02-01-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 10–12 | 9–12 | 9–13 |
+| [30 January–1 February 2020](2020-02-01-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–12 | 9–12 | 9–12 | 9–12 |
 | [31 January 2020](2020-01-31-SWDemoscopia.html) | SW Demoscopia | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [27–31 January 2020](2020-01-31-Invymark.html) | Invymark <br> laSexta | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [13–29 January 2020](2020-01-29-Metroscopia.html) | Metroscopia | 9 | 9–10 | 9–10 | 8–10 | 8–10 |

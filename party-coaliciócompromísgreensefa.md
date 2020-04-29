@@ -236,7 +236,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [1–13 March 2020](2020-03-13-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
+| [1–13 March 2020](2020-03-13-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0–1 |
 | [2–6 March 2020](2020-03-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–2 |

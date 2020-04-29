@@ -234,9 +234,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 March 2020](2020-03-30-KeyData.html) | Key Data <br> Público | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica |  |  |  |  |  |
 | [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA |  |  |  |  |  |
-| [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–13 March 2020](2020-03-13-CIS.html) | CIS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–13 March 2020](2020-03-13-CIS.html) | CIS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–6 March 2020](2020-03-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

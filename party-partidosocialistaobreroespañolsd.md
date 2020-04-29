@@ -266,9 +266,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 March 2020](2020-03-30-KeyData.html) | Key Data <br> Público | 18 | 17–20 | 16–20 | 16–21 | 15–22 |
 | [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA | 16 | 15–17 | 15–17 | 15–17 | 15–17 |
-| [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 17 | 16–17 | 15–17 | 14–17 | 14–17 |
+| [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
-| [1–13 March 2020](2020-03-13-CIS.html) | CIS | 21 | 21–23 | 21–23 | 21–23 | 21–23 |
+| [1–13 March 2020](2020-03-13-CIS.html) | CIS | 21 | 21–22 | 21–22 | 21–23 | 20–23 |
 | [2–6 March 2020](2020-03-06-SimpleLógica.html) | Simple Lógica | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 18 | 16–18 | 16–19 | 16–19 | 15–20 |
