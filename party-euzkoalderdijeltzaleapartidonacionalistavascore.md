@@ -309,7 +309,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [28–29 October 2019](2019-10-29-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [21–29 October 2019](2019-10-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28–29 October 2019](2019-10-29-Ipsos.html) | Ipsos <br> Henneo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25–29 October 2019](2019-10-29-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [25–29 October 2019](2019-10-29-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–29 October 2019](2019-10-29-40dB.html) | 40dB <br> El País |  |  |  |  |  |
 | [27–28 October 2019](2019-10-28-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–27 October 2019](2019-10-27-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |

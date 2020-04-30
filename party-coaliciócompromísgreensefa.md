@@ -300,7 +300,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–31 October 2019](2019-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [14–31 October 2019](2019-10-31-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [28–31 October 2019](2019-10-31-Invymark.html) | Invymark <br> laSexta | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| [29–31 October 2019](2019-10-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| [29–31 October 2019](2019-10-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [28–31 October 2019](2019-10-31-GESOP.html) | GESOP <br> El Periódico | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–31 October 2019](2019-10-31-GAD3.html) | GAD3 <br> ABC | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25–31 October 2019](2019-10-31-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -309,7 +309,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [28–29 October 2019](2019-10-29-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [21–29 October 2019](2019-10-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [28–29 October 2019](2019-10-29-Ipsos.html) | Ipsos <br> Henneo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [25–29 October 2019](2019-10-29-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| [25–29 October 2019](2019-10-29-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [23–29 October 2019](2019-10-29-40dB.html) | 40dB <br> El País | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [27–28 October 2019](2019-10-28-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [26–27 October 2019](2019-10-27-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 1–3 | 1–3 |

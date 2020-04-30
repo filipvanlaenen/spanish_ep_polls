@@ -241,7 +241,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [1–13 March 2020](2020-03-13-CIS.html) | CIS | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [2–6 March 2020](2020-03-06-SimpleLógica.html) | Simple Lógica | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -306,7 +306,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–31 October 2019](2019-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [14–31 October 2019](2019-10-31-NCReport.html) | NC Report <br> La Razón | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [28–31 October 2019](2019-10-31-Invymark.html) | Invymark <br> laSexta | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
-| [29–31 October 2019](2019-10-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [29–31 October 2019](2019-10-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 5 | 5–6 | 4–6 | 4–7 | 4–8 |
 | [28–31 October 2019](2019-10-31-GESOP.html) | GESOP <br> El Periódico | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [14–31 October 2019](2019-10-31-GAD3.html) | GAD3 <br> ABC | 5 | 5 | 5 | 5 | 4–5 |
 | [25–31 October 2019](2019-10-31-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 5–6 | 5–7 | 5–7 | 4–7 |

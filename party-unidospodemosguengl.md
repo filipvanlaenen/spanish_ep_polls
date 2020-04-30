@@ -248,7 +248,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 9 | 7–10 | 7–10 | 7–10 | 7–11 |
-| [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8–10 | 8–10 | 7–10 | 7–10 |
+| [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8–10 | 7–10 | 7–10 | 7–10 |
 | [1–13 March 2020](2020-03-13-CIS.html) | CIS | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [2–6 March 2020](2020-03-06-SimpleLógica.html) | Simple Lógica | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
@@ -313,7 +313,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–31 October 2019](2019-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [14–31 October 2019](2019-10-31-NCReport.html) | NC Report <br> La Razón | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [28–31 October 2019](2019-10-31-Invymark.html) | Invymark <br> laSexta | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
-| [29–31 October 2019](2019-10-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 7 | 7–8 | 7–9 | 7–9 | 6–10 |
+| [29–31 October 2019](2019-10-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [28–31 October 2019](2019-10-31-GESOP.html) | GESOP <br> El Periódico | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [14–31 October 2019](2019-10-31-GAD3.html) | GAD3 <br> ABC | 7 | 7 | 7 | 7–8 | 7–8 |
 | [25–31 October 2019](2019-10-31-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
@@ -322,7 +322,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [28–29 October 2019](2019-10-29-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 7–8 | 6–9 | 6–9 |
 | [21–29 October 2019](2019-10-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [28–29 October 2019](2019-10-29-Ipsos.html) | Ipsos <br> Henneo | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| [25–29 October 2019](2019-10-29-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 8 | 8–9 | 7–9 | 7–9 | 6–9 |
+| [25–29 October 2019](2019-10-29-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [23–29 October 2019](2019-10-29-40dB.html) | 40dB <br> El País | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | [27–28 October 2019](2019-10-28-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–9 | 7–9 | 7–10 |
 | [26–27 October 2019](2019-10-27-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 6–8 | 6–9 | 6–9 |

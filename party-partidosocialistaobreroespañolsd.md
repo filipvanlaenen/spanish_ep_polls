@@ -267,7 +267,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA | 16 | 15–17 | 15–17 | 15–17 | 15–17 |
 | [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
-| [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
+| [12–13 March 2020](2020-03-13-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [1–13 March 2020](2020-03-13-CIS.html) | CIS | 21 | 21–22 | 21–22 | 21–23 | 20–23 |
 | [2–6 March 2020](2020-03-06-SimpleLógica.html) | Simple Lógica | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
@@ -332,7 +332,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–31 October 2019](2019-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 17–18 | 16–18 | 16–19 | 16–19 |
 | [14–31 October 2019](2019-10-31-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [28–31 October 2019](2019-10-31-Invymark.html) | Invymark <br> laSexta | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
-| [29–31 October 2019](2019-10-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 17 | 17–19 | 16–19 | 16–19 | 16–20 |
+| [29–31 October 2019](2019-10-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [28–31 October 2019](2019-10-31-GESOP.html) | GESOP <br> El Periódico | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
 | [14–31 October 2019](2019-10-31-GAD3.html) | GAD3 <br> ABC | 18 | 18–19 | 18–19 | 17–19 | 17–19 |
 | [25–31 October 2019](2019-10-31-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 17–19 | 16–19 | 16–19 | 15–20 |
@@ -341,7 +341,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [28–29 October 2019](2019-10-29-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [21–29 October 2019](2019-10-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [28–29 October 2019](2019-10-29-Ipsos.html) | Ipsos <br> Henneo | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
-| [25–29 October 2019](2019-10-29-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 18 | 16–18 | 16–19 | 16–19 | 16–20 |
+| [25–29 October 2019](2019-10-29-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [23–29 October 2019](2019-10-29-40dB.html) | 40dB <br> El País | 17 | 16–17 | 16–18 | 15–18 | 15–18 |
 | [27–28 October 2019](2019-10-28-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–18 | 16–19 | 16–19 | 15–19 |
 | [26–27 October 2019](2019-10-27-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
