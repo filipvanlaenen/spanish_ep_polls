@@ -333,7 +333,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–25 October 2019](2019-10-25-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [16–25 October 2019](2019-10-25-NCReport.html) | NC Report <br> La Razón | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [21–25 October 2019](2019-10-25-Invymark.html) | Invymark <br> laSexta | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
-| [22–25 October 2019](2019-10-25-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
+| [22–25 October 2019](2019-10-25-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [23–24 October 2019](2019-10-24-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [16–24 October 2019](2019-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [21–24 October 2019](2019-10-24-GAD3.html) | GAD3 <br> ABC | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
@@ -384,11 +384,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 8 | 8–9 | 7–9 | 7–10 | 6–10 |
 | [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9 | 7–10 | 7–10 | 7–10 | 7–10 |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 8–9 | 8–9 | 7–10 | 7–10 |
-| [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 8–10 | 8–10 | 7–10 | 7–11 |
+| [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [1–15 August 2019](2019-08-15-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8 | 8–9 | 7–9 | 7–9 |
 | [11 August 2019](2019-08-11-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
-| [1–7 August 2019](2019-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
+| [1–7 August 2019](2019-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [1–5 August 2019](2019-08-05-SimpleLógica.html) | Simple Lógica | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [5 August 2019](2019-08-05-KeyData.html) | Key Data <br> Público | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
 | [29 July–1 August 2019](2019-08-01-Invymark.html) | Invymark <br> laSexta | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -407,7 +407,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [17–21 June 2019](2019-06-21-Invymark.html) | Invymark <br> laSexta | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
-| [7–13 June 2019](2019-06-13-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
+| [7–13 June 2019](2019-06-13-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
 | [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
