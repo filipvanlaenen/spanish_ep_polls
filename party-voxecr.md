@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.2% | 12.7–17.5% | 12.0–18.2% | 11.6–18.7% | 11.1–19.7% |
+| N/A | [Poll Average](average.html) | 15.0% | 12.6–17.6% | 11.9–18.3% | 11.5–18.8% | 11.0–19.7% |
+| [26–29 April 2020](2020-04-29-electoPanel.html) | electoPanel <br> electomania.es | 14.2% | 13.1–15.4% | 12.8–15.8% | 12.5–16.1% | 12.0–16.7% |
 | [23–25 April 2020](2020-04-25-DYM.html) | DYM <br> Henneo | 15.3% | 13.9–16.9% | 13.5–17.3% | 13.2–17.7% | 12.6–18.4% |
 | [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 14.5% | 13.3–15.9% | 12.9–16.3% | 12.6–16.6% | 12.0–17.3% |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 14.3% | 13.2–15.5% | 12.8–15.8% | 12.6–16.1% | 12.1–16.7% |
@@ -210,16 +211,16 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 2% | 100% |  |
-| 11.5–12.5% | 7% | 98% |  |
-| 12.5–13.5% | 9% | 91% |  |
-| 13.5–14.5% | 19% | 82% |  |
-| 14.5–15.5% | 22% | 63% | Median |
-| 15.5–16.5% | 20% | 41% |  |
-| 16.5–17.5% | 12% | 21% |  |
-| 17.5–18.5% | 6% | 10% |  |
-| 18.5–19.5% | 3% | 3% |  |
+| 9.5–10.5% | 0.1% | 100% |  |
+| 10.5–11.5% | 2% | 99.9% |  |
+| 11.5–12.5% | 7% | 97% |  |
+| 12.5–13.5% | 10% | 90% |  |
+| 13.5–14.5% | 20% | 80% |  |
+| 14.5–15.5% | 20% | 60% | Median |
+| 15.5–16.5% | 17% | 39% |  |
+| 16.5–17.5% | 12% | 22% |  |
+| 17.5–18.5% | 7% | 11% |  |
+| 18.5–19.5% | 3% | 4% |  |
 | 19.5–20.5% | 0.6% | 0.7% |  |
 | 20.5–21.5% | 0.1% | 0.1% |  |
 | 21.5–22.5% | 0% | 0% |  |
@@ -233,7 +234,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 7–10 | 7–11 | 7–11 | 7–12 |
+| [26–29 April 2020](2020-04-29-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–10 | 7–10 | 7–10 | 7–10 |
 | [23–25 April 2020](2020-04-25-DYM.html) | DYM <br> Henneo | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
@@ -432,10 +434,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.5% | 100% |  |
-| 7 | 9% | 99.5% |  |
-| 8 | 19% | 91% |  |
-| 9 | 40% | 71% | Median |
-| 10 | 23% | 31% |  |
+| 7 | 10% | 99.5% |  |
+| 8 | 24% | 90% |  |
+| 9 | 34% | 66% | Median |
+| 10 | 22% | 32% |  |
 | 11 | 7% | 9% |  |
 | 12 | 2% | 2% |  |
 | 13 | 0.2% | 0.2% |  |
