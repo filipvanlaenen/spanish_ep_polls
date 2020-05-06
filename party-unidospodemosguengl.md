@@ -331,7 +331,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–27 October 2019](2019-10-27-SyMConsulting.html) | SyM Consulting <br> EPDA | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [25–26 October 2019](2019-10-26-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
-| [26 October 2019](2019-10-26-KeyData.html) | Key Data <br> Público | 8 | 7–8 | 7–9 | 6–9 | 6–10 |
+| [26 October 2019](2019-10-26-KeyData.html) | Key Data <br> Público | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [24–25 October 2019](2019-10-25-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [16–25 October 2019](2019-10-25-NCReport.html) | NC Report <br> La Razón | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [21–25 October 2019](2019-10-25-Invymark.html) | Invymark <br> laSexta | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
@@ -383,7 +383,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 8 | 8–9 | 7–9 | 7–10 | 6–10 |
+| [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9 | 7–10 | 7–10 | 7–10 | 7–10 |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 8–9 | 8–9 | 7–10 | 7–10 |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
