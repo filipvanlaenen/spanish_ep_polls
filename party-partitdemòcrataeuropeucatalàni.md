@@ -24,7 +24,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 2.5% | 2.2–2.9% | 2.1–3.0% | 2.0–3.1% | 1.9–3.2% |
 | [2–7 April 2020](2020-04-07-electoPanel.html) | electoPanel <br> electomania.es | 2.6% | 2.2–3.1% | 2.1–3.2% | 2.0–3.4% | 1.8–3.6% |
 | [1–7 April 2020](2020-04-07-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
-| [1 July–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.4% | 1.4–3.8% |
+| [1–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.4% | 1.4–3.8% |
 | [30 March–7 April 2020](2020-04-07-CIS.html) | CIS | 1.5% | 1.2–1.8% | 1.2–1.9% | 1.1–2.0% | 1.0–2.2% |
 | [25 March–1 April 2020](2020-04-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.9% | 1.5–2.4% | 1.4–2.5% | 1.4–2.6% | 1.2–2.9% |
 | [27–31 March 2020](2020-03-31-SWDemoscopia.html) | SW Demoscopia | 2.8% | 2.3–3.4% | 2.1–3.6% | 2.0–3.8% | 1.8–4.2% |
@@ -235,7 +235,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1 | 1–2 |
 | [2–7 April 2020](2020-04-07-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1 | 1–2 |
 | [1–7 April 2020](2020-04-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [1 July–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [1–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [30 March–7 April 2020](2020-04-07-CIS.html) | CIS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25 March–1 April 2020](2020-04-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–31 March 2020](2020-03-31-SWDemoscopia.html) | SW Demoscopia | 2 | 1–2 | 1–2 | 1–2 | 1–2 |

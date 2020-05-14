@@ -24,7 +24,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 11.9% | 11.2–12.6% | 11.0–12.8% | 10.9–13.0% | 10.5–13.4% |
 | [2–7 April 2020](2020-04-07-electoPanel.html) | electoPanel <br> electomania.es | 12.3% | 11.4–13.3% | 11.2–13.5% | 11.0–13.8% | 10.5–14.2% |
 | [1–7 April 2020](2020-04-07-SimpleLógica.html) | Simple Lógica | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.0% | 8.7–13.7% |
-| [1 July–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13.9% | 12.7–15.3% | 12.3–15.7% | 12.0–16.1% | 11.4–16.8% |
+| [1–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13.9% | 12.7–15.3% | 12.3–15.7% | 12.0–16.1% | 11.4–16.8% |
 | [30 March–7 April 2020](2020-04-07-CIS.html) | CIS | 12.7% | 12.0–13.5% | 11.8–13.8% | 11.6–14.0% | 11.2–14.4% |
 | [25 March–1 April 2020](2020-04-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 11.0% | 10.1–12.0% | 9.8–12.3% | 9.6–12.5% | 9.2–13.0% |
 | [27–31 March 2020](2020-03-31-SWDemoscopia.html) | SW Demoscopia | 13.3% | 12.1–14.6% | 11.8–14.9% | 11.5–15.2% | 11.0–15.9% |
@@ -248,7 +248,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [2–7 April 2020](2020-04-07-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [1–7 April 2020](2020-04-07-SimpleLógica.html) | Simple Lógica | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
-| [1 July–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 8–9 | 8–10 | 8–10 | 7–11 |
+| [1–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 8–9 | 8–10 | 8–10 | 7–11 |
 | [30 March–7 April 2020](2020-04-07-CIS.html) | CIS | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [25 March–1 April 2020](2020-04-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [27–31 March 2020](2020-03-31-SWDemoscopia.html) | SW Demoscopia | 8 | 7–9 | 7–10 | 7–10 | 6–10 |

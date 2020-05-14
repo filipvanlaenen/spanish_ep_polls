@@ -24,7 +24,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 14.4% | 13.6–15.2% | 13.4–15.4% | 13.2–15.6% | 12.9–16.0% |
 | [2–7 April 2020](2020-04-07-electoPanel.html) | electoPanel <br> electomania.es | 14.8% | 13.8–15.8% | 13.6–16.1% | 13.3–16.4% | 12.9–16.9% |
 | [1–7 April 2020](2020-04-07-SimpleLógica.html) | Simple Lógica | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.9–18.3% | 13.3–19.1% |
-| [1 July–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16.5% | 15.2–18.1% | 14.8–18.5% | 14.5–18.9% | 13.8–19.6% |
+| [1–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16.5% | 15.2–18.1% | 14.8–18.5% | 14.5–18.9% | 13.8–19.6% |
 | [30 March–7 April 2020](2020-04-07-CIS.html) | CIS | 13.8% | 13.0–14.6% | 12.8–14.9% | 12.6–15.1% | 12.2–15.5% |
 | [25 March–1 April 2020](2020-04-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 13.8% | 12.8–14.9% | 12.5–15.2% | 12.3–15.5% | 11.8–16.0% |
 | [27–31 March 2020](2020-03-31-SWDemoscopia.html) | SW Demoscopia | 17.8% | 16.5–19.3% | 16.1–19.6% | 15.8–20.0% | 15.2–20.7% |
@@ -251,7 +251,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9 | 9 | 9 | 8–10 |
 | [2–7 April 2020](2020-04-07-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [1–7 April 2020](2020-04-07-SimpleLógica.html) | Simple Lógica | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
-| [1 July–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
+| [1–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | [30 March–7 April 2020](2020-04-07-CIS.html) | CIS | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [25 March–1 April 2020](2020-04-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [27–31 March 2020](2020-03-31-SWDemoscopia.html) | SW Demoscopia | 10 | 10–12 | 10–12 | 10–12 | 9–13 |

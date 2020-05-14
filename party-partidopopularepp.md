@@ -24,7 +24,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 24.4% | 23.5–25.3% | 23.2–25.6% | 23.0–25.8% | 22.5–26.3% |
 | [2–7 April 2020](2020-04-07-electoPanel.html) | electoPanel <br> electomania.es | 24.3% | 23.1–25.5% | 22.8–25.9% | 22.5–26.2% | 22.0–26.8% |
 | [1–7 April 2020](2020-04-07-SimpleLógica.html) | Simple Lógica | 22.2% | 20.7–23.9% | 20.2–24.4% | 19.8–24.8% | 19.1–25.7% |
-| [1 July–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 20.7% | 19.2–22.4% | 18.8–22.8% | 18.4–23.2% | 17.7–24.0% |
+| [1–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 20.7% | 19.2–22.4% | 18.8–22.8% | 18.4–23.2% | 17.7–24.0% |
 | [30 March–7 April 2020](2020-04-07-CIS.html) | CIS | 22.4% | 21.4–23.4% | 21.1–23.7% | 20.9–23.9% | 20.5–24.4% |
 | [25 March–1 April 2020](2020-04-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 24.3% | 23.0–25.6% | 22.6–26.0% | 22.3–26.3% | 21.7–27.0% |
 | [27–31 March 2020](2020-03-31-SWDemoscopia.html) | SW Demoscopia | 22.8% | 21.4–24.4% | 21.0–24.8% | 20.6–25.2% | 19.9–25.9% |
@@ -259,7 +259,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–16 | 15–16 | 15–16 | 14–16 |
 | [2–7 April 2020](2020-04-07-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–16 | 14–16 | 14–16 | 14–17 |
 | [1–7 April 2020](2020-04-07-SimpleLógica.html) | Simple Lógica | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
-| [1 July–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 13–14 | 12–14 | 12–14 | 11–15 |
+| [1–7 April 2020](2020-04-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 13–14 | 12–14 | 12–14 | 11–15 |
 | [30 March–7 April 2020](2020-04-07-CIS.html) | CIS | 14 | 13–15 | 13–15 | 13–15 | 13–15 |
 | [25 March–1 April 2020](2020-04-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
 | [27–31 March 2020](2020-03-31-SWDemoscopia.html) | SW Demoscopia | 15 | 13–15 | 13–16 | 13–16 | 12–17 |
