@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.8–3.3% | 1.7–3.5% | 1.6–3.7% | 1.3–4.3% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.8–3.3% | 1.7–3.5% | 1.6–3.8% | 1.3–4.3% |
 | [11–13 May 2020](2020-05-13-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | 2.3–3.3% | 2.1–3.4% | 2.0–3.6% | 1.8–3.9% |
 | [7–9 May 2020](2020-05-09-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 2.7% | 2.1–3.4% | 2.0–3.6% | 1.9–3.7% | 1.7–4.1% |
 | [4–8 May 2020](2020-05-08-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [5–8 May 2020](2020-05-08-SWDemoscopia.html) | SW Demoscopia | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.3% | 1.3–3.7% |
 | [4–8 May 2020](2020-05-08-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
 | [2–7 May 2020](2020-05-07-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | 2.4–3.0% | 2.3–3.1% | 2.3–3.2% | 2.1–3.4% |
-| [28 April–4 May 2020](2020-05-04-Sináptica.html) | Sináptica <br> Público | 2.6% | N/A | N/A | N/A | N/A |
+| [28 April–4 May 2020](2020-05-04-Sináptica.html) | Sináptica <br> Público | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.5–4.2% |
 | [27 April–1 May 2020](2020-05-01-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 April 2020](2020-04-30-NCReport.html) | NC Report <br> La Razón | 2.7% | 2.0–3.8% | 1.9–4.1% | 1.7–4.3% | 1.4–4.9% |
 | [26–29 April 2020](2020-04-29-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | 2.2–3.3% | 2.1–3.5% | 2.0–3.7% | 1.8–4.0% |
@@ -212,9 +212,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 52% | 98% | Median |
-| 2.5–3.5% | 41% | 46% |  |
-| 3.5–4.5% | 4% | 4% |  |
+| 1.5–2.5% | 51% | 98% |  |
+| 2.5–3.5% | 43% | 47% | Median |
+| 3.5–4.5% | 4% | 5% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -233,8 +233,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [4–8 May 2020](2020-05-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [5–8 May 2020](2020-05-08-SWDemoscopia.html) | SW Demoscopia | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [4–8 May 2020](2020-05-08-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [2–7 May 2020](2020-05-07-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1 | 1 |
-| [28 April–4 May 2020](2020-05-04-Sináptica.html) | Sináptica <br> Público |  |  |  |  |  |
+| [2–7 May 2020](2020-05-07-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1 | 1–2 |
+| [28 April–4 May 2020](2020-05-04-Sináptica.html) | Sináptica <br> Público | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [27 April–1 May 2020](2020-05-01-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [27–30 April 2020](2020-04-30-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [26–29 April 2020](2020-04-29-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -430,8 +430,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% | Last Result |
-| 1 | 85% | 98% | Median |
-| 2 | 13% | 14% |  |
+| 1 | 83% | 98% | Median |
+| 2 | 15% | 15% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
