@@ -10,19 +10,19 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.1% | 10.5–14.0% | 10.1–14.6% | 9.8–15.1% | 9.1–16.0% |
+| N/A | [Poll Average](average.html) | 12.0% | 10.4–13.9% | 10.0–14.5% | 9.7–15.0% | 9.1–16.0% |
 | [17 May 2020](2020-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 | 11.4% | 10.2–12.8% | 9.9–13.2% | 9.6–13.5% | 9.0–14.2% |
 | [12–16 May 2020](2020-05-16-NCReport.html) | NC Report <br> La Razón | 12.6% | 11.0–14.4% | 10.5–15.0% | 10.2–15.4% | 9.5–16.3% |
 | [8–15 May 2020](2020-05-15-SWDemoscopia.html) | SW Demoscopia <br> Grupo Viva | 11.8% | 10.9–12.8% | 10.7–13.0% | 10.5–13.3% | 10.0–13.8% |
-| [12–15 May 2020](2020-05-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 11.6% | N/A | N/A | N/A | N/A |
-| [11–15 May 2020](2020-05-15-GESOP.html) | GESOP <br> El Periódico | 11.3% | N/A | N/A | N/A | N/A |
+| [12–15 May 2020](2020-05-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 11.6% | 10.4–13.0% | 10.0–13.4% | 9.8–13.7% | 9.2–14.4% |
+| [11–15 May 2020](2020-05-15-GESOP.html) | GESOP <br> El Periódico | 11.3% | 10.0–13.0% | 9.6–13.4% | 9.3–13.8% | 8.6–14.6% |
 | [11–13 May 2020](2020-05-13-electoPanel.html) | electoPanel <br> electomania.es | 11.4% | 10.5–12.4% | 10.2–12.7% | 10.0–13.0% | 9.5–13.5% |
-| [13 May 2020](2020-05-13-Metroscopia.html) | Metroscopia | 11.0% | N/A | N/A | N/A | N/A |
+| [13 May 2020](2020-05-13-Metroscopia.html) | Metroscopia | 11.0% | 9.8–12.3% | 9.5–12.6% | 9.2–13.0% | 8.7–13.6% |
 | [7–9 May 2020](2020-05-09-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 13.6% | 12.4–14.9% | 12.0–15.3% | 11.8–15.7% | 11.2–16.3% |
 | [4–8 May 2020](2020-05-08-SimpleLógica.html) | Simple Lógica | 12.2% | 10.6–13.9% | 10.2–14.4% | 9.9–14.9% | 9.2–15.8% |
 | [5–8 May 2020](2020-05-08-SWDemoscopia.html) | SW Demoscopia | 12.0% | 10.8–13.3% | 10.5–13.7% | 10.2–14.0% | 9.6–14.7% |
 | [4–8 May 2020](2020-05-08-GAD3.html) | GAD3 <br> ABC | 10.9% | 9.7–12.2% | 9.4–12.6% | 9.1–12.9% | 8.5–13.6% |
-| [4–8 May 2020](2020-05-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12.8% | N/A | N/A | N/A | N/A |
+| [4–8 May 2020](2020-05-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12.8% | 11.3–14.6% | 10.9–15.1% | 10.5–15.6% | 9.9–16.5% |
 | [2–7 May 2020](2020-05-07-electoPanel.html) | electoPanel <br> electomania.es | 11.4% | 10.8–12.0% | 10.7–12.2% | 10.5–12.3% | 10.3–12.7% |
 | [28 April–4 May 2020](2020-05-04-Sináptica.html) | Sináptica <br> Público | 13.1% | 11.8–14.6% | 11.4–15.0% | 11.1–15.3% | 10.5–16.0% |
 | [27 April–1 May 2020](2020-05-01-Invymark.html) | Invymark <br> laSexta | 12.3% | 11.1–13.7% | 10.7–14.1% | 10.4–14.5% | 9.8–15.2% |
@@ -51,7 +51,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–6 March 2020](2020-03-06-SimpleLógica.html) | Simple Lógica | 14.9% | 13.5–16.4% | 13.1–16.8% | 12.8–17.2% | 12.2–17.9% |
 | [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 13.2% | 11.9–14.7% | 11.6–15.1% | 11.2–15.5% | 10.7–16.2% |
 | [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 13.2% | 12.0–14.5% | 11.7–14.9% | 11.4–15.2% | 10.9–15.8% |
-| [5 March 2020](2020-03-05-SocioMétrica.html) | SocioMétrica <br> El Español | 12.3% | N/A | N/A | N/A | N/A |
+| [5 March 2020](2020-03-05-SocioMétrica.html) | SocioMétrica <br> El Español | 12.3% | 11.0–13.9% | 10.7–14.3% | 10.3–14.6% | 9.7–15.4% |
 | [5 March 2020](2020-03-05-KeyData.html) | Key Data <br> Público | 13.5% | 11.4–16.1% | 10.8–16.8% | 10.3–17.4% | 9.4–18.7% |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 13.2% | 12.1–14.5% | 11.8–14.8% | 11.5–15.2% | 10.9–15.8% |
 | [23–25 February 2020](2020-02-25-electoPanel.html) | electoPanel <br> electomania.es | 13.3% | 12.1–14.6% | 11.8–15.0% | 11.5–15.3% | 11.0–15.9% |
@@ -126,7 +126,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [27–28 October 2019](2019-10-28-electoPanel.html) | electoPanel <br> electomania.es | 13.0% | 11.9–14.3% | 11.6–14.7% | 11.3–15.0% | 10.7–15.7% |
 | [26–27 October 2019](2019-10-27-electoPanel.html) | electoPanel <br> electomania.es | 12.6% | 11.5–13.9% | 11.2–14.3% | 10.9–14.6% | 10.4–15.2% |
 | [26–27 October 2019](2019-10-27-SyMConsulting.html) | SyM Consulting <br> EPDA | 9.6% | 8.8–10.5% | 8.6–10.8% | 8.4–11.0% | 8.0–11.5% |
-| [27 October 2019](2019-10-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 13.9% | N/A | N/A | N/A | N/A |
+| [27 October 2019](2019-10-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 13.9% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
 | [25–26 October 2019](2019-10-26-electoPanel.html) | electoPanel <br> electomania.es | 12.6% | 11.4–13.8% | 11.1–14.2% | 10.8–14.5% | 10.3–15.2% |
 | [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 12.8% | 11.6–14.2% | 11.3–14.6% | 11.0–14.9% | 10.4–15.6% |
 | [26 October 2019](2019-10-26-KeyData.html) | Key Data <br> Público | 12.4% | 10.7–14.5% | 10.2–15.1% | 9.8–15.6% | 9.0–16.6% |
@@ -228,15 +228,15 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 1.4% | 99.9% |  |
-| 9.5–10.5% | 9% | 98.5% |  |
-| 10.5–11.5% | 24% | 90% |  |
-| 11.5–12.5% | 29% | 66% | Median |
-| 12.5–13.5% | 21% | 37% |  |
-| 13.5–14.5% | 11% | 16% |  |
+| 8.5–9.5% | 2% | 99.9% |  |
+| 9.5–10.5% | 10% | 98% |  |
+| 10.5–11.5% | 25% | 88% |  |
+| 11.5–12.5% | 28% | 63% | Median |
+| 12.5–13.5% | 20% | 34% |  |
+| 13.5–14.5% | 10% | 15% |  |
 | 14.5–15.5% | 4% | 5% |  |
-| 15.5–16.5% | 0.9% | 1.1% |  |
-| 16.5–17.5% | 0.2% | 0.2% |  |
+| 15.5–16.5% | 0.9% | 1.0% |  |
+| 16.5–17.5% | 0.1% | 0.2% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -252,15 +252,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17 May 2020](2020-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [12–16 May 2020](2020-05-16-NCReport.html) | NC Report <br> La Razón | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [8–15 May 2020](2020-05-15-SWDemoscopia.html) | SW Demoscopia <br> Grupo Viva | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
-| [12–15 May 2020](2020-05-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario |  |  |  |  |  |
-| [11–15 May 2020](2020-05-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
+| [12–15 May 2020](2020-05-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [11–15 May 2020](2020-05-15-GESOP.html) | GESOP <br> El Periódico | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [11–13 May 2020](2020-05-13-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [13 May 2020](2020-05-13-Metroscopia.html) | Metroscopia |  |  |  |  |  |
+| [13 May 2020](2020-05-13-Metroscopia.html) | Metroscopia | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [7–9 May 2020](2020-05-09-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
 | [4–8 May 2020](2020-05-08-SimpleLógica.html) | Simple Lógica | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [5–8 May 2020](2020-05-08-SWDemoscopia.html) | SW Demoscopia | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [4–8 May 2020](2020-05-08-GAD3.html) | GAD3 <br> ABC | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
-| [4–8 May 2020](2020-05-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
+| [4–8 May 2020](2020-05-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [2–7 May 2020](2020-05-07-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [28 April–4 May 2020](2020-05-04-Sináptica.html) | Sináptica <br> Público | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [27 April–1 May 2020](2020-05-01-Invymark.html) | Invymark <br> laSexta | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -289,7 +289,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–6 March 2020](2020-03-06-SimpleLógica.html) | Simple Lógica | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [2–6 March 2020](2020-03-06-Invymark.html) | Invymark <br> laSexta | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [1–5 March 2020](2020-03-05-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
-| [5 March 2020](2020-03-05-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [5 March 2020](2020-03-05-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [5 March 2020](2020-03-05-KeyData.html) | Key Data <br> Público | 8 | 7–9 | 7–10 | 6–10 | 6–11 |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [23–25 February 2020](2020-02-25-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
@@ -364,7 +364,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27–28 October 2019](2019-10-28-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–9 | 7–9 | 7–10 |
 | [26–27 October 2019](2019-10-27-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [26–27 October 2019](2019-10-27-SyMConsulting.html) | SyM Consulting <br> EPDA | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [27 October 2019](2019-10-27-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [27 October 2019](2019-10-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 9 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [25–26 October 2019](2019-10-26-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [26 October 2019](2019-10-26-KeyData.html) | Key Data <br> Público | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
@@ -465,11 +465,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 2% | 100% |  |
-| 6 | 21% | 98% |  |
-| 7 | 42% | 78% | Median |
-| 8 | 28% | 36% |  |
-| 9 | 7% | 8% |  |
-| 10 | 0.9% | 1.0% |  |
+| 6 | 25% | 98% |  |
+| 7 | 40% | 73% | Median |
+| 8 | 25% | 34% |  |
+| 9 | 8% | 8% |  |
+| 10 | 0.8% | 0.9% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
