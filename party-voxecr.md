@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.7% | 11.8–16.8% | 11.1–17.5% | 10.6–18.0% | 9.8–19.1% |
+| N/A | [Poll Average](average.html) | 14.5% | 11.7–16.8% | 11.1–17.4% | 10.6–18.0% | 9.8–19.0% |
+| [18–23 May 2020](2020-05-23-electoPanel.html) | electoPanel <br> electomania.es | 13.9% | 13.3–14.6% | 13.1–14.8% | 12.9–15.0% | 12.6–15.3% |
 | [17 May 2020](2020-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–14.0% | 9.4–14.7% |
+| [17 May 2020](2020-05-17-KeyData.html) | Key Data <br> Público | 14.1% | 11.9–16.8% | 11.2–17.6% | 10.7–18.3% | 9.7–19.6% |
 | [12–16 May 2020](2020-05-16-NCReport.html) | NC Report <br> La Razón | 14.7% | 13.0–16.6% | 12.5–17.2% | 12.1–17.7% | 11.3–18.6% |
 | [8–15 May 2020](2020-05-15-SWDemoscopia.html) | SW Demoscopia <br> Grupo Viva | 15.8% | 14.8–16.9% | 14.5–17.2% | 14.3–17.5% | 13.8–18.0% |
 | [12–15 May 2020](2020-05-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 15.3% | 13.9–16.9% | 13.5–17.3% | 13.2–17.7% | 12.6–18.4% |
@@ -31,7 +33,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23–25 April 2020](2020-04-25-DYM.html) | DYM <br> Henneo | 15.3% | 13.9–16.9% | 13.5–17.3% | 13.2–17.7% | 12.6–18.4% |
 | [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 14.5% | 13.3–15.9% | 12.9–16.3% | 12.6–16.6% | 12.0–17.3% |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 14.3% | 13.2–15.5% | 12.8–15.8% | 12.6–16.1% | 12.1–16.7% |
-| [20 April 2020](2020-04-20-KeyData.html) | Key Data <br> Público | 15.2% | 13.3–17.4% | 12.8–18.1% | 12.3–18.6% | 11.5–19.7% |
+| [17 April 2020](2020-04-17-KeyData.html) | Key Data <br> Público | 14.4% | N/A | N/A | N/A | N/A |
 | [14–17 April 2020](2020-04-17-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
 | [13–15 April 2020](2020-04-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 11.9% | 11.2–12.7% | 11.0–12.9% | 10.9–13.0% | 10.6–13.4% |
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 14.4% | 13.6–15.2% | 13.4–15.4% | 13.2–15.6% | 12.9–16.0% |
@@ -231,14 +233,14 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0.3% | 100% |  |
 | 9.5–10.5% | 2% | 99.7% |  |
 | 10.5–11.5% | 6% | 98% |  |
-| 11.5–12.5% | 9% | 92% |  |
-| 12.5–13.5% | 12% | 82% |  |
-| 13.5–14.5% | 18% | 70% |  |
-| 14.5–15.5% | 21% | 52% | Median |
-| 15.5–16.5% | 17% | 31% |  |
+| 11.5–12.5% | 10% | 91% |  |
+| 12.5–13.5% | 13% | 82% |  |
+| 13.5–14.5% | 19% | 69% |  |
+| 14.5–15.5% | 20% | 49% | Median |
+| 15.5–16.5% | 17% | 29% |  |
 | 16.5–17.5% | 9% | 13% |  |
-| 17.5–18.5% | 3% | 5% |  |
-| 18.5–19.5% | 0.9% | 1.2% |  |
+| 17.5–18.5% | 3% | 4% |  |
+| 18.5–19.5% | 0.9% | 1.1% |  |
 | 19.5–20.5% | 0.2% | 0.2% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
@@ -251,8 +253,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–10 | 6–11 | 6–11 | 6–12 |
+| N/A | [Poll Average](average.html) | 9 | 7–10 | 6–10 | 6–11 | 6–12 |
+| [18–23 May 2020](2020-05-23-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [17 May 2020](2020-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [17 May 2020](2020-05-17-KeyData.html) | Key Data <br> Público | 9 | 7–10 | 7–11 | 6–11 | 6–12 |
 | [12–16 May 2020](2020-05-16-NCReport.html) | NC Report <br> La Razón | 9 | 8–10 | 7–10 | 7–11 | 7–11 |
 | [8–15 May 2020](2020-05-15-SWDemoscopia.html) | SW Demoscopia <br> Grupo Viva | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
 | [12–15 May 2020](2020-05-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 10 | 9–10 | 8–11 | 8–11 | 7–11 |
@@ -272,7 +276,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–25 April 2020](2020-04-25-DYM.html) | DYM <br> Henneo | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
-| [20 April 2020](2020-04-20-KeyData.html) | Key Data <br> Público | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
+| [17 April 2020](2020-04-17-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [14–17 April 2020](2020-04-17-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [13–15 April 2020](2020-04-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9 | 9 | 9 | 8–10 |
@@ -467,13 +471,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.3% | 100% |  |
+| 5 | 0.4% | 100% |  |
 | 6 | 5% | 99.6% |  |
-| 7 | 14% | 94% |  |
-| 8 | 22% | 80% |  |
-| 9 | 34% | 58% | Median |
-| 10 | 19% | 25% |  |
-| 11 | 5% | 6% |  |
+| 7 | 15% | 94% |  |
+| 8 | 25% | 79% |  |
+| 9 | 30% | 55% | Median |
+| 10 | 20% | 25% |  |
+| 11 | 4% | 5% |  |
 | 12 | 0.7% | 0.7% |  |
 | 13 | 0% | 0% |  |
 

@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.5% | 24.6–30.4% | 24.0–31.4% | 23.4–32.2% | 22.4–33.8% |
+| N/A | [Poll Average](average.html) | 27.3% | 24.6–30.2% | 23.9–31.2% | 23.4–32.0% | 22.4–33.6% |
+| [18–23 May 2020](2020-05-23-electoPanel.html) | electoPanel <br> electomania.es | 26.4% | 25.6–27.3% | 25.3–27.5% | 25.1–27.7% | 24.7–28.1% |
 | [17 May 2020](2020-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 | 29.7% | 27.9–31.6% | 27.4–32.1% | 26.9–32.6% | 26.1–33.5% |
+| [17 May 2020](2020-05-17-KeyData.html) | Key Data <br> Público | 27.8% | 24.8–31.2% | 24.0–32.1% | 23.2–32.9% | 21.9–34.6% |
 | [12–16 May 2020](2020-05-16-NCReport.html) | NC Report <br> La Razón | 25.9% | 23.8–28.3% | 23.2–28.9% | 22.6–29.5% | 21.6–30.7% |
 | [8–15 May 2020](2020-05-15-SWDemoscopia.html) | SW Demoscopia <br> Grupo Viva | 28.1% | 26.8–29.4% | 26.5–29.8% | 26.2–30.1% | 25.6–30.8% |
 | [12–15 May 2020](2020-05-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 26.1% | 24.4–27.9% | 23.9–28.5% | 23.5–28.9% | 22.7–29.8% |
@@ -31,7 +33,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23–25 April 2020](2020-04-25-DYM.html) | DYM <br> Henneo | 25.1% | 23.4–26.9% | 22.9–27.4% | 22.5–27.9% | 21.7–28.8% |
 | [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 28.2% | 26.5–29.9% | 26.1–30.4% | 25.7–30.8% | 24.9–31.6% |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 29.3% | 27.8–30.8% | 27.4–31.2% | 27.0–31.6% | 26.3–32.4% |
-| [20 April 2020](2020-04-20-KeyData.html) | Key Data <br> Público | 29.6% | 27.1–32.3% | 26.4–33.1% | 25.8–33.8% | 24.6–35.1% |
+| [17 April 2020](2020-04-17-KeyData.html) | Key Data <br> Público | 28.2% | N/A | N/A | N/A | N/A |
 | [14–17 April 2020](2020-04-17-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 26.8% | 25.1–28.7% | 24.6–29.2% | 24.1–29.6% | 23.3–30.5% |
 | [13–15 April 2020](2020-04-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 31.7% | 30.7–32.7% | 30.4–33.0% | 30.2–33.3% | 29.7–33.8% |
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 29.0% | 28.1–30.0% | 27.8–30.3% | 27.5–30.6% | 27.1–31.0% |
@@ -242,21 +244,20 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.1% | 100% |  |
 | 21.5–22.5% | 0.6% | 99.9% |  |
-| 22.5–23.5% | 2% | 99.4% |  |
+| 22.5–23.5% | 2% | 99.3% |  |
 | 23.5–24.5% | 6% | 97% |  |
 | 24.5–25.5% | 11% | 91% |  |
-| 25.5–26.5% | 15% | 80% |  |
-| 26.5–27.5% | 17% | 65% | Median |
-| 27.5–28.5% | 17% | 48% |  |
-| 28.5–29.5% | 14% | 32% |  |
-| 29.5–30.5% | 9% | 18% |  |
-| 30.5–31.5% | 5% | 9% |  |
-| 31.5–32.5% | 3% | 4% |  |
-| 32.5–33.5% | 1.1% | 2% |  |
-| 33.5–34.5% | 0.5% | 0.7% |  |
+| 25.5–26.5% | 16% | 80% |  |
+| 26.5–27.5% | 18% | 64% | Median |
+| 27.5–28.5% | 17% | 46% |  |
+| 28.5–29.5% | 13% | 30% |  |
+| 29.5–30.5% | 8% | 16% |  |
+| 30.5–31.5% | 4% | 8% |  |
+| 31.5–32.5% | 2% | 4% |  |
+| 32.5–33.5% | 1.0% | 2% |  |
+| 33.5–34.5% | 0.4% | 0.6% |  |
 | 34.5–35.5% | 0.1% | 0.2% |  |
 | 35.5–36.5% | 0% | 0% |  |
-| 36.5–37.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -267,8 +268,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–19 | 14–21 |
+| [18–23 May 2020](2020-05-23-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–17 | 16–18 | 16–18 |
 | [17 May 2020](2020-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
+| [17 May 2020](2020-05-17-KeyData.html) | Key Data <br> Público | 18 | 16–19 | 15–20 | 14–20 | 14–22 |
 | [12–16 May 2020](2020-05-16-NCReport.html) | NC Report <br> La Razón | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
 | [8–15 May 2020](2020-05-15-SWDemoscopia.html) | SW Demoscopia <br> Grupo Viva | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [12–15 May 2020](2020-05-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
@@ -288,7 +291,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–25 April 2020](2020-04-25-DYM.html) | DYM <br> Henneo | 15 | 14–16 | 14–17 | 13–17 | 13–17 |
 | [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–19 | 16–19 | 16–19 | 15–20 |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 18 | 18–20 | 17–20 | 17–20 | 16–21 |
-| [20 April 2020](2020-04-20-KeyData.html) | Key Data <br> Público | 19 | 17–20 | 17–20 | 16–21 | 16–22 |
+| [17 April 2020](2020-04-17-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [14–17 April 2020](2020-04-17-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [13–15 April 2020](2020-04-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 20 | 19–20 | 19–21 | 18–21 | 18–21 |
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 18 | 18–19 | 18–19 | 18–19 | 18–20 |
@@ -492,14 +495,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0.3% | 100% |  |
-| 14 | 3% | 99.7% |  |
+| 14 | 3% | 99.6% |  |
 | 15 | 12% | 96% |  |
-| 16 | 22% | 85% |  |
-| 17 | 31% | 63% | Median |
-| 18 | 19% | 32% |  |
-| 19 | 9% | 13% |  |
-| 20 | 4% | 4% |  |
-| 21 | 0.6% | 0.6% |  |
+| 16 | 25% | 85% |  |
+| 17 | 29% | 60% | Median |
+| 18 | 19% | 31% |  |
+| 19 | 9% | 11% |  |
+| 20 | 2% | 2% |  |
+| 21 | 0.4% | 0.5% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 

@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.7% | 20.7–26.8% | 20.0–27.6% | 19.5–28.2% | 18.4–29.5% |
+| N/A | [Poll Average](average.html) | 23.8% | 20.6–26.8% | 20.0–27.6% | 19.4–28.3% | 18.4–29.5% |
+| [18–23 May 2020](2020-05-23-electoPanel.html) | electoPanel <br> electomania.es | 25.4% | 24.6–26.2% | 24.3–26.5% | 24.1–26.7% | 23.7–27.1% |
 | [17 May 2020](2020-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 | 26.4% | 24.7–28.2% | 24.2–28.8% | 23.8–29.2% | 22.9–30.1% |
+| [17 May 2020](2020-05-17-KeyData.html) | Key Data <br> Público | 23.2% | 20.4–26.4% | 19.7–27.3% | 19.0–28.1% | 17.7–29.7% |
 | [12–16 May 2020](2020-05-16-NCReport.html) | NC Report <br> La Razón | 25.0% | 22.8–27.3% | 22.2–28.0% | 21.7–28.5% | 20.7–29.7% |
 | [8–15 May 2020](2020-05-15-SWDemoscopia.html) | SW Demoscopia <br> Grupo Viva | 21.2% | 20.1–22.4% | 19.7–22.8% | 19.5–23.1% | 18.9–23.6% |
 | [12–15 May 2020](2020-05-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 25.4% | 23.7–27.2% | 23.2–27.7% | 22.8–28.2% | 22.0–29.1% |
@@ -31,7 +33,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23–25 April 2020](2020-04-25-DYM.html) | DYM <br> Henneo | 22.4% | 20.8–24.2% | 20.3–24.7% | 19.9–25.1% | 19.2–26.0% |
 | [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 25.4% | 23.9–27.1% | 23.4–27.6% | 23.0–28.0% | 22.3–28.8% |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 24.5% | 23.1–26.0% | 22.8–26.4% | 22.4–26.8% | 21.8–27.5% |
-| [20 April 2020](2020-04-20-KeyData.html) | Key Data <br> Público | 23.4% | 21.1–26.0% | 20.5–26.7% | 19.9–27.3% | 18.8–28.6% |
+| [17 April 2020](2020-04-17-KeyData.html) | Key Data <br> Público | 22.2% | N/A | N/A | N/A | N/A |
 | [14–17 April 2020](2020-04-17-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 22.7% | 21.1–24.5% | 20.6–25.0% | 20.2–25.4% | 19.4–26.3% |
 | [13–15 April 2020](2020-04-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 25.4% | 24.5–26.4% | 24.2–26.6% | 24.0–26.9% | 23.5–27.3% |
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 24.4% | 23.5–25.3% | 23.2–25.6% | 23.0–25.8% | 22.5–26.3% |
@@ -237,19 +239,19 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 0.5% | 99.9% |  |
-| 18.5–19.5% | 2% | 99.4% |  |
+| 17.5–18.5% | 0.6% | 99.9% |  |
+| 18.5–19.5% | 2% | 99.3% |  |
 | 19.5–20.5% | 6% | 97% |  |
 | 20.5–21.5% | 11% | 91% |  |
-| 21.5–22.5% | 14% | 80% |  |
-| 22.5–23.5% | 14% | 67% |  |
-| 23.5–24.5% | 15% | 53% | Median |
-| 24.5–25.5% | 14% | 38% |  |
+| 21.5–22.5% | 13% | 80% |  |
+| 22.5–23.5% | 14% | 66% |  |
+| 23.5–24.5% | 14% | 53% | Median |
+| 24.5–25.5% | 15% | 39% |  |
 | 25.5–26.5% | 12% | 24% |  |
 | 26.5–27.5% | 7% | 12% |  |
 | 27.5–28.5% | 3% | 5% |  |
 | 28.5–29.5% | 1.3% | 2% |  |
-| 29.5–30.5% | 0.3% | 0.4% |  |
+| 29.5–30.5% | 0.4% | 0.5% |  |
 | 30.5–31.5% | 0.1% | 0.1% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
@@ -263,7 +265,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 12–17 | 12–17 | 12–17 | 11–18 |
+| [18–23 May 2020](2020-05-23-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–17 | 16–17 | 15–17 | 15–17 |
 | [17 May 2020](2020-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
+| [17 May 2020](2020-05-17-KeyData.html) | Key Data <br> Público | 14 | 13–15 | 12–16 | 11–17 | 11–18 |
 | [12–16 May 2020](2020-05-16-NCReport.html) | NC Report <br> La Razón | 15 | 14–17 | 13–17 | 13–17 | 13–18 |
 | [8–15 May 2020](2020-05-15-SWDemoscopia.html) | SW Demoscopia <br> Grupo Viva | 13 | 12–13 | 12–14 | 12–14 | 11–14 |
 | [12–15 May 2020](2020-05-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 16 | 15–17 | 14–18 | 14–18 | 13–18 |
@@ -283,7 +287,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–25 April 2020](2020-04-25-DYM.html) | DYM <br> Henneo | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–17 | 15–17 | 14–17 | 14–19 |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 14–17 | 14–17 |
-| [20 April 2020](2020-04-20-KeyData.html) | Key Data <br> Público | 14 | 13–16 | 13–16 | 13–17 | 12–18 |
+| [17 April 2020](2020-04-17-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [14–17 April 2020](2020-04-17-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [13–15 April 2020](2020-04-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 16 | 15–16 | 15–16 | 15–17 | 14–17 |
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–16 | 15–16 | 15–16 | 14–16 |
@@ -483,14 +487,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.1% | 100% |  |
+| 10 | 0.2% | 100% |  |
 | 11 | 2% | 99.8% |  |
 | 12 | 9% | 98% |  |
-| 13 | 16% | 89% |  |
+| 13 | 17% | 89% |  |
 | 14 | 21% | 72% |  |
-| 15 | 21% | 52% | Median |
-| 16 | 19% | 30% |  |
-| 17 | 10% | 12% |  |
+| 15 | 20% | 51% | Median |
+| 16 | 15% | 31% |  |
+| 17 | 13% | 15% |  |
 | 18 | 2% | 2% |  |
 | 19 | 0.2% | 0.2% |  |
 | 20 | 0% | 0% |  |
