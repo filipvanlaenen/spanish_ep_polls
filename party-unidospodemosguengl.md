@@ -33,7 +33,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23–25 April 2020](2020-04-25-DYM.html) | DYM <br> Henneo | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
 | [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.3–12.9% | 8.9–13.5% |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 12.0% | 11.0–13.1% | 10.7–13.5% | 10.4–13.7% | 10.0–14.3% |
-| [17 April 2020](2020-04-17-KeyData.html) | Key Data <br> Público | 12.4% | N/A | N/A | N/A | N/A |
+| [17 April 2020](2020-04-17-KeyData.html) | Key Data <br> Público | 12.4% | 10.4–14.9% | 9.8–15.7% | 9.3–16.3% | 8.4–17.6% |
 | [14–17 April 2020](2020-04-17-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 13.4% | 12.1–14.9% | 11.7–15.3% | 11.4–15.7% | 10.8–16.4% |
 | [13–15 April 2020](2020-04-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 11.5% | 10.8–12.2% | 10.7–12.4% | 10.5–12.6% | 10.2–13.0% |
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 11.9% | 11.2–12.6% | 11.0–12.8% | 10.9–13.0% | 10.5–13.4% |
@@ -273,7 +273,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–25 April 2020](2020-04-25-DYM.html) | DYM <br> Henneo | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [17 April 2020](2020-04-17-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [17 April 2020](2020-04-17-KeyData.html) | Key Data <br> Público | 8 | 7–10 | 6–10 | 6–10 | 5–10 |
 | [14–17 April 2020](2020-04-17-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [13–15 April 2020](2020-04-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
