@@ -276,7 +276,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–25 April 2020](2020-04-25-DYM.html) | DYM <br> Henneo | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
-| [17 April 2020](2020-04-17-KeyData.html) | Key Data <br> Público | 8 | 7–10 | 7–11 | 7–11 | 6–12 |
+| [17 April 2020](2020-04-17-KeyData.html) | Key Data <br> Público | 9 | 7–10 | 7–10 | 6–11 | 6–12 |
 | [14–17 April 2020](2020-04-17-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [13–15 April 2020](2020-04-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [8–14 April 2020](2020-04-14-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9 | 9 | 9 | 8–10 |
