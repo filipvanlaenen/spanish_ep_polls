@@ -364,7 +364,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27–28 October 2019](2019-10-28-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [26–27 October 2019](2019-10-27-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [26–27 October 2019](2019-10-27-SyMConsulting.html) | SyM Consulting <br> EPDA | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| [27 October 2019](2019-10-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 5–6 | 4–7 | 4–7 | 4–7 |
+| [27 October 2019](2019-10-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [25–26 October 2019](2019-10-26-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [26 October 2019](2019-10-26-KeyData.html) | Key Data <br> Público | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
@@ -404,7 +404,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7 | 7–8 | 6–8 | 6–8 |
 | [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
-| [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
+| [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [18–20 September 2019](2019-09-20-Ipsos.html) | Ipsos <br> Henneo | 8 | 8–9 | 8–9 | 7–10 | 7–10 |
@@ -420,7 +420,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 8 | 7–10 | 7–10 | 6–11 | 6–11 |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
-| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
+| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 9 | 8–10 | 7–10 | 7–10 | 7–10 |

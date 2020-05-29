@@ -386,7 +386,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27–28 October 2019](2019-10-28-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–18 | 16–19 | 16–19 | 15–19 |
 | [26–27 October 2019](2019-10-27-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [26–27 October 2019](2019-10-27-SyMConsulting.html) | SyM Consulting <br> EPDA | 16 | 16–17 | 15–18 | 15–18 | 15–18 |
-| [27 October 2019](2019-10-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 17–19 | 16–19 | 15–20 | 15–20 |
+| [27 October 2019](2019-10-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 17–19 | 16–19 | 16–19 | 15–20 |
 | [25–26 October 2019](2019-10-26-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–19 | 16–19 | 16–19 | 16–19 |
 | [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–17 | 16–18 | 15–18 | 15–19 |
 | [26 October 2019](2019-10-26-KeyData.html) | Key Data <br> Público | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
@@ -417,7 +417,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica | 20 | 19–21 | 18–21 | 18–22 | 18–22 |
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 19 | 17–20 | 16–21 | 16–21 | 16–21 |
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 21 | 20–22 | 20–23 | 19–23 | 19–23 |
-| [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 16 | 16–18 | 15–18 | 15–19 | 14–19 |
+| [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 16 | 16–18 | 15–18 | 15–19 | 14–20 |
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 19 | 19 | 18–19 | 18–20 | 17–21 |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
@@ -426,7 +426,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–18 | 15–18 | 15–18 |
 | [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
-| [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 18–20 | 17–20 | 16–20 | 16–20 |
+| [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 18–20 | 17–20 | 17–20 | 16–21 |
 | [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–19 | 16–19 | 16–20 | 15–20 |
 | [18–20 September 2019](2019-09-20-Ipsos.html) | Ipsos <br> Henneo | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
@@ -442,7 +442,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 19 | 17–20 | 17–21 | 17–22 | 16–22 |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 21 | 20–22 | 19–22 | 19–22 | 19–23 |
 | [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 20 | 19–21 | 18–22 | 18–22 | 17–22 |
-| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 18–20 | 17–20 | 16–20 | 16–20 |
+| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 18–20 | 17–20 | 17–20 | 16–21 |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 18–21 | 18–21 | 18–21 | 18–22 |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 20 | 19–22 | 19–22 | 19–23 | 18–23 |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
