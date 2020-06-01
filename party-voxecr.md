@@ -394,13 +394,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–18 October 2019](2019-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [9–18 October 2019](2019-10-18-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [14–18 October 2019](2019-10-18-Invymark.html) | Invymark <br> laSexta | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [16–18 October 2019](2019-10-18-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 7 | 6–7 | 6–7 | 6–8 | 6–9 |
+| [16–18 October 2019](2019-10-18-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [14–18 October 2019](2019-10-18-GAD3.html) | GAD3 <br> ABC | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [16–17 October 2019](2019-10-17-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [15–17 October 2019](2019-10-17-Ipsos.html) | Ipsos <br> Henneo | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [30 September–4 October 2019](2019-10-04-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 6 | 5–7 | 4–7 | 4–7 | 3–8 |
+| [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 5 | 5–7 | 4–8 | 4–8 | 4–8 |
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 5 | 5–7 | 4–7 | 4–7 | 4–7 |
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
@@ -423,7 +423,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
@@ -447,13 +447,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 4 | 4–5 | 3–6 | 3–6 | 3–7 |
 | [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
-| [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [22–25 June 2019](2019-06-25-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5 | 5 | 5 | 5–6 |
 | [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [17–21 June 2019](2019-06-21-Invymark.html) | Invymark <br> laSexta | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [7–13 June 2019](2019-06-13-NCReport.html) | NC Report <br> La Razón | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
-| [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [3–11 June 2019](2019-06-11-SimpleLógica.html) | Simple Lógica | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [5–11 June 2019](2019-06-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [4–7 June 2019](2019-06-07-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
 | [27–31 May 2019](2019-05-31-Invymark.html) | Invymark <br> laSexta | 5 | 4–5 | 4–6 | 4–6 | 4–6 |

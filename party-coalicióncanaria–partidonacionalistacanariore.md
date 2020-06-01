@@ -383,7 +383,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [15–17 October 2019](2019-10-17-Ipsos.html) | Ipsos <br> Henneo |  |  |  |  |  |
 | [30 September–4 October 2019](2019-10-04-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 0 | 0 | 0 | 0 | 0–1 |
+| [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 0 | 0 | 0 | 0–1 | 0–1 |
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 0 | 0 | 0 | 0 | 0–1 |
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0–1 |
@@ -430,7 +430,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 0 | 0 | 0 | 0 | 0–1 |
 | [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario |  |  |  |  |  |
-| [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |
+| [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0–1 |
 | [22–25 June 2019](2019-06-25-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [17–21 June 2019](2019-06-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
