@@ -421,7 +421,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 19 | 19 | 18–19 | 18–20 | 17–21 |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
-| [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
+| [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
 | [1 October 2019](2019-10-01-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–18 | 15–18 | 15–18 |
 | [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
@@ -431,7 +431,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–19 | 16–19 | 16–20 | 15–20 |
 | [18–20 September 2019](2019-09-20-Ipsos.html) | Ipsos <br> Henneo | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 20 | 19–21 | 19–21 | 19–22 | 18–22 |
-| [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC | 20 | 19–21 | 18–21 | 18–21 | 17–22 |
+| [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
 | [18–20 September 2019](2019-09-20-40dB.html) | 40dB <br> El País | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–19 | 16–19 | 16–19 | 15–20 |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
@@ -446,7 +446,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 18–21 | 18–21 | 18–21 | 18–22 |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 20 | 19–22 | 19–22 | 19–23 | 18–23 |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
-| [1–15 August 2019](2019-08-15-electoPanel.html) | electoPanel <br> electomania.es | 19 | 18–19 | 18–20 | 17–20 | 17–21 |
+| [1–15 August 2019](2019-08-15-electoPanel.html) | electoPanel <br> electomania.es | 19 | 18–19 | 18–19 | 17–20 | 17–20 |
 | [11 August 2019](2019-08-11-NCReport.html) | NC Report <br> La Razón | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [1–7 August 2019](2019-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
 | [1–5 August 2019](2019-08-05-SimpleLógica.html) | Simple Lógica | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
