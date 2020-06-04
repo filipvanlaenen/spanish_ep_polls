@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 5.0–9.0% | 4.3–9.7% | 3.8–10.3% | 3.2–11.7% |
+| N/A | [Poll Average](average.html) | 7.1% | 5.0–9.4% | 4.3–10.0% | 3.8–10.6% | 3.2–11.7% |
+| [29–31 May 2020](2020-05-31-electoPanel.html) | electoPanel <br> electomania.es | 7.2% | 6.5–7.9% | 6.3–8.2% | 6.2–8.4% | 5.9–8.7% |
+| [27–29 May 2020](2020-05-29-SocioMétrica.html) | SocioMétrica <br> El Español | 7.9% | 7.1–8.8% | 6.9–9.0% | 6.8–9.2% | 6.4–9.6% |
+| [25–29 May 2020](2020-05-29-Invymark.html) | Invymark <br> laSexta | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
+| [21–24 May 2020](2020-05-24-DYM.html) | DYM <br> Henneo | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 7.0–11.6% |
 | [18–23 May 2020](2020-05-23-electoPanel.html) | electoPanel <br> electomania.es | 7.2% | 6.7–7.7% | 6.6–7.9% | 6.5–8.0% | 6.2–8.3% |
 | [17 May 2020](2020-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [17 May 2020](2020-05-17-KeyData.html) | Key Data <br> Público | 6.7% | 5.2–8.8% | 4.8–9.4% | 4.5–10.0% | 3.9–11.1% |
@@ -227,12 +231,12 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 1.3% | 100% |  |
 | 3.5–4.5% | 5% | 98.7% |  |
 | 4.5–5.5% | 10% | 93% |  |
-| 5.5–6.5% | 22% | 83% |  |
-| 6.5–7.5% | 29% | 62% | Median |
-| 7.5–8.5% | 18% | 32% |  |
-| 8.5–9.5% | 9% | 15% |  |
-| 9.5–10.5% | 4% | 6% |  |
-| 10.5–11.5% | 1.4% | 2% |  |
+| 5.5–6.5% | 20% | 84% |  |
+| 6.5–7.5% | 23% | 64% | Median |
+| 7.5–8.5% | 19% | 40% |  |
+| 8.5–9.5% | 13% | 21% |  |
+| 9.5–10.5% | 6% | 8% |  |
+| 10.5–11.5% | 2% | 3% |  |
 | 11.5–12.5% | 0.5% | 0.6% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -246,7 +250,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 2–5 | 2–6 | 2–7 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 2–6 | 2–6 | 2–7 |
+| [29–31 May 2020](2020-05-31-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [27–29 May 2020](2020-05-29-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [25–29 May 2020](2020-05-29-Invymark.html) | Invymark <br> laSexta | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [21–24 May 2020](2020-05-24-DYM.html) | DYM <br> Henneo | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [18–23 May 2020](2020-05-23-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [17 May 2020](2020-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | [17 May 2020](2020-05-17-KeyData.html) | Key Data <br> Público | 4 | 3–5 | 3–5 | 2–6 | 2–6 |
@@ -462,11 +470,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.3% | 100% |  |
 | 2 | 7% | 99.7% |  |
-| 3 | 23% | 93% |  |
-| 4 | 44% | 70% | Median |
-| 5 | 21% | 26% |  |
-| 6 | 4% | 5% |  |
-| 7 | 0.8% | 0.8% |  |
+| 3 | 21% | 93% |  |
+| 4 | 38% | 71% | Median |
+| 5 | 27% | 34% |  |
+| 6 | 6% | 7% |  |
+| 7 | 0.8% | 0.9% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
