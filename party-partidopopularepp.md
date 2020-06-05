@@ -427,11 +427,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [1 October 2019](2019-10-01-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–16 | 13–16 | 13–17 | 13–17 |
-| [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14–15 | 13–15 | 13–15 | 13–16 |
+| [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
 | [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 13–15 | 12–15 | 12–15 | 12–16 |
-| [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
+| [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–14 | 11–14 | 11–14 | 10–14 |
 | [18–20 September 2019](2019-09-20-Ipsos.html) | Ipsos <br> Henneo | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–13 | 11–13 | 10–14 |

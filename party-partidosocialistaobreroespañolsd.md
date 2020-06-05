@@ -431,7 +431,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
 | [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
 | [1 October 2019](2019-10-01-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
-| [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–18 | 15–18 | 15–18 |
+| [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–17 | 15–18 | 15–18 |
 | [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
 | [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 18–20 | 17–20 | 17–20 | 16–21 |
