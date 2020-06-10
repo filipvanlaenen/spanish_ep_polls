@@ -437,7 +437,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [18–20 September 2019](2019-09-20-40dB.html) | 40dB <br> El País | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
-| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 12–15 | 12–15 | 11–15 |
+| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
