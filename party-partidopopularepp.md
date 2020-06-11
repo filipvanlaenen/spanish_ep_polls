@@ -389,7 +389,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–29 October 2019](2019-10-29-40dB.html) | 40dB <br> El País | 13 | 12–13 | 12–14 | 12–14 | 11–14 |
 | [27–28 October 2019](2019-10-28-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [26–27 October 2019](2019-10-27-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
-| [26–27 October 2019](2019-10-27-SyMConsulting.html) | SyM Consulting <br> EPDA | 13 | 13–14 | 13–14 | 12–15 | 12–15 |
+| [26–27 October 2019](2019-10-27-SyMConsulting.html) | SyM Consulting <br> EPDA | 13 | 13–14 | 12–14 | 12–15 | 12–15 |
 | [27 October 2019](2019-10-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [25–26 October 2019](2019-10-26-electoPanel.html) | electoPanel <br> electomania.es | 15 | 13–16 | 13–16 | 13–16 | 12–16 |
 | [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 13–14 | 13–15 | 12–15 | 12–16 |
@@ -423,7 +423,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 15 | 13–16 | 13–16 | 13–16 | 12–16 |
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
-| [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 13 | 12–14 | 12–14 | 12–14 | 12–15 |
+| [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 13 | 12–14 | 12–14 | 12–15 | 11–16 |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [1 October 2019](2019-10-01-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–16 | 13–16 | 13–17 | 13–17 |

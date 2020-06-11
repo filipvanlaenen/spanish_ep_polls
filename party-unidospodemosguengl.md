@@ -375,7 +375,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–29 October 2019](2019-10-29-40dB.html) | 40dB <br> El País | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | [27–28 October 2019](2019-10-28-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–9 | 7–9 | 7–10 |
 | [26–27 October 2019](2019-10-27-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
-| [26–27 October 2019](2019-10-27-SyMConsulting.html) | SyM Consulting <br> EPDA | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [26–27 October 2019](2019-10-27-SyMConsulting.html) | SyM Consulting <br> EPDA | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [27 October 2019](2019-10-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 7–10 | 7–10 | 7–10 | 7–10 |
 | [25–26 October 2019](2019-10-26-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
@@ -409,7 +409,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
-| [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
+| [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [1 October 2019](2019-10-01-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 5–8 | 5–9 |

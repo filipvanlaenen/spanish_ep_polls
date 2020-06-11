@@ -427,7 +427,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 21 | 20–22 | 20–23 | 19–23 | 19–23 |
 | [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 16 | 16–18 | 15–18 | 15–19 | 14–20 |
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
-| [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 19 | 19 | 18–19 | 18–20 | 17–21 |
+| [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 19 | 18–19 | 17–20 | 17–20 | 16–21 |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
 | [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
 | [1 October 2019](2019-10-01-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
