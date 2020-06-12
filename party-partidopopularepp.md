@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23.6% | 20.5–26.7% | 19.8–27.6% | 19.2–28.2% | 18.1–29.5% |
+| [18 May–5 June 2020](2020-06-05-GAD3.html) | GAD3 <br> ABC | 25.4% | 24.4–26.4% | 24.1–26.7% | 23.9–27.0% | 23.4–27.5% |
+| [2–3 June 2020](2020-06-03-electoPanel.html) | electoPanel <br> electomania.es | 25.1% | 23.6–26.6% | 23.2–27.0% | 22.9–27.4% | 22.2–28.2% |
 | [29–31 May 2020](2020-05-31-electoPanel.html) | electoPanel <br> electomania.es | 25.6% | 24.4–26.8% | 24.1–27.2% | 23.8–27.5% | 23.3–28.1% |
 | [27–29 May 2020](2020-05-29-SocioMétrica.html) | SocioMétrica <br> El Español | 24.4% | 23.2–25.7% | 22.8–26.1% | 22.5–26.4% | 21.9–27.1% |
 | [25–29 May 2020](2020-05-29-Invymark.html) | Invymark <br> laSexta | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
@@ -269,6 +271,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 12–17 | 11–17 | 11–18 |
+| [18 May–5 June 2020](2020-06-05-GAD3.html) | GAD3 <br> ABC | 15 | 15–16 | 15–16 | 14–16 | 14–17 |
+| [2–3 June 2020](2020-06-03-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [29–31 May 2020](2020-05-31-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 15–17 | 15–18 |
 | [27–29 May 2020](2020-05-29-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 15–16 | 14–16 | 14–16 | 14–17 |
 | [25–29 May 2020](2020-05-29-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
