@@ -261,7 +261,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–10 | 6–10 | 6–11 | 6–12 |
 | [18 May–5 June 2020](2020-06-05-GAD3.html) | GAD3 <br> ABC | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [2–3 June 2020](2020-06-03-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8–9 | 8–10 | 8–10 | 7–10 |
+| [2–3 June 2020](2020-06-03-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8–10 | 8–10 | 7–10 | 7–10 |
 | [29–31 May 2020](2020-05-31-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [27–29 May 2020](2020-05-29-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [25–29 May 2020](2020-05-29-Invymark.html) | Invymark <br> laSexta | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
