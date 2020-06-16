@@ -11,7 +11,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23.6% | 20.5–26.7% | 19.8–27.6% | 19.2–28.2% | 18.1–29.5% |
+| [9–13 June 2020](2020-06-13-NCReport.html) | NC Report <br> La Razón | 25.1% | 23.0–27.5% | 22.4–28.1% | 21.9–28.7% | 20.9–29.8% |
+| [6–12 June 2020](2020-06-12-electoPanel.html) | electoPanel <br> electomania.es | 24.7% | 23.5–26.0% | 23.2–26.3% | 22.8–26.6% | 22.3–27.3% |
+| [1–5 June 2020](2020-06-05-SimpleLógica.html) | Simple Lógica | 21.7% | 19.7–23.9% | 19.2–24.6% | 18.7–25.1% | 17.8–26.2% |
 | [18 May–5 June 2020](2020-06-05-GAD3.html) | GAD3 <br> ABC | 25.4% | 24.4–26.4% | 24.1–26.7% | 23.9–27.0% | 23.4–27.5% |
+| [1–5 June 2020](2020-06-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 23.1% | 21.1–25.2% | 20.5–25.8% | 20.0–26.4% | 19.1–27.4% |
 | [2–3 June 2020](2020-06-03-electoPanel.html) | electoPanel <br> electomania.es | 25.1% | 23.6–26.6% | 23.2–27.0% | 22.9–27.4% | 22.2–28.2% |
 | [29–31 May 2020](2020-05-31-electoPanel.html) | electoPanel <br> electomania.es | 25.6% | 24.4–26.8% | 24.1–27.2% | 23.8–27.5% | 23.3–28.1% |
 | [27–29 May 2020](2020-05-29-SocioMétrica.html) | SocioMétrica <br> El Español | 24.4% | 23.2–25.7% | 22.8–26.1% | 22.5–26.4% | 21.9–27.1% |
@@ -271,7 +275,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 12–17 | 11–17 | 11–18 |
+| [9–13 June 2020](2020-06-13-NCReport.html) | NC Report <br> La Razón | 16 | 15–16 | 15–17 | 14–17 | 13–18 |
+| [6–12 June 2020](2020-06-12-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–16 | 15–17 | 14–17 | 14–17 |
+| [1–5 June 2020](2020-06-05-SimpleLógica.html) | Simple Lógica | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [18 May–5 June 2020](2020-06-05-GAD3.html) | GAD3 <br> ABC | 15 | 15–16 | 15–16 | 14–16 | 14–17 |
+| [1–5 June 2020](2020-06-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 13–16 | 12–16 | 12–16 | 12–17 |
 | [2–3 June 2020](2020-06-03-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [29–31 May 2020](2020-05-31-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 15–17 | 15–18 |
 | [27–29 May 2020](2020-05-29-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 15–16 | 14–16 | 14–16 | 14–17 |
