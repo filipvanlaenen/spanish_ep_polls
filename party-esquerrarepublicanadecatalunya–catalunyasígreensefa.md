@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.8–4.4% | 2.6–4.7% | 2.4–5.0% | 2.0–5.8% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.9–4.6% | 2.7–4.9% | 2.5–5.2% | 2.0–5.9% |
 | [9–13 June 2020](2020-06-13-NCReport.html) | NC Report <br> La Razón | 3.7% | 2.9–4.9% | 2.7–5.2% | 2.5–5.5% | 2.1–6.2% |
 | [6–12 June 2020](2020-06-12-electoPanel.html) | electoPanel <br> electomania.es | 3.6% | 3.1–4.2% | 3.0–4.4% | 2.9–4.5% | 2.7–4.8% |
 | [1–5 June 2020](2020-06-05-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
@@ -233,11 +233,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 4% | 99.9% |  |
-| 2.5–3.5% | 43% | 96% |  |
-| 3.5–4.5% | 45% | 53% | Median |
-| 4.5–5.5% | 7% | 8% |  |
-| 5.5–6.5% | 0.7% | 0.8% |  |
+| 1.5–2.5% | 3% | 99.9% |  |
+| 2.5–3.5% | 38% | 97% |  |
+| 3.5–4.5% | 49% | 59% | Median |
+| 4.5–5.5% | 9% | 10% |  |
+| 5.5–6.5% | 1.1% | 1.2% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -250,8 +250,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| [9–13 June 2020](2020-06-13-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [9–13 June 2020](2020-06-13-NCReport.html) | NC Report <br> La Razón | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [6–12 June 2020](2020-06-12-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [1–5 June 2020](2020-06-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [18 May–5 June 2020](2020-06-05-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
@@ -474,9 +474,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 23% | 99.9% |  |
-| 2 | 70% | 77% | Median |
-| 3 | 7% | 7% |  |
+| 1 | 14% | 99.9% |  |
+| 2 | 75% | 85% | Median |
+| 3 | 10% | 10% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
