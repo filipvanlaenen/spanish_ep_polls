@@ -476,7 +476,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–26 July 2019](2019-07-26-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [23 July 2019](2019-07-23-electoPanel.html) | electoPanel <br> electomania.es | 19 | 18–21 | 17–22 | 17–22 | 16–23 |
 | [21 July 2019](2019-07-21-electoPanel.html) | electoPanel <br> electomania.es | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
-| [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
+| [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta | 22 | 21–23 | 21–24 | 20–24 | 20–24 |
 | [11–12 July 2019](2019-07-12-Metroscopia.html) | Metroscopia <br> Henneo | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
 | [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 20 | 19–21 | 18–21 | 18–22 | 17–22 |
 | [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 19 | 18–21 | 17–22 | 17–22 | 16–23 |
