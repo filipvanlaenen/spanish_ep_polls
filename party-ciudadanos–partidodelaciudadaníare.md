@@ -267,8 +267,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22–26 June 2020](2020-06-26-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5 | 4–5 | 4–5 | 4–5 |
 | [22–26 June 2020](2020-06-26-Invymark.html) | Invymark <br> laSexta | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [22–26 June 2020](2020-06-26-GESOP.html) | GESOP | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| [13–19 June 2020](2020-06-19-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [17–19 June 2020](2020-06-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
+| [13–19 June 2020](2020-06-19-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5 | 4–5 | 4–5 | 4–6 |
+| [17–19 June 2020](2020-06-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 3 | 3–4 | 3–5 | 3–5 | 2–5 |
 | [15–17 June 2020](2020-06-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [9–13 June 2020](2020-06-13-NCReport.html) | NC Report <br> La Razón | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
 | [6–12 June 2020](2020-06-12-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -496,9 +496,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 1.3% | 100% |  |
-| 3 | 18% | 98.7% |  |
-| 4 | 36% | 81% | Median |
-| 5 | 42% | 45% |  |
+| 3 | 20% | 98.7% |  |
+| 4 | 35% | 79% | Median |
+| 5 | 41% | 44% |  |
 | 6 | 3% | 3% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |

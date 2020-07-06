@@ -276,9 +276,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22–26 June 2020](2020-06-26-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [22–26 June 2020](2020-06-26-Invymark.html) | Invymark <br> laSexta | 9 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [22–26 June 2020](2020-06-26-GESOP.html) | GESOP | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
-| [13–19 June 2020](2020-06-19-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
-| [17–19 June 2020](2020-06-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 9 | 8–10 | 8–11 | 8–11 | 8–12 |
-| [15–17 June 2020](2020-06-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| [13–19 June 2020](2020-06-19-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
+| [17–19 June 2020](2020-06-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 10 | 9–11 | 8–11 | 8–11 | 7–11 |
+| [15–17 June 2020](2020-06-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [9–13 June 2020](2020-06-13-NCReport.html) | NC Report <br> La Razón | 9 | 9–11 | 8–11 | 8–11 | 7–11 |
 | [6–12 June 2020](2020-06-12-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [1–5 June 2020](2020-06-05-SimpleLógica.html) | Simple Lógica | 9 | 8–10 | 7–10 | 7–11 | 7–11 |
@@ -507,12 +507,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.2% | 100% |  |
-| 6 | 7% | 99.8% |  |
-| 7 | 14% | 93% |  |
-| 8 | 24% | 79% |  |
-| 9 | 39% | 55% | Median |
-| 10 | 12% | 17% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 8% | 99.9% |  |
+| 7 | 13% | 92% |  |
+| 8 | 21% | 79% |  |
+| 9 | 40% | 59% | Median |
+| 10 | 14% | 19% |  |
 | 11 | 5% | 5% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |

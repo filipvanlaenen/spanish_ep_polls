@@ -292,7 +292,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22–26 June 2020](2020-06-26-Invymark.html) | Invymark <br> laSexta | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
 | [22–26 June 2020](2020-06-26-GESOP.html) | GESOP | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [13–19 June 2020](2020-06-19-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 15–17 | 15–17 |
-| [17–19 June 2020](2020-06-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 17 | 14–17 | 14–17 | 14–18 | 13–18 |
+| [17–19 June 2020](2020-06-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 15 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [15–17 June 2020](2020-06-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 16–19 | 16–19 | 16–20 | 15–20 |
 | [9–13 June 2020](2020-06-13-NCReport.html) | NC Report <br> La Razón | 16 | 14–17 | 14–17 | 14–18 | 13–19 |
 | [6–12 June 2020](2020-06-12-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–18 | 15–18 | 15–18 |
@@ -530,12 +530,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.3% | 100% |  |
-| 14 | 3% | 99.7% |  |
-| 15 | 8% | 97% |  |
-| 16 | 27% | 89% |  |
-| 17 | 37% | 61% | Median |
-| 18 | 18% | 25% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 3% | 99.8% |  |
+| 15 | 11% | 97% |  |
+| 16 | 27% | 86% |  |
+| 17 | 35% | 59% | Median |
+| 18 | 17% | 24% |  |
 | 19 | 6% | 7% |  |
 | 20 | 1.1% | 1.3% |  |
 | 21 | 0.2% | 0.2% |  |

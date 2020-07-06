@@ -286,9 +286,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22–26 June 2020](2020-06-26-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–16 | 15–16 | 14–16 | 14–16 |
 | [22–26 June 2020](2020-06-26-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
 | [22–26 June 2020](2020-06-26-GESOP.html) | GESOP | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
-| [13–19 June 2020](2020-06-19-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–16 | 15–16 | 15–16 | 14–17 |
-| [17–19 June 2020](2020-06-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 15 | 13–16 | 13–17 | 13–17 | 13–18 |
-| [15–17 June 2020](2020-06-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
+| [13–19 June 2020](2020-06-19-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–16 | 15–16 | 14–17 | 14–17 |
+| [17–19 June 2020](2020-06-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 16 | 14–17 | 13–18 | 13–18 | 13–18 |
+| [15–17 June 2020](2020-06-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [9–13 June 2020](2020-06-13-NCReport.html) | NC Report <br> La Razón | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [6–12 June 2020](2020-06-12-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–16 | 15–17 | 14–17 | 14–17 |
 | [1–5 June 2020](2020-06-05-SimpleLógica.html) | Simple Lógica | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
@@ -526,11 +526,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 2% | 99.9% |  |
 | 12 | 9% | 98% |  |
 | 13 | 18% | 89% |  |
-| 14 | 14% | 71% |  |
-| 15 | 30% | 57% | Median |
-| 16 | 21% | 27% |  |
-| 17 | 4% | 6% |  |
-| 18 | 2% | 2% |  |
+| 14 | 15% | 72% |  |
+| 15 | 26% | 57% | Median |
+| 16 | 25% | 31% |  |
+| 17 | 5% | 7% |  |
+| 18 | 1.3% | 1.4% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
