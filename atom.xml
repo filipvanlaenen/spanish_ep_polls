@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-07-06T19:20:35.372763+02:00</updated>
+  <updated>2020-07-10T19:09:39.127107+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 19.9–25.1%, 12–15 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 23.4–28.8%, 14–17 seats</li><li>Unidos Podemos (GUE/NGL): 9.5–13.4%, 5–8 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 6.7–10.2%, 4–6 seats</li><li>Vox (ECR): 13.0–17.5%, 8–10 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_ep_polls/2020-06-27-DYM.html</id>
@@ -1488,6 +1488,14 @@
     <dc:date>2020-05-01T18:54:51.095434+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 15.1–19.6%, 9–12 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 28.7–34.2%, 17–21 seats</li><li>Unidos Podemos (GUE/NGL): 11.8–16.0%, 7–9 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 12.9–17.2%, 7–10 seats</li><li>Vox (ECR): 9.3–13.0%, 5–8 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-SimpleLógica.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-SimpleLógica.html"/>
+    <title>Opinion Poll by Simple Lógica, 1–5 August 2019</title>
+    <updated>2020-07-10T19:09:39.127107+02:00</updated>
+    <dc:date>2020-07-10T19:09:39.127107+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 15.6–22.5%, 9–13 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 27.7–35.8%, 17–22 seats</li><li>Unidos Podemos (GUE/NGL): 10.7–16.7%, 6–10 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 11.6–17.8%, 7–10 seats</li><li>Vox (ECR): 5.6–10.3%, 3–6 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-KeyData.html</id>
     <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2019-08-05-KeyData.html"/>
@@ -1567,5 +1575,13 @@
     <updated>2020-03-24T20:03:55.397626+01:00</updated>
     <dc:date>2020-03-24T20:03:55.397626+01:00</dc:date>
   </entry>
-  <dc:date>2020-07-06T19:20:35.372763+02:00</dc:date>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 13.5–17.6%, 8–10 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 31.0–36.3%, 19–22 seats</li><li>Unidos Podemos (GUE/NGL): 11.5–15.4%, 7–9 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 13.2–17.2%, 8–10 seats</li><li>Vox (ECR): 7.0–10.1%, 4–6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-31-Invymark.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2019-05-31-Invymark.html"/>
+    <title>Opinion Poll by Invymark for laSexta, 27–31 May 2019</title>
+    <updated>2020-07-10T18:59:03.699377+02:00</updated>
+    <dc:date>2020-07-10T18:59:03.699377+02:00</dc:date>
+  </entry>
+  <dc:date>2020-07-10T19:09:39.127107+02:00</dc:date>
 </feed>
