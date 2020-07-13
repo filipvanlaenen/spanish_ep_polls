@@ -470,7 +470,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21 July 2019](2019-07-21-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [11–12 July 2019](2019-07-12-Metroscopia.html) | Metroscopia <br> Henneo | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
-| [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
+| [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
 | [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 10 | 9–10 | 8–11 | 8–11 | 8–11 |

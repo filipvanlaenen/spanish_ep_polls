@@ -30,13 +30,13 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 16 | 15–17 |15–17 |14–18 |14–18 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 16 | 15–17 |15–18 |14–18 |14–19 |
 | <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 14 | 13–15 |12–15 |12–15 |12–16 |
-| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 8 | 7–8 |7–8 |6–9 |6–9 |
-| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 7 | 6–7 |6–8 |6–8 |5–8 |
+| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 8 | 7–8 |7–9 |6–9 |6–9 |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 7 | 6–7 |6–7 |5–8 |5–8 |
 | <a href="#ciudadanos–partido-de-la-ciudadanía-(re)">Ciudadanos–Partido de la Ciudadanía (RE)</a> | 0 | 6 | 5–6 |5–7 |5–7 |4–7 |
-| <a href="#coalició-compromís-(greens/efa)">Coalició Compromís (Greens/EFA)</a> | 0 | 2 | 2–3 |1–3 |1–3 |1–3 |
-| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 2 | 2–3 |2–3 |1–3 |1–3 |
+| <a href="#coalició-compromís-(greens/efa)">Coalició Compromís (Greens/EFA)</a> | 0 | 2 | 2–3 |2–3 |1–3 |1–3 |
+| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 2 | 2–3 |1–3 |1–3 |1–3 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -61,11 +61,11 @@
 | 12 | 0% | 100% |  |
 | 13 | 0.1% | 100% |  |
 | 14 | 3% | 99.9% |  |
-| 15 | 21% | 97% |  |
-| 16 | 50% | 76% | Median |
-| 17 | 22% | 27% |  |
-| 18 | 4% | 4% |  |
-| 19 | 0.2% | 0.2% |  |
+| 15 | 20% | 97% |  |
+| 16 | 41% | 77% | Median |
+| 17 | 28% | 36% |  |
+| 18 | 7% | 7% |  |
+| 19 | 0.5% | 0.5% |  |
 | 20 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
@@ -87,11 +87,11 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.1% | 100% |  |
-| 12 | 7% | 99.9% |  |
-| 13 | 31% | 93% |  |
-| 14 | 43% | 62% | Median |
-| 15 | 17% | 19% |  |
+| 11 | 0.2% | 100% |  |
+| 12 | 5% | 99.8% |  |
+| 13 | 31% | 94% |  |
+| 14 | 43% | 64% | Median |
+| 15 | 18% | 20% |  |
 | 16 | 2% | 2% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
@@ -110,11 +110,11 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 4% | 100% |  |
-| 7 | 45% | 96% |  |
-| 8 | 46% | 50% | Median |
-| 9 | 4% | 5% |  |
-| 10 | 0.2% | 0.2% |  |
+| 6 | 3% | 100% |  |
+| 7 | 41% | 97% |  |
+| 8 | 46% | 55% | Median |
+| 9 | 9% | 9% |  |
+| 10 | 0.3% | 0.3% |  |
 | 11 | 0% | 0% |  |
 
 ### Vox (ECR)
@@ -130,11 +130,11 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 2% | 100% |  |
-| 6 | 44% | 98% |  |
-| 7 | 47% | 54% | Median |
-| 8 | 7% | 7% |  |
-| 9 | 0.2% | 0.2% |  |
+| 5 | 5% | 100% |  |
+| 6 | 45% | 95% |  |
+| 7 | 46% | 51% | Median |
+| 8 | 4% | 4% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (RE)
@@ -149,11 +149,11 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.1% | 100% |  |
-| 5 | 22% | 98.9% |  |
-| 6 | 68% | 76% | Median |
+| 4 | 2% | 100% |  |
+| 5 | 36% | 98% |  |
+| 6 | 54% | 62% | Median |
 | 7 | 8% | 8% |  |
-| 8 | 0.1% | 0.1% |  |
+| 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
 ### Coalició Compromís (Greens/EFA)
@@ -167,8 +167,8 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 5% | 100% |  |
 | 2 | 79% | 95% | Median |
-| 3 | 16% | 16% |  |
-| 4 | 0.2% | 0.2% |  |
+| 3 | 17% | 17% |  |
+| 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)
@@ -180,8 +180,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 85% | 97% | Median |
+| 1 | 6% | 100% |  |
+| 2 | 82% | 94% | Median |
 | 3 | 12% | 12% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
@@ -195,9 +195,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0 | 16 | 0% | 15–17 | 15–17 | 14–18 | 14–18 |
+| Partido Socialista Obrero Español (S&D) | 0 | 16 | 0% | 15–17 | 15–18 | 14–18 | 14–19 |
 | Partido Popular (EPP) | 0 | 14 | 0% | 13–15 | 12–15 | 12–15 | 12–16 |
-| Vox (ECR) | 0 | 7 | 0% | 6–7 | 6–8 | 6–8 | 5–8 |
+| Vox (ECR) | 0 | 7 | 0% | 6–7 | 6–7 | 5–8 | 5–8 |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -220,11 +220,11 @@
 | 12 | 0% | 100% |  |
 | 13 | 0.1% | 100% |  |
 | 14 | 3% | 99.9% |  |
-| 15 | 21% | 97% |  |
-| 16 | 50% | 76% | Median |
-| 17 | 22% | 27% |  |
-| 18 | 4% | 4% |  |
-| 19 | 0.2% | 0.2% |  |
+| 15 | 20% | 97% |  |
+| 16 | 41% | 77% | Median |
+| 17 | 28% | 36% |  |
+| 18 | 7% | 7% |  |
+| 19 | 0.5% | 0.5% |  |
 | 20 | 0% | 0% |  |
 
 ### Partido Popular (EPP)
@@ -244,11 +244,11 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.1% | 100% |  |
-| 12 | 7% | 99.9% |  |
-| 13 | 31% | 93% |  |
-| 14 | 43% | 62% | Median |
-| 15 | 17% | 19% |  |
+| 11 | 0.2% | 100% |  |
+| 12 | 5% | 99.8% |  |
+| 13 | 31% | 94% |  |
+| 14 | 43% | 64% | Median |
+| 15 | 18% | 20% |  |
 | 16 | 2% | 2% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
@@ -264,11 +264,11 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 2% | 100% |  |
-| 6 | 44% | 98% |  |
-| 7 | 47% | 54% | Median |
-| 8 | 7% | 7% |  |
-| 9 | 0.2% | 0.2% |  |
+| 5 | 5% | 100% |  |
+| 6 | 45% | 95% |  |
+| 7 | 46% | 51% | Median |
+| 8 | 4% | 4% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 
@@ -283,6 +283,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.81%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.39%
 
