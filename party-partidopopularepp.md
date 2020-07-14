@@ -464,7 +464,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [18–20 September 2019](2019-09-20-40dB.html) | 40dB <br> El País | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
-| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
+| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
@@ -491,7 +491,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11–12 July 2019](2019-07-12-Metroscopia.html) | Metroscopia <br> Henneo | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
 | [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
 | [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
-| [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
+| [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [22–25 June 2019](2019-06-25-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12 | 12–13 | 12–13 | 11–13 |

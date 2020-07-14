@@ -445,7 +445,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [18–20 September 2019](2019-09-20-40dB.html) | 40dB <br> El País | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
@@ -465,7 +465,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5 August 2019](2019-08-05-KeyData.html) | Key Data <br> Público | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
 | [29 July–1 August 2019](2019-08-01-Invymark.html) | Invymark <br> laSexta | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [24–26 July 2019](2019-07-26-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [25–26 July 2019](2019-07-26-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 9–10 | 8–11 | 8–11 | 8–12 |
+| [25–26 July 2019](2019-07-26-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 9–10 | 8–11 | 8–11 | 8–12 |
 | [23 July 2019](2019-07-23-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | [21 July 2019](2019-07-21-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | [15–19 July 2019](2019-07-19-Invymark.html) | Invymark <br> laSexta | 7 | 7–8 | 7–9 | 6–9 | 6–9 |

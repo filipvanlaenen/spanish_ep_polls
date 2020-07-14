@@ -451,9 +451,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [18–20 September 2019](2019-09-20-40dB.html) | 40dB <br> El País | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
-| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
+| [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
-| [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
+| [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
@@ -478,7 +478,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11–12 July 2019](2019-07-12-Metroscopia.html) | Metroscopia <br> Henneo | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [7 July 2019](2019-07-07-KeyData.html) | Key Data <br> Público | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
-| [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
+| [3–6 July 2019](2019-07-06-Invymark.html) | Invymark <br> laSexta | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [22–25 June 2019](2019-06-25-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7 | 7 | 7–8 | 7–8 |
