@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.0% | 10.4–14.1% | 10.1–14.7% | 9.8–15.2% | 9.3–16.1% |
+| N/A | [Poll Average](average.html) | 12.3% | 10.8–14.4% | 10.4–14.9% | 10.1–15.4% | 9.4–16.3% |
+| [3–10 July 2020](2020-07-10-electoPanel.html) | electoPanel <br> electomania.es | 11.2% | 10.5–11.9% | 10.4–12.1% | 10.2–12.3% | 9.9–12.6% |
+| [29 June–2 July 2020](2020-07-02-electoPanel.html) | electoPanel <br> electomania.es | 11.9% | 11.2–12.7% | 11.0–12.9% | 10.8–13.1% | 10.5–13.5% |
 | [24–27 June 2020](2020-06-27-DYM.html) | DYM <br> Henneo | 11.3% | 10.1–12.7% | 9.8–13.1% | 9.5–13.4% | 8.9–14.1% |
 | [22–26 June 2020](2020-06-26-electoPanel.html) | electoPanel <br> electomania.es | 11.7% | 11.0–12.5% | 10.8–12.7% | 10.6–12.9% | 10.3–13.2% |
 | [22–26 June 2020](2020-06-26-Invymark.html) | Invymark <br> laSexta | 12.8% | 11.5–14.3% | 11.2–14.7% | 10.9–15.0% | 10.3–15.7% |
@@ -248,15 +250,15 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 1.2% | 100% |  |
-| 9.5–10.5% | 11% | 98.8% |  |
-| 10.5–11.5% | 25% | 87% |  |
-| 11.5–12.5% | 26% | 63% | Median |
-| 12.5–13.5% | 19% | 37% |  |
-| 13.5–14.5% | 11% | 17% |  |
-| 14.5–15.5% | 5% | 6% |  |
-| 15.5–16.5% | 1.2% | 1.4% |  |
-| 16.5–17.5% | 0.2% | 0.2% |  |
+| 8.5–9.5% | 0.7% | 100% |  |
+| 9.5–10.5% | 6% | 99.3% |  |
+| 10.5–11.5% | 23% | 93% |  |
+| 11.5–12.5% | 25% | 70% | Median |
+| 12.5–13.5% | 22% | 45% |  |
+| 13.5–14.5% | 15% | 23% |  |
+| 14.5–15.5% | 6% | 8% |  |
+| 15.5–16.5% | 2% | 2% |  |
+| 16.5–17.5% | 0.3% | 0.3% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -268,7 +270,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| [3–10 July 2020](2020-07-10-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [29 June–2 July 2020](2020-07-02-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [24–27 June 2020](2020-06-27-DYM.html) | DYM <br> Henneo | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [22–26 June 2020](2020-06-26-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7 | 7–8 | 7–8 | 7–8 |
 | [22–26 June 2020](2020-06-26-Invymark.html) | Invymark <br> laSexta | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
@@ -504,12 +508,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 1.2% | 100% |  |
-| 6 | 25% | 98.8% |  |
-| 7 | 42% | 74% | Median |
-| 8 | 23% | 32% |  |
-| 9 | 8% | 9% |  |
-| 10 | 0.9% | 0.9% |  |
+| 5 | 0.8% | 100% |  |
+| 6 | 17% | 99.2% |  |
+| 7 | 47% | 82% | Median |
+| 8 | 23% | 35% |  |
+| 9 | 11% | 13% |  |
+| 10 | 1.3% | 1.4% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
