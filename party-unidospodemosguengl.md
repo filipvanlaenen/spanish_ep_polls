@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.3% | 10.8–14.4% | 10.4–14.9% | 10.1–15.4% | 9.4–16.3% |
+| N/A | [Poll Average](average.html) | 12.1% | 10.3–14.2% | 9.9–14.8% | 9.5–15.2% | 9.0–16.2% |
+| [6–14 July 2020](2020-07-14-GAD3.html) | GAD3 <br> ABC | 10.1% | 9.3–10.9% | 9.1–11.2% | 8.9–11.4% | 8.6–11.8% |
 | [3–10 July 2020](2020-07-10-electoPanel.html) | electoPanel <br> electomania.es | 11.2% | 10.5–11.9% | 10.4–12.1% | 10.2–12.3% | 9.9–12.6% |
+| [1–9 July 2020](2020-07-09-IMOP.html) | IMOP <br> CIS | 12.1% | 11.4–12.9% | 11.2–13.1% | 11.0–13.3% | 10.6–13.7% |
+| [1–8 July 2020](2020-07-08-SimpleLógica.html) | Simple Lógica | 12.5% | 11.0–14.3% | 10.6–14.8% | 10.2–15.3% | 9.5–16.2% |
 | [29 June–2 July 2020](2020-07-02-electoPanel.html) | electoPanel <br> electomania.es | 11.9% | 11.2–12.7% | 11.0–12.9% | 10.8–13.1% | 10.5–13.5% |
 | [24–27 June 2020](2020-06-27-DYM.html) | DYM <br> Henneo | 11.3% | 10.1–12.7% | 9.8–13.1% | 9.5–13.4% | 8.9–14.1% |
 | [22–26 June 2020](2020-06-26-electoPanel.html) | electoPanel <br> electomania.es | 11.7% | 11.0–12.5% | 10.8–12.7% | 10.6–12.9% | 10.3–13.2% |
@@ -249,16 +252,16 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.7% | 100% |  |
-| 9.5–10.5% | 6% | 99.3% |  |
-| 10.5–11.5% | 23% | 93% |  |
-| 11.5–12.5% | 25% | 70% | Median |
-| 12.5–13.5% | 22% | 45% |  |
-| 13.5–14.5% | 15% | 23% |  |
-| 14.5–15.5% | 6% | 8% |  |
-| 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.3% | 0.3% |  |
+| 7.5–8.5% | 0.1% | 100% |  |
+| 8.5–9.5% | 2% | 99.9% |  |
+| 9.5–10.5% | 11% | 97% |  |
+| 10.5–11.5% | 22% | 87% |  |
+| 11.5–12.5% | 26% | 65% | Median |
+| 12.5–13.5% | 20% | 39% |  |
+| 13.5–14.5% | 12% | 19% |  |
+| 14.5–15.5% | 5% | 7% |  |
+| 15.5–16.5% | 1.3% | 2% |  |
+| 16.5–17.5% | 0.2% | 0.2% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -270,9 +273,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
+| [6–14 July 2020](2020-07-14-GAD3.html) | GAD3 <br> ABC | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [3–10 July 2020](2020-07-10-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
-| [29 June–2 July 2020](2020-07-02-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–8 | 7–8 | 6–8 |
+| [1–9 July 2020](2020-07-09-IMOP.html) | IMOP <br> CIS | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [1–8 July 2020](2020-07-08-SimpleLógica.html) | Simple Lógica | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| [29 June–2 July 2020](2020-07-02-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [24–27 June 2020](2020-06-27-DYM.html) | DYM <br> Henneo | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [22–26 June 2020](2020-06-26-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7 | 7–8 | 7–8 | 7–8 |
 | [22–26 June 2020](2020-06-26-Invymark.html) | Invymark <br> laSexta | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
@@ -508,12 +514,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.8% | 100% |  |
-| 6 | 17% | 99.2% |  |
-| 7 | 47% | 82% | Median |
-| 8 | 23% | 35% |  |
-| 9 | 11% | 13% |  |
-| 10 | 1.3% | 1.4% |  |
+| 5 | 3% | 100% |  |
+| 6 | 20% | 97% |  |
+| 7 | 41% | 77% | Median |
+| 8 | 25% | 36% |  |
+| 9 | 10% | 11% |  |
+| 10 | 1.0% | 1.1% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
