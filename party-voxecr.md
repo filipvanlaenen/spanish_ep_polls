@@ -275,11 +275,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–10 | 6–10 | 6–11 | 6–11 |
+| N/A | [Poll Average](average.html) | 8 | 6–10 | 6–10 | 6–10 | 6–11 |
 | [6–14 July 2020](2020-07-14-GAD3.html) | GAD3 <br> ABC | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
-| [3–10 July 2020](2020-07-10-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9–11 | 9–11 | 9–11 | 8–11 |
+| [3–10 July 2020](2020-07-10-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [1–9 July 2020](2020-07-09-IMOP.html) | IMOP <br> CIS | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [1–8 July 2020](2020-07-08-SimpleLógica.html) | Simple Lógica | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
+| [1–8 July 2020](2020-07-08-SimpleLógica.html) | Simple Lógica | 9 | 8–10 | 7–10 | 7–11 | 7–11 |
 | [29 June–2 July 2020](2020-07-02-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [24–27 June 2020](2020-06-27-DYM.html) | DYM <br> Henneo | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [22–26 June 2020](2020-06-26-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
@@ -520,9 +520,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 10% | 99.8% |  |
 | 7 | 24% | 90% |  |
 | 8 | 23% | 66% | Median |
-| 9 | 27% | 43% |  |
-| 10 | 13% | 16% |  |
-| 11 | 3% | 3% |  |
+| 9 | 30% | 43% |  |
+| 10 | 12% | 13% |  |
+| 11 | 2% | 2% |  |
 | 12 | 0% | 0% |  |
 
 

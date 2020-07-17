@@ -275,7 +275,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
 | [6–14 July 2020](2020-07-14-GAD3.html) | GAD3 <br> ABC | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| [3–10 July 2020](2020-07-10-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [3–10 July 2020](2020-07-10-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [1–9 July 2020](2020-07-09-IMOP.html) | IMOP <br> CIS | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [1–8 July 2020](2020-07-08-SimpleLógica.html) | Simple Lógica | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | [29 June–2 July 2020](2020-07-02-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 7–8 | 7–8 | 6–8 |

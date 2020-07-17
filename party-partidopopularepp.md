@@ -288,7 +288,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–17 | 12–17 | 12–17 | 11–18 |
 | [6–14 July 2020](2020-07-14-GAD3.html) | GAD3 <br> ABC | 17 | 16–17 | 16–18 | 16–18 | 15–18 |
-| [3–10 July 2020](2020-07-10-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 13–15 | 13–15 | 13–16 |
+| [3–10 July 2020](2020-07-10-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–15 | 13–15 | 13–16 |
 | [1–9 July 2020](2020-07-09-IMOP.html) | IMOP <br> CIS | 13 | 13 | 12–14 | 12–14 | 12–14 |
 | [1–8 July 2020](2020-07-08-SimpleLógica.html) | Simple Lógica | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
 | [29 June–2 July 2020](2020-07-02-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–16 | 14–16 | 14–16 |
@@ -535,9 +535,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.1% | 100% |  |
 | 11 | 2% | 99.9% |  |
 | 12 | 11% | 98% |  |
-| 13 | 26% | 87% |  |
-| 14 | 19% | 61% | Median |
-| 15 | 17% | 43% |  |
+| 13 | 25% | 87% |  |
+| 14 | 19% | 62% | Median |
+| 15 | 16% | 43% |  |
 | 16 | 14% | 26% |  |
 | 17 | 10% | 12% |  |
 | 18 | 2% | 2% |  |
