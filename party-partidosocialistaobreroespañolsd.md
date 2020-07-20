@@ -290,10 +290,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–20 | 15–21 | 15–22 | 14–22 |
+| N/A | [Poll Average](average.html) | 17 | 15–20 | 15–20 | 15–21 | 14–22 |
 | [6–14 July 2020](2020-07-14-GAD3.html) | GAD3 <br> ABC | 18 | 17–18 | 17–19 | 16–19 | 16–19 |
 | [3–10 July 2020](2020-07-10-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 16–18 | 16–18 |
-| [1–9 July 2020](2020-07-09-IMOP.html) | IMOP <br> CIS | 21 | 19–22 | 19–22 | 19–22 | 19–22 |
+| [1–9 July 2020](2020-07-09-IMOP.html) | IMOP <br> CIS | 20 | 20–21 | 20–22 | 19–22 | 19–23 |
 | [1–8 July 2020](2020-07-08-SimpleLógica.html) | Simple Lógica | 17 | 16–19 | 16–19 | 15–20 | 15–20 |
 | [29 June–2 July 2020](2020-07-02-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–17 | 16–18 | 16–18 | 15–18 |
 | [24–27 June 2020](2020-06-27-DYM.html) | DYM <br> Henneo | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
@@ -462,7 +462,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica | 20 | 19–21 | 18–21 | 18–22 | 18–22 |
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 19 | 16–20 | 16–21 | 16–21 | 15–22 |
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 21 | 20–22 | 20–23 | 19–23 | 19–23 |
-| [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 16 | 16–18 | 15–18 | 15–19 | 14–20 |
+| [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 17 | 16–18 | 15–18 | 15–19 | 14–20 |
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 19 | 18–19 | 17–20 | 17–20 | 16–21 |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
@@ -475,7 +475,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [18–20 September 2019](2019-09-20-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–19 | 16–19 | 16–20 | 15–20 |
 | [18–20 September 2019](2019-09-20-Ipsos.html) | Ipsos <br> Henneo | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
-| [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 20 | 19–21 | 19–21 | 19–22 | 18–22 |
+| [16–20 September 2019](2019-09-20-Invymark.html) | Invymark <br> laSexta | 20 | 19–21 | 19–22 | 18–22 | 18–22 |
 | [16–20 September 2019](2019-09-20-GAD3.html) | GAD3 <br> ABC | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
 | [18–20 September 2019](2019-09-20-40dB.html) | 40dB <br> El País | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
 | [17–18 September 2019](2019-09-18-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–19 | 16–19 | 16–19 | 15–21 |
@@ -485,12 +485,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 19 | 17–20 | 17–21 | 17–22 | 16–22 |
-| [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 21 | 20–22 | 19–22 | 19–22 | 19–23 |
+| [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
 | [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 20 | 19–21 | 18–22 | 18–22 | 17–22 |
 | [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 18–20 | 17–20 | 17–20 | 16–21 |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 18–21 | 18–21 | 18–21 | 18–22 |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 20 | 19–22 | 19–22 | 19–23 | 18–23 |
-| [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
+| [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 18 | 17–20 | 17–20 | 16–21 | 16–21 |
 | [1–15 August 2019](2019-08-15-electoPanel.html) | electoPanel <br> electomania.es | 19 | 18–19 | 18–19 | 17–20 | 17–20 |
 | [11 August 2019](2019-08-11-NCReport.html) | NC Report <br> La Razón | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [1–7 August 2019](2019-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
@@ -543,12 +543,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 2% | 99.9% |  |
 | 15 | 11% | 98% |  |
 | 16 | 20% | 87% |  |
-| 17 | 27% | 66% | Median |
-| 18 | 21% | 39% |  |
-| 19 | 7% | 18% |  |
-| 20 | 4% | 11% |  |
-| 21 | 4% | 7% |  |
-| 22 | 3% | 3% |  |
-| 23 | 0% | 0% |  |
+| 17 | 28% | 66% | Median |
+| 18 | 20% | 39% |  |
+| 19 | 6% | 18% |  |
+| 20 | 7% | 12% |  |
+| 21 | 4% | 5% |  |
+| 22 | 0.6% | 0.7% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 

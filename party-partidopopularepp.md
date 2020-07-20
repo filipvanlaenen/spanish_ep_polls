@@ -289,7 +289,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 14 | 12–17 | 12–17 | 12–17 | 11–18 |
 | [6–14 July 2020](2020-07-14-GAD3.html) | GAD3 <br> ABC | 17 | 16–17 | 16–18 | 16–18 | 15–18 |
 | [3–10 July 2020](2020-07-10-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–15 | 13–15 | 13–16 |
-| [1–9 July 2020](2020-07-09-IMOP.html) | IMOP <br> CIS | 13 | 13 | 12–14 | 12–14 | 12–14 |
+| [1–9 July 2020](2020-07-09-IMOP.html) | IMOP <br> CIS | 14 | 13–14 | 13–14 | 12–15 | 12–15 |
 | [1–8 July 2020](2020-07-08-SimpleLógica.html) | Simple Lógica | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
 | [29 June–2 July 2020](2020-07-02-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–16 | 14–16 | 14–16 |
 | [24–27 June 2020](2020-06-27-DYM.html) | DYM <br> Henneo | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
@@ -458,14 +458,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
-| [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 15 | 13–16 | 13–16 | 13–16 | 12–16 |
+| [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 14 | 13–16 | 13–16 | 13–16 | 12–16 |
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 13 | 12–14 | 12–14 | 12–15 | 11–16 |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
 | [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [1 October 2019](2019-10-01-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–16 | 13–16 | 13–17 | 13–17 |
 | [22–27 September 2019](2019-09-27-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
-| [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
+| [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
@@ -486,7 +486,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
-| [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 13 | 13–14 | 12–15 | 12–15 | 12–16 |
+| [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [1–15 August 2019](2019-08-15-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [11 August 2019](2019-08-11-NCReport.html) | NC Report <br> La Razón | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [1–7 August 2019](2019-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 11–14 | 11–14 | 11–14 | 10–15 |
@@ -534,12 +534,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0.1% | 100% |  |
 | 11 | 2% | 99.9% |  |
-| 12 | 11% | 98% |  |
-| 13 | 25% | 87% |  |
-| 14 | 19% | 62% | Median |
-| 15 | 16% | 43% |  |
+| 12 | 10% | 98% |  |
+| 13 | 21% | 88% |  |
+| 14 | 24% | 67% | Median |
+| 15 | 17% | 43% |  |
 | 16 | 14% | 26% |  |
-| 17 | 10% | 12% |  |
+| 17 | 9% | 12% |  |
 | 18 | 2% | 2% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |

@@ -276,7 +276,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
 | [6–14 July 2020](2020-07-14-GAD3.html) | GAD3 <br> ABC | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [3–10 July 2020](2020-07-10-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [1–9 July 2020](2020-07-09-IMOP.html) | IMOP <br> CIS | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [1–9 July 2020](2020-07-09-IMOP.html) | IMOP <br> CIS | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [1–8 July 2020](2020-07-08-SimpleLógica.html) | Simple Lógica | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | [29 June–2 July 2020](2020-07-02-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [24–27 June 2020](2020-06-27-DYM.html) | DYM <br> Henneo | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
@@ -445,7 +445,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
 | [30 September–4 October 2019](2019-10-04-Invymark.html) | Invymark <br> laSexta | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
-| [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
+| [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 8 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
@@ -465,7 +465,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [10–15 September 2019](2019-09-15-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [12–14 September 2019](2019-09-14-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [9–13 September 2019](2019-09-13-Invymark.html) | Invymark <br> laSexta | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
+| [9–12 September 2019](2019-09-12-DYM.html) | DYM <br> El Independiente | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [6 September 2019](2019-09-06-KeyData.html) | Key Data <br> Público | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
 | [2–6 September 2019](2019-09-06-Invymark.html) | Invymark <br> laSexta | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -516,9 +516,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 3% | 100% |  |
 | 6 | 20% | 97% |  |
-| 7 | 41% | 77% | Median |
-| 8 | 25% | 36% |  |
-| 9 | 10% | 11% |  |
+| 7 | 45% | 77% | Median |
+| 8 | 21% | 32% |  |
+| 9 | 9% | 10% |  |
 | 10 | 1.0% | 1.1% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
