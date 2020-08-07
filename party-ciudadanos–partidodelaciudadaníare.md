@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.1–9.1% | 4.8–9.5% | 4.6–9.8% | 4.1–10.6% |
+| N/A | [Poll Average](average.html) | 7.1% | 5.0–9.0% | 4.7–9.3% | 4.5–9.6% | 4.0–10.2% |
+| [25–31 July 2020](2020-07-31-electoPanel.html) | electoPanel <br> electomania.es | 7.7% | 6.9–8.6% | 6.7–8.9% | 6.5–9.1% | 6.2–9.5% |
+| [26 July 2020](2020-07-26-Metroscopia.html) | Metroscopia | 5.5% | 4.7–6.5% | 4.5–6.8% | 4.3–7.0% | 3.9–7.5% |
+| [20–24 July 2020](2020-07-24-electoPanel.html) | electoPanel <br> electomania.es | 7.9% | 7.1–8.9% | 6.9–9.2% | 6.7–9.4% | 6.3–9.9% |
+| [20–24 July 2020](2020-07-24-Invymark.html) | Invymark <br> laSexta | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
+| [9–19 July 2020](2020-07-19-CIS.html) | CIS | 8.7% | 8.1–9.4% | 7.9–9.6% | 7.7–9.8% | 7.4–10.2% |
 | [14–18 July 2020](2020-07-18-NCReport.html) | NC Report <br> La Razón | 5.5% | 4.5–6.8% | 4.2–7.2% | 3.9–7.5% | 3.5–8.2% |
 | [12–17 July 2020](2020-07-17-electoPanel.html) | electoPanel <br> electomania.es | 7.5% | 6.7–8.5% | 6.5–8.7% | 6.3–9.0% | 5.9–9.5% |
 | [17 July 2020](2020-07-17-KeyData.html) | Key Data <br> Público | 7.1% | 5.6–9.2% | 5.1–9.8% | 4.8–10.3% | 4.2–11.4% |
@@ -251,16 +256,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 2% | 99.9% |  |
-| 4.5–5.5% | 17% | 98% |  |
-| 5.5–6.5% | 22% | 81% |  |
-| 6.5–7.5% | 19% | 59% | Median |
-| 7.5–8.5% | 19% | 39% |  |
-| 8.5–9.5% | 16% | 20% |  |
-| 9.5–10.5% | 4% | 4% |  |
-| 10.5–11.5% | 0.5% | 0.6% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 3.5–4.5% | 3% | 99.9% |  |
+| 4.5–5.5% | 19% | 97% |  |
+| 5.5–6.5% | 19% | 78% |  |
+| 6.5–7.5% | 16% | 59% | Median |
+| 7.5–8.5% | 22% | 43% |  |
+| 8.5–9.5% | 18% | 21% |  |
+| 9.5–10.5% | 3% | 3% |  |
+| 10.5–11.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -271,7 +275,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 2–6 | 2–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 2–6 | 2–6 | 2–6 |
+| [25–31 July 2020](2020-07-31-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [26 July 2020](2020-07-26-Metroscopia.html) | Metroscopia | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [20–24 July 2020](2020-07-24-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [20–24 July 2020](2020-07-24-Invymark.html) | Invymark <br> laSexta | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
+| [9–19 July 2020](2020-07-19-CIS.html) | CIS | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [14–18 July 2020](2020-07-18-NCReport.html) | NC Report <br> La Razón | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [12–17 July 2020](2020-07-17-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [17 July 2020](2020-07-17-KeyData.html) | Key Data <br> Público | 4 | 3–6 | 3–6 | 3–6 | 2–7 |
@@ -512,10 +521,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 5% | 100% |  |
-| 3 | 31% | 95% |  |
-| 4 | 33% | 64% | Median |
-| 5 | 26% | 31% |  |
+| 2 | 6% | 100% |  |
+| 3 | 32% | 94% |  |
+| 4 | 23% | 62% | Median |
+| 5 | 34% | 39% |  |
 | 6 | 5% | 5% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
