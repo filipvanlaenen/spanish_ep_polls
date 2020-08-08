@@ -285,7 +285,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | [25–31 July 2020](2020-07-31-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6 | 5–7 | 5–7 |
 | [26 July 2020](2020-07-26-Metroscopia.html) | Metroscopia | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [20–24 July 2020](2020-07-24-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [20–24 July 2020](2020-07-24-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [20–24 July 2020](2020-07-24-Invymark.html) | Invymark <br> laSexta | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [9–19 July 2020](2020-07-19-CIS.html) | CIS | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [14–18 July 2020](2020-07-18-NCReport.html) | NC Report <br> La Razón | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
