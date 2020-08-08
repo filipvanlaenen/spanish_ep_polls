@@ -272,11 +272,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| [25–31 July 2020](2020-07-31-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [25–31 July 2020](2020-07-31-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2 | 1–3 | 1–3 |
 | [26 July 2020](2020-07-26-Metroscopia.html) | Metroscopia |  |  |  |  |  |
 | [20–24 July 2020](2020-07-24-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [20–24 July 2020](2020-07-24-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [9–19 July 2020](2020-07-19-CIS.html) | CIS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [9–19 July 2020](2020-07-19-CIS.html) | CIS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–18 July 2020](2020-07-18-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [12–17 July 2020](2020-07-17-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2 | 1–2 | 1–3 |
 | [17 July 2020](2020-07-17-KeyData.html) | Key Data <br> Público | 2 | 1–3 | 1–3 | 1–3 | 0–4 |
@@ -516,9 +516,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 42% | 99.9% |  |
-| 2 | 53% | 58% | Median |
-| 3 | 5% | 5% |  |
+| 1 | 31% | 99.9% |  |
+| 2 | 64% | 69% | Median |
+| 3 | 5% | 6% |  |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 

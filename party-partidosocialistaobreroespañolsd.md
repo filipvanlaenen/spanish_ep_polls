@@ -299,12 +299,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–21 | 16–21 | 15–22 | 14–22 |
-| [25–31 July 2020](2020-07-31-electoPanel.html) | electoPanel <br> electomania.es | 19 | 18–19 | 18–19 | 17–19 | 16–19 |
+| N/A | [Poll Average](average.html) | 18 | 16–21 | 16–21 | 15–21 | 14–22 |
+| [25–31 July 2020](2020-07-31-electoPanel.html) | electoPanel <br> electomania.es | 19 | 18–19 | 17–19 | 17–20 | 17–20 |
 | [26 July 2020](2020-07-26-Metroscopia.html) | Metroscopia | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
 | [20–24 July 2020](2020-07-24-electoPanel.html) | electoPanel <br> electomania.es | 19 | 17–19 | 17–19 | 17–20 | 17–20 |
 | [20–24 July 2020](2020-07-24-Invymark.html) | Invymark <br> laSexta | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
-| [9–19 July 2020](2020-07-19-CIS.html) | CIS | 21 | 21–22 | 21–22 | 20–22 | 19–22 |
+| [9–19 July 2020](2020-07-19-CIS.html) | CIS | 21 | 20–22 | 20–22 | 19–22 | 19–22 |
 | [14–18 July 2020](2020-07-18-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–18 | 14–19 | 13–19 |
 | [12–17 July 2020](2020-07-17-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–18 | 16–18 | 16–19 | 16–19 |
 | [17 July 2020](2020-07-17-KeyData.html) | Key Data <br> Público | 16 | 15–19 | 15–19 | 14–20 | 13–21 |
@@ -561,11 +561,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 4% | 99.1% |  |
 | 16 | 15% | 96% |  |
 | 17 | 19% | 81% |  |
-| 18 | 24% | 62% | Median |
-| 19 | 15% | 38% |  |
-| 20 | 7% | 23% |  |
-| 21 | 11% | 16% |  |
-| 22 | 4% | 5% |  |
+| 18 | 22% | 62% | Median |
+| 19 | 16% | 39% |  |
+| 20 | 11% | 23% |  |
+| 21 | 10% | 12% |  |
+| 22 | 2% | 2% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 

@@ -295,12 +295,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–17 | 12–17 | 11–17 | 11–18 |
-| [25–31 July 2020](2020-07-31-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14 | 14 | 14–15 | 13–15 |
+| N/A | [Poll Average](average.html) | 14 | 12–17 | 12–17 | 12–17 | 11–18 |
+| [25–31 July 2020](2020-07-31-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14–15 | 13–16 | 13–16 | 13–16 |
 | [26 July 2020](2020-07-26-Metroscopia.html) | Metroscopia | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [20–24 July 2020](2020-07-24-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
 | [20–24 July 2020](2020-07-24-Invymark.html) | Invymark <br> laSexta | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [9–19 July 2020](2020-07-19-CIS.html) | CIS | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
+| [9–19 July 2020](2020-07-19-CIS.html) | CIS | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | [14–18 July 2020](2020-07-18-NCReport.html) | NC Report <br> La Razón | 15 | 14–17 | 14–17 | 13–18 | 13–19 |
 | [12–17 July 2020](2020-07-17-electoPanel.html) | electoPanel <br> electomania.es | 16 | 14–16 | 14–16 | 13–16 | 13–17 |
 | [17 July 2020](2020-07-17-KeyData.html) | Key Data <br> Público | 15 | 13–17 | 13–17 | 12–18 | 11–18 |
@@ -550,11 +550,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0.1% | 100% |  |
-| 11 | 4% | 99.9% |  |
-| 12 | 15% | 96% |  |
-| 13 | 16% | 81% |  |
-| 14 | 29% | 65% | Median |
-| 15 | 12% | 36% |  |
+| 11 | 2% | 99.9% |  |
+| 12 | 13% | 98% |  |
+| 13 | 19% | 84% |  |
+| 14 | 25% | 65% | Median |
+| 15 | 16% | 40% |  |
 | 16 | 13% | 24% |  |
 | 17 | 9% | 11% |  |
 | 18 | 2% | 2% |  |
