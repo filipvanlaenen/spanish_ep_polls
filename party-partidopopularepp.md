@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.9% | 19.8–27.3% | 19.2–28.0% | 18.8–28.6% | 18.1–29.5% |
+| N/A | [Poll Average](average.html) | 23.2% | 19.9–27.2% | 19.2–28.0% | 18.8–28.5% | 18.1–29.5% |
+| [3–6 August 2020](2020-08-06-electoPanel.html) | electoPanel <br> electomania.es | 23.0% | 21.9–24.2% | 21.6–24.6% | 21.3–24.9% | 20.7–25.4% |
+| [3–4 August 2020](2020-08-04-electoPanel.html) | electoPanel <br> electomania.es | 23.1% | 21.7–24.5% | 21.4–24.9% | 21.0–25.3% | 20.4–26.0% |
 | [25–31 July 2020](2020-07-31-electoPanel.html) | electoPanel <br> electomania.es | 23.0% | 21.7–24.4% | 21.4–24.7% | 21.0–25.1% | 20.5–25.7% |
+| [27–31 July 2020](2020-07-31-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 24.4% | 22.4–26.6% | 21.8–27.2% | 21.4–27.7% | 20.4–28.8% |
 | [26 July 2020](2020-07-26-Metroscopia.html) | Metroscopia | 25.0% | 23.4–26.8% | 22.9–27.3% | 22.5–27.7% | 21.8–28.5% |
 | [20–24 July 2020](2020-07-24-electoPanel.html) | electoPanel <br> electomania.es | 22.7% | 21.4–24.2% | 21.0–24.6% | 20.7–24.9% | 20.0–25.6% |
 | [20–24 July 2020](2020-07-24-Invymark.html) | Invymark <br> laSexta | 21.4% | 19.8–23.1% | 19.4–23.6% | 19.0–24.1% | 18.2–24.9% |
@@ -270,19 +273,19 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 2% | 99.9% |  |
-| 18.5–19.5% | 7% | 98% |  |
-| 19.5–20.5% | 10% | 92% |  |
-| 20.5–21.5% | 14% | 82% |  |
-| 21.5–22.5% | 14% | 68% |  |
-| 22.5–23.5% | 12% | 55% | Median |
-| 23.5–24.5% | 11% | 42% |  |
-| 24.5–25.5% | 9% | 32% |  |
-| 25.5–26.5% | 7% | 23% |  |
+| 17.5–18.5% | 1.4% | 99.9% |  |
+| 18.5–19.5% | 6% | 98.6% |  |
+| 19.5–20.5% | 9% | 93% |  |
+| 20.5–21.5% | 12% | 84% |  |
+| 21.5–22.5% | 13% | 71% |  |
+| 22.5–23.5% | 13% | 58% | Median |
+| 23.5–24.5% | 12% | 45% |  |
+| 24.5–25.5% | 10% | 33% |  |
+| 25.5–26.5% | 8% | 23% |  |
 | 26.5–27.5% | 7% | 15% |  |
-| 27.5–28.5% | 6% | 8% |  |
-| 28.5–29.5% | 2% | 3% |  |
-| 29.5–30.5% | 0.4% | 0.4% |  |
+| 27.5–28.5% | 5% | 8% |  |
+| 28.5–29.5% | 2% | 2% |  |
+| 29.5–30.5% | 0.3% | 0.4% |  |
 | 30.5–31.5% | 0.1% | 0.1% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
@@ -296,7 +299,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–17 | 12–17 | 12–17 | 11–18 |
+| [3–6 August 2020](2020-08-06-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 13–16 | 13–16 | 13–16 |
+| [3–4 August 2020](2020-08-04-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14–15 | 13–16 | 13–16 | 13–17 |
 | [25–31 July 2020](2020-07-31-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14–15 | 13–16 | 13–16 | 13–16 |
+| [27–31 July 2020](2020-07-31-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 13–16 | 13–16 | 13–17 | 13–18 |
 | [26 July 2020](2020-07-26-Metroscopia.html) | Metroscopia | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [20–24 July 2020](2020-07-24-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14–15 | 13–15 | 13–16 | 12–16 |
 | [20–24 July 2020](2020-07-24-Invymark.html) | Invymark <br> laSexta | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
@@ -551,12 +557,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0.1% | 100% |  |
 | 11 | 2% | 99.9% |  |
-| 12 | 13% | 98% |  |
-| 13 | 19% | 84% |  |
-| 14 | 25% | 65% | Median |
-| 15 | 16% | 40% |  |
-| 16 | 13% | 24% |  |
-| 17 | 9% | 11% |  |
+| 12 | 12% | 98% |  |
+| 13 | 18% | 86% |  |
+| 14 | 23% | 67% | Median |
+| 15 | 20% | 44% |  |
+| 16 | 14% | 24% |  |
+| 17 | 8% | 10% |  |
 | 18 | 2% | 2% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |

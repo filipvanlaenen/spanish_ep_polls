@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.1% | 5.0–9.0% | 4.7–9.3% | 4.5–9.6% | 4.0–10.2% |
+| N/A | [Poll Average](average.html) | 6.8% | 4.9–9.0% | 4.6–9.3% | 4.4–9.6% | 3.8–10.2% |
+| [3–6 August 2020](2020-08-06-electoPanel.html) | electoPanel <br> electomania.es | 7.7% | 7.0–8.5% | 6.8–8.7% | 6.7–8.9% | 6.3–9.3% |
+| [3–4 August 2020](2020-08-04-electoPanel.html) | electoPanel <br> electomania.es | 7.9% | 7.1–8.9% | 6.8–9.1% | 6.7–9.4% | 6.3–9.9% |
 | [25–31 July 2020](2020-07-31-electoPanel.html) | electoPanel <br> electomania.es | 7.7% | 6.9–8.6% | 6.7–8.9% | 6.5–9.1% | 6.2–9.5% |
+| [27–31 July 2020](2020-07-31-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5.2% | 4.3–6.5% | 4.1–6.8% | 3.8–7.2% | 3.4–7.8% |
 | [26 July 2020](2020-07-26-Metroscopia.html) | Metroscopia | 5.5% | 4.7–6.5% | 4.5–6.8% | 4.3–7.0% | 3.9–7.5% |
 | [20–24 July 2020](2020-07-24-electoPanel.html) | electoPanel <br> electomania.es | 7.9% | 7.1–8.9% | 6.9–9.2% | 6.7–9.4% | 6.3–9.9% |
 | [20–24 July 2020](2020-07-24-Invymark.html) | Invymark <br> laSexta | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
@@ -255,14 +258,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 3% | 99.9% |  |
-| 4.5–5.5% | 19% | 97% |  |
-| 5.5–6.5% | 19% | 78% |  |
-| 6.5–7.5% | 16% | 59% | Median |
-| 7.5–8.5% | 22% | 43% |  |
-| 8.5–9.5% | 18% | 21% |  |
-| 9.5–10.5% | 3% | 3% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 4% | 99.8% |  |
+| 4.5–5.5% | 22% | 96% |  |
+| 5.5–6.5% | 20% | 74% |  |
+| 6.5–7.5% | 15% | 54% | Median |
+| 7.5–8.5% | 20% | 39% |  |
+| 8.5–9.5% | 16% | 19% |  |
+| 9.5–10.5% | 2% | 3% |  |
 | 10.5–11.5% | 0.2% | 0.2% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -276,7 +279,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 2–6 | 2–6 | 2–6 |
+| [3–6 August 2020](2020-08-06-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [3–4 August 2020](2020-08-04-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [25–31 July 2020](2020-07-31-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [27–31 July 2020](2020-07-31-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3 | 2–3 | 2–4 | 2–4 | 2–5 |
 | [26 July 2020](2020-07-26-Metroscopia.html) | Metroscopia | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [20–24 July 2020](2020-07-24-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [20–24 July 2020](2020-07-24-Invymark.html) | Invymark <br> laSexta | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
@@ -521,11 +527,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 6% | 100% |  |
-| 3 | 32% | 94% |  |
-| 4 | 27% | 62% | Median |
-| 5 | 28% | 35% |  |
-| 6 | 7% | 7% |  |
+| 2 | 9% | 100% |  |
+| 3 | 34% | 91% |  |
+| 4 | 23% | 57% | Median |
+| 5 | 28% | 34% |  |
+| 6 | 6% | 7% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
