@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.4% | 11.3–15.7% | 10.9–16.4% | 10.6–17.0% | 9.9–18.1% |
+| N/A | [Poll Average](average.html) | 13.5% | 11.3–15.7% | 10.9–16.3% | 10.5–16.9% | 9.8–18.0% |
+| [10–13 August 2020](2020-08-13-electoPanel.html) | electoPanel <br> electomania.es | 14.7% | 13.7–15.8% | 13.4–16.1% | 13.1–16.4% | 12.7–17.0% |
 | [3–6 August 2020](2020-08-06-electoPanel.html) | electoPanel <br> electomania.es | 14.1% | 13.2–15.1% | 12.9–15.4% | 12.7–15.6% | 12.3–16.1% |
 | [3–4 August 2020](2020-08-04-electoPanel.html) | electoPanel <br> electomania.es | 14.1% | 13.0–15.3% | 12.7–15.7% | 12.5–16.0% | 11.9–16.6% |
 | [25–31 July 2020](2020-07-31-electoPanel.html) | electoPanel <br> electomania.es | 14.2% | 13.1–15.3% | 12.8–15.6% | 12.6–15.9% | 12.1–16.5% |
@@ -265,15 +266,15 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 2% | 99.8% |  |
-| 10.5–11.5% | 13% | 98% |  |
-| 11.5–12.5% | 19% | 85% |  |
-| 12.5–13.5% | 18% | 65% | Median |
-| 13.5–14.5% | 20% | 47% |  |
-| 14.5–15.5% | 15% | 27% |  |
-| 15.5–16.5% | 8% | 12% |  |
+| 9.5–10.5% | 2% | 99.7% |  |
+| 10.5–11.5% | 11% | 97% |  |
+| 11.5–12.5% | 18% | 87% |  |
+| 12.5–13.5% | 19% | 69% |  |
+| 13.5–14.5% | 20% | 50% | Median |
+| 14.5–15.5% | 17% | 30% |  |
+| 15.5–16.5% | 9% | 12% |  |
 | 16.5–17.5% | 3% | 4% |  |
-| 17.5–18.5% | 0.9% | 1.2% |  |
+| 17.5–18.5% | 0.8% | 1.0% |  |
 | 18.5–19.5% | 0.2% | 0.2% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
@@ -287,6 +288,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–10 | 6–10 | 6–10 | 6–11 |
+| [10–13 August 2020](2020-08-13-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [3–6 August 2020](2020-08-06-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [3–4 August 2020](2020-08-04-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [25–31 July 2020](2020-07-31-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
@@ -539,11 +541,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.2% | 100% |  |
-| 6 | 7% | 99.8% |  |
-| 7 | 30% | 93% |  |
-| 8 | 32% | 63% | Median |
-| 9 | 21% | 32% |  |
-| 10 | 9% | 10% |  |
+| 6 | 8% | 99.8% |  |
+| 7 | 26% | 92% |  |
+| 8 | 31% | 66% | Median |
+| 9 | 21% | 36% |  |
+| 10 | 12% | 14% |  |
 | 11 | 2% | 2% |  |
 | 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% |  |
