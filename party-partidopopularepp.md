@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.8% | 19.8–27.5% | 19.2–28.2% | 18.8–28.7% | 18.1–29.6% |
+| N/A | [Poll Average](average.html) | 23.7% | 19.9–27.4% | 19.2–28.1% | 18.8–28.6% | 18.1–29.5% |
 | [10–13 August 2020](2020-08-13-electoPanel.html) | electoPanel <br> electomania.es | 22.9% | 21.7–24.2% | 21.3–24.6% | 21.0–24.9% | 20.5–25.6% |
 | [3–6 August 2020](2020-08-06-electoPanel.html) | electoPanel <br> electomania.es | 23.0% | 21.9–24.2% | 21.6–24.6% | 21.3–24.9% | 20.7–25.4% |
+| [3–6 August 2020](2020-08-06-SimpleLógica.html) | Simple Lógica | 22.9% | 20.9–25.1% | 20.4–25.7% | 19.9–26.2% | 19.0–27.3% |
 | [3–4 August 2020](2020-08-04-electoPanel.html) | electoPanel <br> electomania.es | 23.1% | 21.7–24.5% | 21.4–24.9% | 21.0–25.3% | 20.4–26.0% |
 | [25–31 July 2020](2020-07-31-electoPanel.html) | electoPanel <br> electomania.es | 23.0% | 21.7–24.4% | 21.4–24.7% | 21.0–25.1% | 20.5–25.7% |
 | [27–31 July 2020](2020-07-31-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 24.4% | 22.4–26.6% | 21.8–27.2% | 21.4–27.7% | 20.4–28.8% |
@@ -274,17 +275,17 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 2% | 99.9% |  |
-| 18.5–19.5% | 7% | 98% |  |
+| 17.5–18.5% | 1.4% | 99.9% |  |
+| 18.5–19.5% | 6% | 98.5% |  |
 | 19.5–20.5% | 7% | 92% |  |
-| 20.5–21.5% | 7% | 84% |  |
-| 21.5–22.5% | 10% | 77% |  |
-| 22.5–23.5% | 13% | 67% |  |
-| 23.5–24.5% | 14% | 54% | Median |
-| 24.5–25.5% | 12% | 41% |  |
-| 25.5–26.5% | 10% | 29% |  |
-| 26.5–27.5% | 9% | 18% |  |
-| 27.5–28.5% | 6% | 9% |  |
+| 20.5–21.5% | 7% | 85% |  |
+| 21.5–22.5% | 11% | 78% |  |
+| 22.5–23.5% | 14% | 66% |  |
+| 23.5–24.5% | 14% | 52% | Median |
+| 24.5–25.5% | 12% | 38% |  |
+| 25.5–26.5% | 9% | 26% |  |
+| 26.5–27.5% | 8% | 17% |  |
+| 27.5–28.5% | 6% | 8% |  |
 | 28.5–29.5% | 2% | 3% |  |
 | 29.5–30.5% | 0.4% | 0.5% |  |
 | 30.5–31.5% | 0.1% | 0.1% |  |
@@ -299,9 +300,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 12–17 | 12–17 | 12–17 | 11–18 |
+| N/A | [Poll Average](average.html) | 14 | 12–17 | 12–17 | 12–17 | 11–18 |
 | [10–13 August 2020](2020-08-13-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14–16 | 14–16 | 14–16 | 13–16 |
 | [3–6 August 2020](2020-08-06-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 13–16 | 13–16 | 13–16 |
+| [3–6 August 2020](2020-08-06-SimpleLógica.html) | Simple Lógica | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [3–4 August 2020](2020-08-04-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14–15 | 13–16 | 13–16 | 13–17 |
 | [25–31 July 2020](2020-07-31-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14–15 | 13–16 | 13–16 | 13–16 |
 | [27–31 July 2020](2020-07-31-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 13–16 | 13–16 | 13–17 | 13–18 |
@@ -560,11 +562,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 2% | 100% |  |
 | 12 | 12% | 98% |  |
-| 13 | 13% | 86% |  |
-| 14 | 23% | 74% |  |
-| 15 | 19% | 50% | Median |
-| 16 | 18% | 31% |  |
-| 17 | 11% | 13% |  |
+| 13 | 15% | 86% |  |
+| 14 | 25% | 72% | Median |
+| 15 | 19% | 47% |  |
+| 16 | 17% | 28% |  |
+| 17 | 9% | 11% |  |
 | 18 | 2% | 2% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
