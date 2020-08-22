@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.5% | 9.8–13.3% | 9.4–13.8% | 9.1–14.4% | 8.5–15.8% |
+| N/A | [Poll Average](average.html) | 11.5% | 10.1–13.0% | 9.7–13.5% | 9.4–13.9% | 8.7–14.7% |
+| [19–21 August 2020](2020-08-21-SWDemoscopia.html) | SW Demoscopia | 11.4% | 10.2–12.8% | 9.8–13.2% | 9.6–13.5% | 9.0–14.2% |
 | [10–13 August 2020](2020-08-13-electoPanel.html) | electoPanel <br> electomania.es | 11.5% | 10.6–12.5% | 10.3–12.8% | 10.1–13.0% | 9.7–13.5% |
 | [3–6 August 2020](2020-08-06-electoPanel.html) | electoPanel <br> electomania.es | 11.6% | 10.7–12.5% | 10.5–12.8% | 10.3–13.0% | 9.9–13.5% |
 | [3–6 August 2020](2020-08-06-SimpleLógica.html) | Simple Lógica | 11.5% | 10.0–13.2% | 9.6–13.6% | 9.3–14.1% | 8.6–14.9% |
@@ -265,18 +266,16 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.5% | 100% |  |
-| 8.5–9.5% | 6% | 99.4% |  |
-| 9.5–10.5% | 19% | 94% |  |
-| 10.5–11.5% | 26% | 75% | Median |
-| 11.5–12.5% | 26% | 49% |  |
-| 12.5–13.5% | 16% | 23% |  |
-| 13.5–14.5% | 5% | 7% |  |
-| 14.5–15.5% | 1.4% | 2% |  |
-| 15.5–16.5% | 0.5% | 0.7% |  |
-| 16.5–17.5% | 0.2% | 0.2% |  |
-| 17.5–18.5% | 0% | 0.1% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.3% | 100% |  |
+| 8.5–9.5% | 4% | 99.7% |  |
+| 9.5–10.5% | 16% | 96% |  |
+| 10.5–11.5% | 33% | 81% | Median |
+| 11.5–12.5% | 30% | 48% |  |
+| 12.5–13.5% | 14% | 18% |  |
+| 13.5–14.5% | 4% | 4% |  |
+| 14.5–15.5% | 0.6% | 0.7% |  |
+| 15.5–16.5% | 0.1% | 0.1% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -287,7 +286,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [19–21 August 2020](2020-08-21-SWDemoscopia.html) | SW Demoscopia | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [10–13 August 2020](2020-08-13-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–8 | 6–8 | 6–9 |
 | [3–6 August 2020](2020-08-06-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [3–6 August 2020](2020-08-06-SimpleLógica.html) | Simple Lógica | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
@@ -541,12 +541,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
-| 5 | 7% | 99.9% |  |
-| 6 | 37% | 93% |  |
-| 7 | 34% | 56% | Median |
-| 8 | 19% | 22% |  |
-| 9 | 3% | 3% |  |
-| 10 | 0.2% | 0.2% |  |
-| 11 | 0% | 0% |  |
+| 5 | 4% | 99.9% |  |
+| 6 | 35% | 96% |  |
+| 7 | 45% | 61% | Median |
+| 8 | 15% | 16% |  |
+| 9 | 1.2% | 1.2% |  |
+| 10 | 0% | 0% |  |
 
 
