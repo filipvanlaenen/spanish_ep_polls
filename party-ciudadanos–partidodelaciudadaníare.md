@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.9% | 5.0–9.4% | 4.6–10.1% | 4.4–10.5% | 3.8–11.4% |
+| [18–21 August 2020](2020-08-21-electoPanel.html) | electoPanel <br> electomania.es | 7.4% | 6.6–8.3% | 6.3–8.6% | 6.2–8.8% | 5.8–9.3% |
 | [19–21 August 2020](2020-08-21-SWDemoscopia.html) | SW Demoscopia | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.3–12.1% |
 | [10–13 August 2020](2020-08-13-electoPanel.html) | electoPanel <br> electomania.es | 7.2% | 6.5–8.1% | 6.3–8.3% | 6.1–8.5% | 5.8–8.9% |
 | [3–6 August 2020](2020-08-06-electoPanel.html) | electoPanel <br> electomania.es | 7.7% | 7.0–8.5% | 6.8–8.7% | 6.7–8.9% | 6.3–9.3% |
@@ -265,9 +266,9 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 4% | 99.8% |  |
 | 4.5–5.5% | 17% | 96% |  |
 | 5.5–6.5% | 21% | 79% |  |
-| 6.5–7.5% | 22% | 57% | Median |
-| 7.5–8.5% | 16% | 35% |  |
-| 8.5–9.5% | 10% | 19% |  |
+| 6.5–7.5% | 21% | 58% | Median |
+| 7.5–8.5% | 17% | 37% |  |
+| 8.5–9.5% | 11% | 20% |  |
 | 9.5–10.5% | 6% | 9% |  |
 | 10.5–11.5% | 2% | 2% |  |
 | 11.5–12.5% | 0.3% | 0.3% |  |
@@ -283,6 +284,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 2–6 | 2–6 | 2–7 |
+| [18–21 August 2020](2020-08-21-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [19–21 August 2020](2020-08-21-SWDemoscopia.html) | SW Demoscopia | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [10–13 August 2020](2020-08-13-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [3–6 August 2020](2020-08-06-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -536,10 +538,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 10% | 100% |  |
 | 3 | 31% | 90% |  |
-| 4 | 32% | 59% | Median |
-| 5 | 19% | 27% |  |
-| 6 | 6% | 8% |  |
-| 7 | 1.5% | 2% |  |
+| 4 | 29% | 60% | Median |
+| 5 | 23% | 30% |  |
+| 6 | 6% | 7% |  |
+| 7 | 1.3% | 1.4% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
