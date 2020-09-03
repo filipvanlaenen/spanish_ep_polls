@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.6% | 20.0–25.7% | 19.3–26.4% | 18.8–27.0% | 17.9–28.0% |
+| N/A | [Poll Average](average.html) | 23.1% | 20.1–25.8% | 19.4–26.4% | 18.9–26.9% | 17.9–28.0% |
+| [28–30 August 2020](2020-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 24.1% | 22.4–25.8% | 21.9–26.4% | 21.5–26.8% | 20.7–27.7% |
+| [25–29 August 2020](2020-08-29-NCReport.html) | NC Report <br> La Razón | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.5% | 21.3–28.4% |
+| [23–27 August 2020](2020-08-27-electoPanel.html) | electoPanel <br> electomania.es | 21.4% | 20.0–22.8% | 19.7–23.3% | 19.3–23.6% | 18.7–24.3% |
 | [18–21 August 2020](2020-08-21-electoPanel.html) | electoPanel <br> electomania.es | 22.1% | 20.8–23.5% | 20.4–23.9% | 20.1–24.3% | 19.5–25.0% |
 | [19–21 August 2020](2020-08-21-SWDemoscopia.html) | SW Demoscopia | 20.2% | 18.6–21.9% | 18.2–22.4% | 17.8–22.8% | 17.1–23.6% |
 | [10–13 August 2020](2020-08-13-electoPanel.html) | electoPanel <br> electomania.es | 22.9% | 21.7–24.2% | 21.3–24.6% | 21.0–24.9% | 20.5–25.6% |
@@ -277,17 +280,17 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.2% | 100% |  |
-| 17.5–18.5% | 1.4% | 99.7% |  |
-| 18.5–19.5% | 5% | 98% |  |
-| 19.5–20.5% | 10% | 94% |  |
-| 20.5–21.5% | 15% | 84% |  |
-| 21.5–22.5% | 18% | 68% |  |
-| 22.5–23.5% | 15% | 51% | Median |
-| 23.5–24.5% | 13% | 35% |  |
-| 24.5–25.5% | 11% | 22% |  |
-| 25.5–26.5% | 7% | 11% |  |
+| 17.5–18.5% | 1.3% | 99.8% |  |
+| 18.5–19.5% | 4% | 98% |  |
+| 19.5–20.5% | 9% | 94% |  |
+| 20.5–21.5% | 13% | 85% |  |
+| 21.5–22.5% | 14% | 72% |  |
+| 22.5–23.5% | 15% | 58% | Median |
+| 23.5–24.5% | 17% | 43% |  |
+| 24.5–25.5% | 14% | 26% |  |
+| 25.5–26.5% | 8% | 12% |  |
 | 26.5–27.5% | 3% | 4% |  |
-| 27.5–28.5% | 0.9% | 1.1% |  |
+| 27.5–28.5% | 0.8% | 1.0% |  |
 | 28.5–29.5% | 0.2% | 0.2% |  |
 | 29.5–30.5% | 0% | 0% |  |
 
@@ -300,7 +303,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
+| [28–30 August 2020](2020-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
+| [25–29 August 2020](2020-08-29-NCReport.html) | NC Report <br> La Razón | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
+| [23–27 August 2020](2020-08-27-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14 | 13–15 | 13–15 | 12–15 |
 | [18–21 August 2020](2020-08-21-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–15 | 13–15 | 13–15 | 12–16 |
 | [19–21 August 2020](2020-08-21-SWDemoscopia.html) | SW Demoscopia | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [10–13 August 2020](2020-08-13-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14–16 | 14–16 | 14–16 | 13–16 |
@@ -561,15 +567,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.2% | 100% |  |
-| 11 | 4% | 99.8% |  |
-| 12 | 14% | 96% |  |
-| 13 | 29% | 82% |  |
-| 14 | 25% | 53% | Median |
-| 15 | 19% | 28% |  |
-| 16 | 8% | 9% |  |
-| 17 | 1.1% | 1.2% |  |
-| 18 | 0.1% | 0.1% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 3% | 99.9% |  |
+| 12 | 9% | 97% |  |
+| 13 | 16% | 88% |  |
+| 14 | 31% | 73% | Median |
+| 15 | 27% | 42% |  |
+| 16 | 12% | 15% |  |
+| 17 | 3% | 3% |  |
+| 18 | 0.2% | 0.3% |  |
 | 19 | 0% | 0% |  |
 
 
