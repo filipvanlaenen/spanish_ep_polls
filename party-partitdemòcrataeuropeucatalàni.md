@@ -282,7 +282,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [28–30 August 2020](2020-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25–29 August 2020](2020-08-29-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [23–27 August 2020](2020-08-27-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [23–27 August 2020](2020-08-27-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–21 August 2020](2020-08-21-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–21 August 2020](2020-08-21-SWDemoscopia.html) | SW Demoscopia | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [10–13 August 2020](2020-08-13-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -534,8 +534,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.2% | 100% | Last Result |
-| 1 | 83% | 98.8% | Median |
-| 2 | 16% | 16% |  |
+| 1 | 80% | 98.8% | Median |
+| 2 | 19% | 19% |  |
 | 3 | 0% | 0% |  |
 
 

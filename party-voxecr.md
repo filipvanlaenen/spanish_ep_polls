@@ -293,10 +293,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 7–11 | 7–11 | 6–11 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 7–11 | 7–11 | 6–12 |
 | [28–30 August 2020](2020-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [25–29 August 2020](2020-08-29-NCReport.html) | NC Report <br> La Razón | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
-| [23–27 August 2020](2020-08-27-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10–11 | 10–11 | 9–11 | 8–11 |
+| [23–27 August 2020](2020-08-27-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–10 | 9–11 | 8–12 | 8–12 |
 | [18–21 August 2020](2020-08-21-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [19–21 August 2020](2020-08-21-SWDemoscopia.html) | SW Demoscopia | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [10–13 August 2020](2020-08-13-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
@@ -555,11 +555,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0.5% | 100% |  |
 | 7 | 6% | 99.4% |  |
-| 8 | 23% | 93% |  |
-| 9 | 32% | 70% | Median |
-| 10 | 32% | 38% |  |
-| 11 | 6% | 6% |  |
-| 12 | 0.3% | 0.3% |  |
+| 8 | 24% | 93% |  |
+| 9 | 37% | 70% | Median |
+| 10 | 27% | 33% |  |
+| 11 | 5% | 6% |  |
+| 12 | 0.7% | 0.7% |  |
 | 13 | 0% | 0% |  |
 
 
