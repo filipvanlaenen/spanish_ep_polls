@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.9% | 5.5–9.9% | 5.1–10.4% | 4.9–10.8% | 4.4–11.5% |
+| N/A | [Poll Average](average.html) | 7.6% | 5.5–9.9% | 5.1–10.3% | 4.8–10.8% | 4.4–11.5% |
 | [6 September 2020](2020-09-06-SigmaDos.html) | Sigma Dos <br> Antena 3 | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [30 August–3 September 2020](2020-09-03-electoPanel.html) | electoPanel <br> electomania.es | 8.2% | 7.3–9.3% | 7.0–9.6% | 6.8–9.9% | 6.4–10.4% |
 | [28–30 August 2020](2020-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 8.7% | 7.7–10.0% | 7.4–10.3% | 7.1–10.7% | 6.7–11.3% |
@@ -268,13 +268,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.9% | 100% |  |
-| 4.5–5.5% | 10% | 99.1% |  |
+| 3.5–4.5% | 1.1% | 100% |  |
+| 4.5–5.5% | 10% | 98.9% |  |
 | 5.5–6.5% | 19% | 89% |  |
-| 6.5–7.5% | 13% | 70% |  |
-| 7.5–8.5% | 20% | 56% | Median |
-| 8.5–9.5% | 22% | 37% |  |
-| 9.5–10.5% | 11% | 15% |  |
+| 6.5–7.5% | 19% | 70% |  |
+| 7.5–8.5% | 19% | 51% | Median |
+| 8.5–9.5% | 17% | 31% |  |
+| 9.5–10.5% | 11% | 14% |  |
 | 10.5–11.5% | 3% | 4% |  |
 | 11.5–12.5% | 0.4% | 0.5% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -288,7 +288,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–6 | 3–6 | 3–6 | 2–7 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 3–6 | 2–7 |
 | [6 September 2020](2020-09-06-SigmaDos.html) | Sigma Dos <br> Antena 3 | 3 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [30 August–3 September 2020](2020-09-03-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [28–30 August 2020](2020-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 5 | 4–6 | 4–6 | 4–7 |
@@ -547,10 +547,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 2% | 100% |  |
-| 3 | 24% | 98% |  |
-| 4 | 19% | 74% |  |
-| 5 | 42% | 56% | Median |
-| 6 | 12% | 14% |  |
+| 3 | 23% | 98% |  |
+| 4 | 28% | 75% | Median |
+| 5 | 38% | 47% |  |
+| 6 | 8% | 9% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
