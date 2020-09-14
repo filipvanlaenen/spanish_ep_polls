@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.7% | 19.9–25.5% | 19.3–26.1% | 18.7–26.7% | 17.8–27.7% |
+| [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 20.3% | 18.9–21.8% | 18.5–22.3% | 18.1–22.6% | 17.5–23.4% |
+| [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta | 22.4% | 20.8–24.2% | 20.3–24.7% | 19.9–25.1% | 19.2–26.0% |
 | [6 September 2020](2020-09-06-SigmaDos.html) | Sigma Dos <br> Antena 3 | 25.3% | 23.6–27.1% | 23.1–27.6% | 22.7–28.1% | 21.9–29.0% |
 | [30 August–3 September 2020](2020-09-03-electoPanel.html) | electoPanel <br> electomania.es | 20.8% | 19.4–22.3% | 19.0–22.8% | 18.6–23.2% | 18.0–23.9% |
 | [28–30 August 2020](2020-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 24.1% | 22.4–25.8% | 21.9–26.4% | 21.5–26.8% | 20.7–27.7% |
@@ -306,6 +308,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
+| [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 14 | 12–14 | 11–14 | 11–14 | 11–15 |
+| [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [6 September 2020](2020-09-06-SigmaDos.html) | Sigma Dos <br> Antena 3 | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [30 August–3 September 2020](2020-09-03-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
 | [28–30 August 2020](2020-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
