@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.0% | 13.1–16.8% | 12.5–17.2% | 12.0–17.7% | 11.1–18.5% |
+| N/A | [Poll Average](average.html) | 15.0% | 13.1–17.0% | 12.6–17.6% | 12.2–18.0% | 11.5–18.9% |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 16.6% | 15.3–18.1% | 15.0–18.5% | 14.6–18.8% | 14.0–19.5% |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta | 14.5% | 13.2–16.0% | 12.8–16.4% | 12.5–16.8% | 11.8–17.6% |
 | [6 September 2020](2020-09-06-SigmaDos.html) | Sigma Dos <br> Antena 3 | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
@@ -276,17 +276,18 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 1.0% | 99.9% |  |
-| 11.5–12.5% | 4% | 98.9% |  |
-| 12.5–13.5% | 11% | 95% |  |
-| 13.5–14.5% | 21% | 83% |  |
-| 14.5–15.5% | 27% | 63% | Median |
-| 15.5–16.5% | 23% | 36% |  |
-| 16.5–17.5% | 10% | 13% |  |
-| 17.5–18.5% | 3% | 3% |  |
-| 18.5–19.5% | 0.4% | 0.4% |  |
-| 19.5–20.5% | 0% | 0% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.5% | 100% |  |
+| 11.5–12.5% | 4% | 99.5% |  |
+| 12.5–13.5% | 13% | 96% |  |
+| 13.5–14.5% | 22% | 83% |  |
+| 14.5–15.5% | 24% | 61% | Median |
+| 15.5–16.5% | 20% | 37% |  |
+| 16.5–17.5% | 11% | 17% |  |
+| 17.5–18.5% | 4% | 5% |  |
+| 18.5–19.5% | 0.9% | 1.0% |  |
+| 19.5–20.5% | 0.1% | 0.1% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -297,7 +298,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 7–11 | 7–11 | 6–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [6 September 2020](2020-09-06-SigmaDos.html) | Sigma Dos <br> Antena 3 | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
@@ -561,13 +562,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.6% | 100% |  |
-| 7 | 6% | 99.4% |  |
-| 8 | 22% | 93% |  |
-| 9 | 40% | 71% | Median |
-| 10 | 25% | 31% |  |
-| 11 | 5% | 6% |  |
-| 12 | 0.7% | 0.7% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 4% | 99.8% |  |
+| 8 | 27% | 95% |  |
+| 9 | 37% | 69% | Median |
+| 10 | 21% | 32% |  |
+| 11 | 10% | 11% |  |
+| 12 | 1.1% | 1.1% |  |
 | 13 | 0% | 0% |  |
 
 

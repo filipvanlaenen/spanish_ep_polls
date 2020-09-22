@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.2–2.9% | 1.0–3.1% | 0.9–3.3% | 0.7–3.7% |
+| N/A | [Poll Average](average.html) | 2.0% | 0.9–2.8% | 0.7–3.1% | 0.6–3.3% | 0.5–3.7% |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 2.2% | 1.7–2.9% | 1.6–3.0% | 1.5–3.2% | 1.3–3.5% |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [6 September 2020](2020-09-06-SigmaDos.html) | Sigma Dos <br> Antena 3 | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
@@ -266,11 +266,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 22% | 99.9% |  |
-| 1.5–2.5% | 55% | 78% | Median |
-| 2.5–3.5% | 23% | 24% |  |
-| 3.5–4.5% | 1.0% | 1.0% |  |
+| 0.0–0.5% | 1.1% | 100% | Last Result |
+| 0.5–1.5% | 35% | 98.9% |  |
+| 1.5–2.5% | 43% | 64% | Median |
+| 2.5–3.5% | 20% | 21% |  |
+| 3.5–4.5% | 0.8% | 0.9% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -540,9 +540,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 21% | 100% | Last Result |
-| 1 | 75% | 79% | Median |
-| 2 | 4% | 4% |  |
+| 0 | 35% | 100% | Last Result |
+| 1 | 62% | 65% | Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 
