@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.0% | 19.6–26.0% | 19.0–26.6% | 18.6–27.2% | 17.7–28.2% |
+| N/A | [Poll Average](average.html) | 23.2% | 19.8–25.8% | 19.2–26.5% | 18.8–27.0% | 17.9–28.1% |
+| [16–20 September 2020](2020-09-20-DYM.html) | DYM <br> Henneo | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.5–26.7% | 20.7–27.6% |
+| [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 20.1% | 18.9–21.4% | 18.5–21.8% | 18.2–22.1% | 17.6–22.8% |
+| [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 24.0% | 21.9–26.3% | 21.4–27.0% | 20.9–27.6% | 19.9–28.7% |
+| [17–19 September 2020](2020-09-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 23.5% | 21.8–25.3% | 21.4–25.8% | 21.0–26.2% | 20.2–27.1% |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 20.3% | 18.9–21.8% | 18.5–22.3% | 18.1–22.6% | 17.5–23.4% |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta | 22.4% | 20.8–24.2% | 20.3–24.7% | 19.9–25.1% | 19.2–26.0% |
 | [6 September 2020](2020-09-06-SigmaDos.html) | Sigma Dos <br> Antena 3 | 25.3% | 23.6–27.1% | 23.1–27.6% | 22.7–28.1% | 21.9–29.0% |
@@ -283,19 +287,19 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.3% | 100% |  |
-| 17.5–18.5% | 2% | 99.7% |  |
-| 18.5–19.5% | 7% | 98% |  |
-| 19.5–20.5% | 12% | 91% |  |
-| 20.5–21.5% | 12% | 79% |  |
-| 21.5–22.5% | 11% | 67% |  |
-| 22.5–23.5% | 12% | 56% | Median |
-| 23.5–24.5% | 15% | 43% |  |
-| 24.5–25.5% | 14% | 28% |  |
-| 25.5–26.5% | 9% | 15% |  |
-| 26.5–27.5% | 4% | 5% |  |
-| 27.5–28.5% | 1.1% | 1.4% |  |
-| 28.5–29.5% | 0.2% | 0.3% |  |
+| 16.5–17.5% | 0.2% | 100% |  |
+| 17.5–18.5% | 2% | 99.8% |  |
+| 18.5–19.5% | 6% | 98% |  |
+| 19.5–20.5% | 10% | 93% |  |
+| 20.5–21.5% | 10% | 83% |  |
+| 21.5–22.5% | 12% | 72% |  |
+| 22.5–23.5% | 16% | 60% | Median |
+| 23.5–24.5% | 18% | 44% |  |
+| 24.5–25.5% | 14% | 26% |  |
+| 25.5–26.5% | 8% | 13% |  |
+| 26.5–27.5% | 3% | 4% |  |
+| 27.5–28.5% | 0.9% | 1.2% |  |
+| 28.5–29.5% | 0.2% | 0.2% |  |
 | 29.5–30.5% | 0% | 0% |  |
 
 
@@ -307,7 +311,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–17 | 11–17 | 11–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–17 | 11–18 |
+| [16–20 September 2020](2020-09-20-DYM.html) | DYM <br> Henneo | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
+| [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–14 | 11–14 |
+| [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 13–16 | 12–17 | 12–18 |
+| [17–19 September 2020](2020-09-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 14 | 13–16 | 13–16 | 13–17 | 12–18 |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 14 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [6 September 2020](2020-09-06-SigmaDos.html) | Sigma Dos <br> Antena 3 | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
@@ -576,14 +584,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0.1% | 100% |  |
-| 11 | 4% | 99.9% |  |
-| 12 | 12% | 96% |  |
-| 13 | 18% | 83% |  |
-| 14 | 22% | 66% | Median |
-| 15 | 25% | 44% |  |
-| 16 | 14% | 19% |  |
-| 17 | 5% | 5% |  |
-| 18 | 0.5% | 0.5% |  |
+| 11 | 2% | 99.9% |  |
+| 12 | 12% | 98% |  |
+| 13 | 20% | 86% |  |
+| 14 | 25% | 66% | Median |
+| 15 | 25% | 41% |  |
+| 16 | 13% | 16% |  |
+| 17 | 3% | 4% |  |
+| 18 | 0.6% | 0.7% |  |
 | 19 | 0% | 0% |  |
 
 

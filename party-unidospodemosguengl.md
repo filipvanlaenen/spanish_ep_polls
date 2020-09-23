@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.1% | 9.5–12.7% | 9.1–13.1% | 8.7–13.5% | 8.0–14.3% |
+| N/A | [Poll Average](average.html) | 11.4% | 9.7–13.3% | 9.2–13.9% | 8.8–14.3% | 8.1–15.3% |
+| [16–20 September 2020](2020-09-20-DYM.html) | DYM <br> Henneo | 10.8% | 9.6–12.2% | 9.3–12.6% | 9.0–12.9% | 8.5–13.6% |
+| [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 11.1% | 10.2–12.1% | 9.9–12.5% | 9.6–12.7% | 9.2–13.2% |
+| [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 11.4% | 9.9–13.2% | 9.5–13.7% | 9.1–14.1% | 8.4–15.0% |
+| [17–19 September 2020](2020-09-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 13.2% | 11.9–14.7% | 11.6–15.1% | 11.2–15.5% | 10.7–16.2% |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 11.1% | 10.0–12.3% | 9.7–12.7% | 9.4–13.0% | 8.9–13.6% |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta | 11.3% | 10.1–12.7% | 9.8–13.1% | 9.5–13.4% | 8.9–14.1% |
 | [6 September 2020](2020-09-06-SigmaDos.html) | Sigma Dos <br> Antena 3 | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
@@ -274,15 +278,16 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.1% | 100% |  |
-| 7.5–8.5% | 2% | 99.9% |  |
-| 8.5–9.5% | 9% | 98% |  |
-| 9.5–10.5% | 22% | 89% |  |
-| 10.5–11.5% | 32% | 68% | Median |
-| 11.5–12.5% | 24% | 36% |  |
-| 12.5–13.5% | 10% | 12% |  |
-| 13.5–14.5% | 2% | 2% |  |
-| 14.5–15.5% | 0.3% | 0.3% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 7.5–8.5% | 1.4% | 99.9% |  |
+| 8.5–9.5% | 7% | 98.6% |  |
+| 9.5–10.5% | 18% | 92% |  |
+| 10.5–11.5% | 29% | 74% | Median |
+| 11.5–12.5% | 24% | 45% |  |
+| 12.5–13.5% | 13% | 21% |  |
+| 13.5–14.5% | 6% | 7% |  |
+| 14.5–15.5% | 2% | 2% |  |
+| 15.5–16.5% | 0.3% | 0.3% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -293,7 +298,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
+| [16–20 September 2020](2020-09-20-DYM.html) | DYM <br> Henneo | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
+| [17–19 September 2020](2020-09-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [6 September 2020](2020-09-06-SigmaDos.html) | Sigma Dos <br> Antena 3 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
@@ -556,11 +565,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
-| 5 | 15% | 99.9% |  |
-| 6 | 33% | 85% |  |
-| 7 | 40% | 52% | Median |
-| 8 | 11% | 12% |  |
-| 9 | 0.8% | 0.8% |  |
-| 10 | 0% | 0% |  |
+| 5 | 12% | 99.9% |  |
+| 6 | 32% | 88% |  |
+| 7 | 36% | 56% | Median |
+| 8 | 15% | 19% |  |
+| 9 | 4% | 4% |  |
+| 10 | 0.1% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 
