@@ -315,10 +315,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–20 | 14–20 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 15–20 | 14–20 |
 | [16–20 September 2020](2020-09-20-DYM.html) | DYM <br> Henneo | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
-| [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
-| [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 17 | 15–18 | 15–18 | 14–19 | 13–20 |
+| [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–18 | 16–18 | 16–18 | 16–19 |
+| [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
 | [17–19 September 2020](2020-09-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 16 | 15–18 | 15–18 | 15–18 | 14–18 |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
@@ -590,13 +590,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.3% | 100% |  |
-| 14 | 2% | 99.7% |  |
-| 15 | 9% | 97% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 2% | 99.8% |  |
+| 15 | 10% | 98% |  |
 | 16 | 19% | 88% |  |
-| 17 | 30% | 70% | Median |
-| 18 | 28% | 40% |  |
-| 19 | 7% | 11% |  |
+| 17 | 26% | 69% | Median |
+| 18 | 31% | 42% |  |
+| 19 | 8% | 11% |  |
 | 20 | 4% | 4% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |

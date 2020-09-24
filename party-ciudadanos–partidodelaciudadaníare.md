@@ -294,10 +294,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 3–6 | 2–7 |
-| [16–20 September 2020](2020-09-20-DYM.html) | DYM <br> Henneo | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 5 | 3–5 | 3–6 | 3–6 | 2–7 |
+| [16–20 September 2020](2020-09-20-DYM.html) | DYM <br> Henneo | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5 | 4–6 | 4–6 | 4–6 |
+| [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
 | [17–19 September 2020](2020-09-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -558,12 +558,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 1.0% | 100% |  |
-| 3 | 13% | 99.0% |  |
-| 4 | 36% | 86% | Median |
-| 5 | 37% | 50% |  |
-| 6 | 12% | 13% |  |
-| 7 | 1.3% | 1.3% |  |
+| 2 | 0.8% | 100% |  |
+| 3 | 17% | 99.2% |  |
+| 4 | 31% | 82% |  |
+| 5 | 42% | 50% | Median |
+| 6 | 7% | 9% |  |
+| 7 | 1.2% | 1.3% |  |
 | 8 | 0% | 0% |  |
 
 

@@ -300,8 +300,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | [16–20 September 2020](2020-09-20-DYM.html) | DYM <br> Henneo | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
+| [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | [17–19 September 2020](2020-09-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
@@ -566,9 +566,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
 | 5 | 12% | 99.9% |  |
-| 6 | 32% | 88% |  |
-| 7 | 36% | 56% | Median |
-| 8 | 15% | 19% |  |
+| 6 | 25% | 88% |  |
+| 7 | 43% | 63% | Median |
+| 8 | 16% | 20% |  |
 | 9 | 4% | 4% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
