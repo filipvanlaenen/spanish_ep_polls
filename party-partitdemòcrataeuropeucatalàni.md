@@ -10,12 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.7–3.3% | 1.4–3.6% | 1.3–3.8% | 1.0–4.3% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.7–3.4% | 1.4–3.7% | 1.3–3.9% | 1.0–4.6% |
 | [16–20 September 2020](2020-09-20-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 2.6% | 2.1–3.2% | 2.0–3.3% | 1.9–3.5% | 1.7–3.8% |
 | [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 2.6% | 1.9–3.6% | 1.7–3.9% | 1.6–4.1% | 1.3–4.7% |
 | [17–19 September 2020](2020-09-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
+| [18 September 2020](2020-09-18-KeyData.html) | Key Data <br> Público | 2.4% | 1.6–3.8% | 1.4–4.3% | 1.2–4.6% | 0.9–5.4% |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | 2.2–3.4% | 2.0–3.6% | 1.9–3.8% | 1.7–4.1% |
+| [1–11 September 2020](2020-09-11-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [6 September 2020](2020-09-06-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [30 August–3 September 2020](2020-09-03-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | 2.1–3.4% | 2.0–3.6% | 1.9–3.7% | 1.7–4.1% |
@@ -272,11 +274,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 7% | 100% |  |
-| 1.5–2.5% | 43% | 93% |  |
-| 2.5–3.5% | 45% | 50% | Median |
-| 3.5–4.5% | 5% | 5% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 1.5–2.5% | 42% | 93% |  |
+| 2.5–3.5% | 44% | 50% | Median |
+| 3.5–4.5% | 6% | 7% |  |
+| 4.5–5.5% | 0.5% | 0.6% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -292,7 +295,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1–2 | 1–2 |
 | [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [17–19 September 2020](2020-09-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [18 September 2020](2020-09-18-KeyData.html) | Key Data <br> Público | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–11 September 2020](2020-09-11-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [6 September 2020](2020-09-06-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 August–3 September 2020](2020-09-03-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -550,9 +555,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 7% | 100% | Last Result |
-| 1 | 79% | 93% | Median |
-| 2 | 13% | 14% |  |
-| 3 | 0.1% | 0.1% |  |
+| 1 | 78% | 93% | Median |
+| 2 | 15% | 15% |  |
+| 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 
 

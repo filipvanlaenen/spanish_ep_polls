@@ -15,7 +15,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 0.7% | 0.5–1.0% | 0.4–1.1% | 0.4–1.2% | 0.3–1.4% |
 | [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [17–19 September 2020](2020-09-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
+| [18 September 2020](2020-09-18-KeyData.html) | Key Data <br> Público | 0.0% | N/A | N/A | N/A | N/A |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
+| [1–11 September 2020](2020-09-11-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [6 September 2020](2020-09-06-SigmaDos.html) | Sigma Dos <br> Antena 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [30 August–3 September 2020](2020-09-03-electoPanel.html) | electoPanel <br> electomania.es | 0.7% | 0.5–1.1% | 0.4–1.3% | 0.4–1.4% | 0.3–1.6% |
@@ -289,7 +291,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
 | [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [17–19 September 2020](2020-09-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 0 | 0 | 0 | 0–1 | 0–1 |
+| [18 September 2020](2020-09-18-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
+| [1–11 September 2020](2020-09-11-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [6 September 2020](2020-09-06-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
 | [30 August–3 September 2020](2020-09-03-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0–1 |
