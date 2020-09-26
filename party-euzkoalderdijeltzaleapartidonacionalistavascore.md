@@ -16,6 +16,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 1.4% | 1.0–2.3% | 0.9–2.5% | 0.8–2.7% | 0.6–3.2% |
 | [17–19 September 2020](2020-09-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [18 September 2020](2020-09-18-KeyData.html) | Key Data <br> Público | 1.5% | 0.9–2.7% | 0.8–3.1% | 0.7–3.4% | 0.5–4.1% |
+| [17 September 2020](2020-09-17-Metroscopia.html) | Metroscopia | 0.0% | N/A | N/A | N/A | N/A |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.0–1.8% | 0.9–2.0% | 0.8–2.1% | 0.7–2.4% |
 | [1–11 September 2020](2020-09-11-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
@@ -83,6 +84,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [26–29 April 2020](2020-04-29-electoPanel.html) | electoPanel <br> electomania.es | 1.4% | 1.1–1.9% | 1.0–2.0% | 0.9–2.2% | 0.8–2.4% |
 | [23–25 April 2020](2020-04-25-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.8–2.7% |
+| [20–24 April 2020](2020-04-24-Metroscopia.html) | Metroscopia | 0.0% | N/A | N/A | N/A | N/A |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.9–2.1% | 0.7–2.3% |
 | [17 April 2020](2020-04-17-KeyData.html) | Key Data <br> Público | 1.4% | 0.9–2.7% | 0.7–3.0% | 0.6–3.3% | 0.4–4.0% |
 | [14–17 April 2020](2020-04-17-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
@@ -294,6 +296,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [17–19 September 2020](2020-09-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18 September 2020](2020-09-18-KeyData.html) | Key Data <br> Público | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [17 September 2020](2020-09-17-Metroscopia.html) | Metroscopia |  |  |  |  |  |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–11 September 2020](2020-09-11-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
@@ -361,6 +364,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–29 April 2020](2020-04-29-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–25 April 2020](2020-04-25-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [20–24 April 2020](2020-04-24-Metroscopia.html) | Metroscopia |  |  |  |  |  |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17 April 2020](2020-04-17-KeyData.html) | Key Data <br> Público | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [14–17 April 2020](2020-04-17-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

@@ -10,12 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.1% | 19.9–25.7% | 19.3–26.4% | 18.8–27.0% | 17.9–28.2% |
+| N/A | [Poll Average](average.html) | 22.8% | 19.8–25.6% | 19.2–26.3% | 18.7–26.9% | 17.8–28.1% |
 | [16–20 September 2020](2020-09-20-DYM.html) | DYM <br> Henneo | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.5–26.7% | 20.7–27.6% |
 | [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 20.1% | 18.9–21.4% | 18.5–21.8% | 18.2–22.1% | 17.6–22.8% |
 | [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 24.0% | 21.9–26.3% | 21.4–27.0% | 20.9–27.6% | 19.9–28.7% |
 | [17–19 September 2020](2020-09-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 23.5% | 21.8–25.3% | 21.4–25.8% | 21.0–26.2% | 20.2–27.1% |
 | [18 September 2020](2020-09-18-KeyData.html) | Key Data <br> Público | 22.9% | 20.2–26.0% | 19.4–26.9% | 18.7–27.7% | 17.5–29.3% |
+| [17 September 2020](2020-09-17-Metroscopia.html) | Metroscopia | 21.1% | 19.1–23.2% | 18.5–23.8% | 18.1–24.4% | 17.2–25.4% |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 20.3% | 18.9–21.8% | 18.5–22.3% | 18.1–22.6% | 17.5–23.4% |
 | [1–11 September 2020](2020-09-11-SimpleLógica.html) | Simple Lógica | 22.1% | 20.1–24.2% | 19.6–24.8% | 19.1–25.4% | 18.2–26.4% |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta | 22.4% | 20.8–24.2% | 20.3–24.7% | 19.9–25.1% | 19.2–26.0% |
@@ -83,6 +84,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [26–29 April 2020](2020-04-29-electoPanel.html) | electoPanel <br> electomania.es | 23.8% | 22.4–25.3% | 22.0–25.7% | 21.7–26.0% | 21.0–26.7% |
 | [23–25 April 2020](2020-04-25-DYM.html) | DYM <br> Henneo | 22.4% | 20.8–24.2% | 20.3–24.7% | 19.9–25.1% | 19.2–26.0% |
 | [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 25.4% | 23.9–27.1% | 23.4–27.6% | 23.0–28.0% | 22.3–28.8% |
+| [20–24 April 2020](2020-04-24-Metroscopia.html) | Metroscopia | 25.1% | 23.5–26.9% | 23.0–27.3% | 22.6–27.8% | 21.9–28.6% |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 24.5% | 23.1–26.0% | 22.8–26.4% | 22.4–26.8% | 21.8–27.5% |
 | [17 April 2020](2020-04-17-KeyData.html) | Key Data <br> Público | 22.2% | 19.5–25.2% | 18.8–26.1% | 18.1–26.9% | 16.9–28.4% |
 | [14–17 April 2020](2020-04-17-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 22.7% | 21.1–24.5% | 20.6–25.0% | 20.2–25.4% | 19.4–26.3% |
@@ -289,18 +291,18 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.2% | 100% |  |
-| 17.5–18.5% | 1.5% | 99.8% |  |
-| 18.5–19.5% | 5% | 98% |  |
-| 19.5–20.5% | 10% | 93% |  |
-| 20.5–21.5% | 12% | 83% |  |
-| 21.5–22.5% | 14% | 72% |  |
-| 22.5–23.5% | 17% | 58% | Median |
-| 23.5–24.5% | 17% | 41% |  |
-| 24.5–25.5% | 13% | 24% |  |
-| 25.5–26.5% | 7% | 12% |  |
+| 16.5–17.5% | 0.3% | 100% |  |
+| 17.5–18.5% | 2% | 99.7% |  |
+| 18.5–19.5% | 6% | 98% |  |
+| 19.5–20.5% | 11% | 92% |  |
+| 20.5–21.5% | 13% | 82% |  |
+| 21.5–22.5% | 14% | 69% |  |
+| 22.5–23.5% | 16% | 54% | Median |
+| 23.5–24.5% | 16% | 38% |  |
+| 24.5–25.5% | 12% | 22% |  |
+| 25.5–26.5% | 7% | 11% |  |
 | 26.5–27.5% | 3% | 4% |  |
-| 27.5–28.5% | 0.9% | 1.2% |  |
+| 27.5–28.5% | 0.9% | 1.1% |  |
 | 28.5–29.5% | 0.2% | 0.3% |  |
 | 29.5–30.5% | 0% | 0.1% |  |
 | 30.5–31.5% | 0% | 0% |  |
@@ -314,12 +316,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–17 | 11–18 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
 | [16–20 September 2020](2020-09-20-DYM.html) | DYM <br> Henneo | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–13 | 12–14 | 12–14 | 11–14 |
 | [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | [17–19 September 2020](2020-09-19-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 14 | 13–16 | 13–16 | 13–17 | 12–18 |
 | [18 September 2020](2020-09-18-KeyData.html) | Key Data <br> Público | 14 | 12–16 | 12–17 | 11–17 | 11–18 |
+| [17 September 2020](2020-09-17-Metroscopia.html) | Metroscopia | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [7–11 September 2020](2020-09-11-electoPanel.html) | electoPanel <br> electomania.es | 14 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [1–11 September 2020](2020-09-11-SimpleLógica.html) | Simple Lógica | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [7–11 September 2020](2020-09-11-Invymark.html) | Invymark <br> laSexta | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
@@ -387,6 +390,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–29 April 2020](2020-04-29-electoPanel.html) | electoPanel <br> electomania.es | 15 | 13–16 | 13–16 | 13–17 | 13–17 |
 | [23–25 April 2020](2020-04-25-DYM.html) | DYM <br> Henneo | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [21–24 April 2020](2020-04-24-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–17 | 15–17 | 14–17 | 14–19 |
+| [20–24 April 2020](2020-04-24-Metroscopia.html) | Metroscopia | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [20–22 April 2020](2020-04-22-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 14–17 | 14–17 |
 | [17 April 2020](2020-04-17-KeyData.html) | Key Data <br> Público | 13 | 12–16 | 12–16 | 11–17 | 10–17 |
 | [14–17 April 2020](2020-04-17-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
@@ -588,15 +592,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.1% | 100% |  |
-| 11 | 2% | 99.9% |  |
-| 12 | 10% | 97% |  |
-| 13 | 28% | 88% |  |
-| 14 | 22% | 59% | Median |
-| 15 | 24% | 38% |  |
-| 16 | 9% | 13% |  |
+| 10 | 0.2% | 100% |  |
+| 11 | 3% | 99.8% |  |
+| 12 | 12% | 97% |  |
+| 13 | 29% | 85% |  |
+| 14 | 21% | 56% | Median |
+| 15 | 22% | 35% |  |
+| 16 | 9% | 12% |  |
 | 17 | 3% | 4% |  |
-| 18 | 0.5% | 0.5% |  |
+| 18 | 0.4% | 0.5% |  |
 | 19 | 0% | 0% |  |
 
 
