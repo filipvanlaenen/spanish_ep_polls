@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.5% | 25.0–30.0% | 24.4–30.7% | 23.8–31.4% | 22.7–32.7% |
+| N/A | [Poll Average](average.html) | 27.4% | 25.0–29.9% | 24.3–30.6% | 23.8–31.2% | 22.7–32.6% |
+| [10 October 2020](2020-10-10-SigmaDos.html) | Sigma Dos <br> Antena 3 | 28.1% | 26.3–30.0% | 25.8–30.5% | 25.4–31.0% | 24.6–31.9% |
+| [1–3 October 2020](2020-10-03-electoPanel.html) | electoPanel <br> electomania.es | 27.1% | 25.5–28.8% | 25.1–29.2% | 24.7–29.6% | 24.0–30.4% |
+| [28 September–2 October 2020](2020-10-02-GAD3.html) | GAD3 <br> ABC | 27.3% | 25.5–29.2% | 25.0–29.7% | 24.6–30.2% | 23.7–31.1% |
 | [22–25 September 2020](2020-09-25-electoPanel.html) | electoPanel <br> electomania.es | 27.4% | 25.9–28.9% | 25.5–29.4% | 25.1–29.8% | 24.4–30.5% |
 | [16–20 September 2020](2020-09-20-DYM.html) | DYM <br> Henneo | 25.8% | 24.1–27.6% | 23.6–28.1% | 23.2–28.6% | 22.4–29.5% |
 | [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 27.3% | 25.9–28.8% | 25.5–29.2% | 25.2–29.6% | 24.6–30.3% |
@@ -299,16 +302,16 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0.1% | 100% |  |
 | 21.5–22.5% | 0.3% | 99.9% |  |
 | 22.5–23.5% | 1.4% | 99.6% |  |
-| 23.5–24.5% | 4% | 98% |  |
-| 24.5–25.5% | 9% | 94% |  |
-| 25.5–26.5% | 16% | 84% |  |
-| 26.5–27.5% | 20% | 69% |  |
-| 27.5–28.5% | 19% | 49% | Median |
-| 28.5–29.5% | 15% | 30% |  |
-| 29.5–30.5% | 9% | 15% |  |
-| 30.5–31.5% | 4% | 6% |  |
-| 31.5–32.5% | 1.4% | 2% |  |
-| 32.5–33.5% | 0.4% | 0.6% |  |
+| 23.5–24.5% | 5% | 98% |  |
+| 24.5–25.5% | 10% | 94% |  |
+| 25.5–26.5% | 17% | 84% |  |
+| 26.5–27.5% | 21% | 67% | Median |
+| 27.5–28.5% | 19% | 46% |  |
+| 28.5–29.5% | 14% | 27% |  |
+| 29.5–30.5% | 8% | 13% |  |
+| 30.5–31.5% | 3% | 5% |  |
+| 31.5–32.5% | 1.2% | 2% |  |
+| 32.5–33.5% | 0.4% | 0.5% |  |
 | 33.5–34.5% | 0.1% | 0.2% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
@@ -322,6 +325,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
+| [10 October 2020](2020-10-10-SigmaDos.html) | Sigma Dos <br> Antena 3 | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
+| [1–3 October 2020](2020-10-03-electoPanel.html) | electoPanel <br> electomania.es | 18 | 16–18 | 16–19 | 16–19 | 15–19 |
+| [28 September–2 October 2020](2020-10-02-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [22–25 September 2020](2020-09-25-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [16–20 September 2020](2020-09-20-DYM.html) | DYM <br> Henneo | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–18 | 16–18 | 16–18 | 16–19 |
@@ -604,11 +610,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.2% | 100% |  |
 | 14 | 2% | 99.8% |  |
 | 15 | 10% | 98% |  |
-| 16 | 26% | 88% |  |
-| 17 | 32% | 62% | Median |
-| 18 | 21% | 30% |  |
-| 19 | 7% | 9% |  |
-| 20 | 2% | 2% |  |
+| 16 | 29% | 88% |  |
+| 17 | 29% | 59% | Median |
+| 18 | 24% | 30% |  |
+| 19 | 5% | 6% |  |
+| 20 | 0.8% | 0.9% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
