@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.4–9.0% | 5.0–9.5% | 4.7–10.0% | 4.2–10.9% |
+| N/A | [Poll Average](average.html) | 7.3% | 5.6–9.1% | 5.2–9.5% | 4.9–9.9% | 4.3–10.9% |
 | [10 October 2020](2020-10-10-SigmaDos.html) | Sigma Dos <br> Antena 3 | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
+| [5–9 October 2020](2020-10-09-electoPanel.html) | electoPanel <br> electomania.es | 7.9% | 7.0–9.0% | 6.8–9.3% | 6.5–9.5% | 6.1–10.1% |
+| [1–9 October 2020](2020-10-09-SimpleLógica.html) | Simple Lógica | 7.6% | 6.4–9.0% | 6.1–9.4% | 5.8–9.8% | 5.3–10.6% |
+| [5–9 October 2020](2020-10-09-Invymark.html) | Invymark <br> laSexta | 7.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.2% | 5.5–9.8% |
+| [1–7 October 2020](2020-10-07-CIS.html) | CIS | 8.8% | 8.1–9.5% | 8.0–9.7% | 7.8–9.9% | 7.5–10.2% |
 | [1–3 October 2020](2020-10-03-electoPanel.html) | electoPanel <br> electomania.es | 8.3% | 7.4–9.4% | 7.1–9.7% | 6.9–10.0% | 6.5–10.5% |
 | [28 September–2 October 2020](2020-10-02-GAD3.html) | GAD3 <br> ABC | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.5% | 4.1–8.1% |
 | [22–25 September 2020](2020-09-25-electoPanel.html) | electoPanel <br> electomania.es | 8.4% | 7.5–9.4% | 7.2–9.7% | 7.0–9.9% | 6.6–10.4% |
@@ -282,14 +286,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 11% | 98% |  |
-| 5.5–6.5% | 26% | 87% |  |
-| 6.5–7.5% | 26% | 62% | Median |
-| 7.5–8.5% | 20% | 36% |  |
-| 8.5–9.5% | 11% | 16% |  |
+| 3.5–4.5% | 1.1% | 100% |  |
+| 4.5–5.5% | 8% | 98.9% |  |
+| 5.5–6.5% | 20% | 90% |  |
+| 6.5–7.5% | 25% | 70% | Median |
+| 7.5–8.5% | 24% | 45% |  |
+| 8.5–9.5% | 16% | 21% |  |
 | 9.5–10.5% | 4% | 5% |  |
-| 10.5–11.5% | 0.8% | 0.9% |  |
+| 10.5–11.5% | 0.7% | 0.9% |  |
 | 11.5–12.5% | 0.1% | 0.2% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
@@ -302,8 +306,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 2–6 | 2–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 3–6 | 2–6 |
 | [10 October 2020](2020-10-10-SigmaDos.html) | Sigma Dos <br> Antena 3 | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| [5–9 October 2020](2020-10-09-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [1–9 October 2020](2020-10-09-SimpleLógica.html) | Simple Lógica | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| [5–9 October 2020](2020-10-09-Invymark.html) | Invymark <br> laSexta | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| [1–7 October 2020](2020-10-07-CIS.html) | CIS | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [1–3 October 2020](2020-10-03-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [28 September–2 October 2020](2020-10-02-GAD3.html) | GAD3 <br> ABC | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [22–25 September 2020](2020-09-25-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -574,12 +582,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 3% | 100% |  |
-| 3 | 24% | 97% |  |
-| 4 | 50% | 73% | Median |
-| 5 | 20% | 23% |  |
-| 6 | 3% | 4% |  |
-| 7 | 0.4% | 0.4% |  |
+| 2 | 2% | 100% |  |
+| 3 | 17% | 98% |  |
+| 4 | 47% | 81% | Median |
+| 5 | 28% | 34% |  |
+| 6 | 5% | 6% |  |
+| 7 | 0.3% | 0.4% |  |
 | 8 | 0% | 0% |  |
 
 

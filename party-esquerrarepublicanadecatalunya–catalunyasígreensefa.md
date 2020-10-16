@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.5–4.3% | 2.2–4.7% | 2.0–5.1% | 1.7–6.0% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.5–4.2% | 2.3–4.6% | 2.1–5.0% | 1.7–5.9% |
 | [10 October 2020](2020-10-10-SigmaDos.html) | Sigma Dos <br> Antena 3 | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [5–9 October 2020](2020-10-09-electoPanel.html) | electoPanel <br> electomania.es | 3.3% | 2.8–4.1% | 2.6–4.3% | 2.5–4.5% | 2.2–4.8% |
+| [1–9 October 2020](2020-10-09-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
+| [5–9 October 2020](2020-10-09-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [1–7 October 2020](2020-10-07-CIS.html) | CIS | 3.3% | 2.9–3.7% | 2.8–3.9% | 2.7–4.0% | 2.5–4.2% |
 | [1–3 October 2020](2020-10-03-electoPanel.html) | electoPanel <br> electomania.es | 3.4% | 2.8–4.1% | 2.7–4.4% | 2.5–4.6% | 2.3–4.9% |
 | [28 September–2 October 2020](2020-10-02-GAD3.html) | GAD3 <br> ABC | 3.5% | 2.9–4.4% | 2.7–4.7% | 2.5–4.9% | 2.3–5.4% |
 | [22–25 September 2020](2020-09-25-electoPanel.html) | electoPanel <br> electomania.es | 3.4% | 2.9–4.1% | 2.7–4.3% | 2.6–4.5% | 2.3–4.8% |
@@ -279,13 +283,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 11% | 99.7% |  |
-| 2.5–3.5% | 50% | 88% | Median |
-| 3.5–4.5% | 32% | 38% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 10% | 99.8% |  |
+| 2.5–3.5% | 54% | 90% | Median |
+| 3.5–4.5% | 30% | 36% |  |
 | 4.5–5.5% | 5% | 6% |  |
-| 5.5–6.5% | 0.9% | 1.1% |  |
-| 6.5–7.5% | 0.2% | 0.2% |  |
+| 5.5–6.5% | 0.8% | 0.9% |  |
+| 6.5–7.5% | 0.1% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -299,6 +303,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [10 October 2020](2020-10-10-SigmaDos.html) | Sigma Dos <br> Antena 3 | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [5–9 October 2020](2020-10-09-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–9 October 2020](2020-10-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
+| [5–9 October 2020](2020-10-09-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [1–7 October 2020](2020-10-07-CIS.html) | CIS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–3 October 2020](2020-10-03-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [28 September–2 October 2020](2020-10-02-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [22–25 September 2020](2020-09-25-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -568,9 +576,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% | Last Result |
-| 1 | 35% | 99.7% |  |
-| 2 | 60% | 64% | Median |
-| 3 | 4% | 4% |  |
+| 1 | 37% | 99.7% |  |
+| 2 | 60% | 63% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% |  |
 
