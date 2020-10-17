@@ -327,7 +327,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [10 October 2020](2020-10-10-SigmaDos.html) | Sigma Dos <br> Antena 3 | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
 | [5–9 October 2020](2020-10-09-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [1–9 October 2020](2020-10-09-SimpleLógica.html) | Simple Lógica | 12 | 10–13 | 10–13 | 10–13 | 9–14 |
-| [5–9 October 2020](2020-10-09-Invymark.html) | Invymark <br> laSexta | 14 | 12–15 | 12–15 | 12–15 | 12–16 |
+| [5–9 October 2020](2020-10-09-Invymark.html) | Invymark <br> laSexta | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
 | [1–7 October 2020](2020-10-07-CIS.html) | CIS | 12 | 11–12 | 11–12 | 11–12 | 11–13 |
 | [1–3 October 2020](2020-10-03-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [28 September–2 October 2020](2020-10-02-GAD3.html) | GAD3 <br> ABC | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
@@ -607,9 +607,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0.1% | 100% |  |
-| 10 | 1.4% | 99.9% |  |
-| 11 | 7% | 98% |  |
-| 12 | 16% | 92% |  |
+| 10 | 1.3% | 99.9% |  |
+| 11 | 7% | 98.6% |  |
+| 12 | 16% | 91% |  |
 | 13 | 21% | 76% |  |
 | 14 | 24% | 54% | Median |
 | 15 | 21% | 31% |  |
