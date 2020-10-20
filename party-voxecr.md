@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.1% | 12.7–17.8% | 12.2–18.5% | 11.9–19.2% | 11.3–20.4% |
+| N/A | [Poll Average](average.html) | 15.4% | 12.8–17.8% | 12.3–18.5% | 11.9–19.1% | 11.3–20.3% |
+| [15–17 October 2020](2020-10-17-SocioMétrica.html) | SocioMétrica <br> El Español | 16.3% | 15.3–17.4% | 15.0–17.7% | 14.8–18.0% | 14.3–18.5% |
+| [13–17 October 2020](2020-10-17-NCReport.html) | NC Report <br> La Razón | 15.7% | 13.9–17.6% | 13.4–18.2% | 13.0–18.7% | 12.2–19.7% |
+| [12–16 October 2020](2020-10-16-electoPanel.html) | electoPanel <br> electomania.es | 17.0% | 15.8–18.4% | 15.5–18.7% | 15.2–19.1% | 14.6–19.7% |
 | [10 October 2020](2020-10-10-SigmaDos.html) | Sigma Dos <br> Antena 3 | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [5–9 October 2020](2020-10-09-electoPanel.html) | electoPanel <br> electomania.es | 16.7% | 15.4–18.1% | 15.0–18.5% | 14.7–18.8% | 14.1–19.5% |
 | [1–9 October 2020](2020-10-09-SimpleLógica.html) | Simple Lógica | 17.1% | 15.3–19.1% | 14.8–19.6% | 14.4–20.1% | 13.6–21.1% |
@@ -293,16 +296,16 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 1.0% | 99.9% |  |
-| 11.5–12.5% | 7% | 98.9% |  |
-| 12.5–13.5% | 13% | 92% |  |
-| 13.5–14.5% | 17% | 78% |  |
-| 14.5–15.5% | 19% | 61% | Median |
-| 15.5–16.5% | 17% | 42% |  |
-| 16.5–17.5% | 12% | 24% |  |
-| 17.5–18.5% | 7% | 12% |  |
+| 10.5–11.5% | 0.9% | 99.9% |  |
+| 11.5–12.5% | 6% | 99.0% |  |
+| 12.5–13.5% | 12% | 93% |  |
+| 13.5–14.5% | 16% | 81% |  |
+| 14.5–15.5% | 18% | 65% | Median |
+| 15.5–16.5% | 19% | 47% |  |
+| 16.5–17.5% | 15% | 28% |  |
+| 17.5–18.5% | 8% | 13% |  |
 | 18.5–19.5% | 3% | 5% |  |
-| 19.5–20.5% | 1.1% | 2% |  |
+| 19.5–20.5% | 1.1% | 1.5% |  |
 | 20.5–21.5% | 0.3% | 0.4% |  |
 | 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
@@ -316,7 +319,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–11 | 7–11 | 7–12 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 7–11 | 7–11 | 7–11 | 7–12 |
+| [15–17 October 2020](2020-10-17-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
+| [13–17 October 2020](2020-10-17-NCReport.html) | NC Report <br> La Razón | 10 | 8–10 | 8–11 | 8–11 | 7–12 |
+| [12–16 October 2020](2020-10-16-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 10–11 | 9–11 | 9–12 |
 | [10 October 2020](2020-10-10-SigmaDos.html) | Sigma Dos <br> Antena 3 | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [5–9 October 2020](2020-10-09-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10–12 | 10–12 | 9–12 | 9–12 |
 | [1–9 October 2020](2020-10-09-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
@@ -596,13 +602,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.3% | 100% |  |
-| 7 | 12% | 99.7% |  |
-| 8 | 22% | 88% |  |
-| 9 | 28% | 66% | Median |
-| 10 | 26% | 38% |  |
-| 11 | 9% | 12% |  |
-| 12 | 3% | 4% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 11% | 99.8% |  |
+| 8 | 20% | 89% |  |
+| 9 | 25% | 69% | Median |
+| 10 | 24% | 44% |  |
+| 11 | 17% | 19% |  |
+| 12 | 2% | 2% |  |
 | 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |
 
