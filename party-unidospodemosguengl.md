@@ -315,9 +315,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
-| [15–17 October 2020](2020-10-17-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [15–17 October 2020](2020-10-17-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [13–17 October 2020](2020-10-17-NCReport.html) | NC Report <br> La Razón | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
-| [12–16 October 2020](2020-10-16-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7 | 7 | 7–8 | 6–9 |
+| [12–16 October 2020](2020-10-16-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [10 October 2020](2020-10-10-SigmaDos.html) | Sigma Dos <br> Antena 3 | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [5–9 October 2020](2020-10-09-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [1–9 October 2020](2020-10-09-SimpleLógica.html) | Simple Lógica | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
@@ -597,9 +597,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0.4% | 100% |  |
 | 5 | 6% | 99.6% |  |
-| 6 | 32% | 93% |  |
-| 7 | 44% | 61% | Median |
-| 8 | 14% | 17% |  |
+| 6 | 35% | 93% |  |
+| 7 | 40% | 58% | Median |
+| 8 | 14% | 18% |  |
 | 9 | 3% | 3% |  |
 | 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
