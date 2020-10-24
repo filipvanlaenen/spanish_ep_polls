@@ -319,8 +319,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–11 | 7–11 | 7–11 | 7–12 |
-| [19–22 October 2020](2020-10-22-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 9 | 7–11 | 7–11 | 7–12 | 7–12 |
+| [19–22 October 2020](2020-10-22-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [15–17 October 2020](2020-10-17-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [13–17 October 2020](2020-10-17-NCReport.html) | NC Report <br> La Razón | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [12–16 October 2020](2020-10-16-electoPanel.html) | electoPanel <br> electomania.es | 11 | 9–11 | 9–12 | 9–12 | 9–12 |
@@ -604,12 +604,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 14% | 100% |  |
-| 8 | 21% | 86% |  |
-| 9 | 31% | 65% | Median |
-| 10 | 21% | 34% |  |
-| 11 | 12% | 13% |  |
-| 12 | 1.3% | 1.4% |  |
+| 7 | 12% | 100% |  |
+| 8 | 19% | 88% |  |
+| 9 | 28% | 70% | Median |
+| 10 | 20% | 42% |  |
+| 11 | 20% | 22% |  |
+| 12 | 3% | 3% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 

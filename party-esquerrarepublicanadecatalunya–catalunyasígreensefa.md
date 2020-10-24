@@ -290,7 +290,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 4% | 100% |  |
 | 2.5–3.5% | 65% | 96% | Median |
-| 3.5–4.5% | 28% | 31% |  |
+| 3.5–4.5% | 29% | 32% |  |
 | 4.5–5.5% | 3% | 3% |  |
 | 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -305,7 +305,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [19–22 October 2020](2020-10-22-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [19–22 October 2020](2020-10-22-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–17 October 2020](2020-10-17-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–17 October 2020](2020-10-17-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [12–16 October 2020](2020-10-16-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -584,7 +584,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 28% | 100% |  |
-| 2 | 70% | 72% | Median |
+| 2 | 71% | 72% | Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 

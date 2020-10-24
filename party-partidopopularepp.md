@@ -306,7 +306,7 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 1.2% | 99.7% |  |
 | 17.5–18.5% | 6% | 98.5% |  |
 | 18.5–19.5% | 11% | 93% |  |
-| 19.5–20.5% | 13% | 82% |  |
+| 19.5–20.5% | 14% | 82% |  |
 | 20.5–21.5% | 10% | 68% |  |
 | 21.5–22.5% | 13% | 58% | Median |
 | 22.5–23.5% | 17% | 45% |  |
@@ -327,8 +327,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–15 | 11–16 | 11–16 | 10–17 |
-| [19–22 October 2020](2020-10-22-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 14 | 12–15 | 11–16 | 11–16 | 10–17 |
+| [19–22 October 2020](2020-10-22-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [15–17 October 2020](2020-10-17-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [13–17 October 2020](2020-10-17-NCReport.html) | NC Report <br> La Razón | 14 | 13–16 | 13–17 | 12–17 | 12–17 |
 | [12–16 October 2020](2020-10-16-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–14 | 11–14 |
@@ -616,13 +616,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0.2% | 100% |  |
 | 10 | 2% | 99.8% |  |
-| 11 | 9% | 98% |  |
-| 12 | 17% | 89% |  |
-| 13 | 14% | 72% |  |
-| 14 | 27% | 58% | Median |
-| 15 | 21% | 30% |  |
-| 16 | 7% | 9% |  |
-| 17 | 1.2% | 1.3% |  |
+| 11 | 8% | 98% |  |
+| 12 | 18% | 90% |  |
+| 13 | 19% | 72% |  |
+| 14 | 27% | 53% | Median |
+| 15 | 19% | 26% |  |
+| 16 | 6% | 8% |  |
+| 17 | 1.1% | 1.2% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
