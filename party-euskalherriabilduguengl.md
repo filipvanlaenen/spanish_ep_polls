@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.3% | 0.9–1.7% | 0.8–1.9% | 0.8–2.1% | 0.6–2.6% |
+| [24 October 2020](2020-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
 | [19–22 October 2020](2020-10-22-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.1–1.5% | 1.1–1.6% | 1.0–1.7% | 0.9–1.8% |
 | [15–17 October 2020](2020-10-17-SocioMétrica.html) | SocioMétrica <br> El Español | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–1.9% | 0.8–2.1% |
 | [13–17 October 2020](2020-10-17-NCReport.html) | NC Report <br> La Razón | 1.3% | 0.9–2.1% | 0.7–2.3% | 0.7–2.5% | 0.5–2.9% |
@@ -302,6 +303,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [24 October 2020](2020-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [19–22 October 2020](2020-10-22-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–17 October 2020](2020-10-17-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–17 October 2020](2020-10-17-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
