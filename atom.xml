@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-10-24T14:34:08.985454+02:00</updated>
+  <updated>2020-10-25T12:16:09.127412+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 21.4–26.7%, 13–16 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 26.6–32.2%, 16–19 seats</li><li>Unidos Podemos (GUE/NGL): 9.9–14.0%, 6–8 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 5.4–8.5%, 3–5 seats</li><li>Vox (ECR): 12.8–17.3%, 7–10 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-24-SigmaDos.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-24-SigmaDos.html"/>
+    <title>Opinion Poll by Sigma Dos for El Mundo, 24 October 2020</title>
+    <updated>2020-10-25T12:16:09.127412+01:00</updated>
+    <dc:date>2020-10-25T12:16:09.127412+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 19.1–21.4%, 12–14 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 25.7–28.3%, 16–18 seats</li><li>Unidos Podemos (GUE/NGL): 10.7–12.6%, 7–8 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 6.8–8.3%, 4–5 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 2.8–3.8%, 1–2 seats</li><li>Partit Demòcrata Europeu Català (NI): 2.2–3.1%, 1–2 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 1.1–1.8%, 0–1 seats</li><li>Euskal Herria Bildu (GUE/NGL): 1.0–1.7%, 0–1 seats</li><li>Coalición Canaria–Partido Nacionalista Canario (RE): 0.3–0.8%, 0 seats</li><li>Vox (ECR): 16.3–18.5%, 10–12 seats</li><li>Coalició Compromís (Greens/EFA): 1.9–2.8%, 1 seats</li><li>Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0.4–0.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-22-electoPanel.html</id>
@@ -2143,5 +2151,5 @@
     <updated>2020-07-10T18:59:03.699377+02:00</updated>
     <dc:date>2020-07-10T18:59:03.699377+02:00</dc:date>
   </entry>
-  <dc:date>2020-10-24T14:34:08.985454+02:00</dc:date>
+  <dc:date>2020-10-25T12:16:09.127412+01:00</dc:date>
 </feed>
