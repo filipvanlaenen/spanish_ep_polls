@@ -10,9 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.7% | 0.8–1.9% | 0.8–2.1% | 0.6–2.6% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.8% | 0.8–1.9% | 0.8–2.1% | 0.6–2.6% |
+| [30–31 October 2020](2020-10-31-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% |
+| [26–30 October 2020](2020-10-30-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [24 October 2020](2020-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [22–23 October 2020](2020-10-23-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [21–23 October 2020](2020-10-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
+| [22–23 October 2020](2020-10-23-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [19–22 October 2020](2020-10-22-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.1–1.5% | 1.1–1.6% | 1.0–1.7% | 0.9–1.8% |
+| [20 October 2020](2020-10-20-KeyData.html) | Key Data <br> Público | 1.2% | N/A | N/A | N/A | N/A |
 | [15–17 October 2020](2020-10-17-SocioMétrica.html) | SocioMétrica <br> El Español | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–1.9% | 0.8–2.1% |
 | [13–17 October 2020](2020-10-17-NCReport.html) | NC Report <br> La Razón | 1.3% | 0.9–2.1% | 0.7–2.3% | 0.7–2.5% | 0.5–2.9% |
 | [12–16 October 2020](2020-10-16-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.8–2.0% | 0.7–2.3% |
@@ -288,8 +294,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.2% | 100% | Last Result |
-| 0.5–1.5% | 81% | 99.8% | Median |
-| 1.5–2.5% | 18% | 18% |  |
+| 0.5–1.5% | 79% | 99.8% | Median |
+| 1.5–2.5% | 20% | 21% |  |
 | 2.5–3.5% | 0.5% | 0.5% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -303,8 +309,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [30–31 October 2020](2020-10-31-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [26–30 October 2020](2020-10-30-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [24 October 2020](2020-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [22–23 October 2020](2020-10-23-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [21–23 October 2020](2020-10-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario |  |  |  |  |  |
+| [22–23 October 2020](2020-10-23-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [19–22 October 2020](2020-10-22-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20 October 2020](2020-10-20-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [15–17 October 2020](2020-10-17-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–17 October 2020](2020-10-17-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–16 October 2020](2020-10-16-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -581,8 +593,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 85% | 100% | Last Result, Median |
-| 1 | 15% | 15% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 16% | 16% |  |
 | 2 | 0% | 0% |  |
 
 

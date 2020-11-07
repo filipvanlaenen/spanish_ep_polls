@@ -10,9 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.7% | 25.8–30.8% | 25.2–31.4% | 24.7–31.8% | 23.6–32.6% |
+| N/A | [Poll Average](average.html) | 27.6% | 25.5–30.8% | 25.0–31.4% | 24.5–31.8% | 23.5–32.6% |
+| [30–31 October 2020](2020-10-31-electoPanel.html) | electoPanel <br> electomania.es | 26.9% | 25.5–28.3% | 25.1–28.7% | 24.8–29.0% | 24.2–29.7% |
+| [26–30 October 2020](2020-10-30-Invymark.html) | Invymark <br> laSexta | 28.5% | N/A | N/A | N/A | N/A |
 | [24 October 2020](2020-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
+| [22–23 October 2020](2020-10-23-SigmaDos.html) | Sigma Dos <br> El Mundo | 29.3% | N/A | N/A | N/A | N/A |
+| [21–23 October 2020](2020-10-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 26.9% | N/A | N/A | N/A | N/A |
+| [22–23 October 2020](2020-10-23-DYM.html) | DYM <br> Henneo | 25.0% | N/A | N/A | N/A | N/A |
 | [19–22 October 2020](2020-10-22-electoPanel.html) | electoPanel <br> electomania.es | 27.0% | 26.2–27.8% | 25.9–28.1% | 25.7–28.3% | 25.4–28.7% |
+| [20 October 2020](2020-10-20-KeyData.html) | Key Data <br> Público | 27.3% | N/A | N/A | N/A | N/A |
 | [15–17 October 2020](2020-10-17-SocioMétrica.html) | SocioMétrica <br> El Español | 26.6% | 25.4–27.8% | 25.0–28.2% | 24.7–28.5% | 24.2–29.1% |
 | [13–17 October 2020](2020-10-17-NCReport.html) | NC Report <br> La Razón | 27.0% | 24.8–29.4% | 24.2–30.0% | 23.7–30.6% | 22.6–31.8% |
 | [12–16 October 2020](2020-10-16-electoPanel.html) | electoPanel <br> electomania.es | 27.0% | 25.6–28.6% | 25.2–29.0% | 24.8–29.4% | 24.1–30.1% |
@@ -310,18 +316,18 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0.1% | 100% |  |
-| 22.5–23.5% | 0.4% | 99.9% |  |
-| 23.5–24.5% | 2% | 99.5% |  |
-| 24.5–25.5% | 6% | 98% |  |
-| 25.5–26.5% | 15% | 92% |  |
-| 26.5–27.5% | 23% | 77% |  |
-| 27.5–28.5% | 17% | 54% | Median |
-| 28.5–29.5% | 13% | 37% |  |
-| 29.5–30.5% | 11% | 24% |  |
+| 22.5–23.5% | 0.5% | 99.9% |  |
+| 23.5–24.5% | 2% | 99.4% |  |
+| 24.5–25.5% | 7% | 97% |  |
+| 25.5–26.5% | 17% | 90% |  |
+| 26.5–27.5% | 22% | 73% |  |
+| 27.5–28.5% | 16% | 51% | Median |
+| 28.5–29.5% | 11% | 34% |  |
+| 29.5–30.5% | 10% | 23% |  |
 | 30.5–31.5% | 9% | 13% |  |
 | 31.5–32.5% | 3% | 4% |  |
 | 32.5–33.5% | 0.5% | 0.6% |  |
-| 33.5–34.5% | 0% | 0.1% |  |
+| 33.5–34.5% | 0% | 0% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
 
@@ -333,9 +339,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–19 | 15–20 | 15–20 | 14–20 |
+| N/A | [Poll Average](average.html) | 17 | 16–20 | 15–20 | 15–20 | 14–20 |
+| [30–31 October 2020](2020-10-31-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [26–30 October 2020](2020-10-30-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [24 October 2020](2020-10-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
+| [22–23 October 2020](2020-10-23-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [21–23 October 2020](2020-10-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario |  |  |  |  |  |
+| [22–23 October 2020](2020-10-23-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [19–22 October 2020](2020-10-22-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 16–18 | 16–18 | 16–19 |
+| [20 October 2020](2020-10-20-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [15–17 October 2020](2020-10-17-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
 | [13–17 October 2020](2020-10-17-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–19 | 14–19 | 14–19 |
 | [12–16 October 2020](2020-10-16-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
@@ -626,13 +638,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0.1% | 100% |  |
-| 14 | 0.9% | 99.9% |  |
-| 15 | 5% | 99.1% |  |
-| 16 | 18% | 94% |  |
-| 17 | 37% | 76% | Median |
-| 18 | 21% | 38% |  |
-| 19 | 10% | 18% |  |
-| 20 | 8% | 8% |  |
+| 14 | 1.2% | 99.9% |  |
+| 15 | 6% | 98.8% |  |
+| 16 | 21% | 93% |  |
+| 17 | 32% | 72% | Median |
+| 18 | 17% | 39% |  |
+| 19 | 12% | 22% |  |
+| 20 | 10% | 10% |  |
 | 21 | 0.2% | 0.2% |  |
 | 22 | 0% | 0% |  |
 
