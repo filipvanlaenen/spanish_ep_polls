@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Fri, 17 Jul 2020 21:26:45 +0200</pubDate>
     <item>
+      <title>Opinion Poll by NC Report for La Razón, 30 October–7 November 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-11-07-NCReport.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by NC Report for La Razón, 30 October–7 November 2020<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2020-11-07-NCReport.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2020-11-07-NCReport-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-11-07-NCReport-seating-plan.png" length="439460" type="image/png"/>
+      <pubDate>Wed, 11 Nov 2020 09:11:02 +0100</pubDate>
+      <dc:date>2020-11-11T09:11:02.295677+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 30 October–7 November 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-11-07-NCReport.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by NC Report for La Razón, 30 October–7 November 2020<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2020-11-07-NCReport.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2020-11-07-NCReport-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-11-07-NCReport-seats.png" length="375990" type="image/png"/>
+      <pubDate>Wed, 11 Nov 2020 09:11:02 +0100</pubDate>
+      <dc:date>2020-11-11T09:11:02.295677+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 30 October–7 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-11-07-NCReport.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by NC Report for La Razón, 30 October–7 November 2020<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2020-11-07-NCReport.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2020-11-07-NCReport.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-11-07-NCReport.png" length="436663" type="image/png"/>
+      <pubDate>Wed, 11 Nov 2020 09:11:02 +0100</pubDate>
+      <dc:date>2020-11-11T09:11:02.295677+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by electoPanel for electomania.es, 30–31 October 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-31-electoPanel.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by electoPanel for electomania.es, 30–31 October 2020<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-31-electoPanel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-31-electoPanel-seating-plan.png"/>]]></description>
@@ -364,78 +388,6 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-09-SimpleLógica.png" length="220851" type="image/png"/>
       <pubDate>Sat, 17 Oct 2020 18:51:12 +0200</pubDate>
       <dc:date>2020-10-17T18:51:12.753761+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by CIS, 1–7 October 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-07-CIS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by CIS, 1–7 October 2020<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-07-CIS.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-07-CIS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-07-CIS-seating-plan.png" length="424578" type="image/png"/>
-      <pubDate>Fri, 16 Oct 2020 07:35:14 +0200</pubDate>
-      <dc:date>2020-10-16T07:35:14.549489+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by CIS, 1–7 October 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-07-CIS.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by CIS, 1–7 October 2020<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-07-CIS.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-07-CIS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-07-CIS-seats.png" length="314405" type="image/png"/>
-      <pubDate>Fri, 16 Oct 2020 07:35:14 +0200</pubDate>
-      <dc:date>2020-10-16T07:35:14.549489+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by CIS, 1–7 October 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-07-CIS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CIS, 1–7 October 2020<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-07-CIS.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-07-CIS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-07-CIS.png" length="385444" type="image/png"/>
-      <pubDate>Fri, 16 Oct 2020 07:35:14 +0200</pubDate>
-      <dc:date>2020-10-16T07:35:14.549489+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by electoPanel for electomania.es, 1–3 October 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-03-electoPanel.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by electoPanel for electomania.es, 1–3 October 2020<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-03-electoPanel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-03-electoPanel-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-03-electoPanel-seating-plan.png" length="439543" type="image/png"/>
-      <pubDate>Sun, 11 Oct 2020 09:28:30 +0200</pubDate>
-      <dc:date>2020-10-11T09:28:30.750076+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by electoPanel for electomania.es, 1–3 October 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-03-electoPanel.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by electoPanel for electomania.es, 1–3 October 2020<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-03-electoPanel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-03-electoPanel-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-03-electoPanel-seats.png" length="359707" type="image/png"/>
-      <pubDate>Sun, 11 Oct 2020 09:28:30 +0200</pubDate>
-      <dc:date>2020-10-11T09:28:30.750076+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by electoPanel for electomania.es, 1–3 October 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-03-electoPanel.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by electoPanel for electomania.es, 1–3 October 2020<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-03-electoPanel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-03-electoPanel.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-03-electoPanel.png" length="418541" type="image/png"/>
-      <pubDate>Sun, 11 Oct 2020 09:28:30 +0200</pubDate>
-      <dc:date>2020-10-11T09:28:30.750076+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by GAD3 for ABC, 28 September–2 October 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-02-GAD3.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by GAD3 for ABC, 28 September–2 October 2020<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-02-GAD3.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-02-GAD3-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-02-GAD3-seating-plan.png" length="441333" type="image/png"/>
-      <pubDate>Sun, 11 Oct 2020 09:08:34 +0200</pubDate>
-      <dc:date>2020-10-11T09:08:34.819228+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by GAD3 for ABC, 28 September–2 October 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-02-GAD3.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by GAD3 for ABC, 28 September–2 October 2020<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-02-GAD3.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-02-GAD3-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-02-GAD3-seats.png" length="357172" type="image/png"/>
-      <pubDate>Sun, 11 Oct 2020 09:08:34 +0200</pubDate>
-      <dc:date>2020-10-11T09:08:34.819228+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by GAD3 for ABC, 28 September–2 October 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-02-GAD3.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by GAD3 for ABC, 28 September–2 October 2020<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-02-GAD3.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-02-GAD3.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-10-02-GAD3.png" length="422693" type="image/png"/>
-      <pubDate>Sun, 11 Oct 2020 09:08:34 +0200</pubDate>
-      <dc:date>2020-10-11T09:08:34.819228+02:00</dc:date>
     </item>
   </channel>
 </rss>
