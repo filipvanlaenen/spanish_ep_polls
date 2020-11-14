@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27.1% | 24.8–29.8% | 24.1–30.5% | 23.5–31.2% | 22.4–32.5% |
+| [6–7 November 2020](2020-11-07-electoPanel.html) | electoPanel <br> electomania.es | 26.8% | 25.2–28.4% | 24.8–28.9% | 24.4–29.3% | 23.7–30.1% |
 | [30 October–7 November 2020](2020-11-07-NCReport.html) | NC Report <br> La Razón | 26.8% | 24.6–29.1% | 24.0–29.8% | 23.5–30.4% | 22.5–31.5% |
 | [30–31 October 2020](2020-10-31-electoPanel.html) | electoPanel <br> electomania.es | 26.9% | 25.5–28.3% | 25.2–28.7% | 24.8–29.0% | 24.2–29.7% |
 | [26–30 October 2020](2020-10-30-Invymark.html) | Invymark <br> laSexta | 28.5% | 26.7–30.4% | 26.2–30.9% | 25.8–31.4% | 25.0–32.3% |
@@ -320,8 +321,8 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 2% | 99.4% |  |
 | 23.5–24.5% | 5% | 97% |  |
 | 24.5–25.5% | 11% | 92% |  |
-| 25.5–26.5% | 19% | 82% |  |
-| 26.5–27.5% | 22% | 63% | Median |
+| 25.5–26.5% | 19% | 81% |  |
+| 26.5–27.5% | 21% | 62% | Median |
 | 27.5–28.5% | 17% | 41% |  |
 | 28.5–29.5% | 12% | 24% |  |
 | 29.5–30.5% | 7% | 12% |  |
@@ -341,6 +342,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–18 | 15–19 | 14–19 | 13–20 |
+| [6–7 November 2020](2020-11-07-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–17 | 16–18 | 15–19 |
 | [30 October–7 November 2020](2020-11-07-NCReport.html) | NC Report <br> La Razón | 17 | 15–18 | 15–18 | 15–19 | 14–20 |
 | [30–31 October 2020](2020-10-31-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 15–19 | 15–19 | 15–19 |
 | [26–30 October 2020](2020-10-30-Invymark.html) | Invymark <br> laSexta | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
@@ -642,10 +644,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.7% | 100% |  |
 | 14 | 4% | 99.3% |  |
 | 15 | 14% | 95% |  |
-| 16 | 25% | 81% |  |
-| 17 | 32% | 56% | Median |
-| 18 | 18% | 24% |  |
-| 19 | 5% | 6% |  |
+| 16 | 31% | 81% |  |
+| 17 | 29% | 50% | Median |
+| 18 | 16% | 21% |  |
+| 19 | 4% | 5% |  |
 | 20 | 0.9% | 1.0% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
