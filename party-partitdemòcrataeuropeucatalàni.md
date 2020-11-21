@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 2.6% | 1.7–3.5% | 1.5–3.7% | 1.4–4.0% | 1.2–4.7% |
 | [10–13 November 2020](2020-11-13-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | 2.2–3.4% | 2.1–3.6% | 2.0–3.8% | 1.7–4.1% |
 | [3–12 November 2020](2020-11-12-CIS.html) | CIS | 1.7% | 1.5–2.0% | 1.4–2.1% | 1.3–2.2% | 1.2–2.3% |
+| [4–11 November 2020](2020-11-11-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 November 2020](2020-11-07-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | 2.2–3.4% | 2.0–3.6% | 1.9–3.7% | 1.7–4.1% |
 | [30 October–7 November 2020](2020-11-07-NCReport.html) | NC Report <br> La Razón | 2.5% | 1.9–3.5% | 1.7–3.8% | 1.6–4.1% | 1.3–4.6% |
 | [30–31 October 2020](2020-10-31-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | 2.3–3.3% | 2.1–3.5% | 2.0–3.6% | 1.8–3.9% |
@@ -318,6 +319,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [10–13 November 2020](2020-11-13-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–12 November 2020](2020-11-12-CIS.html) | CIS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–11 November 2020](2020-11-11-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [6–7 November 2020](2020-11-07-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 October–7 November 2020](2020-11-07-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [30–31 October 2020](2020-10-31-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
