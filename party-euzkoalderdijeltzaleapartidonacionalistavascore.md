@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 1.2–1.9% | 1.0–2.1% | 0.9–2.4% | 0.7–2.8% |
+| N/A | [Poll Average](average.html) | 1.6% | 1.2–2.4% | 1.0–2.8% | 0.9–3.1% | 0.7–4.0% |
+| [22–27 November 2020](2020-11-27-electoPanel.html) | electoPanel <br> electomania.es | 1.6% | 1.2–2.1% | 1.1–2.3% | 1.1–2.4% | 0.9–2.7% |
+| [24 November 2020](2020-11-24-KeyData.html) | Key Data <br> Público | 1.8% | 1.2–3.1% | 1.0–3.5% | 0.8–3.9% | 0.6–4.6% |
 | [16–20 November 2020](2020-11-20-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.2–1.9% | 1.1–2.0% | 1.1–2.1% | 1.0–2.3% |
+| [18–20 November 2020](2020-11-20-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [10–13 November 2020](2020-11-13-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.1–2.0% | 1.0–2.2% | 0.9–2.3% | 0.8–2.6% |
 | [3–12 November 2020](2020-11-12-CIS.html) | CIS | 1.5% | 1.3–1.8% | 1.2–1.9% | 1.2–2.0% | 1.1–2.1% |
 | [4–11 November 2020](2020-11-11-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
@@ -28,6 +31,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [15–17 October 2020](2020-10-17-SocioMétrica.html) | SocioMétrica <br> El Español | 1.8% | 1.5–2.2% | 1.4–2.4% | 1.3–2.5% | 1.2–2.7% |
 | [13–17 October 2020](2020-10-17-NCReport.html) | NC Report <br> La Razón | 1.4% | 1.0–2.3% | 0.9–2.5% | 0.8–2.7% | 0.6–3.2% |
 | [12–16 October 2020](2020-10-16-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.2–2.0% | 1.1–2.2% | 1.0–2.3% | 0.9–2.6% |
+| [23 September–14 October 2020](2020-10-14-GIPEyOP.html) | GIPEyOP | 1.8% | 1.4–2.4% | 1.3–2.6% | 1.2–2.8% | 1.0–3.1% |
 | [10 October 2020](2020-10-10-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [5–9 October 2020](2020-10-09-electoPanel.html) | electoPanel <br> electomania.es | 1.4% | 1.1–2.0% | 1.0–2.1% | 0.9–2.2% | 0.8–2.5% |
 | [1–9 October 2020](2020-10-09-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
@@ -300,10 +304,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 54% | 99.9% |  |
-| 1.5–2.5% | 44% | 46% | Median |
-| 2.5–3.5% | 1.3% | 1.3% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.5–1.5% | 43% | 99.9% |  |
+| 1.5–2.5% | 49% | 56% | Median |
+| 2.5–3.5% | 6% | 8% |  |
+| 3.5–4.5% | 1.0% | 1.1% |  |
+| 4.5–5.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -314,8 +320,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [22–27 November 2020](2020-11-27-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [24 November 2020](2020-11-24-KeyData.html) | Key Data <br> Público | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [16–20 November 2020](2020-11-20-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [18–20 November 2020](2020-11-20-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [10–13 November 2020](2020-11-13-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–12 November 2020](2020-11-12-CIS.html) | CIS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–11 November 2020](2020-11-11-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -332,6 +341,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [15–17 October 2020](2020-10-17-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–17 October 2020](2020-10-17-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–16 October 2020](2020-10-16-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [23 September–14 October 2020](2020-10-14-GIPEyOP.html) | GIPEyOP | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [10 October 2020](2020-10-10-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [5–9 October 2020](2020-10-09-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–9 October 2020](2020-10-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -605,9 +615,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 42% | 100% | Last Result |
-| 1 | 57% | 58% | Median |
-| 2 | 0.3% | 0.3% |  |
-| 3 | 0% | 0% |  |
+| 0 | 36% | 100% | Last Result |
+| 1 | 63% | 64% | Median |
+| 2 | 1.1% | 1.1% |  |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 
