@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.8% | 23.9–30.7% | 22.9–31.3% | 22.3–31.7% | 21.2–32.9% |
+| N/A | [Poll Average](average.html) | 27.8% | 24.1–30.7% | 23.1–31.2% | 22.4–31.7% | 21.2–32.9% |
 | [22–27 November 2020](2020-11-27-electoPanel.html) | electoPanel <br> electomania.es | 27.2% | 25.6–28.8% | 25.2–29.3% | 24.8–29.7% | 24.1–30.4% |
 | [24 November 2020](2020-11-24-KeyData.html) | Key Data <br> Público | 27.2% | 24.2–30.4% | 23.4–31.4% | 22.7–32.2% | 21.3–33.8% |
 | [16–20 November 2020](2020-11-20-electoPanel.html) | electoPanel <br> electomania.es | 27.2% | 26.0–28.4% | 25.7–28.7% | 25.4–29.0% | 24.9–29.6% |
@@ -18,6 +18,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10–13 November 2020](2020-11-13-electoPanel.html) | electoPanel <br> electomania.es | 26.7% | 25.1–28.3% | 24.7–28.8% | 24.3–29.2% | 23.6–29.9% |
 | [3–12 November 2020](2020-11-12-CIS.html) | CIS | 30.4% | 29.4–31.4% | 29.2–31.6% | 29.0–31.9% | 28.5–32.3% |
 | [4–11 November 2020](2020-11-11-SimpleLógica.html) | Simple Lógica | 29.2% | 27.0–31.6% | 26.4–32.3% | 25.9–32.8% | 24.8–34.0% |
+| [4–9 November 2020](2020-11-09-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 27.8% | 25.7–30.0% | 25.1–30.6% | 24.6–31.2% | 23.6–32.3% |
 | [6–7 November 2020](2020-11-07-electoPanel.html) | electoPanel <br> electomania.es | 26.8% | 25.2–28.4% | 24.8–28.9% | 24.4–29.3% | 23.7–30.1% |
 | [30 October–7 November 2020](2020-11-07-NCReport.html) | NC Report <br> La Razón | 26.8% | 24.6–29.1% | 24.0–29.8% | 23.5–30.4% | 22.5–31.5% |
 | [30–31 October 2020](2020-10-31-electoPanel.html) | electoPanel <br> electomania.es | 26.9% | 25.5–28.3% | 25.2–28.7% | 24.8–29.0% | 24.2–29.7% |
@@ -324,17 +325,17 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0.1% | 100% |  |
-| 20.5–21.5% | 0.8% | 99.8% |  |
-| 21.5–22.5% | 3% | 99.1% |  |
-| 22.5–23.5% | 5% | 97% |  |
-| 23.5–24.5% | 6% | 92% |  |
-| 24.5–25.5% | 7% | 86% |  |
-| 25.5–26.5% | 11% | 78% |  |
-| 26.5–27.5% | 14% | 68% |  |
-| 27.5–28.5% | 15% | 54% | Median |
-| 28.5–29.5% | 13% | 39% |  |
-| 29.5–30.5% | 14% | 26% |  |
-| 30.5–31.5% | 9% | 12% |  |
+| 20.5–21.5% | 0.7% | 99.9% |  |
+| 21.5–22.5% | 2% | 99.2% |  |
+| 22.5–23.5% | 4% | 97% |  |
+| 23.5–24.5% | 6% | 93% |  |
+| 24.5–25.5% | 7% | 87% |  |
+| 25.5–26.5% | 11% | 80% |  |
+| 26.5–27.5% | 15% | 69% |  |
+| 27.5–28.5% | 16% | 54% | Median |
+| 28.5–29.5% | 14% | 39% |  |
+| 29.5–30.5% | 13% | 25% |  |
+| 30.5–31.5% | 8% | 11% |  |
 | 31.5–32.5% | 2% | 3% |  |
 | 32.5–33.5% | 0.6% | 0.8% |  |
 | 33.5–34.5% | 0.2% | 0.2% |  |
@@ -350,7 +351,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–19 | 14–19 | 13–20 | 13–20 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 14–19 | 13–20 | 13–20 |
 | [22–27 November 2020](2020-11-27-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–18 | 16–19 | 15–19 | 15–19 |
 | [24 November 2020](2020-11-24-KeyData.html) | Key Data <br> Público | 18 | 15–18 | 14–19 | 14–19 | 13–21 |
 | [16–20 November 2020](2020-11-20-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 16–19 | 16–19 |
@@ -358,6 +359,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [10–13 November 2020](2020-11-13-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 15–19 | 14–19 |
 | [3–12 November 2020](2020-11-12-CIS.html) | CIS | 19 | 19–20 | 18–20 | 18–20 | 18–20 |
 | [4–11 November 2020](2020-11-11-SimpleLógica.html) | Simple Lógica | 18 | 16–19 | 16–19 | 15–20 | 15–21 |
+| [4–9 November 2020](2020-11-09-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [6–7 November 2020](2020-11-07-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–19 | 16–19 | 15–19 | 15–19 |
 | [30 October–7 November 2020](2020-11-07-NCReport.html) | NC Report <br> La Razón | 17 | 15–18 | 15–18 | 15–19 | 14–20 |
 | [30–31 October 2020](2020-10-31-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 15–19 | 15–19 | 15–19 |
@@ -657,16 +659,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.4% | 100% |  |
-| 13 | 3% | 99.6% |  |
-| 14 | 7% | 96% |  |
-| 15 | 7% | 89% |  |
-| 16 | 19% | 82% |  |
-| 17 | 21% | 62% | Median |
-| 18 | 22% | 41% |  |
-| 19 | 16% | 19% |  |
-| 20 | 3% | 4% |  |
-| 21 | 0.3% | 0.3% |  |
+| 12 | 0.3% | 100% |  |
+| 13 | 3% | 99.7% |  |
+| 14 | 7% | 97% |  |
+| 15 | 6% | 90% |  |
+| 16 | 19% | 84% |  |
+| 17 | 26% | 65% | Median |
+| 18 | 21% | 39% |  |
+| 19 | 15% | 18% |  |
+| 20 | 3% | 3% |  |
+| 21 | 0.2% | 0.2% |  |
 | 22 | 0% | 0% |  |
 
 
