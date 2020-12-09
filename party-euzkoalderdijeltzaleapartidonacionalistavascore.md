@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.2–2.4% | 1.0–2.7% | 0.9–3.1% | 0.7–3.9% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.2–2.4% | 1.1–2.7% | 0.9–3.0% | 0.7–3.8% |
+| [7 December 2020](2020-12-07-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
+| [2–5 December 2020](2020-12-05-electoPanel.html) | electoPanel <br> electomania.es | 1.6% | 1.3–2.1% | 1.2–2.2% | 1.1–2.3% | 1.0–2.6% |
+| [2–5 December 2020](2020-12-05-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
 | [22–27 November 2020](2020-11-27-electoPanel.html) | electoPanel <br> electomania.es | 1.6% | 1.2–2.1% | 1.1–2.3% | 1.1–2.4% | 0.9–2.7% |
 | [24 November 2020](2020-11-24-KeyData.html) | Key Data <br> Público | 1.8% | 1.2–3.1% | 1.0–3.5% | 0.8–3.9% | 0.6–4.6% |
 | [16–20 November 2020](2020-11-20-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.2–1.9% | 1.1–2.0% | 1.1–2.1% | 1.0–2.3% |
@@ -305,10 +308,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 43% | 99.9% |  |
-| 1.5–2.5% | 50% | 57% | Median |
-| 2.5–3.5% | 6% | 7% |  |
-| 3.5–4.5% | 0.8% | 0.9% |  |
+| 0.5–1.5% | 38% | 99.9% |  |
+| 1.5–2.5% | 54% | 62% | Median |
+| 2.5–3.5% | 7% | 8% |  |
+| 3.5–4.5% | 0.7% | 0.8% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -322,6 +325,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [7 December 2020](2020-12-07-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [2–5 December 2020](2020-12-05-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–5 December 2020](2020-12-05-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario |  |  |  |  |  |
 | [22–27 November 2020](2020-11-27-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24 November 2020](2020-11-24-KeyData.html) | Key Data <br> Público | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [16–20 November 2020](2020-11-20-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -617,10 +623,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 34% | 100% | Last Result |
-| 1 | 65% | 66% | Median |
-| 2 | 1.0% | 1.0% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
+| 0 | 31% | 100% | Last Result |
+| 1 | 68% | 69% | Median |
+| 2 | 1.0% | 1.1% |  |
+| 3 | 0% | 0% |  |
 
 

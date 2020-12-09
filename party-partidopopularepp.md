@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.1% | 18.8–24.7% | 18.3–25.4% | 17.9–26.0% | 17.3–27.3% |
+| N/A | [Poll Average](average.html) | 22.6% | 18.9–25.5% | 18.4–26.3% | 18.0–26.9% | 17.4–28.1% |
+| [7 December 2020](2020-12-07-SigmaDos.html) | Sigma Dos <br> Antena 3 | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
+| [2–5 December 2020](2020-12-05-electoPanel.html) | electoPanel <br> electomania.es | 21.6% | 20.4–23.0% | 20.0–23.3% | 19.7–23.7% | 19.1–24.3% |
+| [2–5 December 2020](2020-12-05-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 23.8% | 22.1–25.6% | 21.7–26.1% | 21.3–26.6% | 20.5–27.4% |
 | [22–27 November 2020](2020-11-27-electoPanel.html) | electoPanel <br> electomania.es | 21.4% | 20.0–22.9% | 19.6–23.3% | 19.2–23.7% | 18.6–24.4% |
 | [24 November 2020](2020-11-24-KeyData.html) | Key Data <br> Público | 22.4% | 19.7–25.5% | 18.9–26.4% | 18.2–27.2% | 17.0–28.7% |
 | [16–20 November 2020](2020-11-20-electoPanel.html) | electoPanel <br> electomania.es | 21.1% | 20.1–22.2% | 19.8–22.5% | 19.5–22.8% | 19.0–23.3% |
@@ -321,20 +324,21 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.8% | 99.9% |  |
-| 17.5–18.5% | 6% | 99.1% |  |
-| 18.5–19.5% | 10% | 93% |  |
-| 19.5–20.5% | 9% | 83% |  |
-| 20.5–21.5% | 14% | 74% |  |
-| 21.5–22.5% | 18% | 60% | Median |
-| 22.5–23.5% | 17% | 42% |  |
-| 23.5–24.5% | 13% | 25% |  |
-| 24.5–25.5% | 7% | 11% |  |
-| 25.5–26.5% | 3% | 4% |  |
-| 26.5–27.5% | 0.9% | 1.2% |  |
-| 27.5–28.5% | 0.2% | 0.3% |  |
-| 28.5–29.5% | 0.1% | 0.1% |  |
+| 16.5–17.5% | 0.7% | 99.9% |  |
+| 17.5–18.5% | 6% | 99.2% |  |
+| 18.5–19.5% | 8% | 93% |  |
+| 19.5–20.5% | 7% | 85% |  |
+| 20.5–21.5% | 12% | 78% |  |
+| 21.5–22.5% | 16% | 66% |  |
+| 22.5–23.5% | 16% | 50% | Median |
+| 23.5–24.5% | 14% | 34% |  |
+| 24.5–25.5% | 10% | 20% |  |
+| 25.5–26.5% | 6% | 10% |  |
+| 26.5–27.5% | 3% | 4% |  |
+| 27.5–28.5% | 0.9% | 1.2% |  |
+| 28.5–29.5% | 0.2% | 0.3% |  |
 | 29.5–30.5% | 0% | 0% |  |
+| 30.5–31.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -345,7 +349,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–15 | 11–15 | 11–16 | 10–17 |
+| N/A | [Poll Average](average.html) | 14 | 11–16 | 11–16 | 11–17 | 10–18 |
+| [7 December 2020](2020-12-07-SigmaDos.html) | Sigma Dos <br> Antena 3 | 16 | 14–17 | 14–18 | 14–18 | 13–18 |
+| [2–5 December 2020](2020-12-05-electoPanel.html) | electoPanel <br> electomania.es | 14 | 12–15 | 12–15 | 12–15 | 12–16 |
+| [2–5 December 2020](2020-12-05-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [22–27 November 2020](2020-11-27-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [24 November 2020](2020-11-24-KeyData.html) | Key Data <br> Público | 14 | 12–15 | 11–15 | 11–16 | 10–17 |
 | [16–20 November 2020](2020-11-20-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
@@ -651,15 +658,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.8% | 100% |  |
-| 11 | 11% | 99.2% |  |
-| 12 | 13% | 88% |  |
-| 13 | 23% | 75% |  |
-| 14 | 35% | 52% | Median |
-| 15 | 14% | 16% |  |
-| 16 | 2% | 3% |  |
-| 17 | 0.7% | 0.8% |  |
-| 18 | 0.1% | 0.1% |  |
+| 10 | 0.7% | 100% |  |
+| 11 | 9% | 99.3% |  |
+| 12 | 12% | 90% |  |
+| 13 | 15% | 78% |  |
+| 14 | 34% | 62% | Median |
+| 15 | 18% | 28% |  |
+| 16 | 7% | 10% |  |
+| 17 | 2% | 3% |  |
+| 18 | 0.9% | 0.9% |  |
 | 19 | 0% | 0% |  |
 
 
