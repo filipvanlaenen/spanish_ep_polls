@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.2% | 9.2–13.3% | 8.7–13.8% | 8.4–14.3% | 7.7–15.3% |
+| N/A | [Poll Average](average.html) | 11.1% | 9.2–13.3% | 8.7–13.8% | 8.4–14.3% | 7.7–15.3% |
+| [15–17 December 2020](2020-12-17-electoPanel.html) | electoPanel <br> electomania.es | 11.4% | 10.4–12.6% | 10.1–12.9% | 9.8–13.2% | 9.4–13.7% |
 | [30 November–14 December 2020](2020-12-14-GAD3.html) | GAD3 <br> COPE | 9.5% | 8.5–10.6% | 8.2–11.0% | 8.0–11.2% | 7.6–11.8% |
 | [7–11 December 2020](2020-12-11-electoPanel.html) | electoPanel <br> electomania.es | 11.6% | 10.6–12.7% | 10.3–13.0% | 10.1–13.3% | 9.6–13.9% |
+| [30 November–9 December 2020](2020-12-09-SimpleLógica.html) | Simple Lógica | 11.6% | N/A | N/A | N/A | N/A |
 | [7 December 2020](2020-12-07-SigmaDos.html) | Sigma Dos <br> Antena 3 | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
 | [2–5 December 2020](2020-12-05-electoPanel.html) | electoPanel <br> electomania.es | 11.9% | 10.9–13.0% | 10.7–13.3% | 10.4–13.6% | 10.0–14.1% |
 | [26 November–5 December 2020](2020-12-05-SWDemoscopia.html) | SW Demoscopia <br> infoLibre | 11.1% | 10.0–12.3% | 9.7–12.7% | 9.4–13.0% | 8.9–13.6% |
@@ -320,9 +322,9 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0.3% | 100% |  |
 | 7.5–8.5% | 3% | 99.7% |  |
 | 8.5–9.5% | 13% | 96% |  |
-| 9.5–10.5% | 19% | 84% |  |
-| 10.5–11.5% | 23% | 65% | Median |
-| 11.5–12.5% | 21% | 42% |  |
+| 9.5–10.5% | 20% | 84% |  |
+| 10.5–11.5% | 24% | 64% | Median |
+| 11.5–12.5% | 20% | 40% |  |
 | 12.5–13.5% | 13% | 20% |  |
 | 13.5–14.5% | 5% | 7% |  |
 | 14.5–15.5% | 1.5% | 2% |  |
@@ -339,8 +341,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
+| [15–17 December 2020](2020-12-17-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [30 November–14 December 2020](2020-12-14-GAD3.html) | GAD3 <br> COPE | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [7–11 December 2020](2020-12-11-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
+| [30 November–9 December 2020](2020-12-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [7 December 2020](2020-12-07-SigmaDos.html) | Sigma Dos <br> Antena 3 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [2–5 December 2020](2020-12-05-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [26 November–5 December 2020](2020-12-05-SWDemoscopia.html) | SW Demoscopia <br> infoLibre | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
@@ -646,9 +650,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0.6% | 100% |  |
 | 5 | 27% | 99.4% |  |
-| 6 | 24% | 73% | Median |
-| 7 | 31% | 48% |  |
-| 8 | 15% | 17% |  |
+| 6 | 29% | 73% | Median |
+| 7 | 25% | 43% |  |
+| 8 | 17% | 19% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
