@@ -10,11 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.0% | 12.8–18.1% | 12.3–18.7% | 11.9–19.2% | 11.2–20.2% |
+| N/A | [Poll Average](average.html) | 16.1% | 13.1–18.0% | 12.5–18.6% | 12.0–19.0% | 11.3–20.1% |
+| [14–18 December 2020](2020-12-18-Invymark.html) | Invymark <br> laSexta | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
 | [15–17 December 2020](2020-12-17-electoPanel.html) | electoPanel <br> electomania.es | 16.6% | 15.4–18.0% | 15.1–18.3% | 14.8–18.7% | 14.2–19.3% |
 | [30 November–14 December 2020](2020-12-14-GAD3.html) | GAD3 <br> COPE | 13.1% | 11.9–14.4% | 11.6–14.7% | 11.4–15.1% | 10.8–15.7% |
 | [7–11 December 2020](2020-12-11-electoPanel.html) | electoPanel <br> electomania.es | 17.0% | 15.8–18.3% | 15.5–18.6% | 15.2–18.9% | 14.6–19.6% |
-| [30 November–9 December 2020](2020-12-09-SimpleLógica.html) | Simple Lógica | 16.2% | N/A | N/A | N/A | N/A |
+| [30 November–9 December 2020](2020-12-09-SimpleLógica.html) | Simple Lógica | 16.2% | 14.9–17.8% | 14.5–18.2% | 14.1–18.6% | 13.5–19.3% |
 | [7 December 2020](2020-12-07-SigmaDos.html) | Sigma Dos <br> Antena 3 | 13.4% | 12.1–14.9% | 11.7–15.3% | 11.4–15.7% | 10.8–16.4% |
 | [2–5 December 2020](2020-12-05-electoPanel.html) | electoPanel <br> electomania.es | 17.2% | 16.0–18.4% | 15.7–18.8% | 15.4–19.1% | 14.9–19.7% |
 | [26 November–5 December 2020](2020-12-05-SWDemoscopia.html) | SW Demoscopia <br> infoLibre | 17.2% | 15.9–18.7% | 15.5–19.1% | 15.2–19.4% | 14.6–20.1% |
@@ -323,18 +324,18 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 1.1% | 99.9% |  |
-| 11.5–12.5% | 6% | 98.8% |  |
-| 12.5–13.5% | 12% | 93% |  |
-| 13.5–14.5% | 12% | 81% |  |
-| 14.5–15.5% | 12% | 69% |  |
-| 15.5–16.5% | 19% | 57% | Median |
-| 16.5–17.5% | 20% | 39% |  |
-| 17.5–18.5% | 13% | 18% |  |
-| 18.5–19.5% | 4% | 6% |  |
-| 19.5–20.5% | 1.1% | 1.4% |  |
-| 20.5–21.5% | 0.2% | 0.3% |  |
-| 21.5–22.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0.9% | 99.9% |  |
+| 11.5–12.5% | 5% | 99.1% |  |
+| 12.5–13.5% | 9% | 95% |  |
+| 13.5–14.5% | 10% | 85% |  |
+| 14.5–15.5% | 14% | 75% |  |
+| 15.5–16.5% | 22% | 61% | Median |
+| 16.5–17.5% | 21% | 39% |  |
+| 17.5–18.5% | 12% | 17% |  |
+| 18.5–19.5% | 4% | 5% |  |
+| 19.5–20.5% | 0.9% | 1.1% |  |
+| 20.5–21.5% | 0.2% | 0.2% |  |
+| 21.5–22.5% | 0% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -346,11 +347,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–11 | 7–11 | 7–12 | 7–12 |
-| [15–17 December 2020](2020-12-17-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
+| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–11 | 7–11 | 7–12 |
+| [14–18 December 2020](2020-12-18-Invymark.html) | Invymark <br> laSexta | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
+| [15–17 December 2020](2020-12-17-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [30 November–14 December 2020](2020-12-14-GAD3.html) | GAD3 <br> COPE | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [7–11 December 2020](2020-12-11-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10–11 | 10–12 | 9–12 | 9–12 |
-| [30 November–9 December 2020](2020-12-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
+| [30 November–9 December 2020](2020-12-09-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 8–11 | 8–11 | 8–11 |
 | [7 December 2020](2020-12-07-SigmaDos.html) | Sigma Dos <br> Antena 3 | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [2–5 December 2020](2020-12-05-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 9–12 | 9–12 | 9–12 |
 | [26 November–5 December 2020](2020-12-05-SWDemoscopia.html) | SW Demoscopia <br> infoLibre | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
@@ -656,13 +658,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.3% | 100% |  |
-| 7 | 5% | 99.7% |  |
-| 8 | 22% | 94% |  |
-| 9 | 19% | 73% |  |
-| 10 | 37% | 53% | Median |
-| 11 | 13% | 16% |  |
-| 12 | 3% | 3% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 4% | 99.8% |  |
+| 8 | 18% | 95% |  |
+| 9 | 24% | 77% |  |
+| 10 | 39% | 53% | Median |
+| 11 | 13% | 15% |  |
+| 12 | 2% | 2% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
