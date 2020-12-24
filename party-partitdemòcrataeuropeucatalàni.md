@@ -10,12 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.5–3.0% | 1.4–3.3% | 1.2–3.6% | 1.0–4.4% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.5–3.0% | 1.4–3.2% | 1.3–3.5% | 1.0–4.2% |
 | [14–18 December 2020](2020-12-18-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [15–17 December 2020](2020-12-17-electoPanel.html) | electoPanel <br> electomania.es | 2.5% | 2.0–3.1% | 1.9–3.3% | 1.8–3.4% | 1.6–3.7% |
+| [9–15 December 2020](2020-12-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2.3% | 1.7–3.2% | 1.5–3.4% | 1.4–3.6% | 1.2–4.1% |
 | [30 November–14 December 2020](2020-12-14-GAD3.html) | GAD3 <br> COPE | 1.8% | 1.4–2.4% | 1.3–2.5% | 1.2–2.7% | 1.0–3.0% |
 | [7–11 December 2020](2020-12-11-electoPanel.html) | electoPanel <br> electomania.es | 2.6% | 2.1–3.2% | 2.0–3.4% | 1.9–3.6% | 1.7–3.9% |
 | [30 November–9 December 2020](2020-12-09-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
+| [1–9 December 2020](2020-12-09-CIS.html) | CIS | 1.7% | 1.5–2.0% | 1.4–2.1% | 1.3–2.2% | 1.2–2.3% |
 | [7 December 2020](2020-12-07-SigmaDos.html) | Sigma Dos <br> Antena 3 | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [2–5 December 2020](2020-12-05-electoPanel.html) | electoPanel <br> electomania.es | 2.6% | 2.1–3.2% | 2.0–3.3% | 1.9–3.5% | 1.7–3.7% |
 | [26 November–5 December 2020](2020-12-05-SWDemoscopia.html) | SW Demoscopia <br> infoLibre | 0.0% | N/A | N/A | N/A | N/A |
@@ -50,6 +52,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1–3 October 2020](2020-10-03-electoPanel.html) | electoPanel <br> electomania.es | 2.6% | 2.1–3.3% | 2.0–3.5% | 1.9–3.6% | 1.6–4.0% |
 | [28 September–2 October 2020](2020-10-02-GAD3.html) | GAD3 <br> ABC | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [22–25 September 2020](2020-09-25-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | 2.2–3.3% | 2.1–3.5% | 2.0–3.7% | 1.8–4.0% |
+| [21–25 September 2020](2020-09-25-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [16–20 September 2020](2020-09-20-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 2.6% | 2.1–3.2% | 2.0–3.3% | 1.9–3.5% | 1.7–3.8% |
 | [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 2.6% | 1.9–3.6% | 1.7–3.9% | 1.6–4.1% | 1.3–4.7% |
@@ -314,11 +317,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 61% | 89% | Median |
-| 2.5–3.5% | 25% | 28% |  |
-| 3.5–4.5% | 2% | 3% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 12% | 100% |  |
+| 1.5–2.5% | 64% | 88% | Median |
+| 2.5–3.5% | 22% | 25% |  |
+| 3.5–4.5% | 2% | 2% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -333,9 +336,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [14–18 December 2020](2020-12-18-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [15–17 December 2020](2020-12-17-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [9–15 December 2020](2020-12-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [30 November–14 December 2020](2020-12-14-GAD3.html) | GAD3 <br> COPE | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [7–11 December 2020](2020-12-11-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 November–9 December 2020](2020-12-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
+| [1–9 December 2020](2020-12-09-CIS.html) | CIS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7 December 2020](2020-12-07-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [2–5 December 2020](2020-12-05-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 November–5 December 2020](2020-12-05-SWDemoscopia.html) | SW Demoscopia <br> infoLibre |  |  |  |  |  |
@@ -370,6 +375,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–3 October 2020](2020-10-03-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 September–2 October 2020](2020-10-02-GAD3.html) | GAD3 <br> ABC | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–25 September 2020](2020-09-25-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [21–25 September 2020](2020-09-25-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [16–20 September 2020](2020-09-20-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1–2 | 1–2 |
 | [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
@@ -635,8 +641,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 91% | 95% | Median |
+| 0 | 9% | 100% | Last Result |
+| 1 | 87% | 91% | Median |
 | 2 | 4% | 4% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
