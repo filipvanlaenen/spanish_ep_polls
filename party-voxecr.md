@@ -392,7 +392,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–3 October 2020](2020-10-03-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 8–12 | 8–12 | 8–12 |
 | [28 September–2 October 2020](2020-10-02-GAD3.html) | GAD3 <br> ABC | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [22–25 September 2020](2020-09-25-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
-| [21–25 September 2020](2020-09-25-Invymark.html) | Invymark <br> laSexta | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
+| [21–25 September 2020](2020-09-25-Invymark.html) | Invymark <br> laSexta | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [16–20 September 2020](2020-09-20-DYM.html) | DYM <br> Henneo | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [16–19 September 2020](2020-09-19-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10–11 | 10–11 | 9–11 | 9–12 |
 | [15–19 September 2020](2020-09-19-NCReport.html) | NC Report <br> La Razón | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
