@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-12-24T19:22:12.008292+01:00</updated>
+  <updated>2020-12-28T09:47:26.713272+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 20.5–25.7%, 12–15 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 24.7–30.3%, 15–18 seats</li><li>Unidos Podemos (GUE/NGL): 8.5–12.2%, 5–7 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 6.2–9.5%, 3–5 seats</li><li>Vox (ECR): 13.9–18.5%, 8–11 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_ep_polls/2020-12-18-Invymark.html</id>
@@ -334,6 +334,14 @@
     <title>Opinion Poll by electoPanel for electomania.es, 22–25 September 2020</title>
     <updated>2020-10-04T13:56:30.165017+02:00</updated>
     <dc:date>2020-10-04T13:56:30.165017+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 19.3–24.5%, 11–15 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 26.4–32.0%, 16–19 seats</li><li>Unidos Podemos (GUE/NGL): 9.8–13.7%, 6–8 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 6.2–9.5%, 3–5 seats</li><li>Vox (ECR): 12.5–16.9%, 7–10 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2020-09-25-Invymark.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2020-09-25-Invymark.html"/>
+    <title>Opinion Poll by Invymark for laSexta, 21–25 September 2020</title>
+    <updated>2020-12-28T09:47:26.713272+01:00</updated>
+    <dc:date>2020-12-28T09:47:26.713272+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 21.5–26.7%, 13–16 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 23.2–28.6%, 14–17 seats</li><li>Unidos Podemos (GUE/NGL): 9.0–12.9%, 5–7 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 7.2–10.7%, 4–6 seats</li><li>Vox (ECR): 11.7–16.0%, 7–9 seats</li></ul></div></content>
@@ -2375,5 +2383,5 @@
     <updated>2020-07-10T18:59:03.699377+02:00</updated>
     <dc:date>2020-07-10T18:59:03.699377+02:00</dc:date>
   </entry>
-  <dc:date>2020-12-24T19:22:12.008292+01:00</dc:date>
+  <dc:date>2020-12-28T09:47:26.713272+01:00</dc:date>
 </feed>
