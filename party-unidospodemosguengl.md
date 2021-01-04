@@ -10,9 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.1% | 9.4–13.1% | 8.9–13.7% | 8.5–14.2% | 7.9–15.1% |
+| N/A | [Poll Average](average.html) | 11.0% | 9.5–13.0% | 9.0–13.6% | 8.7–14.1% | 8.0–15.1% |
+| [2 January 2021](2021-01-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 10.8% | 9.6–12.2% | 9.3–12.5% | 9.0–12.9% | 8.5–13.6% |
+| [21–25 December 2020](2020-12-25-electoPanel.html) | electoPanel <br> electomania.es | 11.3% | 10.3–12.5% | 10.0–12.8% | 9.8–13.1% | 9.3–13.7% |
+| [24 December 2020](2020-12-24-KeyData.html) | Key Data <br> Público | 11.0% | 9.1–13.5% | 8.5–14.2% | 8.1–14.8% | 7.2–16.0% |
 | [14–18 December 2020](2020-12-18-Invymark.html) | Invymark <br> laSexta | 10.2% | 9.1–11.5% | 8.7–11.9% | 8.5–12.2% | 8.0–12.9% |
 | [15–17 December 2020](2020-12-17-electoPanel.html) | electoPanel <br> electomania.es | 11.4% | 10.4–12.6% | 10.1–12.9% | 9.8–13.2% | 9.4–13.7% |
+| [15–17 December 2020](2020-12-17-DYM.html) | DYM <br> Henneo | 10.4% | 9.3–11.7% | 8.9–12.1% | 8.7–12.5% | 8.1–13.1% |
 | [9–15 December 2020](2020-12-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 12.0% | 10.5–13.7% | 10.1–14.2% | 9.8–14.6% | 9.1–15.4% |
 | [30 November–14 December 2020](2020-12-14-GAD3.html) | GAD3 <br> COPE | 9.5% | 8.5–10.6% | 8.2–11.0% | 8.0–11.2% | 7.6–11.8% |
 | [7–11 December 2020](2020-12-11-electoPanel.html) | electoPanel <br> electomania.es | 11.6% | 10.6–12.7% | 10.3–13.0% | 10.1–13.3% | 9.6–13.9% |
@@ -323,15 +327,15 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.2% | 100% |  |
-| 7.5–8.5% | 2% | 99.8% |  |
-| 8.5–9.5% | 10% | 97% |  |
-| 9.5–10.5% | 21% | 87% |  |
-| 10.5–11.5% | 29% | 67% | Median |
-| 11.5–12.5% | 21% | 38% |  |
-| 12.5–13.5% | 12% | 18% |  |
-| 13.5–14.5% | 5% | 6% |  |
-| 14.5–15.5% | 1.2% | 1.4% |  |
+| 6.5–7.5% | 0.1% | 100% |  |
+| 7.5–8.5% | 2% | 99.9% |  |
+| 8.5–9.5% | 9% | 98% |  |
+| 9.5–10.5% | 23% | 89% |  |
+| 10.5–11.5% | 31% | 66% | Median |
+| 11.5–12.5% | 20% | 35% |  |
+| 12.5–13.5% | 10% | 15% |  |
+| 13.5–14.5% | 4% | 5% |  |
+| 14.5–15.5% | 1.1% | 1.3% |  |
 | 15.5–16.5% | 0.2% | 0.2% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -345,8 +349,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–9 | 5–9 |
+| [2 January 2021](2021-01-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
+| [21–25 December 2020](2020-12-25-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–8 | 6–8 | 5–9 |
+| [24 December 2020](2020-12-24-KeyData.html) | Key Data <br> Público | 7 | 6–8 | 5–9 | 5–9 | 4–9 |
 | [14–18 December 2020](2020-12-18-Invymark.html) | Invymark <br> laSexta | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [15–17 December 2020](2020-12-17-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [15–17 December 2020](2020-12-17-DYM.html) | DYM <br> Henneo | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [9–15 December 2020](2020-12-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
 | [30 November–14 December 2020](2020-12-14-GAD3.html) | GAD3 <br> COPE | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [7–11 December 2020](2020-12-11-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
@@ -656,11 +664,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.5% | 100% |  |
-| 5 | 20% | 99.5% |  |
-| 6 | 32% | 80% | Median |
-| 7 | 31% | 48% |  |
-| 8 | 14% | 17% |  |
+| 4 | 0.4% | 100% |  |
+| 5 | 13% | 99.6% |  |
+| 6 | 38% | 86% | Median |
+| 7 | 33% | 48% |  |
+| 8 | 12% | 15% |  |
 | 9 | 3% | 3% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |

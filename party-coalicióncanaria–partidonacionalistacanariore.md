@@ -10,9 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% | 0.1–1.7% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.4–1.1% | 0.3–1.3% | 0.3–1.5% | 0.2–2.1% |
+| [2 January 2021](2021-01-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [21–25 December 2020](2020-12-25-electoPanel.html) | electoPanel <br> electomania.es | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% |
+| [24 December 2020](2020-12-24-KeyData.html) | Key Data <br> Público | 0.6% | 0.3–1.6% | 0.2–1.9% | 0.2–2.1% | 0.1–2.7% |
 | [14–18 December 2020](2020-12-18-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [15–17 December 2020](2020-12-17-electoPanel.html) | electoPanel <br> electomania.es | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% |
+| [15–17 December 2020](2020-12-17-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [9–15 December 2020](2020-12-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.6% | 0.3–1.1% | 0.3–1.3% | 0.2–1.4% | 0.1–1.8% |
 | [30 November–14 December 2020](2020-12-14-GAD3.html) | GAD3 <br> COPE | 0.6% | 0.4–1.0% | 0.4–1.1% | 0.3–1.2% | 0.2–1.4% |
 | [7–11 December 2020](2020-12-11-electoPanel.html) | electoPanel <br> electomania.es | 0.5% | 0.4–0.9% | 0.3–0.9% | 0.3–1.0% | 0.2–1.2% |
@@ -316,10 +320,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 46% | 100% | Last Result |
-| 0.5–1.5% | 53% | 54% | Median |
-| 1.5–2.5% | 0.9% | 1.0% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 41% | 100% | Last Result |
+| 0.5–1.5% | 57% | 59% | Median |
+| 1.5–2.5% | 2% | 2% |  |
+| 2.5–3.5% | 0.2% | 0.2% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -331,8 +336,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [2 January 2021](2021-01-02-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [21–25 December 2020](2020-12-25-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
+| [24 December 2020](2020-12-24-KeyData.html) | Key Data <br> Público | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [14–18 December 2020](2020-12-18-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [15–17 December 2020](2020-12-17-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
+| [15–17 December 2020](2020-12-17-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [9–15 December 2020](2020-12-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0 | 0 | 0–1 | 0–1 |
 | [30 November–14 December 2020](2020-12-14-GAD3.html) | GAD3 <br> COPE | 0 | 0 | 0 | 0 | 0 |
 | [7–11 December 2020](2020-12-11-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
@@ -638,8 +647,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.9% | 100% | Last Result, Median |
-| 1 | 1.1% | 1.1% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 
 
