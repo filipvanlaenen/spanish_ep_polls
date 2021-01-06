@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.9% | 1.4–3.2% | 1.3–3.5% | 1.0–4.2% |
-| [2 January 2021](2021-01-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.5–3.0% | 1.4–3.3% | 1.3–3.5% | 1.0–4.2% |
+| [28 December–2 January 2021](2021-01-02-electoPanel.html) | electoPanel <br> electomania.es | 2.4% | 2.0–3.1% | 1.8–3.2% | 1.7–3.4% | 1.5–3.7% |
+| [18–30 December 2020](2020-12-30-NCReport.html) | NC Report <br> La Razón | 2.2% | 1.6–3.2% | 1.5–3.5% | 1.3–3.7% | 1.1–4.2% |
+| [22–29 December 2020](2020-12-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.1% | 1.6–2.8% | 1.5–2.9% | 1.4–3.1% | 1.2–3.5% |
 | [21–25 December 2020](2020-12-25-electoPanel.html) | electoPanel <br> electomania.es | 2.4% | 2.0–3.0% | 1.8–3.2% | 1.7–3.4% | 1.5–3.7% |
 | [24 December 2020](2020-12-24-KeyData.html) | Key Data <br> Público | 2.1% | 1.4–3.5% | 1.2–3.9% | 1.0–4.2% | 0.8–5.0% |
 | [14–18 December 2020](2020-12-18-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
@@ -321,9 +323,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 12% | 100% |  |
-| 1.5–2.5% | 65% | 88% | Median |
-| 2.5–3.5% | 21% | 23% |  |
+| 0.5–1.5% | 11% | 100% |  |
+| 1.5–2.5% | 64% | 89% | Median |
+| 2.5–3.5% | 23% | 25% |  |
 | 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -337,8 +339,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [2 January 2021](2021-01-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| [28 December–2 January 2021](2021-01-02-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [18–30 December 2020](2020-12-30-NCReport.html) | NC Report <br> La Razón | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| [22–29 December 2020](2020-12-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [21–25 December 2020](2020-12-25-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [24 December 2020](2020-12-24-KeyData.html) | Key Data <br> Público | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [14–18 December 2020](2020-12-18-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
@@ -649,10 +653,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% | Last Result |
-| 1 | 81% | 89% | Median |
-| 2 | 8% | 8% |  |
-| 3 | 0.2% | 0.2% |  |
+| 0 | 9% | 100% | Last Result |
+| 1 | 81% | 91% | Median |
+| 2 | 9% | 10% |  |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 
