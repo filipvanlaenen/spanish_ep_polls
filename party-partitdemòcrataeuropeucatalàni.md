@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.5–3.0% | 1.4–3.3% | 1.3–3.5% | 1.0–4.2% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.6–3.0% | 1.4–3.3% | 1.3–3.6% | 1.0–4.3% |
+| [3–9 January 2021](2021-01-09-electoPanel.html) | electoPanel <br> electomania.es | 2.4% | 1.9–2.9% | 1.8–3.1% | 1.7–3.3% | 1.5–3.6% |
 | [28 December–2 January 2021](2021-01-02-electoPanel.html) | electoPanel <br> electomania.es | 2.4% | 2.0–3.1% | 1.8–3.2% | 1.7–3.4% | 1.5–3.7% |
 | [18–30 December 2020](2020-12-30-NCReport.html) | NC Report <br> La Razón | 2.2% | 1.6–3.2% | 1.5–3.5% | 1.3–3.7% | 1.1–4.2% |
 | [22–29 December 2020](2020-12-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.1% | 1.6–2.8% | 1.5–2.9% | 1.4–3.1% | 1.2–3.5% |
@@ -181,6 +182,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [7–10 January 2020](2020-01-10-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
 | [2–9 January 2020](2020-01-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.1–4.1% | 1.8–4.5% |
 | [7–8 January 2020](2020-01-08-electoPanel.html) | electoPanel <br> electomania.es | 2.8% | 2.3–3.5% | 2.1–3.7% | 2.0–3.9% | 1.8–4.2% |
+| [28 December–5 January 2020](2020-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 2.7% | 2.2–3.6% | 2.1–3.7% | 1.9–3.8% | 1.6–4.3% |
 | [29 December 2019–2 January 2020](2020-01-02-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | 2.2–3.4% | 2.1–3.6% | 2.0–3.8% | 1.7–4.1% |
 | [30 December 2019–2 January 2020](2020-01-02-SWDemoscopia.html) | SW Demoscopia | 2.3% | 1.8–2.9% | 1.7–3.1% | 1.6–3.3% | 1.4–3.6% |
 | [25–28 December 2019](2019-12-28-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | 2.2–3.4% | 2.1–3.6% | 2.0–3.8% | 1.7–4.1% |
@@ -323,11 +325,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 64% | 89% | Median |
-| 2.5–3.5% | 23% | 25% |  |
-| 3.5–4.5% | 2% | 2% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 9% | 100% |  |
+| 1.5–2.5% | 62% | 91% | Median |
+| 2.5–3.5% | 26% | 28% |  |
+| 3.5–4.5% | 2% | 3% |  |
+| 4.5–5.5% | 0.2% | 0.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -340,6 +342,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| [3–9 January 2021](2021-01-09-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1 | 1 |
 | [28 December–2 January 2021](2021-01-02-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–30 December 2020](2020-12-30-NCReport.html) | NC Report <br> La Razón | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [22–29 December 2020](2020-12-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 0–1 | 0–1 | 0–2 |
@@ -510,6 +513,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7–10 January 2020](2020-01-10-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [2–9 January 2020](2020-01-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–8 January 2020](2020-01-08-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [28 December–5 January 2020](2020-01-05-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [29 December 2019–2 January 2020](2020-01-02-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 December 2019–2 January 2020](2020-01-02-SWDemoscopia.html) | SW Demoscopia | 1 | 1 | 1 | 0–2 | 0–2 |
 | [25–28 December 2019](2019-12-28-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -653,10 +657,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% | Last Result |
-| 1 | 81% | 91% | Median |
-| 2 | 9% | 10% |  |
-| 3 | 0.1% | 0.1% |  |
+| 0 | 7% | 100% | Last Result |
+| 1 | 87% | 93% | Median |
+| 2 | 6% | 6% |  |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 
