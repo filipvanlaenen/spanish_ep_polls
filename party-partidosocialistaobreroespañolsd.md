@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.1% | 24.2–29.3% | 23.3–29.9% | 22.7–30.5% | 21.5–31.8% |
+| N/A | [Poll Average](average.html) | 27.0% | 24.3–29.2% | 23.4–29.8% | 22.8–30.4% | 21.6–31.7% |
 | [3–9 January 2021](2021-01-09-electoPanel.html) | electoPanel <br> electomania.es | 27.2% | 25.8–28.7% | 25.4–29.1% | 25.1–29.5% | 24.4–30.2% |
-| [28 December–2 January 2021](2021-01-02-electoPanel.html) | electoPanel <br> electomania.es | 27.3% | 25.8–28.9% | 25.4–29.4% | 25.0–29.8% | 24.3–30.6% |
+| [28 December 2020–5 January 2021](2021-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 26.7% | 25.1–28.4% | 24.7–28.9% | 24.3–29.3% | 23.5–30.1% |
+| [28 December 2020–2 January 2021](2021-01-02-electoPanel.html) | electoPanel <br> electomania.es | 27.3% | 25.8–28.9% | 25.4–29.4% | 25.0–29.8% | 24.3–30.6% |
 | [18–30 December 2020](2020-12-30-NCReport.html) | NC Report <br> La Razón | 26.3% | 24.1–28.6% | 23.5–29.3% | 23.0–29.9% | 22.0–31.0% |
 | [22–29 December 2020](2020-12-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 27.9% | 26.2–29.6% | 25.8–30.1% | 25.4–30.6% | 24.6–31.4% |
 | [21–25 December 2020](2020-12-25-electoPanel.html) | electoPanel <br> electomania.es | 27.4% | 25.9–29.0% | 25.5–29.4% | 25.1–29.8% | 24.4–30.5% |
@@ -182,7 +183,6 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [7–10 January 2020](2020-01-10-GAD3.html) | GAD3 <br> ABC | 26.3% | 24.6–28.2% | 24.1–28.7% | 23.7–29.1% | 22.8–30.0% |
 | [2–9 January 2020](2020-01-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 28.0% | 26.3–29.8% | 25.8–30.3% | 25.4–30.7% | 24.6–31.6% |
 | [7–8 January 2020](2020-01-08-electoPanel.html) | electoPanel <br> electomania.es | 27.7% | 26.1–29.4% | 25.7–29.8% | 25.3–30.2% | 24.5–31.0% |
-| [28 December–5 January 2020](2020-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 26.7% | 25.1–28.4% | 24.6–28.9% | 24.3–29.4% | 23.5–30.2% |
 | [29 December 2019–2 January 2020](2020-01-02-electoPanel.html) | electoPanel <br> electomania.es | 27.6% | 26.0–29.3% | 25.6–29.7% | 25.2–30.1% | 24.4–31.0% |
 | [30 December 2019–2 January 2020](2020-01-02-SWDemoscopia.html) | SW Demoscopia | 28.0% | 26.4–29.6% | 26.0–30.1% | 25.6–30.5% | 24.9–31.3% |
 | [25–28 December 2019](2019-12-28-electoPanel.html) | electoPanel <br> electomania.es | 27.8% | 26.2–29.5% | 25.8–30.0% | 25.4–30.4% | 24.7–31.2% |
@@ -346,17 +346,17 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0.1% | 100% |  |
 | 20.5–21.5% | 0.4% | 99.9% |  |
-| 21.5–22.5% | 2% | 99.5% |  |
+| 21.5–22.5% | 1.5% | 99.6% |  |
 | 22.5–23.5% | 4% | 98% |  |
-| 23.5–24.5% | 7% | 94% |  |
-| 24.5–25.5% | 10% | 87% |  |
-| 25.5–26.5% | 16% | 77% |  |
-| 26.5–27.5% | 22% | 61% | Median |
-| 27.5–28.5% | 20% | 39% |  |
-| 28.5–29.5% | 12% | 20% |  |
+| 23.5–24.5% | 6% | 94% |  |
+| 24.5–25.5% | 10% | 88% |  |
+| 25.5–26.5% | 17% | 78% |  |
+| 26.5–27.5% | 23% | 61% | Median |
+| 27.5–28.5% | 20% | 38% |  |
+| 28.5–29.5% | 12% | 18% |  |
 | 29.5–30.5% | 5% | 7% |  |
-| 30.5–31.5% | 2% | 2% |  |
-| 31.5–32.5% | 0.4% | 0.7% |  |
+| 30.5–31.5% | 1.4% | 2% |  |
+| 31.5–32.5% | 0.4% | 0.6% |  |
 | 32.5–33.5% | 0.1% | 0.2% |  |
 | 33.5–34.5% | 0% | 0.1% |  |
 | 34.5–35.5% | 0% | 0% |  |
@@ -371,8 +371,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–18 | 14–19 | 14–19 | 13–20 |
-| [3–9 January 2021](2021-01-09-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 17–19 | 17–19 | 16–19 |
-| [28 December–2 January 2021](2021-01-02-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
+| [3–9 January 2021](2021-01-09-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 16–19 | 16–19 | 16–19 |
+| [28 December 2020–5 January 2021](2021-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
+| [28 December 2020–2 January 2021](2021-01-02-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [18–30 December 2020](2020-12-30-NCReport.html) | NC Report <br> La Razón | 17 | 14–18 | 14–18 | 14–19 | 14–19 |
 | [22–29 December 2020](2020-12-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [21–25 December 2020](2020-12-25-electoPanel.html) | electoPanel <br> electomania.es | 18 | 16–19 | 16–19 | 16–19 | 15–19 |
@@ -542,7 +543,6 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7–10 January 2020](2020-01-10-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [2–9 January 2020](2020-01-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 16–18 | 16–19 | 16–19 | 16–20 |
 | [7–8 January 2020](2020-01-08-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–18 | 16–18 | 16–19 | 16–19 |
-| [28 December–5 January 2020](2020-01-05-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [29 December 2019–2 January 2020](2020-01-02-electoPanel.html) | electoPanel <br> electomania.es | 18 | 16–19 | 16–19 | 16–20 | 15–20 |
 | [30 December 2019–2 January 2020](2020-01-02-SWDemoscopia.html) | SW Demoscopia | 18 | 17–19 | 16–19 | 16–19 | 15–20 |
 | [25–28 December 2019](2019-12-28-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
@@ -700,13 +700,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0.2% | 100% |  |
 | 13 | 2% | 99.8% |  |
-| 14 | 7% | 98% |  |
-| 15 | 12% | 90% |  |
-| 16 | 18% | 79% |  |
-| 17 | 35% | 60% | Median |
-| 18 | 19% | 25% |  |
-| 19 | 5% | 6% |  |
-| 20 | 1.1% | 1.2% |  |
+| 14 | 6% | 98% |  |
+| 15 | 11% | 91% |  |
+| 16 | 20% | 81% |  |
+| 17 | 34% | 61% | Median |
+| 18 | 21% | 27% |  |
+| 19 | 4% | 5% |  |
+| 20 | 1.0% | 1.0% |  |
 | 21 | 0% | 0% |  |
 
 
