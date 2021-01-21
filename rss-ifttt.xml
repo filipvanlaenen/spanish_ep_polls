@@ -6,6 +6,22 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Fri, 17 Jul 2020 21:26:45 +0200</pubDate>
     <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 11–15 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-01-15-electoPanel.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by electoPanel for electomania.es, 11–15 January 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-01-15-electoPanel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-01-15-electoPanel.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-01-15-electoPanel.png" length="414277" type="image/png"/>
+      <pubDate>Thu, 21 Jan 2021 17:55:01 +0100</pubDate>
+      <dc:date>2021-01-21T17:55:01.13805+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Hamalgama Métrica for OKDiario, 12–14 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-01-14-HamalgamaMétrica.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Hamalgama Métrica for OKDiario, 12–14 January 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-01-14-HamalgamaMétrica.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-01-14-HamalgamaMétrica.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-01-14-HamalgamaMétrica.png" length="260419" type="image/png"/>
+      <pubDate>Thu, 21 Jan 2021 18:35:13 +0100</pubDate>
+      <dc:date>2021-01-21T18:35:13.137131+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Simple Lógica, 4–13 January 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-01-13-SimpleLógica.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by Simple Lógica, 4–13 January 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-01-13-SimpleLógica.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-01-13-SimpleLógica-seating-plan.png"/>]]></description>
@@ -28,6 +44,14 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-01-13-SimpleLógica.png" length="212756" type="image/png"/>
       <pubDate>Mon, 18 Jan 2021 18:04:10 +0100</pubDate>
       <dc:date>2021-01-18T18:04:10.547586+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SyM Consulting, 7–10 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-01-10-SyMConsulting.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by SyM Consulting, 7–10 January 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-01-10-SyMConsulting.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-01-10-SyMConsulting.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-01-10-SyMConsulting.png" length="316818" type="image/png"/>
+      <pubDate>Thu, 21 Jan 2021 19:15:20 +0100</pubDate>
+      <dc:date>2021-01-21T19:15:20.443233+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 3–9 January 2021 – Seating Plan Projection</title>
@@ -268,30 +292,6 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-12-17-electoPanel.png" length="415207" type="image/png"/>
       <pubDate>Sat, 19 Dec 2020 23:49:24 +0100</pubDate>
       <dc:date>2020-12-19T23:49:24.421441+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Celeste-Tel for Onda Cero, 9–15 December 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-12-15-Celeste-Tel.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by Celeste-Tel for Onda Cero, 9–15 December 2020<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2020-12-15-Celeste-Tel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2020-12-15-Celeste-Tel-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-12-15-Celeste-Tel-seating-plan.png" length="445549" type="image/png"/>
-      <pubDate>Thu, 24 Dec 2020 19:22:12 +0100</pubDate>
-      <dc:date>2020-12-24T19:22:12.008292+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Celeste-Tel for Onda Cero, 9–15 December 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-12-15-Celeste-Tel.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by Celeste-Tel for Onda Cero, 9–15 December 2020<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2020-12-15-Celeste-Tel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2020-12-15-Celeste-Tel-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-12-15-Celeste-Tel-seats.png" length="363438" type="image/png"/>
-      <pubDate>Thu, 24 Dec 2020 19:22:12 +0100</pubDate>
-      <dc:date>2020-12-24T19:22:12.008292+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Celeste-Tel for Onda Cero, 9–15 December 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2020-12-15-Celeste-Tel.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Celeste-Tel for Onda Cero, 9–15 December 2020<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2020-12-15-Celeste-Tel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2020-12-15-Celeste-Tel.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2020-12-15-Celeste-Tel.png" length="432877" type="image/png"/>
-      <pubDate>Thu, 24 Dec 2020 19:22:12 +0100</pubDate>
-      <dc:date>2020-12-24T19:22:12.008292+01:00</dc:date>
     </item>
   </channel>
 </rss>
