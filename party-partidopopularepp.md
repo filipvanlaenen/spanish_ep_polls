@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.4% | 21.0–26.0% | 20.4–26.7% | 19.8–27.2% | 18.7–28.3% |
+| N/A | [Poll Average](average.html) | 23.5% | 21.1–25.8% | 20.4–26.4% | 19.8–27.0% | 18.7–28.1% |
+| [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 23.1% | 21.7–24.6% | 21.3–25.0% | 20.9–25.4% | 20.3–26.1% |
+| [12–14 January 2021](2021-01-14-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 24.4% | 22.7–26.2% | 22.2–26.7% | 21.8–27.2% | 21.0–28.0% |
 | [4–13 January 2021](2021-01-13-SimpleLógica.html) | Simple Lógica | 21.1% | 19.5–22.7% | 19.1–23.2% | 18.7–23.6% | 18.0–24.5% |
+| [7–10 January 2021](2021-01-10-SyMConsulting.html) | SyM Consulting | 24.6% | 23.4–25.8% | 23.1–26.2% | 22.8–26.5% | 22.2–27.1% |
 | [3–9 January 2021](2021-01-09-electoPanel.html) | electoPanel <br> electomania.es | 22.8% | 21.5–24.2% | 21.1–24.6% | 20.8–25.0% | 20.1–25.6% |
 | [28 December 2020–5 January 2021](2021-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 22.9% | 21.4–24.5% | 21.0–25.0% | 20.6–25.3% | 19.9–26.1% |
 | [28 December 2020–2 January 2021](2021-01-02-electoPanel.html) | electoPanel <br> electomania.es | 23.0% | 21.6–24.6% | 21.2–25.0% | 20.8–25.4% | 20.1–26.1% |
@@ -344,18 +347,18 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
 | 17.5–18.5% | 0.3% | 99.9% |  |
-| 18.5–19.5% | 1.5% | 99.6% |  |
+| 18.5–19.5% | 1.4% | 99.6% |  |
 | 19.5–20.5% | 4% | 98% |  |
-| 20.5–21.5% | 10% | 94% |  |
-| 21.5–22.5% | 17% | 84% |  |
-| 22.5–23.5% | 20% | 67% | Median |
-| 23.5–24.5% | 18% | 46% |  |
-| 24.5–25.5% | 14% | 28% |  |
-| 25.5–26.5% | 9% | 15% |  |
-| 26.5–27.5% | 4% | 6% |  |
-| 27.5–28.5% | 1.3% | 2% |  |
-| 28.5–29.5% | 0.3% | 0.4% |  |
-| 29.5–30.5% | 0.1% | 0.1% |  |
+| 20.5–21.5% | 9% | 94% |  |
+| 21.5–22.5% | 15% | 86% |  |
+| 22.5–23.5% | 20% | 70% |  |
+| 23.5–24.5% | 21% | 50% | Median |
+| 24.5–25.5% | 16% | 28% |  |
+| 25.5–26.5% | 8% | 13% |  |
+| 26.5–27.5% | 3% | 4% |  |
+| 27.5–28.5% | 0.9% | 1.1% |  |
+| 28.5–29.5% | 0.2% | 0.3% |  |
+| 29.5–30.5% | 0% | 0.1% |  |
 | 30.5–31.5% | 0% | 0% |  |
 
 
@@ -367,8 +370,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–17 | 11–17 |
+| [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14–15 | 14–15 | 13–15 | 13–17 |
+| [12–14 January 2021](2021-01-14-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [4–13 January 2021](2021-01-13-SimpleLógica.html) | Simple Lógica | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
+| [7–10 January 2021](2021-01-10-SyMConsulting.html) | SyM Consulting | 15 | 14–16 | 14–16 | 14–16 | 14–17 |
 | [3–9 January 2021](2021-01-09-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–15 | 13–15 | 13–16 | 13–16 |
 | [28 December 2020–5 January 2021](2021-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 13–15 | 13–16 | 13–16 | 13–16 |
 | [28 December 2020–2 January 2021](2021-01-02-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–15 | 13–16 | 13–17 | 13–17 |
@@ -697,13 +703,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.1% | 100% |  |
 | 11 | 1.2% | 99.9% |  |
 | 12 | 7% | 98.7% |  |
-| 13 | 18% | 91% |  |
-| 14 | 29% | 74% | Median |
-| 15 | 22% | 44% |  |
-| 16 | 18% | 22% |  |
-| 17 | 3% | 4% |  |
-| 18 | 0.7% | 0.7% |  |
-| 19 | 0.1% | 0.1% |  |
-| 20 | 0% | 0% |  |
+| 13 | 16% | 92% |  |
+| 14 | 33% | 76% | Median |
+| 15 | 27% | 43% |  |
+| 16 | 13% | 16% |  |
+| 17 | 3% | 3% |  |
+| 18 | 0.3% | 0.4% |  |
+| 19 | 0% | 0% |  |
 
 

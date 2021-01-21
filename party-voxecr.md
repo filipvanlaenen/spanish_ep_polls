@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.5% | 13.1–17.7% | 12.5–18.3% | 12.1–18.9% | 11.4–20.0% |
+| N/A | [Poll Average](average.html) | 15.6% | 13.5–17.7% | 13.0–18.3% | 12.6–18.9% | 11.7–20.0% |
+| [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 15.8% | 14.6–17.1% | 14.2–17.5% | 13.9–17.8% | 13.4–18.4% |
+| [12–14 January 2021](2021-01-14-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 15.6% | 14.2–17.2% | 13.8–17.6% | 13.5–18.0% | 12.8–18.8% |
 | [4–13 January 2021](2021-01-13-SimpleLógica.html) | Simple Lógica | 15.2% | 13.9–16.7% | 13.5–17.2% | 13.2–17.5% | 12.5–18.3% |
+| [7–10 January 2021](2021-01-10-SyMConsulting.html) | SyM Consulting | 14.2% | 13.3–15.3% | 13.0–15.5% | 12.8–15.8% | 12.3–16.3% |
 | [3–9 January 2021](2021-01-09-electoPanel.html) | electoPanel <br> electomania.es | 16.1% | 14.9–17.3% | 14.6–17.7% | 14.3–18.0% | 13.8–18.6% |
 | [28 December 2020–5 January 2021](2021-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 16.7% | 15.3–18.1% | 15.0–18.5% | 14.7–18.9% | 14.1–19.6% |
 | [28 December 2020–2 January 2021](2021-01-02-electoPanel.html) | electoPanel <br> electomania.es | 16.0% | 14.7–17.3% | 14.4–17.7% | 14.1–18.1% | 13.5–18.7% |
@@ -336,12 +339,12 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.7% | 100% |  |
-| 11.5–12.5% | 4% | 99.2% |  |
-| 12.5–13.5% | 11% | 95% |  |
-| 13.5–14.5% | 15% | 84% |  |
-| 14.5–15.5% | 19% | 69% |  |
-| 15.5–16.5% | 22% | 50% | Median |
+| 10.5–11.5% | 0.3% | 100% |  |
+| 11.5–12.5% | 2% | 99.7% |  |
+| 12.5–13.5% | 8% | 98% |  |
+| 13.5–14.5% | 17% | 90% |  |
+| 14.5–15.5% | 22% | 73% |  |
+| 15.5–16.5% | 23% | 51% | Median |
 | 16.5–17.5% | 16% | 28% |  |
 | 17.5–18.5% | 8% | 12% |  |
 | 18.5–19.5% | 3% | 4% |  |
@@ -359,8 +362,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 7–12 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
+| [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
+| [12–14 January 2021](2021-01-14-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [4–13 January 2021](2021-01-13-SimpleLógica.html) | Simple Lógica | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
+| [7–10 January 2021](2021-01-10-SyMConsulting.html) | SyM Consulting | 9 | 8–9 | 7–9 | 7–10 | 7–10 |
 | [3–9 January 2021](2021-01-09-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | [28 December 2020–5 January 2021](2021-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
 | [28 December 2020–2 January 2021](2021-01-02-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
@@ -684,11 +690,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
 | 7 | 4% | 99.9% |  |
-| 8 | 21% | 96% |  |
-| 9 | 27% | 74% | Median |
-| 10 | 25% | 47% |  |
-| 11 | 19% | 22% |  |
-| 12 | 3% | 3% |  |
+| 8 | 15% | 96% |  |
+| 9 | 33% | 81% | Median |
+| 10 | 30% | 48% |  |
+| 11 | 15% | 18% |  |
+| 12 | 2% | 2% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
