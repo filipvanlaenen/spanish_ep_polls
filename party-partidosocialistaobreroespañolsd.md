@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.7% | 24.3–28.8% | 23.5–29.5% | 22.8–30.0% | 21.7–31.5% |
+| N/A | [Poll Average](average.html) | 26.7% | 24.4–28.8% | 23.6–29.5% | 22.9–30.1% | 21.7–31.5% |
 | [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 27.2% | 25.7–28.8% | 25.3–29.2% | 24.9–29.6% | 24.2–30.4% |
+| [11–15 January 2021](2021-01-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 27.0% | 24.9–29.2% | 24.3–29.8% | 23.8–30.3% | 22.9–31.4% |
 | [12–14 January 2021](2021-01-14-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 26.4% | 24.7–28.2% | 24.2–28.8% | 23.8–29.2% | 22.9–30.1% |
 | [4–13 January 2021](2021-01-13-SimpleLógica.html) | Simple Lógica | 26.3% | 24.6–28.1% | 24.1–28.6% | 23.7–29.1% | 22.9–29.9% |
 | [7–10 January 2021](2021-01-10-SyMConsulting.html) | SyM Consulting | 26.7% | 25.5–28.0% | 25.1–28.3% | 24.8–28.7% | 24.2–29.3% |
@@ -348,21 +349,21 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.1% | 100% |  |
+| 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.3% | 99.9% |  |
-| 21.5–22.5% | 1.4% | 99.6% |  |
+| 21.5–22.5% | 1.3% | 99.6% |  |
 | 22.5–23.5% | 3% | 98% |  |
 | 23.5–24.5% | 7% | 95% |  |
 | 24.5–25.5% | 13% | 88% |  |
-| 25.5–26.5% | 21% | 75% |  |
-| 26.5–27.5% | 24% | 54% | Median |
-| 27.5–28.5% | 17% | 30% |  |
-| 28.5–29.5% | 8% | 13% |  |
-| 29.5–30.5% | 3% | 4% |  |
-| 30.5–31.5% | 1.0% | 1.4% |  |
+| 25.5–26.5% | 21% | 76% |  |
+| 26.5–27.5% | 24% | 55% | Median |
+| 27.5–28.5% | 17% | 31% |  |
+| 28.5–29.5% | 9% | 13% |  |
+| 29.5–30.5% | 3% | 5% |  |
+| 30.5–31.5% | 1.0% | 1.5% |  |
 | 31.5–32.5% | 0.3% | 0.5% |  |
-| 32.5–33.5% | 0.1% | 0.2% |  |
-| 33.5–34.5% | 0% | 0.1% |  |
+| 32.5–33.5% | 0.1% | 0.1% |  |
+| 33.5–34.5% | 0% | 0% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
 
@@ -374,8 +375,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–18 | 14–19 | 14–19 | 13–19 |
-| [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 19 | 16–19 | 16–19 | 15–19 | 15–19 |
+| N/A | [Poll Average](average.html) | 17 | 15–18 | 14–18 | 14–19 | 13–19 |
+| [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–19 | 16–19 | 15–19 | 15–19 |
+| [11–15 January 2021](2021-01-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 17 | 15–18 | 15–19 | 15–19 | 14–21 |
 | [12–14 January 2021](2021-01-14-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [4–13 January 2021](2021-01-13-SimpleLógica.html) | Simple Lógica | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [7–10 January 2021](2021-01-10-SyMConsulting.html) | SyM Consulting | 16 | 15–17 | 15–17 | 15–18 | 15–18 |
@@ -708,13 +710,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0.1% | 100% |  |
 | 13 | 2% | 99.9% |  |
-| 14 | 7% | 98% |  |
-| 15 | 16% | 91% |  |
-| 16 | 25% | 75% |  |
-| 17 | 32% | 50% | Median |
-| 18 | 10% | 19% |  |
-| 19 | 8% | 9% |  |
-| 20 | 0.4% | 0.4% |  |
-| 21 | 0% | 0% |  |
+| 14 | 6% | 98% |  |
+| 15 | 16% | 92% |  |
+| 16 | 24% | 76% |  |
+| 17 | 37% | 52% | Median |
+| 18 | 11% | 15% |  |
+| 19 | 4% | 4% |  |
+| 20 | 0.3% | 0.4% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 

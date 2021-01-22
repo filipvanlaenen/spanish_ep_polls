@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.7–3.1% | 1.5–3.4% | 1.4–3.7% | 1.0–4.3% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.7–3.1% | 1.5–3.4% | 1.4–3.7% | 1.1–4.2% |
 | [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 2.3% | 1.9–2.9% | 1.7–3.1% | 1.6–3.3% | 1.4–3.6% |
+| [11–15 January 2021](2021-01-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2.2% | 1.7–3.1% | 1.5–3.4% | 1.4–3.6% | 1.2–4.1% |
 | [12–14 January 2021](2021-01-14-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
 | [4–13 January 2021](2021-01-13-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [7–10 January 2021](2021-01-10-SyMConsulting.html) | SyM Consulting | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
@@ -331,9 +332,9 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 6% | 100% |  |
 | 1.5–2.5% | 60% | 94% | Median |
-| 2.5–3.5% | 30% | 34% |  |
+| 2.5–3.5% | 31% | 34% |  |
 | 3.5–4.5% | 3% | 3% |  |
-| 4.5–5.5% | 0.2% | 0.3% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -346,7 +347,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1–2 | 1–2 |
+| [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1–2 | 0–2 |
+| [11–15 January 2021](2021-01-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [12–14 January 2021](2021-01-14-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario |  |  |  |  |  |
 | [4–13 January 2021](2021-01-13-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [7–10 January 2021](2021-01-10-SyMConsulting.html) | SyM Consulting | 1 | 1 | 1 | 1 | 0–1 |
@@ -667,7 +669,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 5% | 100% | Last Result |
 | 1 | 81% | 95% | Median |
-| 2 | 14% | 15% |  |
+| 2 | 14% | 14% |  |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
