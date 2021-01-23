@@ -371,9 +371,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–17 | 11–17 |
 | [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [11–15 January 2021](2021-01-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 15 | 14–16 | 13–16 | 13–17 | 12–18 |
+| [11–15 January 2021](2021-01-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
 | [12–14 January 2021](2021-01-14-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [4–13 January 2021](2021-01-13-SimpleLógica.html) | Simple Lógica | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [7–10 January 2021](2021-01-10-SyMConsulting.html) | SyM Consulting | 15 | 14–16 | 14–16 | 14–16 | 14–17 |
@@ -707,10 +707,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 6% | 98.8% |  |
 | 13 | 16% | 93% |  |
 | 14 | 31% | 77% | Median |
-| 15 | 29% | 46% |  |
-| 16 | 14% | 17% |  |
-| 17 | 2% | 3% |  |
-| 18 | 0.5% | 0.5% |  |
+| 15 | 27% | 46% |  |
+| 16 | 15% | 19% |  |
+| 17 | 4% | 5% |  |
+| 18 | 0.4% | 0.4% |  |
 | 19 | 0% | 0% |  |
 
 

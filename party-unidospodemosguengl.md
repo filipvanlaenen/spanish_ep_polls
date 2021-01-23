@@ -359,10 +359,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
-| [11–15 January 2021](2021-01-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [12–14 January 2021](2021-01-14-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
+| [11–15 January 2021](2021-01-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 6 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [12–14 January 2021](2021-01-14-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [4–13 January 2021](2021-01-13-SimpleLógica.html) | Simple Lógica | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [7–10 January 2021](2021-01-10-SyMConsulting.html) | SyM Consulting | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [7–10 January 2021](2021-01-10-SyMConsulting.html) | SyM Consulting | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [3–9 January 2021](2021-01-09-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [28 December 2020–5 January 2021](2021-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [28 December 2020–2 January 2021](2021-01-02-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
@@ -682,11 +682,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.4% | 100% |  |
-| 5 | 10% | 99.6% |  |
-| 6 | 43% | 90% | Median |
-| 7 | 33% | 47% |  |
-| 8 | 12% | 13% |  |
+| 4 | 0.3% | 100% |  |
+| 5 | 10% | 99.7% |  |
+| 6 | 46% | 89% | Median |
+| 7 | 31% | 44% |  |
+| 8 | 11% | 13% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |

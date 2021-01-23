@@ -364,10 +364,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
 | [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
-| [11–15 January 2021](2021-01-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 10 | 8–11 | 8–11 | 7–11 | 7–11 |
+| [11–15 January 2021](2021-01-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | [12–14 January 2021](2021-01-14-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [4–13 January 2021](2021-01-13-SimpleLógica.html) | Simple Lógica | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
-| [7–10 January 2021](2021-01-10-SyMConsulting.html) | SyM Consulting | 9 | 8–9 | 7–9 | 7–10 | 7–10 |
+| [7–10 January 2021](2021-01-10-SyMConsulting.html) | SyM Consulting | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [3–9 January 2021](2021-01-09-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | [28 December 2020–5 January 2021](2021-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
 | [28 December 2020–2 January 2021](2021-01-02-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
@@ -690,11 +690,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
-| 7 | 4% | 99.9% |  |
-| 8 | 16% | 96% |  |
-| 9 | 35% | 81% | Median |
-| 10 | 26% | 45% |  |
-| 11 | 17% | 19% |  |
+| 7 | 3% | 99.9% |  |
+| 8 | 16% | 97% |  |
+| 9 | 38% | 81% | Median |
+| 10 | 27% | 43% |  |
+| 11 | 14% | 16% |  |
 | 12 | 2% | 2% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
