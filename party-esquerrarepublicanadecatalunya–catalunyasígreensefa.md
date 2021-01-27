@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.9–4.6% | 2.6–4.9% | 2.5–5.3% | 2.1–6.0% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.9–4.6% | 2.7–4.9% | 2.5–5.3% | 2.1–6.0% |
+| [18–22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 3.4% | 2.9–4.1% | 2.7–4.3% | 2.6–4.5% | 2.3–4.8% |
+| [18–22 January 2021](2021-01-22-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 3.3% | 2.8–4.0% | 2.6–4.2% | 2.5–4.4% | 2.3–4.8% |
 | [11–15 January 2021](2021-01-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3.9% | 3.1–5.0% | 2.9–5.3% | 2.7–5.6% | 2.4–6.2% |
 | [12–14 January 2021](2021-01-14-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
@@ -332,8 +334,8 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 42% | 97% |  |
-| 3.5–4.5% | 45% | 55% | Median |
+| 2.5–3.5% | 41% | 97% |  |
+| 3.5–4.5% | 45% | 56% | Median |
 | 4.5–5.5% | 9% | 10% |  |
 | 5.5–6.5% | 1.2% | 1.4% |  |
 | 6.5–7.5% | 0.2% | 0.2% |  |
@@ -349,6 +351,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [18–22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [18–22 January 2021](2021-01-22-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [11–15 January 2021](2021-01-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [12–14 January 2021](2021-01-14-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -670,8 +674,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 28% | 100% |  |
-| 2 | 64% | 72% | Median |
+| 1 | 29% | 100% |  |
+| 2 | 63% | 71% | Median |
 | 3 | 8% | 8% |  |
 | 4 | 0.1% | 0.2% |  |
 | 5 | 0% | 0% |  |
