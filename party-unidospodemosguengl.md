@@ -359,9 +359,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
+| N/A | [Poll Average](average.html) | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [18–22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
-| [18–22 January 2021](2021-01-22-Invymark.html) | Invymark <br> laSexta | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [18–22 January 2021](2021-01-22-Invymark.html) | Invymark <br> laSexta | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
 | [11–15 January 2021](2021-01-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 6 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [12–14 January 2021](2021-01-14-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
@@ -687,9 +687,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.3% | 100% |  |
-| 5 | 10% | 99.7% |  |
-| 6 | 42% | 90% | Median |
-| 7 | 33% | 48% |  |
+| 5 | 9% | 99.7% |  |
+| 6 | 43% | 90% | Median |
+| 7 | 33% | 47% |  |
 | 8 | 13% | 14% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0.1% | 0.1% |  |

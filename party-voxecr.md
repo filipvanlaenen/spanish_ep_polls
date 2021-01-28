@@ -365,7 +365,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
-| [18–22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9–11 | 9–11 | 8–11 | 8–11 |
+| [18–22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [18–22 January 2021](2021-01-22-Invymark.html) | Invymark <br> laSexta | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [11–15 January 2021](2021-01-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
@@ -695,10 +695,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
 | 7 | 3% | 99.9% |  |
-| 8 | 18% | 97% |  |
-| 9 | 39% | 79% | Median |
-| 10 | 23% | 40% |  |
-| 11 | 15% | 17% |  |
+| 8 | 17% | 97% |  |
+| 9 | 38% | 79% | Median |
+| 10 | 24% | 41% |  |
+| 11 | 14% | 17% |  |
 | 12 | 2% | 2% |  |
 | 13 | 0% | 0.1% |  |
 | 14 | 0% | 0% |  |
