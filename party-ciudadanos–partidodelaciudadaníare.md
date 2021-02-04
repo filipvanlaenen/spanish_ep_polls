@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.6–8.8% | 5.1–9.4% | 4.7–9.8% | 4.2–10.8% |
+| N/A | [Poll Average](average.html) | 7.1% | 5.5–9.3% | 5.1–9.7% | 4.7–10.0% | 4.1–10.6% |
+| [22–29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 7.3% | 6.5–8.2% | 6.3–8.5% | 6.1–8.7% | 5.7–9.2% |
+| [7–25 January 2021](2021-01-25-CIS.html) | CIS | 9.3% | 8.7–9.9% | 8.6–10.1% | 8.4–10.3% | 8.1–10.6% |
 | [18–22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 7.3% | 6.5–8.2% | 6.2–8.5% | 6.1–8.7% | 5.7–9.2% |
 | [18–22 January 2021](2021-01-22-Invymark.html) | Invymark <br> laSexta | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 7.1% | 6.3–8.1% | 6.0–8.3% | 5.9–8.6% | 5.5–9.1% |
@@ -338,13 +340,12 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 2% | 100% |  |
 | 4.5–5.5% | 8% | 98% |  |
 | 5.5–6.5% | 23% | 90% |  |
-| 6.5–7.5% | 34% | 67% | Median |
-| 7.5–8.5% | 21% | 33% |  |
-| 8.5–9.5% | 9% | 13% |  |
-| 9.5–10.5% | 3% | 4% |  |
-| 10.5–11.5% | 0.6% | 0.8% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 6.5–7.5% | 31% | 67% | Median |
+| 7.5–8.5% | 16% | 36% |  |
+| 8.5–9.5% | 14% | 20% |  |
+| 9.5–10.5% | 6% | 6% |  |
+| 10.5–11.5% | 0.5% | 0.5% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -355,7 +356,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 2–6 | 2–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 2–6 | 2–6 |
+| [22–29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
+| [7–25 January 2021](2021-01-25-CIS.html) | CIS | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [18–22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [18–22 January 2021](2021-01-22-Invymark.html) | Invymark <br> laSexta | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [11–15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -682,10 +685,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 3% | 100% |  |
 | 3 | 21% | 97% |  |
-| 4 | 51% | 76% | Median |
-| 5 | 22% | 25% |  |
-| 6 | 3% | 3% |  |
-| 7 | 0.2% | 0.2% |  |
+| 4 | 45% | 76% | Median |
+| 5 | 21% | 31% |  |
+| 6 | 10% | 10% |  |
+| 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
 
