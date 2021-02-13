@@ -380,7 +380,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 15–20 | 14–20 |
-| [30 January–6 February 2021](2021-02-06-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 16–18 | 16–18 | 16–19 |
+| [30 January–6 February 2021](2021-02-06-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [22–29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [7–25 January 2021](2021-01-25-CIS.html) | CIS | 20 | 18–20 | 18–20 | 18–20 | 18–21 |
 | [18–22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 18 | 15–19 | 15–19 | 15–19 | 15–19 |
@@ -720,10 +720,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0.1% | 100% |  |
 | 14 | 2% | 99.9% |  |
-| 15 | 12% | 98% |  |
-| 16 | 30% | 85% |  |
-| 17 | 29% | 55% | Median |
-| 18 | 12% | 26% |  |
+| 15 | 13% | 98% |  |
+| 16 | 31% | 85% |  |
+| 17 | 30% | 54% | Median |
+| 18 | 10% | 24% |  |
 | 19 | 6% | 14% |  |
 | 20 | 8% | 8% |  |
 | 21 | 0.3% | 0.3% |  |
