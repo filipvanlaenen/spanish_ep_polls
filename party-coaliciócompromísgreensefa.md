@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 1.4–2.9% | 1.3–3.3% | 1.2–3.6% | 1.1–4.1% |
+| N/A | [Poll Average](average.html) | 1.8% | 1.3–2.9% | 1.3–3.3% | 1.2–3.6% | 1.0–4.1% |
+| [14–16 February 2021](2021-02-16-electoPanel.html) | electoPanel <br> electomania.es | 1.7% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% | 0.9–2.9% |
 | [6–12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 1.7% | 1.4–2.1% | 1.3–2.2% | 1.3–2.3% | 1.1–2.5% |
 | [30 January–6 February 2021](2021-02-06-electoPanel.html) | electoPanel <br> electomania.es | 1.8% | 1.5–2.3% | 1.4–2.4% | 1.3–2.5% | 1.1–2.8% |
 | [22–29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 1.8% | 1.4–2.3% | 1.3–2.5% | 1.2–2.6% | 1.1–2.9% |
@@ -336,9 +337,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 28% | 100% |  |
-| 1.5–2.5% | 54% | 72% | Median |
-| 2.5–3.5% | 16% | 18% |  |
+| 0.5–1.5% | 30% | 100% |  |
+| 1.5–2.5% | 51% | 70% | Median |
+| 2.5–3.5% | 17% | 19% |  |
 | 3.5–4.5% | 3% | 3% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -353,6 +354,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [14–16 February 2021](2021-02-16-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 January–6 February 2021](2021-02-06-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 0–1 | 0–1 |
 | [22–29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -679,8 +681,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% | Last Result |
-| 1 | 66% | 74% | Median |
+| 0 | 27% | 100% | Last Result |
+| 1 | 66% | 73% | Median |
 | 2 | 7% | 7% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
