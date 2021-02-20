@@ -13,7 +13,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1.5% | 1.1–2.0% | 1.0–2.2% | 0.9–2.4% | 0.7–2.9% |
 | [14–16 February 2021](2021-02-16-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.0–1.8% | 0.9–2.0% | 0.8–2.1% | 0.7–2.4% |
 | [6–12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.2–1.9% | 1.2–2.0% | 1.1–2.1% | 1.0–2.3% |
+| [3–11 February 2021](2021-02-11-CIS.html) | CIS | 1.5% | 1.3–1.8% | 1.2–1.9% | 1.2–1.9% | 1.1–2.1% |
 | [30 January–6 February 2021](2021-02-06-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.2–1.9% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% |
+| [1–5 February 2021](2021-02-05-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [22–29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.1–2.0% | 1.1–2.1% | 1.0–2.2% | 0.8–2.5% |
 | [7–25 January 2021](2021-01-25-CIS.html) | CIS | 1.6% | 1.4–1.9% | 1.3–2.0% | 1.2–2.1% | 1.1–2.2% |
 | [18–22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% |
@@ -337,8 +339,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 51% | 100% |  |
-| 1.5–2.5% | 47% | 49% | Median |
+| 0.5–1.5% | 58% | 100% | Median |
+| 1.5–2.5% | 40% | 42% |  |
 | 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -354,7 +356,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–16 February 2021](2021-02-16-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–11 February 2021](2021-02-11-CIS.html) | CIS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 January–6 February 2021](2021-02-06-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–5 February 2021](2021-02-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [22–29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–25 January 2021](2021-01-25-CIS.html) | CIS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -679,8 +683,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 53% | 100% | Last Result, Median |
-| 1 | 46% | 47% |  |
+| 0 | 69% | 100% | Last Result, Median |
+| 1 | 31% | 31% |  |
 | 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 

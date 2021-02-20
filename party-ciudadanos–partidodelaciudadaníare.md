@@ -10,10 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.0–9.3% | 4.7–9.6% | 4.4–9.9% | 4.0–10.3% |
+| N/A | [Poll Average](average.html) | 7.5% | 5.5–9.8% | 5.1–10.2% | 4.9–10.6% | 4.4–11.7% |
 | [14–16 February 2021](2021-02-16-electoPanel.html) | electoPanel <br> electomania.es | 5.6% | 4.8–6.5% | 4.6–6.8% | 4.4–7.0% | 4.1–7.5% |
 | [6–12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 7.5% | 6.9–8.2% | 6.7–8.4% | 6.5–8.6% | 6.2–9.0% |
+| [3–11 February 2021](2021-02-11-CIS.html) | CIS | 9.3% | 8.7–9.9% | 8.6–10.1% | 8.4–10.3% | 8.2–10.6% |
 | [30 January–6 February 2021](2021-02-06-electoPanel.html) | electoPanel <br> electomania.es | 7.4% | 6.6–8.2% | 6.4–8.5% | 6.3–8.7% | 5.9–9.1% |
+| [1–5 February 2021](2021-02-05-SimpleLógica.html) | Simple Lógica | 9.2% | 7.9–10.8% | 7.5–11.2% | 7.2–11.7% | 6.6–12.5% |
 | [22–29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 7.3% | 6.5–8.2% | 6.3–8.5% | 6.1–8.7% | 5.7–9.2% |
 | [7–25 January 2021](2021-01-25-CIS.html) | CIS | 9.3% | 8.7–9.9% | 8.6–10.1% | 8.4–10.3% | 8.1–10.6% |
 | [18–22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 7.3% | 6.5–8.2% | 6.2–8.5% | 6.1–8.7% | 5.7–9.2% |
@@ -339,16 +341,18 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 4% | 99.9% |  |
-| 4.5–5.5% | 20% | 96% |  |
-| 5.5–6.5% | 26% | 76% |  |
-| 6.5–7.5% | 19% | 50% | Median |
-| 7.5–8.5% | 9% | 30% |  |
-| 8.5–9.5% | 15% | 21% |  |
-| 9.5–10.5% | 6% | 6% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.9% | 100% |  |
+| 4.5–5.5% | 10% | 99.1% |  |
+| 5.5–6.5% | 20% | 89% |  |
+| 6.5–7.5% | 19% | 69% | Median |
+| 7.5–8.5% | 14% | 49% |  |
+| 8.5–9.5% | 21% | 36% |  |
+| 9.5–10.5% | 11% | 14% |  |
+| 10.5–11.5% | 2% | 3% |  |
+| 11.5–12.5% | 0.5% | 0.6% |  |
+| 12.5–13.5% | 0.1% | 0.1% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -359,10 +363,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–6 | 2–6 | 2–6 | 2–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 3–6 | 2–7 |
 | [14–16 February 2021](2021-02-16-electoPanel.html) | electoPanel <br> electomania.es | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | [6–12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [3–11 February 2021](2021-02-11-CIS.html) | CIS | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [30 January–6 February 2021](2021-02-06-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [1–5 February 2021](2021-02-05-SimpleLógica.html) | Simple Lógica | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [22–29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [7–25 January 2021](2021-01-25-CIS.html) | CIS | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [18–22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
@@ -689,12 +695,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 6% | 100% |  |
-| 3 | 38% | 94% |  |
-| 4 | 27% | 55% | Median |
-| 5 | 14% | 28% |  |
-| 6 | 14% | 14% |  |
-| 7 | 0.1% | 0.1% |  |
+| 2 | 1.0% | 100% |  |
+| 3 | 25% | 99.0% |  |
+| 4 | 29% | 74% | Median |
+| 5 | 32% | 45% |  |
+| 6 | 12% | 13% |  |
+| 7 | 0.8% | 0.8% |  |
 | 8 | 0% | 0% |  |
 
 
