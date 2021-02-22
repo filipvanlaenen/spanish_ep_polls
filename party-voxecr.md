@@ -372,12 +372,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
+| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–12 | 8–12 | 7–13 |
 | [14–16 February 2021](2021-02-16-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [6–12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
-| [3–11 February 2021](2021-02-11-CIS.html) | CIS | 9 | 8–9 | 8–9 | 7–9 | 7–9 |
+| [3–11 February 2021](2021-02-11-CIS.html) | CIS | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [30 January–6 February 2021](2021-02-06-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–10 | 9–10 | 9–10 | 8–11 |
-| [1–5 February 2021](2021-02-05-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 8–12 | 8–12 |
+| [1–5 February 2021](2021-02-05-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 8–11 | 8–12 | 8–12 |
 | [22–29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9–10 | 9–11 | 8–11 | 8–11 |
 | [7–25 January 2021](2021-01-25-CIS.html) | CIS | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [18–22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
@@ -709,11 +709,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 1.2% | 100% |  |
-| 8 | 10% | 98.8% |  |
-| 9 | 33% | 88% |  |
-| 10 | 27% | 55% | Median |
-| 11 | 18% | 28% |  |
+| 7 | 0.6% | 100% |  |
+| 8 | 20% | 99.4% |  |
+| 9 | 24% | 79% |  |
+| 10 | 28% | 55% | Median |
+| 11 | 17% | 27% |  |
 | 12 | 9% | 10% |  |
 | 13 | 0.8% | 0.9% |  |
 | 14 | 0.1% | 0.1% |  |

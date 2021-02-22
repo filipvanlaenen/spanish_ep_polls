@@ -387,9 +387,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 18 | 16–19 | 15–20 | 15–20 | 14–21 |
 | [14–16 February 2021](2021-02-16-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [6–12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 17–18 | 16–18 | 16–19 |
-| [3–11 February 2021](2021-02-11-CIS.html) | CIS | 19 | 19–20 | 19–20 | 18–20 | 18–21 |
+| [3–11 February 2021](2021-02-11-CIS.html) | CIS | 19 | 18–20 | 18–20 | 18–20 | 18–21 |
 | [30 January–6 February 2021](2021-02-06-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
-| [1–5 February 2021](2021-02-05-SimpleLógica.html) | Simple Lógica | 17 | 16–19 | 15–19 | 15–20 | 15–20 |
+| [1–5 February 2021](2021-02-05-SimpleLógica.html) | Simple Lógica | 17 | 16–19 | 15–19 | 15–19 | 15–20 |
 | [22–29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [7–25 January 2021](2021-01-25-CIS.html) | CIS | 20 | 18–20 | 18–20 | 18–20 | 18–21 |
 | [18–22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 18 | 15–19 | 15–19 | 15–19 | 15–19 |
@@ -732,10 +732,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 6% | 99.1% |  |
 | 16 | 17% | 93% |  |
 | 17 | 25% | 76% |  |
-| 18 | 21% | 51% | Median |
-| 19 | 22% | 30% |  |
-| 20 | 7% | 8% |  |
-| 21 | 0.6% | 0.6% |  |
+| 18 | 23% | 51% | Median |
+| 19 | 20% | 28% |  |
+| 20 | 8% | 8% |  |
+| 21 | 0.5% | 0.6% |  |
 | 22 | 0% | 0% |  |
 
 
