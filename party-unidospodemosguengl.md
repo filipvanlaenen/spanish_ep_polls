@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.8% | 9.3–12.2% | 8.9–12.8% | 8.6–13.4% | 8.0–14.4% |
+| N/A | [Poll Average](average.html) | 10.8% | 9.3–12.2% | 8.9–12.7% | 8.6–13.1% | 8.0–13.9% |
+| [17–20 February 2021](2021-02-20-electoPanel.html) | electoPanel <br> electomania.es | 10.0% | 9.1–11.1% | 8.8–11.4% | 8.6–11.7% | 8.1–12.3% |
+| [15–17 February 2021](2021-02-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 11.9% | 10.7–13.2% | 10.4–13.6% | 10.1–13.9% | 9.6–14.5% |
 | [14–16 February 2021](2021-02-16-electoPanel.html) | electoPanel <br> electomania.es | 10.2% | 9.1–11.4% | 8.8–11.7% | 8.6–12.0% | 8.1–12.6% |
 | [6–12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 10.7% | 10.0–11.5% | 9.7–11.8% | 9.6–12.0% | 9.2–12.4% |
 | [3–11 February 2021](2021-02-11-CIS.html) | CIS | 11.2% | 10.6–11.9% | 10.4–12.1% | 10.2–12.2% | 9.9–12.6% |
@@ -347,15 +349,14 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.1% | 100% |  |
 | 7.5–8.5% | 2% | 99.9% |  |
-| 8.5–9.5% | 12% | 98% |  |
-| 9.5–10.5% | 27% | 86% |  |
+| 8.5–9.5% | 13% | 98% |  |
+| 9.5–10.5% | 27% | 85% |  |
 | 10.5–11.5% | 35% | 59% | Median |
-| 11.5–12.5% | 16% | 23% |  |
-| 12.5–13.5% | 5% | 7% |  |
-| 13.5–14.5% | 2% | 2% |  |
-| 14.5–15.5% | 0.3% | 0.4% |  |
-| 15.5–16.5% | 0% | 0.1% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 11.5–12.5% | 17% | 24% |  |
+| 12.5–13.5% | 5% | 6% |  |
+| 13.5–14.5% | 1.0% | 1.2% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -366,7 +367,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
+| [17–20 February 2021](2021-02-20-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [15–17 February 2021](2021-02-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [14–16 February 2021](2021-02-16-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [6–12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [3–11 February 2021](2021-02-11-CIS.html) | CIS | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
@@ -701,11 +704,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.6% | 100% |  |
-| 5 | 20% | 99.4% |  |
-| 6 | 44% | 79% | Median |
-| 7 | 30% | 35% |  |
-| 8 | 4% | 4% |  |
-| 9 | 0.3% | 0.3% |  |
+| 5 | 22% | 99.4% |  |
+| 6 | 41% | 78% | Median |
+| 7 | 27% | 37% |  |
+| 8 | 9% | 9% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 
