@@ -386,9 +386,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–20 | 15–20 | 15–20 | 14–20 |
-| [17–20 February 2021](2021-02-20-electoPanel.html) | electoPanel <br> electomania.es | 20 | 18–20 | 18–20 | 18–20 | 17–20 |
-| [15–17 February 2021](2021-02-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
+| N/A | [Poll Average](average.html) | 18 | 16–20 | 15–20 | 15–20 | 14–21 |
+| [17–20 February 2021](2021-02-20-electoPanel.html) | electoPanel <br> electomania.es | 19 | 18–20 | 18–20 | 17–20 | 17–21 |
+| [15–17 February 2021](2021-02-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [14–16 February 2021](2021-02-16-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [6–12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 17–18 | 16–18 | 16–19 |
 | [3–11 February 2021](2021-02-11-CIS.html) | CIS | 19 | 18–20 | 18–20 | 18–20 | 18–21 |
@@ -734,12 +734,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0.6% | 100% |  |
 | 15 | 5% | 99.4% |  |
-| 16 | 17% | 94% |  |
-| 17 | 20% | 77% |  |
-| 18 | 20% | 56% | Median |
-| 19 | 17% | 36% |  |
-| 20 | 19% | 20% |  |
-| 21 | 0.4% | 0.4% |  |
+| 16 | 16% | 94% |  |
+| 17 | 22% | 77% |  |
+| 18 | 23% | 55% | Median |
+| 19 | 20% | 32% |  |
+| 20 | 11% | 11% |  |
+| 21 | 0.8% | 0.8% |  |
 | 22 | 0% | 0% |  |
 
 
