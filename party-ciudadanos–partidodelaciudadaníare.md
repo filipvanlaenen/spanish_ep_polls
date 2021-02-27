@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 3.2–9.8% | 2.8–10.2% | 2.6–10.6% | 2.2–11.7% |
+| N/A | [Poll Average](average.html) | 6.9% | 3.3–9.7% | 2.9–10.1% | 2.6–10.5% | 2.2–11.5% |
+| [19–23 February 2021](2021-02-23-DYM.html) | DYM <br> Henneo | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
 | [19–22 February 2021](2021-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [17–20 February 2021](2021-02-20-electoPanel.html) | electoPanel <br> electomania.es | 5.6% | 4.9–6.5% | 4.7–6.7% | 4.5–7.0% | 4.2–7.4% |
 | [15–17 February 2021](2021-02-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 6.3% | 5.5–7.3% | 5.2–7.6% | 5.0–7.8% | 4.6–8.4% |
@@ -344,16 +345,16 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 13% | 98% |  |
-| 3.5–4.5% | 5% | 85% |  |
-| 4.5–5.5% | 11% | 80% |  |
-| 5.5–6.5% | 20% | 69% |  |
-| 6.5–7.5% | 9% | 49% | Median |
-| 7.5–8.5% | 6% | 40% |  |
-| 8.5–9.5% | 20% | 34% |  |
-| 9.5–10.5% | 11% | 14% |  |
-| 10.5–11.5% | 2% | 3% |  |
-| 11.5–12.5% | 0.5% | 0.6% |  |
+| 2.5–3.5% | 11% | 98% |  |
+| 3.5–4.5% | 4% | 87% |  |
+| 4.5–5.5% | 9% | 83% |  |
+| 5.5–6.5% | 18% | 74% |  |
+| 6.5–7.5% | 14% | 56% | Median |
+| 7.5–8.5% | 11% | 42% |  |
+| 8.5–9.5% | 18% | 30% |  |
+| 9.5–10.5% | 10% | 12% |  |
+| 10.5–11.5% | 2% | 2% |  |
+| 11.5–12.5% | 0.4% | 0.5% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
@@ -366,7 +367,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 1–6 | 1–6 | 1–6 | 1–7 |
+| N/A | [Poll Average](average.html) | 4 | 2–6 | 1–6 | 1–6 | 1–7 |
+| [19–23 February 2021](2021-02-23-DYM.html) | DYM <br> Henneo | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [19–22 February 2021](2021-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–20 February 2021](2021-02-20-electoPanel.html) | electoPanel <br> electomania.es | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [15–17 February 2021](2021-02-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -700,13 +702,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 11% | 100% |  |
-| 2 | 11% | 89% |  |
-| 3 | 23% | 78% |  |
-| 4 | 18% | 56% | Median |
-| 5 | 17% | 38% |  |
-| 6 | 20% | 21% |  |
-| 7 | 0.8% | 0.9% |  |
+| 1 | 9% | 100% |  |
+| 2 | 9% | 91% |  |
+| 3 | 20% | 82% |  |
+| 4 | 26% | 62% | Median |
+| 5 | 18% | 36% |  |
+| 6 | 17% | 18% |  |
+| 7 | 0.7% | 0.7% |  |
 | 8 | 0% | 0% |  |
 
 

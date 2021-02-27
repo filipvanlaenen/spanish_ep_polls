@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.7–1.8% | 0.6–1.9% | 0.6–2.1% | 0.5–2.3% |
+| [19–23 February 2021](2021-02-23-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [19–22 February 2021](2021-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
 | [17–20 February 2021](2021-02-20-electoPanel.html) | electoPanel <br> electomania.es | 1.4% | 1.1–1.9% | 1.0–2.1% | 0.9–2.2% | 0.8–2.5% |
 | [15–17 February 2021](2021-02-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
@@ -357,6 +358,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [19–23 February 2021](2021-02-23-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [19–22 February 2021](2021-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario |  |  |  |  |  |
 | [17–20 February 2021](2021-02-20-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–17 February 2021](2021-02-17-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
