@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2021-02-26T18:18:12.457638+01:00</updated>
+  <updated>2021-02-27T17:22:41.111483+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 17.2–22.1%, 10–13 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 22.8–28.2%, 14–17 seats</li><li>Unidos Podemos (GUE/NGL): 10.6–14.7%, 6–9 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 6.0–9.3%, 3–5 seats</li><li>Vox (ECR): 15.8–20.6%, 9–12 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2021-02-23-DYM.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2021-02-23-DYM.html"/>
+    <title>Opinion Poll by DYM for Henneo, 19–23 February 2021</title>
+    <updated>2021-02-27T17:22:41.111483+01:00</updated>
+    <dc:date>2021-02-27T17:22:41.111483+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular (EPP): 19.6–24.8%, 12–15 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 26.0–31.6%, 16–19 seats</li><li>Unidos Podemos (GUE/NGL): 8.2–11.9%, 5–7 seats</li><li>Ciudadanos–Partido de la Ciudadanía (RE): 2.2–4.4%, 1–2 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 2.4–4.7%, 1–2 seats</li><li>Vox (ECR): 16.8–21.7%, 10–13 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_ep_polls/2021-02-22-HamalgamaMétrica.html</id>
@@ -2583,5 +2591,5 @@
     <updated>2020-07-10T18:59:03.699377+02:00</updated>
     <dc:date>2020-07-10T18:59:03.699377+02:00</dc:date>
   </entry>
-  <dc:date>2021-02-26T18:18:12.457638+01:00</dc:date>
+  <dc:date>2021-02-27T17:22:41.111483+01:00</dc:date>
 </feed>
