@@ -10,8 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.3% | 13.7–19.7% | 13.3–20.2% | 13.0–20.7% | 12.6–21.7% |
+| N/A | [Poll Average](average.html) | 16.8% | 13.6–19.6% | 13.2–20.2% | 13.0–20.8% | 12.5–21.7% |
+| [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público | 17.8% | N/A | N/A | N/A | N/A |
+| [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 18.0% | N/A | N/A | N/A | N/A |
+| [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es | 19.0% | N/A | N/A | N/A | N/A |
+| [22–25 February 2021](2021-02-25-GAD3.html) | GAD3 <br> NIUS | 17.1% | N/A | N/A | N/A | N/A |
 | [19–23 February 2021](2021-02-23-DYM.html) | DYM <br> Henneo | 18.1% | 16.6–19.7% | 16.2–20.2% | 15.8–20.6% | 15.1–21.4% |
+| [17–23 February 2021](2021-02-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 18.2% | N/A | N/A | N/A | N/A |
 | [19–22 February 2021](2021-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 19.1% | 17.6–20.8% | 17.1–21.2% | 16.8–21.7% | 16.1–22.5% |
 | [17–20 February 2021](2021-02-20-electoPanel.html) | electoPanel <br> electomania.es | 18.4% | 17.1–19.8% | 16.8–20.2% | 16.5–20.5% | 15.9–21.2% |
 | [15–17 February 2021](2021-02-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 15.6% | 14.3–17.1% | 14.0–17.5% | 13.6–17.9% | 13.0–18.6% |
@@ -354,17 +359,17 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.4% | 100% |  |
-| 12.5–13.5% | 8% | 99.6% |  |
-| 13.5–14.5% | 11% | 92% |  |
-| 14.5–15.5% | 8% | 81% |  |
-| 15.5–16.5% | 12% | 73% |  |
-| 16.5–17.5% | 15% | 61% | Median |
-| 17.5–18.5% | 19% | 46% |  |
-| 18.5–19.5% | 16% | 27% |  |
-| 19.5–20.5% | 8% | 11% |  |
+| 11.5–12.5% | 0.5% | 100% |  |
+| 12.5–13.5% | 9% | 99.5% |  |
+| 13.5–14.5% | 13% | 90% |  |
+| 14.5–15.5% | 10% | 77% |  |
+| 15.5–16.5% | 13% | 67% |  |
+| 16.5–17.5% | 15% | 54% | Median |
+| 17.5–18.5% | 16% | 39% |  |
+| 18.5–19.5% | 13% | 24% |  |
+| 19.5–20.5% | 7% | 11% |  |
 | 20.5–21.5% | 3% | 3% |  |
-| 21.5–22.5% | 0.5% | 0.6% |  |
+| 21.5–22.5% | 0.6% | 0.7% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
@@ -377,8 +382,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
+| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 8–12 | 8–13 |
+| [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [22–25 February 2021](2021-02-25-GAD3.html) | GAD3 <br> NIUS |  |  |  |  |  |
 | [19–23 February 2021](2021-02-23-DYM.html) | DYM <br> Henneo | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
+| [17–23 February 2021](2021-02-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
 | [19–22 February 2021](2021-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
 | [17–20 February 2021](2021-02-20-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–13 | 10–13 | 10–13 |
 | [15–17 February 2021](2021-02-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
@@ -718,13 +728,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.2% | 100% |  |
-| 8 | 14% | 99.8% |  |
-| 9 | 18% | 85% |  |
-| 10 | 25% | 68% | Median |
-| 11 | 25% | 43% |  |
-| 12 | 15% | 18% |  |
-| 13 | 3% | 3% |  |
+| 7 | 0.3% | 100% |  |
+| 8 | 17% | 99.7% |  |
+| 9 | 21% | 82% |  |
+| 10 | 26% | 61% | Median |
+| 11 | 22% | 35% |  |
+| 12 | 11% | 13% |  |
+| 13 | 2% | 2% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
