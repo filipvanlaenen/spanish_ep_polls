@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.2–2.6% | 1.1–2.8% | 1.0–3.0% | 0.9–3.4% |
-| [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público | 2.3% | N/A | N/A | N/A | N/A |
-| [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 2.2% | N/A | N/A | N/A | N/A |
-| [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es | 2.5% | N/A | N/A | N/A | N/A |
-| [22–25 February 2021](2021-02-25-GAD3.html) | GAD3 <br> NIUS | 2.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 2.2% | 1.3–3.1% | 1.2–3.4% | 1.1–3.7% | 1.0–4.4% |
+| [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público | 2.3% | 1.6–3.8% | 1.4–4.2% | 1.2–4.5% | 0.9–5.3% |
+| [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
+| [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es | 2.5% | 2.0–3.1% | 1.9–3.3% | 1.8–3.4% | 1.6–3.8% |
+| [22–25 February 2021](2021-02-25-GAD3.html) | GAD3 <br> NIUS | 2.3% | 1.7–3.2% | 1.5–3.5% | 1.4–3.8% | 1.1–4.3% |
 | [19–23 February 2021](2021-02-23-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
-| [17–23 February 2021](2021-02-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2.1% | N/A | N/A | N/A | N/A |
+| [17–23 February 2021](2021-02-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2.1% | 1.6–3.0% | 1.4–3.2% | 1.3–3.5% | 1.1–3.9% |
 | [19–22 February 2021](2021-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
 | [17–20 February 2021](2021-02-20-electoPanel.html) | electoPanel <br> electomania.es | 2.4% | 2.0–3.0% | 1.8–3.2% | 1.7–3.4% | 1.5–3.7% |
 | [15–17 February 2021](2021-02-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.2% | 1.7–2.9% | 1.6–3.0% | 1.5–3.2% | 1.3–3.6% |
@@ -348,11 +348,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 47% | 100% |  |
-| 1.5–2.5% | 41% | 53% | Median |
-| 2.5–3.5% | 12% | 13% |  |
-| 3.5–4.5% | 0.3% | 0.3% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 18% | 100% |  |
+| 1.5–2.5% | 51% | 82% | Median |
+| 2.5–3.5% | 28% | 31% |  |
+| 3.5–4.5% | 3% | 3% |  |
+| 4.5–5.5% | 0.3% | 0.4% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -363,13 +364,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
-| [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [22–25 February 2021](2021-02-25-GAD3.html) | GAD3 <br> NIUS |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [22–25 February 2021](2021-02-25-GAD3.html) | GAD3 <br> NIUS | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [19–23 February 2021](2021-02-23-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
-| [17–23 February 2021](2021-02-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [17–23 February 2021](2021-02-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [19–22 February 2021](2021-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario |  |  |  |  |  |
 | [17–20 February 2021](2021-02-20-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [15–17 February 2021](2021-02-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 1 | 0–2 | 0–2 |
@@ -702,9 +703,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 41% | 100% | Last Result |
-| 1 | 57% | 59% | Median |
-| 2 | 1.5% | 1.5% |  |
-| 3 | 0% | 0% |  |
+| 0 | 15% | 100% | Last Result |
+| 1 | 76% | 85% | Median |
+| 2 | 9% | 9% |  |
+| 3 | 0.2% | 0.2% |  |
+| 4 | 0% | 0% |  |
 
 

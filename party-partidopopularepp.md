@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.1% | 18.0–23.8% | 17.6–24.5% | 17.0–25.0% | 16.0–26.0% |
-| [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público | 21.3% | N/A | N/A | N/A | N/A |
-| [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 23.7% | N/A | N/A | N/A | N/A |
-| [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es | 20.8% | N/A | N/A | N/A | N/A |
-| [22–25 February 2021](2021-02-25-GAD3.html) | GAD3 <br> NIUS | 22.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 21.4% | 18.5–24.3% | 17.9–24.9% | 17.4–25.5% | 16.3–26.6% |
+| [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público | 21.3% | 18.7–24.3% | 17.9–25.2% | 17.3–25.9% | 16.1–27.4% |
+| [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 23.7% | 22.0–25.5% | 21.6–26.0% | 21.2–26.4% | 20.4–27.3% |
+| [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es | 20.8% | 19.4–22.2% | 19.1–22.6% | 18.7–23.0% | 18.1–23.7% |
+| [22–25 February 2021](2021-02-25-GAD3.html) | GAD3 <br> NIUS | 22.3% | 20.2–24.5% | 19.6–25.1% | 19.2–25.7% | 18.2–26.8% |
 | [19–23 February 2021](2021-02-23-DYM.html) | DYM <br> Henneo | 19.6% | 18.0–21.2% | 17.6–21.7% | 17.2–22.1% | 16.5–23.0% |
-| [17–23 February 2021](2021-02-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 22.3% | N/A | N/A | N/A | N/A |
+| [17–23 February 2021](2021-02-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 22.3% | 20.4–24.4% | 19.9–25.0% | 19.4–25.5% | 18.5–26.6% |
 | [19–22 February 2021](2021-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 22.1% | 20.5–23.9% | 20.0–24.4% | 19.6–24.8% | 18.9–25.6% |
 | [17–20 February 2021](2021-02-20-electoPanel.html) | electoPanel <br> electomania.es | 20.9% | 19.6–22.4% | 19.2–22.8% | 18.9–23.1% | 18.2–23.8% |
 | [15–17 February 2021](2021-02-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 23.4% | 21.9–25.1% | 21.4–25.5% | 21.0–26.0% | 20.3–26.8% |
@@ -362,20 +362,21 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.2% | 100% |  |
-| 15.5–16.5% | 1.0% | 99.8% |  |
-| 16.5–17.5% | 4% | 98.8% |  |
-| 17.5–18.5% | 14% | 95% |  |
-| 18.5–19.5% | 22% | 81% |  |
-| 19.5–20.5% | 14% | 59% | Median |
-| 20.5–21.5% | 11% | 45% |  |
-| 21.5–22.5% | 11% | 34% |  |
-| 22.5–23.5% | 11% | 23% |  |
-| 23.5–24.5% | 8% | 12% |  |
-| 24.5–25.5% | 3% | 4% |  |
-| 25.5–26.5% | 0.9% | 1.1% |  |
-| 26.5–27.5% | 0.2% | 0.2% |  |
-| 27.5–28.5% | 0% | 0% |  |
+| 14.5–15.5% | 0.1% | 100% |  |
+| 15.5–16.5% | 0.6% | 99.9% |  |
+| 16.5–17.5% | 2% | 99.3% |  |
+| 17.5–18.5% | 8% | 97% |  |
+| 18.5–19.5% | 14% | 89% |  |
+| 19.5–20.5% | 13% | 76% |  |
+| 20.5–21.5% | 15% | 62% | Median |
+| 21.5–22.5% | 15% | 48% |  |
+| 22.5–23.5% | 14% | 32% |  |
+| 23.5–24.5% | 10% | 18% |  |
+| 24.5–25.5% | 5% | 8% |  |
+| 25.5–26.5% | 2% | 2% |  |
+| 26.5–27.5% | 0.4% | 0.5% |  |
+| 27.5–28.5% | 0.1% | 0.1% |  |
+| 28.5–29.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -386,13 +387,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–15 | 10–15 | 10–15 | 9–16 |
-| [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
-| [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [22–25 February 2021](2021-02-25-GAD3.html) | GAD3 <br> NIUS |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 13 | 11–15 | 11–15 | 10–16 | 10–17 |
+| [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
+| [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
+| [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
+| [22–25 February 2021](2021-02-25-GAD3.html) | GAD3 <br> NIUS | 13 | 12–15 | 12–16 | 12–16 | 12–17 |
 | [19–23 February 2021](2021-02-23-DYM.html) | DYM <br> Henneo | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
-| [17–23 February 2021](2021-02-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [17–23 February 2021](2021-02-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 13 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [19–22 February 2021](2021-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [17–20 February 2021](2021-02-20-electoPanel.html) | electoPanel <br> electomania.es | 14 | 12–14 | 12–14 | 12–14 | 12–15 |
 | [15–17 February 2021](2021-02-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 14–15 | 13–16 | 13–16 | 12–16 |
@@ -734,14 +735,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.7% | 100% |  |
-| 10 | 6% | 99.3% |  |
-| 11 | 22% | 94% |  |
-| 12 | 30% | 72% | Median |
-| 13 | 16% | 42% |  |
-| 14 | 14% | 26% |  |
-| 15 | 11% | 13% |  |
-| 16 | 2% | 2% |  |
-| 17 | 0% | 0% |  |
+| 9 | 0.4% | 100% |  |
+| 10 | 3% | 99.6% |  |
+| 11 | 12% | 97% |  |
+| 12 | 26% | 85% |  |
+| 13 | 23% | 59% | Median |
+| 14 | 16% | 36% |  |
+| 15 | 15% | 20% |  |
+| 16 | 4% | 5% |  |
+| 17 | 0.5% | 0.6% |  |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 
