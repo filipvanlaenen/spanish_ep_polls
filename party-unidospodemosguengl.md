@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.9% | 9.3–12.7% | 8.8–13.3% | 8.5–13.8% | 7.8–14.8% |
+| [28 February–5 March 2021](2021-03-05-electoPanel.html) | electoPanel <br> electomania.es | 10.5% | 9.5–11.6% | 9.3–12.0% | 9.0–12.3% | 8.6–12.8% |
 | [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público | 11.1% | 9.2–13.5% | 8.6–14.2% | 8.2–14.9% | 7.3–16.1% |
 | [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 10.9% | 9.7–12.3% | 9.4–12.7% | 9.1–13.0% | 8.6–13.7% |
 | [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es | 10.5% | 9.5–11.6% | 9.3–12.0% | 9.0–12.3% | 8.6–12.8% |
@@ -375,9 +376,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
+| [28 February–5 March 2021](2021-03-05-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público | 7 | 5–8 | 5–8 | 5–9 | 4–9 |
-| [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
+| [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
 | [22–25 February 2021](2021-02-25-GAD3.html) | GAD3 <br> NIUS | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [19–23 February 2021](2021-02-23-DYM.html) | DYM <br> Henneo | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
@@ -720,9 +722,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0.8% | 100% |  |
 | 5 | 12% | 99.2% |  |
-| 6 | 38% | 87% | Median |
-| 7 | 38% | 49% |  |
-| 8 | 10% | 11% |  |
+| 6 | 40% | 87% | Median |
+| 7 | 38% | 48% |  |
+| 8 | 9% | 10% |  |
 | 9 | 0.7% | 0.7% |  |
 | 10 | 0% | 0% |  |
 
