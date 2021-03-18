@@ -10,8 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.8–4.4% | 2.6–4.8% | 2.4–5.1% | 2.0–5.9% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.8–4.5% | 2.6–4.8% | 2.4–5.2% | 2.0–6.0% |
+| [15 March 2021](2021-03-15-electoPanel.html) | electoPanel <br> electomania.es | 3.6% | 3.1–4.1% | 3.0–4.3% | 2.9–4.4% | 2.7–4.7% |
+| [12–13 March 2021](2021-03-13-electoPanel.html) | electoPanel <br> electomania.es | 3.6% | 3.2–4.1% | 3.0–4.3% | 3.0–4.4% | 2.8–4.7% |
+| [1–11 March 2021](2021-03-11-CIS.html) | CIS | 3.2% | 2.9–3.6% | 2.8–3.7% | 2.7–3.8% | 2.5–4.0% |
+| [1–9 March 2021](2021-03-09-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [28 February–5 March 2021](2021-03-05-electoPanel.html) | electoPanel <br> electomania.es | 3.4% | 2.9–4.1% | 2.7–4.3% | 2.6–4.5% | 2.3–4.9% |
+| [1–3 March 2021](2021-03-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.2% | N/A | N/A | N/A | N/A |
 | [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público | 3.5% | 2.5–5.1% | 2.2–5.6% | 2.0–6.0% | 1.6–6.9% |
 | [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es | 3.4% | 2.9–4.1% | 2.7–4.3% | 2.6–4.5% | 2.3–4.9% |
@@ -351,11 +356,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 49% | 95% | Median |
-| 3.5–4.5% | 39% | 46% |  |
-| 4.5–5.5% | 6% | 8% |  |
-| 5.5–6.5% | 0.9% | 1.1% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 50% | 96% | Median |
+| 3.5–4.5% | 38% | 46% |  |
+| 4.5–5.5% | 7% | 8% |  |
+| 5.5–6.5% | 1.1% | 1.2% |  |
+| 6.5–7.5% | 0.1% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -368,7 +373,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [15 March 2021](2021-03-15-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2 | 2 | 1–3 |
+| [12–13 March 2021](2021-03-13-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [1–11 March 2021](2021-03-11-CIS.html) | CIS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–9 March 2021](2021-03-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [28 February–5 March 2021](2021-03-05-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [1–3 March 2021](2021-03-03-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público | 2 | 1–2 | 1–3 | 1–3 | 1–4 |
 | [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -708,10 +718,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 27% | 99.9% |  |
-| 2 | 67% | 72% | Median |
-| 3 | 5% | 5% |  |
-| 4 | 0.1% | 0.1% |  |
+| 1 | 22% | 99.9% |  |
+| 2 | 72% | 78% | Median |
+| 3 | 6% | 6% |  |
+| 4 | 0.1% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
 

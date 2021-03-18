@@ -10,8 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.3% | 25.6–30.8% | 24.8–31.4% | 24.2–31.8% | 22.9–32.9% |
+| N/A | [Poll Average](average.html) | 27.7% | 25.2–31.1% | 24.5–31.7% | 23.9–32.2% | 22.8–33.0% |
+| [15 March 2021](2021-03-15-electoPanel.html) | electoPanel <br> electomania.es | 26.2% | 25.1–27.4% | 24.8–27.7% | 24.5–28.0% | 23.9–28.6% |
+| [12–13 March 2021](2021-03-13-electoPanel.html) | electoPanel <br> electomania.es | 29.9% | 28.7–31.1% | 28.4–31.4% | 28.2–31.7% | 27.6–32.3% |
+| [1–11 March 2021](2021-03-11-CIS.html) | CIS | 31.3% | 30.3–32.3% | 30.1–32.6% | 29.8–32.8% | 29.4–33.3% |
+| [1–9 March 2021](2021-03-09-SimpleLógica.html) | Simple Lógica | 27.1% | 25.0–29.4% | 24.3–30.0% | 23.8–30.6% | 22.8–31.7% |
 | [28 February–5 March 2021](2021-03-05-electoPanel.html) | electoPanel <br> electomania.es | 28.5% | 27.0–30.1% | 26.6–30.6% | 26.2–30.9% | 25.5–31.7% |
+| [1–3 March 2021](2021-03-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 27.2% | N/A | N/A | N/A | N/A |
 | [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público | 27.7% | 24.8–31.0% | 23.9–31.9% | 23.2–32.7% | 21.9–34.3% |
 | [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 27.4% | 25.6–29.3% | 25.1–29.8% | 24.7–30.3% | 23.9–31.2% |
 | [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es | 29.0% | 27.5–30.6% | 27.1–31.1% | 26.7–31.5% | 26.0–32.2% |
@@ -370,18 +375,18 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.2% | 100% |  |
-| 22.5–23.5% | 0.9% | 99.7% |  |
-| 23.5–24.5% | 3% | 98.8% |  |
-| 24.5–25.5% | 6% | 96% |  |
-| 25.5–26.5% | 11% | 90% |  |
-| 26.5–27.5% | 16% | 80% |  |
-| 27.5–28.5% | 19% | 63% | Median |
-| 28.5–29.5% | 17% | 44% |  |
-| 29.5–30.5% | 14% | 27% |  |
-| 30.5–31.5% | 9% | 13% |  |
-| 31.5–32.5% | 3% | 4% |  |
-| 32.5–33.5% | 0.6% | 0.8% |  |
+| 21.5–22.5% | 0.3% | 99.9% |  |
+| 22.5–23.5% | 1.2% | 99.7% |  |
+| 23.5–24.5% | 4% | 98.5% |  |
+| 24.5–25.5% | 9% | 95% |  |
+| 25.5–26.5% | 16% | 86% |  |
+| 26.5–27.5% | 18% | 70% |  |
+| 27.5–28.5% | 16% | 53% | Median |
+| 28.5–29.5% | 13% | 37% |  |
+| 29.5–30.5% | 9% | 24% |  |
+| 30.5–31.5% | 9% | 15% |  |
+| 31.5–32.5% | 5% | 6% |  |
+| 32.5–33.5% | 1.0% | 1.2% |  |
 | 33.5–34.5% | 0.2% | 0.2% |  |
 | 34.5–35.5% | 0% | 0.1% |  |
 | 35.5–36.5% | 0% | 0% |  |
@@ -395,8 +400,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
+| N/A | [Poll Average](average.html) | 17 | 15–20 | 15–20 | 14–21 | 14–21 |
+| [15 March 2021](2021-03-15-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–18 | 15–18 | 14–19 |
+| [12–13 March 2021](2021-03-13-electoPanel.html) | electoPanel <br> electomania.es | 18 | 18–20 | 18–20 | 18–20 | 18–21 |
+| [1–11 March 2021](2021-03-11-CIS.html) | CIS | 20 | 19–21 | 19–21 | 19–21 | 19–21 |
+| [1–9 March 2021](2021-03-09-SimpleLógica.html) | Simple Lógica | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
 | [28 February–5 March 2021](2021-03-05-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
+| [1–3 March 2021](2021-03-03-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público | 17 | 15–19 | 15–19 | 14–21 | 13–21 |
 | [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–20 | 17–20 | 17–20 | 16–20 |
@@ -748,16 +758,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.3% | 100% |  |
-| 14 | 2% | 99.7% |  |
-| 15 | 7% | 98% |  |
-| 16 | 17% | 90% |  |
-| 17 | 24% | 73% | Median |
-| 18 | 28% | 49% |  |
-| 19 | 15% | 20% |  |
-| 20 | 4% | 5% |  |
-| 21 | 0.6% | 0.6% |  |
-| 22 | 0% | 0.1% |  |
+| 13 | 0.4% | 100% |  |
+| 14 | 3% | 99.6% |  |
+| 15 | 10% | 97% |  |
+| 16 | 23% | 87% |  |
+| 17 | 24% | 63% | Median |
+| 18 | 20% | 39% |  |
+| 19 | 9% | 19% |  |
+| 20 | 7% | 11% |  |
+| 21 | 4% | 4% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 
