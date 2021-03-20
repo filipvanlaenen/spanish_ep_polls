@@ -382,12 +382,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
-| [15 March 2021](2021-03-15-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [15 March 2021](2021-03-15-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [12–13 March 2021](2021-03-13-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 5–7 | 5–7 | 5–7 |
-| [1–11 March 2021](2021-03-11-CIS.html) | CIS | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [1–11 March 2021](2021-03-11-CIS.html) | CIS | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [1–9 March 2021](2021-03-09-SimpleLógica.html) | Simple Lógica | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [28 February–5 March 2021](2021-03-05-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
-| [1–3 March 2021](2021-03-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [1–3 March 2021](2021-03-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público | 7 | 5–8 | 5–8 | 5–9 | 4–9 |
 | [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
@@ -731,11 +731,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.6% | 100% |  |
-| 5 | 11% | 99.4% |  |
+| 5 | 12% | 99.4% |  |
 | 6 | 39% | 88% | Median |
-| 7 | 31% | 50% |  |
-| 8 | 15% | 18% |  |
-| 9 | 4% | 4% |  |
+| 7 | 30% | 49% |  |
+| 8 | 15% | 19% |  |
+| 9 | 3% | 4% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
