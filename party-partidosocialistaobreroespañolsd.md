@@ -401,11 +401,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 14–20 | 14–21 |
 | [15 March 2021](2021-03-15-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–18 | 15–18 | 15–18 |
-| [12–13 March 2021](2021-03-13-electoPanel.html) | electoPanel <br> electomania.es | 18 | 18–20 | 18–20 | 18–20 | 18–21 |
+| [12–13 March 2021](2021-03-13-electoPanel.html) | electoPanel <br> electomania.es | 19 | 18–20 | 18–20 | 18–20 | 18–20 |
 | [1–11 March 2021](2021-03-11-CIS.html) | CIS | 20 | 19–21 | 19–21 | 18–21 | 18–21 |
 | [1–9 March 2021](2021-03-09-SimpleLógica.html) | Simple Lógica | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
 | [28 February–5 March 2021](2021-03-05-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
-| [1–3 March 2021](2021-03-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
+| [1–3 March 2021](2021-03-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público | 17 | 15–19 | 15–19 | 14–21 | 13–21 |
 | [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [20–27 February 2021](2021-02-27-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–20 | 17–20 | 17–20 | 16–20 |
@@ -760,9 +760,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.3% | 100% |  |
 | 14 | 3% | 99.7% |  |
 | 15 | 9% | 97% |  |
-| 16 | 25% | 88% |  |
+| 16 | 24% | 88% |  |
 | 17 | 26% | 63% | Median |
-| 18 | 20% | 37% |  |
+| 18 | 20% | 38% |  |
 | 19 | 9% | 17% |  |
 | 20 | 6% | 9% |  |
 | 21 | 2% | 2% |  |

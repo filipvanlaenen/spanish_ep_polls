@@ -383,7 +383,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
 | [15 March 2021](2021-03-15-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
-| [12–13 March 2021](2021-03-13-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 5–7 | 5–7 | 5–7 |
+| [12–13 March 2021](2021-03-13-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | [1–11 March 2021](2021-03-11-CIS.html) | CIS | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [1–9 March 2021](2021-03-09-SimpleLógica.html) | Simple Lógica | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [28 February–5 March 2021](2021-03-05-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
@@ -733,7 +733,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.6% | 100% |  |
 | 5 | 12% | 99.4% |  |
 | 6 | 39% | 88% | Median |
-| 7 | 30% | 49% |  |
+| 7 | 30% | 48% |  |
 | 8 | 15% | 19% |  |
 | 9 | 3% | 4% |  |
 | 10 | 0.1% | 0.1% |  |

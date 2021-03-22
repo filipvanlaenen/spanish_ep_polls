@@ -371,7 +371,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [15 March 2021](2021-03-15-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12–13 March 2021](2021-03-13-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–13 March 2021](2021-03-13-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–11 March 2021](2021-03-11-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [1–9 March 2021](2021-03-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [28 February–5 March 2021](2021-03-05-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
