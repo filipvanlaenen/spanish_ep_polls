@@ -10,12 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.7% | 15.3–19.9% | 14.8–20.5% | 14.5–21.1% | 13.9–22.2% |
+| N/A | [Poll Average](average.html) | 17.8% | 15.4–19.9% | 14.9–20.5% | 14.5–21.1% | 13.9–22.2% |
+| [16–20 March 2021](2021-03-20-electoPanel.html) | electoPanel <br> electomania.es | 16.7% | 15.8–17.7% | 15.5–18.0% | 15.3–18.2% | 14.9–18.7% |
+| [15–19 March 2021](2021-03-19-Invymark.html) | Invymark <br> laSexta | 18.6% | 17.1–20.3% | 16.7–20.7% | 16.3–21.1% | 15.6–21.9% |
 | [15 March 2021](2021-03-15-electoPanel.html) | electoPanel <br> electomania.es | 16.6% | 15.6–17.6% | 15.4–17.9% | 15.1–18.1% | 14.7–18.6% |
 | [12–13 March 2021](2021-03-13-electoPanel.html) | electoPanel <br> electomania.es | 18.1% | 17.1–19.1% | 16.9–19.4% | 16.6–19.6% | 16.2–20.1% |
 | [1–11 March 2021](2021-03-11-CIS.html) | CIS | 15.0% | 14.3–15.8% | 14.1–16.0% | 13.9–16.2% | 13.5–16.6% |
 | [1–9 March 2021](2021-03-09-SimpleLógica.html) | Simple Lógica | 18.5% | 16.6–20.5% | 16.1–21.1% | 15.7–21.6% | 14.8–22.6% |
 | [28 February–5 March 2021](2021-03-05-electoPanel.html) | electoPanel <br> electomania.es | 18.9% | 17.6–20.3% | 17.3–20.7% | 16.9–21.1% | 16.4–21.7% |
+| [1–5 March 2021](2021-03-05-Invymark.html) | Invymark <br> laSexta | 17.4% | 15.9–19.0% | 15.5–19.5% | 15.2–19.9% | 14.5–20.7% |
 | [1–3 March 2021](2021-03-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 17.4% | 16.0–19.0% | 15.6–19.4% | 15.3–19.8% | 14.6–20.6% |
 | [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público | 17.8% | 15.4–20.7% | 14.7–21.5% | 14.1–22.2% | 13.0–23.6% |
 | [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
@@ -368,13 +371,13 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.2% | 100% |  |
 | 13.5–14.5% | 3% | 99.8% |  |
-| 14.5–15.5% | 10% | 97% |  |
-| 15.5–16.5% | 14% | 87% |  |
-| 16.5–17.5% | 21% | 73% |  |
-| 17.5–18.5% | 22% | 52% | Median |
-| 18.5–19.5% | 17% | 30% |  |
-| 19.5–20.5% | 9% | 14% |  |
-| 20.5–21.5% | 3% | 5% |  |
+| 14.5–15.5% | 9% | 97% |  |
+| 15.5–16.5% | 13% | 89% |  |
+| 16.5–17.5% | 20% | 76% |  |
+| 17.5–18.5% | 23% | 55% | Median |
+| 18.5–19.5% | 18% | 33% |  |
+| 19.5–20.5% | 10% | 15% |  |
+| 20.5–21.5% | 4% | 5% |  |
 | 21.5–22.5% | 1.0% | 1.3% |  |
 | 22.5–23.5% | 0.2% | 0.3% |  |
 | 23.5–24.5% | 0.1% | 0.1% |  |
@@ -390,11 +393,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–12 | 9–12 | 9–13 | 8–14 |
+| [16–20 March 2021](2021-03-20-electoPanel.html) | electoPanel <br> electomania.es | 11 | 9–11 | 9–11 | 9–11 | 9–12 |
+| [15–19 March 2021](2021-03-19-Invymark.html) | Invymark <br> laSexta | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [15 March 2021](2021-03-15-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [12–13 March 2021](2021-03-13-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [1–11 March 2021](2021-03-11-CIS.html) | CIS | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [1–9 March 2021](2021-03-09-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 9–13 | 9–13 | 9–13 |
 | [28 February–5 March 2021](2021-03-05-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11–13 | 11–13 | 10–13 | 10–14 |
+| [1–5 March 2021](2021-03-05-Invymark.html) | Invymark <br> laSexta | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
 | [1–3 March 2021](2021-03-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 11 | 10–11 | 9–12 | 9–12 | 9–13 |
 | [1 March 2021](2021-03-01-KeyData.html) | Key Data <br> Público | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
 | [24–28 February 2021](2021-02-28-NCReport.html) | NC Report <br> La Razón | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
@@ -742,13 +748,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 1.3% | 100% |  |
-| 9 | 11% | 98.6% |  |
-| 10 | 30% | 88% |  |
-| 11 | 37% | 58% | Median |
-| 12 | 17% | 21% |  |
+| 8 | 1.2% | 100% |  |
+| 9 | 9% | 98.8% |  |
+| 10 | 28% | 89% |  |
+| 11 | 40% | 62% | Median |
+| 12 | 17% | 22% |  |
 | 13 | 4% | 4% |  |
-| 14 | 0.6% | 0.7% |  |
+| 14 | 0.6% | 0.6% |  |
 | 15 | 0% | 0% |  |
 
 
