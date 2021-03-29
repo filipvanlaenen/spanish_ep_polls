@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.5–3.0% | 1.3–3.3% | 1.3–3.7% | 1.1–4.4% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.5–3.1% | 1.3–3.4% | 1.3–3.7% | 1.1–4.5% |
+| [22–26 March 2021](2021-03-26-electoPanel.html) | electoPanel <br> electomania.es | 2.6% | 2.2–3.1% | 2.1–3.3% | 2.0–3.4% | 1.8–3.7% |
 | [16–20 March 2021](2021-03-20-electoPanel.html) | electoPanel <br> electomania.es | 2.6% | 2.2–3.0% | 2.1–3.2% | 2.0–3.3% | 1.9–3.5% |
 | [15–19 March 2021](2021-03-19-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [15 March 2021](2021-03-15-electoPanel.html) | electoPanel <br> electomania.es | 2.5% | 2.1–3.0% | 2.0–3.1% | 1.9–3.2% | 1.8–3.4% |
@@ -357,12 +358,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 14% | 100% |  |
-| 1.5–2.5% | 55% | 86% | Median |
-| 2.5–3.5% | 28% | 31% |  |
+| 0.5–1.5% | 15% | 100% |  |
+| 1.5–2.5% | 54% | 85% | Median |
+| 2.5–3.5% | 28% | 32% |  |
 | 3.5–4.5% | 3% | 3% |  |
-| 4.5–5.5% | 0.3% | 0.4% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.4% | 0.4% |  |
+| 5.5–6.5% | 0% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -374,6 +376,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [22–26 March 2021](2021-03-26-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [16–20 March 2021](2021-03-20-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–19 March 2021](2021-03-19-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [15 March 2021](2021-03-15-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1 | 1–2 |
@@ -721,10 +724,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 15% | 100% | Last Result |
-| 1 | 78% | 85% | Median |
-| 2 | 7% | 7% |  |
-| 3 | 0.2% | 0.2% |  |
+| 0 | 17% | 100% | Last Result |
+| 1 | 78% | 83% | Median |
+| 2 | 5% | 6% |  |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 
