@@ -6,30 +6,6 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:48 +0100</pubDate>
     <item>
-      <title>Opinion Poll by NC Report for La Razón, 4 April 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-04-04-NCReport.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by NC Report for La Razón, 4 April 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-04-04-NCReport.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-04-04-NCReport-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-04-04-NCReport-seating-plan.png" length="439651" type="image/png"/>
-      <pubDate>Mon, 5 Apr 2021 13:34:26 +0200</pubDate>
-      <dc:date>2021-04-05T13:34:26.079279+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by NC Report for La Razón, 4 April 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-04-04-NCReport.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by NC Report for La Razón, 4 April 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-04-04-NCReport.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-04-04-NCReport-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-04-04-NCReport-seats.png" length="308377" type="image/png"/>
-      <pubDate>Mon, 5 Apr 2021 13:34:26 +0200</pubDate>
-      <dc:date>2021-04-05T13:34:26.079279+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by NC Report for La Razón, 4 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-04-04-NCReport.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by NC Report for La Razón, 4 April 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-04-04-NCReport.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-04-04-NCReport.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-04-04-NCReport.png" length="345032" type="image/png"/>
-      <pubDate>Mon, 5 Apr 2021 13:34:26 +0200</pubDate>
-      <dc:date>2021-04-05T13:34:26.079279+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by electoPanel for electomania.es, 26 March–2 April 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-04-02-electoPanel.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by electoPanel for electomania.es, 26 March–2 April 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-04-02-electoPanel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-04-02-electoPanel-seating-plan.png"/>]]></description>
@@ -52,6 +28,14 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-04-02-electoPanel.png" length="409372" type="image/png"/>
       <pubDate>Mon, 5 Apr 2021 14:12:36 +0200</pubDate>
       <dc:date>2021-04-05T14:12:36.203194+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 26–31 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-03-31-NCReport.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by NC Report for La Razón, 26–31 March 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-03-31-NCReport.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-03-31-NCReport.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-03-31-NCReport.png" length="373914" type="image/png"/>
+      <pubDate>Mon, 12 Apr 2021 06:54:15 +0200</pubDate>
+      <dc:date>2021-04-12T06:54:15.406329+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22–26 March 2021 – Seating Plan Projection</title>
@@ -244,6 +228,30 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-03-05-Invymark.png" length="213743" type="image/png"/>
       <pubDate>Tue, 23 Mar 2021 15:18:05 +0100</pubDate>
       <dc:date>2021-03-23T15:18:05.907135+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 28 February–5 March 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-03-05-electoPanel.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by electoPanel for electomania.es, 28 February–5 March 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-03-05-electoPanel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-03-05-electoPanel-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-03-05-electoPanel-seating-plan.png" length="449299" type="image/png"/>
+      <pubDate>Sun, 7 Mar 2021 18:54:45 +0100</pubDate>
+      <dc:date>2021-03-07T18:54:45.075205+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 28 February–5 March 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-03-05-electoPanel.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by electoPanel for electomania.es, 28 February–5 March 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-03-05-electoPanel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-03-05-electoPanel-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-03-05-electoPanel-seats.png" length="368056" type="image/png"/>
+      <pubDate>Sun, 7 Mar 2021 18:54:45 +0100</pubDate>
+      <dc:date>2021-03-07T18:54:45.075205+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 28 February–5 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-03-05-electoPanel.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by electoPanel for electomania.es, 28 February–5 March 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-03-05-electoPanel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-03-05-electoPanel.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-03-05-electoPanel.png" length="413109" type="image/png"/>
+      <pubDate>Sun, 7 Mar 2021 18:54:45 +0100</pubDate>
+      <dc:date>2021-03-07T18:54:45.075205+01:00</dc:date>
     </item>
   </channel>
 </rss>
