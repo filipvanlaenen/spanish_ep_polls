@@ -10,10 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.6% | 14.2–19.0% | 13.5–19.6% | 12.9–20.1% | 11.9–21.1% |
+| N/A | [Poll Average](average.html) | 17.3% | 14.4–19.3% | 13.6–19.9% | 12.9–20.4% | 11.9–21.4% |
 | [10–17 April 2021](2021-04-17-electoPanel.html) | electoPanel <br> electomania.es | 17.2% | 16.2–18.2% | 16.0–18.5% | 15.7–18.7% | 15.3–19.2% |
 | [12–16 April 2021](2021-04-16-Invymark.html) | Invymark <br> laSexta | 18.3% | 16.8–20.0% | 16.4–20.4% | 16.0–20.8% | 15.3–21.6% |
 | [14–16 April 2021](2021-04-16-GAD3.html) | GAD3 <br> NIUS | 14.4% | 12.8–16.4% | 12.3–16.9% | 11.9–17.4% | 11.1–18.4% |
+| [5–13 April 2021](2021-04-13-SimpleLógica.html) | Simple Lógica | 17.7% | 15.9–19.6% | 15.4–20.2% | 15.0–20.7% | 14.2–21.7% |
 | [2–9 April 2021](2021-04-09-electoPanel.html) | electoPanel <br> electomania.es | 17.0% | 16.0–18.0% | 15.7–18.3% | 15.5–18.6% | 15.1–19.1% |
 | [26 March–2 April 2021](2021-04-02-electoPanel.html) | electoPanel <br> electomania.es | 16.8% | 15.8–17.9% | 15.5–18.2% | 15.2–18.5% | 14.7–19.1% |
 | [26–31 March 2021](2021-03-31-NCReport.html) | NC Report <br> La Razón | 17.4% | 15.6–19.5% | 15.1–20.1% | 14.7–20.6% | 13.8–21.6% |
@@ -377,16 +378,17 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0.2% | 100% |  |
 | 11.5–12.5% | 1.2% | 99.7% |  |
 | 12.5–13.5% | 4% | 98.5% |  |
-| 13.5–14.5% | 10% | 95% |  |
-| 14.5–15.5% | 19% | 85% |  |
-| 15.5–16.5% | 15% | 66% |  |
-| 16.5–17.5% | 20% | 51% | Median |
-| 17.5–18.5% | 17% | 32% |  |
-| 18.5–19.5% | 9% | 15% |  |
-| 19.5–20.5% | 4% | 5% |  |
-| 20.5–21.5% | 1.1% | 1.3% |  |
-| 21.5–22.5% | 0.2% | 0.2% |  |
+| 13.5–14.5% | 6% | 95% |  |
+| 14.5–15.5% | 8% | 89% |  |
+| 15.5–16.5% | 14% | 81% |  |
+| 16.5–17.5% | 24% | 67% | Median |
+| 17.5–18.5% | 22% | 43% |  |
+| 18.5–19.5% | 13% | 20% |  |
+| 19.5–20.5% | 5% | 7% |  |
+| 20.5–21.5% | 2% | 2% |  |
+| 21.5–22.5% | 0.3% | 0.3% |  |
 | 22.5–23.5% | 0% | 0% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -397,10 +399,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–12 | 8–12 | 7–13 |
+| N/A | [Poll Average](average.html) | 11 | 9–11 | 9–12 | 8–12 | 7–13 |
 | [10–17 April 2021](2021-04-17-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 10–11 | 10–12 | 10–12 |
 | [12–16 April 2021](2021-04-16-Invymark.html) | Invymark <br> laSexta | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [14–16 April 2021](2021-04-16-GAD3.html) | GAD3 <br> NIUS | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
+| [5–13 April 2021](2021-04-13-SimpleLógica.html) | Simple Lógica | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [2–9 April 2021](2021-04-09-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
 | [26 March–2 April 2021](2021-04-02-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [26–31 March 2021](2021-03-31-NCReport.html) | NC Report <br> La Razón | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
@@ -760,12 +763,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.6% | 100% |  |
-| 8 | 4% | 99.4% |  |
-| 9 | 27% | 96% |  |
-| 10 | 27% | 69% | Median |
-| 11 | 34% | 42% |  |
-| 12 | 7% | 8% |  |
-| 13 | 1.1% | 1.1% |  |
-| 14 | 0% | 0% |  |
+| 8 | 2% | 99.4% |  |
+| 9 | 21% | 97% |  |
+| 10 | 26% | 77% |  |
+| 11 | 40% | 50% | Median |
+| 12 | 8% | 10% |  |
+| 13 | 1.3% | 1.4% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 
