@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27.6% | 25.7–30.0% | 25.0–30.7% | 24.4–31.3% | 23.2–32.6% |
 | [24 April–2 May 2021](2021-05-02-electoPanel.html) | electoPanel <br> electomania.es | 27.1% | 26.2–28.0% | 26.0–28.2% | 25.8–28.5% | 25.4–28.9% |
-| [18–24 April 2021](2021-04-24-electoPanel.html) | electoPanel <br> electomania.es | 27.0% | N/A | N/A | N/A | N/A |
+| [18–24 April 2021](2021-04-24-electoPanel.html) | electoPanel <br> electomania.es | 27.0% | 26.0–28.0% | 25.7–28.3% | 25.5–28.6% | 25.0–29.1% |
 | [10–17 April 2021](2021-04-17-electoPanel.html) | electoPanel <br> electomania.es | 26.6% | 25.5–27.8% | 25.2–28.1% | 24.9–28.4% | 24.4–29.0% |
 | [12–16 April 2021](2021-04-16-Invymark.html) | Invymark <br> laSexta | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.5–31.8% |
 | [14–16 April 2021](2021-04-16-GAD3.html) | GAD3 <br> NIUS | 28.7% | 26.5–31.1% | 25.8–31.7% | 25.3–32.3% | 24.2–33.5% |
@@ -413,8 +413,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 16–19 | 15–19 | 15–19 | 14–19 |
-| [24 April–2 May 2021](2021-05-02-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 17–18 | 16–18 | 16–18 |
-| [18–24 April 2021](2021-04-24-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [24 April–2 May 2021](2021-05-02-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 17–18 | 17–18 | 16–18 |
+| [18–24 April 2021](2021-04-24-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17 | 16–18 | 16–18 | 16–18 |
 | [10–17 April 2021](2021-04-17-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–17 | 16–18 | 16–18 | 16–19 |
 | [12–16 April 2021](2021-04-16-Invymark.html) | Invymark <br> laSexta | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
 | [14–16 April 2021](2021-04-16-GAD3.html) | GAD3 <br> NIUS | 19 | 17–19 | 17–19 | 17–19 | 15–20 |
@@ -787,7 +787,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 1.0% | 99.9% |  |
 | 15 | 7% | 98.9% |  |
 | 16 | 18% | 92% |  |
-| 17 | 41% | 74% | Median |
+| 17 | 42% | 75% | Median |
 | 18 | 14% | 33% |  |
 | 19 | 18% | 19% |  |
 | 20 | 0.4% | 0.4% |  |
