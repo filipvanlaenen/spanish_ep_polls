@@ -411,7 +411,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–16 | 13–17 | 12–18 | 12–19 |
-| [24 April–2 May 2021](2021-05-02-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–16 | 15–16 | 14–16 | 14–16 |
+| [24 April–2 May 2021](2021-05-02-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–16 | 14–16 | 14–16 |
 | [18–24 April 2021](2021-04-24-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–16 | 14–16 | 14–16 |
 | [10–17 April 2021](2021-04-17-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15 | 14–16 | 14–16 | 14–16 |
 | [12–16 April 2021](2021-04-16-Invymark.html) | Invymark <br> laSexta | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
@@ -782,9 +782,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.3% | 100% |  |
 | 12 | 2% | 99.7% |  |
 | 13 | 10% | 97% |  |
-| 14 | 19% | 88% |  |
-| 15 | 37% | 69% | Median |
-| 16 | 25% | 31% |  |
+| 14 | 21% | 88% |  |
+| 15 | 35% | 67% | Median |
+| 16 | 26% | 32% |  |
 | 17 | 3% | 6% |  |
 | 18 | 2% | 3% |  |
 | 19 | 0.3% | 0.6% |  |
