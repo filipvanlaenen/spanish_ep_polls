@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.6–3.3% | 1.5–3.6% | 1.4–3.8% | 1.2–4.4% |
+| N/A | [Poll Average](average.html) | 3.5% | 1.9–5.5% | 1.7–5.8% | 1.6–6.1% | 1.4–6.7% |
+| [5–7 May 2021](2021-05-07-Invymark.html) | Invymark <br> laSexta | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
+| [4–6 May 2021](2021-05-06-electoPanel.html) | electoPanel <br> electomania.es | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% |
+| [5–6 May 2021](2021-05-06-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
 | [24 April–2 May 2021](2021-05-02-electoPanel.html) | electoPanel <br> electomania.es | 1.7% | 1.5–2.0% | 1.4–2.1% | 1.3–2.1% | 1.2–2.3% |
 | [18–24 April 2021](2021-04-24-electoPanel.html) | electoPanel <br> electomania.es | 1.6% | 1.3–1.9% | 1.3–2.0% | 1.2–2.1% | 1.1–2.3% |
 | [10–17 April 2021](2021-04-17-electoPanel.html) | electoPanel <br> electomania.es | 1.7% | 1.4–2.1% | 1.3–2.2% | 1.3–2.3% | 1.1–2.5% |
@@ -367,12 +370,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 9% | 100% |  |
-| 1.5–2.5% | 57% | 91% | Median |
-| 2.5–3.5% | 29% | 34% |  |
-| 3.5–4.5% | 5% | 5% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 34% | 98% |  |
+| 2.5–3.5% | 15% | 64% |  |
+| 3.5–4.5% | 18% | 50% | Median |
+| 4.5–5.5% | 23% | 31% |  |
+| 5.5–6.5% | 8% | 9% |  |
+| 6.5–7.5% | 0.8% | 0.9% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -383,7 +388,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
+| [5–7 May 2021](2021-05-07-Invymark.html) | Invymark <br> laSexta | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [4–6 May 2021](2021-05-06-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1 | 1 |
+| [5–6 May 2021](2021-05-06-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [24 April–2 May 2021](2021-05-02-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [18–24 April 2021](2021-04-24-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–17 April 2021](2021-04-17-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -741,10 +749,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 81% | 95% | Median |
-| 2 | 14% | 14% |  |
-| 3 | 0.2% | 0.2% |  |
-| 4 | 0% | 0% |  |
+| 0 | 0.5% | 100% | Last Result |
+| 1 | 47% | 99.5% |  |
+| 2 | 26% | 52% | Median |
+| 3 | 22% | 26% |  |
+| 4 | 4% | 4% |  |
+| 5 | 0% | 0% |  |
 
 
