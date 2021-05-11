@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.0% | 22.8–28.4% | 21.8–29.1% | 21.1–29.7% | 19.9–30.8% |
+| N/A | [Poll Average](average.html) | 26.5% | 23.4–30.0% | 22.3–30.9% | 21.4–31.7% | 20.1–32.9% |
+| [4–8 May 2021](2021-05-08-NCReport.html) | NC Report <br> La Razón | 26.9% | 24.7–29.2% | 24.1–29.9% | 23.6–30.4% | 22.6–31.6% |
 | [5–7 May 2021](2021-05-07-Invymark.html) | Invymark <br> laSexta | 27.3% | 25.5–29.2% | 25.0–29.7% | 24.6–30.1% | 23.8–31.1% |
 | [4–6 May 2021](2021-05-06-electoPanel.html) | electoPanel <br> electomania.es | 25.8% | 24.5–27.2% | 24.2–27.5% | 23.9–27.9% | 23.2–28.5% |
+| [5–6 May 2021](2021-05-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 30.2% | 28.4–32.1% | 27.9–32.6% | 27.4–33.1% | 26.6–34.0% |
 | [5–6 May 2021](2021-05-06-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 25.9% | 24.2–27.7% | 23.7–28.3% | 23.3–28.7% | 22.5–29.6% |
 | [24 April–2 May 2021](2021-05-02-electoPanel.html) | electoPanel <br> electomania.es | 24.0% | 23.2–24.9% | 23.0–25.1% | 22.7–25.3% | 22.4–25.7% |
 | [18–24 April 2021](2021-04-24-electoPanel.html) | electoPanel <br> electomania.es | 23.9% | 22.9–24.9% | 22.7–25.2% | 22.4–25.4% | 22.0–25.9% |
@@ -389,20 +391,22 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.2% | 100% |  |
-| 19.5–20.5% | 1.0% | 99.7% |  |
-| 20.5–21.5% | 3% | 98.7% |  |
-| 21.5–22.5% | 5% | 96% |  |
-| 22.5–23.5% | 6% | 92% |  |
-| 23.5–24.5% | 10% | 85% |  |
-| 24.5–25.5% | 16% | 76% |  |
-| 25.5–26.5% | 22% | 59% | Median |
-| 26.5–27.5% | 18% | 38% |  |
-| 27.5–28.5% | 11% | 20% |  |
-| 28.5–29.5% | 6% | 8% |  |
-| 29.5–30.5% | 2% | 3% |  |
-| 30.5–31.5% | 0.6% | 0.8% |  |
-| 31.5–32.5% | 0.1% | 0.2% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 19.5–20.5% | 0.7% | 99.8% |  |
+| 20.5–21.5% | 2% | 99.1% |  |
+| 21.5–22.5% | 3% | 97% |  |
+| 22.5–23.5% | 5% | 94% |  |
+| 23.5–24.5% | 8% | 89% |  |
+| 24.5–25.5% | 14% | 82% |  |
+| 25.5–26.5% | 18% | 68% |  |
+| 26.5–27.5% | 17% | 50% | Median |
+| 27.5–28.5% | 12% | 33% |  |
+| 28.5–29.5% | 8% | 21% |  |
+| 29.5–30.5% | 6% | 13% |  |
+| 30.5–31.5% | 4% | 7% |  |
+| 31.5–32.5% | 2% | 3% |  |
+| 32.5–33.5% | 0.7% | 0.8% |  |
+| 33.5–34.5% | 0.2% | 0.2% |  |
+| 34.5–35.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -413,10 +417,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–17 | 13–18 | 13–18 | 12–19 |
+| N/A | [Poll Average](average.html) | 17 | 14–18 | 13–19 | 13–20 | 12–20 |
+| [4–8 May 2021](2021-05-08-NCReport.html) | NC Report <br> La Razón | 17 | 15–18 | 15–18 | 15–19 | 14–20 |
 | [5–7 May 2021](2021-05-07-Invymark.html) | Invymark <br> laSexta | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [4–6 May 2021](2021-05-06-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–17 | 16–17 | 16–17 | 15–18 |
-| [5–6 May 2021](2021-05-06-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 16 | 14–17 | 14–17 | 14–17 | 14–18 |
+| [5–6 May 2021](2021-05-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 17–20 | 17–20 | 17–21 | 16–21 |
+| [5–6 May 2021](2021-05-06-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 18 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [24 April–2 May 2021](2021-05-02-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–16 | 14–16 | 14–16 |
 | [18–24 April 2021](2021-04-24-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–16 | 14–16 | 14–16 |
 | [10–17 April 2021](2021-04-17-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15 | 14–16 | 14–16 | 14–16 |
@@ -785,16 +791,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.3% | 100% |  |
-| 12 | 2% | 99.7% |  |
-| 13 | 7% | 98% |  |
-| 14 | 10% | 91% |  |
-| 15 | 9% | 81% |  |
-| 16 | 40% | 72% | Median |
-| 17 | 26% | 32% |  |
-| 18 | 5% | 5% |  |
-| 19 | 0.5% | 0.9% |  |
-| 20 | 0.4% | 0.4% |  |
-| 21 | 0% | 0% |  |
+| 11 | 0.2% | 100% |  |
+| 12 | 2% | 99.8% |  |
+| 13 | 5% | 98% |  |
+| 14 | 6% | 93% |  |
+| 15 | 9% | 88% |  |
+| 16 | 27% | 79% |  |
+| 17 | 23% | 51% | Median |
+| 18 | 20% | 28% |  |
+| 19 | 5% | 8% |  |
+| 20 | 2% | 3% |  |
+| 21 | 0.4% | 0.4% |  |
+| 22 | 0% | 0% |  |
 
 
