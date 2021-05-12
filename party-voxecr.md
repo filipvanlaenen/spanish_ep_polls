@@ -406,12 +406,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–12 | 8–12 | 7–13 |
+| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–12 | 8–12 | 7–13 |
 | [4–8 May 2021](2021-05-08-NCReport.html) | NC Report <br> La Razón | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [5–7 May 2021](2021-05-07-Invymark.html) | Invymark <br> laSexta | 11 | 10–12 | 10–13 | 10–13 | 9–13 |
-| [4–6 May 2021](2021-05-06-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
+| [4–6 May 2021](2021-05-06-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10–11 | 10–11 | 9–11 | 9–12 |
 | [5–6 May 2021](2021-05-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
-| [5–6 May 2021](2021-05-06-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 9 | 9–11 | 9–11 | 9–12 | 9–13 |
+| [5–6 May 2021](2021-05-06-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 10 | 9–11 | 9–12 | 9–12 | 9–13 |
 | [24 April–2 May 2021](2021-05-02-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [18–24 April 2021](2021-04-24-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
 | [10–17 April 2021](2021-04-17-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 10–11 | 10–12 | 10–12 |
@@ -778,11 +778,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.5% | 100% |  |
 | 8 | 4% | 99.4% |  |
-| 9 | 31% | 95% |  |
-| 10 | 33% | 64% | Median |
-| 11 | 24% | 31% |  |
-| 12 | 6% | 8% |  |
-| 13 | 2% | 2% |  |
+| 9 | 29% | 95% |  |
+| 10 | 35% | 66% | Median |
+| 11 | 22% | 32% |  |
+| 12 | 9% | 10% |  |
+| 13 | 1.4% | 1.5% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 

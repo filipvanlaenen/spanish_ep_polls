@@ -401,10 +401,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 4–8 | 4–8 | 4–9 |
 | [4–8 May 2021](2021-05-08-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
-| [5–7 May 2021](2021-05-07-Invymark.html) | Invymark <br> laSexta | 5 | 4–5 | 4–5 | 3–6 | 3–6 |
-| [4–6 May 2021](2021-05-06-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7 | 7 | 7 | 6–8 |
+| [5–7 May 2021](2021-05-07-Invymark.html) | Invymark <br> laSexta | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
+| [4–6 May 2021](2021-05-06-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [5–6 May 2021](2021-05-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
-| [5–6 May 2021](2021-05-06-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
+| [5–6 May 2021](2021-05-06-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [24 April–2 May 2021](2021-05-02-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [18–24 April 2021](2021-04-24-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [10–17 April 2021](2021-04-17-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
@@ -765,12 +765,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.4% | 100% |  |
-| 4 | 7% | 99.6% |  |
-| 5 | 25% | 93% |  |
-| 6 | 27% | 68% | Median |
-| 7 | 30% | 41% |  |
-| 8 | 9% | 11% |  |
+| 3 | 0.5% | 100% |  |
+| 4 | 8% | 99.5% |  |
+| 5 | 24% | 91% |  |
+| 6 | 27% | 67% | Median |
+| 7 | 22% | 41% |  |
+| 8 | 16% | 18% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
