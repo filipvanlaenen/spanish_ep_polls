@@ -395,7 +395,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17 May 2021](2021-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
 | [10–15 May 2021](2021-05-15-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [10–14 May 2021](2021-05-14-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–14 May 2021](2021-05-14-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–13 May 2021](2021-05-13-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0–1 |
 | [4–12 May 2021](2021-05-12-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [10–11 May 2021](2021-05-11-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -761,8 +761,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 64% | 100% | Last Result, Median |
-| 1 | 36% | 36% |  |
-| 2 | 0% | 0% |  |
+| 0 | 70% | 100% | Last Result, Median |
+| 1 | 30% | 30% |  |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 

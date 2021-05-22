@@ -420,10 +420,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
+| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–18 | 14–18 | 14–19 |
 | [17 May 2021](2021-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 | 16 | 15–17 | 14–18 | 14–18 | 14–18 |
 | [10–15 May 2021](2021-05-15-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–17 | 16–17 | 15–17 | 15–18 |
-| [10–14 May 2021](2021-05-14-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 16 | 15–17 | 15–17 | 15–18 | 15–18 |
+| [10–14 May 2021](2021-05-14-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 16 | 15–18 | 14–18 | 14–18 | 14–20 |
 | [4–13 May 2021](2021-05-13-CIS.html) | CIS | 18 | 17–19 | 17–19 | 17–19 | 17–19 |
 | [4–12 May 2021](2021-05-12-SimpleLógica.html) | Simple Lógica | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
 | [10–11 May 2021](2021-05-11-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 16 | 15–17 | 14–17 | 14–18 | 13–19 |
@@ -803,12 +803,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0.4% | 100% |  |
-| 14 | 4% | 99.6% |  |
-| 15 | 21% | 95% |  |
-| 16 | 29% | 74% | Median |
-| 17 | 31% | 45% |  |
-| 18 | 12% | 14% |  |
+| 14 | 5% | 99.5% |  |
+| 15 | 20% | 95% |  |
+| 16 | 27% | 74% | Median |
+| 17 | 32% | 47% |  |
+| 18 | 13% | 15% |  |
 | 19 | 2% | 2% |  |
-| 20 | 0% | 0% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 

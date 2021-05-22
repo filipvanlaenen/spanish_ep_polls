@@ -398,9 +398,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [17 May 2021](2021-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [10–15 May 2021](2021-05-15-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [10–14 May 2021](2021-05-14-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [10–14 May 2021](2021-05-14-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–13 May 2021](2021-05-13-CIS.html) | CIS | 3 | 3 | 2–3 | 2–3 | 2–4 |
-| [4–12 May 2021](2021-05-12-SimpleLógica.html) | Simple Lógica | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [4–12 May 2021](2021-05-12-SimpleLógica.html) | Simple Lógica | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [10–11 May 2021](2021-05-11-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [4–8 May 2021](2021-05-08-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [5–7 May 2021](2021-05-07-Invymark.html) | Invymark <br> laSexta | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -765,9 +765,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 11% | 100% | Last Result |
-| 1 | 55% | 89% | Median |
-| 2 | 22% | 34% |  |
-| 3 | 12% | 13% |  |
+| 1 | 54% | 89% | Median |
+| 2 | 23% | 36% |  |
+| 3 | 12% | 12% |  |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 

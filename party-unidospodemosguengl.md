@@ -403,12 +403,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | [17 May 2021](2021-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [10–15 May 2021](2021-05-15-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
-| [10–14 May 2021](2021-05-14-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [10–14 May 2021](2021-05-14-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [4–13 May 2021](2021-05-13-CIS.html) | CIS | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [4–12 May 2021](2021-05-12-SimpleLógica.html) | Simple Lógica | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [4–12 May 2021](2021-05-12-SimpleLógica.html) | Simple Lógica | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [10–11 May 2021](2021-05-11-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDiario | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [4–8 May 2021](2021-05-08-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [5–7 May 2021](2021-05-07-Invymark.html) | Invymark <br> laSexta | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
@@ -776,11 +776,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.4% | 100% |  |
-| 4 | 10% | 99.6% |  |
-| 5 | 24% | 90% |  |
-| 6 | 46% | 66% | Median |
-| 7 | 18% | 20% |  |
-| 8 | 1.2% | 1.3% |  |
+| 4 | 9% | 99.6% |  |
+| 5 | 27% | 90% |  |
+| 6 | 43% | 63% | Median |
+| 7 | 19% | 20% |  |
+| 8 | 1.3% | 1.3% |  |
 | 9 | 0% | 0% |  |
 
 
