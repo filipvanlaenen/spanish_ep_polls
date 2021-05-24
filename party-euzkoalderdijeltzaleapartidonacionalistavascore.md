@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.0–2.2% | 0.9–2.5% | 0.9–2.6% | 0.7–3.1% |
+| N/A | [Poll Average](average.html) | 1.6% | 1.1–2.3% | 1.0–2.5% | 0.8–2.7% | 0.6–3.2% |
+| [17–22 May 2021](2021-05-22-electoPanel.html) | electoPanel <br> electomania.es | 1.7% | 1.4–2.2% | 1.2–2.3% | 1.2–2.5% | 1.0–2.7% |
+| [22 May 2021](2021-05-22-NCReport.html) | NC Report <br> La Razón | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
+| [17–21 May 2021](2021-05-21-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [20 May 2021](2021-05-20-KeyData.html) | Key Data <br> Público | 1.4% | 0.9–2.7% | 0.7–3.0% | 0.6–3.4% | 0.4–4.0% |
+| [12–18 May 2021](2021-05-18-GAD3.html) | GAD3 <br> ABC | 1.8% | 1.4–2.4% | 1.3–2.6% | 1.2–2.8% | 1.0–3.1% |
 | [17 May 2021](2021-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [10–15 May 2021](2021-05-15-electoPanel.html) | electoPanel <br> electomania.es | 1.7% | 1.4–2.2% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% |
 | [10–14 May 2021](2021-05-14-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1.3% | 0.9–2.0% | 0.8–2.2% | 0.7–2.4% | 0.5–2.8% |
@@ -377,11 +382,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 47% | 99.9% |  |
-| 1.5–2.5% | 50% | 53% | Median |
-| 2.5–3.5% | 4% | 4% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 0.2% | 100% | Last Result |
+| 0.5–1.5% | 43% | 99.8% |  |
+| 1.5–2.5% | 52% | 57% | Median |
+| 2.5–3.5% | 4% | 5% |  |
+| 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -393,7 +398,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [17–22 May 2021](2021-05-22-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22 May 2021](2021-05-22-NCReport.html) | NC Report <br> La Razón | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [17–21 May 2021](2021-05-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [20 May 2021](2021-05-20-KeyData.html) | Key Data <br> Público | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [12–18 May 2021](2021-05-18-GAD3.html) | GAD3 <br> ABC | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17 May 2021](2021-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [10–15 May 2021](2021-05-15-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–14 May 2021](2021-05-14-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -762,9 +772,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 56% | 100% | Last Result, Median |
-| 1 | 44% | 44% |  |
-| 2 | 0.3% | 0.3% |  |
+| 0 | 45% | 100% | Last Result |
+| 1 | 55% | 55% | Median |
+| 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
 

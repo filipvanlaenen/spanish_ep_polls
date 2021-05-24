@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.1–6.3% | 2.8–6.8% | 2.6–7.2% | 2.3–7.9% |
+| N/A | [Poll Average](average.html) | 4.3% | 3.2–6.2% | 2.9–6.7% | 2.6–7.1% | 2.0–7.9% |
+| [17–22 May 2021](2021-05-22-electoPanel.html) | electoPanel <br> electomania.es | 3.3% | 2.8–3.9% | 2.6–4.1% | 2.5–4.3% | 2.3–4.6% |
+| [22 May 2021](2021-05-22-NCReport.html) | NC Report <br> La Razón | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [17–21 May 2021](2021-05-21-Invymark.html) | Invymark <br> laSexta | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
+| [20 May 2021](2021-05-20-KeyData.html) | Key Data <br> Público | 3.2% | 2.3–4.8% | 2.0–5.2% | 1.8–5.6% | 1.4–6.5% |
+| [12–18 May 2021](2021-05-18-GAD3.html) | GAD3 <br> ABC | 4.1% | 3.4–4.9% | 3.2–5.2% | 3.1–5.3% | 2.8–5.8% |
 | [17 May 2021](2021-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [10–15 May 2021](2021-05-15-electoPanel.html) | electoPanel <br> electomania.es | 2.9% | 2.5–3.5% | 2.3–3.6% | 2.2–3.8% | 2.0–4.0% |
 | [10–14 May 2021](2021-05-14-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 6.1% | 5.0–7.4% | 4.8–7.7% | 4.5–8.1% | 4.1–8.7% |
@@ -378,14 +383,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 20% | 98% |  |
-| 3.5–4.5% | 33% | 78% | Median |
-| 4.5–5.5% | 22% | 45% |  |
-| 5.5–6.5% | 16% | 23% |  |
-| 6.5–7.5% | 6% | 7% |  |
-| 7.5–8.5% | 1.1% | 1.2% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 2% | 99.9% |  |
+| 2.5–3.5% | 18% | 98% |  |
+| 3.5–4.5% | 37% | 79% | Median |
+| 4.5–5.5% | 22% | 42% |  |
+| 5.5–6.5% | 14% | 20% |  |
+| 6.5–7.5% | 5% | 6% |  |
+| 7.5–8.5% | 0.9% | 1.0% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -398,7 +403,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–4 | 1–4 | 1–4 |
+| [17–22 May 2021](2021-05-22-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [22 May 2021](2021-05-22-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [17–21 May 2021](2021-05-21-Invymark.html) | Invymark <br> laSexta | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [20 May 2021](2021-05-20-KeyData.html) | Key Data <br> Público | 2 | 1–3 | 1–3 | 1–3 | 0–4 |
+| [12–18 May 2021](2021-05-18-GAD3.html) | GAD3 <br> ABC | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [17 May 2021](2021-05-17-SigmaDos.html) | Sigma Dos <br> Antena 3 | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [10–15 May 2021](2021-05-15-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–14 May 2021](2021-05-14-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
@@ -767,11 +777,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 13% | 100% |  |
-| 2 | 46% | 87% | Median |
-| 3 | 33% | 42% |  |
-| 4 | 9% | 9% |  |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 8% | 99.9% |  |
+| 2 | 52% | 92% | Median |
+| 3 | 33% | 40% |  |
+| 4 | 7% | 8% |  |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
