@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.2% | 0.9–1.8% | 0.8–2.0% | 0.7–2.2% | 0.5–2.8% |
+| [21–24 May 2021](2021-05-24-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [17–22 May 2021](2021-05-22-electoPanel.html) | electoPanel <br> electomania.es | 1.2% | 0.9–1.6% | 0.8–1.8% | 0.8–1.9% | 0.7–2.1% |
 | [22 May 2021](2021-05-22-NCReport.html) | NC Report <br> La Razón | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [17–21 May 2021](2021-05-21-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
@@ -399,6 +400,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21–24 May 2021](2021-05-24-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [17–22 May 2021](2021-05-22-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22 May 2021](2021-05-22-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–21 May 2021](2021-05-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |

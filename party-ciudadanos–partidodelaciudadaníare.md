@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 1.8–5.0% | 1.5–5.4% | 1.2–5.6% | 0.9–6.1% |
+| N/A | [Poll Average](average.html) | 3.1% | 1.9–4.9% | 1.5–5.3% | 1.3–5.6% | 1.0–6.0% |
+| [21–24 May 2021](2021-05-24-DYM.html) | DYM <br> Henneo | 3.4% | 2.7–4.2% | 2.6–4.5% | 2.4–4.7% | 2.1–5.1% |
 | [17–22 May 2021](2021-05-22-electoPanel.html) | electoPanel <br> electomania.es | 2.9% | 2.4–3.5% | 2.3–3.7% | 2.2–3.9% | 2.0–4.2% |
 | [22 May 2021](2021-05-22-NCReport.html) | NC Report <br> La Razón | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [17–21 May 2021](2021-05-21-Invymark.html) | Invymark <br> laSexta | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
@@ -384,10 +385,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 25% | 94% |  |
-| 2.5–3.5% | 39% | 69% | Median |
-| 3.5–4.5% | 16% | 30% |  |
-| 4.5–5.5% | 11% | 14% |  |
+| 1.5–2.5% | 23% | 94% |  |
+| 2.5–3.5% | 41% | 72% | Median |
+| 3.5–4.5% | 18% | 31% |  |
+| 4.5–5.5% | 10% | 13% |  |
 | 5.5–6.5% | 3% | 3% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -402,6 +403,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–3 | 0–3 | 0–3 | 0–3 |
+| [21–24 May 2021](2021-05-24-DYM.html) | DYM <br> Henneo | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [17–22 May 2021](2021-05-22-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22 May 2021](2021-05-22-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–21 May 2021](2021-05-21-Invymark.html) | Invymark <br> laSexta | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -775,10 +777,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 49% | 93% | Median |
-| 2 | 32% | 44% |  |
-| 3 | 12% | 12% |  |
+| 0 | 6% | 100% | Last Result |
+| 1 | 48% | 94% | Median |
+| 2 | 34% | 45% |  |
+| 3 | 11% | 11% |  |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
