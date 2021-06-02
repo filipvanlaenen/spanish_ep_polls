@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.1% | 13.7–18.5% | 13.2–19.2% | 12.9–19.8% | 12.2–20.9% |
+| N/A | [Poll Average](average.html) | 16.2% | 13.7–18.5% | 13.3–19.2% | 12.9–19.8% | 12.2–20.9% |
+| [26–29 May 2021](2021-05-29-SocioMétrica.html) | SocioMétrica <br> El Español | 16.9% | 15.5–18.4% | 15.1–18.9% | 14.8–19.3% | 14.2–20.0% |
+| [23–28 May 2021](2021-05-28-electoPanel.html) | electoPanel <br> electomania.es | 16.7% | 15.4–18.1% | 15.0–18.5% | 14.7–18.8% | 14.1–19.5% |
 | [21–24 May 2021](2021-05-24-DYM.html) | DYM <br> Henneo | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.1% |
 | [17–22 May 2021](2021-05-22-electoPanel.html) | electoPanel <br> electomania.es | 16.4% | 15.2–17.6% | 14.9–18.0% | 14.6–18.3% | 14.1–18.9% |
 | [22 May 2021](2021-05-22-NCReport.html) | NC Report <br> La Razón | 14.9% | 13.5–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
@@ -395,16 +397,16 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 1.1% | 99.9% |  |
+| 11.5–12.5% | 1.0% | 99.9% |  |
 | 12.5–13.5% | 7% | 98.9% |  |
-| 13.5–14.5% | 14% | 92% |  |
-| 14.5–15.5% | 16% | 77% |  |
-| 15.5–16.5% | 21% | 61% | Median |
-| 16.5–17.5% | 18% | 40% |  |
-| 17.5–18.5% | 12% | 22% |  |
-| 18.5–19.5% | 6% | 10% |  |
+| 13.5–14.5% | 13% | 92% |  |
+| 14.5–15.5% | 16% | 79% |  |
+| 15.5–16.5% | 20% | 63% | Median |
+| 16.5–17.5% | 20% | 43% |  |
+| 17.5–18.5% | 14% | 23% |  |
+| 18.5–19.5% | 7% | 10% |  |
 | 19.5–20.5% | 2% | 3% |  |
-| 20.5–21.5% | 0.7% | 0.9% |  |
+| 20.5–21.5% | 0.7% | 0.8% |  |
 | 21.5–22.5% | 0.1% | 0.2% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -418,6 +420,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 8–11 | 8–12 | 7–12 | 7–13 |
+| [26–29 May 2021](2021-05-29-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–11 | 9–11 | 9–12 | 9–12 |
+| [23–28 May 2021](2021-05-28-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
 | [21–24 May 2021](2021-05-24-DYM.html) | DYM <br> Henneo | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
 | [17–22 May 2021](2021-05-22-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 9–11 | 9–12 | 9–12 |
 | [22 May 2021](2021-05-22-NCReport.html) | NC Report <br> La Razón | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
@@ -801,11 +805,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 3% | 100% |  |
 | 8 | 10% | 97% |  |
-| 9 | 30% | 87% |  |
-| 10 | 25% | 56% | Median |
-| 11 | 26% | 32% |  |
+| 9 | 28% | 88% |  |
+| 10 | 25% | 59% | Median |
+| 11 | 28% | 34% |  |
 | 12 | 5% | 6% |  |
-| 13 | 1.4% | 1.4% |  |
+| 13 | 1.3% | 1.3% |  |
 | 14 | 0% | 0% |  |
 
 
