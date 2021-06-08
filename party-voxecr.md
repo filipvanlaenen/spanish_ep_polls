@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.2% | 13.7–18.5% | 13.3–19.2% | 12.9–19.8% | 12.2–20.9% |
+| N/A | [Poll Average](average.html) | 16.2% | 13.8–18.5% | 13.3–19.1% | 12.9–19.7% | 12.2–20.8% |
+| [30 May–4 June 2021](2021-06-04-electoPanel.html) | electoPanel <br> electomania.es | 16.8% | 15.6–18.1% | 15.3–18.5% | 15.0–18.8% | 14.4–19.5% |
+| [1–3 June 2021](2021-06-03-Data10.html) | Data10 <br> OKDiario | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
+| [31 May–1 June 2021](2021-06-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.7–18.5% |
 | [26–29 May 2021](2021-05-29-SocioMétrica.html) | SocioMétrica <br> El Español | 16.9% | 15.5–18.4% | 15.1–18.9% | 14.8–19.3% | 14.2–20.0% |
 | [23–28 May 2021](2021-05-28-electoPanel.html) | electoPanel <br> electomania.es | 16.7% | 15.4–18.1% | 15.0–18.5% | 14.7–18.8% | 14.1–19.5% |
 | [21–24 May 2021](2021-05-24-DYM.html) | DYM <br> Henneo | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.1% |
@@ -397,16 +400,16 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 1.0% | 99.9% |  |
-| 12.5–13.5% | 7% | 98.9% |  |
-| 13.5–14.5% | 13% | 92% |  |
+| 11.5–12.5% | 0.9% | 99.9% |  |
+| 12.5–13.5% | 6% | 99.0% |  |
+| 13.5–14.5% | 13% | 93% |  |
 | 14.5–15.5% | 16% | 79% |  |
-| 15.5–16.5% | 20% | 63% | Median |
-| 16.5–17.5% | 20% | 43% |  |
-| 17.5–18.5% | 14% | 23% |  |
-| 18.5–19.5% | 7% | 10% |  |
+| 15.5–16.5% | 21% | 63% | Median |
+| 16.5–17.5% | 19% | 42% |  |
+| 17.5–18.5% | 13% | 22% |  |
+| 18.5–19.5% | 6% | 9% |  |
 | 19.5–20.5% | 2% | 3% |  |
-| 20.5–21.5% | 0.7% | 0.8% |  |
+| 20.5–21.5% | 0.6% | 0.8% |  |
 | 21.5–22.5% | 0.1% | 0.2% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -419,7 +422,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–12 | 7–12 | 7–13 |
+| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–12 | 8–12 | 7–13 |
+| [30 May–4 June 2021](2021-06-04-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–12 | 9–12 | 9–13 | 9–13 |
+| [1–3 June 2021](2021-06-03-Data10.html) | Data10 <br> OKDiario | 10 | 9–10 | 9–11 | 8–12 | 8–12 |
+| [31 May–1 June 2021](2021-06-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
 | [26–29 May 2021](2021-05-29-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–11 | 9–11 | 9–12 | 9–12 |
 | [23–28 May 2021](2021-05-28-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
 | [21–24 May 2021](2021-05-24-DYM.html) | DYM <br> Henneo | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
@@ -803,13 +809,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 3% | 100% |  |
-| 8 | 10% | 97% |  |
-| 9 | 28% | 88% |  |
-| 10 | 25% | 59% | Median |
-| 11 | 28% | 34% |  |
-| 12 | 5% | 6% |  |
-| 13 | 1.3% | 1.3% |  |
+| 7 | 2% | 100% |  |
+| 8 | 9% | 98% |  |
+| 9 | 33% | 89% |  |
+| 10 | 26% | 56% | Median |
+| 11 | 22% | 30% |  |
+| 12 | 6% | 8% |  |
+| 13 | 2% | 2% |  |
 | 14 | 0% | 0% |  |
 
 
