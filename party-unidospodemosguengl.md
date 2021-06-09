@@ -417,7 +417,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | [30 May–4 June 2021](2021-06-04-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
-| [1–3 June 2021](2021-06-03-Data10.html) | Data10 <br> OKDiario | 5 | 4–5 | 4–5 | 4–6 | 4–7 |
+| [1–3 June 2021](2021-06-03-Data10.html) | Data10 <br> OKDiario | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [31 May–1 June 2021](2021-06-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [26–29 May 2021](2021-05-29-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [23–28 May 2021](2021-05-28-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
@@ -800,8 +800,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0.3% | 100% |  |
 | 4 | 9% | 99.7% |  |
-| 5 | 36% | 90% |  |
-| 6 | 43% | 54% | Median |
+| 5 | 36% | 91% |  |
+| 6 | 43% | 55% | Median |
 | 7 | 10% | 11% |  |
 | 8 | 1.1% | 1.2% |  |
 | 9 | 0.1% | 0.1% |  |
