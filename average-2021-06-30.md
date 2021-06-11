@@ -9,7 +9,7 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | PP | PSOE | UP | Cs | ERC | PDeCAT | EAJ/PNV | PACMA | EH Bildu | CC | Vox | BNG | BNG–NCG | AR | CEU | PE | Cmp |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 23–32% <br> 14–21 | 23–29% <br> 14–18 | 7–12% <br> 4–7 | 1–6% <br> 0–3 | 2–5% <br> 1–2 | 1–4% <br> 0–2 | 1–3% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0–1 | 0–1% <br> 0 | 13–20% <br> 8–12 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–7% <br> 1–4 |
+| N/A | Poll Average | 23–32% <br> 14–21 | 23–29% <br> 14–18 | 7–12% <br> 4–7 | 1–6% <br> 0–3 | 2–5% <br> 1–3 | 1–4% <br> 0–2 | 1–3% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0–1 | 0–1% <br> 0 | 13–20% <br> 8–12 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–7% <br> 1–4 |
 | [30 May–4 June 2021](2021-06-04-electoPanel.html) | electoPanel <br> electomania.es | 26–30% <br> 16–19 | 23–28% <br> 15–18 | 9–12% <br> 5–7 | 2–4% <br> 1–2 | 3–5% <br> 1–2 | 2–3% <br> 0–2 | 1–3% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0–1 | 0–1% <br> 0 | 15–19% <br> 9–12 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 1–3 |
 | [1–3 June 2021](2021-06-03-Data10.html) | Data10 <br> OKDiario | 26–32% <br> 16–20 | 23–28% <br> 14–18 | 7–11% <br> 4–6 | 2–4% <br> 1–2 | 2–5% <br> 1–2 | 2–4% <br> 1–2 | 1–3% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0–1 | 0–1% <br> 0 | 14–18% <br> 9–11 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 2–4 |
 | [31 May–1 June 2021](2021-06-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 27–32% <br> 16–20 | 22–28% <br> 14–17 | 8–12% <br> 5–7 | 2–4% <br> 1–2 | 2–4% <br> 1–2 | 1–3% <br> 0–1 | 1–3% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 13–18% <br> 8–11 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 2–3 |
@@ -344,7 +344,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 16 | 15–18 |14–18 | 14–18 | 13–19 |
 | <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 6 | 5–7 |4–7 | 4–7 | 4–8 |
 | <a href="#ciudadanos–partido-de-la-ciudadanía-(re)">Ciudadanos–Partido de la Ciudadanía (RE)</a> | 0 | 1 | 1–2 |0–3 | 0–3 | 0–3 |
-| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 2 | 1–2 |1–2 | 1–2 | 1–3 |
+| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 2 | 1–2 |1–2 | 1–3 | 1–3 |
 | <a href="#partit-demòcrata-europeu-català-(ni)">Partit Demòcrata Europeu Català (NI)</a> | 0 | 1 | 0–2 |0–2 | 0–2 | 0–2 |
 | <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco-(re)">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#partido-animalista-contra-el-maltrato-animal-(gue/ngl)">Partido Animalista Contra el Maltrato Animal (GUE/NGL)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -383,9 +383,9 @@ Only polls for which at least the sample size has been published are included in
 | 14 | 2% | 99.6% |  |
 | 15 | 12% | 97% |  |
 | 16 | 20% | 85% |  |
-| 17 | 22% | 65% | Median |
-| 18 | 25% | 43% |  |
-| 19 | 10% | 18% |  |
+| 17 | 23% | 65% | Median |
+| 18 | 24% | 43% |  |
+| 19 | 11% | 19% |  |
 | 20 | 5% | 8% |  |
 | 21 | 3% | 3% |  |
 | 22 | 0.2% | 0.2% |  |
@@ -412,10 +412,10 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0.1% | 100% |  |
-| 13 | 1.4% | 99.9% |  |
+| 13 | 1.5% | 99.9% |  |
 | 14 | 7% | 98% |  |
-| 15 | 29% | 92% |  |
-| 16 | 30% | 63% | Median |
+| 15 | 29% | 91% |  |
+| 16 | 29% | 62% | Median |
 | 17 | 22% | 33% |  |
 | 18 | 10% | 11% |  |
 | 19 | 1.2% | 1.3% |  |
@@ -436,9 +436,9 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0.3% | 100% |  |
 | 4 | 9% | 99.7% |  |
 | 5 | 36% | 91% |  |
-| 6 | 43% | 55% | Median |
-| 7 | 11% | 12% |  |
-| 8 | 1.1% | 1.2% |  |
+| 6 | 43% | 54% | Median |
+| 7 | 10% | 11% |  |
+| 8 | 1.0% | 1.1% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
@@ -451,8 +451,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 6% | 100% | Last Result |
-| 1 | 52% | 94% | Median |
-| 2 | 33% | 42% |  |
+| 1 | 51% | 94% | Median |
+| 2 | 34% | 44% |  |
 | 3 | 9% | 10% |  |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
@@ -466,9 +466,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 30% | 99.9% |  |
-| 2 | 67% | 70% | Median |
-| 3 | 2% | 2% |  |
+| 1 | 32% | 99.9% |  |
+| 2 | 65% | 68% | Median |
+| 3 | 2% | 3% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -480,8 +480,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 74% | 87% | Median |
+| 0 | 12% | 100% | Last Result |
+| 1 | 75% | 88% | Median |
 | 2 | 13% | 13% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
@@ -494,8 +494,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 41% | 100% | Last Result |
-| 1 | 59% | 59% | Median |
+| 0 | 40% | 100% | Last Result |
+| 1 | 60% | 60% | Median |
 | 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
@@ -547,8 +547,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 2% | 100% |  |
 | 8 | 9% | 98% |  |
-| 9 | 33% | 89% |  |
-| 10 | 26% | 56% | Median |
+| 9 | 32% | 89% |  |
+| 10 | 26% | 57% | Median |
 | 11 | 24% | 30% |  |
 | 12 | 4% | 6% |  |
 | 13 | 1.2% | 1.3% |  |
@@ -601,7 +601,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0.1% | 100% | Last Result |
 | 1 | 5% | 99.9% |  |
 | 2 | 50% | 94% | Median |
-| 3 | 38% | 45% |  |
+| 3 | 38% | 44% |  |
 | 4 | 6% | 6% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
@@ -646,9 +646,9 @@ Only polls for which at least the sample size has been published are included in
 | 14 | 2% | 99.6% |  |
 | 15 | 12% | 97% |  |
 | 16 | 20% | 85% |  |
-| 17 | 22% | 65% | Median |
-| 18 | 25% | 43% |  |
-| 19 | 10% | 18% |  |
+| 17 | 23% | 65% | Median |
+| 18 | 24% | 43% |  |
+| 19 | 11% | 19% |  |
 | 20 | 5% | 8% |  |
 | 21 | 3% | 3% |  |
 | 22 | 0.2% | 0.2% |  |
@@ -673,10 +673,10 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0.1% | 100% |  |
-| 13 | 1.4% | 99.9% |  |
+| 13 | 1.5% | 99.9% |  |
 | 14 | 7% | 98% |  |
-| 15 | 29% | 92% |  |
-| 16 | 30% | 63% | Median |
+| 15 | 29% | 91% |  |
+| 16 | 29% | 62% | Median |
 | 17 | 22% | 33% |  |
 | 18 | 10% | 11% |  |
 | 19 | 1.2% | 1.3% |  |
@@ -698,8 +698,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 2% | 100% |  |
 | 8 | 9% | 98% |  |
-| 9 | 33% | 89% |  |
-| 10 | 26% | 56% | Median |
+| 9 | 32% | 89% |  |
+| 10 | 26% | 57% | Median |
 | 11 | 24% | 30% |  |
 | 12 | 4% | 6% |  |
 | 13 | 1.2% | 1.3% |  |
@@ -718,7 +718,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 8% | 99.7% |  |
 | 5 | 30% | 92% |  |
 | 6 | 43% | 62% | Median |
-| 7 | 15% | 19% |  |
+| 7 | 15% | 18% |  |
 | 8 | 3% | 3% |  |
 | 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
@@ -732,8 +732,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 7% | 100% | Last Result |
 | 1 | 0.1% | 93% |  |
 | 2 | 8% | 93% |  |
-| 3 | 26% | 85% |  |
-| 4 | 30% | 59% | Median |
+| 3 | 27% | 85% |  |
+| 4 | 29% | 58% | Median |
 | 5 | 25% | 29% |  |
 | 6 | 4% | 4% |  |
 | 7 | 0.4% | 0.4% |  |
@@ -747,8 +747,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 5% | 100% | Last Result |
 | 1 | 24% | 95% |  |
-| 2 | 46% | 71% | Median |
-| 3 | 23% | 26% |  |
+| 2 | 43% | 71% | Median |
+| 3 | 25% | 28% |  |
 | 4 | 2% | 2% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
@@ -759,8 +759,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% | Last Result |
-| 1 | 58% | 68% | Median |
+| 0 | 31% | 100% | Last Result |
+| 1 | 59% | 69% | Median |
 | 2 | 10% | 10% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
@@ -769,6 +769,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 14
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 13,762,560
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 14,680,064
 + **Error estimate:** 3.90%

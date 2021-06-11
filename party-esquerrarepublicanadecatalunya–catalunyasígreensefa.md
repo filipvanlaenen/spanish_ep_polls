@@ -407,10 +407,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [30 May–4 June 2021](2021-06-04-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [1–3 June 2021](2021-06-03-Data10.html) | Data10 <br> OKDiario | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| [31 May–1 June 2021](2021-06-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [31 May–1 June 2021](2021-06-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [26–29 May 2021](2021-05-29-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 2 | 1–3 | 1–3 |
 | [23–28 May 2021](2021-05-28-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [21–24 May 2021](2021-05-24-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
@@ -788,9 +788,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 30% | 99.9% |  |
-| 2 | 67% | 70% | Median |
-| 3 | 2% | 2% |  |
+| 1 | 32% | 99.9% |  |
+| 2 | 65% | 68% | Median |
+| 3 | 2% | 3% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
