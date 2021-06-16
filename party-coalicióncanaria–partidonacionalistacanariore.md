@@ -407,7 +407,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
 | [5–11 June 2021](2021-06-11-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
-| [7–10 June 2021](2021-06-10-GAD3.html) | GAD3 <br> NIUS | 0 | 0 | 0 | 0–1 | 0–1 |
+| [7–10 June 2021](2021-06-10-GAD3.html) | GAD3 <br> NIUS | 0 | 0 | 0 | 0 | 0–1 |
 | [30 May–4 June 2021](2021-06-04-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
 | [1–3 June 2021](2021-06-03-Data10.html) | Data10 <br> OKDiario | 0 | 0 | 0 | 0 | 0–1 |
 | [31 May–1 June 2021](2021-06-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |

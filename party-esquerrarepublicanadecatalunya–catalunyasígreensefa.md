@@ -410,8 +410,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [5–11 June 2021](2021-06-11-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [7–10 June 2021](2021-06-10-GAD3.html) | GAD3 <br> NIUS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [5–11 June 2021](2021-06-11-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–10 June 2021](2021-06-10-GAD3.html) | GAD3 <br> NIUS | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [30 May–4 June 2021](2021-06-04-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [1–3 June 2021](2021-06-03-Data10.html) | Data10 <br> OKDiario | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [31 May–1 June 2021](2021-06-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -792,8 +792,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.2% | 100% | Last Result |
-| 1 | 39% | 99.8% |  |
-| 2 | 59% | 61% | Median |
+| 1 | 40% | 99.8% |  |
+| 2 | 57% | 60% | Median |
 | 3 | 3% | 3% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
