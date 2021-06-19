@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:48 +0100</pubDate>
     <item>
+      <title>Opinion Poll by CIS, 2–15 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-06-15-CIS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CIS, 2–15 June 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-06-15-CIS.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-06-15-CIS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-06-15-CIS.png" length="384368" type="image/png"/>
+      <pubDate>Sat, 19 Jun 2021 14:14:43 +0200</pubDate>
+      <dc:date>2021-06-19T14:14:43.14311+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by electoPanel for electomania.es, 5–11 June 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-06-11-electoPanel.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by electoPanel for electomania.es, 5–11 June 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-06-11-electoPanel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-06-11-electoPanel-seating-plan.png"/>]]></description>
@@ -52,6 +60,14 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-06-10-GAD3.png" length="422031" type="image/png"/>
       <pubDate>Wed, 16 Jun 2021 07:17:36 +0200</pubDate>
       <dc:date>2021-06-16T07:17:36.324456+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 1–9 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-06-09-SimpleLógica.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Simple Lógica, 1–9 June 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-06-09-SimpleLógica.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-06-09-SimpleLógica.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-06-09-SimpleLógica.png" length="245672" type="image/png"/>
+      <pubDate>Sat, 19 Jun 2021 14:22:07 +0200</pubDate>
+      <dc:date>2021-06-19T14:22:07.691843+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 30 May–4 June 2021 – Seating Plan Projection</title>
@@ -340,78 +356,6 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-17-SigmaDos.png" length="331346" type="image/png"/>
       <pubDate>Mon, 17 May 2021 18:35:59 +0200</pubDate>
       <dc:date>2021-05-17T18:35:59.762949+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by electoPanel for electomania.es, 10–15 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-15-electoPanel.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by electoPanel for electomania.es, 10–15 May 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-15-electoPanel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-15-electoPanel-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-15-electoPanel-seating-plan.png" length="429949" type="image/png"/>
-      <pubDate>Mon, 17 May 2021 19:10:10 +0200</pubDate>
-      <dc:date>2021-05-17T19:10:10.451682+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by electoPanel for electomania.es, 10–15 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-15-electoPanel.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by electoPanel for electomania.es, 10–15 May 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-15-electoPanel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-15-electoPanel-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-15-electoPanel-seats.png" length="340304" type="image/png"/>
-      <pubDate>Mon, 17 May 2021 19:10:10 +0200</pubDate>
-      <dc:date>2021-05-17T19:10:10.451682+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by electoPanel for electomania.es, 10–15 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-15-electoPanel.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by electoPanel for electomania.es, 10–15 May 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-15-electoPanel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-15-electoPanel.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-15-electoPanel.png" length="407582" type="image/png"/>
-      <pubDate>Mon, 17 May 2021 19:10:10 +0200</pubDate>
-      <dc:date>2021-05-17T19:10:10.451682+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Celeste-Tel for Onda Cero, 10–14 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-14-Celeste-Tel.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by Celeste-Tel for Onda Cero, 10–14 May 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-14-Celeste-Tel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-14-Celeste-Tel-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-14-Celeste-Tel-seating-plan.png" length="436905" type="image/png"/>
-      <pubDate>Fri, 21 May 2021 19:58:33 +0200</pubDate>
-      <dc:date>2021-05-21T19:58:33.40511+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Celeste-Tel for Onda Cero, 10–14 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-14-Celeste-Tel.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by Celeste-Tel for Onda Cero, 10–14 May 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-14-Celeste-Tel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-14-Celeste-Tel-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-14-Celeste-Tel-seats.png" length="357104" type="image/png"/>
-      <pubDate>Fri, 21 May 2021 19:58:33 +0200</pubDate>
-      <dc:date>2021-05-21T19:58:33.40511+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Celeste-Tel for Onda Cero, 10–14 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-14-Celeste-Tel.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Celeste-Tel for Onda Cero, 10–14 May 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-14-Celeste-Tel.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-14-Celeste-Tel.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-14-Celeste-Tel.png" length="427032" type="image/png"/>
-      <pubDate>Fri, 21 May 2021 19:58:33 +0200</pubDate>
-      <dc:date>2021-05-21T19:58:33.40511+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by CIS, 4–13 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-13-CIS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by CIS, 4–13 May 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-13-CIS.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-13-CIS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-13-CIS-seating-plan.png" length="418721" type="image/png"/>
-      <pubDate>Wed, 19 May 2021 18:15:58 +0200</pubDate>
-      <dc:date>2021-05-19T18:15:58.377393+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by CIS, 4–13 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-13-CIS.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>30 seats needed for a majority<br/>Opinion poll by CIS, 4–13 May 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-13-CIS.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-13-CIS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-13-CIS-seats.png" length="315587" type="image/png"/>
-      <pubDate>Wed, 19 May 2021 18:15:58 +0200</pubDate>
-      <dc:date>2021-05-19T18:15:58.377393+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by CIS, 4–13 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-13-CIS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CIS, 4–13 May 2021<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-13-CIS.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-13-CIS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2021-05-13-CIS.png" length="380404" type="image/png"/>
-      <pubDate>Wed, 19 May 2021 18:15:58 +0200</pubDate>
-      <dc:date>2021-05-19T18:15:58.377393+02:00</dc:date>
     </item>
   </channel>
 </rss>
