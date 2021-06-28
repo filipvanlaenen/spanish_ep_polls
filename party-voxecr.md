@@ -10,7 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.9% | 12.9–18.3% | 12.3–19.1% | 11.7–19.7% | 10.6–20.9% |
+| N/A | [Poll Average](average.html) | 15.5% | 12.6–17.6% | 12.1–18.2% | 11.5–18.7% | 10.4–19.8% |
+| [27 June 2021](2021-06-27-SocioMétrica.html) | SocioMétrica <br> El Español | 16.6% | 15.0–18.2% | 14.6–18.7% | 14.3–19.1% | 13.6–20.0% |
+| [24–26 June 2021](2021-06-26-electoPanel.html) | electoPanel <br> electomania.es | 16.2% | 15.1–17.5% | 14.8–17.8% | 14.5–18.1% | 14.0–18.7% |
+| [23–26 June 2021](2021-06-26-NCReport.html) | NC Report <br> La Razón | 15.1% | 13.7–16.6% | 13.3–17.1% | 13.0–17.5% | 12.4–18.2% |
+| [21 June 2021](2021-06-21-SigmaDos.html) | Sigma Dos <br> Antena 3 | 15.5% | 14.1–17.1% | 13.7–17.5% | 13.4–17.9% | 12.7–18.7% |
+| [21 June 2021](2021-06-21-KeyData.html) | Key Data <br> Público | 15.7% | N/A | N/A | N/A | N/A |
+| [17–21 June 2021](2021-06-21-DYM.html) | DYM <br> Henneo | 16.0% | N/A | N/A | N/A | N/A |
+| [12–18 June 2021](2021-06-18-electoPanel.html) | electoPanel <br> electomania.es | 15.8% | 14.5–17.1% | 14.2–17.5% | 13.9–17.8% | 13.3–18.5% |
+| [14–18 June 2021](2021-06-18-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 15.5% | N/A | N/A | N/A | N/A |
 | [2–15 June 2021](2021-06-15-CIS.html) | CIS | 13.0% | 12.3–13.7% | 12.1–13.9% | 12.0–14.1% | 11.6–14.5% |
 | [5–11 June 2021](2021-06-11-electoPanel.html) | electoPanel <br> electomania.es | 16.2% | 15.1–17.4% | 14.8–17.8% | 14.5–18.0% | 14.0–18.6% |
 | [7–10 June 2021](2021-06-10-GAD3.html) | GAD3 <br> NIUS | 12.4% | 10.9–14.2% | 10.5–14.7% | 10.2–15.2% | 9.5–16.1% |
@@ -402,20 +410,19 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 0.4% | 99.9% |  |
-| 10.5–11.5% | 2% | 99.5% |  |
-| 11.5–12.5% | 5% | 98% |  |
-| 12.5–13.5% | 10% | 93% |  |
-| 13.5–14.5% | 10% | 83% |  |
-| 14.5–15.5% | 16% | 73% |  |
-| 15.5–16.5% | 21% | 57% | Median |
-| 16.5–17.5% | 17% | 36% |  |
-| 17.5–18.5% | 10% | 19% |  |
-| 18.5–19.5% | 5% | 8% |  |
-| 19.5–20.5% | 2% | 3% |  |
-| 20.5–21.5% | 0.7% | 0.8% |  |
-| 21.5–22.5% | 0.1% | 0.2% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 9.5–10.5% | 0.6% | 99.9% |  |
+| 10.5–11.5% | 2% | 99.3% |  |
+| 11.5–12.5% | 6% | 97% |  |
+| 12.5–13.5% | 13% | 91% |  |
+| 13.5–14.5% | 11% | 78% |  |
+| 14.5–15.5% | 18% | 67% | Median |
+| 15.5–16.5% | 23% | 49% |  |
+| 16.5–17.5% | 16% | 26% |  |
+| 17.5–18.5% | 7% | 10% |  |
+| 18.5–19.5% | 2% | 3% |  |
+| 19.5–20.5% | 0.6% | 0.8% |  |
+| 20.5–21.5% | 0.1% | 0.2% |  |
+| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -426,11 +433,19 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–11 | 7–11 | 7–12 | 6–13 |
-| [2–15 June 2021](2021-06-15-CIS.html) | CIS | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 7–11 | 7–11 | 6–12 |
+| [27 June 2021](2021-06-27-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10 | 10 | 10 | 9–12 |
+| [24–26 June 2021](2021-06-26-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
+| [23–26 June 2021](2021-06-26-NCReport.html) | NC Report <br> La Razón | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
+| [21 June 2021](2021-06-21-SigmaDos.html) | Sigma Dos <br> Antena 3 | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
+| [21 June 2021](2021-06-21-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [17–21 June 2021](2021-06-21-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [12–18 June 2021](2021-06-18-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
+| [14–18 June 2021](2021-06-18-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [2–15 June 2021](2021-06-15-CIS.html) | CIS | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [5–11 June 2021](2021-06-11-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | [7–10 June 2021](2021-06-10-GAD3.html) | GAD3 <br> NIUS | 8 | 6–8 | 6–8 | 6–9 | 6–10 |
-| [1–9 June 2021](2021-06-09-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–11 | 8–12 | 8–13 |
+| [1–9 June 2021](2021-06-09-SimpleLógica.html) | Simple Lógica | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
 | [30 May–4 June 2021](2021-06-04-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10–11 | 9–11 | 9–12 | 9–12 |
 | [1–3 June 2021](2021-06-03-Data10.html) | Data10 <br> OKDiario | 9 | 9–10 | 9–11 | 9–11 | 8–12 |
 | [31 May–1 June 2021](2021-06-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
@@ -818,12 +833,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
 | 7 | 4% | 98% |  |
-| 8 | 15% | 94% |  |
-| 9 | 26% | 79% |  |
-| 10 | 29% | 53% | Median |
-| 11 | 20% | 24% |  |
-| 12 | 4% | 4% |  |
-| 13 | 0.6% | 0.6% |  |
+| 8 | 19% | 93% |  |
+| 9 | 32% | 74% | Median |
+| 10 | 32% | 42% |  |
+| 11 | 9% | 11% |  |
+| 12 | 1.2% | 1.3% |  |
+| 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
 

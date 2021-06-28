@@ -10,7 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% | 0.5–2.8% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.4% |
+| [27 June 2021](2021-06-27-SocioMétrica.html) | SocioMétrica <br> El Español | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
+| [24–26 June 2021](2021-06-26-electoPanel.html) | electoPanel <br> electomania.es | 1.1% | 0.8–1.5% | 0.8–1.6% | 0.7–1.8% | 0.6–2.0% |
+| [23–26 June 2021](2021-06-26-NCReport.html) | NC Report <br> La Razón | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
+| [21 June 2021](2021-06-21-SigmaDos.html) | Sigma Dos <br> Antena 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [21 June 2021](2021-06-21-KeyData.html) | Key Data <br> Público | 1.2% | N/A | N/A | N/A | N/A |
+| [17–21 June 2021](2021-06-21-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [12–18 June 2021](2021-06-18-electoPanel.html) | electoPanel <br> electomania.es | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% |
+| [14–18 June 2021](2021-06-18-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1.1% | N/A | N/A | N/A | N/A |
 | [2–15 June 2021](2021-06-15-CIS.html) | CIS | 1.0% | 0.8–1.2% | 0.8–1.3% | 0.7–1.4% | 0.6–1.5% |
 | [5–11 June 2021](2021-06-11-electoPanel.html) | electoPanel <br> electomania.es | 1.2% | 0.9–1.6% | 0.8–1.7% | 0.8–1.8% | 0.7–2.1% |
 | [7–10 June 2021](2021-06-10-GAD3.html) | GAD3 <br> NIUS | 1.2% | 0.8–2.0% | 0.7–2.2% | 0.6–2.3% | 0.5–2.8% |
@@ -392,12 +400,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.1% | 100% | Last Result |
-| 0.5–1.5% | 79% | 98.9% | Median |
-| 1.5–2.5% | 18% | 19% |  |
-| 2.5–3.5% | 1.0% | 1.1% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 1.0% | 100% | Last Result |
+| 0.5–1.5% | 85% | 99.0% | Median |
+| 1.5–2.5% | 14% | 14% |  |
+| 2.5–3.5% | 0.3% | 0.3% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -409,6 +416,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27 June 2021](2021-06-27-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
+| [24–26 June 2021](2021-06-26-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [23–26 June 2021](2021-06-26-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21 June 2021](2021-06-21-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
+| [21 June 2021](2021-06-21-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [17–21 June 2021](2021-06-21-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [12–18 June 2021](2021-06-18-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [14–18 June 2021](2021-06-18-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
 | [2–15 June 2021](2021-06-15-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [5–11 June 2021](2021-06-11-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–10 June 2021](2021-06-10-GAD3.html) | GAD3 <br> NIUS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -792,9 +807,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 79% | 100% | Last Result, Median |
-| 1 | 20% | 21% |  |
-| 2 | 0.2% | 0.2% |  |
-| 3 | 0% | 0% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 16% | 16% |  |
+| 2 | 0% | 0% |  |
 
 

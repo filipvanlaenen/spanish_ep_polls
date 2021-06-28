@@ -1,58 +1,58 @@
-# Opinion Poll by CIS, 2–15 June 2021
+# Opinion Poll by SocioMétrica for El Español, 27 June 2021
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](2021-06-15-CIS.png "Voting Intentions")
+![Graph with voting intentions not yet produced](2021-06-27-SocioMétrica.png "Voting Intentions")
 
 ### Confidence Intervals
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0.0% | 27.4% | 26.5–28.3% |26.2–28.6% |26.0–28.8% |25.6–29.3% |
-| Partido Popular (EPP) | 0.0% | 23.9% | 23.0–24.8% |22.8–25.1% |22.6–25.3% |22.2–25.7% |
-| Vox (ECR) | 0.0% | 13.0% | 12.3–13.7% |12.1–13.9% |12.0–14.1% |11.6–14.5% |
-| Unidos Podemos (GUE/NGL) | 0.0% | 12.0% | 11.4–12.7% |11.2–12.9% |11.0–13.1% |10.7–13.4% |
-| Ciudadanos–Partido de la Ciudadanía (RE) | 0.0% | 5.7% | 5.2–6.2% |5.1–6.4% |5.0–6.5% |4.8–6.7% |
-| Coalició Compromís (Greens/EFA) | 0.0% | 4.1% | 3.7–4.5% |3.6–4.7% |3.5–4.8% |3.3–5.0% |
-| Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA) | 0.0% | 3.6% | 3.2–4.0% |3.1–4.1% |3.0–4.2% |2.9–4.5% |
-| Partit Demòcrata Europeu Català (NI) | 0.0% | 1.6% | 1.4–1.9% |1.3–2.0% |1.2–2.1% |1.1–2.2% |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE) | 0.0% | 1.4% | 1.2–1.7% |1.1–1.8% |1.1–1.8% |1.0–2.0% |
-| Euskal Herria Bildu (GUE/NGL) | 0.0% | 1.0% | 0.8–1.2% |0.8–1.3% |0.7–1.4% |0.6–1.5% |
-| Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA) | 0.0% | 0.7% | 0.5–0.9% |0.5–1.0% |0.5–1.0% |0.4–1.1% |
-| Coalición Canaria–Partido Nacionalista Canario (RE) | 0.0% | 0.2% | 0.1–0.4% |0.1–0.4% |0.1–0.4% |0.1–0.5% |
+| Partido Popular (EPP) | 0.0% | 26.2% | 24.4–28.2% |23.9–28.7% |23.4–29.2% |22.6–30.1% |
+| Partido Socialista Obrero Español (S&D) | 0.0% | 24.1% | 22.3–26.0% |21.9–26.6% |21.4–27.0% |20.6–28.0% |
+| Vox (ECR) | 0.0% | 16.6% | 15.0–18.2% |14.6–18.7% |14.3–19.1% |13.6–20.0% |
+| Unidos Podemos (GUE/NGL) | 0.0% | 10.4% | 9.2–11.9% |8.9–12.3% |8.6–12.6% |8.1–13.3% |
+| Ciudadanos–Partido de la Ciudadanía (RE) | 0.0% | 5.2% | 4.4–6.3% |4.1–6.6% |3.9–6.9% |3.6–7.4% |
+| Coalició Compromís (Greens/EFA) | 0.0% | 4.6% | 3.8–5.6% |3.6–5.9% |3.4–6.1% |3.0–6.7% |
+| Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA) | 0.0% | 3.1% | 2.5–4.0% |2.3–4.2% |2.2–4.5% |1.9–4.9% |
+| Partit Demòcrata Europeu Català (NI) | 0.0% | 2.3% | 1.8–3.1% |1.6–3.4% |1.5–3.6% |1.3–4.0% |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE) | 0.0% | 1.6% | 1.1–2.2% |1.0–2.4% |0.9–2.6% |0.8–3.0% |
+| Euskal Herria Bildu (GUE/NGL) | 0.0% | 1.0% | 0.7–1.6% |0.6–1.7% |0.5–1.9% |0.4–2.2% |
+| Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA) | 0.0% | 0.6% | 0.3–1.0% |0.3–1.2% |0.2–1.3% |0.2–1.6% |
+| Coalición Canaria–Partido Nacionalista Canario (RE) | 0.0% | 0.4% | 0.3–0.9% |0.2–1.0% |0.2–1.1% |0.1–1.4% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
 ## Seats
 
-![Graph with seats not yet produced](2021-06-15-CIS-seats.png "Seats")
+![Graph with seats not yet produced](2021-06-27-SocioMétrica-seats.png "Seats")
 
-![Graph with seating plan not yet produced](2021-06-15-CIS-seating-plan.png "Seating Plan")
+![Graph with seating plan not yet produced](2021-06-27-SocioMétrica-seating-plan.png "Seating Plan")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 17 | 17–18 |17–18 |16–18 |16–19 |
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 15 | 15–16 |15–16 |14–16 |14–17 |
-| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 8 | 8–9 |8–9 |8–9 |7–9 |
-| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 7 | 7–8 |7–8 |7–8 |7–8 |
-| <a href="#ciudadanos–partido-de-la-ciudadanía-(re)">Ciudadanos–Partido de la Ciudadanía (RE)</a> | 0 | 3 | 3 |3–4 |3–4 |3–4 |
-| <a href="#coalició-compromís-(greens/efa)">Coalició Compromís (Greens/EFA)</a> | 0 | 2 | 2 |2 |2–3 |2–3 |
-| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 2 | 2 |2 |2 |1–2 |
-| <a href="#partit-demòcrata-europeu-català-(ni)">Partit Demòcrata Europeu Català (NI)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco-(re)">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 16 | 16 |16 |16 |15–18 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 15 | 15 |15 |15 |14–16 |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 10 | 10 |10 |10 |9–12 |
+| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 6 | 6 |6 |6 |6–8 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía-(re)">Ciudadanos–Partido de la Ciudadanía (RE)</a> | 0 | 3 | 3 |3–4 |3–4 |2–4 |
+| <a href="#coalició-compromís-(greens/efa)">Coalició Compromís (Greens/EFA)</a> | 0 | 3 | 3 |3 |3 |2–4 |
+| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 2 | 2 |1–2 |1–2 |1–2 |
+| <a href="#partit-demòcrata-europeu-català-(ni)">Partit Demòcrata Europeu Català (NI)</a> | 0 | 1 | 1 |1 |1 |1 |
+| <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco-(re)">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)</a> | 0 | 1 | 1 |1 |1 |0–1 |
 | <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#bloque-nacionalista-galego–nós-candidatura-galega-(greens/efa)">Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#coalición-canaria–partido-nacionalista-canario-(re)">Coalición Canaria–Partido Nacionalista Canario (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 
-### Partido Socialista Obrero Español (S&D)
+### Partido Popular (EPP)
 
-*For a full overview of the results for this party, see the [Partido Socialista Obrero Español (S&D)](party-partidosocialistaobreroespañolsd.html) page.*
+*For a full overview of the results for this party, see the [Partido Popular (EPP)](party-partidopopularepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-06-15-CIS-seats-pmf-partidosocialistaobreroespañolsd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-27-SocioMétrica-seats-pmf-partidopopularepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -71,18 +71,18 @@
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 4% | 100% |  |
-| 17 | 49% | 96% | Median |
-| 18 | 46% | 48% |  |
-| 19 | 1.4% | 1.4% |  |
+| 15 | 2% | 100% |  |
+| 16 | 97% | 98% | Median |
+| 17 | 0.4% | 2% |  |
+| 18 | 0.9% | 1.1% |  |
+| 19 | 0.2% | 0.2% |  |
 | 20 | 0% | 0% |  |
 
-### Partido Popular (EPP)
+### Partido Socialista Obrero Español (S&D)
 
-*For a full overview of the results for this party, see the [Partido Popular (EPP)](party-partidopopularepp.html) page.*
+*For a full overview of the results for this party, see the [Partido Socialista Obrero Español (S&D)](party-partidosocialistaobreroespañolsd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-06-15-CIS-seats-pmf-partidopopularepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-27-SocioMétrica-seats-pmf-partidosocialistaobreroespañolsd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -99,18 +99,18 @@
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 5% | 100% |  |
-| 15 | 70% | 95% | Median |
-| 16 | 25% | 25% |  |
-| 17 | 0.6% | 0.6% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 0.9% | 99.9% |  |
+| 15 | 98% | 99.0% | Median |
+| 16 | 0.9% | 1.2% |  |
+| 17 | 0.3% | 0.3% |  |
 | 18 | 0% | 0% |  |
 
 ### Vox (ECR)
 
 *For a full overview of the results for this party, see the [Vox (ECR)](party-voxecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-06-15-CIS-seats-pmf-voxecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-27-SocioMétrica-seats-pmf-voxecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -121,16 +121,20 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 2% | 100% |  |
-| 8 | 79% | 98% | Median |
-| 9 | 19% | 19% |  |
-| 10 | 0% | 0% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0.3% | 100% |  |
+| 9 | 1.1% | 99.7% |  |
+| 10 | 97% | 98.7% | Median |
+| 11 | 1.1% | 2% |  |
+| 12 | 0.3% | 0.7% |  |
+| 13 | 0.4% | 0.4% |  |
+| 14 | 0% | 0% |  |
 
 ### Unidos Podemos (GUE/NGL)
 
 *For a full overview of the results for this party, see the [Unidos Podemos (GUE/NGL)](party-unidospodemosguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-06-15-CIS-seats-pmf-unidospodemosguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-27-SocioMétrica-seats-pmf-unidospodemosguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -138,97 +142,99 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0.4% | 100% |  |
-| 7 | 76% | 99.6% | Median |
-| 8 | 23% | 23% |  |
-| 9 | 0% | 0% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 0.3% | 99.9% |  |
+| 6 | 97% | 99.6% | Median |
+| 7 | 1.4% | 2% |  |
+| 8 | 0.8% | 0.8% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (RE)
 
 *For a full overview of the results for this party, see the [Ciudadanos–Partido de la Ciudadanía (RE)](party-ciudadanos–partidodelaciudadaníare.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-06-15-CIS-seats-pmf-ciudadanos–partidodelaciudadaníare.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-27-SocioMétrica-seats-pmf-ciudadanos–partidodelaciudadaníare.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.1% | 100% |  |
-| 3 | 94% | 99.9% | Median |
-| 4 | 6% | 6% |  |
+| 2 | 1.3% | 100% |  |
+| 3 | 92% | 98.6% | Median |
+| 4 | 7% | 7% |  |
 | 5 | 0% | 0% |  |
 
 ### Coalició Compromís (Greens/EFA)
 
 *For a full overview of the results for this party, see the [Coalició Compromís (Greens/EFA)](party-coaliciócompromísgreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-06-15-CIS-seats-pmf-coaliciócompromísgreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-27-SocioMétrica-seats-pmf-coaliciócompromísgreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 96% | 100% | Median |
-| 3 | 4% | 4% |  |
-| 4 | 0% | 0% |  |
+| 1 | 0.1% | 100% |  |
+| 2 | 2% | 99.9% |  |
+| 3 | 98% | 98% | Median |
+| 4 | 0.7% | 0.7% |  |
+| 5 | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)
 
 *For a full overview of the results for this party, see the [Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)](party-esquerrarepublicanadecatalunya–catalunyasígreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-06-15-CIS-seats-pmf-esquerrarepublicanadecatalunya–catalunyasígreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-27-SocioMétrica-seats-pmf-esquerrarepublicanadecatalunya–catalunyasígreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 2% | 100% |  |
-| 2 | 97% | 98% | Median |
-| 3 | 0.2% | 0.2% |  |
-| 4 | 0% | 0% |  |
+| 1 | 8% | 100% |  |
+| 2 | 92% | 92% | Median |
+| 3 | 0% | 0% |  |
 
 ### Partit Demòcrata Europeu Català (NI)
 
 *For a full overview of the results for this party, see the [Partit Demòcrata Europeu Català (NI)](party-partitdemòcrataeuropeucatalàni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-06-15-CIS-seats-pmf-partitdemòcrataeuropeucatalàni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-27-SocioMétrica-seats-pmf-partitdemòcrataeuropeucatalàni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 23% | 100% | Last Result |
-| 1 | 77% | 77% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 99.9% | 100% | Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 ### Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)
 
 *For a full overview of the results for this party, see the [Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)](party-euzkoalderdijeltzaleapartidonacionalistavascore.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-06-15-CIS-seats-pmf-euzkoalderdijeltzaleapartidonacionalistavascore.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-27-SocioMétrica-seats-pmf-euzkoalderdijeltzaleapartidonacionalistavascore.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Last Result, Median |
-| 1 | 9% | 9% |  |
+| 0 | 2% | 100% | Last Result |
+| 1 | 98% | 98% | Median |
 | 2 | 0% | 0% |  |
 
 ### Euskal Herria Bildu (GUE/NGL)
 
 *For a full overview of the results for this party, see the [Euskal Herria Bildu (GUE/NGL)](party-euskalherriabilduguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-06-15-CIS-seats-pmf-euskalherriabilduguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-27-SocioMétrica-seats-pmf-euskalherriabilduguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0.3% | 0.3% |  |
 | 2 | 0% | 0% |  |
 
 ### Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA)
 
 *For a full overview of the results for this party, see the [Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA)](party-bloquenacionalistagalego–nóscandidaturagalegagreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-06-15-CIS-seats-pmf-bloquenacionalistagalego–nóscandidaturagalegagreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-27-SocioMétrica-seats-pmf-bloquenacionalistagalego–nóscandidaturagalegagreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -238,7 +244,7 @@
 
 *For a full overview of the results for this party, see the [Coalición Canaria–Partido Nacionalista Canario (RE)](party-coalicióncanaria–partidonacionalistacanariore.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-06-15-CIS-seats-pmf-coalicióncanaria–partidonacionalistacanariore.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-27-SocioMétrica-seats-pmf-coalicióncanaria–partidonacionalistacanariore.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -247,20 +253,20 @@
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](2021-06-15-CIS-coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](2021-06-27-SocioMétrica-coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español (S&D) | 0 | 17 | 0% | 17–18 | 17–18 | 16–18 | 16–19 |
-| Partido Popular (EPP) | 0 | 15 | 0% | 15–16 | 15–16 | 14–16 | 14–17 |
-| Vox (ECR) | 0 | 8 | 0% | 8–9 | 8–9 | 8–9 | 7–9 |
-| Partit Demòcrata Europeu Català (NI) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partido Popular (EPP) | 0 | 16 | 0% | 16 | 16 | 16 | 15–18 |
+| Partido Socialista Obrero Español (S&D) | 0 | 15 | 0% | 15 | 15 | 15 | 14–16 |
+| Vox (ECR) | 0 | 10 | 0% | 10 | 10 | 10 | 9–12 |
+| Partit Demòcrata Europeu Català (NI) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
 
-### Partido Socialista Obrero Español (S&D)
+### Partido Popular (EPP)
 
-![Graph with seats probability mass function not yet produced](2021-06-15-CIS-coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-27-SocioMétrica-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -279,16 +285,16 @@
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 4% | 100% |  |
-| 17 | 49% | 96% | Median |
-| 18 | 46% | 48% |  |
-| 19 | 1.4% | 1.4% |  |
+| 15 | 2% | 100% |  |
+| 16 | 97% | 98% | Median |
+| 17 | 0.4% | 2% |  |
+| 18 | 0.9% | 1.1% |  |
+| 19 | 0.2% | 0.2% |  |
 | 20 | 0% | 0% |  |
 
-### Partido Popular (EPP)
+### Partido Socialista Obrero Español (S&D)
 
-![Graph with seats probability mass function not yet produced](2021-06-15-CIS-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-27-SocioMétrica-coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -305,16 +311,16 @@
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 5% | 100% |  |
-| 15 | 70% | 95% | Median |
-| 16 | 25% | 25% |  |
-| 17 | 0.6% | 0.6% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 0.9% | 99.9% |  |
+| 15 | 98% | 99.0% | Median |
+| 16 | 0.9% | 1.2% |  |
+| 17 | 0.3% | 0.3% |  |
 | 18 | 0% | 0% |  |
 
 ### Vox (ECR)
 
-![Graph with seats probability mass function not yet produced](2021-06-15-CIS-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-27-SocioMétrica-coalitions-seats-pmf-vox.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -325,33 +331,38 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 2% | 100% |  |
-| 8 | 79% | 98% | Median |
-| 9 | 19% | 19% |  |
-| 10 | 0% | 0% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0.3% | 100% |  |
+| 9 | 1.1% | 99.7% |  |
+| 10 | 97% | 98.7% | Median |
+| 11 | 1.1% | 2% |  |
+| 12 | 0.3% | 0.7% |  |
+| 13 | 0.4% | 0.4% |  |
+| 14 | 0% | 0% |  |
 
 ### Partit Demòcrata Europeu Català (NI)
 
-![Graph with seats probability mass function not yet produced](2021-06-15-CIS-coalitions-seats-pmf-pdecat.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-27-SocioMétrica-coalitions-seats-pmf-pdecat.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 23% | 100% | Last Result |
-| 1 | 77% | 77% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 99.9% | 100% | Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 
 ## Technical Information
 
 ### Opinion Poll
 
-+ **Polling firm:** CIS
-+ **Commissioner(s):** —
-+ **Fieldwork period:** 2–15 June 2021
++ **Polling firm:** SocioMétrica
++ **Commissioner(s):** El Español
++ **Fieldwork period:** 27 June 2021
 
 ### Calculations
 
-+ **Sample size:** 3814
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.91%
++ **Sample size:** 900
++ **Simulations done:** 131,072
++ **Error estimate:** 2.67%
 
