@@ -427,7 +427,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21 June 2021](2021-06-21-KeyData.html) | Key Data <br> Público | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | [17–21 June 2021](2021-06-21-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [12–18 June 2021](2021-06-18-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [14–18 June 2021](2021-06-18-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 2 | 2 | 1–2 | 1–2 |
+| [14–18 June 2021](2021-06-18-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [2–15 June 2021](2021-06-15-CIS.html) | CIS | 2 | 2 | 2 | 2 | 1–2 |
 | [5–11 June 2021](2021-06-11-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–10 June 2021](2021-06-10-GAD3.html) | GAD3 <br> NIUS | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -812,8 +812,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 22% | 100% |  |
-| 2 | 76% | 78% | Median |
+| 1 | 25% | 100% |  |
+| 2 | 73% | 75% | Median |
 | 3 | 2% | 2% |  |
 | 4 | 0.3% | 0.4% |  |
 | 5 | 0% | 0% |  |
