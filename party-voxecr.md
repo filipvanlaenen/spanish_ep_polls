@@ -434,12 +434,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 7–11 | 7–12 | 6–12 |
-| [27 June 2021](2021-06-27-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10 | 10 | 10 | 9–12 |
-| [24–26 June 2021](2021-06-26-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
-| [23–26 June 2021](2021-06-26-NCReport.html) | NC Report <br> La Razón | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–11 | 7–12 | 6–12 |
+| [27 June 2021](2021-06-27-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–11 | 9–12 | 9–12 | 8–12 |
+| [24–26 June 2021](2021-06-26-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
+| [23–26 June 2021](2021-06-26-NCReport.html) | NC Report <br> La Razón | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [21 June 2021](2021-06-21-SigmaDos.html) | Sigma Dos <br> Antena 3 | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
-| [21 June 2021](2021-06-21-KeyData.html) | Key Data <br> Público | 10 | 9–12 | 8–12 | 8–12 | 7–13 |
+| [21 June 2021](2021-06-21-KeyData.html) | Key Data <br> Público | 10 | 8–11 | 8–12 | 8–12 | 7–13 |
 | [17–21 June 2021](2021-06-21-DYM.html) | DYM <br> Henneo | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
 | [12–18 June 2021](2021-06-18-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [14–18 June 2021](2021-06-18-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 10 | 9–10 | 8–11 | 8–11 | 8–12 |
@@ -834,10 +834,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
 | 7 | 3% | 98% |  |
-| 8 | 16% | 95% |  |
-| 9 | 30% | 79% | Median |
-| 10 | 36% | 49% |  |
-| 11 | 9% | 12% |  |
+| 8 | 17% | 95% |  |
+| 9 | 28% | 79% |  |
+| 10 | 37% | 50% | Median |
+| 11 | 10% | 13% |  |
 | 12 | 3% | 3% |  |
 | 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |

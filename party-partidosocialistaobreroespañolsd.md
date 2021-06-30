@@ -445,14 +445,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 14–17 | 13–18 | 13–18 | 12–18 |
-| [27 June 2021](2021-06-27-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 15 | 15 | 15 | 14–16 |
-| [24–26 June 2021](2021-06-26-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–18 | 14–18 | 14–18 | 14–18 |
-| [23–26 June 2021](2021-06-26-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
+| [27 June 2021](2021-06-27-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–16 | 14–16 | 14–18 | 13–18 |
+| [24–26 June 2021](2021-06-26-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
+| [23–26 June 2021](2021-06-26-NCReport.html) | NC Report <br> La Razón | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [21 June 2021](2021-06-21-SigmaDos.html) | Sigma Dos <br> Antena 3 | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
-| [21 June 2021](2021-06-21-KeyData.html) | Key Data <br> Público | 15 | 13–16 | 13–17 | 13–18 | 12–19 |
+| [21 June 2021](2021-06-21-KeyData.html) | Key Data <br> Público | 16 | 14–17 | 13–18 | 13–18 | 12–19 |
 | [17–21 June 2021](2021-06-21-DYM.html) | DYM <br> Henneo | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [12–18 June 2021](2021-06-18-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 15–18 | 14–19 |
-| [14–18 June 2021](2021-06-18-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 16 | 14–16 | 14–17 | 14–18 | 14–18 |
+| [14–18 June 2021](2021-06-18-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [2–15 June 2021](2021-06-15-CIS.html) | CIS | 17 | 17–18 | 17–18 | 16–18 | 16–19 |
 | [5–11 June 2021](2021-06-11-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [7–10 June 2021](2021-06-10-GAD3.html) | GAD3 <br> NIUS | 15 | 15–17 | 14–17 | 14–18 | 13–18 |
@@ -848,14 +848,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0.1% | 100% |  |
-| 12 | 0.9% | 99.9% |  |
-| 13 | 4% | 99.0% |  |
-| 14 | 11% | 95% |  |
-| 15 | 40% | 83% | Median |
-| 16 | 22% | 43% |  |
-| 17 | 14% | 21% |  |
-| 18 | 7% | 7% |  |
-| 19 | 0.3% | 0.3% |  |
+| 12 | 1.0% | 99.9% |  |
+| 13 | 4% | 98.9% |  |
+| 14 | 13% | 95% |  |
+| 15 | 35% | 82% | Median |
+| 16 | 24% | 47% |  |
+| 17 | 16% | 23% |  |
+| 18 | 6% | 7% |  |
+| 19 | 0.2% | 0.3% |  |
 | 20 | 0% | 0% |  |
 
 

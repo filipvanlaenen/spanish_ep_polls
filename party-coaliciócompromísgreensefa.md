@@ -422,14 +422,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 1–3 | 1–4 | 1–4 | 1–4 |
-| [27 June 2021](2021-06-27-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 3 | 3 | 3 | 2–4 |
-| [24–26 June 2021](2021-06-26-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| [23–26 June 2021](2021-06-26-NCReport.html) | NC Report <br> La Razón | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [27 June 2021](2021-06-27-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [24–26 June 2021](2021-06-26-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [23–26 June 2021](2021-06-26-NCReport.html) | NC Report <br> La Razón | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [21 June 2021](2021-06-21-SigmaDos.html) | Sigma Dos <br> Antena 3 | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
-| [21 June 2021](2021-06-21-KeyData.html) | Key Data <br> Público | 3 | 1–3 | 1–3 | 1–4 | 1–5 |
+| [21 June 2021](2021-06-21-KeyData.html) | Key Data <br> Público | 3 | 2–3 | 1–3 | 1–4 | 1–5 |
 | [17–21 June 2021](2021-06-21-DYM.html) | DYM <br> Henneo | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [12–18 June 2021](2021-06-18-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2–3 | 2–3 | 1–3 |
-| [14–18 June 2021](2021-06-18-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [14–18 June 2021](2021-06-18-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | [2–15 June 2021](2021-06-15-CIS.html) | CIS | 2 | 2 | 2 | 2–3 | 2–3 |
 | [5–11 June 2021](2021-06-11-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [7–10 June 2021](2021-06-10-GAD3.html) | GAD3 <br> NIUS | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
@@ -815,10 +815,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% | Last Result |
 | 1 | 10% | 99.7% |  |
-| 2 | 36% | 90% |  |
-| 3 | 46% | 54% | Median |
+| 2 | 37% | 90% |  |
+| 3 | 44% | 53% | Median |
 | 4 | 8% | 8% |  |
-| 5 | 0.3% | 0.3% |  |
+| 5 | 0.5% | 0.5% |  |
 | 6 | 0% | 0% |  |
 
 
