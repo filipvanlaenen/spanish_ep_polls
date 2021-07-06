@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 8.3–12.0% | 7.9–12.4% | 7.5–12.7% | 6.9–13.5% |
+| N/A | [Poll Average](average.html) | 9.8% | 8.3–11.8% | 7.9–12.3% | 7.5–12.6% | 6.9–13.3% |
+| [24 June–2 July 2021](2021-07-02-electoPanel.html) | electoPanel <br> electomania.es | 10.1% | 9.3–10.9% | 9.1–11.1% | 9.0–11.3% | 8.6–11.7% |
+| [28 June–2 July 2021](2021-07-02-Invymark.html) | Invymark <br> laSexta | 8.9% | 7.8–10.2% | 7.5–10.5% | 7.3–10.8% | 6.8–11.5% |
+| [28 June–1 July 2021](2021-07-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 10.5% | N/A | N/A | N/A | N/A |
+| [29 June–1 July 2021](2021-07-01-Data10.html) | Data10 <br> OKDiario | 9.1% | N/A | N/A | N/A | N/A |
 | [27 June 2021](2021-06-27-SocioMétrica.html) | SocioMétrica <br> El Español | 10.4% | 9.2–11.9% | 8.9–12.3% | 8.6–12.6% | 8.1–13.3% |
 | [24–26 June 2021](2021-06-26-electoPanel.html) | electoPanel <br> electomania.es | 10.0% | 9.1–11.0% | 8.9–11.3% | 8.6–11.6% | 8.2–12.1% |
 | [23–26 June 2021](2021-06-26-NCReport.html) | NC Report <br> La Razón | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
@@ -409,13 +413,13 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0.2% | 100% |  |
 | 6.5–7.5% | 2% | 99.8% |  |
 | 7.5–8.5% | 12% | 97% |  |
-| 8.5–9.5% | 25% | 85% |  |
-| 9.5–10.5% | 26% | 60% | Median |
-| 10.5–11.5% | 18% | 34% |  |
-| 11.5–12.5% | 12% | 16% |  |
-| 12.5–13.5% | 3% | 4% |  |
-| 13.5–14.5% | 0.4% | 0.5% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 27% | 85% |  |
+| 9.5–10.5% | 29% | 58% | Median |
+| 10.5–11.5% | 16% | 29% |  |
+| 11.5–12.5% | 10% | 13% |  |
+| 12.5–13.5% | 2% | 3% |  |
+| 13.5–14.5% | 0.2% | 0.3% |  |
+| 14.5–15.5% | 0% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -427,7 +431,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
+| [24 June–2 July 2021](2021-07-02-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6 | 6 | 5–7 |
+| [28 June–2 July 2021](2021-07-02-Invymark.html) | Invymark <br> laSexta | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [28 June–1 July 2021](2021-07-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [29 June–1 July 2021](2021-07-01-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [27 June 2021](2021-06-27-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6 | 6–7 | 5–7 | 5–8 |
 | [24–26 June 2021](2021-06-26-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [23–26 June 2021](2021-06-26-NCReport.html) | NC Report <br> La Razón | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -823,11 +831,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
-| 4 | 5% | 99.9% |  |
-| 5 | 31% | 95% |  |
-| 6 | 43% | 64% | Median |
-| 7 | 17% | 21% |  |
-| 8 | 4% | 4% |  |
+| 4 | 6% | 99.9% |  |
+| 5 | 32% | 94% |  |
+| 6 | 46% | 62% | Median |
+| 7 | 13% | 16% |  |
+| 8 | 3% | 3% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 

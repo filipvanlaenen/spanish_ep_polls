@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.6% | 12.9–17.6% | 12.3–18.2% | 11.7–18.8% | 10.6–20.0% |
+| N/A | [Poll Average](average.html) | 15.8% | 12.8–18.2% | 12.2–18.9% | 11.6–19.5% | 10.5–20.6% |
+| [24 June–2 July 2021](2021-07-02-electoPanel.html) | electoPanel <br> electomania.es | 16.3% | 15.4–17.3% | 15.1–17.6% | 14.9–17.8% | 14.5–18.3% |
+| [28 June–2 July 2021](2021-07-02-Invymark.html) | Invymark <br> laSexta | 18.1% | 16.6–19.7% | 16.2–20.2% | 15.8–20.6% | 15.2–21.4% |
+| [28 June–1 July 2021](2021-07-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 14.4% | N/A | N/A | N/A | N/A |
+| [29 June–1 July 2021](2021-07-01-Data10.html) | Data10 <br> OKDiario | 15.5% | N/A | N/A | N/A | N/A |
 | [27 June 2021](2021-06-27-SocioMétrica.html) | SocioMétrica <br> El Español | 16.6% | 15.0–18.2% | 14.6–18.7% | 14.3–19.1% | 13.6–20.0% |
 | [24–26 June 2021](2021-06-26-electoPanel.html) | electoPanel <br> electomania.es | 16.2% | 15.1–17.5% | 14.8–17.8% | 14.5–18.1% | 14.0–18.7% |
 | [23–26 June 2021](2021-06-26-NCReport.html) | NC Report <br> La Razón | 15.1% | 13.7–16.6% | 13.3–17.1% | 13.0–17.5% | 12.4–18.2% |
@@ -410,19 +414,19 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 0.4% | 99.9% |  |
+| 9.5–10.5% | 0.5% | 99.9% |  |
 | 10.5–11.5% | 2% | 99.5% |  |
 | 11.5–12.5% | 5% | 98% |  |
 | 12.5–13.5% | 11% | 93% |  |
-| 13.5–14.5% | 12% | 83% |  |
-| 14.5–15.5% | 20% | 71% |  |
-| 15.5–16.5% | 24% | 51% | Median |
-| 16.5–17.5% | 17% | 27% |  |
-| 17.5–18.5% | 7% | 11% |  |
-| 18.5–19.5% | 2% | 3% |  |
-| 19.5–20.5% | 0.7% | 0.9% |  |
-| 20.5–21.5% | 0.2% | 0.2% |  |
-| 21.5–22.5% | 0% | 0.1% |  |
+| 13.5–14.5% | 10% | 81% |  |
+| 14.5–15.5% | 15% | 72% |  |
+| 15.5–16.5% | 22% | 56% | Median |
+| 16.5–17.5% | 17% | 34% |  |
+| 17.5–18.5% | 10% | 17% |  |
+| 18.5–19.5% | 5% | 7% |  |
+| 19.5–20.5% | 2% | 2% |  |
+| 20.5–21.5% | 0.4% | 0.5% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -435,6 +439,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 8–11 | 8–11 | 7–12 | 6–12 |
+| [24 June–2 July 2021](2021-07-02-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10 | 10 | 10–11 | 10–11 |
+| [28 June–2 July 2021](2021-07-02-Invymark.html) | Invymark <br> laSexta | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
+| [28 June–1 July 2021](2021-07-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [29 June–1 July 2021](2021-07-01-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [27 June 2021](2021-06-27-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–11 | 9–12 | 9–12 | 8–12 |
 | [24–26 June 2021](2021-06-26-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | [23–26 June 2021](2021-06-26-NCReport.html) | NC Report <br> La Razón | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
@@ -835,11 +843,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 2% | 100% |  |
 | 7 | 3% | 98% |  |
 | 8 | 17% | 95% |  |
-| 9 | 28% | 79% |  |
-| 10 | 37% | 50% | Median |
-| 11 | 10% | 13% |  |
-| 12 | 3% | 3% |  |
-| 13 | 0.2% | 0.2% |  |
+| 9 | 19% | 78% |  |
+| 10 | 43% | 59% | Median |
+| 11 | 12% | 16% |  |
+| 12 | 4% | 4% |  |
+| 13 | 0.4% | 0.4% |  |
 | 14 | 0% | 0% |  |
 
 
