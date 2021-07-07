@@ -426,7 +426,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [24 June–2 July 2021](2021-07-02-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 June–2 July 2021](2021-07-02-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [28 June–1 July 2021](2021-07-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [28 June–1 July 2021](2021-07-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 June–1 July 2021](2021-07-01-Data10.html) | Data10 <br> OKDiario | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [27 June 2021](2021-06-27-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [24–26 June 2021](2021-06-26-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
