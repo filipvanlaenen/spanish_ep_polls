@@ -453,10 +453,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 15–20 | 15–20 | 15–20 | 14–21 |
-| [24 June–2 July 2021](2021-07-02-electoPanel.html) | electoPanel <br> electomania.es | 18 | 18 | 18 | 17–18 | 17–19 |
+| [24 June–2 July 2021](2021-07-02-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
 | [28 June–2 July 2021](2021-07-02-Invymark.html) | Invymark <br> laSexta | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
 | [28 June–1 July 2021](2021-07-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 17–20 | 17–20 | 16–20 | 15–21 |
-| [29 June–1 July 2021](2021-07-01-Data10.html) | Data10 <br> OKDiario | 19 | 18–20 | 17–20 | 17–21 | 17–22 |
+| [29 June–1 July 2021](2021-07-01-Data10.html) | Data10 <br> OKDiario | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
 | [27 June 2021](2021-06-27-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [24–26 June 2021](2021-06-26-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
 | [23–26 June 2021](2021-06-26-NCReport.html) | NC Report <br> La Razón | 19 | 18–20 | 18–21 | 17–21 | 17–21 |
@@ -865,12 +865,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 1.2% | 99.9% |  |
 | 15 | 10% | 98.8% |  |
 | 16 | 14% | 89% |  |
-| 17 | 16% | 75% |  |
-| 18 | 30% | 59% | Median |
-| 19 | 15% | 29% |  |
-| 20 | 11% | 14% |  |
+| 17 | 17% | 75% |  |
+| 18 | 27% | 57% | Median |
+| 19 | 19% | 30% |  |
+| 20 | 9% | 12% |  |
 | 21 | 2% | 2% |  |
-| 22 | 0.3% | 0.3% |  |
+| 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |
 
 
