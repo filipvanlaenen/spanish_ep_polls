@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.6% | 24.8–31.4% | 23.9–32.1% | 23.4–32.7% | 22.7–34.0% |
+| N/A | [Poll Average](average.html) | 28.7% | 24.7–31.5% | 23.9–32.2% | 23.4–32.8% | 22.7–34.1% |
+| [8–10 July 2021](2021-07-10-electoPanel.html) | electoPanel <br> electomania.es | 27.9% | 26.6–29.2% | 26.2–29.6% | 25.9–30.0% | 25.3–30.6% |
 | [24 June–2 July 2021](2021-07-02-electoPanel.html) | electoPanel <br> electomania.es | 28.3% | 27.2–29.5% | 26.9–29.8% | 26.6–30.1% | 26.1–30.7% |
 | [28 June–2 July 2021](2021-07-02-Invymark.html) | Invymark <br> laSexta | 28.3% | 26.5–30.2% | 26.0–30.7% | 25.6–31.2% | 24.8–32.1% |
 | [28 June–1 July 2021](2021-07-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 29.4% | 27.6–31.3% | 27.1–31.8% | 26.7–32.3% | 25.8–33.2% |
@@ -430,16 +431,16 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 3% | 99.7% |  |
 | 23.5–24.5% | 6% | 97% |  |
 | 24.5–25.5% | 5% | 91% |  |
-| 25.5–26.5% | 7% | 86% |  |
-| 26.5–27.5% | 11% | 79% |  |
+| 25.5–26.5% | 6% | 86% |  |
+| 26.5–27.5% | 11% | 80% |  |
 | 27.5–28.5% | 16% | 68% |  |
-| 28.5–29.5% | 18% | 51% | Median |
-| 29.5–30.5% | 15% | 33% |  |
-| 30.5–31.5% | 10% | 19% |  |
-| 31.5–32.5% | 5% | 8% |  |
+| 28.5–29.5% | 17% | 53% | Median |
+| 29.5–30.5% | 15% | 35% |  |
+| 30.5–31.5% | 11% | 20% |  |
+| 31.5–32.5% | 6% | 9% |  |
 | 32.5–33.5% | 2% | 3% |  |
-| 33.5–34.5% | 0.7% | 0.9% |  |
-| 34.5–35.5% | 0.2% | 0.2% |  |
+| 33.5–34.5% | 0.7% | 1.0% |  |
+| 34.5–35.5% | 0.2% | 0.3% |  |
 | 35.5–36.5% | 0% | 0.1% |  |
 | 36.5–37.5% | 0% | 0% |  |
 
@@ -452,7 +453,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–20 | 15–20 | 15–20 | 14–21 |
+| N/A | [Poll Average](average.html) | 18 | 15–20 | 15–20 | 15–21 | 14–21 |
+| [8–10 July 2021](2021-07-10-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–19 | 16–19 | 16–19 | 16–19 |
 | [24 June–2 July 2021](2021-07-02-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
 | [28 June–2 July 2021](2021-07-02-Invymark.html) | Invymark <br> laSexta | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [28 June–1 July 2021](2021-07-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 17–20 | 17–20 | 16–20 | 15–21 |
@@ -861,15 +863,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.1% | 100% |  |
-| 14 | 1.2% | 99.9% |  |
-| 15 | 10% | 98.8% |  |
-| 16 | 15% | 88% |  |
-| 17 | 17% | 74% |  |
-| 18 | 26% | 56% | Median |
-| 19 | 19% | 30% |  |
-| 20 | 9% | 12% |  |
-| 21 | 2% | 2% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0.9% | 100% |  |
+| 15 | 10% | 99.0% |  |
+| 16 | 13% | 89% |  |
+| 17 | 19% | 76% |  |
+| 18 | 26% | 57% | Median |
+| 19 | 19% | 31% |  |
+| 20 | 10% | 13% |  |
+| 21 | 2% | 3% |  |
 | 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |
 
