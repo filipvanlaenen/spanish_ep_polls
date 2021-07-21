@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.1% | 25.5–30.8% | 24.8–31.6% | 24.2–32.2% | 23.0–33.5% |
+| N/A | [Poll Average](average.html) | 28.1% | 25.6–30.8% | 24.8–31.6% | 24.2–32.2% | 23.0–33.5% |
 | [19 July 2021](2021-07-19-SigmaDos.html) | Sigma Dos <br> Antena 3 | 28.8% | 27.0–30.7% | 26.5–31.2% | 26.1–31.7% | 25.2–32.6% |
+| [15–19 July 2021](2021-07-19-DYM.html) | DYM <br> Henneo | 28.0% | 26.2–29.8% | 25.7–30.4% | 25.3–30.8% | 24.5–31.7% |
 | [16–17 July 2021](2021-07-17-Data10.html) | Data10 <br> OKDiario | 30.3% | 28.5–32.2% | 28.0–32.8% | 27.5–33.2% | 26.7–34.2% |
 | [11–16 July 2021](2021-07-16-electoPanel.html) | electoPanel <br> electomania.es | 27.7% | 26.4–29.0% | 26.1–29.4% | 25.8–29.7% | 25.2–30.3% |
 | [16 July 2021](2021-07-16-NCReport.html) | NC Report <br> La Razón | 29.8% | 28.0–31.7% | 27.5–32.3% | 27.0–32.7% | 26.2–33.6% |
@@ -460,6 +461,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
 | [19 July 2021](2021-07-19-SigmaDos.html) | Sigma Dos <br> Antena 3 | 18 | 17–19 | 16–19 | 16–20 | 15–20 |
+| [15–19 July 2021](2021-07-19-DYM.html) | DYM <br> Henneo | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
 | [16–17 July 2021](2021-07-17-Data10.html) | Data10 <br> OKDiario | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
 | [11–16 July 2021](2021-07-16-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 17–18 | 16–19 | 16–19 |
 | [16 July 2021](2021-07-16-NCReport.html) | NC Report <br> La Razón | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
@@ -877,9 +879,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.1% | 100% |  |
 | 14 | 2% | 99.9% |  |
 | 15 | 7% | 98% |  |
-| 16 | 19% | 91% |  |
-| 17 | 26% | 72% | Median |
-| 18 | 26% | 47% |  |
+| 16 | 18% | 91% |  |
+| 17 | 26% | 73% | Median |
+| 18 | 27% | 47% |  |
 | 19 | 16% | 20% |  |
 | 20 | 3% | 4% |  |
 | 21 | 0.8% | 0.9% |  |

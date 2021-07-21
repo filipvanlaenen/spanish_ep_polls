@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 2.8–5.4% | 2.3–5.8% | 2.0–6.1% | 1.6–6.8% |
+| N/A | [Poll Average](average.html) | 4.2% | 2.8–5.4% | 2.4–5.8% | 2.1–6.1% | 1.8–6.8% |
 | [19 July 2021](2021-07-19-SigmaDos.html) | Sigma Dos <br> Antena 3 | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
+| [15–19 July 2021](2021-07-19-DYM.html) | DYM <br> Henneo | 2.5% | 1.9–3.2% | 1.8–3.4% | 1.7–3.6% | 1.4–4.0% |
 | [16–17 July 2021](2021-07-17-Data10.html) | Data10 <br> OKDiario | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [11–16 July 2021](2021-07-16-electoPanel.html) | electoPanel <br> electomania.es | 3.8% | 3.3–4.4% | 3.2–4.6% | 3.0–4.7% | 2.8–5.0% |
 | [16 July 2021](2021-07-16-NCReport.html) | NC Report <br> La Razón | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
@@ -412,9 +413,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 8% | 99.7% |  |
-| 2.5–3.5% | 18% | 92% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 6% | 99.9% |  |
+| 2.5–3.5% | 19% | 94% |  |
 | 3.5–4.5% | 39% | 75% | Median |
 | 4.5–5.5% | 27% | 35% |  |
 | 5.5–6.5% | 7% | 8% |  |
@@ -433,6 +434,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [19 July 2021](2021-07-19-SigmaDos.html) | Sigma Dos <br> Antena 3 | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [15–19 July 2021](2021-07-19-DYM.html) | DYM <br> Henneo | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [16–17 July 2021](2021-07-17-Data10.html) | Data10 <br> OKDiario | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [11–16 July 2021](2021-07-16-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [16 July 2021](2021-07-16-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -834,9 +836,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% | Last Result |
-| 1 | 15% | 99.6% |  |
-| 2 | 48% | 84% | Median |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 15% | 99.8% |  |
+| 2 | 49% | 85% | Median |
 | 3 | 34% | 36% |  |
 | 4 | 1.4% | 1.5% |  |
 | 5 | 0.1% | 0.1% |  |
