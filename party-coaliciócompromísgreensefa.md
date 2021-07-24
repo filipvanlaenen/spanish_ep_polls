@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 2.9–5.4% | 2.5–5.7% | 2.2–6.1% | 1.8–6.7% |
+| N/A | [Poll Average](average.html) | 4.0% | 2.9–5.3% | 2.5–5.7% | 2.2–6.0% | 1.8–6.7% |
 | [19 July 2021](2021-07-19-SigmaDos.html) | Sigma Dos <br> Antena 3 | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
 | [15–19 July 2021](2021-07-19-DYM.html) | DYM <br> Henneo | 2.5% | 1.9–3.2% | 1.8–3.4% | 1.7–3.6% | 1.4–4.0% |
 | [16–17 July 2021](2021-07-17-Data10.html) | Data10 <br> OKDiario | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
@@ -19,6 +19,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [12–16 July 2021](2021-07-16-Invymark.html) | Invymark <br> laSexta | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
 | [14–15 July 2021](2021-07-15-GESOP.html) | GESOP <br> El Periódico | 3.7% | 3.0–4.8% | 2.8–5.0% | 2.6–5.3% | 2.3–5.8% |
 | [2–15 July 2021](2021-07-15-CIS.html) | CIS | 3.7% | 3.3–4.1% | 3.2–4.3% | 3.2–4.4% | 3.0–4.6% |
+| [5–12 July 2021](2021-07-12-SimpleLógica.html) | Simple Lógica | 3.4% | 2.7–4.5% | 2.5–4.8% | 2.3–5.1% | 2.0–5.6% |
 | [8–10 July 2021](2021-07-10-electoPanel.html) | electoPanel <br> electomania.es | 3.9% | 3.4–4.5% | 3.2–4.7% | 3.1–4.9% | 2.9–5.2% |
 | [24 June–2 July 2021](2021-07-02-electoPanel.html) | electoPanel <br> electomania.es | 3.3% | 2.9–3.8% | 2.8–4.0% | 2.7–4.1% | 2.5–4.3% |
 | [28 June–2 July 2021](2021-07-02-Invymark.html) | Invymark <br> laSexta | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
@@ -416,11 +417,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.1% | 100% |  |
 | 1.5–2.5% | 6% | 99.9% |  |
-| 2.5–3.5% | 20% | 94% |  |
-| 3.5–4.5% | 43% | 74% | Median |
-| 4.5–5.5% | 25% | 32% |  |
+| 2.5–3.5% | 22% | 94% |  |
+| 3.5–4.5% | 42% | 72% | Median |
+| 4.5–5.5% | 23% | 30% |  |
 | 5.5–6.5% | 6% | 7% |  |
-| 6.5–7.5% | 0.7% | 0.8% |  |
+| 6.5–7.5% | 0.6% | 0.7% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -442,6 +443,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12–16 July 2021](2021-07-16-Invymark.html) | Invymark <br> laSexta | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [14–15 July 2021](2021-07-15-GESOP.html) | GESOP <br> El Periódico | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [2–15 July 2021](2021-07-15-CIS.html) | CIS | 2 | 2 | 2 | 2 | 1–3 |
+| [5–12 July 2021](2021-07-12-SimpleLógica.html) | Simple Lógica | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [8–10 July 2021](2021-07-10-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [24 June–2 July 2021](2021-07-02-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 June–2 July 2021](2021-07-02-Invymark.html) | Invymark <br> laSexta | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -838,11 +840,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 14% | 99.8% |  |
-| 2 | 54% | 86% | Median |
-| 3 | 31% | 32% |  |
-| 4 | 1.3% | 1.3% |  |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 15% | 99.9% |  |
+| 2 | 55% | 85% | Median |
+| 3 | 29% | 30% |  |
+| 4 | 1.1% | 1.2% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 

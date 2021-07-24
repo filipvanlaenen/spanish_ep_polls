@@ -19,6 +19,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [12–16 July 2021](2021-07-16-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 July 2021](2021-07-15-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
 | [2–15 July 2021](2021-07-15-CIS.html) | CIS | 0.8% | 0.6–1.0% | 0.6–1.1% | 0.5–1.1% | 0.5–1.2% |
+| [5–12 July 2021](2021-07-12-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [8–10 July 2021](2021-07-10-electoPanel.html) | electoPanel <br> electomania.es | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% |
 | [24 June–2 July 2021](2021-07-02-electoPanel.html) | electoPanel <br> electomania.es | 0.6% | 0.4–0.8% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% |
 | [28 June–2 July 2021](2021-07-02-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
@@ -436,6 +437,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12–16 July 2021](2021-07-16-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [14–15 July 2021](2021-07-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [2–15 July 2021](2021-07-15-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
+| [5–12 July 2021](2021-07-12-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [8–10 July 2021](2021-07-10-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
 | [24 June–2 July 2021](2021-07-02-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
 | [28 June–2 July 2021](2021-07-02-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
