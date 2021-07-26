@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 2.8–5.3% | 2.4–5.7% | 2.1–6.0% | 1.8–6.5% |
-| [16–23 July 2021](2021-07-23-electoPanel.html) | electoPanel <br> electomania.es | 3.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 3.9% | 2.8–5.2% | 2.4–5.6% | 2.2–5.9% | 1.8–6.5% |
+| [16–23 July 2021](2021-07-23-electoPanel.html) | electoPanel <br> electomania.es | 3.5% | 3.0–4.2% | 2.8–4.4% | 2.7–4.5% | 2.5–4.9% |
+| [16–22 July 2021](2021-07-22-GAD3.html) | GAD3 <br> ABC | 3.2% | 2.6–4.2% | 2.4–4.5% | 2.2–4.7% | 1.9–5.2% |
 | [19 July 2021](2021-07-19-SigmaDos.html) | Sigma Dos <br> Antena 3 | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
 | [15–19 July 2021](2021-07-19-DYM.html) | DYM <br> Henneo | 2.5% | 1.9–3.2% | 1.8–3.4% | 1.7–3.6% | 1.4–4.0% |
 | [16–17 July 2021](2021-07-17-Data10.html) | Data10 <br> OKDiario | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
@@ -349,6 +350,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [14–18 October 2019](2019-10-18-GAD3.html) | GAD3 <br> ABC | 3.9% | 3.5–4.3% | 3.3–4.5% | 3.2–4.6% | 3.1–4.8% |
 | [16–17 October 2019](2019-10-17-electoPanel.html) | electoPanel <br> electomania.es | 4.3% | 3.7–5.2% | 3.5–5.4% | 3.3–5.6% | 3.0–6.0% |
 | [15–17 October 2019](2019-10-17-Ipsos.html) | Ipsos <br> Henneo | 4.6% | 4.0–5.3% | 3.9–5.5% | 3.8–5.6% | 3.5–5.9% |
+| [4–6 October 2019](2019-10-06-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
 | [30 September–4 October 2019](2019-10-04-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 0.0% | N/A | N/A | N/A | N/A |
@@ -417,11 +419,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 7% | 99.9% |  |
-| 2.5–3.5% | 22% | 93% |  |
-| 3.5–4.5% | 40% | 71% | Median |
-| 4.5–5.5% | 25% | 31% |  |
-| 5.5–6.5% | 6% | 6% |  |
+| 1.5–2.5% | 6% | 99.9% |  |
+| 2.5–3.5% | 28% | 94% |  |
+| 3.5–4.5% | 40% | 66% | Median |
+| 4.5–5.5% | 21% | 26% |  |
+| 5.5–6.5% | 5% | 5% |  |
 | 6.5–7.5% | 0.4% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -435,7 +437,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
-| [16–23 July 2021](2021-07-23-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [16–23 July 2021](2021-07-23-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [16–22 July 2021](2021-07-22-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [19 July 2021](2021-07-19-SigmaDos.html) | Sigma Dos <br> Antena 3 | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [15–19 July 2021](2021-07-19-DYM.html) | DYM <br> Henneo | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [16–17 July 2021](2021-07-17-Data10.html) | Data10 <br> OKDiario | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -773,6 +776,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–18 October 2019](2019-10-18-GAD3.html) | GAD3 <br> ABC | 2 | 2 | 2 | 2–3 | 2–3 |
 | [16–17 October 2019](2019-10-17-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [15–17 October 2019](2019-10-17-Ipsos.html) | Ipsos <br> Henneo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [4–6 October 2019](2019-10-06-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [30 September–4 October 2019](2019-10-04-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
@@ -841,11 +845,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 17% | 99.8% |  |
-| 2 | 54% | 82% | Median |
-| 3 | 28% | 29% |  |
-| 4 | 0.9% | 0.9% |  |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 20% | 99.9% |  |
+| 2 | 56% | 80% | Median |
+| 3 | 23% | 24% |  |
+| 4 | 0.8% | 0.8% |  |
 | 5 | 0% | 0% |  |
 
 
