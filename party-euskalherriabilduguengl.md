@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.7–1.6% | 0.6–1.8% | 0.6–1.9% | 0.5–2.3% |
 | [16–23 July 2021](2021-07-23-electoPanel.html) | electoPanel <br> electomania.es | 1.1% | 0.9–1.6% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% |
+| [20–23 July 2021](2021-07-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [16–22 July 2021](2021-07-22-GAD3.html) | GAD3 <br> ABC | 1.1% | 0.8–1.8% | 0.7–2.0% | 0.6–2.1% | 0.5–2.5% |
 | [19 July 2021](2021-07-19-SigmaDos.html) | Sigma Dos <br> Antena 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [15–19 July 2021](2021-07-19-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
@@ -434,6 +435,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–23 July 2021](2021-07-23-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–23 July 2021](2021-07-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–22 July 2021](2021-07-22-GAD3.html) | GAD3 <br> ABC | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19 July 2021](2021-07-19-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
 | [15–19 July 2021](2021-07-19-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
@@ -841,8 +843,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 11% | 11% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
 | 2 | 0% | 0% |  |
 
 

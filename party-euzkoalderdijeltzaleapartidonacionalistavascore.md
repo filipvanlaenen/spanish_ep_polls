@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [16–23 July 2021](2021-07-23-electoPanel.html) | electoPanel <br> electomania.es | 1.6% | 1.3–2.1% | 1.2–2.3% | 1.1–2.4% | 1.0–2.6% |
+| [20–23 July 2021](2021-07-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1.5% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% | 0.8–2.8% |
 | [16–22 July 2021](2021-07-22-GAD3.html) | GAD3 <br> ABC | 1.4% | 1.0–2.1% | 0.9–2.3% | 0.8–2.5% | 0.6–2.8% |
 | [19 July 2021](2021-07-19-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [15–19 July 2021](2021-07-19-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
@@ -434,6 +435,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–23 July 2021](2021-07-23-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–23 July 2021](2021-07-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–22 July 2021](2021-07-22-GAD3.html) | GAD3 <br> ABC | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19 July 2021](2021-07-19-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [15–19 July 2021](2021-07-19-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
@@ -842,7 +844,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 38% | 100% | Last Result |
-| 1 | 61% | 62% | Median |
+| 1 | 62% | 62% | Median |
 | 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
