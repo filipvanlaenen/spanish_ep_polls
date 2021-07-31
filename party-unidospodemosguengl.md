@@ -786,7 +786,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–18 October 2019](2019-10-18-GAD3.html) | GAD3 <br> ABC | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [16–17 October 2019](2019-10-17-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–8 | 6–9 | 6–9 |
 | [15–17 October 2019](2019-10-17-Ipsos.html) | Ipsos <br> Henneo | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
-| [4–6 October 2019](2019-10-06-GAD3.html) | GAD3 <br> ABC | 8 | 8–9 | 7–10 | 7–10 | 6–11 |
+| [4–6 October 2019](2019-10-06-GAD3.html) | GAD3 <br> ABC | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
 | [30 September–4 October 2019](2019-10-04-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–8 | 6–9 | 6–9 |
 | [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | [4 October 2019](2019-10-04-KeyData.html) | Key Data <br> Público | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
