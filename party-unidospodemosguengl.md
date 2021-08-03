@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.1% | 8.6–11.7% | 8.3–12.3% | 8.0–12.9% | 7.4–14.1% |
+| N/A | [Poll Average](average.html) | 10.1% | 8.6–11.7% | 8.3–12.3% | 7.9–12.9% | 7.4–14.1% |
+| [23–30 July 2021](2021-07-30-electoPanel.html) | electoPanel <br> electomania.es | 10.1% | 8.9–11.6% | 8.6–12.0% | 8.3–12.3% | 7.8–13.0% |
+| [26–29 July 2021](2021-07-29-SocioMétrica.html) | SocioMétrica <br> El Español | 10.3% | 9.3–11.6% | 9.0–11.9% | 8.7–12.2% | 8.2–12.8% |
 | [16–23 July 2021](2021-07-23-electoPanel.html) | electoPanel <br> electomania.es | 9.9% | 9.0–10.9% | 8.7–11.2% | 8.5–11.4% | 8.1–11.9% |
 | [20–23 July 2021](2021-07-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 9.6% | 8.6–10.9% | 8.3–11.2% | 8.0–11.5% | 7.5–12.1% |
 | [16–22 July 2021](2021-07-22-GAD3.html) | GAD3 <br> ABC | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
@@ -428,9 +430,9 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0.8% | 100% |  |
 | 7.5–8.5% | 8% | 99.2% |  |
 | 8.5–9.5% | 24% | 91% |  |
-| 9.5–10.5% | 33% | 67% | Median |
-| 10.5–11.5% | 22% | 34% |  |
-| 11.5–12.5% | 7% | 11% |  |
+| 9.5–10.5% | 33% | 68% | Median |
+| 10.5–11.5% | 23% | 34% |  |
+| 11.5–12.5% | 8% | 11% |  |
 | 12.5–13.5% | 3% | 4% |  |
 | 13.5–14.5% | 0.9% | 1.1% |  |
 | 14.5–15.5% | 0.2% | 0.3% |  |
@@ -446,6 +448,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| [23–30 July 2021](2021-07-30-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
+| [26–29 July 2021](2021-07-29-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6 | 6–7 | 6–7 | 5–8 |
 | [16–23 July 2021](2021-07-23-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [20–23 July 2021](2021-07-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [16–22 July 2021](2021-07-22-GAD3.html) | GAD3 <br> ABC | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
@@ -860,9 +864,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 2% | 100% |  |
-| 5 | 24% | 98% |  |
-| 6 | 51% | 74% | Median |
-| 7 | 20% | 23% |  |
+| 5 | 23% | 98% |  |
+| 6 | 53% | 75% | Median |
+| 7 | 19% | 22% |  |
 | 8 | 3% | 3% |  |
 | 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
