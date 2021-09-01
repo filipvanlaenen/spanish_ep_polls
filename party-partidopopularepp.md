@@ -10,11 +10,16 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.3% | 26.4–31.9% | 25.6–32.7% | 25.0–33.3% | 24.0–34.5% |
+| N/A | [Poll Average](average.html) | 29.4% | 27.4–31.6% | 26.9–32.3% | 26.5–32.9% | 25.6–34.1% |
+| [30 August 2021](2021-08-30-SigmaDos.html) | Sigma Dos <br> Antena 3 | 28.9% | 27.1–30.8% | 26.6–31.3% | 26.2–31.8% | 25.3–32.7% |
+| [24–27 August 2021](2021-08-27-NCReport.html) | NC Report <br> La Razón | 30.1% | 27.8–32.5% | 27.2–33.2% | 26.7–33.8% | 25.6–34.9% |
+| [20–26 August 2021](2021-08-26-electoPanel.html) | electoPanel <br> electomania.es | 28.6% | 27.1–30.2% | 26.7–30.7% | 26.3–31.0% | 25.6–31.8% |
 | [14–21 August 2021](2021-08-21-electoPanel.html) | electoPanel <br> electomania.es | 28.5% | 27.3–29.8% | 26.9–30.1% | 26.6–30.4% | 26.1–31.0% |
+| [16–20 August 2021](2021-08-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 29.6% | N/A | N/A | N/A | N/A |
 | [6–13 August 2021](2021-08-13-electoPanel.html) | electoPanel <br> electomania.es | 28.6% | 27.1–30.2% | 26.6–30.6% | 26.3–31.0% | 25.6–31.8% |
 | [31 July–6 August 2021](2021-08-06-electoPanel.html) | electoPanel <br> electomania.es | 28.3% | 26.6–30.0% | 26.2–30.5% | 25.8–31.0% | 25.0–31.8% |
 | [4–6 August 2021](2021-08-06-Data10.html) | Data10 <br> OKDiario | 30.0% | 28.2–31.9% | 27.7–32.4% | 27.2–32.9% | 26.4–33.9% |
+| [2–4 August 2021](2021-08-04-SimpleLógica.html) | Simple Lógica | 24.6% | N/A | N/A | N/A | N/A |
 | [23–30 July 2021](2021-07-30-electoPanel.html) | electoPanel <br> electomania.es | 28.4% | 26.5–30.4% | 26.0–31.0% | 25.5–31.5% | 24.6–32.4% |
 | [26–29 July 2021](2021-07-29-SocioMétrica.html) | SocioMétrica <br> El Español | 26.4% | 24.8–28.1% | 24.4–28.6% | 24.0–29.0% | 23.2–29.8% |
 | [16–23 July 2021](2021-07-23-electoPanel.html) | electoPanel <br> electomania.es | 28.1% | 26.7–29.6% | 26.3–30.0% | 26.0–30.4% | 25.3–31.1% |
@@ -447,20 +452,20 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.2% | 100% |  |
-| 23.5–24.5% | 1.1% | 99.8% |  |
-| 24.5–25.5% | 3% | 98.7% |  |
-| 25.5–26.5% | 7% | 95% |  |
-| 26.5–27.5% | 10% | 89% |  |
-| 27.5–28.5% | 15% | 79% |  |
-| 28.5–29.5% | 19% | 64% | Median |
-| 29.5–30.5% | 17% | 45% |  |
-| 30.5–31.5% | 14% | 28% |  |
-| 31.5–32.5% | 8% | 14% |  |
-| 32.5–33.5% | 4% | 6% |  |
-| 33.5–34.5% | 1.3% | 2% |  |
-| 34.5–35.5% | 0.4% | 0.5% |  |
-| 35.5–36.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 0% | 100% |  |
+| 23.5–24.5% | 0% | 100% |  |
+| 24.5–25.5% | 0.4% | 100% |  |
+| 25.5–26.5% | 2% | 99.6% |  |
+| 26.5–27.5% | 9% | 97% |  |
+| 27.5–28.5% | 18% | 88% |  |
+| 28.5–29.5% | 25% | 70% | Median |
+| 29.5–30.5% | 21% | 45% |  |
+| 30.5–31.5% | 14% | 24% |  |
+| 31.5–32.5% | 7% | 10% |  |
+| 32.5–33.5% | 3% | 4% |  |
+| 33.5–34.5% | 0.8% | 1.1% |  |
+| 34.5–35.5% | 0.2% | 0.3% |  |
+| 35.5–36.5% | 0% | 0.1% |  |
 | 36.5–37.5% | 0% | 0% |  |
 
 
@@ -472,11 +477,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–21 | 17–21 | 17–21 | 15–22 |
+| N/A | [Poll Average](average.html) | 18 | 17–21 | 17–21 | 17–21 | 16–22 |
+| [30 August 2021](2021-08-30-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
+| [24–27 August 2021](2021-08-27-NCReport.html) | NC Report <br> La Razón | 18 | 17–20 | 17–21 | 16–21 | 16–22 |
+| [20–26 August 2021](2021-08-26-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–19 | 17–19 | 16–19 | 16–22 |
 | [14–21 August 2021](2021-08-21-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
+| [16–20 August 2021](2021-08-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
 | [6–13 August 2021](2021-08-13-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–20 | 17–20 | 16–20 | 16–20 |
 | [31 July–6 August 2021](2021-08-06-electoPanel.html) | electoPanel <br> electomania.es | 18 | 16–20 | 16–20 | 16–20 | 15–20 |
 | [4–6 August 2021](2021-08-06-Data10.html) | Data10 <br> OKDiario | 19 | 18–21 | 18–21 | 17–21 | 16–21 |
+| [2–4 August 2021](2021-08-04-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [23–30 July 2021](2021-07-30-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–19 | 16–20 | 16–20 | 16–21 |
 | [26–29 July 2021](2021-07-29-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 17 | 16–17 | 15–18 | 15–19 |
 | [16–23 July 2021](2021-07-23-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–19 | 16–19 | 16–19 | 16–19 |
@@ -902,16 +912,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.1% | 100% |  |
-| 15 | 0.6% | 99.9% |  |
-| 16 | 2% | 99.3% |  |
-| 17 | 24% | 98% |  |
-| 18 | 27% | 74% | Median |
-| 19 | 21% | 47% |  |
-| 20 | 14% | 26% |  |
-| 21 | 11% | 12% |  |
-| 22 | 1.1% | 1.2% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0.1% | 100% |  |
+| 16 | 2% | 99.8% |  |
+| 17 | 21% | 98% |  |
+| 18 | 33% | 77% | Median |
+| 19 | 19% | 44% |  |
+| 20 | 15% | 25% |  |
+| 21 | 10% | 10% |  |
+| 22 | 0.5% | 0.6% |  |
+| 23 | 0% | 0% |  |
 
 
