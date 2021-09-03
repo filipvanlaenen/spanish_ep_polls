@@ -479,9 +479,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 18 | 15–20 | 14–21 | 14–21 | 13–21 |
 | [30 August 2021](2021-08-30-SigmaDos.html) | Sigma Dos <br> Antena 3 | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [24–27 August 2021](2021-08-27-NCReport.html) | NC Report <br> La Razón | 18 | 17–20 | 17–21 | 17–21 | 16–22 |
-| [20–26 August 2021](2021-08-26-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–19 | 17–19 | 16–19 | 16–22 |
+| [20–26 August 2021](2021-08-26-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
 | [14–21 August 2021](2021-08-21-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
-| [16–20 August 2021](2021-08-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 19 | 17–20 | 17–21 | 17–21 | 16–21 |
+| [16–20 August 2021](2021-08-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | [6–13 August 2021](2021-08-13-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–20 | 17–20 | 16–20 | 16–20 |
 | [31 July–6 August 2021](2021-08-06-electoPanel.html) | electoPanel <br> electomania.es | 18 | 16–20 | 16–20 | 16–20 | 15–20 |
 | [4–6 August 2021](2021-08-06-Data10.html) | Data10 <br> OKDiario | 19 | 18–21 | 18–21 | 17–21 | 16–21 |
@@ -914,12 +914,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 6% | 98% |  |
 | 15 | 4% | 92% |  |
 | 16 | 6% | 88% |  |
-| 17 | 19% | 82% |  |
-| 18 | 29% | 63% | Median |
-| 19 | 14% | 33% |  |
-| 20 | 13% | 19% |  |
-| 21 | 6% | 6% |  |
-| 22 | 0.3% | 0.3% |  |
+| 17 | 13% | 82% |  |
+| 18 | 35% | 69% | Median |
+| 19 | 17% | 33% |  |
+| 20 | 11% | 17% |  |
+| 21 | 5% | 6% |  |
+| 22 | 0.3% | 0.4% |  |
 | 23 | 0% | 0% |  |
 
 
