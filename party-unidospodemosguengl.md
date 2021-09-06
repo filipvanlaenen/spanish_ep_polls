@@ -455,7 +455,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [30 August 2021](2021-08-30-SigmaDos.html) | Sigma Dos <br> Antena 3 | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [24–27 August 2021](2021-08-27-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | [20–26 August 2021](2021-08-26-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 5–6 | 5–7 | 5–7 |
@@ -464,7 +464,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6–13 August 2021](2021-08-13-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [31 July–6 August 2021](2021-08-06-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [4–6 August 2021](2021-08-06-Data10.html) | Data10 <br> OKDiario | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [2–4 August 2021](2021-08-04-SimpleLógica.html) | Simple Lógica | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
+| [2–4 August 2021](2021-08-04-SimpleLógica.html) | Simple Lógica | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [23–30 July 2021](2021-07-30-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [26–29 July 2021](2021-07-29-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6 | 6–7 | 6–7 | 5–8 |
 | [16–23 July 2021](2021-07-23-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -881,9 +881,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 5% | 100% |  |
-| 5 | 32% | 95% |  |
-| 6 | 49% | 63% | Median |
-| 7 | 13% | 14% |  |
+| 5 | 31% | 95% |  |
+| 6 | 49% | 64% | Median |
+| 7 | 13% | 15% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
