@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.1–5.3% | 2.8–5.6% | 2.6–6.0% | 2.1–6.7% |
-| [5 September 2021](2021-09-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.1–5.4% | 2.9–5.8% | 2.6–6.1% | 2.1–6.8% |
 | [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 3.6% | 3.1–4.3% | 2.9–4.5% | 2.8–4.6% | 2.6–5.0% |
+| [30 August–2 September 2021](2021-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–5.9% |
 | [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
 | [30 August 2021](2021-08-30-SigmaDos.html) | Sigma Dos <br> Antena 3 | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [30 August 2021](2021-08-30-KeyData.html) | Key Data <br> Público | 3.8% | 2.7–5.5% | 2.4–6.0% | 2.2–6.4% | 1.8–7.4% |
@@ -437,11 +437,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 23% | 98% |  |
-| 3.5–4.5% | 44% | 74% | Median |
-| 4.5–5.5% | 24% | 30% |  |
-| 5.5–6.5% | 5% | 6% |  |
-| 6.5–7.5% | 0.6% | 0.7% |  |
+| 2.5–3.5% | 21% | 98% |  |
+| 3.5–4.5% | 43% | 77% | Median |
+| 4.5–5.5% | 26% | 34% |  |
+| 5.5–6.5% | 7% | 8% |  |
+| 6.5–7.5% | 0.8% | 0.9% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -455,8 +455,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
-| [5 September 2021](2021-09-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2 | 2 | 2 |
+| [30 August–2 September 2021](2021-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 August 2021](2021-08-30-SigmaDos.html) | Sigma Dos <br> Antena 3 | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [30 August 2021](2021-08-30-KeyData.html) | Key Data <br> Público | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
@@ -881,9 +881,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 9% | 99.9% |  |
-| 2 | 56% | 91% | Median |
-| 3 | 32% | 35% |  |
+| 1 | 8% | 99.9% |  |
+| 2 | 54% | 92% | Median |
+| 3 | 35% | 38% |  |
 | 4 | 2% | 2% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
