@@ -482,10 +482,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–20 | 14–20 | 14–20 | 13–21 |
-| [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 17–18 | 17–18 | 17–18 |
-| [30 August–2 September 2021](2021-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 17–19 | 17–19 | 16–20 | 16–21 |
-| [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 18 | 17–19 | 17–19 | 17–20 | 17–21 |
+| N/A | [Poll Average](average.html) | 18 | 15–20 | 14–20 | 14–21 | 13–22 |
+| [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 16–19 | 16–19 | 16–20 |
+| [30 August–2 September 2021](2021-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
+| [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 20 | 17–20 | 17–20 | 17–21 | 16–22 |
 | [30 August 2021](2021-08-30-SigmaDos.html) | Sigma Dos <br> Antena 3 | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [30 August 2021](2021-08-30-KeyData.html) | Key Data <br> Público | 18 | 15–20 | 15–20 | 15–21 | 14–22 |
 | [24–27 August 2021](2021-08-27-NCReport.html) | NC Report <br> La Razón | 18 | 17–20 | 17–21 | 17–21 | 16–22 |
@@ -924,13 +924,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 1.3% | 99.8% |  |
 | 14 | 5% | 98% |  |
 | 15 | 5% | 93% |  |
-| 16 | 7% | 88% |  |
-| 17 | 30% | 81% |  |
-| 18 | 22% | 51% | Median |
-| 19 | 19% | 29% |  |
-| 20 | 8% | 10% |  |
-| 21 | 2% | 2% |  |
-| 22 | 0.4% | 0.5% |  |
+| 16 | 8% | 88% |  |
+| 17 | 23% | 80% |  |
+| 18 | 22% | 57% | Median |
+| 19 | 16% | 35% |  |
+| 20 | 16% | 19% |  |
+| 21 | 2% | 3% |  |
+| 22 | 0.6% | 0.6% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 

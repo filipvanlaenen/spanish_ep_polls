@@ -451,7 +451,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
 | [30 August–2 September 2021](2021-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 0 | 0 | 0 | 0 | 0 |
+| [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 0 | 0 | 0 | 0 | 0–1 |
 | [30 August 2021](2021-08-30-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
 | [30 August 2021](2021-08-30-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [24–27 August 2021](2021-08-27-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |

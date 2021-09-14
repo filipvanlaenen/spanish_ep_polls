@@ -462,9 +462,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
-| [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [30 August–2 September 2021](2021-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [30 August 2021](2021-08-30-SigmaDos.html) | Sigma Dos <br> Antena 3 | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [30 August 2021](2021-08-30-KeyData.html) | Key Data <br> Público | 6 | 5–7 | 4–8 | 4–8 | 3–9 |
 | [24–27 August 2021](2021-08-27-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
@@ -893,9 +893,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.2% | 100% |  |
 | 4 | 2% | 99.8% |  |
 | 5 | 23% | 97% |  |
-| 6 | 53% | 74% | Median |
-| 7 | 18% | 21% |  |
-| 8 | 2% | 3% |  |
+| 6 | 51% | 74% | Median |
+| 7 | 20% | 23% |  |
+| 8 | 3% | 3% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 

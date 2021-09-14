@@ -467,10 +467,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–11 | 7–11 | 6–12 |
-| [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
-| [30 August–2 September 2021](2021-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
-| [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 9 | 9–10 | 9–10 | 9–11 | 8–11 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 7–11 | 6–12 |
+| [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
+| [30 August–2 September 2021](2021-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
+| [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 10 | 9–11 | 9–11 | 8–11 | 8–11 |
 | [30 August 2021](2021-08-30-SigmaDos.html) | Sigma Dos <br> Antena 3 | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [30 August 2021](2021-08-30-KeyData.html) | Key Data <br> Público | 9 | 8–11 | 7–11 | 6–12 | 6–12 |
 | [24–27 August 2021](2021-08-27-NCReport.html) | NC Report <br> La Razón | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
@@ -900,12 +900,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.5% | 100% |  |
-| 7 | 2% | 99.4% |  |
-| 8 | 15% | 97% |  |
-| 9 | 36% | 82% | Median |
-| 10 | 36% | 45% |  |
-| 11 | 9% | 10% |  |
-| 12 | 0.8% | 0.8% |  |
+| 7 | 3% | 99.4% |  |
+| 8 | 17% | 97% |  |
+| 9 | 32% | 80% | Median |
+| 10 | 33% | 48% |  |
+| 11 | 14% | 15% |  |
+| 12 | 0.8% | 0.9% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
