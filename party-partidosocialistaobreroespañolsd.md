@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.4% | 23.2–28.2% | 22.6–29.1% | 22.0–29.9% | 20.9–31.4% |
+| N/A | [Poll Average](average.html) | 25.4% | 23.2–27.6% | 22.6–28.3% | 22.0–28.9% | 20.9–30.3% |
+| [1–13 September 2021](2021-09-13-CIS.html) | CIS | 29.6% | N/A | N/A | N/A | N/A |
+| [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial | 26.6% | 25.1–28.2% | 24.6–28.7% | 24.2–29.1% | 23.5–29.8% |
+| [3–9 September 2021](2021-09-09-electoPanel.html) | electoPanel <br> electomania.es | 25.7% | 24.1–27.5% | 23.6–28.0% | 23.2–28.4% | 22.5–29.3% |
 | [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 25.3% | 24.0–26.7% | 23.6–27.1% | 23.3–27.5% | 22.6–28.2% |
 | [30 August–2 September 2021](2021-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 24.4% | 22.7–26.1% | 22.3–26.6% | 21.9–27.1% | 21.1–27.9% |
 | [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 24.5% | 22.8–26.3% | 22.3–26.8% | 21.9–27.3% | 21.1–28.2% |
@@ -458,17 +461,16 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 1.0% | 99.7% |  |
 | 21.5–22.5% | 4% | 98.7% |  |
 | 22.5–23.5% | 9% | 95% |  |
-| 23.5–24.5% | 18% | 86% |  |
-| 24.5–25.5% | 22% | 68% | Median |
-| 25.5–26.5% | 19% | 46% |  |
-| 26.5–27.5% | 12% | 27% |  |
-| 27.5–28.5% | 7% | 15% |  |
-| 28.5–29.5% | 4% | 8% |  |
-| 29.5–30.5% | 2% | 4% |  |
-| 30.5–31.5% | 0.9% | 1.4% |  |
-| 31.5–32.5% | 0.3% | 0.4% |  |
-| 32.5–33.5% | 0.1% | 0.1% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 23.5–24.5% | 17% | 86% |  |
+| 24.5–25.5% | 22% | 69% | Median |
+| 25.5–26.5% | 21% | 47% |  |
+| 26.5–27.5% | 15% | 26% |  |
+| 27.5–28.5% | 7% | 11% |  |
+| 28.5–29.5% | 3% | 4% |  |
+| 29.5–30.5% | 0.8% | 1.2% |  |
+| 30.5–31.5% | 0.3% | 0.4% |  |
+| 31.5–32.5% | 0.1% | 0.1% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -479,7 +481,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
+| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–17 | 13–18 | 13–19 |
+| [1–13 September 2021](2021-09-13-CIS.html) | CIS |  |  |  |  |  |
+| [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–17 | 16–17 | 16–17 | 16–19 |
+| [3–9 September 2021](2021-09-09-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–16 | 15–17 | 14–17 | 14–18 |
 | [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [30 August–2 September 2021](2021-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
@@ -920,12 +925,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.2% | 100% |  |
 | 13 | 3% | 99.7% |  |
 | 14 | 13% | 97% |  |
-| 15 | 31% | 84% |  |
-| 16 | 32% | 53% | Median |
-| 17 | 13% | 21% |  |
-| 18 | 5% | 7% |  |
-| 19 | 2% | 2% |  |
-| 20 | 0.2% | 0.2% |  |
+| 15 | 29% | 84% |  |
+| 16 | 31% | 55% | Median |
+| 17 | 20% | 24% |  |
+| 18 | 2% | 4% |  |
+| 19 | 1.1% | 1.2% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
 

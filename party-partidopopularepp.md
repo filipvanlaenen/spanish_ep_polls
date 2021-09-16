@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.9% | 25.2–31.5% | 23.9–32.3% | 23.1–32.9% | 21.7–34.3% |
+| N/A | [Poll Average](average.html) | 29.0% | 26.3–31.5% | 25.6–32.3% | 25.0–32.9% | 23.8–34.3% |
+| [1–13 September 2021](2021-09-13-CIS.html) | CIS | 20.5% | N/A | N/A | N/A | N/A |
+| [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial | 26.4% | 24.9–28.0% | 24.5–28.5% | 24.1–28.9% | 23.4–29.7% |
+| [3–9 September 2021](2021-09-09-electoPanel.html) | electoPanel <br> electomania.es | 28.6% | 26.9–30.4% | 26.4–30.9% | 26.0–31.4% | 25.2–32.3% |
 | [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 28.1% | 26.7–29.6% | 26.3–30.0% | 26.0–30.3% | 25.3–31.0% |
 | [30 August–2 September 2021](2021-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 29.1% | 27.4–31.0% | 26.9–31.5% | 26.5–32.0% | 25.6–32.9% |
 | [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 29.8% | 28.0–31.7% | 27.5–32.3% | 27.0–32.7% | 26.2–33.6% |
@@ -454,18 +457,18 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.1% | 100% |  |
-| 20.5–21.5% | 0.3% | 99.9% |  |
-| 21.5–22.5% | 1.1% | 99.6% |  |
-| 22.5–23.5% | 2% | 98% |  |
-| 23.5–24.5% | 4% | 96% |  |
-| 24.5–25.5% | 4% | 93% |  |
-| 25.5–26.5% | 6% | 88% |  |
-| 26.5–27.5% | 10% | 83% |  |
-| 27.5–28.5% | 16% | 73% |  |
-| 28.5–29.5% | 19% | 57% | Median |
-| 29.5–30.5% | 16% | 37% |  |
-| 30.5–31.5% | 11% | 21% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 0.2% | 99.9% |  |
+| 23.5–24.5% | 1.1% | 99.7% |  |
+| 24.5–25.5% | 3% | 98.6% |  |
+| 25.5–26.5% | 7% | 95% |  |
+| 26.5–27.5% | 12% | 88% |  |
+| 27.5–28.5% | 16% | 76% |  |
+| 28.5–29.5% | 20% | 59% | Median |
+| 29.5–30.5% | 18% | 40% |  |
+| 30.5–31.5% | 12% | 22% |  |
 | 31.5–32.5% | 6% | 10% |  |
 | 32.5–33.5% | 2% | 4% |  |
 | 33.5–34.5% | 0.9% | 1.3% |  |
@@ -482,7 +485,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–20 | 14–20 | 14–21 | 13–22 |
+| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–20 | 15–21 | 15–22 |
+| [1–13 September 2021](2021-09-13-CIS.html) | CIS |  |  |  |  |  |
+| [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial | 17 | 15–17 | 15–17 | 15–18 | 15–18 |
+| [3–9 September 2021](2021-09-09-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
 | [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 16–19 | 16–19 | 16–20 |
 | [30 August–2 September 2021](2021-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
 | [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 20 | 17–20 | 17–20 | 17–21 | 16–22 |
@@ -920,14 +926,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.2% | 100% |  |
-| 13 | 1.3% | 99.8% |  |
-| 14 | 5% | 98% |  |
-| 15 | 5% | 93% |  |
-| 16 | 8% | 88% |  |
-| 17 | 23% | 80% |  |
-| 18 | 22% | 57% | Median |
-| 19 | 16% | 35% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 0.3% | 99.9% |  |
+| 15 | 3% | 99.6% |  |
+| 16 | 8% | 96% |  |
+| 17 | 25% | 89% |  |
+| 18 | 23% | 64% | Median |
+| 19 | 22% | 40% |  |
 | 20 | 16% | 19% |  |
 | 21 | 2% | 3% |  |
 | 22 | 0.6% | 0.6% |  |
