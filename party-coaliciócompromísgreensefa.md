@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.0–5.2% | 2.8–5.6% | 2.5–5.9% | 2.1–6.6% |
-| [1–13 September 2021](2021-09-13-CIS.html) | CIS | 3.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 3.8% | 3.0–5.1% | 2.8–5.5% | 2.6–5.8% | 2.2–6.6% |
+| [1–13 September 2021](2021-09-13-CIS.html) | CIS | 3.3% | 3.0–3.7% | 2.9–3.8% | 2.8–3.9% | 2.6–4.1% |
 | [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial | 3.7% | 3.1–4.4% | 2.9–4.6% | 2.8–4.8% | 2.5–5.2% |
 | [3–9 September 2021](2021-09-09-electoPanel.html) | electoPanel <br> electomania.es | 3.4% | 2.8–4.2% | 2.6–4.5% | 2.5–4.7% | 2.2–5.1% |
 | [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 3.6% | 3.1–4.3% | 2.9–4.5% | 2.8–4.6% | 2.6–5.0% |
@@ -440,11 +440,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 27% | 97% |  |
-| 3.5–4.5% | 44% | 71% | Median |
-| 4.5–5.5% | 21% | 27% |  |
-| 5.5–6.5% | 5% | 5% |  |
-| 6.5–7.5% | 0.5% | 0.6% |  |
+| 2.5–3.5% | 33% | 98% |  |
+| 3.5–4.5% | 41% | 65% | Median |
+| 4.5–5.5% | 19% | 23% |  |
+| 5.5–6.5% | 4% | 5% |  |
+| 6.5–7.5% | 0.5% | 0.5% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -458,7 +458,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
-| [1–13 September 2021](2021-09-13-CIS.html) | CIS |  |  |  |  |  |
+| [1–13 September 2021](2021-09-13-CIS.html) | CIS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [3–9 September 2021](2021-09-09-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2 | 1–2 | 1–3 |
@@ -887,9 +887,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 23% | 99.9% |  |
-| 2 | 53% | 77% | Median |
-| 3 | 22% | 23% |  |
+| 1 | 29% | 99.9% |  |
+| 2 | 50% | 71% | Median |
+| 3 | 19% | 21% |  |
 | 4 | 2% | 2% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
