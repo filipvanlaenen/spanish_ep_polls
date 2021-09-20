@@ -483,8 +483,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–19 | 14–19 | 13–19 | 13–19 |
 | [1–13 September 2021](2021-09-13-CIS.html) | CIS | 19 | 18–19 | 18–19 | 18–19 | 17–20 |
-| [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–17 | 16–17 | 16–17 | 16–19 |
-| [3–9 September 2021](2021-09-09-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–16 | 15–17 | 14–17 | 14–18 |
+| [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
+| [3–9 September 2021](2021-09-09-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 14–18 | 14–18 | 14–18 |
 | [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [30 August–2 September 2021](2021-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
@@ -924,11 +924,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0.2% | 100% |  |
 | 13 | 2% | 99.8% |  |
-| 14 | 11% | 97% |  |
-| 15 | 25% | 86% |  |
-| 16 | 27% | 61% | Median |
-| 17 | 18% | 33% |  |
-| 18 | 4% | 15% |  |
+| 14 | 12% | 97% |  |
+| 15 | 26% | 86% |  |
+| 16 | 27% | 60% | Median |
+| 17 | 15% | 33% |  |
+| 18 | 6% | 18% |  |
 | 19 | 12% | 12% |  |
 | 20 | 0.2% | 0.2% |  |
 | 21 | 0% | 0% |  |
