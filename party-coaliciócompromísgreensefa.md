@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.5–5.0% | 2.1–5.4% | 1.9–5.8% | 1.5–6.5% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.4–4.8% | 2.1–5.2% | 1.9–5.5% | 1.5–6.3% |
+| [19–20 September 2021](2021-09-20-Data10.html) | Data10 <br> OKDiario | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
 | [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón | 3.5% | 2.7–4.6% | 2.5–4.9% | 2.3–5.2% | 2.0–5.8% |
 | [10–17 September 2021](2021-09-17-electoPanel.html) | electoPanel <br> electomania.es | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.3–4.2% | 2.0–4.6% |
 | [13–16 September 2021](2021-09-16-GAD3.html) | GAD3 <br> NIUS | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
@@ -441,14 +442,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.5% | 100% |  |
-| 1.5–2.5% | 10% | 99.5% |  |
-| 2.5–3.5% | 34% | 89% |  |
-| 3.5–4.5% | 35% | 55% | Median |
-| 4.5–5.5% | 16% | 20% |  |
-| 5.5–6.5% | 4% | 4% |  |
-| 6.5–7.5% | 0.4% | 0.5% |  |
-| 7.5–8.5% | 0% | 0.1% |  |
+| 0.5–1.5% | 0.6% | 100% |  |
+| 1.5–2.5% | 11% | 99.4% |  |
+| 2.5–3.5% | 38% | 88% |  |
+| 3.5–4.5% | 35% | 50% | Median |
+| 4.5–5.5% | 12% | 15% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.3% | 0.3% |  |
+| 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -461,6 +462,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| [19–20 September 2021](2021-09-20-Data10.html) | Data10 <br> OKDiario | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
 | [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [10–17 September 2021](2021-09-17-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–16 September 2021](2021-09-16-GAD3.html) | GAD3 <br> NIUS | 1 | 1 | 1 | 1 | 1–2 |
@@ -893,10 +895,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 31% | 99.9% |  |
-| 2 | 50% | 69% | Median |
-| 3 | 17% | 19% |  |
-| 4 | 1.4% | 1.5% |  |
+| 1 | 35% | 99.9% |  |
+| 2 | 50% | 65% | Median |
+| 3 | 14% | 15% |  |
+| 4 | 1.0% | 1.1% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
