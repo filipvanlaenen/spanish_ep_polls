@@ -15,6 +15,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo | 26.1% | 24.4–27.9% | 23.9–28.5% | 23.5–28.9% | 22.7–29.8% |
 | [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón | 29.9% | 27.6–32.3% | 27.0–33.0% | 26.4–33.5% | 25.4–34.7% |
 | [10–17 September 2021](2021-09-17-electoPanel.html) | electoPanel <br> electomania.es | 28.1% | 26.5–29.8% | 26.0–30.2% | 25.6–30.7% | 24.9–31.5% |
+| [1–16 September 2021](2021-09-16-SimpleLógica.html) | Simple Lógica | 22.5% | N/A | N/A | N/A | N/A |
 | [13–16 September 2021](2021-09-16-GAD3.html) | GAD3 <br> NIUS | 28.2% | 26.5–30.1% | 26.0–30.7% | 25.5–31.1% | 24.7–32.0% |
 | [1–13 September 2021](2021-09-13-CIS.html) | CIS | 20.5% | 19.7–21.4% | 19.4–21.6% | 19.2–21.8% | 18.9–22.3% |
 | [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial | 26.4% | 24.9–28.0% | 24.5–28.5% | 24.1–28.9% | 23.4–29.7% |
@@ -490,13 +491,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 13–19 | 12–20 | 12–20 | 12–21 |
-| [19–20 September 2021](2021-09-20-Data10.html) | Data10 <br> OKDiario | 18 | 17–20 | 17–20 | 16–21 | 15–21 |
-| [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| N/A | [Poll Average](average.html) | 17 | 13–19 | 13–20 | 12–20 | 12–21 |
+| [19–20 September 2021](2021-09-20-Data10.html) | Data10 <br> OKDiario | 19 | 17–20 | 17–20 | 16–20 | 16–20 |
+| [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón | 18 | 17–21 | 17–21 | 16–21 | 16–22 |
 | [10–17 September 2021](2021-09-17-electoPanel.html) | electoPanel <br> electomania.es | 19 | 17–19 | 17–19 | 16–20 | 15–20 |
-| [13–16 September 2021](2021-09-16-GAD3.html) | GAD3 <br> NIUS | 17 | 17 | 17–18 | 17–19 | 16–19 |
-| [1–13 September 2021](2021-09-13-CIS.html) | CIS | 12 | 12–14 | 12–14 | 12–14 | 12–14 |
+| [1–16 September 2021](2021-09-16-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
+| [13–16 September 2021](2021-09-16-GAD3.html) | GAD3 <br> NIUS | 17 | 17–18 | 17–19 | 16–20 | 15–20 |
+| [1–13 September 2021](2021-09-13-CIS.html) | CIS | 13 | 12–13 | 12–14 | 12–14 | 12–14 |
 | [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial | 17 | 15–18 | 15–18 | 15–18 | 15–18 |
 | [3–9 September 2021](2021-09-09-electoPanel.html) | electoPanel <br> electomania.es | 18 | 16–19 | 16–19 | 16–20 | 16–20 |
 | [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 16–19 | 16–19 | 16–20 |
@@ -936,15 +938,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 8% | 100% |  |
-| 13 | 2% | 92% |  |
+| 12 | 4% | 100% |  |
+| 13 | 7% | 96% |  |
 | 14 | 2% | 90% |  |
 | 15 | 6% | 88% |  |
 | 16 | 11% | 82% |  |
-| 17 | 30% | 71% | Median |
-| 18 | 17% | 42% |  |
-| 19 | 15% | 24% |  |
-| 20 | 7% | 9% |  |
+| 17 | 26% | 71% | Median |
+| 18 | 18% | 45% |  |
+| 19 | 17% | 27% |  |
+| 20 | 8% | 10% |  |
 | 21 | 2% | 2% |  |
 | 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |

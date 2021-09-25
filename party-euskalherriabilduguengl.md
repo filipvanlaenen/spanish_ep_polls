@@ -15,6 +15,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón | 1.3% | 0.9–2.0% | 0.7–2.3% | 0.6–2.5% | 0.5–2.9% |
 | [10–17 September 2021](2021-09-17-electoPanel.html) | electoPanel <br> electomania.es | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.7–1.9% | 0.5–2.2% |
+| [1–16 September 2021](2021-09-16-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [13–16 September 2021](2021-09-16-GAD3.html) | GAD3 <br> NIUS | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [1–13 September 2021](2021-09-13-CIS.html) | CIS | 0.9% | 0.7–1.1% | 0.7–1.2% | 0.6–1.3% | 0.6–1.4% |
 | [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial | 1.2% | 0.9–1.7% | 0.8–1.9% | 0.7–2.0% | 0.6–2.2% |
@@ -463,7 +464,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–17 September 2021](2021-09-17-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [13–16 September 2021](2021-09-16-GAD3.html) | GAD3 <br> NIUS | 0 | 0 | 0 | 0–1 | 0–1 |
+| [1–16 September 2021](2021-09-16-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
+| [13–16 September 2021](2021-09-16-GAD3.html) | GAD3 <br> NIUS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–13 September 2021](2021-09-13-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–9 September 2021](2021-09-09-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -892,8 +894,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 19% | 20% |  |
+| 0 | 78% | 100% | Last Result, Median |
+| 1 | 21% | 22% |  |
 | 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 

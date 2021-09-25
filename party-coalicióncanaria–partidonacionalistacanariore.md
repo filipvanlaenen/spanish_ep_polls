@@ -15,6 +15,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [10–17 September 2021](2021-09-17-electoPanel.html) | electoPanel <br> electomania.es | 0.5% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% |
+| [1–16 September 2021](2021-09-16-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [13–16 September 2021](2021-09-16-GAD3.html) | GAD3 <br> NIUS | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [1–13 September 2021](2021-09-13-CIS.html) | CIS | 0.4% | 0.3–0.6% | 0.3–0.6% | 0.2–0.7% | 0.2–0.7% |
 | [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial | 0.5% | 0.4–0.9% | 0.3–1.0% | 0.3–1.1% | 0.2–1.3% |
@@ -462,6 +463,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [10–17 September 2021](2021-09-17-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
+| [1–16 September 2021](2021-09-16-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [13–16 September 2021](2021-09-16-GAD3.html) | GAD3 <br> NIUS | 0 | 0 | 0 | 0 | 0 |
 | [1–13 September 2021](2021-09-13-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial | 0 | 0 | 0 | 0 | 0 |
