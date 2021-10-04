@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.7–4.4% | 2.5–4.8% | 2.3–5.2% | 2.0–6.2% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.7–4.4% | 2.5–4.7% | 2.4–5.1% | 2.0–6.1% |
+| [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es | 3.4% | 2.9–4.2% | 2.7–4.4% | 2.5–4.6% | 2.3–5.0% |
+| [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es | 3.3% | 2.8–3.9% | 2.6–4.1% | 2.5–4.3% | 2.3–4.6% |
+| [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.3–4.2% | 2.0–4.5% |
+| [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público | 3.7% | 2.7–5.5% | 2.4–6.0% | 2.2–6.4% | 1.7–7.4% |
+| [16–21 September 2021](2021-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.4% | 2.0–4.8% |
 | [19–20 September 2021](2021-09-20-Data10.html) | Data10 <br> OKDiario | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón | 3.3% | 2.5–4.4% | 2.3–4.7% | 2.2–5.0% | 1.9–5.6% |
@@ -445,14 +450,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 6% | 100% |  |
-| 2.5–3.5% | 53% | 94% | Median |
-| 3.5–4.5% | 33% | 41% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 54% | 95% | Median |
+| 3.5–4.5% | 34% | 40% |  |
 | 4.5–5.5% | 6% | 7% |  |
-| 5.5–6.5% | 1.1% | 1.3% |  |
-| 6.5–7.5% | 0.2% | 0.3% |  |
+| 5.5–6.5% | 0.9% | 1.2% |  |
+| 6.5–7.5% | 0.2% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
-| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -463,7 +467,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| [16–21 September 2021](2021-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 2 | 2 | 1–2 | 1–2 |
 | [19–20 September 2021](2021-09-20-Data10.html) | Data10 <br> OKDiario | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -898,11 +907,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 30% | 99.9% |  |
-| 2 | 65% | 70% | Median |
-| 3 | 5% | 5% |  |
-| 4 | 0.8% | 0.9% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 29% | 100% |  |
+| 2 | 64% | 71% | Median |
+| 3 | 7% | 7% |  |
+| 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
 

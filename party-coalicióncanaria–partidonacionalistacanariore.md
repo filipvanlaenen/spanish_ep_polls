@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.5% | 0.3–1.0% | 0.3–1.2% | 0.2–1.5% | 0.1–2.2% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.3–1.0% | 0.2–1.2% | 0.2–1.4% | 0.1–2.1% |
+| [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es | 0.5% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% |
+| [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% |
+| [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial | 0.5% | 0.4–0.9% | 0.3–1.0% | 0.3–1.1% | 0.2–1.3% |
+| [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público | 0.6% | 0.3–1.6% | 0.2–2.0% | 0.2–2.2% | 0.1–2.9% |
+| [16–21 September 2021](2021-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.4% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [19–20 September 2021](2021-09-20-Data10.html) | Data10 <br> OKDiario | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
 | [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
@@ -443,10 +448,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 53% | 100% | Last Result |
-| 0.5–1.5% | 45% | 47% | Median |
+| 0.0–0.5% | 55% | 100% | Last Result |
+| 0.5–1.5% | 43% | 45% | Median |
 | 1.5–2.5% | 2% | 2% |  |
-| 2.5–3.5% | 0.2% | 0.2% |  |
+| 2.5–3.5% | 0.1% | 0.2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -458,7 +463,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
+| [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
+| [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial | 0 | 0 | 0 | 0 | 0 |
+| [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [16–21 September 2021](2021-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0 | 0 | 0 | 0 |
 | [19–20 September 2021](2021-09-20-Data10.html) | Data10 <br> OKDiario | 0 | 0 | 0 | 0 | 0 |
 | [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
@@ -893,8 +903,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 3% | 3% |  |
+| 0 | 99.0% | 100% | Last Result, Median |
+| 1 | 0.9% | 1.0% |  |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
