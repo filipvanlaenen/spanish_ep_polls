@@ -494,11 +494,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
-| [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
-| [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 17–19 | 17–19 | 16–20 |
+| [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
+| [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–17 | 15–18 | 15–18 | 15–18 |
-| [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público | 17 | 14–17 | 13–17 | 13–19 | 12–20 |
-| [16–21 September 2021](2021-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 17 | 17 | 17 | 16–18 | 15–18 |
+| [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público | 16 | 14–18 | 13–19 | 12–19 | 12–20 |
+| [16–21 September 2021](2021-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 17 | 17 | 16–18 | 16–18 | 15–18 |
 | [19–20 September 2021](2021-09-20-Data10.html) | Data10 <br> OKDiario | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón | 15 | 14–17 | 14–17 | 14–18 | 13–18 |
@@ -945,15 +945,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.2% | 100% |  |
-| 13 | 2% | 99.8% |  |
+| 12 | 0.3% | 100% |  |
+| 13 | 1.5% | 99.7% |  |
 | 14 | 7% | 98% |  |
-| 15 | 22% | 91% |  |
-| 16 | 25% | 69% | Median |
-| 17 | 30% | 44% |  |
-| 18 | 7% | 14% |  |
+| 15 | 25% | 91% |  |
+| 16 | 26% | 66% | Median |
+| 17 | 25% | 40% |  |
+| 18 | 8% | 15% |  |
 | 19 | 6% | 7% |  |
-| 20 | 0.8% | 0.8% |  |
+| 20 | 0.7% | 0.7% |  |
 | 21 | 0% | 0% |  |
 
 

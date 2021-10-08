@@ -472,8 +472,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público | 2 | 1–3 | 1–3 | 1–3 | 0–3 |
-| [16–21 September 2021](2021-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 2 | 2 | 2 | 1–3 |
+| [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
+| [16–21 September 2021](2021-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [19–20 September 2021](2021-09-20-Data10.html) | Data10 <br> OKDiario | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
@@ -909,9 +909,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% | Last Result |
-| 1 | 41% | 99.6% |  |
-| 2 | 46% | 58% | Median |
-| 3 | 5% | 12% |  |
+| 1 | 43% | 99.6% |  |
+| 2 | 45% | 56% | Median |
+| 3 | 4% | 11% |  |
 | 4 | 7% | 7% |  |
 | 5 | 0% | 0% |  |
 
