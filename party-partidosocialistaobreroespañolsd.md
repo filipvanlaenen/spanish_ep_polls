@@ -496,7 +496,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
 | [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
-| [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–17 | 15–18 | 15–18 | 15–18 |
+| [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial | 17 | 15–18 | 15–18 | 15–18 | 15–19 |
 | [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público | 16 | 14–18 | 13–19 | 12–19 | 12–20 |
 | [16–21 September 2021](2021-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 17 | 17 | 16–18 | 16–18 | 15–18 |
 | [19–20 September 2021](2021-09-20-Data10.html) | Data10 <br> OKDiario | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
@@ -948,10 +948,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.3% | 100% |  |
 | 13 | 1.5% | 99.7% |  |
 | 14 | 7% | 98% |  |
-| 15 | 25% | 91% |  |
-| 16 | 26% | 66% | Median |
-| 17 | 25% | 40% |  |
-| 18 | 8% | 15% |  |
+| 15 | 22% | 91% |  |
+| 16 | 27% | 69% | Median |
+| 17 | 24% | 42% |  |
+| 18 | 11% | 18% |  |
 | 19 | 6% | 7% |  |
 | 20 | 0.7% | 0.7% |  |
 | 21 | 0% | 0% |  |
