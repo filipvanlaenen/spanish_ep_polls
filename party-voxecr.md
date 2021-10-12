@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.8% | 13.7–18.0% | 13.3–18.6% | 13.0–19.2% | 12.2–20.5% |
+| N/A | [Poll Average](average.html) | 15.9% | 13.8–18.0% | 13.4–18.7% | 13.0–19.2% | 12.2–20.5% |
+| [4–7 October 2021](2021-10-07-SocioMétrica.html) | SocioMétrica <br> El Español | 16.3% | 15.0–17.8% | 14.7–18.2% | 14.3–18.5% | 13.7–19.3% |
+| [5–7 October 2021](2021-10-07-Data10.html) | Data10 <br> OKDiario | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es | 17.0% | 15.7–18.5% | 15.3–18.9% | 15.0–19.3% | 14.4–20.0% |
 | [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es | 16.5% | 15.3–17.7% | 15.0–18.0% | 14.8–18.4% | 14.2–18.9% |
 | [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial | 17.0% | 15.7–18.4% | 15.4–18.8% | 15.1–19.2% | 14.5–19.9% |
@@ -460,13 +462,13 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 0.9% | 99.8% |  |
-| 12.5–13.5% | 7% | 99.0% |  |
-| 13.5–14.5% | 17% | 92% |  |
-| 14.5–15.5% | 21% | 75% |  |
-| 15.5–16.5% | 22% | 55% | Median |
-| 16.5–17.5% | 17% | 32% |  |
-| 17.5–18.5% | 10% | 15% |  |
+| 11.5–12.5% | 0.8% | 99.8% |  |
+| 12.5–13.5% | 6% | 99.1% |  |
+| 13.5–14.5% | 15% | 93% |  |
+| 14.5–15.5% | 19% | 78% |  |
+| 15.5–16.5% | 23% | 59% | Median |
+| 16.5–17.5% | 19% | 35% |  |
+| 17.5–18.5% | 11% | 16% |  |
 | 18.5–19.5% | 4% | 6% |  |
 | 19.5–20.5% | 1.2% | 2% |  |
 | 20.5–21.5% | 0.4% | 0.5% |  |
@@ -482,12 +484,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–12 | 8–12 | 7–12 |
+| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–11 | 8–12 | 7–12 |
+| [4–7 October 2021](2021-10-07-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
+| [5–7 October 2021](2021-10-07-Data10.html) | Data10 <br> OKDiario | 9 | 9–10 | 9–10 | 8–11 | 8–12 |
 | [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 9–11 | 9–12 | 9–13 |
 | [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 10–11 | 9–11 | 9–12 |
 | [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público | 9 | 8–12 | 8–12 | 7–12 | 6–13 |
-| [16–21 September 2021](2021-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 8 | 8–10 | 8–10 | 8–10 | 8–11 |
+| [16–21 September 2021](2021-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [19–20 September 2021](2021-09-20-Data10.html) | Data10 <br> OKDiario | 10 | 9–12 | 9–12 | 9–12 | 8–12 |
 | [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón | 9 | 8–10 | 7–10 | 7–11 | 7–12 |
@@ -929,12 +933,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
-| 7 | 1.0% | 99.9% |  |
-| 8 | 19% | 98.9% |  |
-| 9 | 32% | 80% | Median |
-| 10 | 27% | 49% |  |
-| 11 | 17% | 22% |  |
-| 12 | 5% | 5% |  |
+| 7 | 0.9% | 99.9% |  |
+| 8 | 13% | 99.0% |  |
+| 9 | 34% | 86% |  |
+| 10 | 29% | 52% | Median |
+| 11 | 20% | 23% |  |
+| 12 | 4% | 4% |  |
 | 13 | 0.3% | 0.3% |  |
 | 14 | 0% | 0% |  |
 
