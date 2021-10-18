@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.3–5.2% | 2.1–6.4% | 1.9–6.7% | 1.6–7.2% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.3–5.3% | 2.1–6.0% | 2.0–6.3% | 1.7–6.7% |
+| [18 October 2021](2021-10-18-NCReport.html) | NC Report <br> La Razón | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
+| [8–14 October 2021](2021-10-14-GAD3.html) | GAD3 <br> ABC | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
+| [1–13 October 2021](2021-10-13-CIS.html) | CIS | 6.0% | 5.5–6.6% | 5.4–6.7% | 5.3–6.8% | 5.1–7.1% |
+| [11 October 2021](2021-10-11-SigmaDos.html) | Sigma Dos <br> Antena 3 | 3.3% | N/A | N/A | N/A | N/A |
+| [11 October 2021](2021-10-11-Invymark.html) | Invymark <br> laSexta | 1.5% | N/A | N/A | N/A | N/A |
 | [1–8 October 2021](2021-10-08-electoPanel.html) | electoPanel <br> electomania.es | 2.8% | 2.4–3.3% | 2.3–3.5% | 2.2–3.6% | 2.0–3.8% |
 | [27 September–8 October 2021](2021-10-08-IMOP.html) | IMOP <br> El Confidencial | 2.6% | 2.1–3.2% | 2.0–3.4% | 1.8–3.6% | 1.6–3.9% |
 | [4–7 October 2021](2021-10-07-SocioMétrica.html) | SocioMétrica <br> El Español | 4.3% | 3.7–5.2% | 3.5–5.4% | 3.3–5.6% | 3.0–6.1% |
@@ -456,13 +461,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.3% | 100% |  |
 | 1.5–2.5% | 18% | 99.7% |  |
-| 2.5–3.5% | 43% | 82% | Median |
-| 3.5–4.5% | 23% | 38% |  |
-| 4.5–5.5% | 6% | 15% |  |
-| 5.5–6.5% | 5% | 9% |  |
-| 6.5–7.5% | 4% | 4% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 2.5–3.5% | 44% | 81% | Median |
+| 3.5–4.5% | 22% | 38% |  |
+| 4.5–5.5% | 7% | 16% |  |
+| 5.5–6.5% | 8% | 9% |  |
+| 6.5–7.5% | 0.9% | 0.9% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -474,8 +478,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
-| [1–8 October 2021](2021-10-08-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [27 September–8 October 2021](2021-10-08-IMOP.html) | IMOP <br> El Confidencial | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [18 October 2021](2021-10-18-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [8–14 October 2021](2021-10-14-GAD3.html) | GAD3 <br> ABC | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–13 October 2021](2021-10-13-CIS.html) | CIS | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [11 October 2021](2021-10-11-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
+| [11 October 2021](2021-10-11-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [1–8 October 2021](2021-10-08-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [27 September–8 October 2021](2021-10-08-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–7 October 2021](2021-10-07-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [5–7 October 2021](2021-10-07-Data10.html) | Data10 <br> OKDiario | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–6 October 2021](2021-10-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
@@ -918,11 +927,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% | Last Result |
-| 1 | 47% | 99.5% |  |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 46% | 99.7% |  |
 | 2 | 38% | 53% | Median |
-| 3 | 8% | 15% |  |
-| 4 | 6% | 7% |  |
+| 3 | 8% | 16% |  |
+| 4 | 8% | 8% |  |
 | 5 | 0% | 0% |  |
 
 

@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.1% | 23.9–28.9% | 23.3–29.7% | 22.7–30.2% | 21.6–31.0% |
+| N/A | [Poll Average](average.html) | 26.0% | 24.0–28.4% | 23.4–28.9% | 22.9–29.4% | 21.7–30.4% |
+| [18 October 2021](2021-10-18-NCReport.html) | NC Report <br> La Razón | 25.4% | 23.7–27.2% | 23.2–27.7% | 22.8–28.2% | 22.0–29.1% |
+| [8–14 October 2021](2021-10-14-GAD3.html) | GAD3 <br> ABC | 26.2% | 24.4–28.0% | 24.0–28.5% | 23.5–29.0% | 22.7–29.9% |
+| [1–13 October 2021](2021-10-13-CIS.html) | CIS | 28.5% | 27.5–29.5% | 27.3–29.8% | 27.1–30.0% | 26.6–30.5% |
+| [11 October 2021](2021-10-11-SigmaDos.html) | Sigma Dos <br> Antena 3 | 25.1% | N/A | N/A | N/A | N/A |
+| [11 October 2021](2021-10-11-Invymark.html) | Invymark <br> laSexta | 25.7% | N/A | N/A | N/A | N/A |
 | [1–8 October 2021](2021-10-08-electoPanel.html) | electoPanel <br> electomania.es | 26.6% | 25.4–27.9% | 25.1–28.2% | 24.8–28.5% | 24.2–29.2% |
 | [27 September–8 October 2021](2021-10-08-IMOP.html) | IMOP <br> El Confidencial | 25.8% | 24.3–27.4% | 23.9–27.9% | 23.5–28.3% | 22.8–29.0% |
 | [4–7 October 2021](2021-10-07-SocioMétrica.html) | SocioMétrica <br> El Español | 25.0% | 23.4–26.7% | 23.0–27.1% | 22.6–27.5% | 21.9–28.3% |
@@ -474,19 +479,20 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0.1% | 100% |  |
-| 20.5–21.5% | 0.4% | 99.9% |  |
-| 21.5–22.5% | 2% | 99.5% |  |
-| 22.5–23.5% | 5% | 98% |  |
-| 23.5–24.5% | 12% | 93% |  |
-| 24.5–25.5% | 19% | 81% |  |
-| 25.5–26.5% | 23% | 62% | Median |
-| 26.5–27.5% | 18% | 39% |  |
-| 27.5–28.5% | 9% | 21% |  |
-| 28.5–29.5% | 6% | 12% |  |
-| 29.5–30.5% | 5% | 6% |  |
-| 30.5–31.5% | 1.1% | 1.3% |  |
-| 31.5–32.5% | 0.1% | 0.2% |  |
+| 20.5–21.5% | 0.3% | 99.9% |  |
+| 21.5–22.5% | 1.2% | 99.6% |  |
+| 22.5–23.5% | 4% | 98% |  |
+| 23.5–24.5% | 12% | 94% |  |
+| 24.5–25.5% | 20% | 82% |  |
+| 25.5–26.5% | 24% | 62% | Median |
+| 26.5–27.5% | 18% | 38% |  |
+| 27.5–28.5% | 12% | 20% |  |
+| 28.5–29.5% | 6% | 8% |  |
+| 29.5–30.5% | 2% | 2% |  |
+| 30.5–31.5% | 0.3% | 0.4% |  |
+| 31.5–32.5% | 0.1% | 0.1% |  |
 | 32.5–33.5% | 0% | 0% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -497,9 +503,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
+| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
+| [18 October 2021](2021-10-18-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
+| [8–14 October 2021](2021-10-14-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
+| [1–13 October 2021](2021-10-13-CIS.html) | CIS | 18 | 17–18 | 16–19 | 16–19 | 16–19 |
+| [11 October 2021](2021-10-11-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
+| [11 October 2021](2021-10-11-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [1–8 October 2021](2021-10-08-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 16–18 | 15–18 |
-| [27 September–8 October 2021](2021-10-08-IMOP.html) | IMOP <br> El Confidencial | 16 | 16–17 | 16–18 | 15–18 | 14–18 |
+| [27 September–8 October 2021](2021-10-08-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–18 | 15–18 | 15–18 | 14–18 |
 | [4–7 October 2021](2021-10-07-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [5–7 October 2021](2021-10-07-Data10.html) | Data10 <br> OKDiario | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [1–6 October 2021](2021-10-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
@@ -955,14 +966,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0.2% | 100% |  |
-| 13 | 0.8% | 99.8% |  |
-| 14 | 5% | 99.0% |  |
-| 15 | 16% | 94% |  |
-| 16 | 38% | 78% | Median |
-| 17 | 24% | 39% |  |
-| 18 | 9% | 15% |  |
-| 19 | 6% | 6% |  |
-| 20 | 0.6% | 0.6% |  |
+| 13 | 0.6% | 99.8% |  |
+| 14 | 4% | 99.2% |  |
+| 15 | 18% | 95% |  |
+| 16 | 34% | 77% | Median |
+| 17 | 30% | 43% |  |
+| 18 | 12% | 13% |  |
+| 19 | 2% | 2% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
 
