@@ -10,12 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.6–2.9% | 1.5–3.2% | 1.3–3.5% | 1.1–4.2% |
-| [18 October 2021](2021-10-18-NCReport.html) | NC Report <br> La Razón | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.6–2.9% | 1.4–3.2% | 1.3–3.5% | 1.1–4.2% |
+| [8–15 October 2021](2021-10-15-electoPanel.html) | electoPanel <br> electomania.es | 2.2% | 1.8–2.7% | 1.7–2.9% | 1.6–3.0% | 1.5–3.2% |
+| [13–15 October 2021](2021-10-15-NCReport.html) | NC Report <br> La Razón | 2.2% | 1.6–3.2% | 1.5–3.4% | 1.3–3.7% | 1.1–4.2% |
+| [11–15 October 2021](2021-10-15-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [8–14 October 2021](2021-10-14-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
 | [1–13 October 2021](2021-10-13-CIS.html) | CIS | 1.6% | 1.4–1.9% | 1.3–2.0% | 1.2–2.1% | 1.1–2.2% |
-| [11 October 2021](2021-10-11-SigmaDos.html) | Sigma Dos <br> Antena 3 | 2.0% | N/A | N/A | N/A | N/A |
-| [11 October 2021](2021-10-11-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [11 October 2021](2021-10-11-SigmaDos.html) | Sigma Dos <br> Antena 3 | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [1–8 October 2021](2021-10-08-electoPanel.html) | electoPanel <br> electomania.es | 2.2% | 1.9–2.7% | 1.8–2.8% | 1.7–2.9% | 1.5–3.2% |
 | [27 September–8 October 2021](2021-10-08-IMOP.html) | IMOP <br> El Confidencial | 2.0% | 1.6–2.6% | 1.4–2.7% | 1.3–2.9% | 1.2–3.2% |
 | [4–7 October 2021](2021-10-07-SocioMétrica.html) | SocioMétrica <br> El Español | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
@@ -476,11 +477,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| [18 October 2021](2021-10-18-NCReport.html) | NC Report <br> La Razón | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [8–15 October 2021](2021-10-15-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1 | 1 |
+| [13–15 October 2021](2021-10-15-NCReport.html) | NC Report <br> La Razón | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [11–15 October 2021](2021-10-15-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [8–14 October 2021](2021-10-14-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [1–13 October 2021](2021-10-13-CIS.html) | CIS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [11 October 2021](2021-10-11-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
-| [11 October 2021](2021-10-11-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [11 October 2021](2021-10-11-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [1–8 October 2021](2021-10-08-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1–2 | 0–2 |
 | [27 September–8 October 2021](2021-10-08-IMOP.html) | IMOP <br> El Confidencial | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–7 October 2021](2021-10-07-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1–2 | 0–2 | 0–2 |
@@ -925,9 +927,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 88% | 94% | Median |
-| 2 | 6% | 6% |  |
+| 0 | 7% | 100% | Last Result |
+| 1 | 88% | 93% | Median |
+| 2 | 5% | 5% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
