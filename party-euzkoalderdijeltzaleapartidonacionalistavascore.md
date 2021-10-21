@@ -480,7 +480,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13–15 October 2021](2021-10-15-NCReport.html) | NC Report <br> La Razón | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [11–15 October 2021](2021-10-15-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [8–14 October 2021](2021-10-14-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [1–13 October 2021](2021-10-13-CIS.html) | CIS | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [1–13 October 2021](2021-10-13-CIS.html) | CIS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11 October 2021](2021-10-11-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [1–8 October 2021](2021-10-08-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 September–8 October 2021](2021-10-08-IMOP.html) | IMOP <br> El Confidencial | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
