@@ -507,9 +507,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 14–19 | 13–19 | 13–20 | 12–21 |
-| [8–15 October 2021](2021-10-15-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 17–19 | 17–19 | 16–19 |
+| [8–15 October 2021](2021-10-15-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–18 | 17–19 | 17–19 | 16–19 |
 | [13–15 October 2021](2021-10-15-NCReport.html) | NC Report <br> La Razón | 19 | 17–20 | 17–20 | 16–20 | 15–22 |
-| [11–15 October 2021](2021-10-15-Invymark.html) | Invymark <br> laSexta | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
+| [11–15 October 2021](2021-10-15-Invymark.html) | Invymark <br> laSexta | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [8–14 October 2021](2021-10-14-GAD3.html) | GAD3 <br> ABC | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [1–13 October 2021](2021-10-13-CIS.html) | CIS | 14 | 13–14 | 13–15 | 13–15 | 13–15 |
 | [11 October 2021](2021-10-11-SigmaDos.html) | Sigma Dos <br> Antena 3 | 17 | 17–19 | 16–19 | 16–19 | 15–20 |
@@ -974,8 +974,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 9% | 95% |  |
 | 15 | 5% | 86% |  |
 | 16 | 13% | 81% |  |
-| 17 | 26% | 68% | Median |
-| 18 | 21% | 42% |  |
+| 17 | 23% | 68% | Median |
+| 18 | 24% | 45% |  |
 | 19 | 17% | 21% |  |
 | 20 | 3% | 4% |  |
 | 21 | 0.6% | 0.6% |  |
