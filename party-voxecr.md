@@ -500,7 +500,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [15–22 October 2021](2021-10-22-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
 | [19–21 October 2021](2021-10-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [8–15 October 2021](2021-10-15-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
-| [30 September–15 October 2021](2021-10-15-SimpleLógica.html) | Simple Lógica | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
+| [30 September–15 October 2021](2021-10-15-SimpleLógica.html) | Simple Lógica | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [13–15 October 2021](2021-10-15-NCReport.html) | NC Report <br> La Razón | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [11–15 October 2021](2021-10-15-Invymark.html) | Invymark <br> laSexta | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [8–14 October 2021](2021-10-14-GAD3.html) | GAD3 <br> ABC | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
@@ -959,7 +959,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0.1% | 100% |  |
 | 7 | 0.8% | 99.9% |  |
 | 8 | 13% | 99.1% |  |
-| 9 | 34% | 86% |  |
+| 9 | 34% | 87% |  |
 | 10 | 29% | 53% | Median |
 | 11 | 17% | 24% |  |
 | 12 | 6% | 6% |  |

@@ -511,9 +511,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
 | [15–22 October 2021](2021-10-22-electoPanel.html) | electoPanel <br> electomania.es | 18 | 16–18 | 16–19 | 16–19 | 16–20 |
-| [19–21 October 2021](2021-10-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 17–19 | 17–19 | 16–19 | 16–19 |
+| [19–21 October 2021](2021-10-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 17–19 | 17–19 | 16–19 | 16–20 |
 | [8–15 October 2021](2021-10-15-electoPanel.html) | electoPanel <br> electomania.es | 18 | 17–18 | 17–19 | 17–19 | 16–19 |
-| [30 September–15 October 2021](2021-10-15-SimpleLógica.html) | Simple Lógica | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
+| [30 September–15 October 2021](2021-10-15-SimpleLógica.html) | Simple Lógica | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [13–15 October 2021](2021-10-15-NCReport.html) | NC Report <br> La Razón | 19 | 17–19 | 17–20 | 16–21 | 15–22 |
 | [11–15 October 2021](2021-10-15-Invymark.html) | Invymark <br> laSexta | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [8–14 October 2021](2021-10-14-GAD3.html) | GAD3 <br> ABC | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
@@ -981,8 +981,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 5% | 90% |  |
 | 16 | 15% | 85% |  |
 | 17 | 24% | 70% | Median |
-| 18 | 24% | 46% |  |
-| 19 | 18% | 22% |  |
+| 18 | 26% | 46% |  |
+| 19 | 17% | 21% |  |
 | 20 | 3% | 4% |  |
 | 21 | 0.6% | 0.7% |  |
 | 22 | 0.1% | 0.1% |  |
