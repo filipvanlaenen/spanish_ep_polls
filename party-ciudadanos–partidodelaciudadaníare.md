@@ -10,9 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.0–5.2% | 1.6–6.0% | 1.4–6.3% | 1.0–6.7% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.0–5.3% | 1.6–6.0% | 1.3–6.3% | 1.0–6.7% |
+| [20–30 October 2021](2021-10-30-SWDemoscopia.html) | SW Demoscopia | 3.0% | 2.4–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
+| [22–29 October 2021](2021-10-29-electoPanel.html) | electoPanel <br> electomania.es | 2.9% | 2.4–3.7% | 2.2–3.9% | 2.1–4.0% | 1.9–4.4% |
+| [20–24 October 2021](2021-10-24-DYM.html) | DYM <br> Henneo | 3.7% | N/A | N/A | N/A | N/A |
 | [15–22 October 2021](2021-10-22-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | 2.3–3.2% | 2.1–3.4% | 2.0–3.6% | 1.8–3.8% |
+| [11–22 October 2021](2021-10-22-IMOP.html) | IMOP <br> El Confidencial | 2.6% | N/A | N/A | N/A | N/A |
+| [18–22 October 2021](2021-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3.4% | N/A | N/A | N/A | N/A |
 | [19–21 October 2021](2021-10-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.1% | 2.7–3.7% | 2.5–3.9% | 2.4–4.0% | 2.2–4.3% |
+| [20 October 2021](2021-10-20-KeyData.html) | Key Data <br> Público | 3.0% | N/A | N/A | N/A | N/A |
 | [8–15 October 2021](2021-10-15-electoPanel.html) | electoPanel <br> electomania.es | 2.9% | 2.5–3.5% | 2.3–3.6% | 2.2–3.8% | 2.0–4.1% |
 | [30 September–15 October 2021](2021-10-15-SimpleLógica.html) | Simple Lógica | 4.0% | 3.2–5.1% | 2.9–5.4% | 2.7–5.7% | 2.4–6.3% |
 | [13–15 October 2021](2021-10-15-NCReport.html) | NC Report <br> La Razón | 2.7% | 2.0–3.7% | 1.8–4.0% | 1.7–4.3% | 1.4–4.8% |
@@ -26,6 +32,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–7 October 2021](2021-10-07-Data10.html) | Data10 <br> OKDiario | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [1–6 October 2021](2021-10-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2.7% | 2.1–3.7% | 1.9–4.0% | 1.7–4.3% | 1.5–4.8% |
 | [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.2% | 2.0–4.5% |
+| [23–27 September 2021](2021-09-27-ÁgoraIntegral.html) | Ágora Integral | 3.2% | N/A | N/A | N/A | N/A |
 | [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es | 3.2% | 2.7–3.8% | 2.6–4.0% | 2.5–4.2% | 2.2–4.5% |
 | [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial | 2.6% | 2.1–3.3% | 2.0–3.5% | 1.9–3.6% | 1.7–4.0% |
 | [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público | 3.1% | 2.2–4.8% | 1.9–5.2% | 1.7–5.6% | 1.3–6.5% |
@@ -463,12 +470,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 22% | 96% |  |
-| 2.5–3.5% | 42% | 73% | Median |
-| 3.5–4.5% | 17% | 32% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 19% | 95% |  |
+| 2.5–3.5% | 43% | 77% | Median |
+| 3.5–4.5% | 18% | 33% |  |
 | 4.5–5.5% | 7% | 15% |  |
-| 5.5–6.5% | 7% | 8% |  |
+| 5.5–6.5% | 8% | 9% |  |
 | 6.5–7.5% | 0.9% | 0.9% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -481,9 +488,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–3 | 1–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 1 | 1–3 | 0–4 | 0–4 | 0–4 |
+| [20–30 October 2021](2021-10-30-SWDemoscopia.html) | SW Demoscopia | 1 | 1 | 1–2 | 1–2 | 1–3 |
+| [22–29 October 2021](2021-10-29-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [20–24 October 2021](2021-10-24-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [15–22 October 2021](2021-10-22-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [11–22 October 2021](2021-10-22-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [18–22 October 2021](2021-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
 | [19–21 October 2021](2021-10-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [20 October 2021](2021-10-20-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [8–15 October 2021](2021-10-15-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 September–15 October 2021](2021-10-15-SimpleLógica.html) | Simple Lógica | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [13–15 October 2021](2021-10-15-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -497,6 +510,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–7 October 2021](2021-10-07-Data10.html) | Data10 <br> OKDiario | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–6 October 2021](2021-10-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [23–27 September 2021](2021-09-27-ÁgoraIntegral.html) | Ágora Integral |  |  |  |  |  |
 | [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
@@ -936,10 +950,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 5% | 100% | Last Result |
-| 1 | 47% | 95% | Median |
-| 2 | 33% | 48% |  |
-| 3 | 9% | 15% |  |
-| 4 | 5% | 5% |  |
+| 1 | 49% | 95% | Median |
+| 2 | 31% | 46% |  |
+| 3 | 10% | 15% |  |
+| 4 | 6% | 6% |  |
 | 5 | 0% | 0% |  |
 
 
