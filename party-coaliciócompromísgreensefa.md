@@ -491,10 +491,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
 | [20–30 October 2021](2021-10-30-SWDemoscopia.html) | SW Demoscopia | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [22–29 October 2021](2021-10-29-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [20–24 October 2021](2021-10-24-DYM.html) | DYM <br> Henneo | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| [20–24 October 2021](2021-10-24-DYM.html) | DYM <br> Henneo | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [15–22 October 2021](2021-10-22-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–22 October 2021](2021-10-22-IMOP.html) | IMOP <br> El Confidencial | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| [18–22 October 2021](2021-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [18–22 October 2021](2021-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [19–21 October 2021](2021-10-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20 October 2021](2021-10-20-KeyData.html) | Key Data <br> Público | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | [8–15 October 2021](2021-10-15-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -949,9 +949,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.9% | 100% | Last Result |
-| 1 | 43% | 99.1% |  |
-| 2 | 50% | 56% | Median |
+| 0 | 1.0% | 100% | Last Result |
+| 1 | 41% | 99.0% |  |
+| 2 | 52% | 58% | Median |
 | 3 | 6% | 6% |  |
 | 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
