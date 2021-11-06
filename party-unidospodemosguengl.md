@@ -499,7 +499,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | [20–30 October 2021](2021-10-30-SWDemoscopia.html) | SW Demoscopia | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [22–29 October 2021](2021-10-29-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [22–29 October 2021](2021-10-29-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [20–24 October 2021](2021-10-24-DYM.html) | DYM <br> Henneo | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [15–22 October 2021](2021-10-22-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [11–22 October 2021](2021-10-22-IMOP.html) | IMOP <br> El Confidencial | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
@@ -964,8 +964,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 2% | 100% |  |
 | 5 | 13% | 98% |  |
-| 6 | 42% | 85% | Median |
-| 7 | 33% | 44% |  |
+| 6 | 45% | 85% | Median |
+| 7 | 29% | 40% |  |
 | 8 | 10% | 11% |  |
 | 9 | 1.4% | 2% |  |
 | 10 | 0.1% | 0.1% |  |

@@ -503,9 +503,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–12 | 8–12 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–12 | 8–12 | 7–13 |
 | [20–30 October 2021](2021-10-30-SWDemoscopia.html) | SW Demoscopia | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
-| [22–29 October 2021](2021-10-29-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–12 | 9–12 | 8–12 |
+| [22–29 October 2021](2021-10-29-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10–12 | 10–13 | 10–13 | 9–13 |
 | [20–24 October 2021](2021-10-24-DYM.html) | DYM <br> Henneo | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [15–22 October 2021](2021-10-22-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
 | [11–22 October 2021](2021-10-22-IMOP.html) | IMOP <br> El Confidencial | 9 | 9–10 | 9–11 | 9–11 | 9–12 |
@@ -974,10 +974,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 2% | 100% |  |
 | 8 | 13% | 98% |  |
 | 9 | 40% | 85% | Median |
-| 10 | 24% | 45% |  |
-| 11 | 16% | 21% |  |
+| 10 | 27% | 46% |  |
+| 11 | 13% | 19% |  |
 | 12 | 5% | 6% |  |
-| 13 | 0.3% | 0.3% |  |
+| 13 | 0.7% | 0.7% |  |
 | 14 | 0% | 0% |  |
 
 
