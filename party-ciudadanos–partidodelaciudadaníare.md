@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.1–4.9% | 1.7–5.8% | 1.4–6.2% | 1.1–6.6% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.6–5.6% | 2.4–6.1% | 2.2–6.3% | 1.8–6.7% |
+| [5–8 November 2021](2021-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 3.9% | 3.3–4.7% | 3.1–5.0% | 3.0–5.2% | 2.7–5.6% |
+| [2–6 November 2021](2021-11-06-NCReport.html) | NC Report <br> La Razón | 2.9% | N/A | N/A | N/A | N/A |
+| [25 October–6 November 2021](2021-11-06-IMOP.html) | IMOP <br> El Confidencial | 2.4% | N/A | N/A | N/A | N/A |
+| [1–5 November 2021](2021-11-05-Invymark.html) | Invymark <br> laSexta | 1.5% | N/A | N/A | N/A | N/A |
+| [29 October–4 November 2021](2021-11-04-electoPanel.html) | electoPanel <br> electomania.es | 3.0% | N/A | N/A | N/A | N/A |
+| [21 October–4 November 2021](2021-11-04-Metroscopia.html) | Metroscopia | 2.7% | N/A | N/A | N/A | N/A |
+| [2–4 November 2021](2021-11-04-Data10.html) | Data10 <br> OKDiario | 2.5% | N/A | N/A | N/A | N/A |
 | [20–30 October 2021](2021-10-30-SWDemoscopia.html) | SW Demoscopia | 3.0% | 2.4–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
 | [22–29 October 2021](2021-10-29-electoPanel.html) | electoPanel <br> electomania.es | 2.9% | 2.4–3.7% | 2.2–3.9% | 2.1–4.0% | 1.9–4.4% |
 | [20–24 October 2021](2021-10-24-DYM.html) | DYM <br> Henneo | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
@@ -470,13 +477,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 18% | 96% |  |
-| 2.5–3.5% | 44% | 78% | Median |
-| 3.5–4.5% | 21% | 34% |  |
-| 4.5–5.5% | 6% | 13% |  |
-| 5.5–6.5% | 6% | 7% |  |
-| 6.5–7.5% | 0.7% | 0.7% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 8% | 99.8% |  |
+| 2.5–3.5% | 43% | 92% |  |
+| 3.5–4.5% | 30% | 49% | Median |
+| 4.5–5.5% | 8% | 19% |  |
+| 5.5–6.5% | 10% | 11% |  |
+| 6.5–7.5% | 1.1% | 1.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -488,7 +495,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
+| [5–8 November 2021](2021-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [2–6 November 2021](2021-11-06-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [25 October–6 November 2021](2021-11-06-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [1–5 November 2021](2021-11-05-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [29 October–4 November 2021](2021-11-04-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [21 October–4 November 2021](2021-11-04-Metroscopia.html) | Metroscopia |  |  |  |  |  |
+| [2–4 November 2021](2021-11-04-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [20–30 October 2021](2021-10-30-SWDemoscopia.html) | SW Demoscopia | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [22–29 October 2021](2021-10-29-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–24 October 2021](2021-10-24-DYM.html) | DYM <br> Henneo | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -949,11 +963,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 44% | 96% |  |
-| 2 | 40% | 52% | Median |
-| 3 | 8% | 12% |  |
-| 4 | 4% | 4% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 31% | 99.8% |  |
+| 2 | 47% | 69% | Median |
+| 3 | 15% | 22% |  |
+| 4 | 7% | 7% |  |
 | 5 | 0% | 0% |  |
 
 
