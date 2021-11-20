@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.8% | 23.7–28.0% | 23.0–28.7% | 22.4–29.2% | 21.2–30.2% |
+| N/A | [Poll Average](average.html) | 25.8% | 24.0–27.5% | 23.4–28.0% | 22.9–28.4% | 22.0–29.3% |
 | [5–8 November 2021](2021-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 25.4% | 23.9–27.1% | 23.4–27.6% | 23.0–28.0% | 22.3–28.8% |
 | [2–6 November 2021](2021-11-06-NCReport.html) | NC Report <br> La Razón | 25.2% | 23.1–27.6% | 22.5–28.2% | 22.0–28.8% | 21.0–29.9% |
 | [25 October–6 November 2021](2021-11-06-IMOP.html) | IMOP <br> El Confidencial | 26.3% | 24.8–27.9% | 24.4–28.3% | 24.0–28.7% | 23.3–29.5% |
@@ -18,59 +18,59 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [29 October–4 November 2021](2021-11-04-electoPanel.html) | electoPanel <br> electomania.es | 25.4% | 24.0–26.9% | 23.6–27.3% | 23.3–27.7% | 22.6–28.4% |
 | [21 October–4 November 2021](2021-11-04-Metroscopia.html) | Metroscopia | 26.5% | 25.4–27.7% | 25.0–28.0% | 24.8–28.3% | 24.2–28.9% |
 | [2–4 November 2021](2021-11-04-Data10.html) | Data10 <br> OKDiario | 25.2% | 23.5–27.0% | 23.0–27.5% | 22.6–28.0% | 21.8–28.9% |
-| [20–30 October 2021](2021-10-30-SWDemoscopia.html) | SW Demoscopia | 25.3% | 23.7–26.9% | 23.3–27.4% | 22.9–27.8% | 22.2–28.6% |
-| [22–29 October 2021](2021-10-29-electoPanel.html) | electoPanel <br> electomania.es | 25.5% | 23.9–27.1% | 23.5–27.6% | 23.1–28.0% | 22.4–28.8% |
-| [20–24 October 2021](2021-10-24-DYM.html) | DYM <br> Henneo | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.5% | 21.3–28.4% |
-| [15–22 October 2021](2021-10-22-electoPanel.html) | electoPanel <br> electomania.es | 25.8% | 24.5–27.1% | 24.1–27.5% | 23.8–27.9% | 23.2–28.5% |
-| [11–22 October 2021](2021-10-22-IMOP.html) | IMOP <br> El Confidencial | 25.8% | 24.3–27.4% | 23.9–27.8% | 23.5–28.2% | 22.8–29.0% |
-| [18–22 October 2021](2021-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 26.4% | 24.7–28.1% | 24.2–28.6% | 23.8–29.1% | 23.1–29.9% |
-| [19–21 October 2021](2021-10-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 25.5% | 24.3–26.8% | 23.9–27.2% | 23.6–27.5% | 23.0–28.2% |
-| [20 October 2021](2021-10-20-KeyData.html) | Key Data <br> Público | 25.9% | 23.0–29.2% | 22.2–30.1% | 21.5–30.9% | 20.1–32.5% |
-| [8–15 October 2021](2021-10-15-electoPanel.html) | electoPanel <br> electomania.es | 26.2% | 24.9–27.5% | 24.6–27.9% | 24.2–28.2% | 23.6–28.9% |
-| [30 September–15 October 2021](2021-10-15-SimpleLógica.html) | Simple Lógica | 23.8% | 21.8–26.0% | 21.2–26.6% | 20.7–27.1% | 19.8–28.2% |
-| [13–15 October 2021](2021-10-15-NCReport.html) | NC Report <br> La Razón | 25.4% | 23.3–27.8% | 22.7–28.4% | 22.2–29.0% | 21.2–30.1% |
-| [11–15 October 2021](2021-10-15-Invymark.html) | Invymark <br> laSexta | 25.7% | 24.0–27.5% | 23.5–28.1% | 23.1–28.5% | 22.3–29.4% |
-| [8–14 October 2021](2021-10-14-GAD3.html) | GAD3 <br> ABC | 26.2% | 24.4–28.0% | 24.0–28.5% | 23.5–29.0% | 22.7–29.9% |
-| [1–13 October 2021](2021-10-13-CIS.html) | CIS | 28.5% | 27.5–29.5% | 27.3–29.8% | 27.1–30.0% | 26.6–30.5% |
-| [11 October 2021](2021-10-11-SigmaDos.html) | Sigma Dos <br> Antena 3 | 25.1% | 23.4–26.9% | 22.9–27.4% | 22.5–27.9% | 21.7–28.8% |
-| [1–8 October 2021](2021-10-08-electoPanel.html) | electoPanel <br> electomania.es | 26.6% | 25.4–27.9% | 25.1–28.2% | 24.8–28.5% | 24.2–29.2% |
-| [27 September–8 October 2021](2021-10-08-IMOP.html) | IMOP <br> El Confidencial | 25.8% | 24.3–27.4% | 23.9–27.9% | 23.5–28.3% | 22.8–29.0% |
-| [4–7 October 2021](2021-10-07-SocioMétrica.html) | SocioMétrica <br> El Español | 25.0% | 23.4–26.7% | 23.0–27.1% | 22.6–27.5% | 21.9–28.3% |
-| [5–7 October 2021](2021-10-07-Data10.html) | Data10 <br> OKDiario | 24.9% | 23.2–26.7% | 22.7–27.2% | 22.3–27.7% | 21.5–28.6% |
-| [1–6 October 2021](2021-10-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 26.2% | 24.1–28.5% | 23.5–29.1% | 23.0–29.7% | 22.0–30.8% |
-| [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es | 26.7% | 25.1–28.4% | 24.7–28.9% | 24.3–29.3% | 23.5–30.1% |
-| [23–27 September 2021](2021-09-27-ÁgoraIntegral.html) | Ágora Integral | 26.2% | 24.0–28.5% | 23.4–29.2% | 22.9–29.8% | 21.8–30.9% |
-| [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es | 27.2% | 25.8–28.6% | 25.4–29.1% | 25.1–29.4% | 24.4–30.1% |
-| [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial | 26.1% | 24.6–27.7% | 24.1–28.1% | 23.8–28.5% | 23.0–29.3% |
-| [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público | 25.9% | 22.9–29.2% | 22.1–30.1% | 21.4–30.9% | 20.0–32.6% |
-| [16–21 September 2021](2021-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 26.1% | 24.4–27.8% | 24.0–28.3% | 23.6–28.8% | 22.8–29.6% |
-| [19–20 September 2021](2021-09-20-Data10.html) | Data10 <br> OKDiario | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
-| [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo | 26.0% | 24.3–27.8% | 23.8–28.4% | 23.4–28.8% | 22.6–29.7% |
-| [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón | 25.0% | 22.9–27.3% | 22.3–28.0% | 21.8–28.5% | 20.8–29.6% |
-| [10–17 September 2021](2021-09-17-electoPanel.html) | electoPanel <br> electomania.es | 26.0% | 24.5–27.7% | 24.0–28.2% | 23.7–28.6% | 22.9–29.4% |
-| [1–16 September 2021](2021-09-16-SimpleLógica.html) | Simple Lógica | 26.2% | 24.1–28.5% | 23.5–29.2% | 23.0–29.7% | 22.1–30.8% |
-| [13–16 September 2021](2021-09-16-GAD3.html) | GAD3 <br> NIUS | 26.3% | 24.6–28.2% | 24.1–28.7% | 23.7–29.2% | 22.9–30.1% |
-| [1–13 September 2021](2021-09-13-CIS.html) | CIS | 29.6% | 28.7–30.6% | 28.4–30.8% | 28.2–31.1% | 27.7–31.6% |
-| [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial | 26.6% | 25.1–28.2% | 24.6–28.7% | 24.2–29.1% | 23.5–29.8% |
-| [3–9 September 2021](2021-09-09-electoPanel.html) | electoPanel <br> electomania.es | 25.7% | 24.1–27.5% | 23.6–28.0% | 23.2–28.4% | 22.5–29.3% |
-| [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 25.3% | 24.0–26.7% | 23.6–27.1% | 23.3–27.5% | 22.6–28.2% |
-| [30 August–2 September 2021](2021-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 24.4% | 22.7–26.1% | 22.3–26.6% | 21.9–27.1% | 21.1–27.9% |
-| [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 24.5% | 22.8–26.3% | 22.3–26.8% | 21.9–27.3% | 21.1–28.2% |
-| [30 August 2021](2021-08-30-SigmaDos.html) | Sigma Dos <br> Antena 3 | 24.8% | 23.1–26.6% | 22.6–27.1% | 22.2–27.6% | 21.4–28.5% |
-| [30 August 2021](2021-08-30-KeyData.html) | Key Data <br> Público | 25.3% | 22.4–28.6% | 21.6–29.6% | 20.9–30.4% | 19.5–32.0% |
-| [24–27 August 2021](2021-08-27-NCReport.html) | NC Report <br> La Razón | 25.2% | 23.1–27.5% | 22.5–28.2% | 22.0–28.8% | 21.0–29.9% |
-| [20–26 August 2021](2021-08-26-electoPanel.html) | electoPanel <br> electomania.es | 25.0% | 23.6–26.6% | 23.2–27.0% | 22.8–27.4% | 22.2–28.1% |
-| [14–21 August 2021](2021-08-21-electoPanel.html) | electoPanel <br> electomania.es | 25.0% | 23.8–26.2% | 23.5–26.6% | 23.2–26.9% | 22.7–27.5% |
-| [16–20 August 2021](2021-08-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 25.7% | 23.6–27.9% | 23.1–28.5% | 22.6–29.0% | 21.6–30.1% |
-| [6–13 August 2021](2021-08-13-electoPanel.html) | electoPanel <br> electomania.es | 25.0% | 23.6–26.6% | 23.2–27.0% | 22.8–27.4% | 22.1–28.1% |
+| [20–30 October 2021](2021-10-30-SWDemoscopia.html) | SW Demoscopia | 25.3% | N/A | N/A | N/A | N/A |
+| [22–29 October 2021](2021-10-29-electoPanel.html) | electoPanel <br> electomania.es | 25.5% | N/A | N/A | N/A | N/A |
+| [20–24 October 2021](2021-10-24-DYM.html) | DYM <br> Henneo | 24.7% | N/A | N/A | N/A | N/A |
+| [15–22 October 2021](2021-10-22-electoPanel.html) | electoPanel <br> electomania.es | 25.8% | N/A | N/A | N/A | N/A |
+| [11–22 October 2021](2021-10-22-IMOP.html) | IMOP <br> El Confidencial | 25.8% | N/A | N/A | N/A | N/A |
+| [18–22 October 2021](2021-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 26.4% | N/A | N/A | N/A | N/A |
+| [19–21 October 2021](2021-10-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 25.5% | N/A | N/A | N/A | N/A |
+| [20 October 2021](2021-10-20-KeyData.html) | Key Data <br> Público | 25.9% | N/A | N/A | N/A | N/A |
+| [8–15 October 2021](2021-10-15-electoPanel.html) | electoPanel <br> electomania.es | 26.2% | N/A | N/A | N/A | N/A |
+| [30 September–15 October 2021](2021-10-15-SimpleLógica.html) | Simple Lógica | 23.8% | N/A | N/A | N/A | N/A |
+| [13–15 October 2021](2021-10-15-NCReport.html) | NC Report <br> La Razón | 25.4% | N/A | N/A | N/A | N/A |
+| [11–15 October 2021](2021-10-15-Invymark.html) | Invymark <br> laSexta | 25.7% | N/A | N/A | N/A | N/A |
+| [8–14 October 2021](2021-10-14-GAD3.html) | GAD3 <br> ABC | 26.2% | N/A | N/A | N/A | N/A |
+| [1–13 October 2021](2021-10-13-CIS.html) | CIS | 28.5% | N/A | N/A | N/A | N/A |
+| [11 October 2021](2021-10-11-SigmaDos.html) | Sigma Dos <br> Antena 3 | 25.1% | N/A | N/A | N/A | N/A |
+| [1–8 October 2021](2021-10-08-electoPanel.html) | electoPanel <br> electomania.es | 26.6% | N/A | N/A | N/A | N/A |
+| [27 September–8 October 2021](2021-10-08-IMOP.html) | IMOP <br> El Confidencial | 25.8% | N/A | N/A | N/A | N/A |
+| [4–7 October 2021](2021-10-07-SocioMétrica.html) | SocioMétrica <br> El Español | 25.0% | N/A | N/A | N/A | N/A |
+| [5–7 October 2021](2021-10-07-Data10.html) | Data10 <br> OKDiario | 24.9% | N/A | N/A | N/A | N/A |
+| [1–6 October 2021](2021-10-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 26.2% | N/A | N/A | N/A | N/A |
+| [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es | 26.7% | N/A | N/A | N/A | N/A |
+| [23–27 September 2021](2021-09-27-ÁgoraIntegral.html) | Ágora Integral | 26.2% | N/A | N/A | N/A | N/A |
+| [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es | 27.2% | N/A | N/A | N/A | N/A |
+| [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial | 26.1% | N/A | N/A | N/A | N/A |
+| [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público | 25.9% | N/A | N/A | N/A | N/A |
+| [16–21 September 2021](2021-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 26.1% | N/A | N/A | N/A | N/A |
+| [19–20 September 2021](2021-09-20-Data10.html) | Data10 <br> OKDiario | 25.0% | N/A | N/A | N/A | N/A |
+| [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo | 26.0% | N/A | N/A | N/A | N/A |
+| [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón | 25.0% | N/A | N/A | N/A | N/A |
+| [10–17 September 2021](2021-09-17-electoPanel.html) | electoPanel <br> electomania.es | 26.0% | N/A | N/A | N/A | N/A |
+| [1–16 September 2021](2021-09-16-SimpleLógica.html) | Simple Lógica | 26.2% | N/A | N/A | N/A | N/A |
+| [13–16 September 2021](2021-09-16-GAD3.html) | GAD3 <br> NIUS | 26.3% | N/A | N/A | N/A | N/A |
+| [1–13 September 2021](2021-09-13-CIS.html) | CIS | 29.6% | N/A | N/A | N/A | N/A |
+| [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial | 26.6% | N/A | N/A | N/A | N/A |
+| [3–9 September 2021](2021-09-09-electoPanel.html) | electoPanel <br> electomania.es | 25.7% | N/A | N/A | N/A | N/A |
+| [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 25.3% | N/A | N/A | N/A | N/A |
+| [30 August–2 September 2021](2021-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 24.4% | N/A | N/A | N/A | N/A |
+| [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 24.5% | N/A | N/A | N/A | N/A |
+| [30 August 2021](2021-08-30-SigmaDos.html) | Sigma Dos <br> Antena 3 | 24.8% | N/A | N/A | N/A | N/A |
+| [30 August 2021](2021-08-30-KeyData.html) | Key Data <br> Público | 25.3% | N/A | N/A | N/A | N/A |
+| [24–27 August 2021](2021-08-27-NCReport.html) | NC Report <br> La Razón | 25.2% | N/A | N/A | N/A | N/A |
+| [20–26 August 2021](2021-08-26-electoPanel.html) | electoPanel <br> electomania.es | 25.0% | N/A | N/A | N/A | N/A |
+| [14–21 August 2021](2021-08-21-electoPanel.html) | electoPanel <br> electomania.es | 25.0% | N/A | N/A | N/A | N/A |
+| [16–20 August 2021](2021-08-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 25.7% | N/A | N/A | N/A | N/A |
+| [6–13 August 2021](2021-08-13-electoPanel.html) | electoPanel <br> electomania.es | 25.0% | N/A | N/A | N/A | N/A |
 | [31 July–6 August 2021](2021-08-06-electoPanel.html) | electoPanel <br> electomania.es | 25.0% | 23.5–26.7% | 23.0–27.2% | 22.6–27.6% | 21.9–28.4% |
 | [4–6 August 2021](2021-08-06-Data10.html) | Data10 <br> OKDiario | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.5% | 21.3–28.4% |
-| [2–4 August 2021](2021-08-04-SimpleLógica.html) | Simple Lógica | 27.9% | 25.7–30.2% | 25.1–30.8% | 24.6–31.4% | 23.6–32.5% |
+| [2–4 August 2021](2021-08-04-SimpleLógica.html) | Simple Lógica | 27.9% | N/A | N/A | N/A | N/A |
 | [23–30 July 2021](2021-07-30-electoPanel.html) | electoPanel <br> electomania.es | 25.0% | 23.2–26.9% | 22.6–27.5% | 22.2–28.0% | 21.4–28.9% |
 | [26–29 July 2021](2021-07-29-SocioMétrica.html) | SocioMétrica <br> El Español | 24.7% | 23.1–26.3% | 22.7–26.8% | 22.3–27.2% | 21.6–28.0% |
 | [16–23 July 2021](2021-07-23-electoPanel.html) | electoPanel <br> electomania.es | 25.4% | 24.1–26.9% | 23.7–27.3% | 23.4–27.6% | 22.7–28.3% |
 | [20–23 July 2021](2021-07-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 25.6% | 24.0–27.4% | 23.5–27.9% | 23.1–28.3% | 22.4–29.2% |
-| [22 July 2021](2021-07-22-KeyData.html) | Key Data <br> Público | 25.2% | 22.2–28.4% | 21.4–29.4% | 20.7–30.2% | 19.4–31.8% |
+| [22 July 2021](2021-07-22-KeyData.html) | Key Data <br> Público | 25.2% | N/A | N/A | N/A | N/A |
 | [16–22 July 2021](2021-07-22-GAD3.html) | GAD3 <br> ABC | 25.1% | 23.2–27.2% | 22.7–27.8% | 22.2–28.3% | 21.4–29.2% |
 | [19 July 2021](2021-07-19-SigmaDos.html) | Sigma Dos <br> Antena 3 | 25.1% | 23.4–26.9% | 22.9–27.4% | 22.5–27.9% | 21.7–28.8% |
 | [15–19 July 2021](2021-07-19-DYM.html) | DYM <br> Henneo | 24.0% | 22.4–25.8% | 21.9–26.3% | 21.5–26.8% | 20.7–27.6% |
@@ -496,20 +496,18 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.2% | 100% |  |
-| 20.5–21.5% | 0.7% | 99.8% |  |
-| 21.5–22.5% | 2% | 99.1% |  |
-| 22.5–23.5% | 6% | 97% |  |
-| 23.5–24.5% | 13% | 91% |  |
-| 24.5–25.5% | 22% | 78% |  |
-| 25.5–26.5% | 24% | 56% | Median |
-| 26.5–27.5% | 17% | 32% |  |
-| 27.5–28.5% | 9% | 15% |  |
-| 28.5–29.5% | 5% | 6% |  |
-| 29.5–30.5% | 1.0% | 1.3% |  |
-| 30.5–31.5% | 0.2% | 0.3% |  |
-| 31.5–32.5% | 0.1% | 0.1% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0.2% | 100% |  |
+| 21.5–22.5% | 1.1% | 99.8% |  |
+| 22.5–23.5% | 4% | 98.6% |  |
+| 23.5–24.5% | 13% | 94% |  |
+| 24.5–25.5% | 24% | 81% |  |
+| 25.5–26.5% | 29% | 58% | Median |
+| 26.5–27.5% | 20% | 29% |  |
+| 27.5–28.5% | 7% | 9% |  |
+| 28.5–29.5% | 2% | 2% |  |
+| 29.5–30.5% | 0.3% | 0.3% |  |
+| 30.5–31.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -520,67 +518,67 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–18 | 14–18 | 13–18 | 13–19 |
+| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
 | [5–8 November 2021](2021-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–16 | 14–17 | 14–17 | 14–18 |
 | [2–6 November 2021](2021-11-06-NCReport.html) | NC Report <br> La Razón | 16 | 13–17 | 13–18 | 13–18 | 13–18 |
 | [25 October–6 November 2021](2021-11-06-IMOP.html) | IMOP <br> El Confidencial | 16 | 16–17 | 16–18 | 15–18 | 14–18 |
 | [1–5 November 2021](2021-11-05-Invymark.html) | Invymark <br> laSexta | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
-| [29 October–4 November 2021](2021-11-04-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 15–17 | 15–17 | 14–18 |
+| [29 October–4 November 2021](2021-11-04-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [21 October–4 November 2021](2021-11-04-Metroscopia.html) | Metroscopia | 16 | 15–17 | 15–17 | 15–17 | 15–18 |
-| [2–4 November 2021](2021-11-04-Data10.html) | Data10 <br> OKDiario | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
-| [20–30 October 2021](2021-10-30-SWDemoscopia.html) | SW Demoscopia | 16 | 14–17 | 14–17 | 14–17 | 14–18 |
-| [22–29 October 2021](2021-10-29-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
-| [20–24 October 2021](2021-10-24-DYM.html) | DYM <br> Henneo | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
-| [15–22 October 2021](2021-10-22-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
-| [11–22 October 2021](2021-10-22-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–17 | 15–17 | 15–17 | 15–18 |
-| [18–22 October 2021](2021-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 17 | 17–18 | 16–18 | 15–18 | 15–19 |
-| [19–21 October 2021](2021-10-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 16 | 15–17 | 15–17 | 15–17 | 14–17 |
-| [20 October 2021](2021-10-20-KeyData.html) | Key Data <br> Público | 16 | 14–18 | 13–18 | 13–19 | 12–20 |
-| [8–15 October 2021](2021-10-15-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 16–18 | 16–18 | 15–18 |
-| [30 September–15 October 2021](2021-10-15-SimpleLógica.html) | Simple Lógica | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
-| [13–15 October 2021](2021-10-15-NCReport.html) | NC Report <br> La Razón | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
-| [11–15 October 2021](2021-10-15-Invymark.html) | Invymark <br> laSexta | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
-| [8–14 October 2021](2021-10-14-GAD3.html) | GAD3 <br> ABC | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
-| [1–13 October 2021](2021-10-13-CIS.html) | CIS | 18 | 17–18 | 17–19 | 17–19 | 16–19 |
-| [11 October 2021](2021-10-11-SigmaDos.html) | Sigma Dos <br> Antena 3 | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
-| [1–8 October 2021](2021-10-08-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 16–18 | 15–18 |
-| [27 September–8 October 2021](2021-10-08-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–18 | 15–18 | 15–18 | 14–18 |
-| [4–7 October 2021](2021-10-07-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
-| [5–7 October 2021](2021-10-07-Data10.html) | Data10 <br> OKDiario | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
-| [1–6 October 2021](2021-10-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
-| [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
-| [23–27 September 2021](2021-09-27-ÁgoraIntegral.html) | Ágora Integral | 15 | 15–18 | 15–18 | 15–18 | 13–19 |
-| [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
-| [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial | 17 | 15–18 | 15–18 | 15–18 | 15–19 |
-| [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público | 16 | 14–18 | 13–19 | 12–19 | 12–20 |
-| [16–21 September 2021](2021-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 17 | 16–17 | 16–17 | 15–18 | 15–18 |
-| [19–20 September 2021](2021-09-20-Data10.html) | Data10 <br> OKDiario | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
-| [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
-| [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón | 15 | 14–17 | 14–17 | 14–18 | 13–18 |
-| [10–17 September 2021](2021-09-17-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16 | 15–17 | 15–17 | 15–18 |
-| [1–16 September 2021](2021-09-16-SimpleLógica.html) | Simple Lógica | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
-| [13–16 September 2021](2021-09-16-GAD3.html) | GAD3 <br> NIUS | 16 | 16–18 | 15–18 | 15–18 | 14–19 |
-| [1–13 September 2021](2021-09-13-CIS.html) | CIS | 19 | 18–19 | 18–20 | 18–20 | 17–20 |
-| [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
-| [3–9 September 2021](2021-09-09-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 14–18 | 14–18 | 14–18 |
-| [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
-| [30 August–2 September 2021](2021-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
-| [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
-| [30 August 2021](2021-08-30-SigmaDos.html) | Sigma Dos <br> Antena 3 | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
-| [30 August 2021](2021-08-30-KeyData.html) | Key Data <br> Público | 15 | 13–17 | 13–18 | 13–19 | 12–20 |
-| [24–27 August 2021](2021-08-27-NCReport.html) | NC Report <br> La Razón | 15 | 14–17 | 14–18 | 13–18 | 13–19 |
-| [20–26 August 2021](2021-08-26-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
-| [14–21 August 2021](2021-08-21-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–16 | 15–17 | 14–17 | 14–17 |
-| [16–20 August 2021](2021-08-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 16 | 15–17 | 14–18 | 14–19 | 13–19 |
-| [6–13 August 2021](2021-08-13-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [2–4 November 2021](2021-11-04-Data10.html) | Data10 <br> OKDiario | 14 | 14–17 | 14–17 | 14–17 | 14–18 |
+| [20–30 October 2021](2021-10-30-SWDemoscopia.html) | SW Demoscopia |  |  |  |  |  |
+| [22–29 October 2021](2021-10-29-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [20–24 October 2021](2021-10-24-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [15–22 October 2021](2021-10-22-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [11–22 October 2021](2021-10-22-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [18–22 October 2021](2021-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [19–21 October 2021](2021-10-21-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [20 October 2021](2021-10-20-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [8–15 October 2021](2021-10-15-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [30 September–15 October 2021](2021-10-15-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
+| [13–15 October 2021](2021-10-15-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [11–15 October 2021](2021-10-15-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [8–14 October 2021](2021-10-14-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [1–13 October 2021](2021-10-13-CIS.html) | CIS |  |  |  |  |  |
+| [11 October 2021](2021-10-11-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
+| [1–8 October 2021](2021-10-08-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [27 September–8 October 2021](2021-10-08-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [4–7 October 2021](2021-10-07-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [5–7 October 2021](2021-10-07-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [1–6 October 2021](2021-10-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli |  |  |  |  |  |
+| [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [23–27 September 2021](2021-09-27-ÁgoraIntegral.html) | Ágora Integral |  |  |  |  |  |
+| [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [16–21 September 2021](2021-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [19–20 September 2021](2021-09-20-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [16–19 September 2021](2021-09-19-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [14–18 September 2021](2021-09-18-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [10–17 September 2021](2021-09-17-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [1–16 September 2021](2021-09-16-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
+| [13–16 September 2021](2021-09-16-GAD3.html) | GAD3 <br> NIUS |  |  |  |  |  |
+| [1–13 September 2021](2021-09-13-CIS.html) | CIS |  |  |  |  |  |
+| [30 August–10 September 2021](2021-09-10-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [3–9 September 2021](2021-09-09-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [27 August–3 September 2021](2021-09-03-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [30 August–2 September 2021](2021-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [30 August–1 September 2021](2021-09-01-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [30 August 2021](2021-08-30-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
+| [30 August 2021](2021-08-30-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [24–27 August 2021](2021-08-27-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [20–26 August 2021](2021-08-26-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [14–21 August 2021](2021-08-21-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [16–20 August 2021](2021-08-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [6–13 August 2021](2021-08-13-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [31 July–6 August 2021](2021-08-06-electoPanel.html) | electoPanel <br> electomania.es | 16 | 14–17 | 13–17 | 13–18 | 13–18 |
 | [4–6 August 2021](2021-08-06-Data10.html) | Data10 <br> OKDiario | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
-| [2–4 August 2021](2021-08-04-SimpleLógica.html) | Simple Lógica | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
+| [2–4 August 2021](2021-08-04-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [23–30 July 2021](2021-07-30-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [26–29 July 2021](2021-07-29-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [16–23 July 2021](2021-07-23-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
 | [20–23 July 2021](2021-07-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 16 | 15–17 | 15–18 | 14–19 | 14–19 |
-| [22 July 2021](2021-07-22-KeyData.html) | Key Data <br> Público | 16 | 14–18 | 13–19 | 12–19 | 11–20 |
+| [22 July 2021](2021-07-22-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [16–22 July 2021](2021-07-22-GAD3.html) | GAD3 <br> ABC | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
 | [19 July 2021](2021-07-19-SigmaDos.html) | Sigma Dos <br> Antena 3 | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [15–19 July 2021](2021-07-19-DYM.html) | DYM <br> Henneo | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
@@ -1000,15 +998,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.3% | 100% |  |
-| 13 | 3% | 99.7% |  |
-| 14 | 10% | 97% |  |
-| 15 | 21% | 87% |  |
-| 16 | 37% | 66% | Median |
-| 17 | 18% | 29% |  |
-| 18 | 10% | 11% |  |
-| 19 | 0.7% | 0.8% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 12 | 0% | 100% |  |
+| 13 | 2% | 100% |  |
+| 14 | 14% | 98% |  |
+| 15 | 19% | 85% |  |
+| 16 | 41% | 66% | Median |
+| 17 | 22% | 25% |  |
+| 18 | 3% | 3% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 
