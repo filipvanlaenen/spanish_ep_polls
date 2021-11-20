@@ -492,12 +492,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| [5–8 November 2021](2021-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [2–6 November 2021](2021-11-06-NCReport.html) | NC Report <br> La Razón | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [25 October–6 November 2021](2021-11-06-IMOP.html) | IMOP <br> El Confidencial | 1 | 1 | 1 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| [5–8 November 2021](2021-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–6 November 2021](2021-11-06-NCReport.html) | NC Report <br> La Razón | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| [25 October–6 November 2021](2021-11-06-IMOP.html) | IMOP <br> El Confidencial | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [1–5 November 2021](2021-11-05-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [29 October–4 November 2021](2021-11-04-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1–2 | 1–2 |
+| [29 October–4 November 2021](2021-11-04-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1 | 1–2 |
 | [21 October–4 November 2021](2021-11-04-Metroscopia.html) | Metroscopia |  |  |  |  |  |
 | [2–4 November 2021](2021-11-04-Data10.html) | Data10 <br> OKDiario | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [20–30 October 2021](2021-10-30-SWDemoscopia.html) | SW Demoscopia |  |  |  |  |  |
@@ -960,9 +960,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% | Last Result |
-| 1 | 84% | 91% | Median |
-| 2 | 7% | 7% |  |
+| 0 | 6% | 100% | Last Result |
+| 1 | 90% | 94% | Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 

@@ -523,11 +523,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
-| [5–8 November 2021](2021-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 15–17 | 15–17 | 14–19 | 14–19 |
-| [2–6 November 2021](2021-11-06-NCReport.html) | NC Report <br> La Razón | 18 | 17–20 | 17–20 | 16–20 | 15–21 |
-| [25 October–6 November 2021](2021-11-06-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
+| [5–8 November 2021](2021-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–17 | 15–17 | 14–18 | 14–19 |
+| [2–6 November 2021](2021-11-06-NCReport.html) | NC Report <br> La Razón | 18 | 17–20 | 17–20 | 16–21 | 15–22 |
+| [25 October–6 November 2021](2021-11-06-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
 | [1–5 November 2021](2021-11-05-Invymark.html) | Invymark <br> laSexta | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
-| [29 October–4 November 2021](2021-11-04-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
+| [29 October–4 November 2021](2021-11-04-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17 | 17–18 | 16–18 | 16–19 |
 | [21 October–4 November 2021](2021-11-04-Metroscopia.html) | Metroscopia | 15 | 15–16 | 14–16 | 14–16 | 14–17 |
 | [2–4 November 2021](2021-11-04-Data10.html) | Data10 <br> OKDiario | 19 | 17–19 | 17–19 | 17–21 | 15–21 |
 | [20–30 October 2021](2021-10-30-SWDemoscopia.html) | SW Demoscopia |  |  |  |  |  |
@@ -1005,13 +1005,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 2% | 100% |  |
-| 15 | 11% | 98% |  |
-| 16 | 16% | 87% |  |
-| 17 | 39% | 71% | Median |
-| 18 | 18% | 33% |  |
-| 19 | 12% | 15% |  |
+| 15 | 12% | 98% |  |
+| 16 | 21% | 86% |  |
+| 17 | 34% | 66% | Median |
+| 18 | 15% | 32% |  |
+| 19 | 14% | 17% |  |
 | 20 | 2% | 3% |  |
-| 21 | 0.7% | 0.7% |  |
-| 22 | 0% | 0% |  |
+| 21 | 0.9% | 1.0% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
