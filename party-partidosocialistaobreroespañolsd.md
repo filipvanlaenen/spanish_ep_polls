@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.7% | 23.7–27.5% | 23.0–28.1% | 22.5–28.6% | 21.3–29.6% |
+| N/A | [Poll Average](average.html) | 25.8% | 23.7–27.6% | 23.0–28.2% | 22.5–28.7% | 21.3–29.7% |
 | [12–19 November 2021](2021-11-19-electoPanel.html) | electoPanel <br> electomania.es | 25.7% | 24.3–27.2% | 23.9–27.6% | 23.6–27.9% | 22.9–28.6% |
+| [15–19 November 2021](2021-11-19-Invymark.html) | Invymark <br> laSexta | 26.7% | 25.0–28.6% | 24.5–29.1% | 24.1–29.5% | 23.2–30.4% |
 | [11–16 November 2021](2021-11-16-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 26.1% | 24.1–28.3% | 23.5–29.0% | 23.0–29.5% | 22.0–30.6% |
 | [30 October–15 November 2021](2021-11-15-SimpleLógica.html) | Simple Lógica | 24.3% | 22.3–26.6% | 21.7–27.3% | 21.2–27.8% | 20.2–28.9% |
 | [4–11 November 2021](2021-11-11-electoPanel.html) | electoPanel <br> electomania.es | 25.8% | N/A | N/A | N/A | N/A |
@@ -508,13 +509,13 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0.6% | 99.9% |  |
 | 21.5–22.5% | 2% | 99.3% |  |
 | 22.5–23.5% | 6% | 97% |  |
-| 23.5–24.5% | 14% | 91% |  |
-| 24.5–25.5% | 23% | 77% |  |
-| 25.5–26.5% | 26% | 54% | Median |
-| 26.5–27.5% | 18% | 28% |  |
-| 27.5–28.5% | 7% | 10% |  |
+| 23.5–24.5% | 13% | 91% |  |
+| 24.5–25.5% | 22% | 78% |  |
+| 25.5–26.5% | 26% | 56% | Median |
+| 26.5–27.5% | 19% | 30% |  |
+| 27.5–28.5% | 8% | 11% |  |
 | 28.5–29.5% | 2% | 3% |  |
-| 29.5–30.5% | 0.4% | 0.5% |  |
+| 29.5–30.5% | 0.6% | 0.7% |  |
 | 30.5–31.5% | 0.1% | 0.1% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
@@ -529,6 +530,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [12–19 November 2021](2021-11-19-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16–17 | 15–17 | 15–18 | 15–18 |
+| [15–19 November 2021](2021-11-19-Invymark.html) | Invymark <br> laSexta | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
 | [11–16 November 2021](2021-11-16-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [30 October–15 November 2021](2021-11-15-SimpleLógica.html) | Simple Lógica | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [4–11 November 2021](2021-11-11-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
@@ -1017,12 +1019,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0.2% | 100% |  |
 | 13 | 2% | 99.8% |  |
-| 14 | 9% | 98% |  |
-| 15 | 23% | 89% |  |
-| 16 | 38% | 65% | Median |
-| 17 | 21% | 27% |  |
-| 18 | 6% | 6% |  |
-| 19 | 0.5% | 0.6% |  |
+| 14 | 8% | 98% |  |
+| 15 | 22% | 89% |  |
+| 16 | 38% | 67% | Median |
+| 17 | 22% | 29% |  |
+| 18 | 6% | 7% |  |
+| 19 | 0.6% | 0.6% |  |
 | 20 | 0% | 0% |  |
 
 
