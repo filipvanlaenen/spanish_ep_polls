@@ -508,9 +508,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–6 November 2021](2021-11-06-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | [25 October–6 November 2021](2021-11-06-IMOP.html) | IMOP <br> El Confidencial | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [1–5 November 2021](2021-11-05-Invymark.html) | Invymark <br> laSexta | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [29 October–4 November 2021](2021-11-04-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7 | 7–8 | 7–8 | 5–8 |
+| [29 October–4 November 2021](2021-11-04-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7 | 6–7 | 6–8 | 6–8 |
 | [21 October–4 November 2021](2021-11-04-Metroscopia.html) | Metroscopia | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [2–4 November 2021](2021-11-04-Data10.html) | Data10 <br> OKDiario | 7 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [2–4 November 2021](2021-11-04-Data10.html) | Data10 <br> OKDiario | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [20–30 October 2021](2021-10-30-SWDemoscopia.html) | SW Demoscopia |  |  |  |  |  |
 | [22–29 October 2021](2021-10-29-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [20–24 October 2021](2021-10-24-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
@@ -976,10 +976,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 3% | 100% |  |
-| 5 | 17% | 97% |  |
-| 6 | 23% | 80% |  |
-| 7 | 49% | 57% | Median |
-| 8 | 7% | 8% |  |
+| 5 | 16% | 97% |  |
+| 6 | 27% | 81% |  |
+| 7 | 46% | 54% | Median |
+| 8 | 7% | 7% |  |
 | 9 | 0.5% | 0.6% |  |
 | 10 | 0% | 0% |  |
 

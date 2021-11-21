@@ -502,7 +502,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–5 November 2021](2021-11-05-Invymark.html) | Invymark <br> laSexta | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [29 October–4 November 2021](2021-11-04-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [21 October–4 November 2021](2021-11-04-Metroscopia.html) | Metroscopia | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [2–4 November 2021](2021-11-04-Data10.html) | Data10 <br> OKDiario | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [2–4 November 2021](2021-11-04-Data10.html) | Data10 <br> OKDiario | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [20–30 October 2021](2021-10-30-SWDemoscopia.html) | SW Demoscopia |  |  |  |  |  |
 | [22–29 October 2021](2021-10-29-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [20–24 October 2021](2021-10-24-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
@@ -964,9 +964,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 43% | 100% |  |
-| 2 | 47% | 57% | Median |
-| 3 | 9% | 9% |  |
+| 1 | 42% | 100% |  |
+| 2 | 51% | 58% | Median |
+| 3 | 7% | 7% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
