@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.6–2.9% | 1.5–3.2% | 1.3–3.4% | 1.1–3.8% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.6–3.0% | 1.4–3.3% | 1.3–3.5% | 1.0–4.2% |
 | [12–19 November 2021](2021-11-19-electoPanel.html) | electoPanel <br> electomania.es | 2.4% | 2.0–3.0% | 1.9–3.2% | 1.8–3.3% | 1.6–3.6% |
 | [15–19 November 2021](2021-11-19-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [11–16 November 2021](2021-11-16-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2.2% | 1.6–3.0% | 1.4–3.3% | 1.3–3.5% | 1.1–4.0% |
@@ -34,7 +34,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [11–22 October 2021](2021-10-22-IMOP.html) | IMOP <br> El Confidencial | 1.9% | N/A | N/A | N/A | N/A |
 | [18–22 October 2021](2021-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2.2% | N/A | N/A | N/A | N/A |
 | [19–21 October 2021](2021-10-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.0% | N/A | N/A | N/A | N/A |
-| [20 October 2021](2021-10-20-KeyData.html) | Key Data <br> Público | 2.1% | N/A | N/A | N/A | N/A |
+| [20 October 2021](2021-10-20-KeyData.html) | Key Data <br> Público | 2.1% | 1.4–3.6% | 1.2–4.0% | 1.1–4.3% | 0.8–5.1% |
 | [8–15 October 2021](2021-10-15-electoPanel.html) | electoPanel <br> electomania.es | 2.2% | N/A | N/A | N/A | N/A |
 | [30 September–15 October 2021](2021-10-15-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [13–15 October 2021](2021-10-15-NCReport.html) | NC Report <br> La Razón | 2.2% | N/A | N/A | N/A | N/A |
@@ -486,11 +486,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 8% | 100% |  |
-| 1.5–2.5% | 65% | 92% | Median |
-| 2.5–3.5% | 25% | 27% |  |
-| 3.5–4.5% | 1.3% | 1.3% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 9% | 100% |  |
+| 1.5–2.5% | 63% | 91% | Median |
+| 2.5–3.5% | 26% | 28% |  |
+| 3.5–4.5% | 2% | 2% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -525,7 +526,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11–22 October 2021](2021-10-22-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [18–22 October 2021](2021-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
 | [19–21 October 2021](2021-10-21-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [20 October 2021](2021-10-20-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [20 October 2021](2021-10-20-KeyData.html) | Key Data <br> Público | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [8–15 October 2021](2021-10-15-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [30 September–15 October 2021](2021-10-15-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [13–15 October 2021](2021-10-15-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
@@ -978,9 +979,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 88% | 95% | Median |
-| 2 | 7% | 7% |  |
-| 3 | 0% | 0% |  |
+| 0 | 6% | 100% | Last Result |
+| 1 | 86% | 94% | Median |
+| 2 | 8% | 9% |  |
+| 3 | 0.2% | 0.2% |  |
+| 4 | 0% | 0% |  |
 
 
