@@ -48,7 +48,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–7 October 2021](2021-10-07-Data10.html) | Data10 <br> OKDiario | 2.3% | N/A | N/A | N/A | N/A |
 | [1–6 October 2021](2021-10-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2.3% | N/A | N/A | N/A | N/A |
 | [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es | 2.3% | N/A | N/A | N/A | N/A |
-| [23–27 September 2021](2021-09-27-ÁgoraIntegral.html) | Ágora Integral | 2.3% | N/A | N/A | N/A | N/A |
+| [23–27 September 2021](2021-09-27-ÁgoraIntegral.html) | Ágora Integral | 2.3% | 1.7–3.2% | 1.5–3.5% | 1.4–3.8% | 1.1–4.3% |
 | [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es | 2.3% | N/A | N/A | N/A | N/A |
 | [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial | 2.1% | N/A | N/A | N/A | N/A |
 | [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público | 2.2% | N/A | N/A | N/A | N/A |
@@ -540,7 +540,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–7 October 2021](2021-10-07-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [1–6 October 2021](2021-10-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli |  |  |  |  |  |
 | [24 September–1 October 2021](2021-10-01-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [23–27 September 2021](2021-09-27-ÁgoraIntegral.html) | Ágora Integral |  |  |  |  |  |
+| [23–27 September 2021](2021-09-27-ÁgoraIntegral.html) | Ágora Integral | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | [17–24 September 2021](2021-09-24-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [13–24 September 2021](2021-09-24-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [23 September 2021](2021-09-23-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
