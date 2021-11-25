@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.3% | 14.0–18.6% | 13.6–19.2% | 13.1–19.7% | 12.2–20.8% |
+| N/A | [Poll Average](average.html) | 16.3% | 14.1–18.6% | 13.6–19.2% | 13.1–19.7% | 12.2–20.8% |
 | [12–19 November 2021](2021-11-19-electoPanel.html) | electoPanel <br> electomania.es | 18.2% | 17.0–19.5% | 16.7–19.9% | 16.4–20.2% | 15.8–20.9% |
-| [15–19 November 2021](2021-11-19-Invymark.html) | Invymark <br> laSexta | 16.6% | 15.2–18.2% | 14.8–18.6% | 14.4–19.0% | 13.8–19.8% |
+| [15–19 November 2021](2021-11-19-InvyMark.html) | InvyMark <br> laSexta | 16.6% | 15.2–18.2% | 14.8–18.6% | 14.4–19.0% | 13.8–19.8% |
+| [8–19 November 2021](2021-11-19-IMOP.html) | IMOP <br> El Confidencial | 16.7% | 15.4–18.0% | 15.1–18.4% | 14.8–18.8% | 14.2–19.4% |
 | [11–16 November 2021](2021-11-16-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 15.4% | 13.7–17.2% | 13.3–17.8% | 12.9–18.2% | 12.1–19.2% |
 | [30 October–15 November 2021](2021-11-15-SimpleLógica.html) | Simple Lógica | 18.3% | 16.5–20.4% | 15.9–21.0% | 15.5–21.5% | 14.6–22.5% |
 | [4–11 November 2021](2021-11-11-electoPanel.html) | electoPanel <br> electomania.es | 17.9% | N/A | N/A | N/A | N/A |
@@ -497,13 +498,13 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 0.8% | 99.8% |  |
-| 12.5–13.5% | 4% | 99.0% |  |
-| 13.5–14.5% | 13% | 95% |  |
-| 14.5–15.5% | 18% | 82% |  |
-| 15.5–16.5% | 20% | 64% | Median |
-| 16.5–17.5% | 19% | 44% |  |
-| 17.5–18.5% | 15% | 26% |  |
+| 11.5–12.5% | 0.8% | 99.9% |  |
+| 12.5–13.5% | 4% | 99.1% |  |
+| 13.5–14.5% | 12% | 95% |  |
+| 14.5–15.5% | 17% | 83% |  |
+| 15.5–16.5% | 20% | 66% | Median |
+| 16.5–17.5% | 20% | 46% |  |
+| 17.5–18.5% | 16% | 26% |  |
 | 18.5–19.5% | 8% | 11% |  |
 | 19.5–20.5% | 2% | 3% |  |
 | 20.5–21.5% | 0.6% | 0.7% |  |
@@ -519,9 +520,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–12 | 8–12 | 7–13 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
 | [12–19 November 2021](2021-11-19-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11–12 | 11–12 | 11–12 | 10–13 |
-| [15–19 November 2021](2021-11-19-Invymark.html) | Invymark <br> laSexta | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
+| [15–19 November 2021](2021-11-19-InvyMark.html) | InvyMark <br> laSexta | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
+| [8–19 November 2021](2021-11-19-IMOP.html) | IMOP <br> El Confidencial | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
 | [11–16 November 2021](2021-11-16-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 9 | 9–10 | 8–10 | 8–11 | 7–11 |
 | [30 October–15 November 2021](2021-11-15-SimpleLógica.html) | Simple Lógica | 11 | 10–12 | 9–13 | 9–13 | 9–13 |
 | [4–11 November 2021](2021-11-11-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
@@ -1003,13 +1005,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 1.5% | 100% |  |
-| 8 | 9% | 98.5% |  |
-| 9 | 26% | 90% |  |
-| 10 | 30% | 64% | Median |
-| 11 | 26% | 34% |  |
+| 7 | 1.4% | 100% |  |
+| 8 | 8% | 98.6% |  |
+| 9 | 25% | 90% |  |
+| 10 | 30% | 65% | Median |
+| 11 | 27% | 35% |  |
 | 12 | 7% | 8% |  |
-| 13 | 0.6% | 0.6% |  |
+| 13 | 0.5% | 0.6% |  |
 | 14 | 0% | 0% |  |
 
 
