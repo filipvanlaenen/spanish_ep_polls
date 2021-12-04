@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.5–2.9% | 1.4–3.1% | 1.3–3.3% | 1.1–3.8% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.5–2.9% | 1.4–3.2% | 1.3–3.4% | 1.1–3.9% |
 | [23–24 November 2021](2021-11-24-SWDemoscopia.html) | SW Demoscopia <br> Publicaciones Sur | 0.0% | N/A | N/A | N/A | N/A |
-| [22 November 2021](2021-11-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 2.0% | N/A | N/A | N/A | N/A |
-| [22 November 2021](2021-11-22-KeyData.html) | Key Data <br> Público | 2.2% | N/A | N/A | N/A | N/A |
+| [22 November 2021](2021-11-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [22 November 2021](2021-11-22-KeyData.html) | Key Data <br> Público | 2.2% | 1.6–3.3% | 1.4–3.6% | 1.2–3.9% | 1.0–4.5% |
 | [17–21 November 2021](2021-11-21-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [12–19 November 2021](2021-11-19-electoPanel.html) | electoPanel <br> electomania.es | 2.4% | 2.0–3.0% | 1.9–3.2% | 1.8–3.3% | 1.6–3.6% |
 | [15–19 November 2021](2021-11-19-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
@@ -500,11 +500,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 13% | 100% |  |
-| 1.5–2.5% | 62% | 87% | Median |
-| 2.5–3.5% | 24% | 25% |  |
-| 3.5–4.5% | 1.2% | 1.2% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 12% | 100% |  |
+| 1.5–2.5% | 62% | 88% | Median |
+| 2.5–3.5% | 24% | 26% |  |
+| 3.5–4.5% | 1.5% | 2% |  |
+| 4.5–5.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -517,8 +518,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | [23–24 November 2021](2021-11-24-SWDemoscopia.html) | SW Demoscopia <br> Publicaciones Sur |  |  |  |  |  |
-| [22 November 2021](2021-11-22-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
-| [22 November 2021](2021-11-22-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [22 November 2021](2021-11-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [22 November 2021](2021-11-22-KeyData.html) | Key Data <br> Público | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [17–21 November 2021](2021-11-21-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [12–19 November 2021](2021-11-19-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–19 November 2021](2021-11-19-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
@@ -1006,8 +1007,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 86% | 92% | Median |
+| 0 | 9% | 100% | Last Result |
+| 1 | 85% | 91% | Median |
 | 2 | 7% | 7% |  |
 | 3 | 0% | 0% |  |
 

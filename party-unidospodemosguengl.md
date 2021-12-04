@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.2% | 9.4–13.4% | 8.9–13.9% | 8.5–14.3% | 7.8–15.1% |
+| N/A | [Poll Average](average.html) | 11.3% | 9.5–13.4% | 9.0–13.9% | 8.6–14.3% | 7.8–15.1% |
 | [23–24 November 2021](2021-11-24-SWDemoscopia.html) | SW Demoscopia <br> Publicaciones Sur | 12.6% | 11.0–14.5% | 10.6–15.0% | 10.2–15.5% | 9.5–16.4% |
-| [22 November 2021](2021-11-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 11.0% | N/A | N/A | N/A | N/A |
-| [22 November 2021](2021-11-22-KeyData.html) | Key Data <br> Público | 11.2% | N/A | N/A | N/A | N/A |
-| [17–21 November 2021](2021-11-21-DYM.html) | DYM <br> Henneo | 12.2% | N/A | N/A | N/A | N/A |
+| [22 November 2021](2021-11-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
+| [22 November 2021](2021-11-22-KeyData.html) | Key Data <br> Público | 11.2% | 9.6–13.2% | 9.1–13.8% | 8.7–14.3% | 8.0–15.3% |
+| [17–21 November 2021](2021-11-21-DYM.html) | DYM <br> Henneo | 12.2% | 11.0–13.7% | 10.7–14.1% | 10.4–14.4% | 9.8–15.1% |
 | [12–19 November 2021](2021-11-19-electoPanel.html) | electoPanel <br> electomania.es | 11.5% | 10.5–12.6% | 10.3–12.9% | 10.0–13.2% | 9.6–13.7% |
 | [15–19 November 2021](2021-11-19-InvyMark.html) | InvyMark <br> laSexta | 9.4% | 8.3–10.7% | 8.0–11.1% | 7.7–11.4% | 7.2–12.0% |
 | [8–19 November 2021](2021-11-19-IMOP.html) | IMOP <br> El Confidencial | 11.0% | 10.0–12.2% | 9.7–12.5% | 9.4–12.8% | 9.0–13.4% |
@@ -506,15 +506,15 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.3% | 100% |  |
-| 7.5–8.5% | 3% | 99.7% |  |
-| 8.5–9.5% | 10% | 97% |  |
-| 9.5–10.5% | 20% | 87% |  |
-| 10.5–11.5% | 27% | 67% | Median |
-| 11.5–12.5% | 19% | 40% |  |
-| 12.5–13.5% | 13% | 21% |  |
-| 13.5–14.5% | 7% | 9% |  |
-| 14.5–15.5% | 1.3% | 2% |  |
+| 6.5–7.5% | 0.2% | 100% |  |
+| 7.5–8.5% | 2% | 99.8% |  |
+| 8.5–9.5% | 9% | 98% |  |
+| 9.5–10.5% | 19% | 89% |  |
+| 10.5–11.5% | 27% | 69% | Median |
+| 11.5–12.5% | 21% | 42% |  |
+| 12.5–13.5% | 13% | 22% |  |
+| 13.5–14.5% | 7% | 8% |  |
+| 14.5–15.5% | 1.2% | 1.4% |  |
 | 15.5–16.5% | 0.2% | 0.2% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -529,9 +529,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 5–9 | 5–9 | 4–9 |
 | [23–24 November 2021](2021-11-24-SWDemoscopia.html) | SW Demoscopia <br> Publicaciones Sur | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
-| [22 November 2021](2021-11-22-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
-| [22 November 2021](2021-11-22-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
-| [17–21 November 2021](2021-11-21-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [22 November 2021](2021-11-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
+| [22 November 2021](2021-11-22-KeyData.html) | Key Data <br> Público | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
+| [17–21 November 2021](2021-11-21-DYM.html) | DYM <br> Henneo | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [12–19 November 2021](2021-11-19-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7 | 7–8 | 6–8 | 6–9 |
 | [15–19 November 2021](2021-11-19-InvyMark.html) | InvyMark <br> laSexta | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [8–19 November 2021](2021-11-19-IMOP.html) | IMOP <br> El Confidencial | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
@@ -1022,12 +1022,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.7% | 100% |  |
-| 5 | 9% | 99.3% |  |
-| 6 | 38% | 90% |  |
-| 7 | 35% | 53% | Median |
-| 8 | 11% | 17% |  |
-| 9 | 7% | 7% |  |
+| 4 | 0.5% | 100% |  |
+| 5 | 8% | 99.4% |  |
+| 6 | 36% | 91% |  |
+| 7 | 37% | 55% | Median |
+| 8 | 12% | 18% |  |
+| 9 | 6% | 6% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
