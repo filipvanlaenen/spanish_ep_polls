@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.9% | 23.8–27.9% | 23.1–28.5% | 22.5–29.0% | 21.4–30.0% |
+| N/A | [Poll Average](average.html) | 26.0% | 23.8–28.0% | 23.1–28.5% | 22.5–29.0% | 21.4–30.0% |
+| [26 November–3 December 2021](2021-12-03-electoPanel.html) | electoPanel <br> electomania.es | 25.8% | 24.2–27.5% | 23.7–28.0% | 23.3–28.4% | 22.6–29.3% |
+| [30 November–1 December 2021](2021-12-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 26.4% | 25.0–27.8% | 24.6–28.2% | 24.3–28.6% | 23.7–29.3% |
+| [19–26 November 2021](2021-11-26-electoPanel.html) | electoPanel <br> electomania.es | 26.0% | 23.6–28.6% | 22.9–29.4% | 22.3–30.0% | 21.2–31.3% |
 | [23–24 November 2021](2021-11-24-SWDemoscopia.html) | SW Demoscopia <br> Publicaciones Sur | 25.9% | 23.7–28.3% | 23.1–28.9% | 22.6–29.5% | 21.6–30.7% |
 | [22 November 2021](2021-11-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 25.8% | 24.1–27.6% | 23.6–28.2% | 23.2–28.6% | 22.4–29.5% |
 | [22 November 2021](2021-11-22-KeyData.html) | Key Data <br> Público | 25.6% | 23.2–28.2% | 22.5–29.0% | 22.0–29.6% | 20.9–30.9% |
@@ -522,12 +525,12 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0.1% | 100% |  |
 | 20.5–21.5% | 0.5% | 99.9% |  |
 | 21.5–22.5% | 2% | 99.4% |  |
-| 22.5–23.5% | 6% | 97% |  |
-| 23.5–24.5% | 13% | 92% |  |
-| 24.5–25.5% | 20% | 79% |  |
-| 25.5–26.5% | 24% | 59% | Median |
-| 26.5–27.5% | 20% | 36% |  |
-| 27.5–28.5% | 11% | 16% |  |
+| 22.5–23.5% | 5% | 97% |  |
+| 23.5–24.5% | 12% | 92% |  |
+| 24.5–25.5% | 19% | 80% |  |
+| 25.5–26.5% | 24% | 61% | Median |
+| 26.5–27.5% | 21% | 37% |  |
+| 27.5–28.5% | 12% | 16% |  |
 | 28.5–29.5% | 4% | 5% |  |
 | 29.5–30.5% | 0.8% | 1.0% |  |
 | 30.5–31.5% | 0.2% | 0.2% |  |
@@ -543,6 +546,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
+| [26 November–3 December 2021](2021-12-03-electoPanel.html) | electoPanel <br> electomania.es | 17 | 15–17 | 15–17 | 15–18 | 14–18 |
+| [30 November–1 December 2021](2021-12-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
+| [19–26 November 2021](2021-11-26-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 14–18 | 14–19 | 13–20 |
 | [23–24 November 2021](2021-11-24-SWDemoscopia.html) | SW Demoscopia <br> Publicaciones Sur | 16 | 14–17 | 14–17 | 13–18 | 13–19 |
 | [22 November 2021](2021-11-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [22 November 2021](2021-11-22-KeyData.html) | Key Data <br> Público | 16 | 14–17 | 14–18 | 13–19 | 13–20 |
@@ -1049,8 +1055,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 2% | 99.8% |  |
 | 14 | 8% | 98% |  |
 | 15 | 23% | 90% |  |
-| 16 | 34% | 67% | Median |
-| 17 | 25% | 33% |  |
+| 16 | 30% | 67% | Median |
+| 17 | 29% | 37% |  |
 | 18 | 7% | 8% |  |
 | 19 | 0.9% | 0.9% |  |
 | 20 | 0.1% | 0.1% |  |
