@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.1% | 2.0–4.9% | 1.6–5.6% | 1.3–5.9% | 0.9–6.3% |
 | [26 November–3 December 2021](2021-12-03-electoPanel.html) | electoPanel <br> electomania.es | 3.3% | 2.7–4.1% | 2.5–4.3% | 2.4–4.5% | 2.1–4.9% |
+| [22 November–3 December 2021](2021-12-03-IMOP.html) | IMOP <br> El Confidencial | 2.3% | 1.8–2.9% | 1.7–3.1% | 1.6–3.2% | 1.4–3.6% |
 | [30 November–1 December 2021](2021-12-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.5% | 3.0–4.1% | 2.8–4.3% | 2.7–4.5% | 2.5–4.8% |
 | [19–26 November 2021](2021-11-26-electoPanel.html) | electoPanel <br> electomania.es | 3.2% | 2.4–4.5% | 2.2–4.8% | 2.0–5.1% | 1.6–5.8% |
 | [23–24 November 2021](2021-11-24-SWDemoscopia.html) | SW Demoscopia <br> Publicaciones Sur | 3.0% | 2.2–4.0% | 2.0–4.3% | 1.9–4.6% | 1.6–5.2% |
@@ -504,8 +505,8 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 23% | 95% |  |
-| 2.5–3.5% | 40% | 73% | Median |
+| 1.5–2.5% | 22% | 95% |  |
+| 2.5–3.5% | 41% | 73% | Median |
 | 3.5–4.5% | 20% | 32% |  |
 | 4.5–5.5% | 7% | 13% |  |
 | 5.5–6.5% | 5% | 5% |  |
@@ -523,6 +524,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–3 | 0–3 | 0–3 | 0–4 |
 | [26 November–3 December 2021](2021-12-03-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [22 November–3 December 2021](2021-12-03-IMOP.html) | IMOP <br> El Confidencial | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [30 November–1 December 2021](2021-12-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [19–26 November 2021](2021-11-26-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [23–24 November 2021](2021-11-24-SWDemoscopia.html) | SW Demoscopia <br> Publicaciones Sur | 1 | 1–2 | 1–2 | 1–2 | 0–3 |

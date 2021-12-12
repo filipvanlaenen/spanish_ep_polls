@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.5–4.2% | 2.4–4.5% | 2.2–4.8% | 2.0–5.5% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.5–4.2% | 2.3–4.5% | 2.2–4.8% | 2.0–5.5% |
 | [26 November–3 December 2021](2021-12-03-electoPanel.html) | electoPanel <br> electomania.es | 3.4% | 2.8–4.2% | 2.6–4.4% | 2.5–4.6% | 2.2–5.0% |
+| [22 November–3 December 2021](2021-12-03-IMOP.html) | IMOP <br> El Confidencial | 2.9% | 2.4–3.6% | 2.2–3.8% | 2.1–3.9% | 1.9–4.3% |
 | [30 November–1 December 2021](2021-12-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.3% |
 | [19–26 November 2021](2021-11-26-electoPanel.html) | electoPanel <br> electomania.es | 3.4% | 2.6–4.7% | 2.3–5.1% | 2.1–5.4% | 1.8–6.1% |
 | [23–24 November 2021](2021-11-24-SWDemoscopia.html) | SW Demoscopia <br> Publicaciones Sur | 0.0% | N/A | N/A | N/A | N/A |
@@ -504,9 +505,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 11% | 100% |  |
-| 2.5–3.5% | 58% | 89% | Median |
-| 3.5–4.5% | 27% | 31% |  |
+| 1.5–2.5% | 12% | 100% |  |
+| 2.5–3.5% | 57% | 88% | Median |
+| 3.5–4.5% | 26% | 31% |  |
 | 4.5–5.5% | 4% | 4% |  |
 | 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -522,6 +523,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [26 November–3 December 2021](2021-12-03-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [22 November–3 December 2021](2021-12-03-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 November–1 December 2021](2021-12-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–26 November 2021](2021-11-26-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [23–24 November 2021](2021-11-24-SWDemoscopia.html) | SW Demoscopia <br> Publicaciones Sur |  |  |  |  |  |
@@ -1015,8 +1017,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 45% | 100% |  |
-| 2 | 50% | 55% | Median |
+| 1 | 49% | 100% |  |
+| 2 | 46% | 51% | Median |
 | 3 | 5% | 5% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
