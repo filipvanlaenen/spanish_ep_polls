@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.2% | 9.4–13.4% | 8.9–13.9% | 8.5–14.3% | 7.8–15.1% |
+| N/A | [Poll Average](average.html) | 10.9% | 9.3–12.9% | 8.8–13.5% | 8.5–14.0% | 7.8–15.1% |
+| [10–16 December 2021](2021-12-16-electoPanel.html) | electoPanel <br> electomania.es | 11.1% | 10.1–12.3% | 9.8–12.7% | 9.5–12.9% | 9.0–13.5% |
+| [1–13 December 2021](2021-12-13-SimpleLógica.html) | Simple Lógica | 10.6% | 9.2–12.3% | 8.8–12.7% | 8.5–13.1% | 7.9–14.0% |
+| [8–11 December 2021](2021-12-11-NCReport.html) | NC Report <br> La Razón | 10.0% | 8.6–11.7% | 8.2–12.2% | 7.8–12.6% | 7.2–13.4% |
+| [3–10 December 2021](2021-12-10-electoPanel.html) | electoPanel <br> electomania.es | 10.8% | N/A | N/A | N/A | N/A |
+| [2–9 December 2021](2021-12-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 10.2% | 9.1–11.5% | 8.7–11.9% | 8.5–12.2% | 8.0–12.9% |
+| [7–9 December 2021](2021-12-09-Data10.html) | Data10 <br> OKDiario | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.7% | 8.3–13.3% |
+| [1–5 December 2021](2021-12-05-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 11.8% | 10.6–13.3% | 10.2–13.7% | 9.9–14.1% | 9.3–14.8% |
 | [26 November–3 December 2021](2021-12-03-electoPanel.html) | electoPanel <br> electomania.es | 11.1% | 10.0–12.4% | 9.7–12.8% | 9.4–13.1% | 8.9–13.7% |
 | [22 November–3 December 2021](2021-12-03-IMOP.html) | IMOP <br> El Confidencial | 11.6% | 10.6–12.8% | 10.3–13.2% | 10.0–13.5% | 9.5–14.1% |
 | [30 November–1 December 2021](2021-12-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 10.1% | 9.2–11.1% | 8.9–11.4% | 8.7–11.7% | 8.3–12.2% |
@@ -511,14 +518,14 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.2% | 100% |  |
-| 7.5–8.5% | 2% | 99.8% |  |
-| 8.5–9.5% | 10% | 97% |  |
-| 9.5–10.5% | 21% | 88% |  |
-| 10.5–11.5% | 26% | 67% | Median |
-| 11.5–12.5% | 20% | 41% |  |
-| 12.5–13.5% | 13% | 22% |  |
-| 13.5–14.5% | 7% | 8% |  |
-| 14.5–15.5% | 1.2% | 1.4% |  |
+| 7.5–8.5% | 3% | 99.8% |  |
+| 8.5–9.5% | 12% | 97% |  |
+| 9.5–10.5% | 24% | 85% |  |
+| 10.5–11.5% | 27% | 61% | Median |
+| 11.5–12.5% | 20% | 34% |  |
+| 12.5–13.5% | 10% | 14% |  |
+| 13.5–14.5% | 3% | 4% |  |
+| 14.5–15.5% | 0.9% | 1.1% |  |
 | 15.5–16.5% | 0.2% | 0.2% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -531,7 +538,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–9 | 5–9 | 4–9 |
+| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
+| [10–16 December 2021](2021-12-16-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
+| [1–13 December 2021](2021-12-13-SimpleLógica.html) | Simple Lógica | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| [8–11 December 2021](2021-12-11-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
+| [3–10 December 2021](2021-12-10-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [2–9 December 2021](2021-12-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [7–9 December 2021](2021-12-09-Data10.html) | Data10 <br> OKDiario | 7 | 6–7 | 5–7 | 5–8 | 5–8 |
+| [1–5 December 2021](2021-12-05-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [26 November–3 December 2021](2021-12-03-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [22 November–3 December 2021](2021-12-03-IMOP.html) | IMOP <br> El Confidencial | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [30 November–1 December 2021](2021-12-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -1030,12 +1044,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.6% | 100% |  |
-| 5 | 9% | 99.4% |  |
-| 6 | 35% | 90% |  |
-| 7 | 35% | 55% | Median |
-| 8 | 14% | 20% |  |
-| 9 | 6% | 6% |  |
+| 4 | 0.8% | 100% |  |
+| 5 | 13% | 99.2% |  |
+| 6 | 39% | 87% | Median |
+| 7 | 33% | 48% |  |
+| 8 | 13% | 14% |  |
+| 9 | 1.2% | 1.3% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
