@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.2–2.3% | 1.1–2.6% | 1.0–2.8% | 0.8–3.2% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.2–2.3% | 1.1–2.5% | 1.0–2.8% | 0.8–3.2% |
+| [15–19 December 2021](2021-12-19-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [13–17 December 2021](2021-12-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1.5% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% | 0.8–2.8% |
 | [10–16 December 2021](2021-12-16-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.2–2.1% | 1.1–2.2% | 1.0–2.4% | 0.8–2.7% |
+| [13–16 December 2021](2021-12-16-GAD3.html) | GAD3 <br> ABC | 1.6% | 1.1–2.4% | 1.0–2.7% | 0.9–2.9% | 0.7–3.3% |
 | [1–13 December 2021](2021-12-13-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [8–11 December 2021](2021-12-11-NCReport.html) | NC Report <br> La Razón | 1.8% | 1.2–2.7% | 1.1–2.9% | 1.0–3.1% | 0.8–3.6% |
 | [3–10 December 2021](2021-12-10-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | N/A | N/A | N/A | N/A |
@@ -527,7 +530,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [15–19 December 2021](2021-12-19-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [13–17 December 2021](2021-12-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–16 December 2021](2021-12-16-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [13–16 December 2021](2021-12-16-GAD3.html) | GAD3 <br> ABC | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–13 December 2021](2021-12-13-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [8–11 December 2021](2021-12-11-NCReport.html) | NC Report <br> La Razón | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [3–10 December 2021](2021-12-10-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
@@ -1028,9 +1034,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% | Last Result |
-| 1 | 56% | 57% | Median |
-| 2 | 0.8% | 0.8% |  |
+| 0 | 36% | 100% | Last Result |
+| 1 | 63% | 64% | Median |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 
