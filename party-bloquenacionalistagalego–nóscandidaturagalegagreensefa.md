@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.3% | 0.4–1.4% | 0.3–1.6% | 0.2–1.8% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.3% | 0.4–1.4% | 0.3–1.6% | 0.2–1.9% |
+| [26 December 2021](2021-12-26-SigmaDos.html) | Sigma Dos <br> Antena 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [17–23 December 2021](2021-12-23-electoPanel.html) | electoPanel <br> electomania.es | 0.9% | 0.7–1.4% | 0.6–1.5% | 0.5–1.6% | 0.4–1.9% |
+| [22 December 2021](2021-12-22-KeyData.html) | Key Data <br> Público | 0.0% | N/A | N/A | N/A | N/A |
 | [15–19 December 2021](2021-12-19-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [6–17 December 2021](2021-12-17-IMOP.html) | IMOP <br> El Confidencial | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–2.0% |
 | [13–17 December 2021](2021-12-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% | 0.3–1.7% |
@@ -529,6 +532,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [26 December 2021](2021-12-26-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
+| [17–23 December 2021](2021-12-23-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0–1 | 0–1 |
+| [22 December 2021](2021-12-22-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [15–19 December 2021](2021-12-19-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [6–17 December 2021](2021-12-17-IMOP.html) | IMOP <br> El Confidencial | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–17 December 2021](2021-12-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0 | 0 | 0 | 0–1 |

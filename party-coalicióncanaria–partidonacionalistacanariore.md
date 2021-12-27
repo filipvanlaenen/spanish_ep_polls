@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.0% | 0.3–1.2% | 0.2–1.3% | 0.1–1.7% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.0% | 0.3–1.2% | 0.2–1.4% | 0.1–2.0% |
+| [26 December 2021](2021-12-26-SigmaDos.html) | Sigma Dos <br> Antena 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [17–23 December 2021](2021-12-23-electoPanel.html) | electoPanel <br> electomania.es | 0.6% | 0.4–1.0% | 0.4–1.1% | 0.3–1.2% | 0.2–1.4% |
+| [22 December 2021](2021-12-22-KeyData.html) | Key Data <br> Público | 0.6% | 0.3–1.6% | 0.2–1.9% | 0.2–2.1% | 0.1–2.7% |
 | [15–19 December 2021](2021-12-19-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [6–17 December 2021](2021-12-17-IMOP.html) | IMOP <br> El Confidencial | 0.5% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% | 0.2–1.2% |
 | [13–17 December 2021](2021-12-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.6% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.2–1.6% |
@@ -516,8 +519,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 43% | 100% | Last Result |
 | 0.5–1.5% | 56% | 57% | Median |
-| 1.5–2.5% | 0.9% | 1.0% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 1.5–2.5% | 2% | 2% |  |
+| 2.5–3.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -529,6 +533,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [26 December 2021](2021-12-26-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
+| [17–23 December 2021](2021-12-23-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
+| [22 December 2021](2021-12-22-KeyData.html) | Key Data <br> Público | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [15–19 December 2021](2021-12-19-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [6–17 December 2021](2021-12-17-IMOP.html) | IMOP <br> El Confidencial | 0 | 0 | 0 | 0 | 0 |
 | [13–17 December 2021](2021-12-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0 | 0 | 0 | 0–1 |
@@ -1034,8 +1041,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.1% | 100% | Last Result, Median |
-| 1 | 0.9% | 0.9% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 1.5% | 2% |  |
 | 2 | 0% | 0% |  |
 
 
