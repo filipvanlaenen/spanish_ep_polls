@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.4–4.6% | 2.1–5.1% | 1.9–5.4% | 1.6–6.1% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.4–4.6% | 2.1–4.9% | 2.0–5.3% | 1.6–6.0% |
 | [31 December 2021–6 January 2022](2022-01-06-electoPanel.html) | electoPanel <br> electomania.es | 3.2% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% | 2.3–4.4% |
-| [3–5 January 2022](2022-01-05-Data10.html) | Data10 <br> OKDiario | 2.7% | N/A | N/A | N/A | N/A |
-| [24–30 December 2021](2021-12-30-electoPanel.html) | electoPanel <br> electomania.es | 3.2% | N/A | N/A | N/A | N/A |
-| [20–30 December 2021](2021-12-30-SocioMétrica.html) | SocioMétrica <br> El Español | 4.3% | N/A | N/A | N/A | N/A |
-| [20–30 December 2021](2021-12-30-IMOP.html) | IMOP <br> El Confidencial | 2.8% | N/A | N/A | N/A | N/A |
+| [3–5 January 2022](2022-01-05-Data10.html) | Data10 <br> OKDiario | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
+| [24–30 December 2021](2021-12-30-electoPanel.html) | electoPanel <br> electomania.es | 3.2% | 2.6–4.0% | 2.5–4.2% | 2.3–4.4% | 2.1–4.8% |
+| [20–30 December 2021](2021-12-30-SocioMétrica.html) | SocioMétrica <br> El Español | 4.3% | 3.9–4.8% | 3.7–5.0% | 3.6–5.1% | 3.4–5.3% |
+| [20–30 December 2021](2021-12-30-IMOP.html) | IMOP <br> El Confidencial | 2.8% | 2.3–3.5% | 2.2–3.7% | 2.0–3.9% | 1.8–4.2% |
 | [23–30 December 2021](2021-12-30-40dB.html) | 40dB <br> Prisa | 3.6% | N/A | N/A | N/A | N/A |
 | [26 December 2021](2021-12-26-SigmaDos.html) | Sigma Dos <br> Antena 3 | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [20–24 December 2021](2021-12-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.1% | N/A | N/A | N/A | N/A |
@@ -525,12 +525,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.5% | 100% |  |
-| 1.5–2.5% | 14% | 99.5% |  |
-| 2.5–3.5% | 49% | 85% | Median |
-| 3.5–4.5% | 26% | 37% |  |
-| 4.5–5.5% | 9% | 11% |  |
-| 5.5–6.5% | 2% | 2% |  |
+| 0.5–1.5% | 0.4% | 100% |  |
+| 1.5–2.5% | 15% | 99.6% |  |
+| 2.5–3.5% | 47% | 84% | Median |
+| 3.5–4.5% | 27% | 37% |  |
+| 4.5–5.5% | 9% | 10% |  |
+| 5.5–6.5% | 1.4% | 1.5% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -543,12 +543,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [31 December 2021–6 January 2022](2022-01-06-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [3–5 January 2022](2022-01-05-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [24–30 December 2021](2021-12-30-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [20–30 December 2021](2021-12-30-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [20–30 December 2021](2021-12-30-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [3–5 January 2022](2022-01-05-Data10.html) | Data10 <br> OKDiario | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [24–30 December 2021](2021-12-30-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [20–30 December 2021](2021-12-30-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [20–30 December 2021](2021-12-30-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–30 December 2021](2021-12-30-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [26 December 2021](2021-12-26-SigmaDos.html) | Sigma Dos <br> Antena 3 | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [20–24 December 2021](2021-12-24-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
@@ -1059,11 +1059,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.6% | 100% | Last Result |
-| 1 | 43% | 99.4% |  |
-| 2 | 49% | 56% | Median |
-| 3 | 8% | 8% |  |
-| 4 | 0.2% | 0.2% |  |
+| 0 | 0.5% | 100% | Last Result |
+| 1 | 45% | 99.5% |  |
+| 2 | 42% | 54% | Median |
+| 3 | 12% | 12% |  |
+| 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
 

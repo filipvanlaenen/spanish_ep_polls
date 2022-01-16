@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.6–4.3% | 2.4–4.6% | 2.2–4.9% | 1.8–5.7% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.6–4.2% | 2.4–4.5% | 2.2–4.8% | 1.9–5.6% |
 | [31 December 2021–6 January 2022](2022-01-06-electoPanel.html) | electoPanel <br> electomania.es | 3.5% | 3.0–4.1% | 2.9–4.3% | 2.8–4.5% | 2.5–4.8% |
-| [3–5 January 2022](2022-01-05-Data10.html) | Data10 <br> OKDiario | 3.2% | N/A | N/A | N/A | N/A |
-| [24–30 December 2021](2021-12-30-electoPanel.html) | electoPanel <br> electomania.es | 3.5% | N/A | N/A | N/A | N/A |
-| [20–30 December 2021](2021-12-30-SocioMétrica.html) | SocioMétrica <br> El Español | 2.8% | N/A | N/A | N/A | N/A |
-| [20–30 December 2021](2021-12-30-IMOP.html) | IMOP <br> El Confidencial | 3.2% | N/A | N/A | N/A | N/A |
+| [3–5 January 2022](2022-01-05-Data10.html) | Data10 <br> OKDiario | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [24–30 December 2021](2021-12-30-electoPanel.html) | electoPanel <br> electomania.es | 3.5% | 2.9–4.3% | 2.8–4.5% | 2.6–4.8% | 2.4–5.2% |
+| [20–30 December 2021](2021-12-30-SocioMétrica.html) | SocioMétrica <br> El Español | 2.8% | 2.4–3.2% | 2.3–3.4% | 2.3–3.5% | 2.1–3.7% |
+| [20–30 December 2021](2021-12-30-IMOP.html) | IMOP <br> El Confidencial | 3.2% | 2.7–3.9% | 2.5–4.1% | 2.4–4.3% | 2.1–4.7% |
 | [23–30 December 2021](2021-12-30-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [26 December 2021](2021-12-26-SigmaDos.html) | Sigma Dos <br> Antena 3 | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [20–24 December 2021](2021-12-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.0% | N/A | N/A | N/A | N/A |
@@ -527,10 +527,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.1% | 100% |  |
 | 1.5–2.5% | 9% | 99.9% |  |
-| 2.5–3.5% | 52% | 91% | Median |
-| 3.5–4.5% | 33% | 39% |  |
-| 4.5–5.5% | 5% | 6% |  |
-| 5.5–6.5% | 0.6% | 0.7% |  |
+| 2.5–3.5% | 58% | 91% | Median |
+| 3.5–4.5% | 29% | 33% |  |
+| 4.5–5.5% | 4% | 4% |  |
+| 5.5–6.5% | 0.4% | 0.5% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -545,10 +545,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [31 December 2021–6 January 2022](2022-01-06-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [3–5 January 2022](2022-01-05-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [24–30 December 2021](2021-12-30-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [20–30 December 2021](2021-12-30-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [20–30 December 2021](2021-12-30-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [3–5 January 2022](2022-01-05-Data10.html) | Data10 <br> OKDiario | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [24–30 December 2021](2021-12-30-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2 | 1–3 | 1–3 |
+| [20–30 December 2021](2021-12-30-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [20–30 December 2021](2021-12-30-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–30 December 2021](2021-12-30-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [26 December 2021](2021-12-26-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–24 December 2021](2021-12-24-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
@@ -1059,10 +1059,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 32% | 99.8% |  |
-| 2 | 63% | 68% | Median |
-| 3 | 5% | 5% |  |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 41% | 99.9% |  |
+| 2 | 56% | 59% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
