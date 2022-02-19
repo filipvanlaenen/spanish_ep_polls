@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.4% | 22.0–28.9% | 21.4–29.7% | 21.0–30.3% | 20.3–31.5% |
+| N/A | [Poll Average](average.html) | 24.4% | 21.1–27.9% | 20.4–28.7% | 19.9–29.4% | 19.0–30.8% |
+| [13–14 February 2022](2022-02-14-electoPanel.html) | electoPanel <br> electomania.es | 21.5% | 19.9–23.2% | 19.5–23.6% | 19.1–24.0% | 18.4–24.9% |
+| [29 January–4 February 2022](2022-02-04-electoPanel.html) | electoPanel <br> electomania.es | 21.8% | N/A | N/A | N/A | N/A |
+| [27 January–1 February 2022](2022-02-01-40dB.html) | 40dB <br> Prisa | 23.9% | 22.7–25.2% | 22.4–25.5% | 22.1–25.8% | 21.5–26.4% |
+| [21–28 January 2022](2022-01-28-electoPanel.html) | electoPanel <br> electomania.es | 22.5% | 21.0–24.1% | 20.5–24.6% | 20.2–25.0% | 19.5–25.8% |
+| [24–28 January 2022](2022-01-28-NCReport.html) | NC Report <br> La Razón | 27.4% | N/A | N/A | N/A | N/A |
+| [17–28 January 2022](2022-01-28-IMOP.html) | IMOP <br> El Confidencial | 24.4% | N/A | N/A | N/A | N/A |
 | [19–23 January 2022](2022-01-23-DYM.html) | DYM <br> Henneo | 26.9% | 25.1–28.7% | 24.7–29.3% | 24.2–29.7% | 23.4–30.6% |
 | [21 January 2022](2022-01-21-KeyData.html) | Key Data <br> Público | 25.5% | 22.7–28.7% | 21.9–29.6% | 21.2–30.4% | 19.9–32.0% |
 | [14–20 January 2022](2022-01-20-electoPanel.html) | electoPanel <br> electomania.es | 22.9% | 21.4–24.6% | 21.0–25.0% | 20.6–25.4% | 19.9–26.2% |
@@ -551,22 +557,22 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 0.9% | 99.9% |  |
-| 20.5–21.5% | 5% | 99.0% |  |
-| 21.5–22.5% | 8% | 94% |  |
-| 22.5–23.5% | 11% | 86% |  |
-| 23.5–24.5% | 14% | 75% |  |
-| 24.5–25.5% | 12% | 60% | Median |
-| 25.5–26.5% | 11% | 48% |  |
-| 26.5–27.5% | 12% | 37% |  |
-| 27.5–28.5% | 11% | 25% |  |
-| 28.5–29.5% | 8% | 14% |  |
-| 29.5–30.5% | 4% | 6% |  |
-| 30.5–31.5% | 1.4% | 2% |  |
-| 31.5–32.5% | 0.4% | 0.4% |  |
-| 32.5–33.5% | 0.1% | 0.1% |  |
+| 17.5–18.5% | 0.2% | 100% |  |
+| 18.5–19.5% | 1.3% | 99.8% |  |
+| 19.5–20.5% | 4% | 98% |  |
+| 20.5–21.5% | 8% | 94% |  |
+| 21.5–22.5% | 10% | 86% |  |
+| 22.5–23.5% | 13% | 76% |  |
+| 23.5–24.5% | 15% | 63% | Median |
+| 24.5–25.5% | 12% | 47% |  |
+| 25.5–26.5% | 11% | 35% |  |
+| 26.5–27.5% | 11% | 24% |  |
+| 27.5–28.5% | 7% | 13% |  |
+| 28.5–29.5% | 4% | 6% |  |
+| 29.5–30.5% | 1.4% | 2% |  |
+| 30.5–31.5% | 0.5% | 0.7% |  |
+| 31.5–32.5% | 0.2% | 0.2% |  |
+| 32.5–33.5% | 0% | 0.1% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
 
@@ -578,7 +584,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–18 | 13–18 | 13–19 | 13–20 |
+| N/A | [Poll Average](average.html) | 15 | 14–17 | 13–17 | 13–18 | 12–19 |
+| [13–14 February 2022](2022-02-14-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–14 | 13–14 | 12–15 | 12–15 |
+| [29 January–4 February 2022](2022-02-04-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [27 January–1 February 2022](2022-02-01-40dB.html) | 40dB <br> Prisa | 14 | 14–15 | 13–15 | 13–16 | 13–16 |
+| [21–28 January 2022](2022-01-28-electoPanel.html) | electoPanel <br> electomania.es | 14 | 12–15 | 12–16 | 12–16 | 12–16 |
+| [24–28 January 2022](2022-01-28-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [17–28 January 2022](2022-01-28-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [19–23 January 2022](2022-01-23-DYM.html) | DYM <br> Henneo | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [21 January 2022](2022-01-21-KeyData.html) | Key Data <br> Público | 16 | 13–17 | 13–18 | 13–19 | 12–19 |
 | [14–20 January 2022](2022-01-20-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–16 | 14–16 | 13–17 |
@@ -1114,16 +1126,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0.4% | 100% |  |
-| 13 | 8% | 99.6% |  |
-| 14 | 14% | 92% |  |
-| 15 | 20% | 77% |  |
-| 16 | 21% | 58% | Median |
-| 17 | 21% | 37% |  |
-| 18 | 11% | 15% |  |
-| 19 | 3% | 4% |  |
-| 20 | 0.5% | 0.6% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 1.3% | 99.9% |  |
+| 13 | 8% | 98.6% |  |
+| 14 | 35% | 91% |  |
+| 15 | 21% | 57% | Median |
+| 16 | 20% | 36% |  |
+| 17 | 12% | 16% |  |
+| 18 | 3% | 4% |  |
+| 19 | 1.1% | 1.2% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
 

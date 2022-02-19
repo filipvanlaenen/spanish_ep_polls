@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.6–4.1% | 2.4–4.4% | 2.3–4.8% | 2.0–5.8% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.7–4.7% | 2.5–5.2% | 2.2–5.6% | 1.8–6.6% |
+| [13–14 February 2022](2022-02-14-electoPanel.html) | electoPanel <br> electomania.es | 3.5% | 2.9–4.3% | 2.7–4.6% | 2.5–4.8% | 2.3–5.2% |
+| [29 January–4 February 2022](2022-02-04-electoPanel.html) | electoPanel <br> electomania.es | 3.5% | N/A | N/A | N/A | N/A |
+| [27 January–1 February 2022](2022-02-01-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
+| [21–28 January 2022](2022-01-28-electoPanel.html) | electoPanel <br> electomania.es | 3.5% | 2.9–4.3% | 2.8–4.6% | 2.6–4.8% | 2.3–5.2% |
+| [24–28 January 2022](2022-01-28-NCReport.html) | NC Report <br> La Razón | 3.4% | N/A | N/A | N/A | N/A |
+| [17–28 January 2022](2022-01-28-IMOP.html) | IMOP <br> El Confidencial | 3.2% | N/A | N/A | N/A | N/A |
 | [19–23 January 2022](2022-01-23-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [21 January 2022](2022-01-21-KeyData.html) | Key Data <br> Público | 3.5% | 2.5–5.2% | 2.3–5.6% | 2.0–6.1% | 1.6–7.0% |
 | [14–20 January 2022](2022-01-20-electoPanel.html) | electoPanel <br> electomania.es | 3.5% | 2.9–4.3% | 2.8–4.5% | 2.6–4.7% | 2.4–5.2% |
@@ -534,14 +540,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 9% | 100% |  |
-| 2.5–3.5% | 63% | 91% | Median |
-| 3.5–4.5% | 24% | 28% |  |
-| 4.5–5.5% | 3% | 4% |  |
-| 5.5–6.5% | 0.6% | 0.7% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 6% | 99.8% |  |
+| 2.5–3.5% | 41% | 94% |  |
+| 3.5–4.5% | 40% | 53% | Median |
+| 4.5–5.5% | 11% | 13% |  |
+| 5.5–6.5% | 2% | 3% |  |
+| 6.5–7.5% | 0.4% | 0.5% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -552,7 +559,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [13–14 February 2022](2022-02-14-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [29 January–4 February 2022](2022-02-04-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [27 January–1 February 2022](2022-02-01-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
+| [21–28 January 2022](2022-01-28-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [24–28 January 2022](2022-01-28-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [17–28 January 2022](2022-01-28-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [19–23 January 2022](2022-01-23-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [21 January 2022](2022-01-21-KeyData.html) | Key Data <br> Público | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [14–20 January 2022](2022-01-20-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 1–2 | 1–2 | 1–3 |
@@ -1077,11 +1090,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 45% | 99.9% |  |
-| 2 | 53% | 55% | Median |
-| 3 | 2% | 2% |  |
-| 4 | 0.1% | 0.1% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 17% | 99.8% |  |
+| 2 | 71% | 82% | Median |
+| 3 | 11% | 11% |  |
+| 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 
 
