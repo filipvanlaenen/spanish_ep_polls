@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.6% | 16.1–23.0% | 15.5–23.6% | 15.0–24.1% | 13.8–24.9% |
+| N/A | [Poll Average](average.html) | 18.5% | 15.4–22.8% | 14.7–23.5% | 14.3–24.0% | 13.7–24.8% |
 | [19–20 February 2022](2022-02-20-electoPanel.html) | electoPanel <br> electomania.es | 23.4% | 22.5–24.4% | 22.2–24.7% | 22.0–24.9% | 21.5–25.4% |
 | [18–19 February 2022](2022-02-19-SocioMétrica.html) | SocioMétrica <br> El Español | 20.9% | 19.3–22.6% | 18.9–23.1% | 18.5–23.5% | 17.8–24.4% |
 | [19 February 2022](2022-02-19-Data10.html) | Data10 <br> OKDiario | 22.1% | 20.5–23.9% | 20.0–24.4% | 19.6–24.8% | 18.9–25.6% |
@@ -20,8 +20,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [14–17 February 2022](2022-02-17-GAD3.html) | GAD3 <br> NIUS | 18.8% | 16.9–20.9% | 16.4–21.4% | 15.9–22.0% | 15.1–23.0% |
 | [14–16 February 2022](2022-02-16-GESOP.html) | GESOP <br> El Periódico | 18.2% | 16.7–19.8% | 16.2–20.3% | 15.9–20.7% | 15.2–21.5% |
 | [13–14 February 2022](2022-02-14-electoPanel.html) | electoPanel <br> electomania.es | 21.4% | 19.8–23.0% | 19.4–23.5% | 19.0–23.9% | 18.3–24.8% |
-| [1–12 February 2022](2022-02-12-CIS.html) | CIS | 14.8% | N/A | N/A | N/A | N/A |
-| [1–10 February 2022](2022-02-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 19.8% | N/A | N/A | N/A | N/A |
+| [1–12 February 2022](2022-02-12-CIS.html) | CIS | 14.8% | 14.1–15.6% | 13.9–15.8% | 13.7–16.0% | 13.4–16.3% |
+| [1–10 February 2022](2022-02-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 19.8% | 18.4–21.4% | 18.0–21.8% | 17.7–22.2% | 17.0–22.9% |
 | [29 January–4 February 2022](2022-02-04-electoPanel.html) | electoPanel <br> electomania.es | 21.1% | N/A | N/A | N/A | N/A |
 | [27 January–1 February 2022](2022-02-01-40dB.html) | 40dB <br> Prisa | 17.1% | 16.0–18.2% | 15.8–18.5% | 15.5–18.8% | 15.0–19.4% |
 | [21–28 January 2022](2022-01-28-electoPanel.html) | electoPanel <br> electomania.es | 20.9% | 19.4–22.5% | 19.0–23.0% | 18.7–23.4% | 18.0–24.2% |
@@ -562,19 +562,19 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.3% | 99.9% |  |
-| 13.5–14.5% | 1.1% | 99.7% |  |
-| 14.5–15.5% | 4% | 98.6% |  |
-| 15.5–16.5% | 11% | 95% |  |
-| 16.5–17.5% | 18% | 84% |  |
-| 17.5–18.5% | 16% | 66% |  |
-| 18.5–19.5% | 11% | 51% | Median |
-| 19.5–20.5% | 9% | 40% |  |
-| 20.5–21.5% | 9% | 30% |  |
-| 21.5–22.5% | 8% | 21% |  |
-| 22.5–23.5% | 8% | 13% |  |
-| 23.5–24.5% | 5% | 6% |  |
-| 24.5–25.5% | 0.9% | 1.0% |  |
+| 12.5–13.5% | 0.3% | 100% |  |
+| 13.5–14.5% | 3% | 99.6% |  |
+| 14.5–15.5% | 8% | 96% |  |
+| 15.5–16.5% | 10% | 89% |  |
+| 16.5–17.5% | 15% | 79% |  |
+| 17.5–18.5% | 14% | 64% |  |
+| 18.5–19.5% | 11% | 50% | Median |
+| 19.5–20.5% | 10% | 38% |  |
+| 20.5–21.5% | 9% | 28% |  |
+| 21.5–22.5% | 7% | 19% |  |
+| 22.5–23.5% | 7% | 11% |  |
+| 23.5–24.5% | 4% | 5% |  |
+| 24.5–25.5% | 0.8% | 0.9% |  |
 | 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
@@ -587,7 +587,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–14 | 9–15 | 9–15 | 8–16 |
+| N/A | [Poll Average](average.html) | 11 | 9–14 | 9–15 | 9–15 | 8–16 |
 | [19–20 February 2022](2022-02-20-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–16 | 14–16 | 14–17 |
 | [18–19 February 2022](2022-02-19-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
 | [19 February 2022](2022-02-19-Data10.html) | Data10 <br> OKDiario | 13 | 12–15 | 12–15 | 12–15 | 12–16 |
@@ -597,8 +597,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–17 February 2022](2022-02-17-GAD3.html) | GAD3 <br> NIUS | 12 | 10–13 | 10–13 | 10–14 | 9–14 |
 | [14–16 February 2022](2022-02-16-GESOP.html) | GESOP <br> El Periódico | 11 | 10–12 | 10–12 | 9–13 | 9–13 |
 | [13–14 February 2022](2022-02-14-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
-| [1–12 February 2022](2022-02-12-CIS.html) | CIS |  |  |  |  |  |
-| [1–10 February 2022](2022-02-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
+| [1–12 February 2022](2022-02-12-CIS.html) | CIS | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| [1–10 February 2022](2022-02-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [29 January–4 February 2022](2022-02-04-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [27 January–1 February 2022](2022-02-01-40dB.html) | 40dB <br> Prisa | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [21–28 January 2022](2022-01-28-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
@@ -1136,15 +1136,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
-| 8 | 0.8% | 99.9% |  |
-| 9 | 6% | 99.1% |  |
-| 10 | 23% | 93% |  |
-| 11 | 23% | 70% | Median |
-| 12 | 15% | 47% |  |
-| 13 | 15% | 31% |  |
-| 14 | 9% | 17% |  |
-| 15 | 6% | 7% |  |
-| 16 | 1.3% | 1.4% |  |
+| 8 | 2% | 99.9% |  |
+| 9 | 10% | 98% |  |
+| 10 | 22% | 88% |  |
+| 11 | 22% | 67% | Median |
+| 12 | 17% | 45% |  |
+| 13 | 14% | 28% |  |
+| 14 | 8% | 14% |  |
+| 15 | 5% | 6% |  |
+| 16 | 1.1% | 1.2% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 

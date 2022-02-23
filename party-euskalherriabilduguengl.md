@@ -20,7 +20,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [14–17 February 2022](2022-02-17-GAD3.html) | GAD3 <br> NIUS | 1.2% | 0.8–2.0% | 0.7–2.3% | 0.6–2.5% | 0.5–2.9% |
 | [14–16 February 2022](2022-02-16-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
 | [13–14 February 2022](2022-02-14-electoPanel.html) | electoPanel <br> electomania.es | 1.4% | 1.1–2.0% | 0.9–2.2% | 0.9–2.3% | 0.7–2.7% |
-| [1–12 February 2022](2022-02-12-CIS.html) | CIS | 1.1% | N/A | N/A | N/A | N/A |
+| [1–12 February 2022](2022-02-12-CIS.html) | CIS | 1.1% | 0.9–1.3% | 0.8–1.4% | 0.8–1.5% | 0.7–1.6% |
 | [1–10 February 2022](2022-02-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [29 January–4 February 2022](2022-02-04-electoPanel.html) | electoPanel <br> electomania.es | 1.4% | N/A | N/A | N/A | N/A |
 | [27 January–1 February 2022](2022-02-01-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
@@ -549,10 +549,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 69% | 98% | Median |
-| 1.5–2.5% | 28% | 29% |  |
-| 2.5–3.5% | 1.3% | 1.4% |  |
+| 0.0–0.5% | 1.4% | 100% | Last Result |
+| 0.5–1.5% | 73% | 98.6% | Median |
+| 1.5–2.5% | 24% | 26% |  |
+| 2.5–3.5% | 1.1% | 1.2% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -575,7 +575,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–17 February 2022](2022-02-17-GAD3.html) | GAD3 <br> NIUS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–16 February 2022](2022-02-16-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [13–14 February 2022](2022-02-14-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–12 February 2022](2022-02-12-CIS.html) | CIS |  |  |  |  |  |
+| [1–12 February 2022](2022-02-12-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0–1 |
 | [1–10 February 2022](2022-02-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [29 January–4 February 2022](2022-02-04-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [27 January–1 February 2022](2022-02-01-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
@@ -1106,8 +1106,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Last Result, Median |
-| 1 | 27% | 27% |  |
+| 0 | 76% | 100% | Last Result, Median |
+| 1 | 24% | 24% |  |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 

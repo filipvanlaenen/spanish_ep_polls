@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.4% | 24.2–29.3% | 23.6–31.7% | 23.1–33.0% | 21.8–34.9% |
+| N/A | [Poll Average](average.html) | 26.6% | 24.4–29.3% | 23.8–31.3% | 23.2–32.8% | 22.0–34.7% |
 | [19–20 February 2022](2022-02-20-electoPanel.html) | electoPanel <br> electomania.es | 27.0% | 26.0–28.0% | 25.7–28.3% | 25.5–28.6% | 25.0–29.1% |
 | [18–19 February 2022](2022-02-19-SocioMétrica.html) | SocioMétrica <br> El Español | 25.9% | 24.2–27.7% | 23.7–28.3% | 23.3–28.7% | 22.5–29.6% |
 | [19 February 2022](2022-02-19-Data10.html) | Data10 <br> OKDiario | 25.4% | 23.7–27.2% | 23.2–27.7% | 22.8–28.2% | 22.0–29.1% |
@@ -20,8 +20,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [14–17 February 2022](2022-02-17-GAD3.html) | GAD3 <br> NIUS | 31.9% | 29.6–34.3% | 28.9–35.0% | 28.4–35.6% | 27.3–36.8% |
 | [14–16 February 2022](2022-02-16-GESOP.html) | GESOP <br> El Periódico | 26.0% | 24.3–27.9% | 23.8–28.4% | 23.4–28.9% | 22.6–29.8% |
 | [13–14 February 2022](2022-02-14-electoPanel.html) | electoPanel <br> electomania.es | 24.8% | 23.1–26.5% | 22.6–27.0% | 22.3–27.5% | 21.5–28.3% |
-| [1–12 February 2022](2022-02-12-CIS.html) | CIS | 28.6% | N/A | N/A | N/A | N/A |
-| [1–10 February 2022](2022-02-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 26.7% | N/A | N/A | N/A | N/A |
+| [1–12 February 2022](2022-02-12-CIS.html) | CIS | 28.6% | 27.7–29.6% | 27.4–29.8% | 27.2–30.1% | 26.7–30.5% |
+| [1–10 February 2022](2022-02-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 26.7% | 25.1–28.4% | 24.7–28.9% | 24.3–29.3% | 23.5–30.1% |
 | [29 January–4 February 2022](2022-02-04-electoPanel.html) | electoPanel <br> electomania.es | 24.6% | N/A | N/A | N/A | N/A |
 | [27 January–1 February 2022](2022-02-01-40dB.html) | 40dB <br> Prisa | 27.1% | 25.8–28.4% | 25.5–28.8% | 25.2–29.1% | 24.6–29.7% |
 | [21–28 January 2022](2022-01-28-electoPanel.html) | electoPanel <br> electomania.es | 24.2% | 22.6–25.9% | 22.2–26.4% | 21.8–26.8% | 21.1–27.6% |
@@ -570,21 +570,21 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0.1% | 100% |  |
-| 20.5–21.5% | 0.3% | 99.9% |  |
-| 21.5–22.5% | 1.0% | 99.7% |  |
-| 22.5–23.5% | 3% | 98.7% |  |
-| 23.5–24.5% | 9% | 95% |  |
-| 24.5–25.5% | 16% | 87% |  |
-| 25.5–26.5% | 23% | 70% | Median |
-| 26.5–27.5% | 22% | 47% |  |
-| 27.5–28.5% | 11% | 25% |  |
-| 28.5–29.5% | 4% | 13% |  |
-| 29.5–30.5% | 2% | 9% |  |
-| 30.5–31.5% | 2% | 7% |  |
+| 20.5–21.5% | 0.2% | 99.9% |  |
+| 21.5–22.5% | 0.8% | 99.7% |  |
+| 22.5–23.5% | 3% | 98.9% |  |
+| 23.5–24.5% | 8% | 96% |  |
+| 24.5–25.5% | 15% | 88% |  |
+| 25.5–26.5% | 22% | 73% |  |
+| 26.5–27.5% | 21% | 52% | Median |
+| 27.5–28.5% | 14% | 30% |  |
+| 28.5–29.5% | 7% | 16% |  |
+| 29.5–30.5% | 3% | 9% |  |
+| 30.5–31.5% | 2% | 6% |  |
 | 31.5–32.5% | 2% | 5% |  |
-| 32.5–33.5% | 2% | 3% |  |
-| 33.5–34.5% | 1.0% | 2% |  |
-| 34.5–35.5% | 0.5% | 0.7% |  |
+| 32.5–33.5% | 1.4% | 3% |  |
+| 33.5–34.5% | 0.9% | 1.5% |  |
+| 34.5–35.5% | 0.4% | 0.6% |  |
 | 35.5–36.5% | 0.2% | 0.2% |  |
 | 36.5–37.5% | 0% | 0.1% |  |
 | 37.5–38.5% | 0% | 0% |  |
@@ -598,7 +598,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 15–20 | 14–21 | 13–21 |
+| N/A | [Poll Average](average.html) | 16 | 15–18 | 15–20 | 14–20 | 13–21 |
 | [19–20 February 2022](2022-02-20-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 17–18 | 16–18 | 16–19 |
 | [18–19 February 2022](2022-02-19-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [19 February 2022](2022-02-19-Data10.html) | Data10 <br> OKDiario | 16 | 15–17 | 15–17 | 14–18 | 14–19 |
@@ -608,8 +608,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–17 February 2022](2022-02-17-GAD3.html) | GAD3 <br> NIUS | 20 | 18–21 | 18–21 | 18–22 | 17–23 |
 | [14–16 February 2022](2022-02-16-GESOP.html) | GESOP <br> El Periódico | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [13–14 February 2022](2022-02-14-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–17 | 14–17 | 14–17 | 14–18 |
-| [1–12 February 2022](2022-02-12-CIS.html) | CIS |  |  |  |  |  |
-| [1–10 February 2022](2022-02-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
+| [1–12 February 2022](2022-02-12-CIS.html) | CIS | 18 | 17–19 | 17–19 | 17–19 | 17–20 |
+| [1–10 February 2022](2022-02-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [29 January–4 February 2022](2022-02-04-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [27 January–1 February 2022](2022-02-01-40dB.html) | 40dB <br> Prisa | 16 | 16–17 | 15–17 | 15–18 | 15–18 |
 | [21–28 January 2022](2022-01-28-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–17 | 14–17 | 14–17 | 13–17 |
@@ -1152,17 +1152,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0.1% | 100% |  |
-| 13 | 0.6% | 99.8% |  |
-| 14 | 4% | 99.2% |  |
-| 15 | 20% | 96% |  |
-| 16 | 30% | 75% | Median |
-| 17 | 29% | 45% |  |
-| 18 | 9% | 17% |  |
-| 19 | 2% | 8% |  |
-| 20 | 4% | 6% |  |
-| 21 | 2% | 3% |  |
-| 22 | 0.4% | 0.4% |  |
-| 23 | 0% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 13 | 0.5% | 99.9% |  |
+| 14 | 3% | 99.3% |  |
+| 15 | 18% | 96% |  |
+| 16 | 29% | 78% | Median |
+| 17 | 28% | 49% |  |
+| 18 | 11% | 21% |  |
+| 19 | 4% | 10% |  |
+| 20 | 3% | 6% |  |
+| 21 | 2% | 2% |  |
+| 22 | 0.3% | 0.4% |  |
+| 23 | 0% | 0% |  |
 
 
