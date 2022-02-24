@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.9% | 2.0–3.9% | 1.6–4.3% | 1.3–4.6% | 0.9–5.2% |
 | [19–20 February 2022](2022-02-20-electoPanel.html) | electoPanel <br> electomania.es | 2.5% | 2.2–2.9% | 2.1–3.0% | 2.0–3.1% | 1.9–3.3% |
+| [16–20 February 2022](2022-02-20-DYM.html) | DYM <br> Henneo | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [18–19 February 2022](2022-02-19-SocioMétrica.html) | SocioMétrica <br> El Español | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [19 February 2022](2022-02-19-Data10.html) | Data10 <br> OKDiario | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [14–18 February 2022](2022-02-18-electoPanel.html) | electoPanel <br> electomania.es | 2.5% | N/A | N/A | N/A | N/A |
@@ -551,9 +552,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 25% | 95% |  |
-| 2.5–3.5% | 50% | 70% | Median |
-| 3.5–4.5% | 17% | 20% |  |
+| 1.5–2.5% | 24% | 95% |  |
+| 2.5–3.5% | 51% | 71% | Median |
+| 3.5–4.5% | 18% | 20% |  |
 | 4.5–5.5% | 2% | 3% |  |
 | 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -569,6 +570,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | [19–20 February 2022](2022-02-20-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1 | 1–2 |
+| [16–20 February 2022](2022-02-20-DYM.html) | DYM <br> Henneo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–19 February 2022](2022-02-19-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [19 February 2022](2022-02-19-Data10.html) | Data10 <br> OKDiario | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [14–18 February 2022](2022-02-18-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
@@ -1109,7 +1111,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% | Last Result |
-| 1 | 57% | 97% | Median |
+| 1 | 56% | 97% | Median |
 | 2 | 38% | 40% |  |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
