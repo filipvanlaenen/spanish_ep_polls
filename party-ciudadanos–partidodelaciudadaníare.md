@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.4–4.7% | 1.6–4.9% | 1.3–5.2% | 0.9–5.6% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.4–4.7% | 1.7–5.0% | 1.3–5.2% | 0.9–5.8% |
 | [1–5 March 2022](2022-03-05-electoPanel.html) | electoPanel <br> electomania.es | 3.1% | 2.7–3.6% | 2.6–3.7% | 2.5–3.9% | 2.3–4.1% |
 | [1–4 March 2022](2022-03-04-NCReport.html) | NC Report <br> La Razón | 3.2% | 2.5–4.3% | 2.3–4.6% | 2.1–4.9% | 1.8–5.5% |
 | [3–4 March 2022](2022-03-04-Data10.html) | Data10 <br> OKDiario | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
@@ -21,8 +21,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23–25 February 2022](2022-02-25-TargetPoint.html) | Target Point <br> El Debate | 3.5% | 2.8–4.3% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [21–25 February 2022](2022-02-25-InvyMark.html) | InvyMark <br> laSexta | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [14–25 February 2022](2022-02-25-IMOP.html) | IMOP <br> El Confidencial | 2.8% | 2.3–3.5% | 2.2–3.7% | 2.1–3.9% | 1.8–4.2% |
-| [24–25 February 2022](2022-02-25-Data10.html) | Data10 <br> OKDiario | 3.2% | N/A | N/A | N/A | N/A |
-| [24 February 2022](2022-02-24-KeyData.html) | Key Data <br> Público | 3.6% | N/A | N/A | N/A | N/A |
+| [24–25 February 2022](2022-02-25-Data10.html) | Data10 <br> OKDiario | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [24 February 2022](2022-02-24-KeyData.html) | Key Data <br> Público | 3.6% | 2.6–5.3% | 2.3–5.7% | 2.1–6.2% | 1.7–7.1% |
 | [19–20 February 2022](2022-02-20-electoPanel.html) | electoPanel <br> electomania.es | 3.3% | 2.9–3.7% | 2.8–3.9% | 2.7–4.0% | 2.5–4.2% |
 | [16–20 February 2022](2022-02-20-DYM.html) | DYM <br> Henneo | 3.6% | 2.9–4.4% | 2.7–4.7% | 2.6–4.9% | 2.3–5.3% |
 | [18–19 February 2022](2022-02-19-SocioMétrica.html) | SocioMétrica <br> El Español | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
@@ -564,13 +564,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 8% | 95% |  |
-| 2.5–3.5% | 42% | 87% | Median |
-| 3.5–4.5% | 33% | 46% |  |
-| 4.5–5.5% | 12% | 12% |  |
-| 5.5–6.5% | 0.6% | 0.6% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 8% | 96% |  |
+| 2.5–3.5% | 41% | 88% | Median |
+| 3.5–4.5% | 33% | 47% |  |
+| 4.5–5.5% | 12% | 13% |  |
+| 5.5–6.5% | 0.9% | 1.0% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -592,8 +593,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–25 February 2022](2022-02-25-TargetPoint.html) | Target Point <br> El Debate | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [21–25 February 2022](2022-02-25-InvyMark.html) | InvyMark <br> laSexta | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–25 February 2022](2022-02-25-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [24–25 February 2022](2022-02-25-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [24 February 2022](2022-02-24-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [24–25 February 2022](2022-02-25-Data10.html) | Data10 <br> OKDiario | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [24 February 2022](2022-02-24-KeyData.html) | Key Data <br> Público | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [19–20 February 2022](2022-02-20-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–20 February 2022](2022-02-20-DYM.html) | DYM <br> Henneo | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [18–19 February 2022](2022-02-19-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 1–3 | 1–3 | 1–3 |
@@ -1138,8 +1139,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 5% | 100% | Last Result |
 | 1 | 31% | 95% |  |
-| 2 | 55% | 64% | Median |
-| 3 | 9% | 9% |  |
-| 4 | 0% | 0% |  |
+| 2 | 55% | 65% | Median |
+| 3 | 10% | 10% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 

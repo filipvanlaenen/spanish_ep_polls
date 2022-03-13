@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.8% | 17.1–22.8% | 15.2–23.8% | 14.6–24.4% | 14.0–25.3% |
+| N/A | [Poll Average](average.html) | 19.9% | 17.2–22.9% | 15.2–23.9% | 14.7–24.5% | 14.0–25.6% |
 | [1–5 March 2022](2022-03-05-electoPanel.html) | electoPanel <br> electomania.es | 24.0% | 22.9–25.1% | 22.6–25.4% | 22.4–25.7% | 21.8–26.3% |
 | [1–4 March 2022](2022-03-04-NCReport.html) | NC Report <br> La Razón | 18.9% | 17.0–21.1% | 16.5–21.7% | 16.0–22.2% | 15.2–23.3% |
 | [3–4 March 2022](2022-03-04-Data10.html) | Data10 <br> OKDiario | 21.9% | 20.3–23.7% | 19.8–24.1% | 19.4–24.6% | 18.7–25.4% |
@@ -21,8 +21,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23–25 February 2022](2022-02-25-TargetPoint.html) | Target Point <br> El Debate | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.3% |
 | [21–25 February 2022](2022-02-25-InvyMark.html) | InvyMark <br> laSexta | 19.3% | 17.8–21.0% | 17.3–21.5% | 17.0–21.9% | 16.3–22.7% |
 | [14–25 February 2022](2022-02-25-IMOP.html) | IMOP <br> El Confidencial | 19.5% | 18.2–21.0% | 17.8–21.4% | 17.5–21.7% | 16.8–22.5% |
-| [24–25 February 2022](2022-02-25-Data10.html) | Data10 <br> OKDiario | 21.8% | N/A | N/A | N/A | N/A |
-| [24 February 2022](2022-02-24-KeyData.html) | Key Data <br> Público | 21.3% | N/A | N/A | N/A | N/A |
+| [24–25 February 2022](2022-02-25-Data10.html) | Data10 <br> OKDiario | 21.8% | 20.2–23.5% | 19.7–24.0% | 19.3–24.5% | 18.6–25.3% |
+| [24 February 2022](2022-02-24-KeyData.html) | Key Data <br> Público | 21.3% | 18.6–24.3% | 17.8–25.2% | 17.2–26.0% | 16.0–27.5% |
 | [19–20 February 2022](2022-02-20-electoPanel.html) | electoPanel <br> electomania.es | 23.4% | 22.5–24.4% | 22.2–24.7% | 22.0–24.9% | 21.5–25.4% |
 | [16–20 February 2022](2022-02-20-DYM.html) | DYM <br> Henneo | 19.9% | 18.4–21.6% | 18.0–22.1% | 17.6–22.5% | 16.9–23.4% |
 | [18–19 February 2022](2022-02-19-SocioMétrica.html) | SocioMétrica <br> El Español | 20.9% | 19.3–22.6% | 18.9–23.1% | 18.5–23.5% | 17.8–24.4% |
@@ -581,16 +581,17 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 4% | 98% |  |
 | 15.5–16.5% | 2% | 94% |  |
 | 16.5–17.5% | 4% | 92% |  |
-| 17.5–18.5% | 12% | 87% |  |
-| 18.5–19.5% | 20% | 76% |  |
-| 19.5–20.5% | 21% | 56% | Median |
-| 20.5–21.5% | 15% | 35% |  |
-| 21.5–22.5% | 9% | 20% |  |
-| 22.5–23.5% | 5% | 11% |  |
-| 23.5–24.5% | 4% | 6% |  |
+| 17.5–18.5% | 11% | 88% |  |
+| 18.5–19.5% | 19% | 77% |  |
+| 19.5–20.5% | 20% | 57% | Median |
+| 20.5–21.5% | 15% | 37% |  |
+| 21.5–22.5% | 9% | 21% |  |
+| 22.5–23.5% | 6% | 12% |  |
+| 23.5–24.5% | 4% | 7% |  |
 | 24.5–25.5% | 2% | 2% |  |
-| 25.5–26.5% | 0.3% | 0.3% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 25.5–26.5% | 0.4% | 0.5% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -612,8 +613,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–25 February 2022](2022-02-25-TargetPoint.html) | Target Point <br> El Debate | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [21–25 February 2022](2022-02-25-InvyMark.html) | InvyMark <br> laSexta | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [14–25 February 2022](2022-02-25-IMOP.html) | IMOP <br> El Confidencial | 12 | 12–13 | 11–13 | 11–14 | 11–14 |
-| [24–25 February 2022](2022-02-25-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [24 February 2022](2022-02-24-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [24–25 February 2022](2022-02-25-Data10.html) | Data10 <br> OKDiario | 13 | 13–15 | 12–15 | 12–15 | 11–16 |
+| [24 February 2022](2022-02-24-KeyData.html) | Key Data <br> Público | 13 | 11–15 | 11–16 | 10–17 | 10–17 |
 | [19–20 February 2022](2022-02-20-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–16 | 14–16 | 14–17 |
 | [16–20 February 2022](2022-02-20-DYM.html) | DYM <br> Henneo | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
 | [18–19 February 2022](2022-02-19-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
@@ -1164,16 +1165,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 1.2% | 100% |  |
-| 9 | 4% | 98.8% |  |
-| 10 | 8% | 94% |  |
-| 11 | 20% | 87% |  |
-| 12 | 31% | 67% | Median |
-| 13 | 21% | 36% |  |
-| 14 | 8% | 15% |  |
-| 15 | 6% | 8% |  |
-| 16 | 1.3% | 1.4% |  |
-| 17 | 0.1% | 0.1% |  |
+| 8 | 1.1% | 100% |  |
+| 9 | 4% | 98.9% |  |
+| 10 | 7% | 95% |  |
+| 11 | 19% | 88% |  |
+| 12 | 30% | 68% | Median |
+| 13 | 21% | 38% |  |
+| 14 | 8% | 17% |  |
+| 15 | 7% | 8% |  |
+| 16 | 1.4% | 2% |  |
+| 17 | 0.2% | 0.2% |  |
 | 18 | 0% | 0% |  |
 
 

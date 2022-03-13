@@ -21,7 +21,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23–25 February 2022](2022-02-25-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
 | [21–25 February 2022](2022-02-25-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [14–25 February 2022](2022-02-25-IMOP.html) | IMOP <br> El Confidencial | 1.1% | 0.8–1.5% | 0.7–1.7% | 0.6–1.8% | 0.5–2.0% |
-| [24–25 February 2022](2022-02-25-Data10.html) | Data10 <br> OKDiario | 0.7% | N/A | N/A | N/A | N/A |
+| [24–25 February 2022](2022-02-25-Data10.html) | Data10 <br> OKDiario | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [24 February 2022](2022-02-24-KeyData.html) | Key Data <br> Público | 0.0% | N/A | N/A | N/A | N/A |
 | [19–20 February 2022](2022-02-20-electoPanel.html) | electoPanel <br> electomania.es | 1.0% | 0.8–1.3% | 0.8–1.4% | 0.7–1.4% | 0.6–1.6% |
 | [16–20 February 2022](2022-02-20-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
@@ -589,7 +589,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–25 February 2022](2022-02-25-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [21–25 February 2022](2022-02-25-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
 | [14–25 February 2022](2022-02-25-IMOP.html) | IMOP <br> El Confidencial | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [24–25 February 2022](2022-02-25-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [24–25 February 2022](2022-02-25-Data10.html) | Data10 <br> OKDiario | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [24 February 2022](2022-02-24-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [19–20 February 2022](2022-02-20-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0–1 |
 | [16–20 February 2022](2022-02-20-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
