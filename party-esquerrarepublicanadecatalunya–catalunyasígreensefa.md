@@ -10,12 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.5–4.1% | 2.4–4.4% | 2.2–4.8% | 1.9–5.5% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.6–4.1% | 2.4–4.5% | 2.2–4.8% | 1.9–5.6% |
+| [16–19 March 2022](2022-03-19-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [11–18 March 2022](2022-03-18-electoPanel.html) | electoPanel <br> electomania.es | 3.3% | 2.9–3.9% | 2.7–4.0% | 2.6–4.2% | 2.4–4.4% |
 | [16–17 March 2022](2022-03-17-Data10.html) | Data10 <br> OKDiario | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [28 February–12 March 2022](2022-03-12-IMOP.html) | IMOP <br> El Confidencial | 3.2% | 2.7–3.9% | 2.5–4.2% | 2.4–4.3% | 2.1–4.7% |
 | [4–11 March 2022](2022-03-11-electoPanel.html) | electoPanel <br> electomania.es | 3.4% | 2.9–4.1% | 2.7–4.3% | 2.6–4.5% | 2.4–4.8% |
 | [7–11 March 2022](2022-03-11-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [1–11 March 2022](2022-03-11-CIS.html) | CIS | 2.7% | 2.4–3.1% | 2.3–3.2% | 2.2–3.3% | 2.1–3.4% |
+| [1–10 March 2022](2022-03-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [3–9 March 2022](2022-03-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [2–9 March 2022](2022-03-09-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.4% | 2.0–4.8% |
 | [4–7 March 2022](2022-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.3% | 2.8–3.9% | 2.7–4.1% | 2.6–4.2% | 2.4–4.5% |
@@ -574,10 +577,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.1% | 100% |  |
 | 1.5–2.5% | 10% | 99.9% |  |
-| 2.5–3.5% | 58% | 90% | Median |
-| 3.5–4.5% | 28% | 32% |  |
-| 4.5–5.5% | 3% | 4% |  |
-| 5.5–6.5% | 0.4% | 0.5% |  |
+| 2.5–3.5% | 59% | 90% | Median |
+| 3.5–4.5% | 27% | 31% |  |
+| 4.5–5.5% | 4% | 4% |  |
+| 5.5–6.5% | 0.5% | 0.5% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -591,11 +594,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [16–19 March 2022](2022-03-19-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [11–18 March 2022](2022-03-18-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [16–17 March 2022](2022-03-17-Data10.html) | Data10 <br> OKDiario | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [28 February–12 March 2022](2022-03-12-IMOP.html) | IMOP <br> El Confidencial | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [4–11 March 2022](2022-03-11-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [7–11 March 2022](2022-03-11-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
 | [1–11 March 2022](2022-03-11-CIS.html) | CIS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–10 March 2022](2022-03-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [3–9 March 2022](2022-03-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [2–9 March 2022](2022-03-09-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [4–7 March 2022](2022-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -1156,7 +1162,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.1% | 100% | Last Result |
 | 1 | 39% | 99.9% |  |
 | 2 | 58% | 61% | Median |
-| 3 | 3% | 4% |  |
+| 3 | 4% | 4% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 

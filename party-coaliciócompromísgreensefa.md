@@ -10,12 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.9–4.0% | 1.7–4.3% | 1.4–4.6% | 0.9–5.2% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.9–3.8% | 1.7–4.1% | 1.4–4.4% | 0.9–5.0% |
+| [16–19 March 2022](2022-03-19-DYM.html) | DYM <br> Henneo | 2.4% | 1.8–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
+| [11–18 March 2022](2022-03-18-electoPanel.html) | electoPanel <br> electomania.es | 2.6% | 2.2–3.1% | 2.1–3.2% | 2.0–3.3% | 1.8–3.6% |
 | [16–17 March 2022](2022-03-17-Data10.html) | Data10 <br> OKDiario | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [28 February–12 March 2022](2022-03-12-IMOP.html) | IMOP <br> El Confidencial | 2.3% | 1.8–2.9% | 1.7–3.1% | 1.6–3.3% | 1.4–3.6% |
 | [4–11 March 2022](2022-03-11-electoPanel.html) | electoPanel <br> electomania.es | 2.5% | 2.0–3.1% | 1.9–3.2% | 1.8–3.4% | 1.6–3.7% |
 | [7–11 March 2022](2022-03-11-InvyMark.html) | InvyMark <br> laSexta | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [1–11 March 2022](2022-03-11-CIS.html) | CIS | 2.0% | 1.7–2.3% | 1.6–2.4% | 1.6–2.5% | 1.5–2.6% |
+| [1–10 March 2022](2022-03-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 2.7% | 2.1–3.4% | 2.0–3.6% | 1.9–3.8% | 1.6–4.2% |
 | [3–9 March 2022](2022-03-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [2–9 March 2022](2022-03-09-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.6–4.8% | 2.3–5.2% |
 | [4–7 March 2022](2022-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.2% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% | 2.3–4.4% |
@@ -573,11 +576,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 28% | 96% |  |
-| 2.5–3.5% | 47% | 68% | Median |
-| 3.5–4.5% | 19% | 22% |  |
-| 4.5–5.5% | 2% | 3% |  |
-| 5.5–6.5% | 0.2% | 0.2% |  |
+| 1.5–2.5% | 32% | 96% |  |
+| 2.5–3.5% | 47% | 64% | Median |
+| 3.5–4.5% | 15% | 17% |  |
+| 4.5–5.5% | 2% | 2% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -590,11 +593,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
+| [16–19 March 2022](2022-03-19-DYM.html) | DYM <br> Henneo | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| [11–18 March 2022](2022-03-18-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [16–17 March 2022](2022-03-17-Data10.html) | Data10 <br> OKDiario | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 February–12 March 2022](2022-03-12-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [4–11 March 2022](2022-03-11-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–11 March 2022](2022-03-11-InvyMark.html) | InvyMark <br> laSexta | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [1–11 March 2022](2022-03-11-CIS.html) | CIS | 1 | 1 | 1 | 1 | 0–1 |
+| [1–10 March 2022](2022-03-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–9 March 2022](2022-03-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [2–9 March 2022](2022-03-09-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [4–7 March 2022](2022-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -1153,8 +1159,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% | Last Result |
-| 1 | 57% | 97% | Median |
-| 2 | 38% | 40% |  |
+| 1 | 63% | 97% | Median |
+| 2 | 33% | 34% |  |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
