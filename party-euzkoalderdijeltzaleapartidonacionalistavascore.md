@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.5% | 0.9–2.9% |
+| N/A | [Poll Average](average.html) | 1.6% | 1.2–2.2% | 1.0–2.5% | 0.9–2.7% | 0.7–3.2% |
 | [4–6 April 2022](2022-04-06-Metroscopia.html) | Metroscopia | 0.0% | N/A | N/A | N/A | N/A |
 | [4–6 April 2022](2022-04-06-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
 | [25 March–1 April 2022](2022-04-01-electoPanel.html) | electoPanel <br> electomania.es | 1.6% | 1.2–2.1% | 1.1–2.3% | 1.1–2.4% | 0.9–2.7% |
@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [21–23 March 2022](2022-03-23-Metroscopia.html) | Metroscopia | 0.0% | N/A | N/A | N/A | N/A |
 | [16–19 March 2022](2022-03-19-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [11–18 March 2022](2022-03-18-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.2–1.9% | 1.1–2.0% | 1.1–2.1% | 0.9–2.3% |
-| [18 March 2022](2022-03-18-KeyData.html) | Key Data <br> Público | 1.5% | N/A | N/A | N/A | N/A |
+| [18 March 2022](2022-03-18-KeyData.html) | Key Data <br> Público | 1.5% | 0.9–2.7% | 0.8–3.0% | 0.6–3.4% | 0.4–4.1% |
 | [16–17 March 2022](2022-03-17-Data10.html) | Data10 <br> OKDiario | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [14–16 March 2022](2022-03-16-Metroscopia.html) | Metroscopia | 0.0% | N/A | N/A | N/A | N/A |
 | [28 February–12 March 2022](2022-03-12-IMOP.html) | IMOP <br> El Confidencial | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.1–2.5% | 0.9–2.7% |
@@ -590,11 +590,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 45% | 100% |  |
-| 1.5–2.5% | 53% | 55% | Median |
-| 2.5–3.5% | 2% | 2% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.2% | 100% | Last Result |
+| 0.5–1.5% | 45% | 99.8% |  |
+| 1.5–2.5% | 51% | 55% | Median |
+| 2.5–3.5% | 4% | 4% |  |
+| 3.5–4.5% | 0.2% | 0.2% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -605,7 +606,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [4–6 April 2022](2022-04-06-Metroscopia.html) | Metroscopia |  |  |  |  |  |
 | [4–6 April 2022](2022-04-06-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [25 March–1 April 2022](2022-04-01-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -617,7 +618,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21–23 March 2022](2022-03-23-Metroscopia.html) | Metroscopia |  |  |  |  |  |
 | [16–19 March 2022](2022-03-19-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [11–18 March 2022](2022-03-18-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [18 March 2022](2022-03-18-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [18 March 2022](2022-03-18-KeyData.html) | Key Data <br> Público | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [16–17 March 2022](2022-03-17-Data10.html) | Data10 <br> OKDiario | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–16 March 2022](2022-03-16-Metroscopia.html) | Metroscopia |  |  |  |  |  |
 | [28 February–12 March 2022](2022-03-12-IMOP.html) | IMOP <br> El Confidencial | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1187,9 +1188,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 38% | 100% | Last Result |
-| 1 | 62% | 62% | Median |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 40% | 100% | Last Result |
+| 1 | 60% | 60% | Median |
+| 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
 
