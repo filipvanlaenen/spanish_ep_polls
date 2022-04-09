@@ -10,18 +10,27 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.0% | 24.7–31.1% | 24.1–31.8% | 23.6–32.3% | 22.7–33.2% |
+| N/A | [Poll Average](average.html) | 26.8% | 24.6–31.1% | 24.0–31.8% | 23.6–32.3% | 22.7–33.2% |
+| [4–6 April 2022](2022-04-06-Metroscopia.html) | Metroscopia | 26.3% | 24.8–28.0% | 24.3–28.5% | 23.9–28.9% | 23.2–29.7% |
+| [4–6 April 2022](2022-04-06-GAD3.html) | GAD3 <br> ABC | 25.3% | 23.6–27.1% | 23.1–27.6% | 22.7–28.1% | 21.9–29.0% |
+| [25 March–1 April 2022](2022-04-01-electoPanel.html) | electoPanel <br> electomania.es | 25.3% | 23.9–26.8% | 23.5–27.3% | 23.1–27.6% | 22.4–28.4% |
+| [28–30 March 2022](2022-03-30-Metroscopia.html) | Metroscopia | 26.0% | 24.4–27.7% | 24.0–28.2% | 23.6–28.6% | 22.8–29.4% |
 | [29 March 2022](2022-03-29-SigmaDos.html) | Sigma Dos <br> Antena 3 | 26.7% | 25.0–28.6% | 24.5–29.1% | 24.1–29.5% | 23.2–30.4% |
+| [22–28 March 2022](2022-03-28-40dB.html) | 40dB <br> Prisa | 25.5% | N/A | N/A | N/A | N/A |
 | [18–25 March 2022](2022-03-25-electoPanel.html) | electoPanel <br> electomania.es | 25.4% | 24.0–26.9% | 23.6–27.3% | 23.3–27.7% | 22.6–28.4% |
 | [14–25 March 2022](2022-03-25-IMOP.html) | IMOP <br> El Confidencial | 25.5% | 24.0–27.1% | 23.6–27.5% | 23.2–27.9% | 22.5–28.7% |
+| [21–23 March 2022](2022-03-23-Metroscopia.html) | Metroscopia | 28.0% | N/A | N/A | N/A | N/A |
 | [16–19 March 2022](2022-03-19-DYM.html) | DYM <br> Henneo | 28.7% | 26.9–30.5% | 26.4–31.1% | 26.0–31.5% | 25.1–32.4% |
 | [11–18 March 2022](2022-03-18-electoPanel.html) | electoPanel <br> electomania.es | 27.0% | 25.8–28.3% | 25.5–28.6% | 25.2–28.9% | 24.6–29.5% |
+| [18 March 2022](2022-03-18-KeyData.html) | Key Data <br> Público | 26.8% | N/A | N/A | N/A | N/A |
 | [16–17 March 2022](2022-03-17-Data10.html) | Data10 <br> OKDiario | 25.8% | 24.1–27.6% | 23.6–28.2% | 23.2–28.6% | 22.4–29.5% |
+| [14–16 March 2022](2022-03-16-Metroscopia.html) | Metroscopia | 29.0% | N/A | N/A | N/A | N/A |
 | [28 February–12 March 2022](2022-03-12-IMOP.html) | IMOP <br> El Confidencial | 27.5% | 25.9–29.1% | 25.5–29.6% | 25.1–30.0% | 24.4–30.8% |
 | [4–11 March 2022](2022-03-11-electoPanel.html) | electoPanel <br> electomania.es | 27.0% | 25.5–28.5% | 25.1–28.9% | 24.8–29.3% | 24.1–30.0% |
 | [7–11 March 2022](2022-03-11-InvyMark.html) | InvyMark <br> laSexta | 28.1% | 26.3–30.0% | 25.8–30.5% | 25.4–31.0% | 24.6–31.9% |
 | [1–11 March 2022](2022-03-11-CIS.html) | CIS | 31.5% | 30.5–32.5% | 30.3–32.7% | 30.0–33.0% | 29.6–33.4% |
 | [1–10 March 2022](2022-03-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 30.8% | 29.1–32.7% | 28.6–33.2% | 28.2–33.7% | 27.3–34.6% |
+| [7–9 March 2022](2022-03-09-Metroscopia.html) | Metroscopia | 30.0% | N/A | N/A | N/A | N/A |
 | [3–9 March 2022](2022-03-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 26.3% | 24.6–28.2% | 24.1–28.7% | 23.7–29.1% | 22.8–30.0% |
 | [2–9 March 2022](2022-03-09-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 26.8% | 25.1–28.6% | 24.7–29.1% | 24.3–29.5% | 23.5–30.4% |
 | [4–7 March 2022](2022-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 26.0% | 24.8–27.3% | 24.4–27.7% | 24.1–28.0% | 23.5–28.6% |
@@ -29,6 +38,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1–4 March 2022](2022-03-04-NCReport.html) | NC Report <br> La Razón | 25.8% | 23.7–28.2% | 23.1–28.9% | 22.6–29.4% | 21.6–30.6% |
 | [3–4 March 2022](2022-03-04-Data10.html) | Data10 <br> OKDiario | 25.3% | 23.6–27.1% | 23.1–27.6% | 22.7–28.1% | 21.9–29.0% |
 | [2 March 2022](2022-03-02-SigmaDos.html) | Sigma Dos <br> Antena 3 | 26.5% | 24.8–28.3% | 24.3–28.9% | 23.9–29.3% | 23.0–30.2% |
+| [28 February–2 March 2022](2022-03-02-Metroscopia.html) | Metroscopia | 31.0% | N/A | N/A | N/A | N/A |
 | [22–28 February 2022](2022-02-28-40dB.html) | 40dB <br> Prisa | 26.7% | 25.5–28.0% | 25.1–28.4% | 24.8–28.7% | 24.2–29.3% |
 | [23–25 February 2022](2022-02-25-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 27.8% | 25.6–30.2% | 25.0–30.9% | 24.5–31.5% | 23.4–32.6% |
 | [20–25 February 2022](2022-02-25-electoPanel.html) | electoPanel <br> electomania.es | 27.3% | 26.1–28.5% | 25.7–28.9% | 25.4–29.2% | 24.9–29.8% |
@@ -37,6 +47,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [14–25 February 2022](2022-02-25-IMOP.html) | IMOP <br> El Confidencial | 27.3% | 25.8–28.9% | 25.3–29.4% | 25.0–29.8% | 24.2–30.6% |
 | [24–25 February 2022](2022-02-25-Data10.html) | Data10 <br> OKDiario | 25.7% | 24.0–27.5% | 23.5–28.1% | 23.1–28.5% | 22.3–29.4% |
 | [24 February 2022](2022-02-24-KeyData.html) | Key Data <br> Público | 26.3% | 23.4–29.6% | 22.6–30.5% | 21.9–31.3% | 20.6–32.9% |
+| [21–23 February 2022](2022-02-23-Metroscopia.html) | Metroscopia | 30.0% | N/A | N/A | N/A | N/A |
 | [19–20 February 2022](2022-02-20-electoPanel.html) | electoPanel <br> electomania.es | 27.0% | 26.0–28.0% | 25.7–28.3% | 25.5–28.6% | 25.0–29.1% |
 | [16–20 February 2022](2022-02-20-DYM.html) | DYM <br> Henneo | 28.1% | 26.4–30.0% | 25.9–30.5% | 25.4–31.0% | 24.6–31.9% |
 | [18–19 February 2022](2022-02-19-SocioMétrica.html) | SocioMétrica <br> El Español | 25.9% | 24.2–27.7% | 23.7–28.3% | 23.3–28.7% | 22.5–29.6% |
@@ -46,10 +57,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [14–18 February 2022](2022-02-18-InvyMark.html) | InvyMark <br> laSexta | 25.9% | N/A | N/A | N/A | N/A |
 | [14–17 February 2022](2022-02-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 25.7% | N/A | N/A | N/A | N/A |
 | [14–17 February 2022](2022-02-17-GAD3.html) | GAD3 <br> NIUS | 31.9% | 29.6–34.3% | 28.9–35.0% | 28.4–35.6% | 27.3–36.8% |
+| [14–16 February 2022](2022-02-16-Metroscopia.html) | Metroscopia | 29.0% | N/A | N/A | N/A | N/A |
 | [14–16 February 2022](2022-02-16-GESOP.html) | GESOP <br> El Periódico | 26.0% | 24.3–27.9% | 23.8–28.4% | 23.4–28.9% | 22.6–29.8% |
 | [13–14 February 2022](2022-02-14-electoPanel.html) | electoPanel <br> electomania.es | 24.8% | 23.1–26.5% | 22.6–27.0% | 22.3–27.5% | 21.5–28.3% |
 | [1–12 February 2022](2022-02-12-CIS.html) | CIS | 28.6% | 27.7–29.6% | 27.4–29.8% | 27.2–30.1% | 26.7–30.5% |
 | [1–10 February 2022](2022-02-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 26.7% | 25.1–28.4% | 24.7–28.9% | 24.3–29.3% | 23.5–30.1% |
+| [7–9 February 2022](2022-02-09-Metroscopia.html) | Metroscopia | 28.0% | N/A | N/A | N/A | N/A |
 | [29 January–4 February 2022](2022-02-04-electoPanel.html) | electoPanel <br> electomania.es | 24.6% | N/A | N/A | N/A | N/A |
 | [27 January–1 February 2022](2022-02-01-40dB.html) | 40dB <br> Prisa | 27.1% | 25.8–28.4% | 25.5–28.8% | 25.2–29.1% | 24.6–29.7% |
 | [21–28 January 2022](2022-01-28-electoPanel.html) | electoPanel <br> electomania.es | 24.2% | 22.6–25.9% | 22.2–26.4% | 21.8–26.8% | 21.1–27.6% |
@@ -599,15 +612,15 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.3% | 99.9% |  |
+| 21.5–22.5% | 0.3% | 100% |  |
 | 22.5–23.5% | 2% | 99.6% |  |
-| 23.5–24.5% | 6% | 98% |  |
-| 24.5–25.5% | 14% | 91% |  |
-| 25.5–26.5% | 20% | 78% |  |
-| 26.5–27.5% | 18% | 58% | Median |
-| 27.5–28.5% | 12% | 40% |  |
+| 23.5–24.5% | 7% | 98% |  |
+| 24.5–25.5% | 15% | 90% |  |
+| 25.5–26.5% | 19% | 75% |  |
+| 26.5–27.5% | 17% | 56% | Median |
+| 27.5–28.5% | 12% | 39% |  |
 | 28.5–29.5% | 8% | 27% |  |
-| 29.5–30.5% | 6% | 20% |  |
+| 29.5–30.5% | 6% | 19% |  |
 | 30.5–31.5% | 7% | 14% |  |
 | 31.5–32.5% | 5% | 7% |  |
 | 32.5–33.5% | 1.4% | 2% |  |
@@ -623,18 +636,27 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 15–21 | 14–21 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 14–21 | 14–21 |
+| [4–6 April 2022](2022-04-06-Metroscopia.html) | Metroscopia | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [4–6 April 2022](2022-04-06-GAD3.html) | GAD3 <br> ABC | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
+| [25 March–1 April 2022](2022-04-01-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
+| [28–30 March 2022](2022-03-30-Metroscopia.html) | Metroscopia | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [29 March 2022](2022-03-29-SigmaDos.html) | Sigma Dos <br> Antena 3 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [22–28 March 2022](2022-03-28-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [18–25 March 2022](2022-03-25-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–18 | 15–18 | 15–18 | 14–18 |
 | [14–25 March 2022](2022-03-25-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
+| [21–23 March 2022](2022-03-23-Metroscopia.html) | Metroscopia |  |  |  |  |  |
 | [16–19 March 2022](2022-03-19-DYM.html) | DYM <br> Henneo | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [11–18 March 2022](2022-03-18-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 16–18 | 16–19 |
+| [18 March 2022](2022-03-18-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [16–17 March 2022](2022-03-17-Data10.html) | Data10 <br> OKDiario | 17 | 15–17 | 15–17 | 15–17 | 14–18 |
+| [14–16 March 2022](2022-03-16-Metroscopia.html) | Metroscopia |  |  |  |  |  |
 | [28 February–12 March 2022](2022-03-12-IMOP.html) | IMOP <br> El Confidencial | 16 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [4–11 March 2022](2022-03-11-electoPanel.html) | electoPanel <br> electomania.es | 17 | 15–19 | 15–19 | 15–19 | 15–19 |
 | [7–11 March 2022](2022-03-11-InvyMark.html) | InvyMark <br> laSexta | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
 | [1–11 March 2022](2022-03-11-CIS.html) | CIS | 20 | 20–21 | 19–21 | 19–21 | 19–22 |
 | [1–10 March 2022](2022-03-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
+| [7–9 March 2022](2022-03-09-Metroscopia.html) | Metroscopia |  |  |  |  |  |
 | [3–9 March 2022](2022-03-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 16 | 15–17 | 15–18 | 15–18 | 15–19 |
 | [2–9 March 2022](2022-03-09-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 16 | 15–18 | 15–19 | 15–19 | 15–19 |
 | [4–7 March 2022](2022-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
@@ -642,6 +664,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–4 March 2022](2022-03-04-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
 | [3–4 March 2022](2022-03-04-Data10.html) | Data10 <br> OKDiario | 16 | 15–17 | 14–17 | 14–17 | 14–19 |
 | [2 March 2022](2022-03-02-SigmaDos.html) | Sigma Dos <br> Antena 3 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [28 February–2 March 2022](2022-03-02-Metroscopia.html) | Metroscopia |  |  |  |  |  |
 | [22–28 February 2022](2022-02-28-40dB.html) | 40dB <br> Prisa | 16 | 15–17 | 15–17 | 15–17 | 15–18 |
 | [23–25 February 2022](2022-02-25-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 18 | 16–19 | 15–19 | 15–19 | 15–21 |
 | [20–25 February 2022](2022-02-25-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–19 | 16–19 | 16–19 | 15–19 |
@@ -650,6 +673,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–25 February 2022](2022-02-25-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–19 | 16–19 | 16–19 | 15–19 |
 | [24–25 February 2022](2022-02-25-Data10.html) | Data10 <br> OKDiario | 16 | 15–17 | 14–17 | 14–18 | 14–19 |
 | [24 February 2022](2022-02-24-KeyData.html) | Key Data <br> Público | 16 | 14–19 | 14–19 | 14–20 | 12–21 |
+| [21–23 February 2022](2022-02-23-Metroscopia.html) | Metroscopia |  |  |  |  |  |
 | [19–20 February 2022](2022-02-20-electoPanel.html) | electoPanel <br> electomania.es | 17 | 17–18 | 17–18 | 16–18 | 16–19 |
 | [16–20 February 2022](2022-02-20-DYM.html) | DYM <br> Henneo | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
 | [18–19 February 2022](2022-02-19-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
@@ -659,10 +683,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–18 February 2022](2022-02-18-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
 | [14–17 February 2022](2022-02-17-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [14–17 February 2022](2022-02-17-GAD3.html) | GAD3 <br> NIUS | 20 | 18–21 | 18–21 | 18–22 | 17–23 |
+| [14–16 February 2022](2022-02-16-Metroscopia.html) | Metroscopia |  |  |  |  |  |
 | [14–16 February 2022](2022-02-16-GESOP.html) | GESOP <br> El Periódico | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [13–14 February 2022](2022-02-14-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [1–12 February 2022](2022-02-12-CIS.html) | CIS | 18 | 17–19 | 17–19 | 17–19 | 17–20 |
 | [1–10 February 2022](2022-02-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
+| [7–9 February 2022](2022-02-09-Metroscopia.html) | Metroscopia |  |  |  |  |  |
 | [29 January–4 February 2022](2022-02-04-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [27 January–1 February 2022](2022-02-01-40dB.html) | 40dB <br> Prisa | 16 | 16–17 | 15–17 | 15–18 | 15–18 |
 | [21–28 January 2022](2022-01-28-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–17 | 14–17 | 14–17 | 13–17 |
@@ -1205,12 +1231,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.1% | 100% |  |
-| 14 | 2% | 99.9% |  |
-| 15 | 14% | 98% |  |
-| 16 | 28% | 84% |  |
-| 17 | 26% | 56% | Median |
-| 18 | 14% | 30% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 4% | 99.8% |  |
+| 15 | 18% | 96% |  |
+| 16 | 27% | 78% |  |
+| 17 | 24% | 51% | Median |
+| 18 | 12% | 27% |  |
 | 19 | 6% | 16% |  |
 | 20 | 6% | 10% |  |
 | 21 | 4% | 4% |  |
