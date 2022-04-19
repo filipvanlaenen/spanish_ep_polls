@@ -10,8 +10,20 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.7% | 24.5–30.9% | 24.0–31.7% | 23.5–32.2% | 22.5–33.2% |
+| N/A | [Poll Average](average.html) | 26.0% | 23.9–29.3% | 23.4–30.3% | 22.9–30.8% | 22.0–31.7% |
+| [8–15 April 2022](2022-04-15-electoPanel.html) | electoPanel <br> electomania.es | 24.8% | 23.3–26.4% | 22.9–26.9% | 22.5–27.3% | 21.9–28.0% |
+| [15 April 2022](2022-04-15-NCReport.html) | NC Report <br> La Razón | 25.4% | 23.7–27.2% | 23.2–27.7% | 22.8–28.2% | 22.0–29.1% |
+| [9 April 2022](2022-04-09-SocioMétrica.html) | SocioMétrica <br> El Español | 25.9% | 24.1–27.8% | 23.6–28.4% | 23.1–28.9% | 22.3–29.8% |
+| [1–9 April 2022](2022-04-09-CIS.html) | CIS | 30.3% | 29.3–31.3% | 29.1–31.6% | 28.8–31.8% | 28.4–32.3% |
+| [1–8 April 2022](2022-04-08-electoPanel.html) | electoPanel <br> electomania.es | 24.7% | N/A | N/A | N/A | N/A |
+| [28 March–8 April 2022](2022-04-08-IMOP.html) | IMOP <br> El Confidencial | 24.9% | 23.4–26.5% | 23.0–26.9% | 22.6–27.3% | 21.9–28.1% |
+| [4–7 April 2022](2022-04-07-TargetPoint.html) | Target Point <br> El Debate | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.6% |
+| [1–7 April 2022](2022-04-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 27.2% | 25.1–29.4% | 24.5–30.1% | 24.0–30.6% | 23.0–31.7% |
+| [5–7 April 2022](2022-04-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 26.3% | 25.2–27.5% | 24.8–27.8% | 24.6–28.1% | 24.0–28.7% |
+| [4–7 April 2022](2022-04-07-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 25.9% | 24.1–27.8% | 23.6–28.4% | 23.1–28.9% | 22.3–29.8% |
+| [6–7 April 2022](2022-04-07-Data10.html) | Data10 <br> OKDiario | 24.5% | 22.8–26.3% | 22.3–26.8% | 21.9–27.3% | 21.1–28.2% |
 | [4–6 April 2022](2022-04-06-Metroscopia.html) | Metroscopia | 26.3% | 24.8–28.0% | 24.3–28.5% | 23.9–28.9% | 23.2–29.7% |
+| [4–6 April 2022](2022-04-06-GESOP.html) | GESOP <br> El Periódico | 26.9% | 25.1–28.8% | 24.7–29.3% | 24.2–29.7% | 23.4–30.7% |
 | [4–6 April 2022](2022-04-06-GAD3.html) | GAD3 <br> ABC | 25.3% | 23.6–27.1% | 23.1–27.6% | 22.7–28.1% | 21.9–29.0% |
 | [25 March–1 April 2022](2022-04-01-electoPanel.html) | electoPanel <br> electomania.es | 25.3% | 23.9–26.8% | 23.5–27.3% | 23.1–27.6% | 22.4–28.4% |
 | [28–30 March 2022](2022-03-30-Metroscopia.html) | Metroscopia | 26.0% | 24.4–27.7% | 24.0–28.2% | 23.6–28.6% | 22.8–29.4% |
@@ -611,21 +623,20 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.4% | 99.9% |  |
-| 22.5–23.5% | 2% | 99.5% |  |
-| 23.5–24.5% | 8% | 97% |  |
-| 24.5–25.5% | 16% | 89% |  |
-| 25.5–26.5% | 20% | 73% |  |
-| 26.5–27.5% | 17% | 53% | Median |
-| 27.5–28.5% | 11% | 36% |  |
-| 28.5–29.5% | 7% | 25% |  |
-| 29.5–30.5% | 5% | 18% |  |
-| 30.5–31.5% | 6% | 12% |  |
-| 31.5–32.5% | 5% | 6% |  |
-| 32.5–33.5% | 1.2% | 2% |  |
-| 33.5–34.5% | 0.2% | 0.3% |  |
-| 34.5–35.5% | 0% | 0% |  |
+| 20.5–21.5% | 0.2% | 100% |  |
+| 21.5–22.5% | 1.2% | 99.8% |  |
+| 22.5–23.5% | 5% | 98.5% |  |
+| 23.5–24.5% | 13% | 94% |  |
+| 24.5–25.5% | 20% | 81% |  |
+| 25.5–26.5% | 22% | 61% | Median |
+| 26.5–27.5% | 16% | 39% |  |
+| 27.5–28.5% | 9% | 23% |  |
+| 28.5–29.5% | 6% | 14% |  |
+| 29.5–30.5% | 5% | 9% |  |
+| 30.5–31.5% | 3% | 4% |  |
+| 31.5–32.5% | 0.6% | 0.7% |  |
+| 32.5–33.5% | 0.1% | 0.1% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -636,8 +647,20 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–19 | 15–20 | 14–21 | 14–21 |
+| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
+| [8–15 April 2022](2022-04-15-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–17 | 14–17 | 14–17 | 14–18 |
+| [15 April 2022](2022-04-15-NCReport.html) | NC Report <br> La Razón | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
+| [9 April 2022](2022-04-09-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–16 | 15–16 | 15–17 | 14–18 |
+| [1–9 April 2022](2022-04-09-CIS.html) | CIS | 19 | 19–20 | 19–20 | 18–20 | 18–21 |
+| [1–8 April 2022](2022-04-08-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [28 March–8 April 2022](2022-04-08-IMOP.html) | IMOP <br> El Confidencial | 16 | 14–17 | 14–17 | 14–18 | 14–18 |
+| [4–7 April 2022](2022-04-07-TargetPoint.html) | Target Point <br> El Debate | 15 | 14–16 | 14–17 | 13–17 | 13–17 |
+| [1–7 April 2022](2022-04-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
+| [5–7 April 2022](2022-04-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 16 | 16–17 | 15–17 | 15–18 | 15–18 |
+| [4–7 April 2022](2022-04-07-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
+| [6–7 April 2022](2022-04-07-Data10.html) | Data10 <br> OKDiario | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [4–6 April 2022](2022-04-06-Metroscopia.html) | Metroscopia | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [4–6 April 2022](2022-04-06-GESOP.html) | GESOP <br> El Periódico | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
 | [4–6 April 2022](2022-04-06-GAD3.html) | GAD3 <br> ABC | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [25 March–1 April 2022](2022-04-01-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [28–30 March 2022](2022-03-30-Metroscopia.html) | Metroscopia | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
@@ -1231,16 +1254,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.3% | 100% |  |
-| 14 | 4% | 99.7% |  |
-| 15 | 20% | 95% |  |
-| 16 | 28% | 75% | Median |
-| 17 | 23% | 48% |  |
-| 18 | 11% | 25% |  |
-| 19 | 5% | 14% |  |
-| 20 | 5% | 8% |  |
-| 21 | 3% | 3% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 13 | 0.6% | 100% |  |
+| 14 | 7% | 99.3% |  |
+| 15 | 26% | 92% |  |
+| 16 | 35% | 66% | Median |
+| 17 | 17% | 31% |  |
+| 18 | 6% | 13% |  |
+| 19 | 6% | 7% |  |
+| 20 | 1.2% | 1.4% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 
