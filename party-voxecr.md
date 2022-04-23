@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.3% | 15.1–22.3% | 14.4–23.4% | 14.0–24.2% | 13.4–25.5% |
+| N/A | [Poll Average](average.html) | 18.4% | 15.1–22.3% | 14.4–23.4% | 14.0–24.2% | 13.4–25.4% |
+| [11–20 April 2022](2022-04-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 17.1% | 15.7–18.6% | 15.3–19.1% | 15.0–19.4% | 14.3–20.2% |
+| [11–18 April 2022](2022-04-18-SWDemoscopia.html) | SW Demoscopia | 20.7% | 19.2–22.2% | 18.8–22.7% | 18.5–23.0% | 17.8–23.8% |
 | [8–15 April 2022](2022-04-15-electoPanel.html) | electoPanel <br> electomania.es | 23.7% | 22.2–25.2% | 21.8–25.7% | 21.4–26.1% | 20.7–26.8% |
 | [15 April 2022](2022-04-15-NCReport.html) | NC Report <br> La Razón | 16.3% | 14.9–17.9% | 14.5–18.3% | 14.1–18.7% | 13.5–19.5% |
 | [9 April 2022](2022-04-09-SocioMétrica.html) | SocioMétrica <br> El Español | 19.6% | 17.9–21.3% | 17.5–21.8% | 17.1–22.3% | 16.3–23.2% |
@@ -620,15 +622,15 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 8% | 94% |  |
 | 15.5–16.5% | 10% | 86% |  |
 | 16.5–17.5% | 14% | 76% |  |
-| 17.5–18.5% | 15% | 62% | Median |
-| 18.5–19.5% | 13% | 47% |  |
-| 19.5–20.5% | 11% | 34% |  |
-| 20.5–21.5% | 8% | 23% |  |
+| 17.5–18.5% | 14% | 62% | Median |
+| 18.5–19.5% | 13% | 48% |  |
+| 19.5–20.5% | 11% | 35% |  |
+| 20.5–21.5% | 9% | 24% |  |
 | 21.5–22.5% | 6% | 15% |  |
-| 22.5–23.5% | 4% | 9% |  |
-| 23.5–24.5% | 3% | 5% |  |
-| 24.5–25.5% | 1.3% | 2% |  |
-| 25.5–26.5% | 0.4% | 0.5% |  |
+| 22.5–23.5% | 4% | 8% |  |
+| 23.5–24.5% | 3% | 4% |  |
+| 24.5–25.5% | 1.2% | 2% |  |
+| 25.5–26.5% | 0.4% | 0.4% |  |
 | 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
@@ -642,6 +644,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–14 | 9–15 | 9–15 | 8–16 |
+| [11–20 April 2022](2022-04-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
+| [11–18 April 2022](2022-04-18-SWDemoscopia.html) | SW Demoscopia | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
 | [8–15 April 2022](2022-04-15-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
 | [15 April 2022](2022-04-15-NCReport.html) | NC Report <br> La Razón | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [9 April 2022](2022-04-09-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 12–13 | 11–13 | 11–13 | 10–14 |
@@ -1245,14 +1249,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.1% | 100% |  |
 | 8 | 2% | 99.9% |  |
 | 9 | 15% | 98% |  |
-| 10 | 19% | 83% |  |
-| 11 | 24% | 64% | Median |
-| 12 | 16% | 40% |  |
-| 13 | 10% | 24% |  |
-| 14 | 7% | 14% |  |
+| 10 | 18% | 83% |  |
+| 11 | 22% | 65% | Median |
+| 12 | 16% | 43% |  |
+| 13 | 12% | 27% |  |
+| 14 | 8% | 15% |  |
 | 15 | 5% | 7% |  |
 | 16 | 2% | 2% |  |
-| 17 | 0.1% | 0.1% |  |
-| 18 | 0% | 0% |  |
+| 17 | 0% | 0% |  |
 
 
