@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.8% | 23.9–28.5% | 23.4–29.9% | 22.9–30.6% | 22.0–31.4% |
+| N/A | [Poll Average](average.html) | 25.9% | 23.9–28.7% | 23.4–29.9% | 22.9–30.6% | 21.9–31.5% |
+| [15–22 April 2022](2022-04-22-electoPanel.html) | electoPanel <br> electomania.es | 24.7% | 23.5–26.0% | 23.1–26.4% | 22.8–26.7% | 22.2–27.4% |
+| [18–22 April 2022](2022-04-22-InvyMark.html) | InvyMark <br> laSexta | 27.6% | 25.8–29.5% | 25.3–30.0% | 24.9–30.5% | 24.1–31.4% |
+| [20 April 2022](2022-04-20-KeyData.html) | Key Data <br> Público | 26.1% | 23.2–29.3% | 22.4–30.2% | 21.7–31.0% | 20.4–32.5% |
 | [11–20 April 2022](2022-04-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 26.4% | 24.7–28.1% | 24.2–28.6% | 23.8–29.1% | 23.1–29.9% |
 | [11–18 April 2022](2022-04-18-SWDemoscopia.html) | SW Demoscopia | 25.3% | 23.7–27.0% | 23.3–27.4% | 22.9–27.8% | 22.2–28.7% |
 | [8–15 April 2022](2022-04-15-electoPanel.html) | electoPanel <br> electomania.es | 24.8% | 23.3–26.4% | 22.9–26.9% | 22.5–27.3% | 21.9–28.0% |
@@ -626,18 +629,19 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.2% | 100% |  |
-| 21.5–22.5% | 1.2% | 99.8% |  |
-| 22.5–23.5% | 5% | 98.6% |  |
-| 23.5–24.5% | 14% | 94% |  |
-| 24.5–25.5% | 22% | 80% |  |
-| 25.5–26.5% | 24% | 57% | Median |
-| 26.5–27.5% | 16% | 33% |  |
-| 27.5–28.5% | 7% | 17% |  |
-| 28.5–29.5% | 4% | 10% |  |
-| 29.5–30.5% | 4% | 6% |  |
+| 21.5–22.5% | 1.2% | 99.7% |  |
+| 22.5–23.5% | 5% | 98.5% |  |
+| 23.5–24.5% | 13% | 94% |  |
+| 24.5–25.5% | 21% | 80% |  |
+| 25.5–26.5% | 23% | 59% | Median |
+| 26.5–27.5% | 16% | 36% |  |
+| 27.5–28.5% | 9% | 20% |  |
+| 28.5–29.5% | 5% | 11% |  |
+| 29.5–30.5% | 4% | 7% |  |
 | 30.5–31.5% | 2% | 3% |  |
 | 31.5–32.5% | 0.4% | 0.4% |  |
 | 32.5–33.5% | 0% | 0% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -649,6 +653,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
+| [15–22 April 2022](2022-04-22-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
+| [18–22 April 2022](2022-04-22-InvyMark.html) | InvyMark <br> laSexta | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
+| [20 April 2022](2022-04-20-KeyData.html) | Key Data <br> Público | 15 | 14–18 | 14–18 | 13–19 | 12–20 |
 | [11–20 April 2022](2022-04-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [11–18 April 2022](2022-04-18-SWDemoscopia.html) | SW Demoscopia | 15 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [8–15 April 2022](2022-04-15-electoPanel.html) | electoPanel <br> electomania.es | 15 | 15–17 | 14–17 | 14–17 | 14–18 |
@@ -1257,14 +1264,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.6% | 100% |  |
-| 14 | 7% | 99.4% |  |
-| 15 | 29% | 92% |  |
-| 16 | 38% | 62% | Median |
-| 17 | 15% | 25% |  |
-| 18 | 4% | 10% |  |
+| 13 | 0.7% | 99.9% |  |
+| 14 | 7% | 99.2% |  |
+| 15 | 28% | 92% |  |
+| 16 | 36% | 64% | Median |
+| 17 | 17% | 28% |  |
+| 18 | 5% | 11% |  |
 | 19 | 5% | 6% |  |
-| 20 | 1.1% | 1.2% |  |
+| 20 | 1.0% | 1.1% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
