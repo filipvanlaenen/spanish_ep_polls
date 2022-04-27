@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.9% | 23.9–28.7% | 23.4–29.9% | 22.9–30.6% | 21.9–31.5% |
+| N/A | [Poll Average](average.html) | 26.0% | 24.0–28.7% | 23.5–29.9% | 23.0–30.6% | 22.0–31.5% |
+| [11–23 April 2022](2022-04-23-IMOP.html) | IMOP <br> El Confidencial | 25.7% | 24.2–27.3% | 23.8–27.7% | 23.4–28.1% | 22.7–28.9% |
 | [15–22 April 2022](2022-04-22-electoPanel.html) | electoPanel <br> electomania.es | 24.7% | 23.5–26.0% | 23.1–26.4% | 22.8–26.7% | 22.2–27.4% |
 | [18–22 April 2022](2022-04-22-InvyMark.html) | InvyMark <br> laSexta | 27.6% | 25.8–29.5% | 25.3–30.0% | 24.9–30.5% | 24.1–31.4% |
+| [20–22 April 2022](2022-04-22-DYM.html) | DYM <br> Henneo | 26.5% | 24.8–28.3% | 24.3–28.8% | 23.9–29.3% | 23.0–30.2% |
 | [20 April 2022](2022-04-20-KeyData.html) | Key Data <br> Público | 26.1% | 23.2–29.3% | 22.4–30.2% | 21.7–31.0% | 20.4–32.5% |
 | [11–20 April 2022](2022-04-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 26.4% | 24.7–28.1% | 24.2–28.6% | 23.8–29.1% | 23.1–29.9% |
 | [11–18 April 2022](2022-04-18-SWDemoscopia.html) | SW Demoscopia | 25.3% | 23.7–27.0% | 23.3–27.4% | 22.9–27.8% | 22.2–28.7% |
@@ -629,19 +631,18 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.2% | 100% |  |
-| 21.5–22.5% | 1.2% | 99.7% |  |
-| 22.5–23.5% | 5% | 98.5% |  |
-| 23.5–24.5% | 13% | 94% |  |
-| 24.5–25.5% | 21% | 80% |  |
-| 25.5–26.5% | 23% | 59% | Median |
-| 26.5–27.5% | 16% | 36% |  |
+| 21.5–22.5% | 1.1% | 99.8% |  |
+| 22.5–23.5% | 4% | 98.7% |  |
+| 23.5–24.5% | 12% | 94% |  |
+| 24.5–25.5% | 21% | 82% |  |
+| 25.5–26.5% | 24% | 61% | Median |
+| 26.5–27.5% | 17% | 37% |  |
 | 27.5–28.5% | 9% | 20% |  |
 | 28.5–29.5% | 5% | 11% |  |
-| 29.5–30.5% | 4% | 7% |  |
+| 29.5–30.5% | 4% | 6% |  |
 | 30.5–31.5% | 2% | 3% |  |
 | 31.5–32.5% | 0.4% | 0.4% |  |
 | 32.5–33.5% | 0% | 0% |  |
-| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -653,8 +654,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
+| [11–23 April 2022](2022-04-23-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [15–22 April 2022](2022-04-22-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [18–22 April 2022](2022-04-22-InvyMark.html) | InvyMark <br> laSexta | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
+| [20–22 April 2022](2022-04-22-DYM.html) | DYM <br> Henneo | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [20 April 2022](2022-04-20-KeyData.html) | Key Data <br> Público | 15 | 14–18 | 14–18 | 13–19 | 12–20 |
 | [11–20 April 2022](2022-04-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [11–18 April 2022](2022-04-18-SWDemoscopia.html) | SW Demoscopia | 15 | 15–17 | 14–17 | 14–18 | 14–18 |
@@ -1265,11 +1268,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0.7% | 99.9% |  |
-| 14 | 7% | 99.2% |  |
-| 15 | 28% | 92% |  |
-| 16 | 36% | 64% | Median |
-| 17 | 17% | 28% |  |
-| 18 | 5% | 11% |  |
+| 14 | 6% | 99.3% |  |
+| 15 | 28% | 93% |  |
+| 16 | 37% | 66% | Median |
+| 17 | 18% | 28% |  |
+| 18 | 5% | 10% |  |
 | 19 | 5% | 6% |  |
 | 20 | 1.0% | 1.1% |  |
 | 21 | 0.1% | 0.1% |  |

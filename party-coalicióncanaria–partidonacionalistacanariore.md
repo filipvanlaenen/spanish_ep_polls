@@ -11,8 +11,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.3–1.0% | 0.2–1.2% | 0.2–1.4% | 0.1–1.9% |
+| [11–23 April 2022](2022-04-23-IMOP.html) | IMOP <br> El Confidencial | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
 | [15–22 April 2022](2022-04-22-electoPanel.html) | electoPanel <br> electomania.es | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% |
 | [18–22 April 2022](2022-04-22-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [20–22 April 2022](2022-04-22-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [20 April 2022](2022-04-20-KeyData.html) | Key Data <br> Público | 0.6% | 0.3–1.5% | 0.2–1.8% | 0.2–2.1% | 0.1–2.7% |
 | [11–20 April 2022](2022-04-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.0% | N/A | N/A | N/A | N/A |
 | [11–18 April 2022](2022-04-18-SWDemoscopia.html) | SW Demoscopia | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
@@ -623,8 +625,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [11–23 April 2022](2022-04-23-IMOP.html) | IMOP <br> El Confidencial | 0 | 0 | 0 | 0 | 0 |
 | [15–22 April 2022](2022-04-22-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
 | [18–22 April 2022](2022-04-22-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
+| [20–22 April 2022](2022-04-22-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [20 April 2022](2022-04-20-KeyData.html) | Key Data <br> Público | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [11–20 April 2022](2022-04-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
 | [11–18 April 2022](2022-04-18-SWDemoscopia.html) | SW Demoscopia | 0 | 0 | 0 | 0 | 0 |

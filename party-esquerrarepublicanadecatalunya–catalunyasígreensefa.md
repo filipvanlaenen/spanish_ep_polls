@@ -11,8 +11,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.1% | 2.4–4.0% | 2.2–4.3% | 2.1–4.7% | 1.9–5.5% |
+| [11–23 April 2022](2022-04-23-IMOP.html) | IMOP <br> El Confidencial | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 2.0–4.5% |
 | [15–22 April 2022](2022-04-22-electoPanel.html) | electoPanel <br> electomania.es | 2.8% | 2.3–3.3% | 2.2–3.5% | 2.1–3.6% | 1.9–3.9% |
 | [18–22 April 2022](2022-04-22-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [20–22 April 2022](2022-04-22-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [20 April 2022](2022-04-20-KeyData.html) | Key Data <br> Público | 3.5% | 2.5–5.1% | 2.2–5.6% | 2.0–6.0% | 1.6–6.9% |
 | [11–20 April 2022](2022-04-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.0% | N/A | N/A | N/A | N/A |
 | [11–18 April 2022](2022-04-18-SWDemoscopia.html) | SW Demoscopia | 3.6% | 3.0–4.4% | 2.8–4.6% | 2.7–4.8% | 2.4–5.2% |
@@ -627,8 +629,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [11–23 April 2022](2022-04-23-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–22 April 2022](2022-04-22-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–22 April 2022](2022-04-22-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
+| [20–22 April 2022](2022-04-22-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [20 April 2022](2022-04-20-KeyData.html) | Key Data <br> Público | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
 | [11–20 April 2022](2022-04-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
 | [11–18 April 2022](2022-04-18-SWDemoscopia.html) | SW Demoscopia | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -1226,8 +1230,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 47% | 99.9% |  |
-| 2 | 52% | 53% | Median |
+| 1 | 48% | 99.9% |  |
+| 2 | 51% | 52% | Median |
 | 3 | 1.2% | 1.3% |  |
 | 4 | 0% | 0% |  |
 
