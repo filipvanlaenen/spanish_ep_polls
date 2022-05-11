@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.2–2.2% | 1.0–2.4% | 0.9–2.6% | 0.7–3.1% |
+| N/A | [Poll Average](average.html) | 1.6% | 1.1–2.2% | 1.0–2.4% | 0.9–2.6% | 0.7–3.2% |
+| [25 April–8 May 2022](2022-05-08-IMOP.html) | IMOP <br> El Confidencial | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.1–2.5% | 0.9–2.7% |
+| [4–7 May 2022](2022-05-07-SocioMétrica.html) | SocioMétrica <br> El Español | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.0–2.5% | 0.9–2.8% |
+| [29 April–6 May 2022](2022-05-06-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.1–2.0% | 1.0–2.1% | 1.0–2.3% | 0.8–2.6% |
+| [5–6 May 2022](2022-05-06-Data10.html) | Data10 <br> OKDiario | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [22–29 April 2022](2022-04-29-electoPanel.html) | electoPanel <br> electomania.es | 1.6% | 1.3–1.9% | 1.3–2.0% | 1.2–2.1% | 1.1–2.3% |
 | [20–25 April 2022](2022-04-25-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [11–23 April 2022](2022-04-23-IMOP.html) | IMOP <br> El Confidencial | 1.5% | 1.2–2.0% | 1.1–2.2% | 1.0–2.3% | 0.8–2.6% |
@@ -611,11 +615,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 44% | 99.9% |  |
-| 1.5–2.5% | 53% | 55% | Median |
+| 0.0–0.5% | 0.2% | 100% | Last Result |
+| 0.5–1.5% | 49% | 99.8% |  |
+| 1.5–2.5% | 48% | 50% | Median |
 | 2.5–3.5% | 3% | 3% |  |
-| 3.5–4.5% | 0.1% | 0.2% |  |
+| 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -627,7 +631,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [25 April–8 May 2022](2022-05-08-IMOP.html) | IMOP <br> El Confidencial | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–7 May 2022](2022-05-07-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [29 April–6 May 2022](2022-05-06-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [5–6 May 2022](2022-05-06-Data10.html) | Data10 <br> OKDiario | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–29 April 2022](2022-04-29-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–25 April 2022](2022-04-25-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [11–23 April 2022](2022-04-23-IMOP.html) | IMOP <br> El Confidencial | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1230,9 +1238,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 44% | 100% | Last Result |
-| 1 | 55% | 56% | Median |
-| 2 | 0.5% | 0.5% |  |
+| 0 | 51% | 100% | Last Result, Median |
+| 1 | 48% | 49% |  |
+| 2 | 0.5% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
 
