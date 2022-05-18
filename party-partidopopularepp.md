@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.8% | 22.6–28.8% | 21.8–29.7% | 21.2–30.5% | 20.2–31.9% |
+| N/A | [Poll Average](average.html) | 25.4% | 22.4–28.7% | 21.7–29.7% | 21.2–30.5% | 20.3–31.9% |
+| [9–14 May 2022](2022-05-14-SWDemoscopia.html) | SW Demoscopia | 22.7% | 21.2–24.3% | 20.8–24.8% | 20.4–25.1% | 19.7–25.9% |
+| [6–13 May 2022](2022-05-13-electoPanel.html) | electoPanel <br> electomania.es | 22.4% | 21.0–23.8% | 20.6–24.2% | 20.3–24.6% | 19.6–25.3% |
+| [5–9 May 2022](2022-05-09-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 24.5% | 22.4–26.8% | 21.8–27.4% | 21.3–28.0% | 20.3–29.1% |
 | [25 April–8 May 2022](2022-05-08-IMOP.html) | IMOP <br> El Confidencial | 26.4% | 24.9–28.0% | 24.4–28.5% | 24.1–28.9% | 23.4–29.7% |
 | [4–7 May 2022](2022-05-07-SocioMétrica.html) | SocioMétrica <br> El Español | 25.0% | 23.4–26.7% | 23.0–27.1% | 22.6–27.5% | 21.9–28.3% |
 | [29 April–6 May 2022](2022-05-06-electoPanel.html) | electoPanel <br> electomania.es | 22.0% | 20.6–23.5% | 20.2–23.9% | 19.8–24.3% | 19.2–25.0% |
@@ -635,16 +638,16 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 0.8% | 99.9% |  |
-| 20.5–21.5% | 3% | 99.1% |  |
-| 21.5–22.5% | 6% | 96% |  |
-| 22.5–23.5% | 9% | 90% |  |
-| 23.5–24.5% | 12% | 81% |  |
-| 24.5–25.5% | 15% | 68% |  |
-| 25.5–26.5% | 16% | 54% | Median |
-| 26.5–27.5% | 16% | 38% |  |
-| 27.5–28.5% | 10% | 22% |  |
-| 28.5–29.5% | 6% | 11% |  |
+| 19.5–20.5% | 0.7% | 99.9% |  |
+| 20.5–21.5% | 3% | 99.2% |  |
+| 21.5–22.5% | 8% | 96% |  |
+| 22.5–23.5% | 11% | 88% |  |
+| 23.5–24.5% | 14% | 77% |  |
+| 24.5–25.5% | 15% | 63% | Median |
+| 25.5–26.5% | 16% | 48% |  |
+| 26.5–27.5% | 12% | 32% |  |
+| 27.5–28.5% | 8% | 20% |  |
+| 28.5–29.5% | 5% | 11% |  |
 | 29.5–30.5% | 3% | 6% |  |
 | 30.5–31.5% | 2% | 2% |  |
 | 31.5–32.5% | 0.6% | 0.8% |  |
@@ -661,6 +664,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–18 | 14–19 | 13–19 | 13–20 |
+| [9–14 May 2022](2022-05-14-SWDemoscopia.html) | SW Demoscopia | 14 | 14–16 | 13–16 | 13–16 | 12–16 |
+| [6–13 May 2022](2022-05-13-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–15 | 13–15 | 13–16 |
+| [5–9 May 2022](2022-05-09-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 15 | 14–17 | 14–18 | 13–18 | 12–18 |
 | [25 April–8 May 2022](2022-05-08-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–18 | 15–18 | 15–18 | 15–19 |
 | [4–7 May 2022](2022-05-07-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [29 April–6 May 2022](2022-05-06-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
@@ -1279,13 +1285,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.2% | 100% |  |
-| 13 | 3% | 99.8% |  |
-| 14 | 15% | 97% |  |
-| 15 | 21% | 82% |  |
-| 16 | 25% | 60% | Median |
-| 17 | 21% | 35% |  |
-| 18 | 9% | 14% |  |
+| 12 | 0.3% | 100% |  |
+| 13 | 2% | 99.7% |  |
+| 14 | 14% | 97% |  |
+| 15 | 27% | 83% |  |
+| 16 | 27% | 56% | Median |
+| 17 | 16% | 29% |  |
+| 18 | 8% | 13% |  |
 | 19 | 4% | 5% |  |
 | 20 | 1.5% | 2% |  |
 | 21 | 0.1% | 0.1% |  |
