@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.9–3.9% | 1.7–4.3% | 1.5–4.6% | 1.2–5.2% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.9–3.9% | 1.7–4.2% | 1.5–4.5% | 1.2–5.2% |
 | [9–14 May 2022](2022-05-14-SWDemoscopia.html) | SW Demoscopia | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.2–4.2% | 2.0–4.6% |
 | [6–13 May 2022](2022-05-13-electoPanel.html) | electoPanel <br> electomania.es | 2.4% | 2.0–3.0% | 1.9–3.2% | 1.8–3.4% | 1.6–3.7% |
+| [3–12 May 2022](2022-05-12-CIS.html) | CIS | 2.1% | 1.8–2.4% | 1.8–2.5% | 1.7–2.6% | 1.6–2.8% |
 | [5–9 May 2022](2022-05-09-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 3.7% | 2.9–4.8% | 2.7–5.2% | 2.5–5.5% | 2.1–6.1% |
 | [25 April–8 May 2022](2022-05-08-IMOP.html) | IMOP <br> El Confidencial | 1.9% | 1.5–2.5% | 1.4–2.7% | 1.3–2.8% | 1.1–3.1% |
 | [4–7 May 2022](2022-05-07-SocioMétrica.html) | SocioMétrica <br> El Español | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
@@ -620,10 +621,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 31% | 97% |  |
-| 2.5–3.5% | 46% | 66% | Median |
-| 3.5–4.5% | 18% | 20% |  |
-| 4.5–5.5% | 2% | 3% |  |
+| 1.5–2.5% | 36% | 97% |  |
+| 2.5–3.5% | 43% | 61% | Median |
+| 3.5–4.5% | 16% | 19% |  |
+| 4.5–5.5% | 2% | 2% |  |
 | 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -636,9 +637,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [9–14 May 2022](2022-05-14-SWDemoscopia.html) | SW Demoscopia | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–13 May 2022](2022-05-13-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1–2 | 0–2 |
+| [3–12 May 2022](2022-05-12-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1 |
 | [5–9 May 2022](2022-05-09-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [25 April–8 May 2022](2022-05-08-IMOP.html) | IMOP <br> El Confidencial | 1 | 1 | 1 | 0–2 | 0–2 |
 | [4–7 May 2022](2022-05-07-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -1247,9 +1249,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% | Last Result |
-| 1 | 61% | 98% | Median |
-| 2 | 34% | 37% |  |
-| 3 | 3% | 3% |  |
+| 1 | 64% | 98% | Median |
+| 2 | 32% | 34% |  |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 
