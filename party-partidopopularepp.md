@@ -10,13 +10,24 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.8% | 22.8–29.2% | 22.2–30.0% | 21.6–30.7% | 20.7–32.2% |
-| [23 May 2022](2022-05-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 26.9% | 25.2–28.7% | 24.8–29.2% | 24.4–29.6% | 23.6–30.5% |
+| N/A | [Poll Average](average.html) | 30.9% | 29.1–32.8% | 28.6–33.4% | 28.1–33.8% | 27.3–34.8% |
+| [20–22 June 2022](2022-06-22-GESOP.html) | GESOP <br> Prensa Ibérica | 31.5% | N/A | N/A | N/A | N/A |
+| [20 June 2022](2022-06-20-Data10.html) | Data10 <br> OKDiario | 30.9% | 29.1–32.8% | 28.5–33.4% | 28.1–33.8% | 27.3–34.8% |
+| [7–10 June 2022](2022-06-10-electoPanel.html) | electoPanel <br> electomania.es | 23.6% | N/A | N/A | N/A | N/A |
+| [1–9 June 2022](2022-06-09-CIS.html) | CIS | 27.0% | N/A | N/A | N/A | N/A |
+| [30 May–3 June 2022](2022-06-03-InvyMark.html) | InvyMark <br> laSexta | 26.1% | N/A | N/A | N/A | N/A |
+| [28 May–2 June 2022](2022-06-02-electoPanel.html) | electoPanel <br> electomania.es | 23.4% | N/A | N/A | N/A | N/A |
+| [31 May–1 June 2022](2022-06-01-Data10.html) | Data10 <br> OKDiario | 24.0% | N/A | N/A | N/A | N/A |
+| [21–27 May 2022](2022-05-27-electoPanel.html) | electoPanel <br> electomania.es | 23.3% | N/A | N/A | N/A | N/A |
+| [26 May 2022](2022-05-26-KeyData.html) | Key Data <br> Público | 25.7% | N/A | N/A | N/A | N/A |
+| [18–23 May 2022](2022-05-23-40dB.html) | 40dB <br> Prisa | 26.4% | N/A | N/A | N/A | N/A |
 | [9–21 May 2022](2022-05-21-IMOP.html) | IMOP <br> El Confidencial | 26.0% | 24.5–27.6% | 24.1–28.1% | 23.7–28.5% | 23.0–29.3% |
 | [14–19 May 2022](2022-05-19-electoPanel.html) | electoPanel <br> electomania.es | 23.5% | 22.3–24.8% | 21.9–25.2% | 21.6–25.5% | 21.1–26.1% |
+| [25 April–18 May 2022](2022-05-18-CEMOP.html) | CEMOP | 28.3% | N/A | N/A | N/A | N/A |
 | [9–14 May 2022](2022-05-14-SWDemoscopia.html) | SW Demoscopia | 22.7% | 21.2–24.3% | 20.8–24.8% | 20.4–25.1% | 19.7–25.9% |
 | [6–13 May 2022](2022-05-13-electoPanel.html) | electoPanel <br> electomania.es | 22.4% | 21.0–23.8% | 20.6–24.2% | 20.3–24.6% | 19.6–25.3% |
 | [11–13 May 2022](2022-05-13-DYM.html) | DYM <br> Henneo | 28.4% | 26.6–30.3% | 26.1–30.8% | 25.7–31.3% | 24.8–32.2% |
+| [9–13 May 2022](2022-05-13-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 26.9% | N/A | N/A | N/A | N/A |
 | [3–12 May 2022](2022-05-12-CIS.html) | CIS | 28.7% | 27.8–29.6% | 27.5–29.9% | 27.3–30.1% | 26.8–30.6% |
 | [3–11 May 2022](2022-05-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 29.3% | 27.1–31.6% | 26.5–32.2% | 26.0–32.8% | 25.0–33.9% |
 | [5–9 May 2022](2022-05-09-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 24.5% | 22.4–26.8% | 21.8–27.4% | 21.3–28.0% | 20.3–29.1% |
@@ -644,22 +655,24 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.4% | 100% |  |
-| 20.5–21.5% | 2% | 99.6% |  |
-| 21.5–22.5% | 6% | 98% |  |
-| 22.5–23.5% | 10% | 92% |  |
-| 23.5–24.5% | 13% | 82% |  |
-| 24.5–25.5% | 15% | 68% |  |
-| 25.5–26.5% | 14% | 54% | Median |
-| 26.5–27.5% | 11% | 39% |  |
-| 27.5–28.5% | 11% | 28% |  |
-| 28.5–29.5% | 10% | 17% |  |
-| 29.5–30.5% | 4% | 7% |  |
-| 30.5–31.5% | 2% | 3% |  |
-| 31.5–32.5% | 0.7% | 1.1% |  |
-| 32.5–33.5% | 0.2% | 0.3% |  |
-| 33.5–34.5% | 0.1% | 0.1% |  |
-| 34.5–35.5% | 0% | 0% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0% | 100% |  |
+| 23.5–24.5% | 0% | 100% |  |
+| 24.5–25.5% | 0% | 100% |  |
+| 25.5–26.5% | 0.1% | 100% |  |
+| 26.5–27.5% | 0.8% | 99.9% |  |
+| 27.5–28.5% | 4% | 99.1% |  |
+| 28.5–29.5% | 12% | 95% |  |
+| 29.5–30.5% | 23% | 83% |  |
+| 30.5–31.5% | 27% | 60% | Median |
+| 31.5–32.5% | 20% | 33% |  |
+| 32.5–33.5% | 10% | 13% |  |
+| 33.5–34.5% | 3% | 4% |  |
+| 34.5–35.5% | 0.6% | 0.7% |  |
+| 35.5–36.5% | 0.1% | 0.1% |  |
+| 36.5–37.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -670,13 +683,24 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–18 | 14–18 | 14–19 | 13–20 |
-| [23 May 2022](2022-05-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
+| N/A | [Poll Average](average.html) | 20 | 18–21 | 18–22 | 17–22 | 17–22 |
+| [20–22 June 2022](2022-06-22-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
+| [20 June 2022](2022-06-20-Data10.html) | Data10 <br> OKDiario | 20 | 18–21 | 18–22 | 17–22 | 17–22 |
+| [7–10 June 2022](2022-06-10-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [1–9 June 2022](2022-06-09-CIS.html) | CIS |  |  |  |  |  |
+| [30 May–3 June 2022](2022-06-03-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
+| [28 May–2 June 2022](2022-06-02-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [31 May–1 June 2022](2022-06-01-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [21–27 May 2022](2022-05-27-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [26 May 2022](2022-05-26-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [18–23 May 2022](2022-05-23-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [9–21 May 2022](2022-05-21-IMOP.html) | IMOP <br> El Confidencial | 15 | 15–17 | 15–18 | 15–18 | 15–19 |
 | [14–19 May 2022](2022-05-19-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–16 | 14–16 | 13–16 |
+| [25 April–18 May 2022](2022-05-18-CEMOP.html) | CEMOP |  |  |  |  |  |
 | [9–14 May 2022](2022-05-14-SWDemoscopia.html) | SW Demoscopia | 14 | 14–16 | 13–16 | 13–16 | 12–16 |
 | [6–13 May 2022](2022-05-13-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–15 | 13–15 | 13–16 |
 | [11–13 May 2022](2022-05-13-DYM.html) | DYM <br> Henneo | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
+| [9–13 May 2022](2022-05-13-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
 | [3–12 May 2022](2022-05-12-CIS.html) | CIS | 18 | 18 | 18 | 18 | 18–19 |
 | [3–11 May 2022](2022-05-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 18 | 16–19 | 16–19 | 16–20 | 15–21 |
 | [5–9 May 2022](2022-05-09-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 15 | 14–17 | 14–18 | 13–18 | 12–18 |
@@ -1298,16 +1322,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.2% | 100% |  |
-| 13 | 1.3% | 99.8% |  |
-| 14 | 15% | 98% |  |
-| 15 | 23% | 84% |  |
-| 16 | 24% | 61% | Median |
-| 17 | 16% | 37% |  |
-| 18 | 18% | 21% |  |
-| 19 | 3% | 3% |  |
-| 20 | 0.5% | 0.6% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0.2% | 100% |  |
+| 17 | 4% | 99.8% |  |
+| 18 | 13% | 95% |  |
+| 19 | 28% | 83% |  |
+| 20 | 42% | 55% | Median |
+| 21 | 7% | 13% |  |
+| 22 | 6% | 7% |  |
+| 23 | 0.3% | 0.3% |  |
+| 24 | 0% | 0% |  |
 
 
