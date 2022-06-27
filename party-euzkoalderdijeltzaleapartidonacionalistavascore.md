@@ -660,7 +660,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [28 May–2 June 2022](2022-06-02-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [31 May–1 June 2022](2022-06-01-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [21–27 May 2022](2022-05-27-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [26 May 2022](2022-05-26-KeyData.html) | Key Data <br> Público | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [26 May 2022](2022-05-26-KeyData.html) | Key Data <br> Público | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [18–23 May 2022](2022-05-23-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [9–21 May 2022](2022-05-21-IMOP.html) | IMOP <br> El Confidencial | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–19 May 2022](2022-05-19-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1278,9 +1278,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Last Result |
-| 1 | 49% | 50% | Median |
-| 2 | 1.0% | 1.0% |  |
+| 0 | 43% | 100% | Last Result |
+| 1 | 56% | 57% | Median |
+| 2 | 0.9% | 1.0% |  |
 | 3 | 0% | 0% |  |
 
 
