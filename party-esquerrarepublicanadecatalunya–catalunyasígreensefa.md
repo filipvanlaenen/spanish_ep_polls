@@ -27,7 +27,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [9–14 May 2022](2022-05-14-SWDemoscopia.html) | SW Demoscopia | 3.8% | 3.2–4.6% | 3.0–4.9% | 2.9–5.1% | 2.6–5.5% |
 | [6–13 May 2022](2022-05-13-electoPanel.html) | electoPanel <br> electomania.es | 2.8% | 2.3–3.4% | 2.1–3.6% | 2.0–3.8% | 1.8–4.1% |
 | [11–13 May 2022](2022-05-13-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
-| [9–13 May 2022](2022-05-13-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3.1% | N/A | N/A | N/A | N/A |
+| [9–13 May 2022](2022-05-13-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 2.0–4.7% |
 | [3–12 May 2022](2022-05-12-CIS.html) | CIS | 2.5% | 2.2–2.9% | 2.1–3.0% | 2.1–3.1% | 1.9–3.2% |
 | [3–11 May 2022](2022-05-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [5–9 May 2022](2022-05-09-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 3.7% | 2.9–4.8% | 2.7–5.2% | 2.5–5.5% | 2.1–6.1% |
@@ -671,7 +671,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–14 May 2022](2022-05-14-SWDemoscopia.html) | SW Demoscopia | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [6–13 May 2022](2022-05-13-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [11–13 May 2022](2022-05-13-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
-| [9–13 May 2022](2022-05-13-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [9–13 May 2022](2022-05-13-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [3–12 May 2022](2022-05-12-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1 |
 | [3–11 May 2022](2022-05-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [5–9 May 2022](2022-05-09-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 2 | 1–3 | 1–3 | 1–3 | 1–3 |

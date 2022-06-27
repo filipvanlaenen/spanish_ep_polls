@@ -23,11 +23,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [18–23 May 2022](2022-05-23-40dB.html) | 40dB <br> Prisa | 27.2% | 25.9–28.5% | 25.6–28.9% | 25.3–29.2% | 24.7–29.8% |
 | [9–21 May 2022](2022-05-21-IMOP.html) | IMOP <br> El Confidencial | 25.5% | 24.0–27.1% | 23.5–27.5% | 23.2–27.9% | 22.5–28.7% |
 | [14–19 May 2022](2022-05-19-electoPanel.html) | electoPanel <br> electomania.es | 24.2% | 23.0–25.5% | 22.6–25.9% | 22.3–26.2% | 21.7–26.8% |
-| [25 April–18 May 2022](2022-05-18-CEMOP.html) | CEMOP | 27.2% | N/A | N/A | N/A | N/A |
+| [25 April–18 May 2022](2022-05-18-CEMOP.html) | CEMOP | 27.2% | 25.6–28.9% | 25.1–29.3% | 24.8–29.7% | 24.0–30.6% |
 | [9–14 May 2022](2022-05-14-SWDemoscopia.html) | SW Demoscopia | 25.9% | 24.4–27.6% | 23.9–28.1% | 23.5–28.5% | 22.8–29.3% |
 | [6–13 May 2022](2022-05-13-electoPanel.html) | electoPanel <br> electomania.es | 24.5% | 23.1–26.0% | 22.7–26.5% | 22.4–26.8% | 21.7–27.6% |
 | [11–13 May 2022](2022-05-13-DYM.html) | DYM <br> Henneo | 26.3% | 24.6–28.2% | 24.1–28.7% | 23.7–29.1% | 22.8–30.0% |
-| [9–13 May 2022](2022-05-13-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 26.3% | N/A | N/A | N/A | N/A |
+| [9–13 May 2022](2022-05-13-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 26.3% | 24.6–28.0% | 24.2–28.5% | 23.7–29.0% | 23.0–29.8% |
 | [3–12 May 2022](2022-05-12-CIS.html) | CIS | 30.3% | 29.4–31.3% | 29.1–31.5% | 28.9–31.8% | 28.4–32.2% |
 | [3–11 May 2022](2022-05-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 25.7% | 23.6–27.9% | 23.1–28.5% | 22.6–29.1% | 21.6–30.1% |
 | [5–9 May 2022](2022-05-09-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 24.2% | 22.1–26.5% | 21.5–27.1% | 21.0–27.7% | 20.0–28.8% |
@@ -693,11 +693,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [18–23 May 2022](2022-05-23-40dB.html) | 40dB <br> Prisa | 16 | 16–17 | 15–18 | 15–18 | 15–18 |
 | [9–21 May 2022](2022-05-21-IMOP.html) | IMOP <br> El Confidencial | 18 | 15–18 | 15–18 | 15–18 | 14–18 |
 | [14–19 May 2022](2022-05-19-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–16 | 14–16 | 14–17 | 14–17 |
-| [25 April–18 May 2022](2022-05-18-CEMOP.html) | CEMOP |  |  |  |  |  |
+| [25 April–18 May 2022](2022-05-18-CEMOP.html) | CEMOP | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [9–14 May 2022](2022-05-14-SWDemoscopia.html) | SW Demoscopia | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [6–13 May 2022](2022-05-13-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–16 | 14–17 | 14–17 | 14–17 |
 | [11–13 May 2022](2022-05-13-DYM.html) | DYM <br> Henneo | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
-| [9–13 May 2022](2022-05-13-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [9–13 May 2022](2022-05-13-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 16 | 15–17 | 15–18 | 15–18 | 15–19 |
 | [3–12 May 2022](2022-05-12-CIS.html) | CIS | 20 | 20 | 20 | 19–20 | 18–20 |
 | [3–11 May 2022](2022-05-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
 | [5–9 May 2022](2022-05-09-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 15 | 14–17 | 14–17 | 13–17 | 12–18 |
