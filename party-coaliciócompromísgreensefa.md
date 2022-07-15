@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 1.9–3.6% | 1.8–3.8% | 1.6–4.0% | 1.4–4.5% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.6–3.6% | 1.3–3.9% | 1.0–4.2% | 0.7–4.8% |
 | [7–9 July 2022](2022-07-09-Merca2.html) | Merca2 | 0.0% | N/A | N/A | N/A | N/A |
 | [3–8 July 2022](2022-07-08-electoPanel.html) | electoPanel <br> electomania.es | 2.4% | 2.0–3.1% | 1.8–3.3% | 1.7–3.4% | 1.5–3.8% |
 | [5–8 July 2022](2022-07-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -24,13 +24,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23–27 June 2022](2022-06-27-40dB.html) | 40dB <br> Prisa | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [26 June 2022](2022-06-26-SigmaDos.html) | Sigma Dos <br> Antena 3 | 2.9% | N/A | N/A | N/A | N/A |
 | [19–24 June 2022](2022-06-24-electoPanel.html) | electoPanel <br> electomania.es | 2.5% | 2.1–3.0% | 2.0–3.1% | 1.9–3.3% | 1.7–3.5% |
-| [21–24 June 2022](2022-06-24-SocioMétrica.html) | SocioMétrica <br> El Español | 3.1% | N/A | N/A | N/A | N/A |
-| [20–24 June 2022](2022-06-24-InvyMark.html) | InvyMark <br> laSexta | 1.5% | N/A | N/A | N/A | N/A |
-| [23 June 2022](2022-06-23-KeyData.html) | Key Data <br> Público | 2.9% | N/A | N/A | N/A | N/A |
+| [21–24 June 2022](2022-06-24-SocioMétrica.html) | SocioMétrica <br> El Español | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.2–4.2% | 2.0–4.6% |
+| [20–24 June 2022](2022-06-24-InvyMark.html) | InvyMark <br> laSexta | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
+| [23 June 2022](2022-06-23-KeyData.html) | Key Data <br> Público | 2.9% | 2.0–4.4% | 1.8–4.9% | 1.6–5.3% | 1.2–6.1% |
 | [20–22 June 2022](2022-06-22-GESOP.html) | GESOP <br> Prensa Ibérica | 0.0% | N/A | N/A | N/A | N/A |
 | [20 June 2022](2022-06-20-Data10.html) | Data10 <br> OKDiario | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [7–10 June 2022](2022-06-10-electoPanel.html) | electoPanel <br> electomania.es | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.8% |
-| [1–9 June 2022](2022-06-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 1.2% | N/A | N/A | N/A | N/A |
+| [1–9 June 2022](2022-06-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 1.2% | 0.8–1.9% | 0.7–2.1% | 0.6–2.3% | 0.5–2.7% |
 | [1–9 June 2022](2022-06-09-CIS.html) | CIS | 1.9% | 1.6–2.2% | 1.6–2.3% | 1.5–2.4% | 1.4–2.6% |
 | [30 May–3 June 2022](2022-06-03-InvyMark.html) | InvyMark <br> laSexta | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [28 May–2 June 2022](2022-06-02-electoPanel.html) | electoPanel <br> electomania.es | 2.5% | N/A | N/A | N/A | N/A |
@@ -652,13 +652,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 1.4% | 100% |  |
-| 1.5–2.5% | 36% | 98.6% |  |
-| 2.5–3.5% | 51% | 62% | Median |
-| 3.5–4.5% | 11% | 11% |  |
-| 4.5–5.5% | 0.4% | 0.4% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 10% | 99.9% |  |
+| 1.5–2.5% | 34% | 90% |  |
+| 2.5–3.5% | 44% | 56% | Median |
+| 3.5–4.5% | 11% | 12% |  |
+| 4.5–5.5% | 0.8% | 0.9% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -669,7 +670,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [7–9 July 2022](2022-07-09-Merca2.html) | Merca2 |  |  |  |  |  |
 | [3–8 July 2022](2022-07-08-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [5–8 July 2022](2022-07-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -683,13 +684,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–27 June 2022](2022-06-27-40dB.html) | 40dB <br> Prisa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 June 2022](2022-06-26-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
 | [19–24 June 2022](2022-06-24-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [21–24 June 2022](2022-06-24-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [20–24 June 2022](2022-06-24-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
-| [23 June 2022](2022-06-23-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [21–24 June 2022](2022-06-24-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [20–24 June 2022](2022-06-24-InvyMark.html) | InvyMark <br> laSexta | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [23 June 2022](2022-06-23-KeyData.html) | Key Data <br> Público | 1 | 1–2 | 1–3 | 0–3 | 0–4 |
 | [20–22 June 2022](2022-06-22-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
 | [20 June 2022](2022-06-20-Data10.html) | Data10 <br> OKDiario | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–10 June 2022](2022-06-10-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [1–9 June 2022](2022-06-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
+| [1–9 June 2022](2022-06-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–9 June 2022](2022-06-09-CIS.html) | CIS | 1 | 1 | 1 | 1 | 0–1 |
 | [30 May–3 June 2022](2022-06-03-InvyMark.html) | InvyMark <br> laSexta | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28 May–2 June 2022](2022-06-02-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
@@ -1313,10 +1314,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.1% | 100% | Last Result |
-| 1 | 75% | 98.9% | Median |
-| 2 | 23% | 24% |  |
-| 3 | 0.2% | 0.2% |  |
+| 0 | 10% | 100% | Last Result |
+| 1 | 65% | 90% | Median |
+| 2 | 24% | 25% |  |
+| 3 | 0.5% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
 
