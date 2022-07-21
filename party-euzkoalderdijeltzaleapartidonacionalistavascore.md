@@ -10,8 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.2–2.3% | 1.0–2.5% | 0.9–2.7% | 0.8–3.4% |
+| N/A | [Poll Average](average.html) | 1.6% | 1.1–2.2% | 1.0–2.5% | 0.9–2.7% | 0.7–3.4% |
+| [14–17 July 2022](2022-07-17-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [14–16 July 2022](2022-07-16-SocioMétrica.html) | SocioMétrica <br> El Español | 1.5% | 1.2–1.9% | 1.1–2.1% | 1.1–2.2% | 0.9–2.4% |
+| [9–15 July 2022](2022-07-15-electoPanel.html) | electoPanel <br> electomania.es | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.0% | 0.6–2.3% |
+| [4–15 July 2022](2022-07-15-IMOP.html) | IMOP <br> El Confidencial | 1.4% | 1.1–1.9% | 1.0–2.1% | 0.9–2.2% | 0.7–2.5% |
+| [12–14 July 2022](2022-07-14-GAD3.html) | GAD3 <br> NIUS | 1.5% | 1.1–2.4% | 0.9–2.6% | 0.8–2.8% | 0.7–3.3% |
+| [14 July 2022](2022-07-14-Data10.html) | Data10 <br> OKDiario | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [7–12 July 2022](2022-07-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1.5% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% | 0.8–2.8% |
+| [1–12 July 2022](2022-07-12-CIS.html) | CIS | 1.4% | 1.2–1.7% | 1.1–1.8% | 1.1–1.8% | 1.0–2.0% |
 | [7–9 July 2022](2022-07-09-Merca2.html) | Merca2 | 0.0% | N/A | N/A | N/A | N/A |
 | [3–8 July 2022](2022-07-08-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.0–1.8% | 0.9–2.0% | 0.8–2.1% | 0.7–2.4% |
 | [5–8 July 2022](2022-07-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
@@ -653,9 +660,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 43% | 100% |  |
-| 1.5–2.5% | 53% | 57% | Median |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 48% | 99.9% |  |
+| 1.5–2.5% | 48% | 52% | Median |
 | 2.5–3.5% | 4% | 4% |  |
 | 3.5–4.5% | 0.3% | 0.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -670,7 +677,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [14–17 July 2022](2022-07-17-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [14–16 July 2022](2022-07-16-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [9–15 July 2022](2022-07-15-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–15 July 2022](2022-07-15-IMOP.html) | IMOP <br> El Confidencial | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–14 July 2022](2022-07-14-GAD3.html) | GAD3 <br> NIUS | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [14 July 2022](2022-07-14-Data10.html) | Data10 <br> OKDiario | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–12 July 2022](2022-07-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–12 July 2022](2022-07-12-CIS.html) | CIS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–9 July 2022](2022-07-09-Merca2.html) | Merca2 |  |  |  |  |  |
 | [3–8 July 2022](2022-07-08-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–8 July 2022](2022-07-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1314,8 +1328,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 38% | 100% | Last Result |
-| 1 | 60% | 62% | Median |
+| 0 | 43% | 100% | Last Result |
+| 1 | 55% | 57% | Median |
 | 2 | 2% | 2% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |

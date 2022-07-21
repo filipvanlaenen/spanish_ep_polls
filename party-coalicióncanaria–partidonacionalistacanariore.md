@@ -10,8 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.0% | 0.3–1.2% | 0.2–1.3% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.3–1.0% | 0.2–1.2% | 0.2–1.3% | 0.1–1.8% |
+| [14–17 July 2022](2022-07-17-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [14–16 July 2022](2022-07-16-SocioMétrica.html) | SocioMétrica <br> El Español | 0.5% | 0.4–0.8% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% |
+| [9–15 July 2022](2022-07-15-electoPanel.html) | electoPanel <br> electomania.es | 0.5% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% | 0.2–1.4% |
+| [4–15 July 2022](2022-07-15-IMOP.html) | IMOP <br> El Confidencial | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% | 0.1–1.0% |
+| [12–14 July 2022](2022-07-14-GAD3.html) | GAD3 <br> NIUS | 0.5% | 0.3–1.0% | 0.2–1.2% | 0.2–1.3% | 0.1–1.7% |
+| [14 July 2022](2022-07-14-Data10.html) | Data10 <br> OKDiario | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [7–12 July 2022](2022-07-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.6% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.2–1.6% |
+| [1–12 July 2022](2022-07-12-CIS.html) | CIS | 0.3% | 0.2–0.5% | 0.2–0.5% | 0.2–0.5% | 0.1–0.6% |
 | [7–9 July 2022](2022-07-09-Merca2.html) | Merca2 | 0.0% | N/A | N/A | N/A | N/A |
 | [3–8 July 2022](2022-07-08-electoPanel.html) | electoPanel <br> electomania.es | 0.5% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% |
 | [5–8 July 2022](2022-07-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
@@ -653,8 +660,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 47% | 100% | Last Result |
-| 0.5–1.5% | 52% | 53% | Median |
+| 0.0–0.5% | 50% | 100% | Last Result |
+| 0.5–1.5% | 48% | 50% | Median |
 | 1.5–2.5% | 1.1% | 1.2% |  |
 | 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
@@ -669,7 +676,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [14–17 July 2022](2022-07-17-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [14–16 July 2022](2022-07-16-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
+| [9–15 July 2022](2022-07-15-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
+| [4–15 July 2022](2022-07-15-IMOP.html) | IMOP <br> El Confidencial | 0 | 0 | 0 | 0 | 0 |
+| [12–14 July 2022](2022-07-14-GAD3.html) | GAD3 <br> NIUS | 0 | 0 | 0 | 0 | 0–1 |
+| [14 July 2022](2022-07-14-Data10.html) | Data10 <br> OKDiario | 0 | 0 | 0 | 0 | 0 |
 | [7–12 July 2022](2022-07-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0 | 0 | 0 | 0–1 |
+| [1–12 July 2022](2022-07-12-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [7–9 July 2022](2022-07-09-Merca2.html) | Merca2 |  |  |  |  |  |
 | [3–8 July 2022](2022-07-08-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
 | [5–8 July 2022](2022-07-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0 | 0 | 0 | 0 | 0 |
