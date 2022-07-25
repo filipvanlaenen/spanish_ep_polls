@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.8% | 9.0–12.8% | 8.6–13.4% | 8.2–13.8% | 7.6–14.4% |
+| N/A | [Poll Average](average.html) | 10.8% | 9.1–12.9% | 8.6–13.4% | 8.3–13.8% | 7.6–14.5% |
+| [15–22 July 2022](2022-07-22-electoPanel.html) | electoPanel <br> electomania.es | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.7% | 9.2–14.3% |
 | [14–17 July 2022](2022-07-17-DYM.html) | DYM <br> Henneo | 10.9% | 9.7–12.3% | 9.4–12.7% | 9.1–13.0% | 8.6–13.7% |
 | [14–16 July 2022](2022-07-16-SocioMétrica.html) | SocioMétrica <br> El Español | 10.8% | 9.9–11.8% | 9.7–12.0% | 9.5–12.3% | 9.1–12.7% |
 | [9–15 July 2022](2022-07-15-electoPanel.html) | electoPanel <br> electomania.es | 11.4% | 10.3–12.7% | 10.0–13.1% | 9.7–13.4% | 9.2–14.0% |
@@ -19,6 +20,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [14 July 2022](2022-07-14-Data10.html) | Data10 <br> OKDiario | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
 | [7–12 July 2022](2022-07-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 10.3% | 9.2–11.5% | 8.9–11.9% | 8.6–12.2% | 8.1–12.8% |
 | [1–12 July 2022](2022-07-12-CIS.html) | CIS | 13.4% | 12.7–14.1% | 12.5–14.3% | 12.4–14.5% | 12.0–14.8% |
+| [1–11 July 2022](2022-07-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 11.9% | 10.5–13.6% | 10.1–14.1% | 9.8–14.5% | 9.1–15.3% |
 | [7–9 July 2022](2022-07-09-Merca2.html) | Merca2 | 11.9% | 10.7–13.2% | 10.3–13.6% | 10.0–14.0% | 9.5–14.6% |
 | [3–8 July 2022](2022-07-08-electoPanel.html) | electoPanel <br> electomania.es | 11.5% | 10.4–12.7% | 10.1–13.1% | 9.8–13.4% | 9.3–14.0% |
 | [5–8 July 2022](2022-07-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 9.1% | 8.0–10.4% | 7.7–10.7% | 7.5–11.1% | 7.0–11.7% |
@@ -668,15 +670,15 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.4% | 100% |  |
-| 7.5–8.5% | 4% | 99.5% |  |
-| 8.5–9.5% | 15% | 95% |  |
-| 9.5–10.5% | 25% | 81% |  |
-| 10.5–11.5% | 27% | 56% | Median |
-| 11.5–12.5% | 16% | 29% |  |
-| 12.5–13.5% | 9% | 12% |  |
-| 13.5–14.5% | 3% | 4% |  |
-| 14.5–15.5% | 0.3% | 0.4% |  |
-| 15.5–16.5% | 0% | 0.1% |  |
+| 7.5–8.5% | 4% | 99.6% |  |
+| 8.5–9.5% | 14% | 96% |  |
+| 9.5–10.5% | 24% | 82% |  |
+| 10.5–11.5% | 27% | 58% | Median |
+| 11.5–12.5% | 17% | 31% |  |
+| 12.5–13.5% | 10% | 14% |  |
+| 13.5–14.5% | 4% | 4% |  |
+| 14.5–15.5% | 0.4% | 0.5% |  |
+| 15.5–16.5% | 0.1% | 0.1% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
 
@@ -688,7 +690,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
+| [15–22 July 2022](2022-07-22-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [14–17 July 2022](2022-07-17-DYM.html) | DYM <br> Henneo | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [14–16 July 2022](2022-07-16-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [9–15 July 2022](2022-07-15-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -697,6 +700,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14 July 2022](2022-07-14-Data10.html) | Data10 <br> OKDiario | 6 | 5–6 | 5–7 | 5–7 | 4–8 |
 | [7–12 July 2022](2022-07-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 7 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [1–12 July 2022](2022-07-12-CIS.html) | CIS | 8 | 8 | 8 | 8–9 | 7–9 |
+| [1–11 July 2022](2022-07-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [7–9 July 2022](2022-07-09-Merca2.html) | Merca2 | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [3–8 July 2022](2022-07-08-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [5–8 July 2022](2022-07-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
@@ -1345,11 +1349,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.9% | 100% |  |
-| 5 | 15% | 99.1% |  |
-| 6 | 39% | 84% | Median |
-| 7 | 34% | 45% |  |
-| 8 | 11% | 11% |  |
-| 9 | 0.4% | 0.5% |  |
+| 5 | 14% | 99.1% |  |
+| 6 | 38% | 85% | Median |
+| 7 | 35% | 47% |  |
+| 8 | 11% | 12% |  |
+| 9 | 0.6% | 0.7% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
