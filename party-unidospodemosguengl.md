@@ -10,8 +10,16 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.8% | 9.1–12.9% | 8.6–13.4% | 8.3–13.8% | 7.6–14.5% |
+| N/A | [Poll Average](average.html) | 10.3% | 8.7–12.0% | 8.3–12.5% | 7.9–12.9% | 7.3–13.6% |
+| [1–12 August 2022](2022-08-12-electoPanel.html) | electoPanel <br> electomania.es | 11.8% | 10.8–13.0% | 10.5–13.3% | 10.2–13.6% | 9.7–14.2% |
+| [5–10 August 2022](2022-08-10-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
+| [31 July–5 August 2022](2022-08-05-electoPanel.html) | electoPanel <br> electomania.es | 11.7% | N/A | N/A | N/A | N/A |
+| [23–29 July 2022](2022-07-29-electoPanel.html) | electoPanel <br> electomania.es | 11.6% | 10.4–13.0% | 10.1–13.4% | 9.8–13.8% | 9.3–14.5% |
+| [18–29 July 2022](2022-07-29-IMOP.html) | IMOP <br> El Confidencial | 9.8% | 8.8–10.9% | 8.5–11.2% | 8.3–11.5% | 7.8–12.1% |
 | [15–22 July 2022](2022-07-22-electoPanel.html) | electoPanel <br> electomania.es | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.7% | 9.2–14.3% |
+| [18–22 July 2022](2022-07-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 10.0% | N/A | N/A | N/A | N/A |
+| [18–21 July 2022](2022-07-21-NCReport.html) | NC Report <br> La Razón | 9.7% | N/A | N/A | N/A | N/A |
+| [21 July 2022](2022-07-21-KeyData.html) | Key Data <br> Público | 10.8% | N/A | N/A | N/A | N/A |
 | [14–17 July 2022](2022-07-17-DYM.html) | DYM <br> Henneo | 10.9% | 9.7–12.3% | 9.4–12.7% | 9.1–13.0% | 8.6–13.7% |
 | [14–16 July 2022](2022-07-16-SocioMétrica.html) | SocioMétrica <br> El Español | 10.8% | 9.9–11.8% | 9.7–12.0% | 9.5–12.3% | 9.1–12.7% |
 | [9–15 July 2022](2022-07-15-electoPanel.html) | electoPanel <br> electomania.es | 11.4% | 10.3–12.7% | 10.0–13.1% | 9.7–13.4% | 9.2–14.0% |
@@ -669,17 +677,15 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.4% | 100% |  |
-| 7.5–8.5% | 4% | 99.6% |  |
-| 8.5–9.5% | 14% | 96% |  |
-| 9.5–10.5% | 24% | 82% |  |
-| 10.5–11.5% | 27% | 58% | Median |
-| 11.5–12.5% | 17% | 31% |  |
-| 12.5–13.5% | 10% | 14% |  |
-| 13.5–14.5% | 4% | 4% |  |
-| 14.5–15.5% | 0.4% | 0.5% |  |
-| 15.5–16.5% | 0.1% | 0.1% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.9% | 100% |  |
+| 7.5–8.5% | 7% | 99.1% |  |
+| 8.5–9.5% | 20% | 92% |  |
+| 9.5–10.5% | 29% | 72% | Median |
+| 10.5–11.5% | 26% | 43% |  |
+| 11.5–12.5% | 13% | 17% |  |
+| 12.5–13.5% | 4% | 4% |  |
+| 13.5–14.5% | 0.5% | 0.6% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -690,8 +696,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| [1–12 August 2022](2022-08-12-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [5–10 August 2022](2022-08-10-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 6 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [31 July–5 August 2022](2022-08-05-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [23–29 July 2022](2022-07-29-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [18–29 July 2022](2022-07-29-IMOP.html) | IMOP <br> El Confidencial | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
 | [15–22 July 2022](2022-07-22-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [18–22 July 2022](2022-07-22-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
+| [18–21 July 2022](2022-07-21-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [21 July 2022](2022-07-21-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [14–17 July 2022](2022-07-17-DYM.html) | DYM <br> Henneo | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [14–16 July 2022](2022-07-16-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [9–15 July 2022](2022-07-15-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -1348,13 +1362,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.9% | 100% |  |
-| 5 | 14% | 99.1% |  |
-| 6 | 38% | 85% | Median |
-| 7 | 35% | 47% |  |
-| 8 | 11% | 12% |  |
-| 9 | 0.6% | 0.7% |  |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0% |  |
+| 4 | 1.3% | 100% |  |
+| 5 | 16% | 98.7% |  |
+| 6 | 51% | 82% | Median |
+| 7 | 27% | 32% |  |
+| 8 | 4% | 4% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 
