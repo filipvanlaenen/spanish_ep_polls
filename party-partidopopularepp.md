@@ -10,16 +10,16 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.5% | 28.3–34.9% | 27.5–36.0% | 27.0–36.9% | 26.2–38.5% |
+| N/A | [Poll Average](average.html) | 31.5% | 28.4–34.6% | 27.5–35.6% | 27.0–36.5% | 25.8–38.2% |
 | [1–12 August 2022](2022-08-12-electoPanel.html) | electoPanel <br> electomania.es | 31.2% | 29.7–32.9% | 29.2–33.3% | 28.8–33.7% | 28.1–34.5% |
 | [5–10 August 2022](2022-08-10-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 31.2% | 29.4–33.1% | 28.8–33.7% | 28.4–34.1% | 27.5–35.1% |
 | [31 July–5 August 2022](2022-08-05-electoPanel.html) | electoPanel <br> electomania.es | 31.1% | N/A | N/A | N/A | N/A |
 | [23–29 July 2022](2022-07-29-electoPanel.html) | electoPanel <br> electomania.es | 30.9% | 29.1–32.8% | 28.6–33.3% | 28.1–33.8% | 27.3–34.8% |
 | [18–29 July 2022](2022-07-29-IMOP.html) | IMOP <br> El Confidencial | 33.4% | 31.7–35.1% | 31.3–35.6% | 30.9–36.0% | 30.1–36.9% |
 | [15–22 July 2022](2022-07-22-electoPanel.html) | electoPanel <br> electomania.es | 30.8% | 29.0–32.7% | 28.5–33.3% | 28.1–33.7% | 27.2–34.6% |
-| [18–22 July 2022](2022-07-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 31.0% | N/A | N/A | N/A | N/A |
-| [18–21 July 2022](2022-07-21-NCReport.html) | NC Report <br> La Razón | 32.3% | N/A | N/A | N/A | N/A |
-| [21 July 2022](2022-07-21-KeyData.html) | Key Data <br> Público | 30.1% | N/A | N/A | N/A | N/A |
+| [18–22 July 2022](2022-07-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.2–33.9% | 27.3–34.9% |
+| [18–21 July 2022](2022-07-21-NCReport.html) | NC Report <br> La Razón | 32.3% | 30.0–34.7% | 29.4–35.4% | 28.8–35.9% | 27.7–37.1% |
+| [21 July 2022](2022-07-21-KeyData.html) | Key Data <br> Público | 30.1% | 27.1–33.4% | 26.2–34.4% | 25.5–35.2% | 24.1–36.8% |
 | [14–17 July 2022](2022-07-17-DYM.html) | DYM <br> Henneo | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.2–33.9% | 27.3–34.9% |
 | [14–16 July 2022](2022-07-16-SocioMétrica.html) | SocioMétrica <br> El Español | 28.0% | 26.7–29.3% | 26.3–29.7% | 26.0–30.0% | 25.4–30.7% |
 | [9–15 July 2022](2022-07-15-electoPanel.html) | electoPanel <br> electomania.es | 30.3% | 28.6–32.1% | 28.1–32.6% | 27.7–33.0% | 26.9–33.9% |
@@ -694,22 +694,22 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.1% | 100% |  |
-| 25.5–26.5% | 1.0% | 99.9% |  |
-| 26.5–27.5% | 4% | 98.9% |  |
-| 27.5–28.5% | 7% | 95% |  |
-| 28.5–29.5% | 9% | 88% |  |
-| 29.5–30.5% | 13% | 80% |  |
-| 30.5–31.5% | 17% | 67% |  |
-| 31.5–32.5% | 17% | 50% | Median |
-| 32.5–33.5% | 12% | 33% |  |
-| 33.5–34.5% | 9% | 21% |  |
-| 34.5–35.5% | 5% | 12% |  |
-| 35.5–36.5% | 3% | 7% |  |
-| 36.5–37.5% | 2% | 3% |  |
-| 37.5–38.5% | 0.9% | 1.4% |  |
-| 38.5–39.5% | 0.4% | 0.5% |  |
+| 23.5–24.5% | 0.1% | 100% |  |
+| 24.5–25.5% | 0.2% | 99.9% |  |
+| 25.5–26.5% | 1.1% | 99.7% |  |
+| 26.5–27.5% | 4% | 98.5% |  |
+| 27.5–28.5% | 6% | 95% |  |
+| 28.5–29.5% | 9% | 89% |  |
+| 29.5–30.5% | 14% | 80% |  |
+| 30.5–31.5% | 18% | 66% | Median |
+| 31.5–32.5% | 17% | 48% |  |
+| 32.5–33.5% | 13% | 31% |  |
+| 33.5–34.5% | 8% | 18% |  |
+| 34.5–35.5% | 5% | 10% |  |
+| 35.5–36.5% | 3% | 5% |  |
+| 36.5–37.5% | 1.5% | 2% |  |
+| 37.5–38.5% | 0.7% | 1.0% |  |
+| 38.5–39.5% | 0.3% | 0.4% |  |
 | 39.5–40.5% | 0.1% | 0.1% |  |
 | 40.5–41.5% | 0% | 0% |  |
 
@@ -722,16 +722,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 17–22 | 17–22 | 17–23 | 17–24 |
+| N/A | [Poll Average](average.html) | 20 | 17–22 | 17–22 | 17–23 | 16–24 |
 | [1–12 August 2022](2022-08-12-electoPanel.html) | electoPanel <br> electomania.es | 20 | 19–21 | 19–21 | 18–21 | 18–22 |
 | [5–10 August 2022](2022-08-10-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 19 | 19–22 | 18–22 | 18–22 | 17–22 |
 | [31 July–5 August 2022](2022-08-05-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [23–29 July 2022](2022-07-29-electoPanel.html) | electoPanel <br> electomania.es | 19 | 18–21 | 18–21 | 17–22 | 17–22 |
 | [18–29 July 2022](2022-07-29-IMOP.html) | IMOP <br> El Confidencial | 22 | 20–22 | 19–23 | 19–23 | 19–23 |
 | [15–22 July 2022](2022-07-22-electoPanel.html) | electoPanel <br> electomania.es | 20 | 18–21 | 18–22 | 18–22 | 17–22 |
-| [18–22 July 2022](2022-07-22-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
-| [18–21 July 2022](2022-07-21-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [21 July 2022](2022-07-21-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [18–22 July 2022](2022-07-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 19 | 18–21 | 18–21 | 17–21 | 17–22 |
+| [18–21 July 2022](2022-07-21-NCReport.html) | NC Report <br> La Razón | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
+| [21 July 2022](2022-07-21-KeyData.html) | Key Data <br> Público | 18 | 16–21 | 16–21 | 16–22 | 15–23 |
 | [14–17 July 2022](2022-07-17-DYM.html) | DYM <br> Henneo | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
 | [14–16 July 2022](2022-07-16-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 17–19 | 17–19 | 17–19 | 16–20 |
 | [9–15 July 2022](2022-07-15-electoPanel.html) | electoPanel <br> electomania.es | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
@@ -1399,17 +1399,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0.3% | 100% |  |
-| 17 | 12% | 99.7% |  |
-| 18 | 12% | 88% |  |
-| 19 | 21% | 76% |  |
-| 20 | 21% | 55% | Median |
-| 21 | 13% | 33% |  |
-| 22 | 17% | 21% |  |
-| 23 | 3% | 4% |  |
-| 24 | 1.0% | 1.1% |  |
-| 25 | 0.1% | 0.2% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 2% | 99.8% |  |
+| 17 | 10% | 98% |  |
+| 18 | 13% | 88% |  |
+| 19 | 24% | 75% |  |
+| 20 | 23% | 51% | Median |
+| 21 | 12% | 29% |  |
+| 22 | 13% | 16% |  |
+| 23 | 2% | 3% |  |
+| 24 | 0.7% | 0.8% |  |
+| 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
 
