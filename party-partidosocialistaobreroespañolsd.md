@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.2% | 22.1–26.4% | 21.5–27.1% | 21.1–27.8% | 20.0–29.2% |
+| N/A | [Poll Average](average.html) | 24.4% | 22.2–26.9% | 21.7–27.6% | 21.2–28.3% | 20.1–29.7% |
 | [1–19 August 2022](2022-08-19-electoPanel.html) | electoPanel <br> electomania.es | 22.6% | 21.4–23.9% | 21.1–24.2% | 20.8–24.5% | 20.2–25.1% |
 | [1–12 August 2022](2022-08-12-electoPanel.html) | electoPanel <br> electomania.es | 22.7% | 21.3–24.2% | 20.9–24.6% | 20.5–25.0% | 19.9–25.7% |
 | [5–10 August 2022](2022-08-10-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 24.1% | 22.4–25.9% | 21.9–26.4% | 21.6–26.9% | 20.8–27.7% |
-| [1–8 August 2022](2022-08-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 26.0% | N/A | N/A | N/A | N/A |
+| [1–8 August 2022](2022-08-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 26.0% | 23.9–28.2% | 23.3–28.9% | 22.8–29.4% | 21.9–30.5% |
 | [31 July–5 August 2022](2022-08-05-electoPanel.html) | electoPanel <br> electomania.es | 22.8% | N/A | N/A | N/A | N/A |
 | [23–29 July 2022](2022-07-29-electoPanel.html) | electoPanel <br> electomania.es | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.6–26.4% |
 | [18–29 July 2022](2022-07-29-IMOP.html) | IMOP <br> El Confidencial | 24.2% | 22.7–25.8% | 22.3–26.2% | 21.9–26.6% | 21.2–27.4% |
@@ -690,20 +690,20 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.2% | 99.9% |  |
-| 19.5–20.5% | 0.8% | 99.7% |  |
-| 20.5–21.5% | 4% | 98.9% |  |
-| 21.5–22.5% | 12% | 95% |  |
-| 22.5–23.5% | 20% | 83% |  |
-| 23.5–24.5% | 23% | 63% | Median |
-| 24.5–25.5% | 19% | 41% |  |
-| 25.5–26.5% | 12% | 21% |  |
-| 26.5–27.5% | 6% | 9% |  |
-| 27.5–28.5% | 2% | 3% |  |
-| 28.5–29.5% | 0.7% | 1.0% |  |
-| 29.5–30.5% | 0.2% | 0.3% |  |
-| 30.5–31.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 0.7% | 99.8% |  |
+| 20.5–21.5% | 3% | 99.1% |  |
+| 21.5–22.5% | 10% | 96% |  |
+| 22.5–23.5% | 17% | 85% |  |
+| 23.5–24.5% | 21% | 68% | Median |
+| 24.5–25.5% | 19% | 47% |  |
+| 25.5–26.5% | 14% | 27% |  |
+| 26.5–27.5% | 8% | 13% |  |
+| 27.5–28.5% | 3% | 5% |  |
+| 28.5–29.5% | 1.3% | 2% |  |
+| 29.5–30.5% | 0.4% | 0.6% |  |
+| 30.5–31.5% | 0.1% | 0.2% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
 
@@ -715,11 +715,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
 | [1–19 August 2022](2022-08-19-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–14 | 13–15 | 13–15 | 13–16 |
 | [1–12 August 2022](2022-08-12-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 13–15 | 13–16 | 13–16 |
 | [5–10 August 2022](2022-08-10-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 15 | 14–16 | 14–16 | 14–17 | 13–18 |
-| [1–8 August 2022](2022-08-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
+| [1–8 August 2022](2022-08-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 16 | 14–17 | 14–17 | 14–18 | 13–19 |
 | [31 July–5 August 2022](2022-08-05-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [23–29 July 2022](2022-07-29-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–15 | 13–16 | 12–16 | 12–16 |
 | [18–29 July 2022](2022-07-29-IMOP.html) | IMOP <br> El Confidencial | 15 | 15–16 | 14–17 | 14–17 | 14–17 |
@@ -1390,15 +1390,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.3% | 100% |  |
-| 12 | 2% | 99.7% |  |
-| 13 | 11% | 98% |  |
-| 14 | 22% | 87% |  |
-| 15 | 35% | 65% | Median |
-| 16 | 21% | 30% |  |
-| 17 | 8% | 9% |  |
+| 11 | 0.2% | 100% |  |
+| 12 | 1.3% | 99.8% |  |
+| 13 | 10% | 98% |  |
+| 14 | 21% | 89% |  |
+| 15 | 34% | 68% | Median |
+| 16 | 23% | 34% |  |
+| 17 | 9% | 11% |  |
 | 18 | 2% | 2% |  |
-| 19 | 0.2% | 0.2% |  |
+| 19 | 0.3% | 0.3% |  |
 | 20 | 0% | 0% |  |
 
 

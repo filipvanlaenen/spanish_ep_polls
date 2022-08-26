@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.7% | 29.3–34.1% | 28.4–34.8% | 27.5–35.4% | 25.7–36.5% |
+| N/A | [Poll Average](average.html) | 31.7% | 29.3–34.0% | 28.4–34.7% | 27.6–35.3% | 25.8–36.5% |
 | [1–19 August 2022](2022-08-19-electoPanel.html) | electoPanel <br> electomania.es | 31.7% | 30.4–33.1% | 30.0–33.5% | 29.7–33.8% | 29.0–34.5% |
 | [1–12 August 2022](2022-08-12-electoPanel.html) | electoPanel <br> electomania.es | 31.2% | 29.7–32.9% | 29.2–33.3% | 28.8–33.7% | 28.1–34.5% |
 | [5–10 August 2022](2022-08-10-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 31.2% | 29.4–33.1% | 28.8–33.7% | 28.4–34.1% | 27.5–35.1% |
-| [1–8 August 2022](2022-08-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 31.5% | N/A | N/A | N/A | N/A |
+| [1–8 August 2022](2022-08-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 31.5% | 29.2–33.8% | 28.6–34.5% | 28.1–35.1% | 27.0–36.2% |
 | [31 July–5 August 2022](2022-08-05-electoPanel.html) | electoPanel <br> electomania.es | 31.1% | N/A | N/A | N/A | N/A |
 | [23–29 July 2022](2022-07-29-electoPanel.html) | electoPanel <br> electomania.es | 30.9% | 29.1–32.8% | 28.6–33.3% | 28.1–33.8% | 27.3–34.8% |
 | [18–29 July 2022](2022-07-29-IMOP.html) | IMOP <br> El Confidencial | 33.4% | 31.7–35.1% | 31.3–35.6% | 30.9–36.0% | 30.1–36.9% |
@@ -698,18 +698,18 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0.1% | 100% |  |
 | 24.5–25.5% | 0.3% | 99.9% |  |
-| 25.5–26.5% | 0.7% | 99.6% |  |
-| 26.5–27.5% | 1.5% | 98.9% |  |
-| 27.5–28.5% | 3% | 97% |  |
+| 25.5–26.5% | 0.6% | 99.6% |  |
+| 26.5–27.5% | 1.4% | 99.0% |  |
+| 27.5–28.5% | 3% | 98% |  |
 | 28.5–29.5% | 7% | 94% |  |
-| 29.5–30.5% | 13% | 87% |  |
+| 29.5–30.5% | 14% | 87% |  |
 | 30.5–31.5% | 21% | 74% |  |
-| 31.5–32.5% | 22% | 54% | Median |
-| 32.5–33.5% | 16% | 32% |  |
-| 33.5–34.5% | 10% | 16% |  |
+| 31.5–32.5% | 22% | 53% | Median |
+| 32.5–33.5% | 16% | 31% |  |
+| 33.5–34.5% | 9% | 15% |  |
 | 34.5–35.5% | 4% | 6% |  |
-| 35.5–36.5% | 1.5% | 2% |  |
-| 36.5–37.5% | 0.4% | 0.5% |  |
+| 35.5–36.5% | 1.4% | 2% |  |
+| 36.5–37.5% | 0.3% | 0.4% |  |
 | 37.5–38.5% | 0.1% | 0.1% |  |
 | 38.5–39.5% | 0% | 0% |  |
 
@@ -722,11 +722,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–22 | 17–22 | 16–22 | 16–23 |
+| N/A | [Poll Average](average.html) | 20 | 18–22 | 17–22 | 17–22 | 16–23 |
 | [1–19 August 2022](2022-08-19-electoPanel.html) | electoPanel <br> electomania.es | 21 | 20–21 | 19–21 | 19–21 | 19–22 |
 | [1–12 August 2022](2022-08-12-electoPanel.html) | electoPanel <br> electomania.es | 20 | 19–21 | 19–21 | 18–21 | 18–22 |
 | [5–10 August 2022](2022-08-10-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 19 | 19–22 | 18–22 | 18–22 | 17–22 |
-| [1–8 August 2022](2022-08-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
+| [1–8 August 2022](2022-08-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 19 | 18–21 | 17–21 | 17–21 | 16–22 |
 | [31 July–5 August 2022](2022-08-05-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [23–29 July 2022](2022-07-29-electoPanel.html) | electoPanel <br> electomania.es | 19 | 18–21 | 18–21 | 17–22 | 17–22 |
 | [18–29 July 2022](2022-07-29-IMOP.html) | IMOP <br> El Confidencial | 22 | 20–22 | 19–23 | 19–23 | 19–23 |
@@ -1400,15 +1400,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.1% | 100% |  |
+| 14 | 0% | 100% |  |
 | 15 | 0.3% | 99.9% |  |
-| 16 | 2% | 99.6% |  |
-| 17 | 3% | 97% |  |
-| 18 | 10% | 94% |  |
-| 19 | 25% | 85% |  |
-| 20 | 24% | 60% | Median |
-| 21 | 20% | 36% |  |
-| 22 | 15% | 17% |  |
+| 16 | 2% | 99.7% |  |
+| 17 | 4% | 98% |  |
+| 18 | 12% | 94% |  |
+| 19 | 26% | 82% |  |
+| 20 | 24% | 56% | Median |
+| 21 | 18% | 33% |  |
+| 22 | 13% | 15% |  |
 | 23 | 2% | 2% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
