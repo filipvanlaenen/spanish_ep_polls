@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.6–1.4% | 0.5–1.5% | 0.4–1.7% | 0.3–1.9% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.6–1.4% | 0.5–1.6% | 0.4–1.7% | 0.3–2.0% |
+| [23–27 August 2022](2022-08-27-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
+| [22–26 August 2022](2022-08-26-electoPanel.html) | electoPanel <br> electomania.es | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–2.0% |
 | [1–19 August 2022](2022-08-19-electoPanel.html) | electoPanel <br> electomania.es | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [1–12 August 2022](2022-08-12-electoPanel.html) | electoPanel <br> electomania.es | 0.9% | 0.6–1.3% | 0.5–1.4% | 0.5–1.5% | 0.4–1.8% |
 | [5–10 August 2022](2022-08-10-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
@@ -673,8 +675,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 7% | 100% | Last Result |
-| 0.5–1.5% | 89% | 93% | Median |
-| 1.5–2.5% | 4% | 4% |  |
+| 0.5–1.5% | 87% | 93% | Median |
+| 1.5–2.5% | 6% | 6% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -687,6 +689,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [23–27 August 2022](2022-08-27-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [22–26 August 2022](2022-08-26-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0–1 |
 | [1–19 August 2022](2022-08-19-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
 | [1–12 August 2022](2022-08-12-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0–1 | 0–1 |
 | [5–10 August 2022](2022-08-10-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0 | 0 | 0 | 0 | 0–1 |
