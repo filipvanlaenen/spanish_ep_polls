@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.9–4.7% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.2–4.4% | 2.0–4.9% |
+| [7–8 September 2022](2022-09-08-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
+| [29 August–3 September 2022](2022-09-03-SocioMétrica.html) | SocioMétrica <br> El Español | 2.7% | N/A | N/A | N/A | N/A |
+| [27 August–2 September 2022](2022-09-02-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | N/A | N/A | N/A | N/A |
+| [29 August–2 September 2022](2022-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.7% | N/A | N/A | N/A | N/A |
+| [30 August–1 September 2022](2022-09-01-Data10.html) | Data10 <br> OKDiario | 2.9% | N/A | N/A | N/A | N/A |
+| [31 August 2022](2022-08-31-KeyData.html) | Key Data <br> Público | 2.9% | N/A | N/A | N/A | N/A |
+| [23–28 August 2022](2022-08-28-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [23–27 August 2022](2022-08-27-NCReport.html) | NC Report <br> La Razón | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [22–26 August 2022](2022-08-26-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | 2.2–3.4% | 2.1–3.6% | 1.9–3.8% | 1.7–4.2% |
 | [1–19 August 2022](2022-08-19-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | 2.3–3.3% | 2.2–3.4% | 2.1–3.6% | 1.9–3.8% |
@@ -676,10 +683,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 18% | 100% |  |
-| 2.5–3.5% | 64% | 82% | Median |
-| 3.5–4.5% | 17% | 18% |  |
-| 4.5–5.5% | 0.8% | 0.8% |  |
+| 1.5–2.5% | 10% | 100% |  |
+| 2.5–3.5% | 62% | 90% | Median |
+| 3.5–4.5% | 26% | 28% |  |
+| 4.5–5.5% | 2% | 2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -691,7 +698,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [7–8 September 2022](2022-09-08-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
+| [29 August–3 September 2022](2022-09-03-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [27 August–2 September 2022](2022-09-02-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [29 August–2 September 2022](2022-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [30 August–1 September 2022](2022-09-01-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [31 August 2022](2022-08-31-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [23–28 August 2022](2022-08-28-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [23–27 August 2022](2022-08-27-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [22–26 August 2022](2022-08-26-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–19 August 2022](2022-08-19-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -1358,9 +1372,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 63% | 100% | Median |
-| 2 | 36% | 37% |  |
-| 3 | 0.4% | 0.4% |  |
+| 1 | 38% | 100% |  |
+| 2 | 62% | 62% | Median |
+| 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 
 

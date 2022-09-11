@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.2% | 22.4–26.5% | 21.9–27.3% | 21.5–28.1% | 20.7–29.4% |
+| N/A | [Poll Average](average.html) | 24.0% | 22.3–25.8% | 21.8–26.3% | 21.4–26.7% | 20.6–27.6% |
+| [7–8 September 2022](2022-09-08-TargetPoint.html) | Target Point <br> El Debate | 24.0% | 22.3–25.8% | 21.8–26.3% | 21.4–26.7% | 20.7–27.6% |
+| [29 August–3 September 2022](2022-09-03-SocioMétrica.html) | SocioMétrica <br> El Español | 23.2% | N/A | N/A | N/A | N/A |
+| [27 August–2 September 2022](2022-09-02-electoPanel.html) | electoPanel <br> electomania.es | 23.5% | N/A | N/A | N/A | N/A |
+| [29 August–2 September 2022](2022-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 24.2% | N/A | N/A | N/A | N/A |
+| [30 August–1 September 2022](2022-09-01-Data10.html) | Data10 <br> OKDiario | 22.8% | N/A | N/A | N/A | N/A |
+| [31 August 2022](2022-08-31-KeyData.html) | Key Data <br> Público | 24.1% | N/A | N/A | N/A | N/A |
+| [23–28 August 2022](2022-08-28-40dB.html) | 40dB <br> Prisa | 26.4% | N/A | N/A | N/A | N/A |
 | [23–27 August 2022](2022-08-27-NCReport.html) | NC Report <br> La Razón | 23.8% | 22.1–25.6% | 21.7–26.1% | 21.3–26.6% | 20.5–27.4% |
 | [22–26 August 2022](2022-08-26-electoPanel.html) | electoPanel <br> electomania.es | 23.3% | 21.8–24.9% | 21.4–25.4% | 21.0–25.8% | 20.3–26.6% |
 | [1–19 August 2022](2022-08-19-electoPanel.html) | electoPanel <br> electomania.es | 22.6% | 21.4–23.9% | 21.1–24.2% | 20.8–24.5% | 20.2–25.1% |
@@ -696,17 +703,15 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0.4% | 100% |  |
 | 20.5–21.5% | 3% | 99.6% |  |
-| 21.5–22.5% | 10% | 97% |  |
-| 22.5–23.5% | 21% | 87% |  |
-| 23.5–24.5% | 26% | 67% | Median |
-| 24.5–25.5% | 20% | 41% |  |
-| 25.5–26.5% | 11% | 21% |  |
-| 26.5–27.5% | 6% | 10% |  |
-| 27.5–28.5% | 3% | 4% |  |
-| 28.5–29.5% | 1.1% | 1.5% |  |
-| 29.5–30.5% | 0.3% | 0.4% |  |
-| 30.5–31.5% | 0.1% | 0.1% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 21.5–22.5% | 11% | 97% |  |
+| 22.5–23.5% | 23% | 86% |  |
+| 23.5–24.5% | 29% | 63% | Median |
+| 24.5–25.5% | 21% | 34% |  |
+| 25.5–26.5% | 10% | 13% |  |
+| 26.5–27.5% | 3% | 3% |  |
+| 27.5–28.5% | 0.5% | 0.5% |  |
+| 28.5–29.5% | 0.1% | 0.1% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -717,7 +722,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
+| N/A | [Poll Average](average.html) | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
+| [7–8 September 2022](2022-09-08-TargetPoint.html) | Target Point <br> El Debate | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
+| [29 August–3 September 2022](2022-09-03-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [27 August–2 September 2022](2022-09-02-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [29 August–2 September 2022](2022-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [30 August–1 September 2022](2022-09-01-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [31 August 2022](2022-08-31-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [23–28 August 2022](2022-08-28-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [23–27 August 2022](2022-08-27-NCReport.html) | NC Report <br> La Razón | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [22–26 August 2022](2022-08-26-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–16 | 13–16 | 13–17 |
 | [1–19 August 2022](2022-08-19-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–14 | 13–15 | 13–15 | 13–16 |
@@ -1395,14 +1407,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.2% | 100% |  |
-| 13 | 3% | 99.8% |  |
-| 14 | 18% | 96% |  |
-| 15 | 49% | 78% | Median |
-| 16 | 22% | 29% |  |
-| 17 | 5% | 7% |  |
-| 18 | 1.1% | 1.3% |  |
-| 19 | 0.1% | 0.1% |  |
-| 20 | 0% | 0% |  |
+| 12 | 0.5% | 100% |  |
+| 13 | 8% | 99.5% |  |
+| 14 | 30% | 92% |  |
+| 15 | 36% | 61% | Median |
+| 16 | 23% | 25% |  |
+| 17 | 2% | 2% |  |
+| 18 | 0.4% | 0.4% |  |
+| 19 | 0% | 0% |  |
 
 
