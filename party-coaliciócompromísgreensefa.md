@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.0–4.0% | 1.8–4.3% | 1.6–4.5% | 1.3–5.0% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.0–3.9% | 1.8–4.3% | 1.6–4.5% | 1.3–5.2% |
 | [7–8 September 2022](2022-09-08-TargetPoint.html) | Target Point <br> El Debate | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [29 August–3 September 2022](2022-09-03-SocioMétrica.html) | SocioMétrica <br> El Español | 3.2% | 2.6–3.9% | 2.4–4.1% | 2.3–4.3% | 2.1–4.7% |
 | [27 August–2 September 2022](2022-09-02-electoPanel.html) | electoPanel <br> electomania.es | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [29 August–2 September 2022](2022-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
-| [30 August–1 September 2022](2022-09-01-Data10.html) | Data10 <br> OKDiario | 2.3% | N/A | N/A | N/A | N/A |
-| [31 August 2022](2022-08-31-KeyData.html) | Key Data <br> Público | 2.9% | N/A | N/A | N/A | N/A |
-| [23–28 August 2022](2022-08-28-40dB.html) | 40dB <br> Prisa | 3.1% | N/A | N/A | N/A | N/A |
+| [30 August–1 September 2022](2022-09-01-Data10.html) | Data10 <br> OKDiario | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
+| [31 August 2022](2022-08-31-KeyData.html) | Key Data <br> Público | 2.9% | 2.1–4.5% | 1.8–4.9% | 1.6–5.3% | 1.3–6.2% |
+| [23–28 August 2022](2022-08-28-40dB.html) | 40dB <br> Prisa | 3.1% | 2.7–3.7% | 2.5–3.8% | 2.4–4.0% | 2.2–4.3% |
 | [23–27 August 2022](2022-08-27-NCReport.html) | NC Report <br> La Razón | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [22–26 August 2022](2022-08-26-electoPanel.html) | electoPanel <br> electomania.es | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–2.9% | 1.2–3.3% |
 | [1–19 August 2022](2022-08-19-electoPanel.html) | electoPanel <br> electomania.es | 1.9% | 1.6–2.4% | 1.5–2.5% | 1.4–2.6% | 1.2–2.9% |
@@ -683,11 +683,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 27% | 98% |  |
-| 2.5–3.5% | 47% | 71% | Median |
-| 3.5–4.5% | 22% | 24% |  |
+| 1.5–2.5% | 28% | 98% |  |
+| 2.5–3.5% | 49% | 70% | Median |
+| 3.5–4.5% | 19% | 21% |  |
 | 4.5–5.5% | 2% | 2% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -704,9 +704,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29 August–3 September 2022](2022-09-03-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [27 August–2 September 2022](2022-09-02-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [29 August–2 September 2022](2022-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [30 August–1 September 2022](2022-09-01-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [31 August 2022](2022-08-31-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
-| [23–28 August 2022](2022-08-28-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
+| [30 August–1 September 2022](2022-09-01-Data10.html) | Data10 <br> OKDiario | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [31 August 2022](2022-08-31-KeyData.html) | Key Data <br> Público | 1 | 1–2 | 1–3 | 1–3 | 0–3 |
+| [23–28 August 2022](2022-08-28-40dB.html) | 40dB <br> Prisa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–27 August 2022](2022-08-27-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [22–26 August 2022](2022-08-26-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [1–19 August 2022](2022-08-19-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1 | 0–1 |
@@ -1373,8 +1373,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% | Last Result |
-| 1 | 57% | 98% | Median |
-| 2 | 40% | 42% |  |
+| 1 | 61% | 98% | Median |
+| 2 | 36% | 38% |  |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
