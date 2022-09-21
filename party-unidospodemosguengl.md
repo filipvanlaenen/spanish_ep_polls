@@ -10,9 +10,17 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.2% | 8.7–12.1% | 8.3–12.6% | 7.9–12.9% | 7.2–13.7% |
+| N/A | [Poll Average](average.html) | 10.3% | 8.6–12.1% | 8.1–12.6% | 7.7–13.0% | 7.0–13.8% |
+| [14–18 September 2022](2022-09-18-DYM.html) | DYM <br> Henneo | 10.4% | 9.3–11.8% | 9.0–12.1% | 8.7–12.5% | 8.2–13.1% |
+| [9–16 September 2022](2022-09-16-electoPanel.html) | electoPanel <br> electomania.es | 11.3% | 10.2–12.5% | 9.9–12.8% | 9.7–13.2% | 9.2–13.7% |
+| [29 August–10 September 2022](2022-09-10-IMOP.html) | IMOP <br> El Confidencial | 10.7% | 9.7–11.9% | 9.4–12.2% | 9.1–12.5% | 8.7–13.1% |
+| [5–9 September 2022](2022-09-09-electoPanel.html) | electoPanel <br> electomania.es | 11.3% | N/A | N/A | N/A | N/A |
+| [1–9 September 2022](2022-09-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 8.9% | 7.6–10.4% | 7.2–10.9% | 7.0–11.2% | 6.4–12.0% |
+| [6–9 September 2022](2022-09-09-GAD3.html) | GAD3 <br> ABC | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
 | [7–8 September 2022](2022-09-08-TargetPoint.html) | Target Point <br> El Debate | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.3–12.1% |
+| [2–8 September 2022](2022-09-08-SigmaDos.html) | Sigma Dos <br> Antena 3 | 10.8% | 9.6–12.2% | 9.3–12.5% | 9.0–12.9% | 8.5–13.6% |
 | [29 August–3 September 2022](2022-09-03-SocioMétrica.html) | SocioMétrica <br> El Español | 10.1% | 9.0–11.3% | 8.7–11.6% | 8.5–11.9% | 8.0–12.5% |
+| [1–2 September 2022](2022-09-02-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–14.0% | 9.4–14.7% |
 | [27 August–2 September 2022](2022-09-02-electoPanel.html) | electoPanel <br> electomania.es | 11.3% | 10.1–12.7% | 9.8–13.1% | 9.5–13.4% | 9.0–14.1% |
 | [29 August–2 September 2022](2022-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.7% | 8.3–13.3% |
 | [30 August–1 September 2022](2022-09-01-Data10.html) | Data10 <br> OKDiario | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
@@ -20,6 +28,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23–28 August 2022](2022-08-28-40dB.html) | 40dB <br> Prisa | 11.9% | 11.0–12.9% | 10.8–13.2% | 10.5–13.4% | 10.1–13.9% |
 | [23–27 August 2022](2022-08-27-NCReport.html) | NC Report <br> La Razón | 9.7% | 8.6–11.0% | 8.3–11.4% | 8.0–11.7% | 7.5–12.3% |
 | [22–26 August 2022](2022-08-26-electoPanel.html) | electoPanel <br> electomania.es | 11.5% | 10.4–12.7% | 10.1–13.1% | 9.8–13.4% | 9.3–14.0% |
+| [16–20 August 2022](2022-08-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 10.1% | 9.0–11.4% | 8.6–11.8% | 8.4–12.1% | 7.9–12.8% |
 | [1–19 August 2022](2022-08-19-electoPanel.html) | electoPanel <br> electomania.es | 11.8% | 10.9–12.8% | 10.7–13.1% | 10.4–13.3% | 10.0–13.8% |
 | [1–12 August 2022](2022-08-12-electoPanel.html) | electoPanel <br> electomania.es | 11.8% | 10.8–13.0% | 10.5–13.3% | 10.2–13.6% | 9.7–14.2% |
 | [5–10 August 2022](2022-08-10-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
@@ -688,14 +697,14 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 1.0% | 99.9% |  |
-| 7.5–8.5% | 7% | 98.9% |  |
-| 8.5–9.5% | 21% | 92% |  |
-| 9.5–10.5% | 28% | 70% | Median |
-| 10.5–11.5% | 23% | 42% |  |
-| 11.5–12.5% | 14% | 19% |  |
-| 12.5–13.5% | 4% | 5% |  |
-| 13.5–14.5% | 0.6% | 0.7% |  |
+| 6.5–7.5% | 2% | 99.9% |  |
+| 7.5–8.5% | 8% | 98% |  |
+| 8.5–9.5% | 19% | 91% |  |
+| 9.5–10.5% | 27% | 72% | Median |
+| 10.5–11.5% | 25% | 44% |  |
+| 11.5–12.5% | 14% | 20% |  |
+| 12.5–13.5% | 5% | 5% |  |
+| 13.5–14.5% | 0.7% | 0.8% |  |
 | 14.5–15.5% | 0.1% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -708,9 +717,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
+| [14–18 September 2022](2022-09-18-DYM.html) | DYM <br> Henneo | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [9–16 September 2022](2022-09-16-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [29 August–10 September 2022](2022-09-10-IMOP.html) | IMOP <br> El Confidencial | 7 | 6–7 | 5–7 | 5–8 | 5–8 |
+| [5–9 September 2022](2022-09-09-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [1–9 September 2022](2022-09-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| [6–9 September 2022](2022-09-09-GAD3.html) | GAD3 <br> ABC | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [7–8 September 2022](2022-09-08-TargetPoint.html) | Target Point <br> El Debate | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
+| [2–8 September 2022](2022-09-08-SigmaDos.html) | Sigma Dos <br> Antena 3 | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [29 August–3 September 2022](2022-09-03-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [1–2 September 2022](2022-09-02-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | [27 August–2 September 2022](2022-09-02-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [29 August–2 September 2022](2022-09-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [30 August–1 September 2022](2022-09-01-Data10.html) | Data10 <br> OKDiario | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
@@ -718,6 +735,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–28 August 2022](2022-08-28-40dB.html) | 40dB <br> Prisa | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [23–27 August 2022](2022-08-27-NCReport.html) | NC Report <br> La Razón | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [22–26 August 2022](2022-08-26-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–8 | 6–8 | 6–9 |
+| [16–20 August 2022](2022-08-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [1–19 August 2022](2022-08-19-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [1–12 August 2022](2022-08-12-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [5–10 August 2022](2022-08-10-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 6 | 5–6 | 4–6 | 4–6 | 4–7 |
@@ -1385,12 +1403,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
-| 4 | 2% | 99.9% |  |
-| 5 | 20% | 98% |  |
-| 6 | 43% | 78% | Median |
-| 7 | 30% | 34% |  |
-| 8 | 4% | 4% |  |
-| 9 | 0.1% | 0.2% |  |
+| 4 | 4% | 99.9% |  |
+| 5 | 19% | 96% |  |
+| 6 | 44% | 77% | Median |
+| 7 | 28% | 34% |  |
+| 8 | 5% | 6% |  |
+| 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% |  |
 
 
