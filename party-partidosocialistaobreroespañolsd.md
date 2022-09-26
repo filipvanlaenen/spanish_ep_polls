@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.6% | 22.4–27.3% | 21.8–28.0% | 21.3–28.6% | 20.2–29.7% |
+| N/A | [Poll Average](average.html) | 24.9% | 22.5–27.4% | 21.8–28.1% | 21.3–28.7% | 20.2–29.8% |
+| [19–23 September 2022](2022-09-23-InvyMark.html) | InvyMark <br> laSexta | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
+| [16–22 September 2022](2022-09-22-electoPanel.html) | electoPanel <br> electomania.es | 24.1% | 22.6–25.8% | 22.2–26.2% | 21.8–26.7% | 21.1–27.5% |
+| [19–22 September 2022](2022-09-22-GAD3.html) | GAD3 <br> NIUS | 26.2% | 24.4–28.0% | 24.0–28.5% | 23.5–29.0% | 22.7–29.9% |
 | [14–18 September 2022](2022-09-18-DYM.html) | DYM <br> Henneo | 26.7% | 25.0–28.6% | 24.5–29.1% | 24.1–29.5% | 23.3–30.4% |
 | [9–16 September 2022](2022-09-16-electoPanel.html) | electoPanel <br> electomania.es | 23.5% | 22.0–25.1% | 21.6–25.5% | 21.3–25.9% | 20.6–26.7% |
 | [29 August–10 September 2022](2022-09-10-IMOP.html) | IMOP <br> El Confidencial | 24.2% | 22.7–25.8% | 22.3–26.2% | 21.9–26.6% | 21.3–27.4% |
@@ -710,18 +713,18 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 0.7% | 99.8% |  |
+| 19.5–20.5% | 0.6% | 99.8% |  |
 | 20.5–21.5% | 3% | 99.2% |  |
-| 21.5–22.5% | 9% | 96% |  |
-| 22.5–23.5% | 16% | 88% |  |
-| 23.5–24.5% | 20% | 72% |  |
-| 24.5–25.5% | 18% | 51% | Median |
-| 25.5–26.5% | 15% | 33% |  |
-| 26.5–27.5% | 10% | 18% |  |
-| 27.5–28.5% | 5% | 8% |  |
+| 21.5–22.5% | 8% | 97% |  |
+| 22.5–23.5% | 14% | 89% |  |
+| 23.5–24.5% | 19% | 75% |  |
+| 24.5–25.5% | 19% | 56% | Median |
+| 25.5–26.5% | 17% | 37% |  |
+| 26.5–27.5% | 12% | 21% |  |
+| 27.5–28.5% | 6% | 9% |  |
 | 28.5–29.5% | 2% | 3% |  |
-| 29.5–30.5% | 0.5% | 0.6% |  |
-| 30.5–31.5% | 0.1% | 0.1% |  |
+| 29.5–30.5% | 0.6% | 0.7% |  |
+| 30.5–31.5% | 0.1% | 0.2% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
 
@@ -733,7 +736,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 14–17 | 13–17 | 13–18 | 12–19 |
+| N/A | [Poll Average](average.html) | 15 | 14–17 | 13–17 | 13–18 | 12–18 |
+| [19–23 September 2022](2022-09-23-InvyMark.html) | InvyMark <br> laSexta | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
+| [16–22 September 2022](2022-09-22-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
+| [19–22 September 2022](2022-09-22-GAD3.html) | GAD3 <br> NIUS | 16 | 15–18 | 14–18 | 14–18 | 14–19 |
 | [14–18 September 2022](2022-09-18-DYM.html) | DYM <br> Henneo | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
 | [9–16 September 2022](2022-09-16-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 13–17 | 13–17 | 13–17 |
 | [29 August–10 September 2022](2022-09-10-IMOP.html) | IMOP <br> El Confidencial | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
@@ -1428,14 +1434,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0.1% | 100% |  |
 | 12 | 0.5% | 99.9% |  |
-| 13 | 5% | 99.4% |  |
-| 14 | 19% | 95% |  |
-| 15 | 31% | 75% | Median |
-| 16 | 32% | 44% |  |
-| 17 | 9% | 12% |  |
-| 18 | 2% | 3% |  |
-| 19 | 0.9% | 1.1% |  |
-| 20 | 0.2% | 0.2% |  |
-| 21 | 0% | 0% |  |
+| 13 | 5% | 99.5% |  |
+| 14 | 20% | 95% |  |
+| 15 | 30% | 75% | Median |
+| 16 | 30% | 44% |  |
+| 17 | 11% | 14% |  |
+| 18 | 3% | 4% |  |
+| 19 | 0.3% | 0.4% |  |
+| 20 | 0% | 0% |  |
 
 
