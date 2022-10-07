@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.2% | 23.0–27.7% | 22.5–28.4% | 22.0–28.9% | 21.2–30.0% |
+| N/A | [Poll Average](average.html) | 25.2% | 23.0–27.5% | 22.4–28.1% | 21.9–28.7% | 21.0–29.8% |
 | [26–30 September 2022](2022-09-30-electoPanel.html) | electoPanel <br> electomania.es | 24.5% | 22.9–26.2% | 22.5–26.6% | 22.1–27.1% | 21.4–27.9% |
 | [26–30 September 2022](2022-09-30-SocioMétrica.html) | SocioMétrica <br> El Español | 23.9% | 22.4–25.6% | 21.9–26.0% | 21.6–26.4% | 20.9–27.2% |
 | [26–30 September 2022](2022-09-30-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 24.1% | 22.5–25.8% | 22.0–26.3% | 21.6–26.7% | 20.9–27.6% |
-| [26–29 September 2022](2022-09-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 25.6% | N/A | N/A | N/A | N/A |
-| [27–29 September 2022](2022-09-29-Data10.html) | Data10 <br> OKDiario | 23.3% | N/A | N/A | N/A | N/A |
-| [22–26 September 2022](2022-09-26-40dB.html) | 40dB <br> Prisa | 26.3% | N/A | N/A | N/A | N/A |
-| [12–24 September 2022](2022-09-24-IMOP.html) | IMOP <br> El Confidencial | 25.0% | N/A | N/A | N/A | N/A |
+| [26–29 September 2022](2022-09-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 25.6% | 24.2–27.0% | 23.8–27.5% | 23.4–27.8% | 22.8–28.5% |
+| [27–29 September 2022](2022-09-29-Data10.html) | Data10 <br> OKDiario | 23.3% | 21.6–25.1% | 21.2–25.6% | 20.8–26.0% | 20.0–26.9% |
+| [22–26 September 2022](2022-09-26-40dB.html) | 40dB <br> Prisa | 26.3% | 25.1–27.6% | 24.7–28.0% | 24.4–28.3% | 23.8–28.9% |
+| [12–24 September 2022](2022-09-24-IMOP.html) | IMOP <br> El Confidencial | 25.0% | 23.5–26.6% | 23.1–27.1% | 22.7–27.5% | 22.0–28.3% |
 | [19–23 September 2022](2022-09-23-InvyMark.html) | InvyMark <br> laSexta | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
 | [16–22 September 2022](2022-09-22-electoPanel.html) | electoPanel <br> electomania.es | 24.1% | 22.6–25.8% | 22.2–26.2% | 21.8–26.7% | 21.1–27.5% |
 | [19–22 September 2022](2022-09-22-GAD3.html) | GAD3 <br> NIUS | 26.2% | 24.4–28.0% | 24.0–28.5% | 23.5–29.0% | 22.7–29.9% |
@@ -721,18 +721,18 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.1% | 100% |  |
-| 20.5–21.5% | 0.9% | 99.9% |  |
-| 21.5–22.5% | 4% | 99.0% |  |
-| 22.5–23.5% | 12% | 95% |  |
-| 23.5–24.5% | 19% | 83% |  |
-| 24.5–25.5% | 21% | 63% | Median |
-| 25.5–26.5% | 18% | 43% |  |
-| 26.5–27.5% | 13% | 24% |  |
-| 27.5–28.5% | 7% | 11% |  |
-| 28.5–29.5% | 3% | 4% |  |
-| 29.5–30.5% | 0.8% | 1.0% |  |
-| 30.5–31.5% | 0.2% | 0.2% |  |
+| 19.5–20.5% | 0.2% | 100% |  |
+| 20.5–21.5% | 1.2% | 99.8% |  |
+| 21.5–22.5% | 5% | 98.6% |  |
+| 22.5–23.5% | 11% | 94% |  |
+| 23.5–24.5% | 18% | 83% |  |
+| 24.5–25.5% | 22% | 64% | Median |
+| 25.5–26.5% | 20% | 43% |  |
+| 26.5–27.5% | 13% | 22% |  |
+| 27.5–28.5% | 6% | 9% |  |
+| 28.5–29.5% | 2% | 3% |  |
+| 29.5–30.5% | 0.6% | 0.7% |  |
+| 30.5–31.5% | 0.1% | 0.1% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
 
@@ -744,14 +744,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–18 | 13–18 | 13–18 |
+| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
 | [26–30 September 2022](2022-09-30-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [26–30 September 2022](2022-09-30-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 14–18 | 14–18 | 14–18 | 13–18 |
 | [26–30 September 2022](2022-09-30-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 16 | 14–16 | 14–16 | 13–17 | 13–18 |
-| [26–29 September 2022](2022-09-29-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [27–29 September 2022](2022-09-29-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [22–26 September 2022](2022-09-26-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [12–24 September 2022](2022-09-24-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [26–29 September 2022](2022-09-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
+| [27–29 September 2022](2022-09-29-Data10.html) | Data10 <br> OKDiario | 14 | 14–16 | 13–17 | 13–17 | 12–17 |
+| [22–26 September 2022](2022-09-26-40dB.html) | 40dB <br> Prisa | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
+| [12–24 September 2022](2022-09-24-IMOP.html) | IMOP <br> El Confidencial | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [19–23 September 2022](2022-09-23-InvyMark.html) | InvyMark <br> laSexta | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [16–22 September 2022](2022-09-22-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [19–22 September 2022](2022-09-22-GAD3.html) | GAD3 <br> NIUS | 16 | 15–18 | 14–18 | 14–18 | 14–19 |
@@ -1449,14 +1449,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.1% | 100% |  |
-| 13 | 3% | 99.9% |  |
-| 14 | 12% | 97% |  |
-| 15 | 28% | 85% |  |
-| 16 | 36% | 57% | Median |
-| 17 | 14% | 21% |  |
-| 18 | 6% | 7% |  |
-| 19 | 0.5% | 0.5% |  |
+| 12 | 0.2% | 100% |  |
+| 13 | 2% | 99.8% |  |
+| 14 | 13% | 98% |  |
+| 15 | 28% | 84% |  |
+| 16 | 39% | 57% | Median |
+| 17 | 13% | 18% |  |
+| 18 | 5% | 5% |  |
+| 19 | 0.3% | 0.3% |  |
 | 20 | 0% | 0% |  |
 
 
