@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.6–3.7% | 1.4–4.0% | 1.2–4.2% | 0.9–4.7% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.7–3.7% | 1.4–4.0% | 1.2–4.3% | 1.0–4.9% |
 | [26–30 September 2022](2022-09-30-electoPanel.html) | electoPanel <br> electomania.es | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.3% |
 | [26–30 September 2022](2022-09-30-SocioMétrica.html) | SocioMétrica <br> El Español | 3.2% | 2.6–3.9% | 2.4–4.1% | 2.3–4.3% | 2.1–4.7% |
 | [26–30 September 2022](2022-09-30-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.4% | 2.0–4.8% |
@@ -21,7 +21,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [19–23 September 2022](2022-09-23-InvyMark.html) | InvyMark <br> laSexta | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [16–22 September 2022](2022-09-22-electoPanel.html) | electoPanel <br> electomania.es | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.4–3.0% | 1.2–3.3% |
 | [19–22 September 2022](2022-09-22-GAD3.html) | GAD3 <br> NIUS | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
-| [21 September 2022](2022-09-21-KeyData.html) | Key Data <br> Público | 2.6% | N/A | N/A | N/A | N/A |
+| [21 September 2022](2022-09-21-KeyData.html) | Key Data <br> Público | 2.6% | 1.8–4.1% | 1.6–4.6% | 1.4–4.9% | 1.1–5.8% |
 | [14–18 September 2022](2022-09-18-DYM.html) | DYM <br> Henneo | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [9–16 September 2022](2022-09-16-electoPanel.html) | electoPanel <br> electomania.es | 2.0% | 1.6–2.7% | 1.5–2.8% | 1.4–3.0% | 1.2–3.3% |
 | [29 August–10 September 2022](2022-09-10-IMOP.html) | IMOP <br> El Confidencial | 2.4% | 1.9–3.0% | 1.8–3.2% | 1.7–3.4% | 1.5–3.7% |
@@ -705,9 +705,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 8% | 100% |  |
 | 1.5–2.5% | 37% | 92% |  |
 | 2.5–3.5% | 42% | 55% | Median |
-| 3.5–4.5% | 11% | 12% |  |
-| 4.5–5.5% | 0.9% | 0.9% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 3.5–4.5% | 12% | 13% |  |
+| 4.5–5.5% | 1.1% | 1.2% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -729,7 +730,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–23 September 2022](2022-09-23-InvyMark.html) | InvyMark <br> laSexta | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–22 September 2022](2022-09-22-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [19–22 September 2022](2022-09-22-GAD3.html) | GAD3 <br> NIUS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [21 September 2022](2022-09-21-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [21 September 2022](2022-09-21-KeyData.html) | Key Data <br> Público | 1 | 1–2 | 0–2 | 0–3 | 0–3 |
 | [14–18 September 2022](2022-09-18-DYM.html) | DYM <br> Henneo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–16 September 2022](2022-09-16-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [29 August–10 September 2022](2022-09-10-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -1414,7 +1415,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 8% | 100% | Last Result |
 | 1 | 68% | 92% | Median |
 | 2 | 23% | 24% |  |
-| 3 | 0.7% | 0.7% |  |
+| 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 
 
