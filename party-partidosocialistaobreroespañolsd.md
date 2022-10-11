@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.2% | 22.9–27.5% | 22.3–28.2% | 21.8–28.8% | 20.8–29.9% |
+| N/A | [Poll Average](average.html) | 25.2% | 22.8–27.5% | 22.2–28.2% | 21.7–28.8% | 20.7–29.9% |
+| [1–6 October 2022](2022-10-06-electoPanel.html) | electoPanel <br> electomania.es | 25.1% | 23.5–26.8% | 23.0–27.3% | 22.6–27.7% | 21.9–28.6% |
+| [3–6 October 2022](2022-10-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 23.6% | 21.9–25.4% | 21.5–25.9% | 21.1–26.3% | 20.3–27.2% |
 | [26–30 September 2022](2022-09-30-electoPanel.html) | electoPanel <br> electomania.es | 24.5% | 22.9–26.2% | 22.5–26.6% | 22.1–27.1% | 21.4–27.9% |
 | [26–30 September 2022](2022-09-30-SocioMétrica.html) | SocioMétrica <br> El Español | 23.9% | 22.4–25.6% | 21.9–26.0% | 21.6–26.4% | 20.9–27.2% |
 | [26–30 September 2022](2022-09-30-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 24.1% | 22.5–25.8% | 22.0–26.3% | 21.6–26.7% | 20.9–27.6% |
@@ -722,14 +724,14 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.1% | 100% |  |
 | 19.5–20.5% | 0.3% | 99.9% |  |
-| 20.5–21.5% | 1.4% | 99.7% |  |
-| 21.5–22.5% | 5% | 98% |  |
-| 22.5–23.5% | 11% | 93% |  |
-| 23.5–24.5% | 18% | 82% |  |
-| 24.5–25.5% | 21% | 64% | Median |
-| 25.5–26.5% | 20% | 42% |  |
+| 20.5–21.5% | 2% | 99.6% |  |
+| 21.5–22.5% | 6% | 98% |  |
+| 22.5–23.5% | 12% | 92% |  |
+| 23.5–24.5% | 18% | 81% |  |
+| 24.5–25.5% | 21% | 62% | Median |
+| 25.5–26.5% | 19% | 42% |  |
 | 26.5–27.5% | 13% | 23% |  |
-| 27.5–28.5% | 6% | 10% |  |
+| 27.5–28.5% | 6% | 9% |  |
 | 28.5–29.5% | 2% | 3% |  |
 | 29.5–30.5% | 0.7% | 0.9% |  |
 | 30.5–31.5% | 0.2% | 0.2% |  |
@@ -745,6 +747,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
+| [1–6 October 2022](2022-10-06-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
+| [3–6 October 2022](2022-10-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 14 | 14–15 | 14–15 | 14–16 | 13–17 |
 | [26–30 September 2022](2022-09-30-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [26–30 September 2022](2022-09-30-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 14–18 | 14–18 | 14–18 | 13–18 |
 | [26–30 September 2022](2022-09-30-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 16 | 14–16 | 14–16 | 13–17 | 13–18 |
@@ -1450,13 +1454,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0.3% | 100% |  |
-| 13 | 3% | 99.7% |  |
-| 14 | 14% | 97% |  |
-| 15 | 28% | 83% |  |
-| 16 | 37% | 55% | Median |
-| 17 | 13% | 18% |  |
-| 18 | 4% | 5% |  |
-| 19 | 0.6% | 0.6% |  |
+| 13 | 2% | 99.7% |  |
+| 14 | 17% | 97% |  |
+| 15 | 26% | 80% |  |
+| 16 | 36% | 54% | Median |
+| 17 | 12% | 18% |  |
+| 18 | 5% | 5% |  |
+| 19 | 0.5% | 0.6% |  |
 | 20 | 0% | 0% |  |
 
 
