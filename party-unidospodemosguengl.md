@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.2% | 8.6–12.1% | 8.2–12.7% | 7.8–13.1% | 7.1–14.0% |
+| N/A | [Poll Average](average.html) | 10.3% | 8.6–12.2% | 8.2–12.7% | 7.8–13.1% | 7.1–14.0% |
+| [26 September–8 October 2022](2022-10-08-IMOP.html) | IMOP <br> El Confidencial | 11.2% | 10.2–12.4% | 9.8–12.7% | 9.6–13.0% | 9.1–13.6% |
+| [3–7 October 2022](2022-10-07-InvyMark.html) | InvyMark <br> laSexta | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.6% | 8.2–13.2% |
 | [1–6 October 2022](2022-10-06-electoPanel.html) | electoPanel <br> electomania.es | 11.6% | 10.4–12.9% | 10.1–13.3% | 9.8–13.6% | 9.3–14.3% |
 | [3–6 October 2022](2022-10-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 8.8% | 7.7–10.1% | 7.4–10.4% | 7.2–10.7% | 6.7–11.4% |
 | [26–30 September 2022](2022-09-30-electoPanel.html) | electoPanel <br> electomania.es | 11.7% | 10.5–13.0% | 10.2–13.4% | 10.0–13.7% | 9.4–14.3% |
@@ -712,12 +714,12 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0.1% | 100% |  |
 | 6.5–7.5% | 1.3% | 99.9% |  |
 | 7.5–8.5% | 8% | 98.6% |  |
-| 8.5–9.5% | 22% | 91% |  |
-| 9.5–10.5% | 30% | 68% | Median |
-| 10.5–11.5% | 21% | 38% |  |
-| 11.5–12.5% | 11% | 17% |  |
-| 12.5–13.5% | 5% | 6% |  |
-| 13.5–14.5% | 1.0% | 1.1% |  |
+| 8.5–9.5% | 20% | 91% |  |
+| 9.5–10.5% | 28% | 71% | Median |
+| 10.5–11.5% | 23% | 42% |  |
+| 11.5–12.5% | 13% | 19% |  |
+| 12.5–13.5% | 5% | 7% |  |
+| 13.5–14.5% | 1.0% | 1.2% |  |
 | 14.5–15.5% | 0.1% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -731,6 +733,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
+| [26 September–8 October 2022](2022-10-08-IMOP.html) | IMOP <br> El Confidencial | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [3–7 October 2022](2022-10-07-InvyMark.html) | InvyMark <br> laSexta | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [1–6 October 2022](2022-10-06-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [3–6 October 2022](2022-10-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [26–30 September 2022](2022-09-30-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
@@ -1430,9 +1434,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
 | 4 | 4% | 99.9% |  |
-| 5 | 29% | 96% |  |
-| 6 | 40% | 67% | Median |
-| 7 | 21% | 27% |  |
+| 5 | 24% | 96% |  |
+| 6 | 43% | 72% | Median |
+| 7 | 23% | 29% |  |
 | 8 | 6% | 6% |  |
 | 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
