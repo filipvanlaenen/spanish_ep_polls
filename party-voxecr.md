@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.3% | 12.8–17.7% | 12.1–18.3% | 11.5–18.9% | 10.7–20.0% |
+| N/A | [Poll Average](average.html) | 15.1% | 12.5–17.4% | 11.8–18.0% | 11.3–18.5% | 10.6–19.5% |
+| [10–14 October 2022](2022-10-14-NCReport.html) | NC Report <br> La Razón | 12.9% | 11.4–14.7% | 10.9–15.3% | 10.6–15.7% | 9.9–16.6% |
+| [7–13 October 2022](2022-10-13-electoPanel.html) | electoPanel <br> electomania.es | 14.8% | 13.6–16.1% | 13.2–16.5% | 12.9–16.8% | 12.4–17.5% |
+| [10–13 October 2022](2022-10-13-TargetPoint.html) | Target Point <br> El Debate | 15.8% | 14.4–17.3% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
 | [26 September–8 October 2022](2022-10-08-IMOP.html) | IMOP <br> El Confidencial | 16.8% | 15.6–18.2% | 15.2–18.6% | 14.9–19.0% | 14.3–19.6% |
 | [3–7 October 2022](2022-10-07-InvyMark.html) | InvyMark <br> laSexta | 16.3% | 14.9–17.9% | 14.5–18.3% | 14.1–18.7% | 13.5–19.5% |
 | [1–6 October 2022](2022-10-06-electoPanel.html) | electoPanel <br> electomania.es | 14.9% | 13.5–16.3% | 13.2–16.7% | 12.9–17.1% | 12.3–17.8% |
@@ -715,18 +718,18 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.3% | 100% |  |
-| 10.5–11.5% | 2% | 99.7% |  |
-| 11.5–12.5% | 6% | 97% |  |
-| 12.5–13.5% | 10% | 92% |  |
-| 13.5–14.5% | 17% | 82% |  |
-| 14.5–15.5% | 20% | 65% | Median |
-| 15.5–16.5% | 19% | 45% |  |
-| 16.5–17.5% | 14% | 26% |  |
-| 17.5–18.5% | 8% | 12% |  |
-| 18.5–19.5% | 3% | 4% |  |
-| 19.5–20.5% | 0.8% | 1.0% |  |
-| 20.5–21.5% | 0.2% | 0.2% |  |
+| 9.5–10.5% | 0.5% | 100% |  |
+| 10.5–11.5% | 3% | 99.5% |  |
+| 11.5–12.5% | 7% | 97% |  |
+| 12.5–13.5% | 12% | 89% |  |
+| 13.5–14.5% | 18% | 77% |  |
+| 14.5–15.5% | 20% | 60% | Median |
+| 15.5–16.5% | 19% | 40% |  |
+| 16.5–17.5% | 13% | 22% |  |
+| 17.5–18.5% | 6% | 9% |  |
+| 18.5–19.5% | 2% | 2% |  |
+| 19.5–20.5% | 0.4% | 0.5% |  |
+| 20.5–21.5% | 0.1% | 0.1% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
 
@@ -738,7 +741,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 7–11 | 7–11 | 6–12 |
+| N/A | [Poll Average](average.html) | 9 | 7–11 | 7–11 | 7–11 | 6–12 |
+| [10–14 October 2022](2022-10-14-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 7–9 | 6–10 | 6–11 |
+| [7–13 October 2022](2022-10-13-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
+| [10–13 October 2022](2022-10-13-TargetPoint.html) | Target Point <br> El Debate | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
 | [26 September–8 October 2022](2022-10-08-IMOP.html) | IMOP <br> El Confidencial | 11 | 10–11 | 10–11 | 9–11 | 9–12 |
 | [3–7 October 2022](2022-10-07-InvyMark.html) | InvyMark <br> laSexta | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [1–6 October 2022](2022-10-06-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
@@ -1441,14 +1447,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.6% | 100% |  |
-| 7 | 8% | 99.4% |  |
-| 8 | 19% | 92% |  |
-| 9 | 30% | 72% | Median |
-| 10 | 23% | 42% |  |
-| 11 | 18% | 20% |  |
-| 12 | 2% | 2% |  |
-| 13 | 0.2% | 0.2% |  |
+| 6 | 0.9% | 100% |  |
+| 7 | 10% | 99.1% |  |
+| 8 | 21% | 89% |  |
+| 9 | 32% | 69% | Median |
+| 10 | 20% | 36% |  |
+| 11 | 15% | 17% |  |
+| 12 | 1.0% | 1.1% |  |
+| 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
 
