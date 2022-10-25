@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.0% | 22.7–27.2% | 22.1–27.8% | 21.6–28.4% | 20.5–29.5% |
+| N/A | [Poll Average](average.html) | 25.2% | 22.8–27.7% | 22.2–28.5% | 21.7–29.3% | 20.6–30.9% |
 | [13–20 October 2022](2022-10-20-electoPanel.html) | electoPanel <br> electomania.es | 25.6% | 24.1–27.2% | 23.7–27.7% | 23.3–28.1% | 22.6–28.9% |
+| [20 October 2022](2022-10-20-KeyData.html) | Key Data <br> Público | 25.2% | 22.4–28.4% | 21.6–29.3% | 20.9–30.1% | 19.6–31.7% |
 | [16 October 2022](2022-10-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 25.9% | 24.2–27.7% | 23.7–28.3% | 23.3–28.7% | 22.5–29.6% |
+| [3–14 October 2022](2022-10-14-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 28.0% | 25.9–30.3% | 25.3–31.0% | 24.8–31.6% | 23.7–32.7% |
 | [10–14 October 2022](2022-10-14-NCReport.html) | NC Report <br> La Razón | 24.0% | 22.0–26.2% | 21.4–26.9% | 20.9–27.4% | 20.0–28.5% |
 | [7–13 October 2022](2022-10-13-electoPanel.html) | electoPanel <br> electomania.es | 25.5% | 24.0–27.1% | 23.5–27.5% | 23.2–27.9% | 22.5–28.7% |
 | [10–13 October 2022](2022-10-13-TargetPoint.html) | Target Point <br> El Debate | 25.4% | 23.7–27.2% | 23.2–27.7% | 22.8–28.2% | 22.0–29.1% |
@@ -731,18 +733,20 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.1% | 100% |  |
 | 19.5–20.5% | 0.4% | 99.9% |  |
-| 20.5–21.5% | 2% | 99.5% |  |
+| 20.5–21.5% | 2% | 99.6% |  |
 | 21.5–22.5% | 6% | 98% |  |
-| 22.5–23.5% | 13% | 91% |  |
-| 23.5–24.5% | 19% | 79% |  |
-| 24.5–25.5% | 21% | 60% | Median |
-| 25.5–26.5% | 19% | 39% |  |
-| 26.5–27.5% | 12% | 19% |  |
-| 27.5–28.5% | 5% | 7% |  |
-| 28.5–29.5% | 2% | 2% |  |
-| 29.5–30.5% | 0.4% | 0.5% |  |
-| 30.5–31.5% | 0.1% | 0.1% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 22.5–23.5% | 12% | 92% |  |
+| 23.5–24.5% | 18% | 81% |  |
+| 24.5–25.5% | 20% | 63% | Median |
+| 25.5–26.5% | 19% | 43% |  |
+| 26.5–27.5% | 13% | 24% |  |
+| 27.5–28.5% | 6% | 11% |  |
+| 28.5–29.5% | 3% | 5% |  |
+| 29.5–30.5% | 1.2% | 2% |  |
+| 30.5–31.5% | 0.5% | 0.7% |  |
+| 31.5–32.5% | 0.2% | 0.2% |  |
+| 32.5–33.5% | 0% | 0.1% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -753,9 +757,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–17 | 13–18 | 13–19 |
+| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [13–20 October 2022](2022-10-20-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
+| [20 October 2022](2022-10-20-KeyData.html) | Key Data <br> Público | 16 | 14–17 | 13–18 | 13–18 | 12–19 |
 | [16 October 2022](2022-10-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [3–14 October 2022](2022-10-14-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [10–14 October 2022](2022-10-14-NCReport.html) | NC Report <br> La Razón | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | [7–13 October 2022](2022-10-13-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–18 | 14–18 | 14–18 | 14–18 |
 | [10–13 October 2022](2022-10-13-TargetPoint.html) | Target Point <br> El Debate | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
@@ -1467,14 +1473,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.4% | 100% |  |
-| 13 | 2% | 99.6% |  |
-| 14 | 18% | 97% |  |
-| 15 | 24% | 79% |  |
-| 16 | 39% | 55% | Median |
-| 17 | 11% | 16% |  |
-| 18 | 4% | 5% |  |
-| 19 | 0.5% | 0.5% |  |
-| 20 | 0% | 0% |  |
+| 12 | 0.3% | 100% |  |
+| 13 | 2% | 99.7% |  |
+| 14 | 16% | 98% |  |
+| 15 | 22% | 82% |  |
+| 16 | 39% | 59% | Median |
+| 17 | 14% | 21% |  |
+| 18 | 6% | 7% |  |
+| 19 | 0.9% | 1.0% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 

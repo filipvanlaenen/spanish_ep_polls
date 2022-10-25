@@ -12,7 +12,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.1% | 1.6–2.9% | 1.4–3.1% | 1.3–3.4% | 1.0–4.0% |
 | [13–20 October 2022](2022-10-20-electoPanel.html) | electoPanel <br> electomania.es | 2.2% | 1.8–2.9% | 1.6–3.0% | 1.5–3.2% | 1.4–3.5% |
+| [20 October 2022](2022-10-20-KeyData.html) | Key Data <br> Público | 2.1% | 1.4–3.4% | 1.2–3.8% | 1.0–4.2% | 0.7–4.9% |
 | [16 October 2022](2022-10-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
+| [3–14 October 2022](2022-10-14-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [10–14 October 2022](2022-10-14-NCReport.html) | NC Report <br> La Razón | 2.1% | 1.6–3.0% | 1.4–3.3% | 1.3–3.6% | 1.1–4.0% |
 | [7–13 October 2022](2022-10-13-electoPanel.html) | electoPanel <br> electomania.es | 2.2% | 1.8–2.9% | 1.6–3.0% | 1.5–3.2% | 1.4–3.5% |
 | [10–13 October 2022](2022-10-13-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
@@ -727,9 +729,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [13–20 October 2022](2022-10-20-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| [20 October 2022](2022-10-20-KeyData.html) | Key Data <br> Público | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [16 October 2022](2022-10-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| [3–14 October 2022](2022-10-14-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [10–14 October 2022](2022-10-14-NCReport.html) | NC Report <br> La Razón | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [7–13 October 2022](2022-10-13-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [10–13 October 2022](2022-10-13-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
@@ -1430,8 +1434,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 9% | 100% | Last Result |
-| 1 | 85% | 91% | Median |
-| 2 | 6% | 6% |  |
+| 1 | 86% | 91% | Median |
+| 2 | 5% | 5% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 

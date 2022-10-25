@@ -12,7 +12,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.5–1.3% | 0.4–1.5% | 0.4–1.6% | 0.3–1.9% |
 | [13–20 October 2022](2022-10-20-electoPanel.html) | electoPanel <br> electomania.es | 0.9% | 0.7–1.4% | 0.6–1.5% | 0.5–1.6% | 0.4–1.8% |
+| [20 October 2022](2022-10-20-KeyData.html) | Key Data <br> Público | 0.0% | N/A | N/A | N/A | N/A |
 | [16 October 2022](2022-10-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [3–14 October 2022](2022-10-14-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [10–14 October 2022](2022-10-14-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [7–13 October 2022](2022-10-13-electoPanel.html) | electoPanel <br> electomania.es | 0.9% | 0.7–1.4% | 0.6–1.5% | 0.5–1.6% | 0.4–1.8% |
 | [10–13 October 2022](2022-10-13-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
@@ -726,7 +728,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [13–20 October 2022](2022-10-20-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0–1 |
+| [20 October 2022](2022-10-20-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [16 October 2022](2022-10-16-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
+| [3–14 October 2022](2022-10-14-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [10–14 October 2022](2022-10-14-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [7–13 October 2022](2022-10-13-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0–1 | 0–1 |
 | [10–13 October 2022](2022-10-13-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
