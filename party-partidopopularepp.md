@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.6% | 29.2–34.8% | 28.5–35.6% | 28.0–36.4% | 26.9–37.7% |
+| N/A | [Poll Average](average.html) | 31.1% | 28.9–34.1% | 28.2–35.2% | 27.6–36.0% | 26.4–37.6% |
+| [24–31 October 2022](2022-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 30.5% | 29.3–31.7% | 29.0–32.0% | 28.7–32.3% | 28.2–32.9% |
+| [24–28 October 2022](2022-10-28-InvyMark.html) | InvyMark <br> laSexta | 29.5% | 27.7–31.4% | 27.2–31.9% | 26.7–32.4% | 25.9–33.3% |
+| [22–27 October 2022](2022-10-27-electoPanel.html) | electoPanel <br> electomania.es | 30.9% | 29.1–32.7% | 28.7–33.2% | 28.2–33.7% | 27.4–34.6% |
+| [25–27 October 2022](2022-10-27-Data10.html) | Data10 <br> OKDiario | 31.4% | N/A | N/A | N/A | N/A |
+| [19–23 October 2022](2022-10-23-DYM.html) | DYM <br> Henneo | 30.8% | N/A | N/A | N/A | N/A |
+| [10–22 October 2022](2022-10-22-IMOP.html) | IMOP <br> El Confidencial | 30.0% | N/A | N/A | N/A | N/A |
 | [13–20 October 2022](2022-10-20-electoPanel.html) | electoPanel <br> electomania.es | 31.3% | 29.7–33.0% | 29.2–33.5% | 28.8–33.9% | 28.1–34.7% |
 | [20 October 2022](2022-10-20-KeyData.html) | Key Data <br> Público | 31.7% | 28.6–35.0% | 27.7–36.0% | 27.0–36.8% | 25.5–38.4% |
 | [16 October 2022](2022-10-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.2–33.9% | 27.3–34.9% |
@@ -737,21 +743,21 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0% | 100% |  |
-| 25.5–26.5% | 0.2% | 99.9% |  |
-| 26.5–27.5% | 1.0% | 99.7% |  |
-| 27.5–28.5% | 4% | 98.7% |  |
-| 28.5–29.5% | 9% | 95% |  |
-| 29.5–30.5% | 15% | 86% |  |
-| 30.5–31.5% | 19% | 71% |  |
-| 31.5–32.5% | 17% | 52% | Median |
-| 32.5–33.5% | 13% | 34% |  |
-| 33.5–34.5% | 10% | 21% |  |
-| 34.5–35.5% | 6% | 12% |  |
-| 35.5–36.5% | 3% | 5% |  |
-| 36.5–37.5% | 1.5% | 2% |  |
-| 37.5–38.5% | 0.5% | 0.6% |  |
-| 38.5–39.5% | 0.1% | 0.1% |  |
+| 24.5–25.5% | 0.1% | 100% |  |
+| 25.5–26.5% | 0.5% | 99.9% |  |
+| 26.5–27.5% | 2% | 99.4% |  |
+| 27.5–28.5% | 5% | 98% |  |
+| 28.5–29.5% | 11% | 93% |  |
+| 29.5–30.5% | 19% | 81% |  |
+| 30.5–31.5% | 21% | 62% | Median |
+| 31.5–32.5% | 16% | 41% |  |
+| 32.5–33.5% | 11% | 25% |  |
+| 33.5–34.5% | 7% | 14% |  |
+| 34.5–35.5% | 4% | 8% |  |
+| 35.5–36.5% | 2% | 4% |  |
+| 36.5–37.5% | 1.0% | 2% |  |
+| 37.5–38.5% | 0.4% | 0.6% |  |
+| 38.5–39.5% | 0.1% | 0.2% |  |
 | 39.5–40.5% | 0% | 0% |  |
 
 
@@ -763,7 +769,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–22 | 17–23 | 17–23 | 16–24 |
+| N/A | [Poll Average](average.html) | 19 | 18–21 | 17–22 | 17–23 | 16–24 |
+| [24–31 October 2022](2022-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 18–20 | 18–20 | 18–20 | 17–20 |
+| [24–28 October 2022](2022-10-28-InvyMark.html) | InvyMark <br> laSexta | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
+| [22–27 October 2022](2022-10-27-electoPanel.html) | electoPanel <br> electomania.es | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
+| [25–27 October 2022](2022-10-27-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [19–23 October 2022](2022-10-23-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [10–22 October 2022](2022-10-22-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [13–20 October 2022](2022-10-20-electoPanel.html) | electoPanel <br> electomania.es | 20 | 19–21 | 19–21 | 18–21 | 17–21 |
 | [20 October 2022](2022-10-20-KeyData.html) | Key Data <br> Público | 19 | 17–22 | 17–22 | 16–23 | 16–23 |
 | [16 October 2022](2022-10-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
@@ -1483,15 +1495,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0.1% | 100% |  |
-| 16 | 0.8% | 99.9% |  |
-| 17 | 6% | 99.2% |  |
-| 18 | 14% | 93% |  |
-| 19 | 22% | 79% |  |
-| 20 | 24% | 58% | Median |
-| 21 | 21% | 33% |  |
-| 22 | 6% | 12% |  |
-| 23 | 5% | 6% |  |
-| 24 | 1.3% | 1.4% |  |
+| 16 | 2% | 99.9% |  |
+| 17 | 8% | 98% |  |
+| 18 | 20% | 91% |  |
+| 19 | 28% | 71% | Median |
+| 20 | 17% | 43% |  |
+| 21 | 19% | 26% |  |
+| 22 | 4% | 7% |  |
+| 23 | 3% | 4% |  |
+| 24 | 0.9% | 0.9% |  |
 | 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 

@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.4% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.3–0.8% | 0.2–1.0% | 0.2–1.1% | 0.1–1.3% |
+| [24–31 October 2022](2022-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [24–28 October 2022](2022-10-28-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [22–27 October 2022](2022-10-27-electoPanel.html) | electoPanel <br> electomania.es | 0.4% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [25–27 October 2022](2022-10-27-Data10.html) | Data10 <br> OKDiario | 0.5% | N/A | N/A | N/A | N/A |
+| [19–23 October 2022](2022-10-23-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [10–22 October 2022](2022-10-22-IMOP.html) | IMOP <br> El Confidencial | 0.3% | N/A | N/A | N/A | N/A |
 | [13–20 October 2022](2022-10-20-electoPanel.html) | electoPanel <br> electomania.es | 0.4% | 0.2–0.7% | 0.2–0.8% | 0.2–0.9% | 0.1–1.1% |
 | [20 October 2022](2022-10-20-KeyData.html) | Key Data <br> Público | 0.0% | N/A | N/A | N/A | N/A |
 | [16 October 2022](2022-10-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 0.0% | N/A | N/A | N/A | N/A |
@@ -712,8 +718,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 55% | 100% | Last Result |
-| 0.5–1.5% | 45% | 45% | Median |
+| 0.0–0.5% | 60% | 100% | Last Result, Median |
+| 0.5–1.5% | 40% | 40% |  |
 | 1.5–2.5% | 0.1% | 0.1% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -727,6 +733,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [24–31 October 2022](2022-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [24–28 October 2022](2022-10-28-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
+| [22–27 October 2022](2022-10-27-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
+| [25–27 October 2022](2022-10-27-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [19–23 October 2022](2022-10-23-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [10–22 October 2022](2022-10-22-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [13–20 October 2022](2022-10-20-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
 | [20 October 2022](2022-10-20-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [16 October 2022](2022-10-16-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
