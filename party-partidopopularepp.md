@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.0% | 28.9–33.8% | 28.3–34.8% | 27.7–35.7% | 26.6–37.4% |
+| N/A | [Poll Average](average.html) | 30.9% | 28.8–33.6% | 28.2–34.6% | 27.7–35.5% | 26.5–37.2% |
+| [24 October–4 November 2022](2022-11-04-IMOP.html) | IMOP <br> El Confidencial | 30.3% | 28.7–31.9% | 28.2–32.4% | 27.8–32.8% | 27.1–33.6% |
+| [29 October–3 November 2022](2022-11-03-electoPanel.html) | electoPanel <br> electomania.es | 30.6% | 28.0–33.3% | 27.3–34.1% | 26.7–34.8% | 25.5–36.1% |
+| [31 October–2 November 2022](2022-11-02-SocioMétrica.html) | SocioMétrica <br> El Español | 30.8% | 29.2–32.6% | 28.7–33.1% | 28.3–33.5% | 27.5–34.4% |
 | [24–31 October 2022](2022-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 30.5% | 29.3–31.7% | 29.0–32.0% | 28.7–32.3% | 28.2–32.9% |
+| [27–30 October 2022](2022-10-30-40dB.html) | 40dB <br> Prisa | 29.9% | 28.6–31.2% | 28.2–31.6% | 27.9–31.9% | 27.3–32.6% |
 | [24–28 October 2022](2022-10-28-InvyMark.html) | InvyMark <br> laSexta | 29.5% | 27.7–31.4% | 27.2–31.9% | 26.7–32.4% | 25.9–33.3% |
 | [22–27 October 2022](2022-10-27-electoPanel.html) | electoPanel <br> electomania.es | 30.9% | 29.1–32.7% | 28.7–33.2% | 28.2–33.7% | 27.4–34.6% |
 | [25–27 October 2022](2022-10-27-Data10.html) | Data10 <br> OKDiario | 31.4% | 29.6–33.3% | 29.0–33.9% | 28.6–34.4% | 27.7–35.3% |
@@ -747,16 +751,16 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 0.4% | 99.9% |  |
 | 26.5–27.5% | 2% | 99.5% |  |
 | 27.5–28.5% | 5% | 98% |  |
-| 28.5–29.5% | 12% | 93% |  |
-| 29.5–30.5% | 20% | 81% |  |
-| 30.5–31.5% | 22% | 60% | Median |
-| 31.5–32.5% | 17% | 38% |  |
-| 32.5–33.5% | 10% | 22% |  |
-| 33.5–34.5% | 6% | 12% |  |
-| 34.5–35.5% | 3% | 6% |  |
-| 35.5–36.5% | 2% | 3% |  |
-| 36.5–37.5% | 0.7% | 1.1% |  |
-| 37.5–38.5% | 0.3% | 0.4% |  |
+| 28.5–29.5% | 13% | 92% |  |
+| 29.5–30.5% | 21% | 79% |  |
+| 30.5–31.5% | 22% | 58% | Median |
+| 31.5–32.5% | 16% | 35% |  |
+| 32.5–33.5% | 9% | 20% |  |
+| 33.5–34.5% | 5% | 10% |  |
+| 34.5–35.5% | 3% | 5% |  |
+| 35.5–36.5% | 1.4% | 2% |  |
+| 36.5–37.5% | 0.6% | 1.0% |  |
+| 37.5–38.5% | 0.2% | 0.3% |  |
 | 38.5–39.5% | 0.1% | 0.1% |  |
 | 39.5–40.5% | 0% | 0% |  |
 
@@ -769,8 +773,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–21 | 17–22 | 17–23 | 16–24 |
+| N/A | [Poll Average](average.html) | 19 | 18–21 | 17–21 | 17–22 | 16–24 |
+| [24 October–4 November 2022](2022-11-04-IMOP.html) | IMOP <br> El Confidencial | 19 | 18–20 | 18–21 | 18–21 | 17–21 |
+| [29 October–3 November 2022](2022-11-03-electoPanel.html) | electoPanel <br> electomania.es | 18 | 18–21 | 16–21 | 16–21 | 16–22 |
+| [31 October–2 November 2022](2022-11-02-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 18–20 | 18–21 | 17–21 | 17–22 |
 | [24–31 October 2022](2022-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 18–20 | 18–20 | 18–20 | 17–20 |
+| [27–30 October 2022](2022-10-30-40dB.html) | 40dB <br> Prisa | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
 | [24–28 October 2022](2022-10-28-InvyMark.html) | InvyMark <br> laSexta | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [22–27 October 2022](2022-10-27-electoPanel.html) | electoPanel <br> electomania.es | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
 | [25–27 October 2022](2022-10-27-Data10.html) | Data10 <br> OKDiario | 21 | 19–21 | 19–21 | 18–21 | 18–22 |
@@ -1495,15 +1503,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0.1% | 100% |  |
-| 16 | 1.2% | 99.9% |  |
-| 17 | 7% | 98.7% |  |
-| 18 | 21% | 92% |  |
-| 19 | 25% | 71% | Median |
-| 20 | 20% | 45% |  |
-| 21 | 20% | 26% |  |
-| 22 | 3% | 5% |  |
-| 23 | 2% | 3% |  |
-| 24 | 0.6% | 0.7% |  |
+| 16 | 2% | 99.9% |  |
+| 17 | 7% | 98% |  |
+| 18 | 25% | 91% |  |
+| 19 | 28% | 66% | Median |
+| 20 | 17% | 38% |  |
+| 21 | 17% | 21% |  |
+| 22 | 2% | 4% |  |
+| 23 | 2% | 2% |  |
+| 24 | 0.5% | 0.6% |  |
 | 25 | 0% | 0% |  |
 
 
