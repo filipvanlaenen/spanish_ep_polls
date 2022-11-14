@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.9% | 23.2–28.4% | 22.5–29.2% | 22.0–29.9% | 20.8–31.2% |
+| N/A | [Poll Average](average.html) | 26.2% | 23.6–28.4% | 22.8–29.1% | 22.2–29.8% | 21.0–31.1% |
+| [5–11 November 2022](2022-11-11-electoPanel.html) | electoPanel <br> electomania.es | 26.9% | 25.5–28.4% | 25.1–28.9% | 24.7–29.2% | 24.1–30.0% |
 | [24 October–4 November 2022](2022-11-04-IMOP.html) | IMOP <br> El Confidencial | 26.8% | 25.2–28.4% | 24.8–28.8% | 24.4–29.2% | 23.7–30.0% |
 | [29 October–3 November 2022](2022-11-03-electoPanel.html) | electoPanel <br> electomania.es | 26.6% | 24.2–29.2% | 23.5–30.0% | 22.9–30.7% | 21.8–31.9% |
 | [31 October–2 November 2022](2022-11-02-SocioMétrica.html) | SocioMétrica <br> El Español | 24.5% | 23.0–26.2% | 22.5–26.6% | 22.1–27.0% | 21.4–27.8% |
@@ -741,19 +742,19 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 0.3% | 99.9% |  |
-| 20.5–21.5% | 1.2% | 99.7% |  |
-| 21.5–22.5% | 4% | 98.5% |  |
-| 22.5–23.5% | 8% | 95% |  |
-| 23.5–24.5% | 13% | 87% |  |
-| 24.5–25.5% | 17% | 74% |  |
-| 25.5–26.5% | 20% | 58% | Median |
-| 26.5–27.5% | 18% | 38% |  |
-| 27.5–28.5% | 11% | 20% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0.2% | 99.9% |  |
+| 20.5–21.5% | 0.8% | 99.7% |  |
+| 21.5–22.5% | 3% | 98.9% |  |
+| 22.5–23.5% | 6% | 96% |  |
+| 23.5–24.5% | 11% | 90% |  |
+| 24.5–25.5% | 16% | 79% |  |
+| 25.5–26.5% | 22% | 63% | Median |
+| 26.5–27.5% | 20% | 41% |  |
+| 27.5–28.5% | 12% | 21% |  |
 | 28.5–29.5% | 6% | 9% |  |
 | 29.5–30.5% | 2% | 3% |  |
-| 30.5–31.5% | 0.8% | 1.2% |  |
+| 30.5–31.5% | 0.7% | 1.0% |  |
 | 31.5–32.5% | 0.2% | 0.3% |  |
 | 32.5–33.5% | 0.1% | 0.1% |  |
 | 33.5–34.5% | 0% | 0% |  |
@@ -767,7 +768,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
+| N/A | [Poll Average](average.html) | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
+| [5–11 November 2022](2022-11-11-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [24 October–4 November 2022](2022-11-04-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [29 October–3 November 2022](2022-11-03-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–18 | 15–18 | 15–19 | 14–20 |
 | [31 October–2 November 2022](2022-11-02-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
@@ -1495,12 +1497,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0.3% | 100% |  |
 | 13 | 2% | 99.7% |  |
-| 14 | 11% | 98% |  |
-| 15 | 20% | 87% |  |
-| 16 | 36% | 67% | Median |
-| 17 | 22% | 30% |  |
+| 14 | 7% | 98% |  |
+| 15 | 18% | 91% |  |
+| 16 | 36% | 73% | Median |
+| 17 | 29% | 37% |  |
 | 18 | 7% | 8% |  |
-| 19 | 1.2% | 1.3% |  |
+| 19 | 1.1% | 1.2% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
