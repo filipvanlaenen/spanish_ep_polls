@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.2–4.0% | 2.1–4.3% | 2.0–4.5% | 1.8–5.1% |
-| [24 November 2022](2022-11-24-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 3.1% | 2.3–4.0% | 2.1–4.3% | 2.0–4.6% | 1.8–5.1% |
 | [16–22 November 2022](2022-11-22-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [7–20 November 2022](2022-11-20-IMOP.html) | IMOP <br> El Confidencial | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 2.0–4.4% |
 | [12–18 November 2022](2022-11-18-electoPanel.html) | electoPanel <br> electomania.es | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
 | [15–17 November 2022](2022-11-17-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
 | [16–17 November 2022](2022-11-17-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [7–16 November 2022](2022-11-16-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3.2% | 2.5–4.3% | 2.3–4.5% | 2.2–4.8% | 1.9–5.3% |
 | [7–14 November 2022](2022-11-14-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [8–12 November 2022](2022-11-12-NCReport.html) | NC Report <br> La Razón | 3.5% | 2.7–4.6% | 2.5–5.0% | 2.3–5.2% | 2.0–5.8% |
 | [2–12 November 2022](2022-11-12-CIS.html) | CIS | 2.2% | 1.9–2.5% | 1.8–2.6% | 1.8–2.7% | 1.6–2.9% |
@@ -736,10 +736,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 22% | 99.9% |  |
-| 2.5–3.5% | 52% | 78% | Median |
-| 3.5–4.5% | 24% | 26% |  |
-| 4.5–5.5% | 2% | 2% |  |
+| 1.5–2.5% | 20% | 99.9% |  |
+| 2.5–3.5% | 52% | 80% | Median |
+| 3.5–4.5% | 25% | 27% |  |
+| 4.5–5.5% | 2% | 3% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -753,12 +753,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [24 November 2022](2022-11-24-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
 | [16–22 November 2022](2022-11-22-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [7–20 November 2022](2022-11-20-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–18 November 2022](2022-11-18-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–17 November 2022](2022-11-17-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [16–17 November 2022](2022-11-17-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
+| [7–16 November 2022](2022-11-16-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [7–14 November 2022](2022-11-14-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [8–12 November 2022](2022-11-12-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [2–12 November 2022](2022-11-12-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1 |
@@ -1479,8 +1479,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 51% | 100% | Median |
-| 2 | 47% | 49% |  |
+| 1 | 50% | 100% | Median |
+| 2 | 48% | 50% |  |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 

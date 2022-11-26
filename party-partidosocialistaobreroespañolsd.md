@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.9% | 23.5–28.9% | 22.8–32.2% | 22.3–32.9% | 21.2–33.8% |
-| [24 November 2022](2022-11-24-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 25.0% | 23.4–26.7% | 22.9–27.2% | 22.5–27.6% | 21.8–28.5% |
+| N/A | [Poll Average](average.html) | 25.9% | 23.4–28.9% | 22.8–32.2% | 22.2–32.9% | 21.2–33.8% |
 | [16–22 November 2022](2022-11-22-DYM.html) | DYM <br> Henneo | 26.8% | 25.1–28.7% | 24.6–29.2% | 24.2–29.7% | 23.4–30.6% |
 | [7–20 November 2022](2022-11-20-IMOP.html) | IMOP <br> El Confidencial | 26.1% | 24.6–27.7% | 24.2–28.2% | 23.8–28.6% | 23.1–29.4% |
 | [12–18 November 2022](2022-11-18-electoPanel.html) | electoPanel <br> electomania.es | 26.7% | 25.0–28.5% | 24.5–29.1% | 24.1–29.5% | 23.3–30.4% |
 | [15–17 November 2022](2022-11-17-TargetPoint.html) | Target Point <br> El Debate | 24.3% | 22.6–26.0% | 22.1–26.6% | 21.7–27.0% | 20.9–27.9% |
 | [16–17 November 2022](2022-11-17-InvyMark.html) | InvyMark <br> laSexta | 26.3% | 24.8–28.0% | 24.3–28.5% | 23.9–28.9% | 23.2–29.7% |
+| [7–16 November 2022](2022-11-16-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 25.0% | 23.0–27.2% | 22.4–27.8% | 21.9–28.3% | 21.0–29.4% |
 | [7–14 November 2022](2022-11-14-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 26.4% | 24.7–28.2% | 24.2–28.8% | 23.8–29.2% | 22.9–30.1% |
 | [8–12 November 2022](2022-11-12-NCReport.html) | NC Report <br> La Razón | 23.9% | 21.8–26.1% | 21.2–26.7% | 20.7–27.3% | 19.8–28.4% |
 | [2–12 November 2022](2022-11-12-CIS.html) | CIS | 32.7% | 31.7–33.7% | 31.4–34.0% | 31.2–34.2% | 30.8–34.7% |
@@ -755,14 +755,14 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0.1% | 100% |  |
-| 20.5–21.5% | 0.7% | 99.8% |  |
+| 20.5–21.5% | 0.8% | 99.8% |  |
 | 21.5–22.5% | 3% | 99.1% |  |
 | 22.5–23.5% | 7% | 96% |  |
 | 23.5–24.5% | 13% | 89% |  |
 | 24.5–25.5% | 18% | 76% |  |
 | 25.5–26.5% | 21% | 58% | Median |
-| 26.5–27.5% | 16% | 36% |  |
-| 27.5–28.5% | 8% | 20% |  |
+| 26.5–27.5% | 17% | 37% |  |
+| 27.5–28.5% | 9% | 20% |  |
 | 28.5–29.5% | 3% | 12% |  |
 | 29.5–30.5% | 1.1% | 8% |  |
 | 30.5–31.5% | 0.8% | 7% |  |
@@ -782,12 +782,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–18 | 14–21 | 14–21 | 13–21 |
-| [24 November 2022](2022-11-24-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [16–22 November 2022](2022-11-22-DYM.html) | DYM <br> Henneo | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [7–20 November 2022](2022-11-20-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [12–18 November 2022](2022-11-18-electoPanel.html) | electoPanel <br> electomania.es | 17 | 16–17 | 15–18 | 15–18 | 14–19 |
 | [15–17 November 2022](2022-11-17-TargetPoint.html) | Target Point <br> El Debate | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
 | [16–17 November 2022](2022-11-17-InvyMark.html) | InvyMark <br> laSexta | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [7–16 November 2022](2022-11-16-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 16 | 14–17 | 13–17 | 13–17 | 13–18 |
 | [7–14 November 2022](2022-11-14-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 16 | 15–17 | 15–17 | 15–18 | 14–19 |
 | [8–12 November 2022](2022-11-12-NCReport.html) | NC Report <br> La Razón | 14 | 13–16 | 13–17 | 13–17 | 12–18 |
 | [2–12 November 2022](2022-11-12-CIS.html) | CIS | 21 | 21 | 21 | 20–21 | 20–22 |
@@ -1522,10 +1522,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.1% | 100% |  |
 | 13 | 2% | 99.8% |  |
 | 14 | 9% | 98% |  |
-| 15 | 21% | 89% |  |
-| 16 | 37% | 68% | Median |
-| 17 | 18% | 31% |  |
-| 18 | 5% | 13% |  |
+| 15 | 19% | 89% |  |
+| 16 | 38% | 70% | Median |
+| 17 | 19% | 32% |  |
+| 18 | 6% | 13% |  |
 | 19 | 0.6% | 7% |  |
 | 20 | 0.4% | 7% |  |
 | 21 | 6% | 6% |  |
