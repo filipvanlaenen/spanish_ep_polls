@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 0.7–2.8% | 0.5–3.0% | 0.4–3.2% | 0.2–3.7% |
+| N/A | [Poll Average](average.html) | 2.0% | 0.8–2.8% | 0.5–3.0% | 0.4–3.2% | 0.2–3.6% |
 | [2–7 December 2022](2022-12-07-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [27 November–2 December 2022](2022-12-02-electoPanel.html) | electoPanel <br> electomania.es | 2.2% | 1.8–2.9% | 1.6–3.1% | 1.5–3.3% | 1.3–3.7% |
 | [28 November–2 December 2022](2022-12-02-SocioMétrica.html) | SocioMétrica <br> El Español | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
 | [28 November–2 December 2022](2022-12-02-InvyMark.html) | InvyMark <br> laSexta | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
 | [21 November–2 December 2022](2022-12-02-IMOP.html) | IMOP <br> El Confidencial | 1.3% | 1.0–1.8% | 0.9–2.0% | 0.8–2.1% | 0.7–2.4% |
-| [29 November–1 December 2022](2022-12-01-Data10.html) | Data10 <br> OKDiario | 1.9% | N/A | N/A | N/A | N/A |
-| [25–30 November 2022](2022-11-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.5% | N/A | N/A | N/A | N/A |
+| [29 November–1 December 2022](2022-12-01-Data10.html) | Data10 <br> OKDiario | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
+| [25–30 November 2022](2022-11-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.5% | 2.0–3.1% | 1.9–3.2% | 1.8–3.4% | 1.6–3.7% |
 | [23–26 November 2022](2022-11-26-40dB.html) | 40dB <br> Prisa | 2.2% | N/A | N/A | N/A | N/A |
 | [20–25 November 2022](2022-11-25-electoPanel.html) | electoPanel <br> electomania.es | 2.1% | N/A | N/A | N/A | N/A |
 | [21–24 November 2022](2022-11-24-GESOP.html) | GESOP <br> Prensa Ibérica | 2.2% | N/A | N/A | N/A | N/A |
@@ -746,10 +746,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 6% | 100% | Last Result |
-| 0.5–1.5% | 26% | 94% |  |
-| 1.5–2.5% | 49% | 68% | Median |
-| 2.5–3.5% | 18% | 19% |  |
+| 0.0–0.5% | 5% | 100% | Last Result |
+| 0.5–1.5% | 23% | 95% |  |
+| 1.5–2.5% | 51% | 71% | Median |
+| 2.5–3.5% | 20% | 20% |  |
 | 3.5–4.5% | 0.7% | 0.7% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -768,8 +768,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [28 November–2 December 2022](2022-12-02-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [28 November–2 December 2022](2022-12-02-InvyMark.html) | InvyMark <br> laSexta | 0 | 0 | 0 | 0 | 0–1 |
 | [21 November–2 December 2022](2022-12-02-IMOP.html) | IMOP <br> El Confidencial | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [29 November–1 December 2022](2022-12-01-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [25–30 November 2022](2022-11-30-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [29 November–1 December 2022](2022-12-01-Data10.html) | Data10 <br> OKDiario | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [25–30 November 2022](2022-11-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [23–26 November 2022](2022-11-26-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [20–25 November 2022](2022-11-25-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [21–24 November 2022](2022-11-24-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
@@ -1500,8 +1500,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% | Last Result |
-| 1 | 65% | 68% | Median |
+| 0 | 29% | 100% | Last Result |
+| 1 | 68% | 71% | Median |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
