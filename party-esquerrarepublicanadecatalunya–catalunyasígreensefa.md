@@ -10,7 +10,19 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.3–4.0% | 2.1–4.3% | 2.0–4.6% | 1.8–5.1% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.2–4.1% | 2.0–4.4% | 1.9–4.7% | 1.7–5.3% |
+| [2–7 December 2022](2022-12-07-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [27 November–2 December 2022](2022-12-02-electoPanel.html) | electoPanel <br> electomania.es | 2.5% | 2.0–3.2% | 1.8–3.5% | 1.7–3.6% | 1.5–4.0% |
+| [28 November–2 December 2022](2022-12-02-SocioMétrica.html) | SocioMétrica <br> El Español | 2.9% | 2.4–3.6% | 2.2–3.9% | 2.1–4.0% | 1.9–4.4% |
+| [28 November–2 December 2022](2022-12-02-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [21 November–2 December 2022](2022-12-02-IMOP.html) | IMOP <br> El Confidencial | 0.0% | N/A | N/A | N/A | N/A |
+| [29 November–1 December 2022](2022-12-01-Data10.html) | Data10 <br> OKDiario | 3.0% | N/A | N/A | N/A | N/A |
+| [25–30 November 2022](2022-11-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.3% | N/A | N/A | N/A | N/A |
+| [23–26 November 2022](2022-11-26-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
+| [20–25 November 2022](2022-11-25-electoPanel.html) | electoPanel <br> electomania.es | 2.5% | N/A | N/A | N/A | N/A |
+| [21–24 November 2022](2022-11-24-GESOP.html) | GESOP <br> Prensa Ibérica | 2.8% | N/A | N/A | N/A | N/A |
+| [17–23 November 2022](2022-11-23-SigmaDos.html) | Sigma Dos <br> Antena 3 | 3.4% | N/A | N/A | N/A | N/A |
+| [1 September–23 November 2022](2022-11-23-GAD3.html) | GAD3 <br> ABC | 3.1% | N/A | N/A | N/A | N/A |
 | [16–22 November 2022](2022-11-22-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [7–20 November 2022](2022-11-20-IMOP.html) | IMOP <br> El Confidencial | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 2.0–4.4% |
 | [12–18 November 2022](2022-11-18-electoPanel.html) | electoPanel <br> electomania.es | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
@@ -736,11 +748,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 20% | 99.9% |  |
-| 2.5–3.5% | 52% | 80% | Median |
-| 3.5–4.5% | 25% | 27% |  |
-| 4.5–5.5% | 2% | 3% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 26% | 99.9% |  |
+| 2.5–3.5% | 48% | 74% | Median |
+| 3.5–4.5% | 23% | 26% |  |
+| 4.5–5.5% | 3% | 3% |  |
+| 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -752,7 +764,19 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| [2–7 December 2022](2022-12-07-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [27 November–2 December 2022](2022-12-02-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| [28 November–2 December 2022](2022-12-02-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [28 November–2 December 2022](2022-12-02-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
+| [21 November–2 December 2022](2022-12-02-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [29 November–1 December 2022](2022-12-01-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [25–30 November 2022](2022-11-30-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [23–26 November 2022](2022-11-26-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
+| [20–25 November 2022](2022-11-25-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [21–24 November 2022](2022-11-24-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
+| [17–23 November 2022](2022-11-23-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
+| [1 September–23 November 2022](2022-11-23-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [16–22 November 2022](2022-11-22-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [7–20 November 2022](2022-11-20-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–18 November 2022](2022-11-18-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -1478,9 +1502,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 50% | 100% | Median |
-| 2 | 48% | 50% |  |
+| 0 | 0.7% | 100% | Last Result |
+| 1 | 58% | 99.3% | Median |
+| 2 | 39% | 41% |  |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
