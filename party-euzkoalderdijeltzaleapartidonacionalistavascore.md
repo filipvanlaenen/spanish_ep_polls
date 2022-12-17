@@ -19,7 +19,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [29 November–1 December 2022](2022-12-01-Data10.html) | Data10 <br> OKDiario | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [25–30 November 2022](2022-11-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.5% | 1.1–2.0% | 1.1–2.1% | 1.0–2.2% | 0.8–2.5% |
 | [23–26 November 2022](2022-11-26-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
-| [20–25 November 2022](2022-11-25-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | N/A | N/A | N/A | N/A |
+| [20–25 November 2022](2022-11-25-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.8–2.8% |
 | [21–24 November 2022](2022-11-24-GESOP.html) | GESOP <br> Prensa Ibérica | 0.0% | N/A | N/A | N/A | N/A |
 | [17–23 November 2022](2022-11-23-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1.5% | N/A | N/A | N/A | N/A |
 | [1 September–23 November 2022](2022-11-23-GAD3.html) | GAD3 <br> ABC | 1.3% | N/A | N/A | N/A | N/A |
@@ -770,7 +770,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29 November–1 December 2022](2022-12-01-Data10.html) | Data10 <br> OKDiario | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25–30 November 2022](2022-11-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–26 November 2022](2022-11-26-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [20–25 November 2022](2022-11-25-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [20–25 November 2022](2022-11-25-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–24 November 2022](2022-11-24-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
 | [17–23 November 2022](2022-11-23-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
 | [1 September–23 November 2022](2022-11-23-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
