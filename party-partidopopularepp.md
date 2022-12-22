@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.4% | 27.6–33.8% | 27.0–34.5% | 26.6–35.1% | 25.8–36.8% |
+| N/A | [Poll Average](average.html) | 30.3% | 27.9–33.6% | 27.4–34.3% | 27.0–34.9% | 26.1–36.4% |
+| [13–17 December 2022](2022-12-17-NCReport.html) | NC Report <br> La Razón | 33.6% | 31.3–36.0% | 30.6–36.7% | 30.1–37.3% | 29.0–38.5% |
+| [14–17 December 2022](2022-12-17-DYM.html) | DYM <br> Henneo | 31.0% | 29.1–32.9% | 28.6–33.4% | 28.2–33.9% | 27.3–34.8% |
+| [5–16 December 2022](2022-12-16-IMOP.html) | IMOP <br> El Confidencial | 29.4% | 27.8–31.1% | 27.3–31.6% | 27.0–32.0% | 26.2–32.8% |
+| [9–15 December 2022](2022-12-15-electoPanel.html) | electoPanel <br> electomania.es | 31.0% | 29.4–32.7% | 28.9–33.1% | 28.5–33.5% | 27.8–34.4% |
+| [1–14 December 2022](2022-12-14-CIS.html) | CIS | 28.6% | 27.7–29.6% | 27.4–29.8% | 27.2–30.1% | 26.7–30.5% |
+| [2–9 December 2022](2022-12-09-electoPanel.html) | electoPanel <br> electomania.es | 31.3% | N/A | N/A | N/A | N/A |
 | [2–7 December 2022](2022-12-07-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 31.1% | 29.3–33.0% | 28.7–33.6% | 28.3–34.0% | 27.4–35.0% |
 | [27 November–2 December 2022](2022-12-02-electoPanel.html) | electoPanel <br> electomania.es | 31.0% | 29.2–32.9% | 28.7–33.4% | 28.3–33.9% | 27.5–34.7% |
 | [28 November–2 December 2022](2022-12-02-SocioMétrica.html) | SocioMétrica <br> El Español | 30.1% | 28.4–31.8% | 28.0–32.3% | 27.5–32.8% | 26.8–33.6% |
@@ -771,22 +777,21 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.2% | 100% |  |
-| 25.5–26.5% | 2% | 99.8% |  |
-| 26.5–27.5% | 7% | 98% |  |
-| 27.5–28.5% | 11% | 91% |  |
-| 28.5–29.5% | 15% | 80% |  |
-| 29.5–30.5% | 17% | 65% | Median |
-| 30.5–31.5% | 16% | 48% |  |
-| 31.5–32.5% | 12% | 32% |  |
-| 32.5–33.5% | 8% | 20% |  |
-| 33.5–34.5% | 7% | 12% |  |
-| 34.5–35.5% | 3% | 5% |  |
-| 35.5–36.5% | 1.1% | 2% |  |
-| 36.5–37.5% | 0.4% | 0.6% |  |
-| 37.5–38.5% | 0.1% | 0.2% |  |
-| 38.5–39.5% | 0% | 0.1% |  |
-| 39.5–40.5% | 0% | 0% |  |
+| 24.5–25.5% | 0.1% | 100% |  |
+| 25.5–26.5% | 1.0% | 99.8% |  |
+| 26.5–27.5% | 5% | 98.8% |  |
+| 27.5–28.5% | 13% | 94% |  |
+| 28.5–29.5% | 18% | 81% |  |
+| 29.5–30.5% | 18% | 63% | Median |
+| 30.5–31.5% | 16% | 45% |  |
+| 31.5–32.5% | 11% | 29% |  |
+| 32.5–33.5% | 7% | 18% |  |
+| 33.5–34.5% | 7% | 11% |  |
+| 34.5–35.5% | 3% | 4% |  |
+| 35.5–36.5% | 0.8% | 1.2% |  |
+| 36.5–37.5% | 0.3% | 0.4% |  |
+| 37.5–38.5% | 0.1% | 0.1% |  |
+| 38.5–39.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -797,7 +802,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–21 | 16–22 | 16–22 | 16–23 |
+| N/A | [Poll Average](average.html) | 19 | 17–21 | 17–22 | 16–22 | 16–23 |
+| [13–17 December 2022](2022-12-17-NCReport.html) | NC Report <br> La Razón | 21 | 19–22 | 19–23 | 18–23 | 18–24 |
+| [14–17 December 2022](2022-12-17-DYM.html) | DYM <br> Henneo | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
+| [5–16 December 2022](2022-12-16-IMOP.html) | IMOP <br> El Confidencial | 19 | 17–20 | 17–20 | 17–20 | 17–21 |
+| [9–15 December 2022](2022-12-15-electoPanel.html) | electoPanel <br> electomania.es | 20 | 19–20 | 19–21 | 18–21 | 18–22 |
+| [1–14 December 2022](2022-12-14-CIS.html) | CIS | 18 | 18 | 17–19 | 17–19 | 17–19 |
+| [2–9 December 2022](2022-12-09-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [2–7 December 2022](2022-12-07-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 19 | 19–21 | 18–21 | 18–22 | 17–22 |
 | [27 November–2 December 2022](2022-12-02-electoPanel.html) | electoPanel <br> electomania.es | 19 | 18–21 | 18–21 | 17–22 | 17–22 |
 | [28 November–2 December 2022](2022-12-02-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 17–20 | 17–21 | 17–21 | 17–22 |
@@ -1551,15 +1562,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0.2% | 100% |  |
-| 16 | 6% | 99.8% |  |
-| 17 | 14% | 94% |  |
-| 18 | 22% | 80% |  |
-| 19 | 24% | 57% | Median |
-| 20 | 16% | 34% |  |
-| 21 | 9% | 18% |  |
-| 22 | 8% | 9% |  |
-| 23 | 0.9% | 1.0% |  |
-| 24 | 0.1% | 0.2% |  |
+| 16 | 3% | 99.8% |  |
+| 17 | 15% | 97% |  |
+| 18 | 25% | 82% |  |
+| 19 | 26% | 57% | Median |
+| 20 | 15% | 31% |  |
+| 21 | 9% | 17% |  |
+| 22 | 7% | 8% |  |
+| 23 | 0.6% | 0.7% |  |
+| 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 
 
