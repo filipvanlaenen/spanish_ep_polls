@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.3–3.8% | 2.2–4.1% | 2.0–4.4% | 1.8–5.0% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.3–3.8% | 2.2–4.1% | 2.1–4.4% | 1.9–5.0% |
+| [19–23 December 2022](2022-12-23-electoPanel.html) | electoPanel <br> electomania.es | 2.5% | 2.1–3.0% | 2.0–3.2% | 1.9–3.3% | 1.7–3.6% |
+| [19–23 December 2022](2022-12-23-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [13–17 December 2022](2022-12-17-NCReport.html) | NC Report <br> La Razón | 3.5% | 2.7–4.6% | 2.5–4.9% | 2.3–5.2% | 2.0–5.8% |
 | [14–17 December 2022](2022-12-17-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [5–16 December 2022](2022-12-16-IMOP.html) | IMOP <br> El Confidencial | 3.2% | 2.7–4.0% | 2.5–4.2% | 2.4–4.4% | 2.1–4.7% |
@@ -753,8 +755,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 20% | 99.9% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 20% | 100% |  |
 | 2.5–3.5% | 61% | 80% | Median |
 | 3.5–4.5% | 18% | 19% |  |
 | 4.5–5.5% | 1.5% | 2% |  |
@@ -771,6 +773,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [19–23 December 2022](2022-12-23-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [19–23 December 2022](2022-12-23-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
 | [13–17 December 2022](2022-12-17-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [14–17 December 2022](2022-12-17-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [5–16 December 2022](2022-12-16-IMOP.html) | IMOP <br> El Confidencial | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -1516,7 +1520,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 57% | 100% | Median |
-| 2 | 42% | 43% |  |
+| 2 | 42% | 42% |  |
 | 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 

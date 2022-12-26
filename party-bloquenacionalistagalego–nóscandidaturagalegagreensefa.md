@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.5–1.2% | 0.4–1.4% | 0.3–1.5% | 0.2–1.8% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.5% | 0.2–1.7% |
+| [19–23 December 2022](2022-12-23-electoPanel.html) | electoPanel <br> electomania.es | 0.9% | 0.7–1.2% | 0.6–1.3% | 0.5–1.4% | 0.5–1.6% |
+| [19–23 December 2022](2022-12-23-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [13–17 December 2022](2022-12-17-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [14–17 December 2022](2022-12-17-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [5–16 December 2022](2022-12-16-IMOP.html) | IMOP <br> El Confidencial | 1.0% | 0.7–1.5% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% |
@@ -752,8 +754,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 22% | 100% | Last Result |
-| 0.5–1.5% | 76% | 78% | Median |
+| 0.0–0.5% | 21% | 100% | Last Result |
+| 0.5–1.5% | 77% | 79% | Median |
 | 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -767,6 +769,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [19–23 December 2022](2022-12-23-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0–1 |
+| [19–23 December 2022](2022-12-23-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
 | [13–17 December 2022](2022-12-17-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [14–17 December 2022](2022-12-17-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [5–16 December 2022](2022-12-16-IMOP.html) | IMOP <br> El Confidencial | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

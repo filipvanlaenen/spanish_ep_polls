@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.0% | 12.2–17.2% | 10.4–17.7% | 10.0–18.2% | 9.5–19.1% |
+| N/A | [Poll Average](average.html) | 14.9% | 12.0–17.0% | 10.4–17.5% | 10.0–18.0% | 9.5–18.9% |
+| [19–23 December 2022](2022-12-23-electoPanel.html) | electoPanel <br> electomania.es | 15.3% | 14.3–16.4% | 14.0–16.7% | 13.7–17.0% | 13.3–17.5% |
+| [19–23 December 2022](2022-12-23-InvyMark.html) | InvyMark <br> laSexta | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.7–18.5% |
 | [13–17 December 2022](2022-12-17-NCReport.html) | NC Report <br> La Razón | 13.1% | 11.5–14.9% | 11.1–15.4% | 10.7–15.9% | 10.0–16.8% |
 | [14–17 December 2022](2022-12-17-DYM.html) | DYM <br> Henneo | 15.5% | 14.1–17.0% | 13.7–17.5% | 13.4–17.8% | 12.7–18.6% |
 | [5–16 December 2022](2022-12-16-IMOP.html) | IMOP <br> El Confidencial | 16.8% | 15.5–18.2% | 15.2–18.6% | 14.9–19.0% | 14.3–19.7% |
@@ -764,15 +766,15 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0.6% | 100% |  |
 | 9.5–10.5% | 5% | 99.4% |  |
 | 10.5–11.5% | 3% | 94% |  |
-| 11.5–12.5% | 3% | 92% |  |
-| 12.5–13.5% | 8% | 88% |  |
-| 13.5–14.5% | 20% | 80% |  |
-| 14.5–15.5% | 22% | 60% | Median |
-| 15.5–16.5% | 19% | 37% |  |
-| 16.5–17.5% | 12% | 18% |  |
-| 17.5–18.5% | 5% | 6% |  |
-| 18.5–19.5% | 1.2% | 1.4% |  |
-| 19.5–20.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 4% | 91% |  |
+| 12.5–13.5% | 9% | 88% |  |
+| 13.5–14.5% | 21% | 79% |  |
+| 14.5–15.5% | 23% | 57% | Median |
+| 15.5–16.5% | 19% | 34% |  |
+| 16.5–17.5% | 10% | 15% |  |
+| 17.5–18.5% | 4% | 5% |  |
+| 18.5–19.5% | 0.9% | 1.0% |  |
+| 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
 
@@ -785,6 +787,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–11 | 7–11 | 6–11 | 6–12 |
+| [19–23 December 2022](2022-12-23-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–10 | 9–10 | 9–10 | 8–11 |
+| [19–23 December 2022](2022-12-23-InvyMark.html) | InvyMark <br> laSexta | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [13–17 December 2022](2022-12-17-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
 | [14–17 December 2022](2022-12-17-DYM.html) | DYM <br> Henneo | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [5–16 December 2022](2022-12-16-IMOP.html) | IMOP <br> El Confidencial | 10 | 9–12 | 9–12 | 9–12 | 9–13 |
@@ -1533,14 +1537,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.1% | 100% |  |
-| 6 | 3% | 99.9% |  |
-| 7 | 9% | 97% |  |
-| 8 | 18% | 88% |  |
-| 9 | 37% | 70% | Median |
-| 10 | 22% | 34% |  |
-| 11 | 10% | 12% |  |
-| 12 | 2% | 2% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 3% | 99.8% |  |
+| 7 | 10% | 97% |  |
+| 8 | 19% | 87% |  |
+| 9 | 36% | 68% | Median |
+| 10 | 21% | 32% |  |
+| 11 | 9% | 11% |  |
+| 12 | 1.5% | 2% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 

@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.4% | 1.1–2.0% | 1.0–2.2% | 0.9–2.4% | 0.8–2.8% |
+| [19–23 December 2022](2022-12-23-electoPanel.html) | electoPanel <br> electomania.es | 1.4% | 1.1–1.8% | 1.0–2.0% | 1.0–2.1% | 0.9–2.3% |
+| [19–23 December 2022](2022-12-23-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [13–17 December 2022](2022-12-17-NCReport.html) | NC Report <br> La Razón | 1.5% | 1.1–2.3% | 0.9–2.6% | 0.8–2.8% | 0.7–3.2% |
 | [14–17 December 2022](2022-12-17-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [5–16 December 2022](2022-12-16-IMOP.html) | IMOP <br> El Confidencial | 1.6% | 1.2–2.1% | 1.1–2.3% | 1.0–2.4% | 0.9–2.7% |
@@ -768,6 +770,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [19–23 December 2022](2022-12-23-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [19–23 December 2022](2022-12-23-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
 | [13–17 December 2022](2022-12-17-NCReport.html) | NC Report <br> La Razón | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [14–17 December 2022](2022-12-17-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [5–16 December 2022](2022-12-16-IMOP.html) | IMOP <br> El Confidencial | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1511,8 +1515,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 56% | 100% | Last Result, Median |
-| 1 | 44% | 44% |  |
+| 0 | 57% | 100% | Last Result, Median |
+| 1 | 42% | 43% |  |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
