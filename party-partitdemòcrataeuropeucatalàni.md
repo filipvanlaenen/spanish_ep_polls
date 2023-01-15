@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.0% | 1.4–2.8% | 1.3–3.0% | 1.2–3.2% | 1.0–3.9% |
 | [28–31 December 2022](2022-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 1.9% | 1.5–2.5% | 1.4–2.7% | 1.3–2.9% | 1.1–3.2% |
+| [27–31 December 2022](2022-12-31-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [26–30 December 2022](2022-12-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.4% | 2.0–2.9% | 1.9–3.1% | 1.8–3.2% | 1.6–3.5% |
 | [25–29 December 2022](2022-12-29-electoPanel.html) | electoPanel <br> electomania.es | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% |
 | [27–29 December 2022](2022-12-29-Data10.html) | Data10 <br> OKDiario | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
@@ -783,6 +784,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [28–31 December 2022](2022-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27–31 December 2022](2022-12-31-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [26–30 December 2022](2022-12-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 1 | 1–2 | 1–2 |
 | [25–29 December 2022](2022-12-29-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [27–29 December 2022](2022-12-29-Data10.html) | Data10 <br> OKDiario | 1 | 0–1 | 0–1 | 0–2 | 0–2 |

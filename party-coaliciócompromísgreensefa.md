@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.9–3.6% | 1.7–3.9% | 1.6–4.2% | 1.4–4.9% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.9–3.7% | 1.8–4.0% | 1.6–4.2% | 1.4–4.9% |
 | [28–31 December 2022](2022-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 2.7% | 2.1–3.4% | 2.0–3.6% | 1.9–3.7% | 1.7–4.1% |
+| [27–31 December 2022](2022-12-31-40dB.html) | 40dB <br> Prisa | 3.6% | 3.1–4.2% | 3.0–4.4% | 2.9–4.5% | 2.7–4.8% |
 | [26–30 December 2022](2022-12-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.7% | 2.3–3.3% | 2.2–3.4% | 2.1–3.6% | 1.9–3.8% |
 | [25–29 December 2022](2022-12-29-electoPanel.html) | electoPanel <br> electomania.es | 1.9% | 1.6–2.4% | 1.5–2.6% | 1.4–2.7% | 1.2–3.0% |
 | [27–29 December 2022](2022-12-29-Data10.html) | Data10 <br> OKDiario | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
@@ -766,10 +767,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 43% | 98% |  |
-| 2.5–3.5% | 46% | 56% | Median |
-| 3.5–4.5% | 9% | 10% |  |
-| 4.5–5.5% | 0.9% | 1.0% |  |
+| 1.5–2.5% | 40% | 98% |  |
+| 2.5–3.5% | 46% | 59% | Median |
+| 3.5–4.5% | 12% | 13% |  |
+| 4.5–5.5% | 1.0% | 1.1% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -784,6 +785,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [28–31 December 2022](2022-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [27–31 December 2022](2022-12-31-40dB.html) | 40dB <br> Prisa | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [26–30 December 2022](2022-12-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25–29 December 2022](2022-12-29-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | [27–29 December 2022](2022-12-29-Data10.html) | Data10 <br> OKDiario | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
@@ -1539,8 +1541,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% | Last Result |
-| 1 | 75% | 98% | Median |
-| 2 | 22% | 23% |  |
+| 1 | 71% | 98% | Median |
+| 2 | 26% | 27% |  |
 | 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
