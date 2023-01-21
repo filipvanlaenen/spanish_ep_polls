@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.1% | 8.7–12.0% | 8.3–12.5% | 8.0–12.9% | 7.3–13.5% |
+| N/A | [Poll Average](average.html) | 10.4% | 8.8–12.0% | 8.5–12.4% | 8.1–12.9% | 7.5–14.0% |
+| [15 January 2023](2023-01-15-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 11.6% | 10.2–13.4% | 9.8–13.9% | 9.4–14.3% | 8.7–15.2% |
+| [9–13 January 2023](2023-01-13-InvyMark.html) | InvyMark <br> laSexta | 10.2% | 9.1–11.5% | 8.7–11.9% | 8.5–12.2% | 8.0–12.9% |
+| [7–12 January 2023](2023-01-12-electoPanel.html) | electoPanel <br> electomania.es | 10.8% | 9.6–12.1% | 9.3–12.5% | 9.0–12.8% | 8.5–13.5% |
+| [5–11 January 2023](2023-01-11-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 9.6% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
+| [2–10 January 2023](2023-01-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 10.5% | 9.1–12.1% | 8.7–12.6% | 8.4–13.0% | 7.8–13.8% |
+| [30 December 2022–5 January 2023](2023-01-05-electoPanel.html) | electoPanel <br> electomania.es | 10.5% | N/A | N/A | N/A | N/A |
+| [28 December 2022–4 January 2023](2023-01-04-GAD3.html) | GAD3 <br> NIUS | 10.1% | 8.8–11.8% | 8.4–12.3% | 8.1–12.7% | 7.5–13.5% |
 | [28–31 December 2022](2022-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 10.2% | 9.1–11.4% | 8.8–11.7% | 8.6–12.0% | 8.1–12.6% |
 | [27–31 December 2022](2022-12-31-40dB.html) | 40dB <br> Prisa | 11.5% | 10.6–12.5% | 10.4–12.7% | 10.2–13.0% | 9.8–13.5% |
 | [26–30 December 2022](2022-12-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 9.6% | 8.8–10.5% | 8.5–10.8% | 8.3–11.0% | 8.0–11.4% |
@@ -22,6 +29,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [19–23 December 2022](2022-12-23-InvyMark.html) | InvyMark <br> laSexta | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
 | [21 December 2022](2022-12-21-KeyData.html) | Key Data <br> Público | 10.3% | 8.5–12.7% | 8.0–13.4% | 7.5–14.0% | 6.7–15.3% |
 | [12–21 December 2022](2022-12-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 10.5% | 9.4–11.8% | 9.1–12.2% | 8.9–12.5% | 8.4–13.1% |
+| [29 November–19 December 2022](2022-12-19-Metroscopia.html) | Metroscopia <br> Periodismo 2030 | 11.4% | 10.8–12.0% | 10.7–12.2% | 10.5–12.3% | 10.3–12.6% |
 | [13–17 December 2022](2022-12-17-NCReport.html) | NC Report <br> La Razón | 9.9% | 8.5–11.5% | 8.1–12.0% | 7.8–12.4% | 7.2–13.2% |
 | [14–17 December 2022](2022-12-17-DYM.html) | DYM <br> Henneo | 9.4% | 8.3–10.7% | 8.0–11.0% | 7.7–11.3% | 7.2–12.0% |
 | [5–16 December 2022](2022-12-16-IMOP.html) | IMOP <br> El Confidencial | 9.8% | 8.8–11.0% | 8.6–11.3% | 8.3–11.6% | 7.8–12.2% |
@@ -772,15 +780,15 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.8% | 100% |  |
-| 7.5–8.5% | 7% | 99.1% |  |
-| 8.5–9.5% | 23% | 92% |  |
-| 9.5–10.5% | 32% | 69% | Median |
-| 10.5–11.5% | 21% | 38% |  |
-| 11.5–12.5% | 12% | 16% |  |
-| 12.5–13.5% | 4% | 5% |  |
-| 13.5–14.5% | 0.4% | 0.5% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0.6% | 100% |  |
+| 7.5–8.5% | 5% | 99.4% |  |
+| 8.5–9.5% | 20% | 94% |  |
+| 9.5–10.5% | 29% | 74% | Median |
+| 10.5–11.5% | 27% | 45% |  |
+| 11.5–12.5% | 14% | 18% |  |
+| 12.5–13.5% | 3% | 4% |  |
+| 13.5–14.5% | 0.7% | 0.9% |  |
+| 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -792,7 +800,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| [15 January 2023](2023-01-15-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 7 | 6–8 | 6–8 | 6–8 | 5–10 |
+| [9–13 January 2023](2023-01-13-InvyMark.html) | InvyMark <br> laSexta | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [7–12 January 2023](2023-01-12-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
+| [5–11 January 2023](2023-01-11-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 6 | 5–6 | 5–7 | 5–7 | 4–8 |
+| [2–10 January 2023](2023-01-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| [30 December 2022–5 January 2023](2023-01-05-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [28 December 2022–4 January 2023](2023-01-04-GAD3.html) | GAD3 <br> NIUS | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [28–31 December 2022](2022-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [27–31 December 2022](2022-12-31-40dB.html) | 40dB <br> Prisa | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [26–30 December 2022](2022-12-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -804,6 +819,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–23 December 2022](2022-12-23-InvyMark.html) | InvyMark <br> laSexta | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [21 December 2022](2022-12-21-KeyData.html) | Key Data <br> Público | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
 | [12–21 December 2022](2022-12-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
+| [29 November–19 December 2022](2022-12-19-Metroscopia.html) | Metroscopia <br> Periodismo 2030 | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [13–17 December 2022](2022-12-17-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [14–17 December 2022](2022-12-17-DYM.html) | DYM <br> Henneo | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [5–16 December 2022](2022-12-16-IMOP.html) | IMOP <br> El Confidencial | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -1554,11 +1570,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 2% | 100% |  |
-| 5 | 25% | 97% |  |
-| 6 | 39% | 72% | Median |
-| 7 | 25% | 33% |  |
-| 8 | 8% | 8% |  |
-| 9 | 0.1% | 0.2% |  |
-| 10 | 0% | 0% |  |
+| 5 | 23% | 98% |  |
+| 6 | 38% | 75% | Median |
+| 7 | 33% | 37% |  |
+| 8 | 4% | 4% |  |
+| 9 | 0.2% | 0.3% |  |
+| 10 | 0.1% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 
