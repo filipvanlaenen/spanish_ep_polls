@@ -10,19 +10,19 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.8% | 1.3–3.0% | 1.2–3.2% | 0.9–3.5% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.9% | 1.3–3.1% | 1.2–3.4% | 0.9–4.0% |
 | [31 January–3 February 2023](2023-02-03-electoPanel.html) | electoPanel <br> electomania.es | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.3% |
 | [30 January–3 February 2023](2023-02-03-SocioMétrica.html) | SocioMétrica <br> El Español | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.4% |
 | [27 January–2 February 2023](2023-02-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.5% | 2.1–3.1% | 2.0–3.2% | 1.9–3.4% | 1.7–3.7% |
 | [26–29 January 2023](2023-01-29-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [24–27 January 2023](2023-01-27-electoPanel.html) | electoPanel <br> electomania.es | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [23–27 January 2023](2023-01-27-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
-| [24–26 January 2023](2023-01-26-Data10.html) | Data10 <br> OKDiario | 2.1% | N/A | N/A | N/A | N/A |
+| [24–26 January 2023](2023-01-26-Data10.html) | Data10 <br> OKDiario | 2.1% | 1.7–2.7% | 1.6–2.9% | 1.5–3.0% | 1.3–3.3% |
 | [25 January 2023](2023-01-25-SigmaDos.html) | Sigma Dos <br> Antena 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [18–20 January 2023](2023-01-20-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
-| [12–20 January 2023](2023-01-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2.1% | N/A | N/A | N/A | N/A |
+| [12–20 January 2023](2023-01-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2.1% | 1.6–3.0% | 1.4–3.2% | 1.3–3.4% | 1.1–3.9% |
 | [16–19 January 2023](2023-01-19-electoPanel.html) | electoPanel <br> electomania.es | 2.0% | N/A | N/A | N/A | N/A |
-| [19 January 2023](2023-01-19-KeyData.html) | Key Data <br> Público | 2.1% | N/A | N/A | N/A | N/A |
+| [19 January 2023](2023-01-19-KeyData.html) | Key Data <br> Público | 2.1% | 1.4–3.4% | 1.2–3.8% | 1.0–4.2% | 0.7–5.0% |
 | [15 January 2023](2023-01-15-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 1.7% | 1.2–2.5% | 1.0–2.7% | 0.9–3.0% | 0.7–3.4% |
 | [9–13 January 2023](2023-01-13-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [7–12 January 2023](2023-01-12-electoPanel.html) | electoPanel <br> electomania.es | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
@@ -786,11 +786,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 15% | 100% |  |
-| 1.5–2.5% | 65% | 85% | Median |
-| 2.5–3.5% | 20% | 20% |  |
-| 3.5–4.5% | 0.4% | 0.4% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 13% | 100% |  |
+| 1.5–2.5% | 65% | 87% | Median |
+| 2.5–3.5% | 21% | 23% |  |
+| 3.5–4.5% | 1.3% | 1.5% |  |
+| 4.5–5.5% | 0.1% | 0.2% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -801,19 +802,19 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [31 January–3 February 2023](2023-02-03-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [30 January–3 February 2023](2023-02-03-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [27 January–2 February 2023](2023-02-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [26–29 January 2023](2023-01-29-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [24–27 January 2023](2023-01-27-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [23–27 January 2023](2023-01-27-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
-| [24–26 January 2023](2023-01-26-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [24–26 January 2023](2023-01-26-Data10.html) | Data10 <br> OKDiario | 1 | 1 | 1 | 1–2 | 0–2 |
 | [25 January 2023](2023-01-25-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
 | [18–20 January 2023](2023-01-20-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
-| [12–20 January 2023](2023-01-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [12–20 January 2023](2023-01-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [16–19 January 2023](2023-01-19-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [19 January 2023](2023-01-19-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [19 January 2023](2023-01-19-KeyData.html) | Key Data <br> Público | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [15 January 2023](2023-01-15-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [9–13 January 2023](2023-01-13-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
 | [7–12 January 2023](2023-01-12-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1 | 0–2 |
@@ -1578,9 +1579,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 23% | 100% | Last Result |
-| 1 | 74% | 77% | Median |
-| 2 | 4% | 4% |  |
-| 3 | 0% | 0% |  |
+| 0 | 18% | 100% | Last Result |
+| 1 | 76% | 82% | Median |
+| 2 | 6% | 6% |  |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 

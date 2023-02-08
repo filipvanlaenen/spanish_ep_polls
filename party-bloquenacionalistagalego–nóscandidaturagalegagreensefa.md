@@ -10,17 +10,17 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.1% | 0.3–1.3% | 0.2–1.4% | 0.1–1.7% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
 | [31 January–3 February 2023](2023-02-03-electoPanel.html) | electoPanel <br> electomania.es | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [30 January–3 February 2023](2023-02-03-SocioMétrica.html) | SocioMétrica <br> El Español | 0.6% | 0.3–1.0% | 0.3–1.2% | 0.2–1.3% | 0.2–1.6% |
 | [27 January–2 February 2023](2023-02-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
 | [26–29 January 2023](2023-01-29-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [24–27 January 2023](2023-01-27-electoPanel.html) | electoPanel <br> electomania.es | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
 | [23–27 January 2023](2023-01-27-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
-| [24–26 January 2023](2023-01-26-Data10.html) | Data10 <br> OKDiario | 0.8% | N/A | N/A | N/A | N/A |
+| [24–26 January 2023](2023-01-26-Data10.html) | Data10 <br> OKDiario | 0.8% | 0.6–1.2% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% |
 | [25 January 2023](2023-01-25-SigmaDos.html) | Sigma Dos <br> Antena 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [18–20 January 2023](2023-01-20-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
-| [12–20 January 2023](2023-01-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.8% | N/A | N/A | N/A | N/A |
+| [12–20 January 2023](2023-01-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.8% | 0.5–1.5% | 0.5–1.7% | 0.4–1.8% | 0.3–2.2% |
 | [16–19 January 2023](2023-01-19-electoPanel.html) | electoPanel <br> electomania.es | 0.8% | N/A | N/A | N/A | N/A |
 | [19 January 2023](2023-01-19-KeyData.html) | Key Data <br> Público | 0.0% | N/A | N/A | N/A | N/A |
 | [15 January 2023](2023-01-15-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 0.5% | 0.3–1.0% | 0.2–1.2% | 0.2–1.3% | 0.1–1.6% |
@@ -785,9 +785,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 32% | 100% | Last Result |
-| 0.5–1.5% | 67% | 68% | Median |
-| 1.5–2.5% | 0.9% | 0.9% |  |
+| 0.0–0.5% | 24% | 100% | Last Result |
+| 0.5–1.5% | 74% | 76% | Median |
+| 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -806,10 +806,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–29 January 2023](2023-01-29-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [24–27 January 2023](2023-01-27-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0–1 | 0–1 |
 | [23–27 January 2023](2023-01-27-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
-| [24–26 January 2023](2023-01-26-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [24–26 January 2023](2023-01-26-Data10.html) | Data10 <br> OKDiario | 0 | 0 | 0 | 0 | 0–1 |
 | [25 January 2023](2023-01-25-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
 | [18–20 January 2023](2023-01-20-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
-| [12–20 January 2023](2023-01-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [12–20 January 2023](2023-01-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [16–19 January 2023](2023-01-19-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [19 January 2023](2023-01-19-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
 | [15 January 2023](2023-01-15-ÁgoraIntegral.html) | Ágora Integral <br> Canarias Ahora | 0 | 0 | 0 | 0 | 0 |
@@ -1576,8 +1576,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.0% | 100% | Last Result, Median |
-| 1 | 1.0% | 1.0% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 
 
