@@ -11,6 +11,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.6% | 1.1–2.2% | 1.0–2.5% | 0.9–2.7% | 0.7–3.3% |
+| [7–10 February 2023](2023-02-10-electoPanel.html) | electoPanel <br> electomania.es | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.0–2.5% | 0.8–2.8% |
+| [6–10 February 2023](2023-02-10-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [6–9 February 2023](2023-02-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
+| [1–7 February 2023](2023-02-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [31 January–3 February 2023](2023-02-03-electoPanel.html) | electoPanel <br> electomania.es | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.5% | 0.9–2.9% |
 | [30 January–3 February 2023](2023-02-03-SocioMétrica.html) | SocioMétrica <br> El Español | 1.4% | 1.1–2.1% | 0.9–2.3% | 0.8–2.5% | 0.7–2.8% |
 | [27 January–2 February 2023](2023-02-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.4% | 1.1–1.9% | 1.0–2.0% | 0.9–2.1% | 0.8–2.3% |
@@ -802,6 +806,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [7–10 February 2023](2023-02-10-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–10 February 2023](2023-02-10-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
+| [6–9 February 2023](2023-02-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–7 February 2023](2023-02-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [31 January–3 February 2023](2023-02-03-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 January–3 February 2023](2023-02-03-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 January–2 February 2023](2023-02-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1578,8 +1586,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 45% | 100% | Last Result |
-| 1 | 54% | 55% | Median |
+| 0 | 43% | 100% | Last Result |
+| 1 | 55% | 57% | Median |
 | 2 | 1.0% | 1.0% |  |
 | 3 | 0% | 0% |  |
 

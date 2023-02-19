@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.9% | 23.7–28.2% | 23.1–28.9% | 22.6–29.5% | 21.5–30.8% |
+| N/A | [Poll Average](average.html) | 25.9% | 23.7–28.3% | 23.1–29.0% | 22.6–29.7% | 21.5–30.9% |
+| [7–10 February 2023](2023-02-10-electoPanel.html) | electoPanel <br> electomania.es | 25.6% | 24.0–27.4% | 23.5–27.9% | 23.1–28.3% | 22.4–29.2% |
+| [6–10 February 2023](2023-02-10-InvyMark.html) | InvyMark <br> laSexta | 27.4% | 25.6–29.3% | 25.1–29.8% | 24.7–30.3% | 23.9–31.2% |
+| [6–9 February 2023](2023-02-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 24.4% | 22.7–26.2% | 22.2–26.7% | 21.8–27.2% | 21.0–28.0% |
+| [1–7 February 2023](2023-02-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 27.7% | 25.8–29.8% | 25.2–30.4% | 24.8–30.9% | 23.9–31.9% |
 | [31 January–3 February 2023](2023-02-03-electoPanel.html) | electoPanel <br> electomania.es | 25.8% | 24.2–27.6% | 23.7–28.0% | 23.4–28.5% | 22.6–29.3% |
 | [30 January–3 February 2023](2023-02-03-SocioMétrica.html) | SocioMétrica <br> El Español | 25.4% | 23.6–27.4% | 23.1–27.9% | 22.7–28.4% | 21.9–29.3% |
 | [27 January–2 February 2023](2023-02-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 24.6% | 23.3–26.0% | 22.9–26.4% | 22.6–26.7% | 22.0–27.4% |
@@ -812,13 +816,14 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 14% | 91% |  |
 | 24.5–25.5% | 20% | 77% |  |
 | 25.5–26.5% | 21% | 57% | Median |
-| 26.5–27.5% | 18% | 35% |  |
-| 27.5–28.5% | 11% | 18% |  |
-| 28.5–29.5% | 5% | 7% |  |
-| 29.5–30.5% | 2% | 2% |  |
-| 30.5–31.5% | 0.5% | 0.7% |  |
-| 31.5–32.5% | 0.1% | 0.2% |  |
+| 26.5–27.5% | 17% | 36% |  |
+| 27.5–28.5% | 11% | 19% |  |
+| 28.5–29.5% | 5% | 8% |  |
+| 29.5–30.5% | 2% | 3% |  |
+| 30.5–31.5% | 0.6% | 0.8% |  |
+| 31.5–32.5% | 0.2% | 0.2% |  |
 | 32.5–33.5% | 0% | 0% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -830,6 +835,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
+| [7–10 February 2023](2023-02-10-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–18 | 15–18 | 14–18 | 14–18 |
+| [6–10 February 2023](2023-02-10-InvyMark.html) | InvyMark <br> laSexta | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [6–9 February 2023](2023-02-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 16 | 14–18 | 14–18 | 14–18 | 13–18 |
+| [1–7 February 2023](2023-02-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
 | [31 January–3 February 2023](2023-02-03-electoPanel.html) | electoPanel <br> electomania.es | 16 | 16 | 15–17 | 15–18 | 15–18 |
 | [30 January–3 February 2023](2023-02-03-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–17 | 15–17 | 15–18 | 14–19 |
 | [27 January–2 February 2023](2023-02-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 14–16 | 14–16 | 14–17 | 14–17 |
@@ -1621,11 +1630,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.1% | 100% |  |
 | 13 | 0.6% | 99.9% |  |
 | 14 | 6% | 99.3% |  |
-| 15 | 27% | 93% |  |
-| 16 | 37% | 67% | Median |
-| 17 | 23% | 29% |  |
-| 18 | 5% | 6% |  |
-| 19 | 1.0% | 1.1% |  |
+| 15 | 28% | 93% |  |
+| 16 | 34% | 65% | Median |
+| 17 | 22% | 31% |  |
+| 18 | 8% | 9% |  |
+| 19 | 1.1% | 1.3% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 

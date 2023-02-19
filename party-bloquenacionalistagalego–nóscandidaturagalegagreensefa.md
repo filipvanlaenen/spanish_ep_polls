@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.2% | 0.3–1.4% | 0.3–1.5% | 0.2–1.9% |
+| [7–10 February 2023](2023-02-10-electoPanel.html) | electoPanel <br> electomania.es | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
+| [6–10 February 2023](2023-02-10-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [6–9 February 2023](2023-02-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
+| [1–7 February 2023](2023-02-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [31 January–3 February 2023](2023-02-03-electoPanel.html) | electoPanel <br> electomania.es | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [30 January–3 February 2023](2023-02-03-SocioMétrica.html) | SocioMétrica <br> El Español | 0.6% | 0.3–1.0% | 0.3–1.2% | 0.2–1.3% | 0.2–1.6% |
 | [27 January–2 February 2023](2023-02-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
@@ -785,8 +789,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 24% | 100% | Last Result |
-| 0.5–1.5% | 74% | 76% | Median |
+| 0.0–0.5% | 22% | 100% | Last Result |
+| 0.5–1.5% | 76% | 78% | Median |
 | 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -799,7 +803,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [7–10 February 2023](2023-02-10-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0–1 | 0–1 |
+| [6–10 February 2023](2023-02-10-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
+| [6–9 February 2023](2023-02-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0 | 0 | 0 | 0 | 0–1 |
+| [1–7 February 2023](2023-02-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [31 January–3 February 2023](2023-02-03-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0–1 |
 | [30 January–3 February 2023](2023-02-03-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0–1 |
 | [27 January–2 February 2023](2023-02-02-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
@@ -1576,8 +1584,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
 | 2 | 0% | 0% |  |
 
 

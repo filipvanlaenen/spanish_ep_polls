@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.2% | 13.6–16.8% | 13.1–17.3% | 12.6–17.7% | 11.8–18.8% |
+| N/A | [Poll Average](average.html) | 15.3% | 13.6–16.9% | 13.2–17.4% | 12.7–17.8% | 11.8–18.9% |
+| [7–10 February 2023](2023-02-10-electoPanel.html) | electoPanel <br> electomania.es | 15.0% | 13.7–16.5% | 13.4–16.9% | 13.0–17.3% | 12.4–18.0% |
+| [6–10 February 2023](2023-02-10-InvyMark.html) | InvyMark <br> laSexta | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
+| [6–9 February 2023](2023-02-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
+| [1–7 February 2023](2023-02-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 15.2% | 13.7–16.9% | 13.3–17.4% | 12.9–17.8% | 12.2–18.7% |
 | [31 January–3 February 2023](2023-02-03-electoPanel.html) | electoPanel <br> electomania.es | 15.0% | 13.7–16.4% | 13.3–16.8% | 13.0–17.2% | 12.4–17.9% |
 | [30 January–3 February 2023](2023-02-03-SocioMétrica.html) | SocioMétrica <br> El Español | 15.0% | 13.6–16.6% | 13.2–17.1% | 12.8–17.5% | 12.1–18.3% |
 | [27 January–2 February 2023](2023-02-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 16.0% | 14.9–17.2% | 14.6–17.5% | 14.3–17.8% | 13.8–18.4% |
@@ -798,13 +802,13 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.3% | 100% |  |
 | 11.5–12.5% | 2% | 99.7% |  |
-| 12.5–13.5% | 8% | 98% |  |
-| 13.5–14.5% | 21% | 90% |  |
-| 14.5–15.5% | 31% | 69% | Median |
-| 15.5–16.5% | 24% | 38% |  |
-| 16.5–17.5% | 10% | 14% |  |
-| 17.5–18.5% | 3% | 3% |  |
-| 18.5–19.5% | 0.5% | 0.7% |  |
+| 12.5–13.5% | 7% | 98% |  |
+| 13.5–14.5% | 20% | 91% |  |
+| 14.5–15.5% | 30% | 71% | Median |
+| 15.5–16.5% | 26% | 41% |  |
+| 16.5–17.5% | 11% | 15% |  |
+| 17.5–18.5% | 3% | 4% |  |
+| 18.5–19.5% | 0.6% | 0.8% |  |
 | 19.5–20.5% | 0.1% | 0.2% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
@@ -817,7 +821,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–11 | 7–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
+| [7–10 February 2023](2023-02-10-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–10 | 8–10 | 8–11 | 8–11 |
+| [6–10 February 2023](2023-02-10-InvyMark.html) | InvyMark <br> laSexta | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
+| [6–9 February 2023](2023-02-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
+| [1–7 February 2023](2023-02-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [31 January–3 February 2023](2023-02-03-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9 | 8–10 | 8–10 | 7–11 |
 | [30 January–3 February 2023](2023-02-03-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 9–10 | 8–11 | 8–11 | 7–11 |
 | [27 January–2 February 2023](2023-02-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
@@ -1601,12 +1609,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
-| 7 | 3% | 99.9% |  |
-| 8 | 18% | 97% |  |
-| 9 | 46% | 79% | Median |
-| 10 | 27% | 33% |  |
-| 11 | 5% | 6% |  |
-| 12 | 0.9% | 0.9% |  |
+| 7 | 2% | 99.9% |  |
+| 8 | 17% | 98% |  |
+| 9 | 42% | 80% | Median |
+| 10 | 31% | 39% |  |
+| 11 | 7% | 8% |  |
+| 12 | 1.0% | 1.0% |  |
 | 13 | 0% | 0% |  |
 
 
