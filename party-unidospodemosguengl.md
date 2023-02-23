@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.6% | 9.1–12.2% | 8.7–12.7% | 8.3–13.2% | 7.6–14.2% |
+| N/A | [Poll Average](average.html) | 10.5% | 8.9–12.0% | 8.5–12.5% | 8.2–12.9% | 7.6–13.8% |
+| [15–19 February 2023](2023-02-19-DYM.html) | DYM <br> Henneo | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.5–11.1% | 7.0–11.8% |
+| [14–17 February 2023](2023-02-17-electoPanel.html) | electoPanel <br> electomania.es | 10.8% | 9.2–12.8% | 8.7–13.3% | 8.4–13.8% | 7.7–14.8% |
 | [7–10 February 2023](2023-02-10-electoPanel.html) | electoPanel <br> electomania.es | 10.8% | 9.7–12.1% | 9.3–12.5% | 9.1–12.8% | 8.6–13.4% |
 | [6–10 February 2023](2023-02-10-InvyMark.html) | InvyMark <br> laSexta | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.3–12.1% |
 | [6–9 February 2023](2023-02-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
@@ -796,17 +798,16 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.4% | 100% |  |
-| 7.5–8.5% | 4% | 99.6% |  |
-| 8.5–9.5% | 15% | 96% |  |
-| 9.5–10.5% | 30% | 81% |  |
-| 10.5–11.5% | 30% | 51% | Median |
-| 11.5–12.5% | 16% | 22% |  |
-| 12.5–13.5% | 5% | 6% |  |
-| 13.5–14.5% | 1.1% | 1.4% |  |
-| 14.5–15.5% | 0.2% | 0.3% |  |
+| 6.5–7.5% | 0.5% | 100% |  |
+| 7.5–8.5% | 5% | 99.5% |  |
+| 8.5–9.5% | 17% | 95% |  |
+| 9.5–10.5% | 30% | 77% | Median |
+| 10.5–11.5% | 28% | 47% |  |
+| 11.5–12.5% | 14% | 19% |  |
+| 12.5–13.5% | 4% | 5% |  |
+| 13.5–14.5% | 0.7% | 0.8% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
-| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -818,6 +819,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| [15–19 February 2023](2023-02-19-DYM.html) | DYM <br> Henneo | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [14–17 February 2023](2023-02-17-electoPanel.html) | electoPanel <br> electomania.es | 7 | 5–7 | 5–8 | 5–8 | 4–9 |
 | [7–10 February 2023](2023-02-10-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [6–10 February 2023](2023-02-10-InvyMark.html) | InvyMark <br> laSexta | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [6–9 February 2023](2023-02-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
@@ -1602,13 +1605,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.1% | 100% |  |
-| 5 | 18% | 98.9% |  |
-| 6 | 43% | 81% | Median |
-| 7 | 34% | 38% |  |
-| 8 | 3% | 4% |  |
-| 9 | 0.3% | 0.4% |  |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0% |  |
+| 4 | 2% | 100% |  |
+| 5 | 21% | 98% |  |
+| 6 | 45% | 77% | Median |
+| 7 | 29% | 32% |  |
+| 8 | 3% | 3% |  |
+| 9 | 0.2% | 0.3% |  |
+| 10 | 0% | 0% |  |
 
 
