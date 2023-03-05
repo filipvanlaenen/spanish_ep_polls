@@ -10,15 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.9% | 23.4–28.5% | 22.7–29.2% | 22.2–29.8% | 21.1–30.9% |
+| N/A | [Poll Average](average.html) | 25.8% | 23.5–28.4% | 22.9–29.2% | 22.3–29.8% | 21.2–31.1% |
 | [28 February–3 March 2023](2023-03-03-SocioMétrica.html) | SocioMétrica <br> El Español | 25.0% | 23.2–26.9% | 22.7–27.5% | 22.3–27.9% | 21.4–28.9% |
 | [19–24 February 2023](2023-02-24-electoPanel.html) | electoPanel <br> electomania.es | 25.8% | 24.2–27.5% | 23.7–28.0% | 23.3–28.5% | 22.5–29.3% |
 | [20–24 February 2023](2023-02-24-NCReport.html) | NC Report <br> La Razón | 24.2% | 22.1–26.4% | 21.6–27.0% | 21.1–27.6% | 20.1–28.7% |
 | [20–24 February 2023](2023-02-24-InvyMark.html) | InvyMark <br> laSexta | 27.1% | 25.3–29.0% | 24.9–29.5% | 24.4–29.9% | 23.6–30.8% |
-| [23 February 2023](2023-02-23-KeyData.html) | Key Data <br> Público | 25.9% | N/A | N/A | N/A | N/A |
-| [21–23 February 2023](2023-02-23-Data10.html) | Data10 <br> OKDiario | 25.0% | N/A | N/A | N/A | N/A |
-| [16–22 February 2023](2023-02-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 25.2% | N/A | N/A | N/A | N/A |
-| [20–22 February 2023](2023-02-22-GAD3.html) | GAD3 <br> NIUS | 26.9% | N/A | N/A | N/A | N/A |
+| [23 February 2023](2023-02-23-KeyData.html) | Key Data <br> Público | 25.9% | 23.1–29.2% | 22.3–30.1% | 21.6–30.8% | 20.3–32.4% |
+| [21–23 February 2023](2023-02-23-Data10.html) | Data10 <br> OKDiario | 25.0% | 23.6–26.5% | 23.2–26.9% | 22.9–27.3% | 22.2–28.0% |
+| [16–22 February 2023](2023-02-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 25.2% | 23.5–27.0% | 23.0–27.5% | 22.6–28.0% | 21.8–28.9% |
+| [20–22 February 2023](2023-02-22-GAD3.html) | GAD3 <br> NIUS | 26.9% | 24.8–29.1% | 24.2–29.8% | 23.7–30.3% | 22.7–31.4% |
 | [15–19 February 2023](2023-02-19-DYM.html) | DYM <br> Henneo | 27.1% | 25.4–29.0% | 24.9–29.5% | 24.4–30.0% | 23.6–30.9% |
 | [14–17 February 2023](2023-02-17-electoPanel.html) | electoPanel <br> electomania.es | 25.6% | 23.2–28.2% | 22.5–29.0% | 22.0–29.6% | 20.9–30.9% |
 | [7–10 February 2023](2023-02-10-electoPanel.html) | electoPanel <br> electomania.es | 25.6% | 24.0–27.4% | 23.5–27.9% | 23.1–28.3% | 22.4–29.2% |
@@ -820,19 +820,20 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0.2% | 100% |  |
-| 20.5–21.5% | 0.8% | 99.8% |  |
-| 21.5–22.5% | 3% | 99.0% |  |
-| 22.5–23.5% | 7% | 96% |  |
-| 23.5–24.5% | 13% | 89% |  |
-| 24.5–25.5% | 18% | 75% |  |
-| 25.5–26.5% | 19% | 58% | Median |
-| 26.5–27.5% | 17% | 39% |  |
-| 27.5–28.5% | 12% | 21% |  |
-| 28.5–29.5% | 6% | 10% |  |
+| 20.5–21.5% | 0.7% | 99.8% |  |
+| 21.5–22.5% | 3% | 99.1% |  |
+| 22.5–23.5% | 7% | 97% |  |
+| 23.5–24.5% | 14% | 90% |  |
+| 24.5–25.5% | 19% | 75% |  |
+| 25.5–26.5% | 20% | 56% | Median |
+| 26.5–27.5% | 16% | 36% |  |
+| 27.5–28.5% | 11% | 20% |  |
+| 28.5–29.5% | 6% | 9% |  |
 | 29.5–30.5% | 2% | 3% |  |
-| 30.5–31.5% | 0.7% | 0.9% |  |
-| 31.5–32.5% | 0.1% | 0.2% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 30.5–31.5% | 0.8% | 1.0% |  |
+| 31.5–32.5% | 0.2% | 0.3% |  |
+| 32.5–33.5% | 0% | 0.1% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -843,15 +844,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
+| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
 | [28 February–3 March 2023](2023-03-03-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–17 | 14–17 | 14–18 | 13–18 |
 | [19–24 February 2023](2023-02-24-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [20–24 February 2023](2023-02-24-NCReport.html) | NC Report <br> La Razón | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
 | [20–24 February 2023](2023-02-24-InvyMark.html) | InvyMark <br> laSexta | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [23 February 2023](2023-02-23-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
-| [21–23 February 2023](2023-02-23-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [16–22 February 2023](2023-02-22-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
-| [20–22 February 2023](2023-02-22-GAD3.html) | GAD3 <br> NIUS |  |  |  |  |  |
+| [23 February 2023](2023-02-23-KeyData.html) | Key Data <br> Público | 16 | 14–18 | 14–19 | 13–19 | 12–20 |
+| [21–23 February 2023](2023-02-23-Data10.html) | Data10 <br> OKDiario | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
+| [16–22 February 2023](2023-02-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
+| [20–22 February 2023](2023-02-22-GAD3.html) | GAD3 <br> NIUS | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
 | [15–19 February 2023](2023-02-19-DYM.html) | DYM <br> Henneo | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [14–17 February 2023](2023-02-17-electoPanel.html) | electoPanel <br> electomania.es | 15 | 13–18 | 13–18 | 13–18 | 13–19 |
 | [7–10 February 2023](2023-02-10-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–18 | 15–18 | 14–18 | 14–18 |
@@ -1649,12 +1650,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.2% | 100% |  |
 | 13 | 2% | 99.8% |  |
 | 14 | 7% | 98% |  |
-| 15 | 21% | 91% |  |
-| 16 | 38% | 70% | Median |
-| 17 | 22% | 32% |  |
-| 18 | 9% | 10% |  |
-| 19 | 1.0% | 1.0% |  |
-| 20 | 0.1% | 0.1% |  |
+| 15 | 22% | 91% |  |
+| 16 | 37% | 69% | Median |
+| 17 | 21% | 31% |  |
+| 18 | 8% | 11% |  |
+| 19 | 2% | 3% |  |
+| 20 | 0.3% | 0.3% |  |
 | 21 | 0% | 0% |  |
 
 

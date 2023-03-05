@@ -10,15 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.7–3.5% | 1.5–3.7% | 1.3–4.0% | 1.1–4.5% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.8–3.5% | 1.6–3.8% | 1.4–4.0% | 1.1–4.7% |
 | [28 February–3 March 2023](2023-03-03-SocioMétrica.html) | SocioMétrica <br> El Español | 2.6% | 2.0–3.4% | 1.8–3.6% | 1.7–3.8% | 1.5–4.2% |
 | [19–24 February 2023](2023-02-24-electoPanel.html) | electoPanel <br> electomania.es | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.9–2.9% |
 | [20–24 February 2023](2023-02-24-NCReport.html) | NC Report <br> La Razón | 2.9% | 2.2–3.9% | 2.0–4.2% | 1.8–4.5% | 1.6–5.0% |
 | [20–24 February 2023](2023-02-24-InvyMark.html) | InvyMark <br> laSexta | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
-| [23 February 2023](2023-02-23-KeyData.html) | Key Data <br> Público | 2.6% | N/A | N/A | N/A | N/A |
-| [21–23 February 2023](2023-02-23-Data10.html) | Data10 <br> OKDiario | 2.5% | N/A | N/A | N/A | N/A |
-| [16–22 February 2023](2023-02-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 2.6% | N/A | N/A | N/A | N/A |
-| [20–22 February 2023](2023-02-22-GAD3.html) | GAD3 <br> NIUS | 2.3% | N/A | N/A | N/A | N/A |
+| [23 February 2023](2023-02-23-KeyData.html) | Key Data <br> Público | 2.6% | 1.8–4.1% | 1.6–4.5% | 1.4–4.9% | 1.1–5.7% |
+| [21–23 February 2023](2023-02-23-Data10.html) | Data10 <br> OKDiario | 2.5% | 2.1–3.1% | 2.0–3.3% | 1.8–3.5% | 1.6–3.8% |
+| [16–22 February 2023](2023-02-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
+| [20–22 February 2023](2023-02-22-GAD3.html) | GAD3 <br> NIUS | 2.3% | 1.8–3.3% | 1.6–3.6% | 1.4–3.8% | 1.2–4.3% |
 | [15–19 February 2023](2023-02-19-DYM.html) | DYM <br> Henneo | 2.6% | 2.0–3.4% | 1.9–3.6% | 1.8–3.8% | 1.5–4.2% |
 | [14–17 February 2023](2023-02-17-electoPanel.html) | electoPanel <br> electomania.es | 1.8% | 1.2–2.8% | 1.1–3.1% | 1.0–3.4% | 0.7–4.0% |
 | [7–10 February 2023](2023-02-10-electoPanel.html) | electoPanel <br> electomania.es | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.0–2.5% | 0.8–2.8% |
@@ -800,12 +800,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 41% | 94% |  |
-| 2.5–3.5% | 44% | 53% | Median |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 42% | 95% |  |
+| 2.5–3.5% | 45% | 53% | Median |
 | 3.5–4.5% | 8% | 8% |  |
-| 4.5–5.5% | 0.4% | 0.4% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.6% | 0.7% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -821,10 +822,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–24 February 2023](2023-02-24-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–24 February 2023](2023-02-24-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [20–24 February 2023](2023-02-24-InvyMark.html) | InvyMark <br> laSexta | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [23 February 2023](2023-02-23-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
-| [21–23 February 2023](2023-02-23-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [16–22 February 2023](2023-02-22-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
-| [20–22 February 2023](2023-02-22-GAD3.html) | GAD3 <br> NIUS |  |  |  |  |  |
+| [23 February 2023](2023-02-23-KeyData.html) | Key Data <br> Público | 1 | 1–2 | 1–2 | 0–3 | 0–3 |
+| [21–23 February 2023](2023-02-23-Data10.html) | Data10 <br> OKDiario | 1 | 1 | 1 | 1 | 1–2 |
+| [16–22 February 2023](2023-02-22-SigmaDos.html) | Sigma Dos <br> Antena 3 | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [20–22 February 2023](2023-02-22-GAD3.html) | GAD3 <br> NIUS | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [15–19 February 2023](2023-02-19-DYM.html) | DYM <br> Henneo | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [14–17 February 2023](2023-02-17-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [7–10 February 2023](2023-02-10-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1607,10 +1608,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 78% | 96% | Median |
-| 2 | 18% | 18% |  |
-| 3 | 0.2% | 0.2% |  |
+| 0 | 3% | 100% | Last Result |
+| 1 | 79% | 97% | Median |
+| 2 | 17% | 17% |  |
+| 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 
 
