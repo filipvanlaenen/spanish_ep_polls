@@ -11,7 +11,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.8% | 0.5–1.2% | 0.4–1.4% | 0.3–1.5% | 0.2–1.8% |
+| [28 February–3 March 2023](2023-03-03-electoPanel.html) | electoPanel <br> electomania.es | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [28 February–3 March 2023](2023-03-03-SocioMétrica.html) | SocioMétrica <br> El Español | 0.6% | 0.3–1.0% | 0.3–1.2% | 0.2–1.3% | 0.2–1.6% |
+| [24 February–2 March 2023](2023-03-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [27 February–1 March 2023](2023-03-01-GESOP.html) | GESOP <br> Prensa Ibérica | 0.0% | N/A | N/A | N/A | N/A |
+| [23–26 February 2023](2023-02-26-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [19–24 February 2023](2023-02-24-electoPanel.html) | electoPanel <br> electomania.es | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
 | [20–24 February 2023](2023-02-24-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [20–24 February 2023](2023-02-24-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
@@ -799,8 +803,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 18% | 100% | Last Result |
-| 0.5–1.5% | 80% | 82% | Median |
+| 0.0–0.5% | 19% | 100% | Last Result |
+| 0.5–1.5% | 80% | 81% | Median |
 | 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -814,7 +818,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [28 February–3 March 2023](2023-03-03-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0–1 | 0–1 |
 | [28 February–3 March 2023](2023-03-03-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
+| [24 February–2 March 2023](2023-03-02-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [27 February–1 March 2023](2023-03-01-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
+| [23–26 February 2023](2023-02-26-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [19–24 February 2023](2023-02-24-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0–1 | 0–1 |
 | [20–24 February 2023](2023-02-24-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [20–24 February 2023](2023-02-24-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |

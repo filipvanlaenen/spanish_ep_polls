@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.8% | 23.5–28.4% | 22.9–29.2% | 22.3–29.8% | 21.2–31.1% |
+| N/A | [Poll Average](average.html) | 25.9% | 23.6–28.4% | 23.0–29.1% | 22.4–29.7% | 21.3–31.0% |
+| [28 February–3 March 2023](2023-03-03-electoPanel.html) | electoPanel <br> electomania.es | 25.3% | 23.6–27.1% | 23.2–27.6% | 22.7–28.1% | 22.0–28.9% |
 | [28 February–3 March 2023](2023-03-03-SocioMétrica.html) | SocioMétrica <br> El Español | 25.0% | 23.2–26.9% | 22.7–27.5% | 22.3–27.9% | 21.4–28.9% |
+| [24 February–2 March 2023](2023-03-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 25.0% | 23.7–26.4% | 23.4–26.7% | 23.0–27.1% | 22.4–27.7% |
+| [27 February–1 March 2023](2023-03-01-GESOP.html) | GESOP <br> Prensa Ibérica | 26.9% | 25.2–28.8% | 24.7–29.3% | 24.3–29.8% | 23.5–30.7% |
+| [23–26 February 2023](2023-02-26-40dB.html) | 40dB <br> Prisa | 26.4% | 25.2–27.7% | 24.8–28.1% | 24.5–28.4% | 23.9–29.0% |
 | [19–24 February 2023](2023-02-24-electoPanel.html) | electoPanel <br> electomania.es | 25.8% | 24.2–27.5% | 23.7–28.0% | 23.3–28.5% | 22.5–29.3% |
 | [20–24 February 2023](2023-02-24-NCReport.html) | NC Report <br> La Razón | 24.2% | 22.1–26.4% | 21.6–27.0% | 21.1–27.6% | 20.1–28.7% |
 | [20–24 February 2023](2023-02-24-InvyMark.html) | InvyMark <br> laSexta | 27.1% | 25.3–29.0% | 24.9–29.5% | 24.4–29.9% | 23.6–30.8% |
@@ -819,19 +823,19 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.2% | 100% |  |
-| 20.5–21.5% | 0.7% | 99.8% |  |
-| 21.5–22.5% | 3% | 99.1% |  |
-| 22.5–23.5% | 7% | 97% |  |
-| 23.5–24.5% | 14% | 90% |  |
-| 24.5–25.5% | 19% | 75% |  |
-| 25.5–26.5% | 20% | 56% | Median |
-| 26.5–27.5% | 16% | 36% |  |
+| 19.5–20.5% | 0.1% | 100% |  |
+| 20.5–21.5% | 0.6% | 99.8% |  |
+| 21.5–22.5% | 2% | 99.3% |  |
+| 22.5–23.5% | 6% | 97% |  |
+| 23.5–24.5% | 13% | 91% |  |
+| 24.5–25.5% | 19% | 78% |  |
+| 25.5–26.5% | 21% | 58% | Median |
+| 26.5–27.5% | 17% | 37% |  |
 | 27.5–28.5% | 11% | 20% |  |
 | 28.5–29.5% | 6% | 9% |  |
 | 29.5–30.5% | 2% | 3% |  |
-| 30.5–31.5% | 0.8% | 1.0% |  |
-| 31.5–32.5% | 0.2% | 0.3% |  |
+| 30.5–31.5% | 0.7% | 0.9% |  |
+| 31.5–32.5% | 0.2% | 0.2% |  |
 | 32.5–33.5% | 0% | 0.1% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
@@ -844,8 +848,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
+| N/A | [Poll Average](average.html) | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
+| [28 February–3 March 2023](2023-03-03-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 14–18 | 14–19 |
 | [28 February–3 March 2023](2023-03-03-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–17 | 14–17 | 14–18 | 13–18 |
+| [24 February–2 March 2023](2023-03-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 15–16 | 14–17 | 14–17 | 14–17 |
+| [27 February–1 March 2023](2023-03-01-GESOP.html) | GESOP <br> Prensa Ibérica | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [23–26 February 2023](2023-02-26-40dB.html) | 40dB <br> Prisa | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [19–24 February 2023](2023-02-24-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [20–24 February 2023](2023-02-24-NCReport.html) | NC Report <br> La Razón | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
 | [20–24 February 2023](2023-02-24-InvyMark.html) | InvyMark <br> laSexta | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
@@ -1648,14 +1656,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0.2% | 100% |  |
-| 13 | 2% | 99.8% |  |
-| 14 | 7% | 98% |  |
-| 15 | 22% | 91% |  |
-| 16 | 37% | 69% | Median |
-| 17 | 21% | 31% |  |
-| 18 | 8% | 11% |  |
-| 19 | 2% | 3% |  |
-| 20 | 0.3% | 0.3% |  |
+| 13 | 1.2% | 99.8% |  |
+| 14 | 6% | 98.6% |  |
+| 15 | 21% | 93% |  |
+| 16 | 40% | 72% | Median |
+| 17 | 22% | 32% |  |
+| 18 | 7% | 10% |  |
+| 19 | 2% | 2% |  |
+| 20 | 0.2% | 0.2% |  |
 | 21 | 0% | 0% |  |
 
 

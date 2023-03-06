@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.1–3.9% | 1.9–4.3% | 1.7–4.7% | 1.4–5.5% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.0–3.9% | 1.8–4.2% | 1.6–4.5% | 1.3–5.4% |
+| [28 February–3 March 2023](2023-03-03-electoPanel.html) | electoPanel <br> electomania.es | 2.4% | 1.9–3.2% | 1.8–3.4% | 1.6–3.6% | 1.4–4.0% |
 | [28 February–3 March 2023](2023-03-03-SocioMétrica.html) | SocioMétrica <br> El Español | 2.6% | 2.0–3.4% | 1.8–3.6% | 1.7–3.8% | 1.5–4.2% |
+| [24 February–2 March 2023](2023-03-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.4% | 2.9–4.0% | 2.7–4.2% | 2.6–4.3% | 2.4–4.7% |
+| [27 February–1 March 2023](2023-03-01-GESOP.html) | GESOP <br> Prensa Ibérica | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [23–26 February 2023](2023-02-26-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [19–24 February 2023](2023-02-24-electoPanel.html) | electoPanel <br> electomania.es | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.4% | 1.4–3.8% |
 | [20–24 February 2023](2023-02-24-NCReport.html) | NC Report <br> La Razón | 3.2% | 2.5–4.2% | 2.3–4.5% | 2.1–4.8% | 1.8–5.4% |
 | [20–24 February 2023](2023-02-24-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
@@ -800,13 +804,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 1.1% | 100% |  |
-| 1.5–2.5% | 29% | 98.9% |  |
-| 2.5–3.5% | 51% | 70% | Median |
-| 3.5–4.5% | 16% | 19% |  |
-| 4.5–5.5% | 3% | 3% |  |
-| 5.5–6.5% | 0.4% | 0.5% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 30% | 98% |  |
+| 2.5–3.5% | 48% | 68% | Median |
+| 3.5–4.5% | 17% | 19% |  |
+| 4.5–5.5% | 2% | 2% |  |
+| 5.5–6.5% | 0.3% | 0.4% |  |
+| 6.5–7.5% | 0% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -818,8 +822,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
+| [28 February–3 March 2023](2023-03-03-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [28 February–3 March 2023](2023-03-03-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [24 February–2 March 2023](2023-03-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [27 February–1 March 2023](2023-03-01-GESOP.html) | GESOP <br> Prensa Ibérica | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [23–26 February 2023](2023-02-26-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [19–24 February 2023](2023-02-24-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [20–24 February 2023](2023-02-24-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [20–24 February 2023](2023-02-24-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
@@ -1609,10 +1617,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 56% | 98% | Median |
-| 2 | 40% | 42% |  |
-| 3 | 2% | 3% |  |
+| 0 | 3% | 100% | Last Result |
+| 1 | 51% | 97% | Median |
+| 2 | 43% | 45% |  |
+| 3 | 2% | 2% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
