@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.9% | 23.6–28.4% | 23.0–29.1% | 22.4–29.7% | 21.3–31.0% |
+| N/A | [Poll Average](average.html) | 26.1% | 23.7–29.8% | 23.1–32.5% | 22.5–33.1% | 21.3–33.9% |
+| [1–11 March 2023](2023-03-11-CIS.html) | CIS | 32.7% | 31.7–33.7% | 31.5–34.0% | 31.2–34.2% | 30.8–34.7% |
+| [6–10 March 2023](2023-03-10-electoPanel.html) | electoPanel <br> electomania.es | 24.8% | 23.1–26.6% | 22.7–27.1% | 22.3–27.6% | 21.5–28.5% |
+| [6–10 March 2023](2023-03-10-InvyMark.html) | InvyMark <br> laSexta | 27.3% | 25.5–29.2% | 25.0–29.7% | 24.6–30.1% | 23.8–31.1% |
+| [3–8 March 2023](2023-03-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 24.3% | N/A | N/A | N/A | N/A |
+| [1–6 March 2023](2023-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 24.8% | N/A | N/A | N/A | N/A |
 | [28 February–3 March 2023](2023-03-03-electoPanel.html) | electoPanel <br> electomania.es | 25.3% | 23.6–27.1% | 23.2–27.6% | 22.7–28.1% | 22.0–28.9% |
 | [28 February–3 March 2023](2023-03-03-SocioMétrica.html) | SocioMétrica <br> El Español | 25.0% | 23.2–26.9% | 22.7–27.5% | 22.3–27.9% | 21.4–28.9% |
 | [24 February–2 March 2023](2023-03-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 25.0% | 23.7–26.4% | 23.4–26.7% | 23.0–27.1% | 22.4–27.7% |
@@ -827,17 +832,19 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0.6% | 99.8% |  |
 | 21.5–22.5% | 2% | 99.3% |  |
 | 22.5–23.5% | 6% | 97% |  |
-| 23.5–24.5% | 13% | 91% |  |
-| 24.5–25.5% | 19% | 78% |  |
-| 25.5–26.5% | 21% | 58% | Median |
-| 26.5–27.5% | 17% | 37% |  |
-| 27.5–28.5% | 11% | 20% |  |
-| 28.5–29.5% | 6% | 9% |  |
-| 29.5–30.5% | 2% | 3% |  |
-| 30.5–31.5% | 0.7% | 0.9% |  |
-| 31.5–32.5% | 0.2% | 0.2% |  |
-| 32.5–33.5% | 0% | 0.1% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 23.5–24.5% | 12% | 92% |  |
+| 24.5–25.5% | 18% | 79% |  |
+| 25.5–26.5% | 20% | 61% | Median |
+| 26.5–27.5% | 16% | 41% |  |
+| 27.5–28.5% | 10% | 25% |  |
+| 28.5–29.5% | 5% | 15% |  |
+| 29.5–30.5% | 2% | 11% |  |
+| 30.5–31.5% | 1.0% | 9% |  |
+| 31.5–32.5% | 3% | 8% |  |
+| 32.5–33.5% | 4% | 5% |  |
+| 33.5–34.5% | 1.1% | 1.2% |  |
+| 34.5–35.5% | 0.1% | 0.1% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -848,7 +855,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
+| N/A | [Poll Average](average.html) | 16 | 15–19 | 14–21 | 14–21 | 13–22 |
+| [1–11 March 2023](2023-03-11-CIS.html) | CIS | 21 | 21 | 20–22 | 20–22 | 20–22 |
+| [6–10 March 2023](2023-03-10-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
+| [6–10 March 2023](2023-03-10-InvyMark.html) | InvyMark <br> laSexta | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [3–8 March 2023](2023-03-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli |  |  |  |  |  |
+| [1–6 March 2023](2023-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
 | [28 February–3 March 2023](2023-03-03-electoPanel.html) | electoPanel <br> electomania.es | 16 | 15–17 | 15–17 | 14–18 | 14–19 |
 | [28 February–3 March 2023](2023-03-03-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–17 | 14–17 | 14–18 | 13–18 |
 | [24 February–2 March 2023](2023-03-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 15–16 | 14–17 | 14–17 | 14–17 |
@@ -1656,14 +1668,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0.2% | 100% |  |
-| 13 | 1.2% | 99.8% |  |
-| 14 | 6% | 98.6% |  |
-| 15 | 21% | 93% |  |
-| 16 | 40% | 72% | Median |
-| 17 | 22% | 32% |  |
-| 18 | 7% | 10% |  |
-| 19 | 2% | 2% |  |
-| 20 | 0.2% | 0.2% |  |
-| 21 | 0% | 0% |  |
+| 13 | 1.4% | 99.8% |  |
+| 14 | 7% | 98% |  |
+| 15 | 21% | 92% |  |
+| 16 | 36% | 71% | Median |
+| 17 | 20% | 35% |  |
+| 18 | 5% | 16% |  |
+| 19 | 2% | 11% |  |
+| 20 | 0.8% | 9% |  |
+| 21 | 7% | 8% |  |
+| 22 | 0.7% | 0.7% |  |
+| 23 | 0% | 0% |  |
 
 
