@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.2–2.9% | 0.9–3.1% | 0.7–3.3% | 0.5–3.8% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.2–2.9% | 0.9–3.1% | 0.7–3.3% | 0.5–3.8% |
 | [1–11 March 2023](2023-03-11-CIS.html) | CIS | 2.5% | 2.2–2.9% | 2.1–3.0% | 2.0–3.1% | 1.9–3.2% |
 | [6–10 March 2023](2023-03-10-electoPanel.html) | electoPanel <br> electomania.es | 2.6% | 2.0–3.4% | 1.9–3.6% | 1.8–3.8% | 1.5–4.2% |
 | [6–10 March 2023](2023-03-10-InvyMark.html) | InvyMark <br> laSexta | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
-| [3–8 March 2023](2023-03-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1.4% | N/A | N/A | N/A | N/A |
-| [1–6 March 2023](2023-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2.3% | N/A | N/A | N/A | N/A |
+| [3–8 March 2023](2023-03-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
+| [1–6 March 2023](2023-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2.3% | 1.7–3.2% | 1.5–3.4% | 1.4–3.6% | 1.2–4.1% |
 | [28 February–3 March 2023](2023-03-03-electoPanel.html) | electoPanel <br> electomania.es | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
 | [28 February–3 March 2023](2023-03-03-SocioMétrica.html) | SocioMétrica <br> El Español | 2.1% | 1.6–2.9% | 1.5–3.1% | 1.4–3.3% | 1.1–3.7% |
 | [24 February–2 March 2023](2023-03-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.4% | 2.0–3.0% | 1.9–3.1% | 1.8–3.3% | 1.6–3.5% |
@@ -808,11 +808,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.9% | 100% | Last Result |
-| 0.5–1.5% | 18% | 99.1% |  |
-| 1.5–2.5% | 55% | 81% | Median |
-| 2.5–3.5% | 24% | 25% |  |
-| 3.5–4.5% | 1.0% | 1.1% |  |
+| 0.0–0.5% | 0.8% | 100% | Last Result |
+| 0.5–1.5% | 20% | 99.2% |  |
+| 1.5–2.5% | 54% | 79% | Median |
+| 2.5–3.5% | 23% | 24% |  |
+| 3.5–4.5% | 1.1% | 1.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -829,8 +829,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–11 March 2023](2023-03-11-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1–2 |
 | [6–10 March 2023](2023-03-10-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [6–10 March 2023](2023-03-10-InvyMark.html) | InvyMark <br> laSexta | 0 | 0 | 0 | 0 | 0–1 |
-| [3–8 March 2023](2023-03-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli |  |  |  |  |  |
-| [1–6 March 2023](2023-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [3–8 March 2023](2023-03-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–6 March 2023](2023-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [28 February–3 March 2023](2023-03-03-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 February–3 March 2023](2023-03-03-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [24 February–2 March 2023](2023-03-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 1 | 1–2 | 0–2 |
@@ -1625,8 +1625,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% | Last Result |
-| 1 | 77% | 81% | Median |
+| 0 | 20% | 100% | Last Result |
+| 1 | 75% | 80% | Median |
 | 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
