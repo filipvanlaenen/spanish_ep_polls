@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.0% | 1.2–2.8% | 1.1–3.0% | 1.0–3.3% | 0.8–3.9% |
-| [20–22 March 2023](2023-03-22-electoPanel.html) | electoPanel <br> electomania.es | 2.1% | N/A | N/A | N/A | N/A |
+| [20–22 March 2023](2023-03-22-electoPanel.html) | electoPanel <br> electomania.es | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
 | [11–17 March 2023](2023-03-17-electoPanel.html) | electoPanel <br> electomania.es | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.2–3.4% |
 | [1–11 March 2023](2023-03-11-CIS.html) | CIS | 1.1% | 0.9–1.4% | 0.9–1.4% | 0.8–1.5% | 0.7–1.6% |
 | [6–10 March 2023](2023-03-10-electoPanel.html) | electoPanel <br> electomania.es | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
@@ -812,10 +812,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 23% | 100% |  |
-| 1.5–2.5% | 58% | 77% | Median |
+| 0.5–1.5% | 22% | 100% |  |
+| 1.5–2.5% | 60% | 78% | Median |
 | 2.5–3.5% | 17% | 18% |  |
-| 3.5–4.5% | 1.1% | 1.2% |  |
+| 3.5–4.5% | 1.0% | 1.1% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -828,8 +828,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| [20–22 March 2023](2023-03-22-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [20–22 March 2023](2023-03-22-electoPanel.html) | electoPanel <br> electomania.es | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [11–17 March 2023](2023-03-17-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [1–11 March 2023](2023-03-11-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0–1 |
 | [6–10 March 2023](2023-03-10-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 0–1 | 0–2 | 0–2 |
@@ -1631,9 +1631,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 24% | 100% | Last Result |
-| 1 | 72% | 76% | Median |
-| 2 | 4% | 4% |  |
+| 0 | 23% | 100% | Last Result |
+| 1 | 68% | 77% | Median |
+| 2 | 9% | 9% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
