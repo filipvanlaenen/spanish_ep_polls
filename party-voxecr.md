@@ -10,11 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.6% | 12.2–16.4% | 10.4–17.0% | 9.9–17.5% | 9.4–18.6% |
+| N/A | [Poll Average](average.html) | 14.5% | 11.8–16.5% | 10.2–17.0% | 9.9–17.5% | 9.4–18.7% |
+| [20–22 March 2023](2023-03-22-electoPanel.html) | electoPanel <br> electomania.es | 14.4% | N/A | N/A | N/A | N/A |
+| [11–17 March 2023](2023-03-17-electoPanel.html) | electoPanel <br> electomania.es | 14.9% | 13.7–16.4% | 13.3–16.8% | 13.0–17.1% | 12.4–17.8% |
 | [1–11 March 2023](2023-03-11-CIS.html) | CIS | 10.1% | 9.5–10.8% | 9.3–11.0% | 9.2–11.1% | 8.9–11.4% |
 | [6–10 March 2023](2023-03-10-electoPanel.html) | electoPanel <br> electomania.es | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.3% | 12.3–18.1% |
 | [6–10 March 2023](2023-03-10-InvyMark.html) | InvyMark <br> laSexta | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.6–17.4% |
 | [3–8 March 2023](2023-03-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
+| [1–7 March 2023](2023-03-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 15.3% | N/A | N/A | N/A | N/A |
 | [1–6 March 2023](2023-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 14.4% | 12.8–16.2% | 12.3–16.7% | 12.0–17.1% | 11.3–18.0% |
 | [28 February–3 March 2023](2023-03-03-electoPanel.html) | electoPanel <br> electomania.es | 15.0% | 13.6–16.5% | 13.3–16.9% | 12.9–17.3% | 12.3–18.1% |
 | [28 February–3 March 2023](2023-03-03-SocioMétrica.html) | SocioMétrica <br> El Español | 15.0% | 13.6–16.6% | 13.2–17.1% | 12.8–17.5% | 12.1–18.3% |
@@ -817,19 +820,20 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.9% | 100% |  |
-| 9.5–10.5% | 5% | 99.1% |  |
-| 10.5–11.5% | 2% | 94% |  |
-| 11.5–12.5% | 4% | 92% |  |
-| 12.5–13.5% | 12% | 88% |  |
-| 13.5–14.5% | 25% | 76% |  |
-| 14.5–15.5% | 26% | 51% | Median |
+| 8.5–9.5% | 1.0% | 100% |  |
+| 9.5–10.5% | 6% | 99.0% |  |
+| 10.5–11.5% | 3% | 93% |  |
+| 11.5–12.5% | 4% | 91% |  |
+| 12.5–13.5% | 13% | 86% |  |
+| 13.5–14.5% | 24% | 74% |  |
+| 14.5–15.5% | 25% | 49% | Median |
 | 15.5–16.5% | 16% | 25% |  |
 | 16.5–17.5% | 6% | 9% |  |
 | 17.5–18.5% | 2% | 2% |  |
-| 18.5–19.5% | 0.4% | 0.6% |  |
+| 18.5–19.5% | 0.5% | 0.6% |  |
 | 19.5–20.5% | 0.1% | 0.2% |  |
-| 20.5–21.5% | 0% | 0% |  |
+| 20.5–21.5% | 0% | 0.1% |  |
+| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -841,10 +845,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–10 | 6–10 | 6–11 | 6–12 |
+| [20–22 March 2023](2023-03-22-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [11–17 March 2023](2023-03-17-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [1–11 March 2023](2023-03-11-CIS.html) | CIS | 6 | 6 | 6–7 | 6–7 | 5–7 |
 | [6–10 March 2023](2023-03-10-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | [6–10 March 2023](2023-03-10-InvyMark.html) | InvyMark <br> laSexta | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [3–8 March 2023](2023-03-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
+| [1–7 March 2023](2023-03-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [1–6 March 2023](2023-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 9 | 8–9 | 7–10 | 7–11 | 7–11 |
 | [28 February–3 March 2023](2023-03-03-electoPanel.html) | electoPanel <br> electomania.es | 10 | 9–10 | 8–10 | 8–11 | 8–12 |
 | [28 February–3 March 2023](2023-03-03-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
@@ -1646,13 +1653,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.1% | 100% |  |
-| 6 | 7% | 99.9% |  |
-| 7 | 6% | 93% |  |
-| 8 | 26% | 87% |  |
-| 9 | 41% | 61% | Median |
+| 6 | 8% | 99.9% |  |
+| 7 | 6% | 91% |  |
+| 8 | 26% | 85% |  |
+| 9 | 40% | 60% | Median |
 | 10 | 16% | 20% |  |
 | 11 | 3% | 4% |  |
-| 12 | 0.5% | 0.5% |  |
+| 12 | 0.5% | 0.6% |  |
 | 13 | 0% | 0% |  |
 
 

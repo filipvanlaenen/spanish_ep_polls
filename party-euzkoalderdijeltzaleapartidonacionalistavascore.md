@@ -10,11 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 1.0–2.2% | 0.9–2.4% | 0.8–2.6% | 0.7–3.2% |
+| N/A | [Poll Average](average.html) | 1.5% | 1.0–2.2% | 0.9–2.4% | 0.8–2.7% | 0.6–3.2% |
+| [20–22 March 2023](2023-03-22-electoPanel.html) | electoPanel <br> electomania.es | 1.6% | N/A | N/A | N/A | N/A |
+| [11–17 March 2023](2023-03-17-electoPanel.html) | electoPanel <br> electomania.es | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.0–2.5% | 0.8–2.8% |
 | [1–11 March 2023](2023-03-11-CIS.html) | CIS | 1.1% | 0.9–1.4% | 0.9–1.4% | 0.8–1.5% | 0.7–1.6% |
 | [6–10 March 2023](2023-03-10-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [6–10 March 2023](2023-03-10-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [3–8 March 2023](2023-03-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
+| [1–7 March 2023](2023-03-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [1–6 March 2023](2023-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1.5% | 1.1–2.3% | 1.0–2.6% | 0.9–2.8% | 0.7–3.2% |
 | [28 February–3 March 2023](2023-03-03-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.7–2.7% |
 | [28 February–3 March 2023](2023-03-03-SocioMétrica.html) | SocioMétrica <br> El Español | 1.4% | 1.1–2.1% | 0.9–2.3% | 0.8–2.5% | 0.7–2.8% |
@@ -811,7 +814,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0.2% | 100% | Last Result |
 | 0.5–1.5% | 51% | 99.8% |  |
 | 1.5–2.5% | 45% | 49% | Median |
-| 2.5–3.5% | 3% | 3% |  |
+| 2.5–3.5% | 3% | 4% |  |
 | 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -825,10 +828,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [20–22 March 2023](2023-03-22-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [11–17 March 2023](2023-03-17-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–11 March 2023](2023-03-11-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0–1 |
 | [6–10 March 2023](2023-03-10-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–10 March 2023](2023-03-10-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
 | [3–8 March 2023](2023-03-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–7 March 2023](2023-03-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [1–6 March 2023](2023-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [28 February–3 March 2023](2023-03-03-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28 February–3 March 2023](2023-03-03-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1624,8 +1630,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 57% | 100% | Last Result, Median |
-| 1 | 42% | 43% |  |
+| 0 | 59% | 100% | Last Result, Median |
+| 1 | 41% | 41% |  |
 | 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
