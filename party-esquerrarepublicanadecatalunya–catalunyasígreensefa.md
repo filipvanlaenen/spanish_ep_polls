@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.0–3.9% | 1.8–4.2% | 1.6–4.6% | 1.3–5.3% |
+| N/A | [Poll Average](average.html) | 2.8% | 2.0–3.9% | 1.8–4.2% | 1.6–4.4% | 1.3–5.0% |
+| [20–24 March 2023](2023-03-24-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [22–24 March 2023](2023-03-24-GAD3.html) | GAD3 <br> ABC | 2.3% | N/A | N/A | N/A | N/A |
+| [23–24 March 2023](2023-03-24-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [23 March 2023](2023-03-23-KeyData.html) | Key Data <br> Público | 3.2% | N/A | N/A | N/A | N/A |
+| [21–23 March 2023](2023-03-23-Data10.html) | Data10 <br> OKDiario | 3.0% | N/A | N/A | N/A | N/A |
 | [20–22 March 2023](2023-03-22-electoPanel.html) | electoPanel <br> electomania.es | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.4–3.9% |
 | [11–17 March 2023](2023-03-17-electoPanel.html) | electoPanel <br> electomania.es | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.4% | 1.4–3.8% |
 | [1–11 March 2023](2023-03-11-CIS.html) | CIS | 2.4% | 2.1–2.8% | 2.0–2.9% | 2.0–2.9% | 1.8–3.1% |
@@ -813,11 +818,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 32% | 98% |  |
-| 2.5–3.5% | 47% | 66% | Median |
-| 3.5–4.5% | 17% | 20% |  |
-| 4.5–5.5% | 2% | 3% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
+| 1.5–2.5% | 34% | 98% |  |
+| 2.5–3.5% | 45% | 64% | Median |
+| 3.5–4.5% | 18% | 19% |  |
+| 4.5–5.5% | 2% | 2% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -829,7 +834,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| [20–24 March 2023](2023-03-24-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
+| [22–24 March 2023](2023-03-24-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [23–24 March 2023](2023-03-24-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [23 March 2023](2023-03-23-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
+| [21–23 March 2023](2023-03-23-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [20–22 March 2023](2023-03-22-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [11–17 March 2023](2023-03-17-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1–2 | 0–2 |
 | [1–11 March 2023](2023-03-11-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1–2 |
@@ -1632,11 +1642,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 58% | 97% | Median |
-| 2 | 37% | 39% |  |
-| 3 | 3% | 3% |  |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0% | 0% |  |
+| 0 | 2% | 100% | Last Result |
+| 1 | 63% | 98% | Median |
+| 2 | 32% | 35% |  |
+| 3 | 2% | 2% |  |
+| 4 | 0% | 0% |  |
 
 
