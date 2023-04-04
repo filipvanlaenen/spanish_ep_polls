@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.2–2.9% | 1.0–3.1% | 0.8–3.3% | 0.6–3.8% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.3–2.9% | 1.0–3.1% | 0.8–3.4% | 0.6–3.9% |
 | [20–24 March 2023](2023-03-24-InvyMark.html) | InvyMark <br> laSexta | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
-| [22–24 March 2023](2023-03-24-GAD3.html) | GAD3 <br> ABC | 1.7% | N/A | N/A | N/A | N/A |
-| [23–24 March 2023](2023-03-24-DYM.html) | DYM <br> Henneo | 2.2% | N/A | N/A | N/A | N/A |
-| [23 March 2023](2023-03-23-KeyData.html) | Key Data <br> Público | 2.0% | N/A | N/A | N/A | N/A |
-| [21–23 March 2023](2023-03-23-Data10.html) | Data10 <br> OKDiario | 1.9% | N/A | N/A | N/A | N/A |
+| [22–24 March 2023](2023-03-24-GAD3.html) | GAD3 <br> ABC | 1.7% | 1.2–2.5% | 1.1–2.8% | 0.9–3.0% | 0.7–3.4% |
+| [23–24 March 2023](2023-03-24-DYM.html) | DYM <br> Henneo | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
+| [23 March 2023](2023-03-23-KeyData.html) | Key Data <br> Público | 2.0% | 1.3–3.4% | 1.2–3.8% | 1.0–4.1% | 0.7–4.9% |
+| [21–23 March 2023](2023-03-23-Data10.html) | Data10 <br> OKDiario | 1.9% | 1.5–2.5% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% |
 | [20–22 March 2023](2023-03-22-electoPanel.html) | electoPanel <br> electomania.es | 2.6% | 2.1–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.1% |
 | [11–17 March 2023](2023-03-17-electoPanel.html) | electoPanel <br> electomania.es | 2.6% | 2.1–3.4% | 2.0–3.6% | 1.8–3.7% | 1.6–4.1% |
 | [1–11 March 2023](2023-03-11-CIS.html) | CIS | 2.5% | 2.2–2.9% | 2.1–3.0% | 2.0–3.1% | 1.9–3.2% |
@@ -816,12 +816,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.5% | 100% | Last Result |
-| 0.5–1.5% | 18% | 99.5% |  |
-| 1.5–2.5% | 52% | 81% | Median |
-| 2.5–3.5% | 28% | 29% |  |
-| 3.5–4.5% | 1.1% | 1.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.4% | 100% | Last Result |
+| 0.5–1.5% | 18% | 99.6% |  |
+| 1.5–2.5% | 56% | 82% | Median |
+| 2.5–3.5% | 25% | 26% |  |
+| 3.5–4.5% | 1.3% | 1.4% |  |
+| 4.5–5.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -834,10 +835,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [20–24 March 2023](2023-03-24-InvyMark.html) | InvyMark <br> laSexta | 0 | 0 | 0 | 0–1 | 0–1 |
-| [22–24 March 2023](2023-03-24-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [23–24 March 2023](2023-03-24-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
-| [23 March 2023](2023-03-23-KeyData.html) | Key Data <br> Público |  |  |  |  |  |
-| [21–23 March 2023](2023-03-23-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [22–24 March 2023](2023-03-24-GAD3.html) | GAD3 <br> ABC | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [23–24 March 2023](2023-03-24-DYM.html) | DYM <br> Henneo | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| [23 March 2023](2023-03-23-KeyData.html) | Key Data <br> Público | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [21–23 March 2023](2023-03-23-Data10.html) | Data10 <br> OKDiario | 1 | 1 | 1 | 1 | 0–1 |
 | [20–22 March 2023](2023-03-22-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [11–17 March 2023](2023-03-17-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–11 March 2023](2023-03-11-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1–2 |
@@ -1640,9 +1641,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% | Last Result |
-| 1 | 79% | 83% | Median |
-| 2 | 4% | 4% |  |
-| 3 | 0% | 0% |  |
+| 0 | 15% | 100% | Last Result |
+| 1 | 80% | 85% | Median |
+| 2 | 5% | 5% |  |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 
