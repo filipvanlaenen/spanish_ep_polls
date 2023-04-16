@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.5–3.5% | 1.3–3.7% | 1.2–4.0% | 0.9–4.5% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.5–3.4% | 1.3–3.7% | 1.2–3.9% | 0.9–4.4% |
+| [22–30 March 2023](2023-03-30-electoPanel.html) | electoPanel <br> electomania.es | 2.0% | 1.4–3.1% | 1.2–3.4% | 1.1–3.6% | 0.9–4.2% |
+| [24–27 March 2023](2023-03-27-40dB.html) | 40dB <br> Prisa | 3.2% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% | 2.3–4.4% |
 | [20–24 March 2023](2023-03-24-InvyMark.html) | InvyMark <br> laSexta | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [22–24 March 2023](2023-03-24-GAD3.html) | GAD3 <br> ABC | 1.7% | 1.2–2.5% | 1.1–2.8% | 0.9–3.0% | 0.7–3.4% |
 | [23–24 March 2023](2023-03-24-DYM.html) | DYM <br> Henneo | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
@@ -818,10 +820,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 12% | 100% |  |
-| 1.5–2.5% | 38% | 88% |  |
-| 2.5–3.5% | 42% | 51% | Median |
-| 3.5–4.5% | 8% | 8% |  |
-| 4.5–5.5% | 0.4% | 0.4% |  |
+| 1.5–2.5% | 37% | 88% |  |
+| 2.5–3.5% | 43% | 50% | Median |
+| 3.5–4.5% | 7% | 7% |  |
+| 4.5–5.5% | 0.3% | 0.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -834,6 +836,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| [22–30 March 2023](2023-03-30-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [24–27 March 2023](2023-03-27-40dB.html) | 40dB <br> Prisa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–24 March 2023](2023-03-24-InvyMark.html) | InvyMark <br> laSexta | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–24 March 2023](2023-03-24-GAD3.html) | GAD3 <br> ABC | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [23–24 March 2023](2023-03-24-DYM.html) | DYM <br> Henneo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -1641,9 +1645,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 69% | 93% | Median |
-| 2 | 24% | 24% |  |
+| 0 | 9% | 100% | Last Result |
+| 1 | 68% | 91% | Median |
+| 2 | 23% | 23% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
