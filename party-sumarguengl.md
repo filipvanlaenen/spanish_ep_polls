@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.4% | 8.1–13.0% | 7.7–13.5% | 7.5–13.9% | 7.0–14.7% |
+| N/A | [Poll Average](average.html) | 9.6% | 7.5–12.7% | 7.1–13.2% | 6.7–13.6% | 6.1–14.5% |
 | [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.6–11.2% | 7.1–11.8% |
-| [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 9.7% | N/A | N/A | N/A | N/A |
-| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 7.6% | N/A | N/A | N/A | N/A |
+| [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 9.7% | 8.3–11.3% | 8.0–11.8% | 7.6–12.2% | 7.0–13.0% |
+| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 7.6% | 6.5–8.8% | 6.2–9.2% | 6.0–9.5% | 5.5–10.1% |
 | [3–6 April 2023](2023-04-06-NCReport.html) | NC Report <br> La Razón | 11.8% | 10.3–13.6% | 9.9–14.1% | 9.6–14.5% | 8.9–15.4% |
 | [3–5 April 2023](2023-04-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 12.3% | 11.3–13.4% | 11.1–13.7% | 10.9–13.9% | 10.4–14.5% |
 | [1–2 April 2023](2023-04-02-Data10.html) | Data10 <br> OKDiario | 8.4% | 7.5–9.4% | 7.3–9.7% | 7.1–9.9% | 6.7–10.4% |
@@ -585,17 +585,17 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 3% | 99.9% |  |
-| 7.5–8.5% | 16% | 97% |  |
-| 8.5–9.5% | 20% | 81% |  |
-| 9.5–10.5% | 12% | 60% | Median |
-| 10.5–11.5% | 12% | 49% |  |
-| 11.5–12.5% | 19% | 37% |  |
-| 12.5–13.5% | 13% | 18% |  |
-| 13.5–14.5% | 4% | 4% |  |
-| 14.5–15.5% | 0.6% | 0.7% |  |
+| 4.5–5.5% | 0.1% | 100% |  |
+| 5.5–6.5% | 2% | 99.9% |  |
+| 6.5–7.5% | 8% | 98% |  |
+| 7.5–8.5% | 19% | 90% |  |
+| 8.5–9.5% | 21% | 71% |  |
+| 9.5–10.5% | 13% | 50% | Median |
+| 10.5–11.5% | 11% | 37% |  |
+| 11.5–12.5% | 14% | 26% |  |
+| 12.5–13.5% | 9% | 12% |  |
+| 13.5–14.5% | 2% | 3% |  |
+| 14.5–15.5% | 0.4% | 0.5% |  |
 | 15.5–16.5% | 0.1% | 0.1% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -609,9 +609,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 4–8 | 4–9 |
-| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 6 | 5–6 | 4–6 | 4–7 | 4–7 |
-| [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
-| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
+| [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 6 | 5–6 | 4–7 | 4–7 | 4–8 |
+| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [3–6 April 2023](2023-04-06-NCReport.html) | NC Report <br> La Razón | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [3–5 April 2023](2023-04-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [1–2 April 2023](2023-04-02-Data10.html) | Data10 <br> OKDiario | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -1183,13 +1183,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 29% | 100% |  |
-| 5 | 20% | 71% |  |
-| 6 | 10% | 51% | Median |
-| 7 | 22% | 41% |  |
-| 8 | 18% | 19% |  |
-| 9 | 1.2% | 1.2% |  |
+| 3 | 0.4% | 100% |  |
+| 4 | 15% | 99.6% |  |
+| 5 | 33% | 84% |  |
+| 6 | 23% | 52% | Median |
+| 7 | 17% | 29% |  |
+| 8 | 12% | 13% |  |
+| 9 | 0.8% | 0.8% |  |
 | 10 | 0% | 0% |  |
 
 
