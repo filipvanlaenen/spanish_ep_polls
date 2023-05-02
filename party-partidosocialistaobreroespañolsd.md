@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.9% | 21.5–28.8% | 20.9–29.5% | 20.3–30.1% | 19.2–31.2% |
+| N/A | [Poll Average](average.html) | 24.4% | 21.5–28.3% | 20.9–29.1% | 20.3–29.7% | 19.2–30.9% |
+| [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.5% | 21.3–28.3% |
 | [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 22.1% | 20.5–23.9% | 20.0–24.4% | 19.6–24.8% | 18.9–25.6% |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 26.1% | 24.0–28.4% | 23.4–29.1% | 22.9–29.6% | 21.9–30.7% |
 | [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 23.7% | 21.9–25.6% | 21.4–26.1% | 21.0–26.6% | 20.2–27.5% |
@@ -122,7 +123,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [30 August–1 September 2022](2022-09-01-Data10.html) | Data10 <br> OKDiario | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.5–26.4% |
 | [23–28 August 2022](2022-08-28-40dB.html) | 40dB <br> Prisa | 26.4% | 25.2–27.7% | 24.8–28.1% | 24.5–28.4% | 23.9–29.0% |
 | [23–27 August 2022](2022-08-27-NCReport.html) | NC Report <br> La Razón | 23.8% | 22.1–25.6% | 21.7–26.1% | 21.3–26.6% | 20.5–27.4% |
-| [16–20 August 2022](2022-08-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 24.3% | 22.6–26.1% | 22.1–26.6% | 21.7–27.1% | 21.0–27.9% |
+| [16–20 August 2022](2022-08-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 24.2% | 22.6–26.1% | 22.1–26.6% | 21.7–27.1% | 21.0–27.9% |
 | [5–10 August 2022](2022-08-10-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 24.1% | 22.4–25.9% | 21.9–26.4% | 21.6–26.9% | 20.8–27.7% |
 | [1–8 August 2022](2022-08-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 26.0% | 23.9–28.2% | 23.3–28.9% | 22.8–29.4% | 21.9–30.5% |
 | [18–29 July 2022](2022-07-29-IMOP.html) | IMOP <br> El Confidencial | 24.2% | 22.7–25.8% | 22.3–26.2% | 21.9–26.6% | 21.2–27.4% |
@@ -172,7 +173,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [20–22 April 2022](2022-04-22-DYM.html) | DYM <br> Henneo | 26.5% | 24.8–28.3% | 24.3–28.8% | 23.9–29.3% | 23.0–30.2% |
 | [11–20 April 2022](2022-04-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 26.4% | 24.7–28.1% | 24.2–28.6% | 23.8–29.1% | 23.1–29.9% |
 | [11–18 April 2022](2022-04-18-SWDemoscopia.html) | SW Demoscopia | 25.3% | 23.7–27.0% | 23.3–27.4% | 22.9–27.8% | 22.2–28.7% |
-| [15 April 2022](2022-04-15-NCReport.html) | NC Report <br> La Razón | 25.4% | 23.7–27.2% | 23.2–27.7% | 22.8–28.2% | 22.0–29.1% |
+| [15 April 2022](2022-04-15-NCReport.html) | NC Report <br> La Razón | 25.3% | 23.7–27.2% | 23.2–27.7% | 22.8–28.2% | 22.0–29.1% |
 | [9 April 2022](2022-04-09-SocioMétrica.html) | SocioMétrica <br> El Español | 25.9% | 24.1–27.8% | 23.6–28.4% | 23.1–28.9% | 22.3–29.8% |
 | [1–9 April 2022](2022-04-09-CIS.html) | CIS | 30.3% | 29.3–31.3% | 29.1–31.6% | 28.8–31.8% | 28.4–32.3% |
 | [28 March–8 April 2022](2022-04-08-IMOP.html) | IMOP <br> El Confidencial | 24.9% | 23.4–26.5% | 23.0–26.9% | 22.6–27.3% | 21.9–28.1% |
@@ -302,7 +303,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–4 August 2021](2021-08-04-SimpleLógica.html) | Simple Lógica | 27.9% | N/A | N/A | N/A | N/A |
 | [26–29 July 2021](2021-07-29-SocioMétrica.html) | SocioMétrica <br> El Español | 24.7% | 23.1–26.3% | 22.7–26.8% | 22.3–27.2% | 21.6–28.0% |
 | [20–23 July 2021](2021-07-23-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 25.6% | 24.0–27.4% | 23.5–27.9% | 23.1–28.3% | 22.4–29.2% |
-| [16–22 July 2021](2021-07-22-GAD3.html) | GAD3 <br> ABC | 25.1% | 23.2–27.2% | 22.7–27.8% | 22.2–28.3% | 21.4–29.2% |
+| [16–22 July 2021](2021-07-22-GAD3.html) | GAD3 <br> ABC | 25.2% | 23.2–27.2% | 22.7–27.8% | 22.2–28.3% | 21.4–29.2% |
 | [19 July 2021](2021-07-19-SigmaDos.html) | Sigma Dos <br> Antena 3 | 25.1% | 23.4–26.9% | 22.9–27.4% | 22.5–27.9% | 21.7–28.8% |
 | [15–19 July 2021](2021-07-19-DYM.html) | DYM <br> Henneo | 24.0% | 22.4–25.8% | 21.9–26.3% | 21.5–26.8% | 20.7–27.6% |
 | [16–17 July 2021](2021-07-17-Data10.html) | Data10 <br> OKDiario | 24.5% | 22.8–26.3% | 22.3–26.8% | 21.9–27.3% | 21.1–28.2% |
@@ -328,7 +329,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [31 May–1 June 2021](2021-06-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
 | [26–29 May 2021](2021-05-29-SocioMétrica.html) | SocioMétrica <br> El Español | 25.4% | 23.7–27.1% | 23.3–27.6% | 22.9–28.0% | 22.1–28.9% |
 | [21–24 May 2021](2021-05-24-DYM.html) | DYM <br> Henneo | 24.5% | 22.8–26.3% | 22.3–26.8% | 21.9–27.3% | 21.2–28.1% |
-| [22 May 2021](2021-05-22-NCReport.html) | NC Report <br> La Razón | 25.8% | 24.1–27.6% | 23.6–28.2% | 23.2–28.6% | 22.4–29.5% |
+| [22 May 2021](2021-05-22-NCReport.html) | NC Report <br> La Razón | 25.7% | 24.1–27.6% | 23.6–28.2% | 23.2–28.6% | 22.4–29.5% |
 | [17–21 May 2021](2021-05-21-InvyMark.html) | InvyMark <br> laSexta | 26.9% | N/A | N/A | N/A | N/A |
 | [20 May 2021](2021-05-20-Metroscopia.html) | Metroscopia | 22.8% | N/A | N/A | N/A | N/A |
 | [12–18 May 2021](2021-05-18-GAD3.html) | GAD3 <br> ABC | 25.4% | 23.8–27.0% | 23.4–27.5% | 23.0–27.9% | 22.3–28.7% |
@@ -457,14 +458,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [27–31 March 2020](2020-03-31-SWDemoscopia.html) | SW Demoscopia | 26.9% | 25.3–28.5% | 24.9–29.0% | 24.5–29.4% | 23.8–30.1% |
 | [26–27 March 2020](2020-03-27-DYM.html) | DYM <br> Prensa Ibérica | 26.8% | 25.0–28.6% | 24.5–29.2% | 24.1–29.6% | 23.3–30.5% |
 | [23–26 March 2020](2020-03-26-SyMConsulting.html) | SyM Consulting <br> EPDA | 26.2% | 25.2–27.2% | 24.9–27.5% | 24.7–27.8% | 24.2–28.3% |
-| [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 25.4% | 23.7–27.2% | 23.2–27.7% | 22.8–28.2% | 22.0–29.1% |
+| [16–17 March 2020](2020-03-17-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 25.3% | 23.7–27.2% | 23.2–27.7% | 22.8–28.2% | 22.0–29.1% |
 | [1–13 March 2020](2020-03-13-CIS.html) | CIS | 33.4% | 32.5–34.4% | 32.2–34.7% | 32.0–34.9% | 31.5–35.4% |
 | [2–6 March 2020](2020-03-06-SimpleLógica.html) | Simple Lógica | 27.7% | 26.0–29.5% | 25.5–30.1% | 25.0–30.5% | 24.2–31.4% |
 | [2–6 March 2020](2020-03-06-InvyMark.html) | InvyMark <br> laSexta | 28.8% | N/A | N/A | N/A | N/A |
 | [5 March 2020](2020-03-05-SocioMétrica.html) | SocioMétrica <br> El Español | 27.9% | 26.0–29.9% | 25.5–30.4% | 25.1–30.9% | 24.2–31.9% |
 | [24–28 February 2020](2020-02-28-SWDemoscopia.html) | SW Demoscopia | 27.8% | 26.2–29.4% | 25.8–29.9% | 25.4–30.3% | 24.7–31.1% |
 | [17–21 February 2020](2020-02-21-InvyMark.html) | InvyMark <br> laSexta | 29.1% | N/A | N/A | N/A | N/A |
-| [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 26.9% | 25.1–28.8% | 24.7–29.3% | 24.2–29.7% | 23.4–30.7% |
+| [14 February 2020](2020-02-14-NCReport.html) | NC Report <br> La Razon | 27.0% | 25.1–28.8% | 24.7–29.3% | 24.2–29.7% | 23.4–30.7% |
 | [3–11 February 2020](2020-02-11-SimpleLógica.html) | Simple Lógica | 28.5% | 26.8–30.3% | 26.3–30.8% | 25.9–31.3% | 25.1–32.2% |
 | [1–11 February 2020](2020-02-11-CIS.html) | CIS | 30.9% | 29.8–32.0% | 29.5–32.3% | 29.3–32.6% | 28.7–33.1% |
 | [3–7 February 2020](2020-02-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 27.6% | 26.0–29.4% | 25.5–29.9% | 25.1–30.4% | 24.3–31.2% |
@@ -486,14 +487,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [29 November–19 December 2019](2019-12-19-CIS.html) | CIS | 29.9% | 29.0–30.7% | 28.8–31.0% | 28.6–31.2% | 28.2–31.6% |
 | [10–13 December 2019](2019-12-13-NCReport.html) | NC Report <br> La Razón | 27.1% | 25.3–29.0% | 24.9–29.5% | 24.4–29.9% | 23.6–30.8% |
 | [9–13 December 2019](2019-12-13-InvyMark.html) | InvyMark <br> laSexta | 28.8% | N/A | N/A | N/A | N/A |
-| [2–12 December 2019](2019-12-12-SimpleLógica.html) | Simple Lógica | 30.3% | 28.5–32.1% | 28.0–32.6% | 27.6–33.1% | 26.7–34.0% |
+| [2–12 December 2019](2019-12-12-SimpleLógica.html) | Simple Lógica | 30.2% | 28.5–32.1% | 28.0–32.6% | 27.6–33.1% | 26.7–34.0% |
 | [19–27 November 2019](2019-11-27-GAD3.html) | GAD3 <br> ABC | 27.7% | 26.4–29.1% | 26.0–29.5% | 25.7–29.8% | 25.0–30.5% |
 | [5–7 November 2019](2019-11-07-GESOP.html) | GESOP <br> El Periòdic | 29.6% | 27.8–31.7% | 27.2–32.2% | 26.7–32.7% | 25.9–33.7% |
 | [5–6 November 2019](2019-11-06-GESOP.html) | GESOP <br> El Periòdic | 29.5% | 27.6–31.5% | 27.1–32.1% | 26.6–32.6% | 25.8–33.6% |
 | [3–5 November 2019](2019-11-05-GESOP.html) | GESOP <br> El Periòdic | 29.4% | 27.5–31.4% | 27.0–32.0% | 26.5–32.5% | 25.7–33.5% |
-| [31 October–4 November 2019](2019-11-04-GESOP.html) | GESOP <br> El Periòdic | 29.3% | 27.3–31.3% | 26.8–31.9% | 26.3–32.4% | 25.4–33.4% |
+| [31 October–4 November 2019](2019-11-04-GESOP.html) | GESOP <br> El Periòdic | 29.2% | 27.3–31.3% | 26.8–31.9% | 26.3–32.4% | 25.4–33.4% |
+| [3 November 2019](2019-11-03-GIInternacional.html) | GI Internacional <br> Diario16 | 29.7% | N/A | N/A | N/A | N/A |
 | [31 October–2 November 2019](2019-11-02-SocioMétrica.html) | SocioMétrica <br> El Español | 26.4% | 24.7–28.1% | 24.2–28.6% | 23.8–29.1% | 23.1–29.9% |
-| [28 October–2 November 2019](2019-11-02-SWDemoscopia.html) | SW Demoscopia <br> infoLibre | 30.3% | 28.8–31.8% | 28.3–32.3% | 28.0–32.6% | 27.3–33.4% |
+| [28 October–2 November 2019](2019-11-02-SWDemoscopia.html) | SW Demoscopia <br> infoLibre | 30.2% | 28.8–31.8% | 28.3–32.3% | 28.0–32.6% | 27.3–33.4% |
 | [29 October–2 November 2019](2019-11-02-IMOP.html) | IMOP <br> El Confidencial | 28.0% | 26.6–29.5% | 26.2–29.9% | 25.9–30.2% | 25.2–30.9% |
 | [30 October–2 November 2019](2019-11-02-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 27.3% | 25.5–29.2% | 25.0–29.7% | 24.6–30.1% | 23.8–31.1% |
 | [28–31 October 2019](2019-10-31-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 27.8% | 26.0–29.6% | 25.5–30.2% | 25.1–30.6% | 24.2–31.6% |
@@ -503,7 +505,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [29–31 October 2019](2019-10-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.5–31.8% |
 | [28–31 October 2019](2019-10-31-GESOP.html) | GESOP <br> El Periódico | 30.1% | 28.6–31.7% | 28.2–32.1% | 27.8–32.5% | 27.1–33.2% |
 | [14–31 October 2019](2019-10-31-GAD3.html) | GAD3 <br> ABC | 28.8% | 28.2–29.5% | 28.0–29.7% | 27.8–29.8% | 27.5–30.1% |
-| [25–31 October 2019](2019-10-31-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 28.5% | 26.8–30.3% | 26.4–30.8% | 25.9–31.3% | 25.1–32.2% |
+| [25–31 October 2019](2019-10-31-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 28.6% | 26.8–30.3% | 26.4–30.8% | 25.9–31.3% | 25.1–32.2% |
 | [25–30 October 2019](2019-10-30-DYM.html) | DYM <br> Prensa Ibérica | 26.8% | 25.0–28.6% | 24.5–29.1% | 24.1–29.6% | 23.3–30.5% |
 | [21–29 October 2019](2019-10-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 27.5% | 26.2–28.9% | 25.8–29.3% | 25.5–29.6% | 24.9–30.3% |
 | [28–29 October 2019](2019-10-29-Ipsos.html) | Ipsos <br> Henneo | 26.0% | 24.8–27.3% | 24.4–27.7% | 24.1–28.0% | 23.5–28.6% |
@@ -511,7 +513,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23–29 October 2019](2019-10-29-40dB.html) | 40dB <br> El País | 27.3% | 26.1–28.6% | 25.7–29.0% | 25.4–29.3% | 24.8–30.0% |
 | [26–27 October 2019](2019-10-27-SyMConsulting.html) | SyM Consulting <br> EPDA | 27.1% | 25.8–28.4% | 25.5–28.8% | 25.1–29.1% | 24.5–29.8% |
 | [27 October 2019](2019-10-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 28.5% | 26.7–30.4% | 26.2–30.9% | 25.8–31.4% | 25.0–32.3% |
-| [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 26.7% | 25.1–28.5% | 24.6–29.0% | 24.2–29.4% | 23.4–30.3% |
+| [24–26 October 2019](2019-10-26-SocioMétrica.html) | SocioMétrica <br> El Español | 26.8% | 25.1–28.5% | 24.6–29.0% | 24.2–29.4% | 23.4–30.3% |
 | [16–25 October 2019](2019-10-25-NCReport.html) | NC Report <br> La Razón | 27.5% | 25.7–29.4% | 25.2–29.9% | 24.8–30.4% | 24.0–31.3% |
 | [21–25 October 2019](2019-10-25-InvyMark.html) | InvyMark <br> laSexta | 28.6% | N/A | N/A | N/A | N/A |
 | [22–25 October 2019](2019-10-25-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 27.7% | 25.9–29.6% | 25.4–30.1% | 25.0–30.6% | 24.2–31.5% |
@@ -521,21 +523,21 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [11–22 October 2019](2019-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 27.3% | 25.9–28.8% | 25.5–29.2% | 25.2–29.6% | 24.5–30.3% |
 | [18–22 October 2019](2019-10-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 26.5% | 24.8–28.3% | 24.3–28.9% | 23.9–29.3% | 23.0–30.2% |
 | [14–18 October 2019](2019-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 27.4% | 25.6–29.3% | 25.1–29.8% | 24.7–30.3% | 23.9–31.2% |
-| [9–18 October 2019](2019-10-18-NCReport.html) | NC Report <br> La Razón | 27.2% | 25.4–29.1% | 25.0–29.6% | 24.5–30.1% | 23.7–31.0% |
+| [9–18 October 2019](2019-10-18-NCReport.html) | NC Report <br> La Razón | 27.3% | 25.4–29.1% | 25.0–29.6% | 24.5–30.1% | 23.7–31.0% |
 | [14–18 October 2019](2019-10-18-InvyMark.html) | InvyMark <br> laSexta | 29.6% | N/A | N/A | N/A | N/A |
 | [16–18 October 2019](2019-10-18-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 27.4% | 25.6–29.3% | 25.1–29.8% | 24.7–30.3% | 23.9–31.2% |
 | [14–18 October 2019](2019-10-18-GAD3.html) | GAD3 <br> ABC | 30.0% | 28.9–31.0% | 28.7–31.3% | 28.4–31.6% | 27.9–32.1% |
 | [15–17 October 2019](2019-10-17-Ipsos.html) | Ipsos <br> Henneo | 26.7% | 25.5–28.0% | 25.1–28.4% | 24.8–28.7% | 24.2–29.3% |
 | [4–6 October 2019](2019-10-06-GAD3.html) | GAD3 <br> ABC | 31.5% | 29.4–33.7% | 28.9–34.3% | 28.4–34.8% | 27.4–35.9% |
 | [30 September–4 October 2019](2019-10-04-SocioMétrica.html) | SocioMétrica <br> El Español | 28.7% | 26.9–30.6% | 26.4–31.1% | 26.0–31.6% | 25.1–32.5% |
-| [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica | 33.1% | 31.2–35.0% | 30.7–35.5% | 30.3–36.0% | 29.4–36.9% |
-| [30 September–4 October 2019](2019-10-04-InvyMark.html) | InvyMark <br> laSexta | 34.9% | N/A | N/A | N/A | N/A |
-| [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 27.2% | 25.4–29.2% | 24.9–29.8% | 24.4–30.2% | 23.5–31.2% |
+| [1–4 October 2019](2019-10-04-SimpleLógica.html) | Simple Lógica | 33.0% | 31.2–35.0% | 30.7–35.5% | 30.3–36.0% | 29.4–36.9% |
+| [30 September–4 October 2019](2019-10-04-InvyMark.html) | InvyMark <br> laSexta | 35.0% | N/A | N/A | N/A | N/A |
+| [30 September–4 October 2019](2019-10-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> OKDIARIO | 27.3% | 25.4–29.2% | 24.9–29.8% | 24.4–30.2% | 23.5–31.2% |
 | [1–4 October 2019](2019-10-04-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 28.0% | 26.3–29.8% | 25.8–30.3% | 25.4–30.7% | 24.6–31.6% |
 | [1–3 October 2019](2019-10-03-IMOP.html) | IMOP <br> El Confidencial | 30.0% | 28.3–31.7% | 27.9–32.2% | 27.5–32.6% | 26.7–33.5% |
 | [30 September–3 October 2019](2019-10-03-GESOP.html) | GESOP <br> El Periódico | 30.7% | 28.9–32.7% | 28.4–33.2% | 28.0–33.7% | 27.1–34.6% |
 | [30 September–2 October 2019](2019-10-02-SigmaDos.html) | Sigma Dos <br> El Mundo | 30.9% | 29.1–32.8% | 28.5–33.4% | 28.1–33.8% | 27.3–34.8% |
-| [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 30.6% | 28.7–32.5% | 28.2–33.0% | 27.8–33.5% | 26.9–34.4% |
+| [23–26 September 2019](2019-09-26-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 30.5% | 28.7–32.5% | 28.2–33.0% | 27.8–33.5% | 26.9–34.4% |
 | [23–25 September 2019](2019-09-25-GAD3.html) | GAD3 <br> ABC | 27.2% | 25.6–28.9% | 25.1–29.3% | 24.7–29.8% | 24.0–30.6% |
 | [19–23 September 2019](2019-09-23-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 29.4% | 27.6–31.2% | 27.2–31.7% | 26.7–32.1% | 25.9–33.0% |
 | [18–21 September 2019](2019-09-21-NCReport.html) | NC Report <br> La Razón | 28.6% | 26.8–30.5% | 26.3–31.0% | 25.9–31.5% | 25.0–32.4% |
@@ -550,7 +552,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 30.6% | 28.8–32.4% | 28.3–32.9% | 27.9–33.4% | 27.1–34.3% |
 | [2–6 September 2019](2019-09-06-InvyMark.html) | InvyMark <br> laSexta | 34.4% | N/A | N/A | N/A | N/A |
 | [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 32.1% | 30.2–34.0% | 29.7–34.6% | 29.3–35.1% | 28.4–36.0% |
-| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 29.4% | 27.6–31.2% | 27.2–31.7% | 26.7–32.1% | 25.9–33.0% |
+| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 30.5% | 27.6–31.2% | 27.2–31.7% | 26.7–32.1% | 25.9–33.0% |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 31.3% | 29.5–33.1% | 29.0–33.6% | 28.6–34.1% | 27.8–35.0% |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 33.4% | 31.5–35.4% | 31.0–35.9% | 30.5–36.4% | 29.7–37.3% |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 29.5% | 27.7–31.4% | 27.2–31.9% | 26.7–32.4% | 25.9–33.3% |
@@ -564,7 +566,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1–9 July 2019](2019-07-09-SimpleLógica.html) | Simple Lógica | 32.7% | 30.9–34.6% | 30.3–35.1% | 29.9–35.6% | 29.0–36.5% |
 | [3–6 July 2019](2019-07-06-InvyMark.html) | InvyMark <br> laSexta | 36.6% | N/A | N/A | N/A | N/A |
 | [2–5 July 2019](2019-07-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESDiario | 31.3% | 29.5–33.2% | 28.9–33.8% | 28.5–34.2% | 27.6–35.2% |
-| [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 32.3% | 30.5–34.1% | 30.0–34.6% | 29.6–35.1% | 28.7–36.0% |
+| [1–5 July 2019](2019-07-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 32.2% | 30.5–34.1% | 30.0–34.6% | 29.6–35.1% | 28.7–36.0% |
 | [21 June 2019](2019-06-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 32.6% | 30.7–34.6% | 30.2–35.1% | 29.8–35.6% | 28.9–36.5% |
 | [17–21 June 2019](2019-06-21-InvyMark.html) | InvyMark <br> laSexta | 35.9% | N/A | N/A | N/A | N/A |
 | [19 June 2019](2019-06-19-GAD3.html) | GAD3 <br> ABC | 30.8% | 28.7–32.9% | 28.1–33.5% | 27.6–34.0% | 26.7–35.1% |
@@ -602,19 +604,18 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0.7% | 99.8% |  |
 | 19.5–20.5% | 3% | 99.1% |  |
 | 20.5–21.5% | 7% | 97% |  |
-| 21.5–22.5% | 13% | 89% |  |
-| 22.5–23.5% | 14% | 76% |  |
-| 23.5–24.5% | 10% | 62% |  |
-| 24.5–25.5% | 7% | 52% | Median |
-| 25.5–26.5% | 9% | 46% |  |
-| 26.5–27.5% | 13% | 37% |  |
-| 27.5–28.5% | 12% | 24% |  |
-| 28.5–29.5% | 8% | 12% |  |
-| 29.5–30.5% | 3% | 5% |  |
-| 30.5–31.5% | 1.1% | 1.4% |  |
-| 31.5–32.5% | 0.3% | 0.3% |  |
-| 32.5–33.5% | 0% | 0.1% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 21.5–22.5% | 14% | 89% |  |
+| 22.5–23.5% | 16% | 76% |  |
+| 23.5–24.5% | 12% | 60% | Median |
+| 24.5–25.5% | 9% | 48% |  |
+| 25.5–26.5% | 10% | 39% |  |
+| 26.5–27.5% | 11% | 29% |  |
+| 27.5–28.5% | 9% | 18% |  |
+| 28.5–29.5% | 5% | 8% |  |
+| 29.5–30.5% | 2% | 3% |  |
+| 30.5–31.5% | 0.7% | 0.9% |  |
+| 31.5–32.5% | 0.2% | 0.2% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -625,7 +626,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–18 | 13–18 | 12–18 | 11–19 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–18 | 12–18 | 11–19 |
+| [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
 | [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
@@ -1107,6 +1109,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–6 November 2019](2019-11-06-GESOP.html) | GESOP <br> El Periòdic | 18 | 17–19 | 16–20 | 16–20 | 16–21 |
 | [3–5 November 2019](2019-11-05-GESOP.html) | GESOP <br> El Periòdic | 18 | 17–19 | 16–20 | 16–20 | 16–21 |
 | [31 October–4 November 2019](2019-11-04-GESOP.html) | GESOP <br> El Periòdic | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
+| [3 November 2019](2019-11-03-GIInternacional.html) | GI Internacional <br> Diario16 |  |  |  |  |  |
 | [31 October–2 November 2019](2019-11-02-SocioMétrica.html) | SocioMétrica <br> El Español | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [28 October–2 November 2019](2019-11-02-SWDemoscopia.html) | SW Demoscopia <br> infoLibre | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
 | [29 October–2 November 2019](2019-11-02-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
@@ -1211,13 +1214,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.5% | 100% |  |
 | 12 | 3% | 99.5% |  |
 | 13 | 12% | 96% |  |
-| 14 | 19% | 84% |  |
-| 15 | 17% | 65% | Median |
-| 16 | 19% | 48% |  |
-| 17 | 18% | 29% |  |
-| 18 | 10% | 11% |  |
-| 19 | 1.1% | 2% |  |
-| 20 | 0.4% | 0.5% |  |
+| 14 | 22% | 84% |  |
+| 15 | 21% | 62% | Median |
+| 16 | 19% | 41% |  |
+| 17 | 14% | 22% |  |
+| 18 | 7% | 8% |  |
+| 19 | 0.6% | 1.0% |  |
+| 20 | 0.4% | 0.4% |  |
 | 21 | 0% | 0% |  |
 
 

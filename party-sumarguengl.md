@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.6% | 7.5–12.7% | 7.1–13.2% | 6.7–13.6% | 6.1–14.5% |
+| N/A | [Poll Average](average.html) | 9.5% | 7.6–12.6% | 7.2–13.1% | 6.8–13.5% | 6.1–14.4% |
+| [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 9.2% | 8.1–10.5% | 7.8–10.9% | 7.6–11.2% | 7.1–11.8% |
 | [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.6–11.2% | 7.1–11.8% |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 9.7% | 8.3–11.3% | 8.0–11.8% | 7.6–12.2% | 7.0–13.0% |
 | [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 7.6% | 6.5–8.8% | 6.2–9.2% | 6.0–9.5% | 5.5–10.1% |
@@ -492,6 +493,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–6 November 2019](2019-11-06-GESOP.html) | GESOP <br> El Periòdic | 0.0% | N/A | N/A | N/A | N/A |
 | [3–5 November 2019](2019-11-05-GESOP.html) | GESOP <br> El Periòdic | 0.0% | N/A | N/A | N/A | N/A |
 | [31 October–4 November 2019](2019-11-04-GESOP.html) | GESOP <br> El Periòdic | 0.0% | N/A | N/A | N/A | N/A |
+| [3 November 2019](2019-11-03-GIInternacional.html) | GI Internacional <br> Diario16 | 0.0% | N/A | N/A | N/A | N/A |
 | [31 October–2 November 2019](2019-11-02-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
 | [28 October–2 November 2019](2019-11-02-SWDemoscopia.html) | SW Demoscopia <br> infoLibre | 0.0% | N/A | N/A | N/A | N/A |
 | [29 October–2 November 2019](2019-11-02-IMOP.html) | IMOP <br> El Confidencial | 0.0% | N/A | N/A | N/A | N/A |
@@ -586,17 +588,17 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 2% | 99.9% |  |
-| 6.5–7.5% | 8% | 98% |  |
-| 7.5–8.5% | 19% | 90% |  |
-| 8.5–9.5% | 21% | 71% |  |
-| 9.5–10.5% | 13% | 50% | Median |
-| 10.5–11.5% | 11% | 37% |  |
-| 11.5–12.5% | 14% | 26% |  |
-| 12.5–13.5% | 9% | 12% |  |
-| 13.5–14.5% | 2% | 3% |  |
-| 14.5–15.5% | 0.4% | 0.5% |  |
-| 15.5–16.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 1.5% | 99.9% |  |
+| 6.5–7.5% | 7% | 98% |  |
+| 7.5–8.5% | 19% | 91% |  |
+| 8.5–9.5% | 23% | 72% | Median |
+| 9.5–10.5% | 16% | 48% |  |
+| 10.5–11.5% | 11% | 33% |  |
+| 11.5–12.5% | 12% | 22% |  |
+| 12.5–13.5% | 8% | 10% |  |
+| 13.5–14.5% | 2% | 2% |  |
+| 14.5–15.5% | 0.3% | 0.4% |  |
+| 15.5–16.5% | 0% | 0.1% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
 
@@ -608,7 +610,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 4–8 | 4–9 |
+| N/A | [Poll Average](average.html) | 5 | 4–8 | 4–8 | 4–8 | 4–9 |
+| [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 6 | 5–6 | 4–7 | 4–7 | 4–8 |
 | [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
@@ -1090,6 +1093,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–6 November 2019](2019-11-06-GESOP.html) | GESOP <br> El Periòdic |  |  |  |  |  |
 | [3–5 November 2019](2019-11-05-GESOP.html) | GESOP <br> El Periòdic |  |  |  |  |  |
 | [31 October–4 November 2019](2019-11-04-GESOP.html) | GESOP <br> El Periòdic |  |  |  |  |  |
+| [3 November 2019](2019-11-03-GIInternacional.html) | GI Internacional <br> Diario16 |  |  |  |  |  |
 | [31 October–2 November 2019](2019-11-02-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [28 October–2 November 2019](2019-11-02-SWDemoscopia.html) | SW Demoscopia <br> infoLibre |  |  |  |  |  |
 | [29 October–2 November 2019](2019-11-02-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
@@ -1183,13 +1187,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.4% | 100% |  |
-| 4 | 15% | 99.6% |  |
-| 5 | 33% | 84% |  |
-| 6 | 23% | 52% | Median |
-| 7 | 17% | 29% |  |
-| 8 | 12% | 13% |  |
-| 9 | 0.8% | 0.8% |  |
+| 3 | 0.3% | 100% |  |
+| 4 | 14% | 99.7% |  |
+| 5 | 36% | 86% | Median |
+| 6 | 24% | 49% |  |
+| 7 | 14% | 25% |  |
+| 8 | 10% | 11% |  |
+| 9 | 0.7% | 0.7% |  |
 | 10 | 0% | 0% |  |
 
 
