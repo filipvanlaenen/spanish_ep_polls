@@ -599,7 +599,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
-| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–6 April 2023](2023-04-06-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
@@ -1171,9 +1171,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 58% | 100% | Last Result, Median |
-| 1 | 42% | 42% |  |
-| 2 | 0.2% | 0.2% |  |
-| 3 | 0% | 0% |  |
+| 0 | 70% | 100% | Last Result, Median |
+| 1 | 30% | 30% |  |
+| 2 | 0% | 0% |  |
 
 

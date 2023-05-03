@@ -598,9 +598,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
-| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0 | 0 | 0 | 0 | 0–1 |
+| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0 | 0 | 0 | 0 | 0 |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
-| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0–1 |
+| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
 | [3–6 April 2023](2023-04-06-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [3–5 April 2023](2023-04-05-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [1–2 April 2023](2023-04-02-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
@@ -1170,8 +1170,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 98.9% | 100% | Last Result, Median |
+| 1 | 1.1% | 1.1% |  |
 | 2 | 0% | 0% |  |
 
 

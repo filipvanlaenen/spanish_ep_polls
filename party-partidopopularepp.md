@@ -634,9 +634,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 17–21 | 16–21 | 16–22 | 15–23 |
 | [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
-| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 19 | 19–22 | 18–22 | 18–23 | 18–23 |
+| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 20 | 20–22 | 20–22 | 19–22 | 19–23 |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
-| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 18–21 | 18–21 | 18–22 | 17–22 |
+| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 19–20 | 19–21 | 19–22 | 17–22 |
 | [3–6 April 2023](2023-04-06-NCReport.html) | NC Report <br> La Razón | 20 | 19–22 | 18–22 | 18–23 | 17–23 |
 | [3–5 April 2023](2023-04-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
 | [1–2 April 2023](2023-04-02-Data10.html) | Data10 <br> OKDiario | 19 | 18–20 | 18–21 | 18–21 | 17–21 |
@@ -1224,12 +1224,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0.9% | 99.9% |  |
 | 16 | 5% | 99.0% |  |
 | 17 | 12% | 94% |  |
-| 18 | 21% | 81% |  |
-| 19 | 27% | 60% | Median |
-| 20 | 18% | 33% |  |
-| 21 | 10% | 15% |  |
-| 22 | 3% | 5% |  |
-| 23 | 1.1% | 1.4% |  |
+| 18 | 18% | 82% |  |
+| 19 | 26% | 64% | Median |
+| 20 | 27% | 38% |  |
+| 21 | 6% | 11% |  |
+| 22 | 3% | 4% |  |
+| 23 | 0.8% | 1.1% |  |
 | 24 | 0.3% | 0.3% |  |
 | 25 | 0% | 0% |  |
 

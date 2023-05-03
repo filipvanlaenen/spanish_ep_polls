@@ -610,11 +610,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–8 | 4–8 | 4–8 | 4–9 |
+| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 4–8 | 3–9 |
 | [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
+| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 6 | 6 | 5–6 | 4–7 | 4–8 |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 6 | 5–6 | 4–7 | 4–7 | 4–8 |
-| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [3–6 April 2023](2023-04-06-NCReport.html) | NC Report <br> La Razón | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [3–5 April 2023](2023-04-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [1–2 April 2023](2023-04-02-Data10.html) | Data10 <br> OKDiario | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -1187,10 +1187,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.3% | 100% |  |
-| 4 | 14% | 99.7% |  |
-| 5 | 36% | 86% | Median |
-| 6 | 24% | 49% |  |
+| 3 | 0.6% | 100% |  |
+| 4 | 15% | 99.4% |  |
+| 5 | 29% | 85% |  |
+| 6 | 30% | 55% | Median |
 | 7 | 14% | 25% |  |
 | 8 | 10% | 11% |  |
 | 9 | 0.7% | 0.7% |  |

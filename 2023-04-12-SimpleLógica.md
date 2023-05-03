@@ -14,7 +14,7 @@
 | Partido Socialista Obrero Español (S&D) | 0.0% | 26.1% | 24.0–28.4% |23.4–29.1% |22.9–29.6% |21.9–30.7% |
 | Vox (ECR) | 0.0% | 15.4% | 13.7–17.3% |13.3–17.9% |12.8–18.4% |12.1–19.3% |
 | Sumar (GUE/NGL) | 0.0% | 9.7% | 8.3–11.3% |8.0–11.8% |7.6–12.2% |7.0–13.0% |
-| Unidos Podemos (GUE/NGL) | 0.0% | 6.3% | 5.3–7.7% |5.0–8.1% |4.7–8.5% |4.3–9.2% |
+| Podemos (GUE/NGL) | 0.0% | 6.3% | 5.3–7.7% |5.0–8.1% |4.7–8.5% |4.3–9.2% |
 | Ciudadanos–Partido de la Ciudadanía (RE) | 0.0% | 2.0% | 1.4–2.9% |1.3–3.1% |1.2–3.3% |0.9–3.8% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -33,7 +33,7 @@
 | <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 16 | 14–17 |14–18 |14–18 |13–19 |
 | <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 9 | 8–10 |8–11 |7–11 |7–11 |
 | <a href="#sumar-(gue/ngl)">Sumar (GUE/NGL)</a> | 0 | 6 | 5–6 |4–7 |4–7 |4–8 |
-| <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | 3 | 3–4 |3–5 |2–5 |2–5 |
+| <a href="#podemos-(gue/ngl)">Podemos (GUE/NGL)</a> | 0 | 3 | 3–4 |3–5 |2–5 |2–5 |
 | <a href="#ciudadanos–partido-de-la-ciudadanía-(re)">Ciudadanos–Partido de la Ciudadanía (RE)</a> | 0 | 1 | 0–1 |0–1 |0–2 |0–2 |
 
 ### Partido Popular (EPP)
@@ -140,11 +140,11 @@
 | 8 | 0.6% | 0.6% |  |
 | 9 | 0% | 0% |  |
 
-### Unidos Podemos (GUE/NGL)
+### Podemos (GUE/NGL)
 
-*For a full overview of the results for this party, see the [Unidos Podemos (GUE/NGL)](party-unidospodemosguengl.html) page.*
+*For a full overview of the results for this party, see the [Podemos (GUE/NGL)](party-podemosguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2023-04-12-SimpleLógica-seats-pmf-unidospodemosguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-04-12-SimpleLógica-seats-pmf-podemosguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

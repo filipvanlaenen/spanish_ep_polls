@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 5.1–11.2% | 4.7–12.0% | 4.4–12.4% | 3.9–13.1% |
+| N/A | [Poll Average](average.html) | 10.2% | 8.2–12.2% | 7.8–12.6% | 7.4–12.9% | 6.7–13.5% |
 | [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
-| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0.0% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
-| [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | 5.3–7.7% | 5.0–8.1% | 4.7–8.5% | 4.3–9.2% |
-| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | 7.0–9.3% | 6.6–9.6% | 6.4–10.0% | 5.9–10.6% |
-| [3–6 April 2023](2023-04-06-NCReport.html) | NC Report <br> La Razón | 0.0% | 4.2–6.4% | 3.9–6.8% | 3.7–7.1% | 3.3–7.8% |
-| [3–5 April 2023](2023-04-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | 4.9–6.3% | 4.7–6.5% | 4.5–6.7% | 4.3–7.1% |
-| [1–2 April 2023](2023-04-02-Data10.html) | Data10 <br> OKDiario | 0.0% | 6.3–8.1% | 6.1–8.3% | 5.9–8.6% | 5.6–9.0% |
+| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0.0% | N/A | N/A | N/A | N/A |
+| [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
+| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
+| [3–6 April 2023](2023-04-06-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
+| [3–5 April 2023](2023-04-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [1–2 April 2023](2023-04-02-Data10.html) | Data10 <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
 | [24–27 March 2023](2023-03-27-40dB.html) | 40dB <br> Prisa | 11.8% | 10.9–12.8% | 10.7–13.0% | 10.5–13.3% | 10.0–13.8% |
 | [20–24 March 2023](2023-03-24-InvyMark.html) | InvyMark <br> laSexta | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
 | [22–24 March 2023](2023-03-24-GAD3.html) | GAD3 <br> ABC | 8.8% | 7.5–10.4% | 7.2–10.9% | 6.9–11.2% | 6.3–12.1% |
@@ -585,18 +585,18 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 3% | 99.8% |  |
-| 4.5–5.5% | 16% | 97% |  |
-| 5.5–6.5% | 20% | 81% |  |
-| 6.5–7.5% | 16% | 61% | Median |
-| 7.5–8.5% | 13% | 45% |  |
-| 8.5–9.5% | 10% | 32% |  |
-| 9.5–10.5% | 8% | 22% |  |
-| 10.5–11.5% | 6% | 14% |  |
-| 11.5–12.5% | 6% | 8% |  |
-| 12.5–13.5% | 2% | 2% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0.3% | 100% |  |
+| 6.5–7.5% | 3% | 99.7% |  |
+| 7.5–8.5% | 11% | 97% |  |
+| 8.5–9.5% | 22% | 85% |  |
+| 9.5–10.5% | 21% | 64% | Median |
+| 10.5–11.5% | 19% | 43% |  |
+| 11.5–12.5% | 18% | 23% |  |
+| 12.5–13.5% | 5% | 6% |  |
+| 13.5–14.5% | 0.4% | 0.4% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -608,14 +608,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–7 | 3–7 | 2–7 | 2–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
-| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
-| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
-| [3–6 April 2023](2023-04-06-NCReport.html) | NC Report <br> La Razón | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [3–5 April 2023](2023-04-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
-| [1–2 April 2023](2023-04-02-Data10.html) | Data10 <br> OKDiario | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli |  |  |  |  |  |
+| [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
+| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [3–6 April 2023](2023-04-06-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [3–5 April 2023](2023-04-05-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [1–2 April 2023](2023-04-02-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [24–27 March 2023](2023-03-27-40dB.html) | 40dB <br> Prisa | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [20–24 March 2023](2023-03-24-InvyMark.html) | InvyMark <br> laSexta | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [22–24 March 2023](2023-03-24-GAD3.html) | GAD3 <br> ABC | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
@@ -1184,13 +1184,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 5% | 100% |  |
-| 3 | 28% | 95% |  |
-| 4 | 24% | 67% | Median |
-| 5 | 20% | 43% |  |
-| 6 | 12% | 23% |  |
-| 7 | 9% | 11% |  |
-| 8 | 1.2% | 1.2% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 4% | 99.8% |  |
+| 5 | 32% | 96% |  |
+| 6 | 32% | 64% | Median |
+| 7 | 28% | 32% |  |
+| 8 | 3% | 4% |  |
 | 9 | 0% | 0% |  |
 
 

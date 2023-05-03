@@ -626,11 +626,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–18 | 12–18 | 11–19 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–18 | 12–18 | 12–19 |
 | [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
-| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
+| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 15 | 14–15 | 13–15 | 13–15 | 12–16 |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
-| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
+| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–15 | 14–16 | 13–16 | 12–18 |
 | [3–6 April 2023](2023-04-06-NCReport.html) | NC Report <br> La Razón | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [3–5 April 2023](2023-04-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 13–15 | 13–16 | 13–16 | 13–16 |
 | [1–2 April 2023](2023-04-02-Data10.html) | Data10 <br> OKDiario | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
@@ -1211,13 +1211,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.5% | 100% |  |
+| 11 | 0.4% | 100% |  |
 | 12 | 3% | 99.5% |  |
-| 13 | 12% | 96% |  |
-| 14 | 22% | 84% |  |
-| 15 | 21% | 62% | Median |
-| 16 | 19% | 41% |  |
-| 17 | 14% | 22% |  |
+| 13 | 11% | 97% |  |
+| 14 | 22% | 86% |  |
+| 15 | 26% | 64% | Median |
+| 16 | 17% | 38% |  |
+| 17 | 13% | 22% |  |
 | 18 | 7% | 8% |  |
 | 19 | 0.6% | 1.0% |  |
 | 20 | 0.4% | 0.4% |  |
