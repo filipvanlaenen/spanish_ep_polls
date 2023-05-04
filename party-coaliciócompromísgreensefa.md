@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.5–3.7% | 1.3–3.9% | 1.1–4.1% | 0.9–4.5% |
+| N/A | [Poll Average](average.html) | 2.9% | 1.5–3.7% | 1.3–3.9% | 1.1–4.0% | 0.9–4.4% |
 | [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0.0% | N/A | N/A | N/A | N/A |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
@@ -19,7 +19,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [3–5 April 2023](2023-04-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
 | [1–2 April 2023](2023-04-02-Data10.html) | Data10 <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
 | [24–27 March 2023](2023-03-27-40dB.html) | 40dB <br> Prisa | 3.2% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% | 2.3–4.4% |
-| [20–24 March 2023](2023-03-24-InvyMark.html) | InvyMark <br> laSexta | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
+| [20–24 March 2023](2023-03-24-InvyMark.html) | InvyMark <br> laSexta | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.2–4.2% | 2.0–4.6% |
 | [22–24 March 2023](2023-03-24-GAD3.html) | GAD3 <br> ABC | 1.7% | 1.2–2.5% | 1.1–2.8% | 0.9–3.0% | 0.7–3.4% |
 | [23–24 March 2023](2023-03-24-DYM.html) | DYM <br> Henneo | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [21–23 March 2023](2023-03-23-Data10.html) | Data10 <br> OKDiario | 2.7% | 2.3–3.4% | 2.1–3.5% | 2.0–3.7% | 1.8–4.0% |
@@ -585,9 +585,9 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 11% | 100% |  |
 | 1.5–2.5% | 24% | 89% |  |
-| 2.5–3.5% | 49% | 65% | Median |
-| 3.5–4.5% | 15% | 16% |  |
-| 4.5–5.5% | 0.5% | 0.5% |  |
+| 2.5–3.5% | 51% | 65% | Median |
+| 3.5–4.5% | 14% | 14% |  |
+| 4.5–5.5% | 0.3% | 0.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -1174,9 +1174,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 8% | 100% | Last Result |
-| 1 | 58% | 92% | Median |
-| 2 | 33% | 34% |  |
-| 3 | 0.2% | 0.2% |  |
+| 1 | 59% | 92% | Median |
+| 2 | 33% | 33% |  |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 

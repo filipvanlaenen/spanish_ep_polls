@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.9% | 27.9–33.6% | 27.1–34.4% | 26.5–35.1% | 25.3–36.5% |
+| N/A | [Poll Average](average.html) | 30.9% | 27.9–33.6% | 27.2–34.4% | 26.5–35.1% | 25.3–36.5% |
 | [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 30.6% | 28.7–32.5% | 28.2–33.0% | 27.8–33.5% | 26.9–34.4% |
 | [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 32.2% | 30.3–34.1% | 29.8–34.7% | 29.4–35.2% | 28.5–36.1% |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 28.1% | 25.9–30.4% | 25.3–31.1% | 24.8–31.7% | 23.8–32.8% |
@@ -19,7 +19,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [3–5 April 2023](2023-04-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 30.2% | 28.8–31.6% | 28.4–32.0% | 28.1–32.4% | 27.4–33.1% |
 | [1–2 April 2023](2023-04-02-Data10.html) | Data10 <br> OKDiario | 31.9% | 30.4–33.5% | 30.0–34.0% | 29.6–34.3% | 28.9–35.1% |
 | [24–27 March 2023](2023-03-27-40dB.html) | 40dB <br> Prisa | 28.0% | 26.7–29.3% | 26.4–29.7% | 26.1–30.0% | 25.5–30.7% |
-| [20–24 March 2023](2023-03-24-InvyMark.html) | InvyMark <br> laSexta | 30.4% | 28.6–32.3% | 28.1–32.9% | 27.6–33.3% | 26.8–34.3% |
+| [20–24 March 2023](2023-03-24-InvyMark.html) | InvyMark <br> laSexta | 30.4% | 28.7–32.2% | 28.3–32.7% | 27.9–33.1% | 27.1–33.9% |
 | [22–24 March 2023](2023-03-24-GAD3.html) | GAD3 <br> ABC | 32.4% | 30.1–34.8% | 29.5–35.5% | 28.9–36.1% | 27.9–37.3% |
 | [23–24 March 2023](2023-03-24-DYM.html) | DYM <br> Henneo | 30.7% | 28.8–32.6% | 28.3–33.1% | 27.9–33.6% | 27.0–34.5% |
 | [21–23 March 2023](2023-03-23-Data10.html) | Data10 <br> OKDiario | 31.8% | 30.3–33.4% | 29.9–33.8% | 29.5–34.2% | 28.8–35.0% |
@@ -610,7 +610,7 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 0.5% | 99.8% |  |
 | 25.5–26.5% | 2% | 99.3% |  |
 | 26.5–27.5% | 5% | 97% |  |
-| 27.5–28.5% | 9% | 92% |  |
+| 27.5–28.5% | 8% | 93% |  |
 | 28.5–29.5% | 12% | 84% |  |
 | 29.5–30.5% | 16% | 72% |  |
 | 30.5–31.5% | 18% | 56% | Median |

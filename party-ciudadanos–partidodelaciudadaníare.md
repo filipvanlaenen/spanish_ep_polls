@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.1–3.0% | 0.9–3.2% | 0.7–3.4% | 0.5–3.8% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.1–3.0% | 0.9–3.2% | 0.8–3.4% | 0.6–3.8% |
 | [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 2.0% | 1.4–2.9% | 1.3–3.1% | 1.2–3.3% | 0.9–3.8% |
@@ -19,7 +19,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [3–5 April 2023](2023-04-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% |
 | [1–2 April 2023](2023-04-02-Data10.html) | Data10 <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
 | [24–27 March 2023](2023-03-27-40dB.html) | 40dB <br> Prisa | 2.9% | 2.5–3.4% | 2.3–3.6% | 2.2–3.7% | 2.1–4.0% |
-| [20–24 March 2023](2023-03-24-InvyMark.html) | InvyMark <br> laSexta | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
+| [20–24 March 2023](2023-03-24-InvyMark.html) | InvyMark <br> laSexta | 0.9% | 0.6–1.4% | 0.6–1.5% | 0.5–1.6% | 0.4–1.9% |
 | [22–24 March 2023](2023-03-24-GAD3.html) | GAD3 <br> ABC | 1.7% | 1.2–2.5% | 1.1–2.8% | 0.9–3.0% | 0.7–3.4% |
 | [23–24 March 2023](2023-03-24-DYM.html) | DYM <br> Henneo | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [21–23 March 2023](2023-03-23-Data10.html) | Data10 <br> OKDiario | 1.9% | 1.5–2.5% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% |
@@ -582,9 +582,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.6% | 100% | Last Result |
-| 0.5–1.5% | 26% | 99.4% |  |
-| 1.5–2.5% | 50% | 74% | Median |
+| 0.0–0.5% | 0.4% | 100% | Last Result |
+| 0.5–1.5% | 26% | 99.6% |  |
+| 1.5–2.5% | 49% | 73% | Median |
 | 2.5–3.5% | 22% | 24% |  |
 | 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0% | 0% |  |

@@ -272,7 +272,6 @@
 | Partido Popular (EPP) | 0 | 21 | 0% | 19–22 | 19–23 | 19–23 | 18–23 |
 | Partido Socialista Obrero Español (S&D) | 0 | 16 | 0% | 14–17 | 14–17 | 14–19 | 13–19 |
 | Vox (ECR) | 0 | 9 | 0% | 8–9 | 7–10 | 7–11 | 7–11 |
-| Partit Demòcrata Europeu Català (NI) | 0 | 1 | 0% | 1 | 0–2 | 0–2 | 0–2 |
 
 ### Partido Popular (EPP)
 
@@ -355,17 +354,6 @@
 | 11 | 3% | 3% |  |
 | 12 | 0.3% | 0.3% |  |
 | 13 | 0% | 0% |  |
-
-### Partit Demòcrata Europeu Català (NI)
-
-![Graph with seats probability mass function not yet produced](2023-03-06-Celeste-Tel-coalitions-seats-pmf-pdecat.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 88% | 94% | Median |
-| 2 | 6% | 6% |  |
-| 3 | 0% | 0% |  |
 
 
 ## Technical Information
