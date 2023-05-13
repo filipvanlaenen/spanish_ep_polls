@@ -10,8 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.1% | 0.3–1.3% | 0.3–1.4% | 0.2–1.8% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.1% | 0.3–1.2% | 0.3–1.4% | 0.2–1.7% |
+| [6 May 2023](2023-05-06-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
+| [2–5 May 2023](2023-05-05-SocioMétrica.html) | SocioMétrica <br> El Español | 0.6% | 0.3–1.0% | 0.3–1.2% | 0.2–1.3% | 0.2–1.6% |
+| [24–28 April 2023](2023-04-28-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [24–27 April 2023](2023-04-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [25–27 April 2023](2023-04-27-Data10.html) | Data10 <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
+| [21–25 April 2023](2023-04-25-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [17–21 April 2023](2023-04-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.7% | N/A | N/A | N/A | N/A |
 | [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 0.6% | 0.3–1.0% | 0.3–1.2% | 0.2–1.3% | 0.2–1.6% |
@@ -582,9 +589,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 29% | 100% | Last Result |
-| 0.5–1.5% | 70% | 71% | Median |
-| 1.5–2.5% | 1.4% | 1.4% |  |
+| 0.0–0.5% | 28% | 100% | Last Result |
+| 0.5–1.5% | 71% | 72% | Median |
+| 1.5–2.5% | 0.9% | 0.9% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -596,8 +603,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [6 May 2023](2023-05-06-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [2–5 May 2023](2023-05-05-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
+| [24–28 April 2023](2023-04-28-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
+| [24–27 April 2023](2023-04-27-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [25–27 April 2023](2023-04-27-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [21–25 April 2023](2023-04-25-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [17–21 April 2023](2023-04-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
 | [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0 | 0 | 0 | 0 | 0 |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
@@ -1170,8 +1184,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.9% | 100% | Last Result, Median |
-| 1 | 1.1% | 1.1% |  |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0.2% | 0.2% |  |
 | 2 | 0% | 0% |  |
 
 
