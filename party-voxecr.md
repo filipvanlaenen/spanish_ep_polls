@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.7% | 13.1–16.6% | 12.6–17.2% | 12.2–17.7% | 11.3–18.6% |
+| N/A | [Poll Average](average.html) | 14.7% | 13.1–16.6% | 12.6–17.1% | 12.2–17.6% | 11.4–18.6% |
 | [6 May 2023](2023-05-06-NCReport.html) | NC Report <br> La Razón | 13.5% | 11.9–15.3% | 11.5–15.9% | 11.1–16.3% | 10.4–17.2% |
 | [2–5 May 2023](2023-05-05-SocioMétrica.html) | SocioMétrica <br> El Español | 16.0% | 14.5–17.7% | 14.1–18.1% | 13.7–18.5% | 13.1–19.4% |
 | [24–28 April 2023](2023-04-28-InvyMark.html) | InvyMark <br> laSexta | 14.0% | 12.8–15.4% | 12.4–15.7% | 12.1–16.1% | 11.6–16.8% |
@@ -18,7 +18,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [25–27 April 2023](2023-04-27-Data10.html) | Data10 <br> OKDiario | 15.2% | 14.1–16.4% | 13.7–16.8% | 13.5–17.1% | 12.9–17.7% |
 | [21–25 April 2023](2023-04-25-40dB.html) | 40dB <br> Prisa | 14.5% | 13.5–15.6% | 13.3–15.9% | 13.0–16.1% | 12.6–16.6% |
 | [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 14.6% | 13.2–16.1% | 12.9–16.5% | 12.5–16.9% | 11.9–17.6% |
-| [17–21 April 2023](2023-04-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 14.6% | N/A | N/A | N/A | N/A |
+| [17–21 April 2023](2023-04-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 14.6% | 13.0–16.4% | 12.5–16.9% | 12.2–17.4% | 11.4–18.3% |
 | [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 15.6% | 14.2–17.2% | 13.8–17.6% | 13.5–18.0% | 12.8–18.8% |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 15.4% | 13.7–17.3% | 13.3–17.9% | 12.8–18.4% | 12.1–19.3% |
 | [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 15.3% | 13.9–17.0% | 13.5–17.4% | 13.1–17.8% | 12.5–18.7% |
@@ -604,9 +604,9 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 4% | 99.3% |  |
 | 12.5–13.5% | 14% | 96% |  |
 | 13.5–14.5% | 27% | 81% |  |
-| 14.5–15.5% | 27% | 55% | Median |
+| 14.5–15.5% | 27% | 54% | Median |
 | 15.5–16.5% | 17% | 28% |  |
-| 16.5–17.5% | 8% | 11% |  |
+| 16.5–17.5% | 7% | 10% |  |
 | 17.5–18.5% | 2% | 3% |  |
 | 18.5–19.5% | 0.5% | 0.6% |  |
 | 19.5–20.5% | 0.1% | 0.1% |  |
@@ -621,7 +621,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 7–10 | 7–10 | 6–11 |
 | [6 May 2023](2023-05-06-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
 | [2–5 May 2023](2023-05-05-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [24–28 April 2023](2023-04-28-InvyMark.html) | InvyMark <br> laSexta | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
@@ -629,7 +629,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–27 April 2023](2023-04-27-Data10.html) | Data10 <br> OKDiario | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [21–25 April 2023](2023-04-25-40dB.html) | 40dB <br> Prisa | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 9 | 8–10 | 7–10 | 7–10 | 7–10 |
-| [17–21 April 2023](2023-04-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [17–21 April 2023](2023-04-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 9 | 8–10 | 8–10 | 6–10 | 6–10 |
 | [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 9 | 9 | 9–10 | 8–12 | 8–12 |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 9 | 8–10 | 8–11 | 7–11 | 7–11 |
 | [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 9–10 | 9–11 | 8–11 | 8–12 |
@@ -1208,12 +1208,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.4% | 100% |  |
-| 7 | 6% | 99.5% |  |
-| 8 | 32% | 93% |  |
-| 9 | 49% | 62% | Median |
-| 10 | 11% | 13% |  |
-| 11 | 1.2% | 2% |  |
+| 6 | 0.7% | 100% |  |
+| 7 | 6% | 99.3% |  |
+| 8 | 32% | 94% |  |
+| 9 | 46% | 61% | Median |
+| 10 | 14% | 16% |  |
+| 11 | 1.1% | 1.5% |  |
 | 12 | 0.4% | 0.4% |  |
 | 13 | 0% | 0% |  |
 

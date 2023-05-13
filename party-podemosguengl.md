@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 5.0–7.5% | 4.6–7.8% | 4.2–8.1% | 3.6–8.8% |
+| N/A | [Poll Average](average.html) | 6.1% | 4.8–7.4% | 4.4–7.8% | 4.1–8.1% | 3.6–8.7% |
 | [6 May 2023](2023-05-06-NCReport.html) | NC Report <br> La Razón | 4.8% | 3.9–6.1% | 3.7–6.5% | 3.5–6.8% | 3.1–7.4% |
 | [2–5 May 2023](2023-05-05-SocioMétrica.html) | SocioMétrica <br> El Español | 6.7% | 5.7–7.9% | 5.4–8.2% | 5.2–8.5% | 4.8–9.1% |
 | [24–28 April 2023](2023-04-28-InvyMark.html) | InvyMark <br> laSexta | 5.6% | 4.8–6.5% | 4.6–6.8% | 4.4–7.0% | 4.1–7.5% |
@@ -18,7 +18,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [25–27 April 2023](2023-04-27-Data10.html) | Data10 <br> OKDiario | 6.7% | 6.0–7.6% | 5.7–7.9% | 5.6–8.1% | 5.2–8.6% |
 | [21–25 April 2023](2023-04-25-40dB.html) | 40dB <br> Prisa | 6.9% | 6.2–7.7% | 6.0–7.9% | 5.9–8.1% | 5.5–8.5% |
 | [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 6.8% | 5.9–8.0% | 5.7–8.3% | 5.4–8.6% | 5.0–9.2% |
-| [17–21 April 2023](2023-04-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 5.2% | N/A | N/A | N/A | N/A |
+| [17–21 April 2023](2023-04-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 5.2% | 4.3–6.4% | 4.0–6.8% | 3.8–7.1% | 3.4–7.7% |
 | [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 5.6% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 6.3% | 5.3–7.7% | 5.0–8.1% | 4.7–8.5% | 4.3–9.2% |
 | [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 8.0% | 7.0–9.3% | 6.6–9.6% | 6.4–10.0% | 5.9–10.6% |
@@ -593,13 +593,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.4% | 100% |  |
-| 3.5–4.5% | 4% | 99.6% |  |
-| 4.5–5.5% | 19% | 95% |  |
-| 5.5–6.5% | 37% | 76% | Median |
-| 6.5–7.5% | 29% | 38% |  |
-| 7.5–8.5% | 8% | 9% |  |
-| 8.5–9.5% | 0.8% | 0.9% |  |
-| 9.5–10.5% | 0% | 0.1% |  |
+| 3.5–4.5% | 6% | 99.6% |  |
+| 4.5–5.5% | 22% | 94% |  |
+| 5.5–6.5% | 37% | 72% | Median |
+| 6.5–7.5% | 27% | 35% |  |
+| 7.5–8.5% | 7% | 8% |  |
+| 8.5–9.5% | 0.7% | 0.8% |  |
+| 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -619,7 +619,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–27 April 2023](2023-04-27-Data10.html) | Data10 <br> OKDiario | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [21–25 April 2023](2023-04-25-40dB.html) | 40dB <br> Prisa | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| [17–21 April 2023](2023-04-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [17–21 April 2023](2023-04-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 4 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
 | [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 5–6 | 4–6 | 4–6 | 3–6 |
@@ -1194,9 +1194,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.1% | 100% |  |
-| 2 | 6% | 99.9% |  |
-| 3 | 37% | 94% |  |
-| 4 | 50% | 57% | Median |
+| 2 | 7% | 99.9% |  |
+| 3 | 34% | 93% |  |
+| 4 | 52% | 59% | Median |
 | 5 | 7% | 7% |  |
 | 6 | 0% | 0% |  |
 
