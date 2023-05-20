@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.2–2.1% | 1.0–2.3% | 1.0–2.5% | 0.8–2.9% |
+| N/A | [Poll Average](average.html) | 1.5% | 0.9–2.1% | 0.8–2.3% | 0.8–2.5% | 0.6–2.8% |
+| [8–9 May 2023](2023-05-09-GAD3.html) | GAD3 <br> NIUS | 0.0% | N/A | N/A | N/A | N/A |
+| [3–8 May 2023](2023-05-08-CIS.html) | CIS | 0.9% | 0.7–1.1% | 0.7–1.2% | 0.6–1.2% | 0.6–1.4% |
 | [6 May 2023](2023-05-06-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [2–5 May 2023](2023-05-05-SocioMétrica.html) | SocioMétrica <br> El Español | 1.4% | 1.1–2.1% | 0.9–2.3% | 0.8–2.5% | 0.7–2.8% |
 | [24–28 April 2023](2023-04-28-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
@@ -589,9 +591,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 46% | 100% |  |
-| 1.5–2.5% | 52% | 54% | Median |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 55% | 99.9% |  |
+| 1.5–2.5% | 44% | 45% | Median |
 | 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -605,6 +607,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–9 May 2023](2023-05-09-GAD3.html) | GAD3 <br> NIUS |  |  |  |  |  |
+| [3–8 May 2023](2023-05-08-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [6 May 2023](2023-05-06-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [2–5 May 2023](2023-05-05-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–28 April 2023](2023-04-28-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
@@ -1185,8 +1189,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Last Result, Median |
-| 1 | 49% | 50% |  |
+| 0 | 59% | 100% | Last Result, Median |
+| 1 | 41% | 41% |  |
 | 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
