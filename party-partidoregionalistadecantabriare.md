@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–1.0% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [29 May–2 June 2023](2023-06-02-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [29–30 May 2023](2023-05-30-IMOP.html) | IMOP <br> El Confidencial | 0.0% | N/A | N/A | N/A | N/A |
+| [29 May 2023](2023-05-29-Data10.html) | Data10 <br> OKDiario | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
+| [3–11 May 2023](2023-05-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 May 2023](2023-05-09-GAD3.html) | GAD3 <br> NIUS | 0.0% | N/A | N/A | N/A | N/A |
 | [3–8 May 2023](2023-05-08-CIS.html) | CIS | 0.1% | 0.0–0.2% | 0.0–0.2% | 0.0–0.3% | 0.0–0.3% |
 | [6 May 2023](2023-05-06-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
@@ -591,8 +595,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 92% | 100% | Last Result, Median |
-| 0.5–1.5% | 8% | 8% |  |
+| 0.0–0.5% | 95% | 100% | Last Result, Median |
+| 0.5–1.5% | 5% | 5% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -605,6 +609,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [29 May–2 June 2023](2023-06-02-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
+| [29–30 May 2023](2023-05-30-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [29 May 2023](2023-05-29-Data10.html) | Data10 <br> OKDiario | 0 | 0 | 0 | 0 | 0 |
+| [3–11 May 2023](2023-05-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [8–9 May 2023](2023-05-09-GAD3.html) | GAD3 <br> NIUS |  |  |  |  |  |
 | [3–8 May 2023](2023-05-08-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [6 May 2023](2023-05-06-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |

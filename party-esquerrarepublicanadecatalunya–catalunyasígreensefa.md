@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.3–3.9% | 2.1–4.2% | 2.0–4.5% | 1.7–5.0% |
+| N/A | [Poll Average](average.html) | 2.6% | 2.1–3.4% | 1.9–3.7% | 1.8–4.0% | 1.5–4.7% |
+| [29 May–2 June 2023](2023-06-02-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [29–30 May 2023](2023-05-30-IMOP.html) | IMOP <br> El Confidencial | 2.5% | 2.0–3.3% | 1.8–3.6% | 1.7–3.7% | 1.4–4.2% |
+| [29 May 2023](2023-05-29-Data10.html) | Data10 <br> OKDiario | 2.5% | 2.1–3.1% | 2.0–3.3% | 1.8–3.5% | 1.6–3.8% |
+| [3–11 May 2023](2023-05-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 May 2023](2023-05-09-GAD3.html) | GAD3 <br> NIUS | 0.0% | N/A | N/A | N/A | N/A |
 | [3–8 May 2023](2023-05-08-CIS.html) | CIS | 2.4% | 2.1–2.8% | 2.0–2.9% | 2.0–2.9% | 1.8–3.1% |
 | [6 May 2023](2023-05-06-NCReport.html) | NC Report <br> La Razón | 3.0% | 2.3–4.1% | 2.1–4.4% | 2.0–4.6% | 1.7–5.2% |
@@ -561,7 +565,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [2–6 September 2019](2019-09-06-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
-| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4.3% | 3.5–5.1% | 3.3–5.3% | 3.1–5.5% | 2.9–6.0% |
+| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.1–5.5% | 2.9–6.0% |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.1–5.4% | 2.8–5.9% |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
@@ -592,13 +596,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 23% | 99.7% |  |
-| 2.5–3.5% | 54% | 76% | Median |
-| 3.5–4.5% | 20% | 22% |  |
-| 4.5–5.5% | 2% | 2% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.6% | 100% |  |
+| 1.5–2.5% | 46% | 99.4% |  |
+| 2.5–3.5% | 46% | 53% | Median |
+| 3.5–4.5% | 7% | 8% |  |
+| 4.5–5.5% | 0.6% | 0.6% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -610,6 +613,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [29 May–2 June 2023](2023-06-02-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
+| [29–30 May 2023](2023-05-30-IMOP.html) | IMOP <br> El Confidencial | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [29 May 2023](2023-05-29-Data10.html) | Data10 <br> OKDiario | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [3–11 May 2023](2023-05-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [8–9 May 2023](2023-05-09-GAD3.html) | GAD3 <br> NIUS |  |  |  |  |  |
 | [3–8 May 2023](2023-05-08-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1 |
 | [6 May 2023](2023-05-06-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -1192,10 +1199,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 58% | 99.9% | Median |
-| 2 | 41% | 42% |  |
-| 3 | 0.4% | 0.4% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 77% | 99.8% | Median |
+| 2 | 23% | 23% |  |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 

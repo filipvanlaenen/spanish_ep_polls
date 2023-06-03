@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.8–1.8% | 0.7–1.9% | 0.6–2.1% | 0.5–2.4% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.9% | 0.7–2.1% | 0.7–2.2% | 0.6–2.5% |
+| [29 May–2 June 2023](2023-06-02-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [29–30 May 2023](2023-05-30-IMOP.html) | IMOP <br> El Confidencial | 1.3% | 0.9–2.0% | 0.8–2.1% | 0.7–2.3% | 0.6–2.6% |
+| [29 May 2023](2023-05-29-Data10.html) | Data10 <br> OKDiario | 1.6% | 1.2–2.1% | 1.2–2.3% | 1.1–2.4% | 0.9–2.6% |
+| [3–11 May 2023](2023-05-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 May 2023](2023-05-09-GAD3.html) | GAD3 <br> NIUS | 0.0% | N/A | N/A | N/A | N/A |
 | [3–8 May 2023](2023-05-08-CIS.html) | CIS | 0.9% | 0.7–1.1% | 0.7–1.2% | 0.6–1.2% | 0.6–1.4% |
 | [6 May 2023](2023-05-06-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
@@ -561,7 +565,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [2–6 September 2019](2019-09-06-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
-| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1.0% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
+| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
@@ -591,10 +595,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.8% | 100% | Last Result |
-| 0.5–1.5% | 80% | 99.2% | Median |
-| 1.5–2.5% | 19% | 19% |  |
-| 2.5–3.5% | 0.2% | 0.3% |  |
+| 0.0–0.5% | 0.4% | 100% | Last Result |
+| 0.5–1.5% | 72% | 99.6% | Median |
+| 1.5–2.5% | 27% | 28% |  |
+| 2.5–3.5% | 0.4% | 0.4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -607,6 +611,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [29 May–2 June 2023](2023-06-02-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
+| [29–30 May 2023](2023-05-30-IMOP.html) | IMOP <br> El Confidencial | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [29 May 2023](2023-05-29-Data10.html) | Data10 <br> OKDiario | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–11 May 2023](2023-05-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [8–9 May 2023](2023-05-09-GAD3.html) | GAD3 <br> NIUS |  |  |  |  |  |
 | [3–8 May 2023](2023-05-08-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [6 May 2023](2023-05-06-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
@@ -1189,8 +1197,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Last Result, Median |
-| 1 | 29% | 29% |  |
+| 0 | 69% | 100% | Last Result, Median |
+| 1 | 31% | 31% |  |
 | 2 | 0% | 0% |  |
 
 
