@@ -10,8 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 0.3–2.6% | 0.2–2.8% | 0.1–3.1% | 0.1–3.6% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.3–2.4% | 0.2–2.6% | 0.1–2.7% | 0.1–2.9% |
+| [30 May–3 June 2023](2023-06-03-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
+| [30 May–3 June 2023](2023-06-03-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
+| [31 May–2 June 2023](2023-06-02-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
 | [29 May–2 June 2023](2023-06-02-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [1–2 June 2023](2023-06-02-Data10.html) | Data10 <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
+| [29 May–1 June 2023](2023-06-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [30 May–1 June 2023](2023-06-01-GESOP.html) | GESOP <br> Prensa Ibérica | 0.0% | N/A | N/A | N/A | N/A |
+| [31 May–1 June 2023](2023-06-01-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [29–30 May 2023](2023-05-30-IMOP.html) | IMOP <br> El Confidencial | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.0–1.0% |
 | [29 May 2023](2023-05-29-Data10.html) | Data10 <br> OKDiario | 1.4% | 1.1–1.9% | 1.0–2.0% | 0.9–2.1% | 0.8–2.4% |
 | [3–11 May 2023](2023-05-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 1.3% | 0.9–2.0% | 0.8–2.2% | 0.7–2.4% | 0.5–2.8% |
@@ -595,12 +602,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 15% | 100% | Last Result |
-| 0.5–1.5% | 34% | 85% |  |
-| 1.5–2.5% | 40% | 51% | Median |
-| 2.5–3.5% | 11% | 11% |  |
-| 3.5–4.5% | 0.6% | 0.6% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 22% | 100% | Last Result |
+| 0.5–1.5% | 35% | 78% | Median |
+| 1.5–2.5% | 38% | 43% |  |
+| 2.5–3.5% | 5% | 5% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -611,8 +617,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [30 May–3 June 2023](2023-06-03-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [30 May–3 June 2023](2023-06-03-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [31 May–2 June 2023](2023-06-02-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [29 May–2 June 2023](2023-06-02-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
+| [1–2 June 2023](2023-06-02-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [29 May–1 June 2023](2023-06-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [30 May–1 June 2023](2023-06-01-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
+| [31 May–1 June 2023](2023-06-01-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [29–30 May 2023](2023-05-30-IMOP.html) | IMOP <br> El Confidencial | 0 | 0 | 0 | 0 | 0 |
 | [29 May 2023](2023-05-29-Data10.html) | Data10 <br> OKDiario | 1 | 1 | 1 | 0–1 | 0–1 |
 | [3–11 May 2023](2023-05-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1198,9 +1211,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 60% | 60% | Median |
-| 2 | 0.2% | 0.2% |  |
-| 3 | 0% | 0% |  |
+| 0 | 59% | 100% | Last Result, Median |
+| 1 | 41% | 41% |  |
+| 2 | 0% | 0% |  |
 
 
