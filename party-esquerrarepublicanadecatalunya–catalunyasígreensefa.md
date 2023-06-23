@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.9–3.5% | 1.7–3.7% | 1.5–4.0% | 1.3–4.5% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.8–3.4% | 1.6–3.7% | 1.5–3.9% | 1.3–4.5% |
 | [12–15 June 2023](2023-06-15-IMOP.html) | IMOP <br> El Confidencial | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [12–15 June 2023](2023-06-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [12–14 June 2023](2023-06-14-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
@@ -19,9 +19,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1–8 June 2023](2023-06-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [5–8 June 2023](2023-06-08-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.0% | 2.5–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.2% |
 | [5–8 June 2023](2023-06-08-GAD3.html) | GAD3 <br> ABC | 2.3% | 1.8–2.9% | 1.7–3.0% | 1.6–3.2% | 1.4–3.5% |
-| [7–8 June 2023](2023-06-08-Data10.html) | Data10 <br> OKDiario | 2.6% | N/A | N/A | N/A | N/A |
+| [7–8 June 2023](2023-06-08-Data10.html) | Data10 <br> OKDiario | 2.6% | 2.1–3.2% | 2.0–3.4% | 1.9–3.5% | 1.7–3.9% |
 | [31 May–7 June 2023](2023-06-07-CISandSocioMétrica.html) | CIS and SocioMétrica | 0.0% | N/A | N/A | N/A | N/A |
-| [31 May–7 June 2023](2023-06-07-CIS.html) | CIS | 1.8% | N/A | N/A | N/A | N/A |
+| [31 May–7 June 2023](2023-06-07-CIS.html) | CIS | 1.8% | 1.6–2.0% | 1.6–2.1% | 1.5–2.1% | 1.4–2.2% |
 | [30 May–3 June 2023](2023-06-03-SocioMétrica.html) | SocioMétrica <br> El Español | 2.5% | 2.0–3.3% | 1.9–3.5% | 1.8–3.6% | 1.6–4.0% |
 | [30 May–3 June 2023](2023-06-03-NCReport.html) | NC Report <br> La Razón | 3.1% | 2.3–4.1% | 2.1–4.4% | 2.0–4.7% | 1.7–5.2% |
 | [31 May–2 June 2023](2023-06-02-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
@@ -615,10 +615,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 45% | 97% |  |
-| 2.5–3.5% | 44% | 52% | Median |
-| 3.5–4.5% | 7% | 8% |  |
-| 4.5–5.5% | 0.5% | 0.5% |  |
+| 1.5–2.5% | 50% | 97% |  |
+| 2.5–3.5% | 41% | 47% | Median |
+| 3.5–4.5% | 6% | 6% |  |
+| 4.5–5.5% | 0.4% | 0.4% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -639,9 +639,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–8 June 2023](2023-06-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [5–8 June 2023](2023-06-08-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–8 June 2023](2023-06-08-GAD3.html) | GAD3 <br> ABC | 1 | 1 | 1 | 1 | 0–2 |
-| [7–8 June 2023](2023-06-08-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [7–8 June 2023](2023-06-08-Data10.html) | Data10 <br> OKDiario | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [31 May–7 June 2023](2023-06-07-CISandSocioMétrica.html) | CIS and SocioMétrica |  |  |  |  |  |
-| [31 May–7 June 2023](2023-06-07-CIS.html) | CIS |  |  |  |  |  |
+| [31 May–7 June 2023](2023-06-07-CIS.html) | CIS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 May–3 June 2023](2023-06-03-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [30 May–3 June 2023](2023-06-03-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [31 May–2 June 2023](2023-06-02-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
@@ -1235,10 +1235,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 70% | 97% | Median |
-| 2 | 26% | 27% |  |
-| 3 | 0.4% | 0.4% |  |
+| 0 | 4% | 100% | Last Result |
+| 1 | 73% | 96% | Median |
+| 2 | 23% | 23% |  |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 

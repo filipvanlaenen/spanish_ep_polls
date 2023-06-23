@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.2% | 12.1–16.1% | 11.6–16.6% | 11.2–17.1% | 10.6–18.0% |
+| N/A | [Poll Average](average.html) | 14.3% | 11.5–16.2% | 10.8–16.7% | 10.4–17.1% | 10.1–17.9% |
 | [12–15 June 2023](2023-06-15-IMOP.html) | IMOP <br> El Confidencial | 14.9% | 13.5–16.4% | 13.1–16.8% | 12.8–17.2% | 12.2–18.0% |
 | [12–15 June 2023](2023-06-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
 | [12–14 June 2023](2023-06-14-40dB.html) | 40dB <br> Prisa | 13.8% | 12.8–14.8% | 12.6–15.1% | 12.3–15.4% | 11.9–15.9% |
@@ -19,9 +19,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1–8 June 2023](2023-06-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 14.1% | 12.5–15.8% | 12.1–16.3% | 11.8–16.7% | 11.1–17.6% |
 | [5–8 June 2023](2023-06-08-SigmaDos.html) | Sigma Dos <br> El Mundo | 11.9% | 11.0–13.0% | 10.7–13.3% | 10.5–13.5% | 10.0–14.1% |
 | [5–8 June 2023](2023-06-08-GAD3.html) | GAD3 <br> ABC | 12.4% | 11.3–13.6% | 11.0–13.9% | 10.8–14.2% | 10.3–14.8% |
-| [7–8 June 2023](2023-06-08-Data10.html) | Data10 <br> OKDiario | 15.6% | N/A | N/A | N/A | N/A |
-| [31 May–7 June 2023](2023-06-07-CISandSocioMétrica.html) | CIS and SocioMétrica | 15.9% | N/A | N/A | N/A | N/A |
-| [31 May–7 June 2023](2023-06-07-CIS.html) | CIS | 10.6% | N/A | N/A | N/A | N/A |
+| [7–8 June 2023](2023-06-08-Data10.html) | Data10 <br> OKDiario | 15.6% | 14.4–16.9% | 14.1–17.2% | 13.8–17.5% | 13.3–18.2% |
+| [31 May–7 June 2023](2023-06-07-CISandSocioMétrica.html) | CIS and SocioMétrica | 15.9% | 15.4–16.5% | 15.2–16.6% | 15.1–16.8% | 14.8–17.0% |
+| [31 May–7 June 2023](2023-06-07-CIS.html) | CIS | 10.6% | 10.2–11.1% | 10.0–11.2% | 9.9–11.3% | 9.7–11.6% |
 | [30 May–3 June 2023](2023-06-03-SocioMétrica.html) | SocioMétrica <br> El Español | 16.1% | 14.8–17.6% | 14.4–18.0% | 14.1–18.4% | 13.5–19.1% |
 | [30 May–3 June 2023](2023-06-03-NCReport.html) | NC Report <br> La Razón | 14.4% | 12.7–16.2% | 12.3–16.8% | 11.9–17.3% | 11.1–18.2% |
 | [31 May–2 June 2023](2023-06-02-TargetPoint.html) | Target Point <br> El Debate | 13.6% | 12.0–15.5% | 11.5–16.0% | 11.1–16.4% | 10.4–17.4% |
@@ -623,16 +623,16 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.4% | 100% |  |
-| 10.5–11.5% | 4% | 99.6% |  |
-| 11.5–12.5% | 11% | 95% |  |
-| 12.5–13.5% | 19% | 84% |  |
-| 13.5–14.5% | 26% | 65% | Median |
-| 14.5–15.5% | 22% | 39% |  |
-| 15.5–16.5% | 12% | 18% |  |
-| 16.5–17.5% | 4% | 5% |  |
-| 17.5–18.5% | 1.0% | 1.2% |  |
-| 18.5–19.5% | 0.1% | 0.2% |  |
+| 9.5–10.5% | 3% | 100% |  |
+| 10.5–11.5% | 7% | 97% |  |
+| 11.5–12.5% | 9% | 90% |  |
+| 12.5–13.5% | 15% | 81% |  |
+| 13.5–14.5% | 21% | 65% | Median |
+| 14.5–15.5% | 21% | 44% |  |
+| 15.5–16.5% | 17% | 23% |  |
+| 16.5–17.5% | 5% | 6% |  |
+| 17.5–18.5% | 1.0% | 1.1% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -644,7 +644,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–10 | 7–10 | 6–11 |
+| N/A | [Poll Average](average.html) | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
 | [12–15 June 2023](2023-06-15-IMOP.html) | IMOP <br> El Confidencial | 9 | 9–10 | 8–10 | 8–11 | 8–11 |
 | [12–15 June 2023](2023-06-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
 | [12–14 June 2023](2023-06-14-40dB.html) | 40dB <br> Prisa | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
@@ -653,9 +653,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–8 June 2023](2023-06-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
 | [5–8 June 2023](2023-06-08-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [5–8 June 2023](2023-06-08-GAD3.html) | GAD3 <br> ABC | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
-| [7–8 June 2023](2023-06-08-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [31 May–7 June 2023](2023-06-07-CISandSocioMétrica.html) | CIS and SocioMétrica |  |  |  |  |  |
-| [31 May–7 June 2023](2023-06-07-CIS.html) | CIS |  |  |  |  |  |
+| [7–8 June 2023](2023-06-08-Data10.html) | Data10 <br> OKDiario | 9 | 9–10 | 9–10 | 9–11 | 9–11 |
+| [31 May–7 June 2023](2023-06-07-CISandSocioMétrica.html) | CIS and SocioMétrica | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
+| [31 May–7 June 2023](2023-06-07-CIS.html) | CIS | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [30 May–3 June 2023](2023-06-03-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 9–10 | 9–11 | 9–11 | 9–12 |
 | [30 May–3 June 2023](2023-06-03-NCReport.html) | NC Report <br> La Razón | 9 | 8–10 | 7–10 | 7–10 | 6–11 |
 | [31 May–2 June 2023](2023-06-02-TargetPoint.html) | Target Point <br> El Debate | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
@@ -1255,12 +1255,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 2% | 100% |  |
-| 7 | 19% | 98% |  |
-| 8 | 34% | 79% | Median |
-| 9 | 36% | 46% |  |
-| 10 | 9% | 10% |  |
-| 11 | 1.1% | 1.1% |  |
+| 6 | 4% | 100% |  |
+| 7 | 19% | 96% |  |
+| 8 | 27% | 77% | Median |
+| 9 | 39% | 50% |  |
+| 10 | 10% | 11% |  |
+| 11 | 1.1% | 1.2% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
