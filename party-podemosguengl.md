@@ -10,9 +10,16 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 1.7–5.7% | 1.5–6.0% | 1.4–6.3% | 1.2–6.8% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.5–2.6% | 1.3–2.8% | 1.2–2.9% | 1.0–3.3% |
+| [19–21 June 2023](2023-06-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.0% | N/A | N/A | N/A | N/A |
+| [16–19 June 2023](2023-06-19-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [10–17 June 2023](2023-06-17-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
+| [12–17 June 2023](2023-06-17-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
+| [8–16 June 2023](2023-06-16-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [12–16 June 2023](2023-06-16-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [12–15 June 2023](2023-06-15-IMOP.html) | IMOP <br> El Confidencial | 0.0% | N/A | N/A | N/A | N/A |
 | [12–15 June 2023](2023-06-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0.0% | N/A | N/A | N/A | N/A |
+| [14–15 June 2023](2023-06-15-Data10.html) | Data10 <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
 | [12–14 June 2023](2023-06-14-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [5–13 June 2023](2023-06-13-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 0.0% | N/A | N/A | N/A | N/A |
 | [8–10 June 2023](2023-06-10-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
@@ -614,14 +621,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 24% | 95% |  |
-| 2.5–3.5% | 8% | 70% |  |
-| 3.5–4.5% | 20% | 62% | Median |
-| 4.5–5.5% | 29% | 42% |  |
-| 5.5–6.5% | 12% | 13% |  |
-| 6.5–7.5% | 1.1% | 1.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.5–1.5% | 16% | 100% |  |
+| 1.5–2.5% | 73% | 84% | Median |
+| 2.5–3.5% | 11% | 11% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -632,9 +636,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| [19–21 June 2023](2023-06-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [16–19 June 2023](2023-06-19-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [10–17 June 2023](2023-06-17-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [12–17 June 2023](2023-06-17-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [8–16 June 2023](2023-06-16-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [12–16 June 2023](2023-06-16-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
 | [12–15 June 2023](2023-06-15-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [12–15 June 2023](2023-06-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli |  |  |  |  |  |
+| [14–15 June 2023](2023-06-15-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [12–14 June 2023](2023-06-14-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [5–13 June 2023](2023-06-13-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
 | [8–10 June 2023](2023-06-10-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
@@ -1237,11 +1248,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 32% | 97% |  |
-| 2 | 31% | 65% | Median |
-| 3 | 33% | 35% |  |
-| 4 | 1.5% | 1.5% |  |
-| 5 | 0% | 0% |  |
+| 0 | 8% | 100% | Last Result |
+| 1 | 91% | 92% | Median |
+| 2 | 1.0% | 1.0% |  |
+| 3 | 0% | 0% |  |
 
 
