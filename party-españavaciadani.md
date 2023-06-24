@@ -28,7 +28,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–8 June 2023](2023-06-08-GAD3.html) | GAD3 <br> ABC | 0.1% | 0.0–0.3% | 0.0–0.4% | 0.0–0.4% | 0.0–0.5% |
 | [7–8 June 2023](2023-06-08-Data10.html) | Data10 <br> OKDiario | 0.1% | N/A | N/A | N/A | N/A |
 | [31 May–7 June 2023](2023-06-07-CISandSocioMétrica.html) | CIS and SocioMétrica | 0.0% | N/A | N/A | N/A | N/A |
-| [31 May–7 June 2023](2023-06-07-CIS.html) | CIS | 0.1% | 0.0–0.1% | 0.0–0.3% | 0.0–0.3% | 0.0–0.3% |
+| [31 May–7 June 2023](2023-06-07-CIS.html) | CIS | 0.1% | 0.1–0.2% | 0.0–0.2% | 0.0–0.2% | 0.0–0.2% |
 | [30 May–3 June 2023](2023-06-03-SocioMétrica.html) | SocioMétrica <br> El Español | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [30 May–3 June 2023](2023-06-03-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [31 May–2 June 2023](2023-06-02-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
@@ -652,7 +652,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–8 June 2023](2023-06-08-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
 | [7–8 June 2023](2023-06-08-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [31 May–7 June 2023](2023-06-07-CISandSocioMétrica.html) | CIS and SocioMétrica |  |  |  |  |  |
-| [31 May–7 June 2023](2023-06-07-CIS.html) | CIS |  |  |  |  |  |
+| [31 May–7 June 2023](2023-06-07-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [30 May–3 June 2023](2023-06-03-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [30 May–3 June 2023](2023-06-03-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [31 May–2 June 2023](2023-06-02-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |

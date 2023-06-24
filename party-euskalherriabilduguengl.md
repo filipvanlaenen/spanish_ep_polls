@@ -28,7 +28,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–8 June 2023](2023-06-08-GAD3.html) | GAD3 <br> ABC | 1.4% | 1.1–1.9% | 1.0–2.1% | 0.9–2.2% | 0.8–2.5% |
 | [7–8 June 2023](2023-06-08-Data10.html) | Data10 <br> OKDiario | 1.6% | N/A | N/A | N/A | N/A |
 | [31 May–7 June 2023](2023-06-07-CISandSocioMétrica.html) | CIS and SocioMétrica | 0.0% | N/A | N/A | N/A | N/A |
-| [31 May–7 June 2023](2023-06-07-CIS.html) | CIS | 1.1% | 1.0–1.4% | 0.8–1.4% | 0.8–1.4% | 0.8–1.5% |
+| [31 May–7 June 2023](2023-06-07-CIS.html) | CIS | 1.1% | 0.9–1.3% | 0.9–1.3% | 0.9–1.4% | 0.8–1.4% |
 | [30 May–3 June 2023](2023-06-03-SocioMétrica.html) | SocioMétrica <br> El Español | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.8–2.7% |
 | [30 May–3 June 2023](2023-06-03-NCReport.html) | NC Report <br> La Razón | 1.4% | 0.9–2.2% | 0.8–2.4% | 0.7–2.6% | 0.6–3.0% |
 | [31 May–2 June 2023](2023-06-02-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
@@ -653,7 +653,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–8 June 2023](2023-06-08-GAD3.html) | GAD3 <br> ABC | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–8 June 2023](2023-06-08-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [31 May–7 June 2023](2023-06-07-CISandSocioMétrica.html) | CIS and SocioMétrica |  |  |  |  |  |
-| [31 May–7 June 2023](2023-06-07-CIS.html) | CIS |  |  |  |  |  |
+| [31 May–7 June 2023](2023-06-07-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [30 May–3 June 2023](2023-06-03-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 May–3 June 2023](2023-06-03-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [31 May–2 June 2023](2023-06-02-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
@@ -1247,8 +1247,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 56% | 100% | Last Result, Median |
-| 1 | 44% | 44% |  |
+| 0 | 60% | 100% | Last Result, Median |
+| 1 | 40% | 40% |  |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
