@@ -10,8 +10,25 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.8% | 0.0–1.0% | 0.0–1.2% | 0.0–1.6% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.1–1.0% | 0.1–1.2% | 0.0–1.4% | 0.0–1.7% |
+| [29 June–4 July 2023](2023-07-04-GAD3.html) | GAD3 <br> ABC | 0.1% | 0.0–0.3% | 0.0–0.4% | 0.0–0.4% | 0.0–0.5% |
+| [23 June–3 July 2023](2023-07-03-SigmaDos.html) | Sigma Dos <br> Antena 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [29 June–3 July 2023](2023-07-03-GAD3.html) | GAD3 <br> ABC | 0.1% | N/A | N/A | N/A | N/A |
+| [25 June–2 July 2023](2023-07-02-SocioMétrica.html) | SocioMétrica <br> El Español | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
+| [30 June–1 July 2023](2023-07-01-Cluster17.html) | Cluster17 <br> El Grand Continent | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% |
+| [26–30 June 2023](2023-06-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [26–30 June 2023](2023-06-30-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
+| [29–30 June 2023](2023-06-30-GAD3.html) | GAD3 <br> ABC | 0.1% | 0.1–0.6% | 0.0–0.7% | 0.0–0.8% | 0.0–1.1% |
+| [27–29 June 2023](2023-06-29-IMOP.html) | IMOP <br> El Confidencial | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.0% |
+| [28–29 June 2023](2023-06-29-Data10.html) | Data10 <br> OKDiario | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
+| [27–28 June 2023](2023-06-28-GAD3.html) | GAD3 <br> NIUS | 0.1% | N/A | N/A | N/A | N/A |
+| [16–26 June 2023](2023-06-26-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [23–26 June 2023](2023-06-26-CIS.html) | CIS | 0.1% | N/A | N/A | N/A | N/A |
+| [23–26 June 2023](2023-06-26-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
+| [18–25 June 2023](2023-06-25-SocioMétrica.html) | SocioMétrica <br> El Español | 0.8% | N/A | N/A | N/A | N/A |
+| [19–24 June 2023](2023-06-24-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [19–23 June 2023](2023-06-23-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [22–23 June 2023](2023-06-23-Data10.html) | Data10 <br> OKDiario | 0.1% | N/A | N/A | N/A | N/A |
 | [19–21 June 2023](2023-06-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.1% | 0.1–0.5% | 0.0–0.7% | 0.0–0.8% | 0.0–1.0% |
 | [16–19 June 2023](2023-06-19-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [10–17 June 2023](2023-06-17-SocioMétrica.html) | SocioMétrica <br> El Español | 0.8% | 0.5–1.3% | 0.4–1.5% | 0.4–1.6% | 0.2–2.0% |
@@ -35,6 +52,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [29 May–2 June 2023](2023-06-02-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [1–2 June 2023](2023-06-02-Data10.html) | Data10 <br> OKDiario | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
 | [29 May–1 June 2023](2023-06-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [30 May–1 June 2023](2023-06-01-GESOP.html) | GESOP <br> Prensa Ibérica | 0.0% | N/A | N/A | N/A | N/A |
 | [31 May–1 June 2023](2023-06-01-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [29–30 May 2023](2023-05-30-IMOP.html) | IMOP <br> El Confidencial | 0.0% | N/A | N/A | N/A | N/A |
 | [29 May 2023](2023-05-29-Data10.html) | Data10 <br> OKDiario | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
@@ -619,9 +637,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 82% | 100% | Last Result, Median |
-| 0.5–1.5% | 17% | 18% |  |
-| 1.5–2.5% | 0.6% | 0.6% |  |
+| 0.0–0.5% | 67% | 100% | Last Result, Median |
+| 0.5–1.5% | 31% | 33% |  |
+| 1.5–2.5% | 1.2% | 1.2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -633,8 +651,25 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [29 June–4 July 2023](2023-07-04-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
+| [23 June–3 July 2023](2023-07-03-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
+| [29 June–3 July 2023](2023-07-03-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [25 June–2 July 2023](2023-07-02-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0–1 |
+| [30 June–1 July 2023](2023-07-01-Cluster17.html) | Cluster17 <br> El Grand Continent | 0 | 0 | 0 | 0 | 0 |
+| [26–30 June 2023](2023-06-30-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [26–30 June 2023](2023-06-30-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [29–30 June 2023](2023-06-30-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
+| [27–29 June 2023](2023-06-29-IMOP.html) | IMOP <br> El Confidencial | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [28–29 June 2023](2023-06-29-Data10.html) | Data10 <br> OKDiario | 0 | 0 | 0 | 0 | 0 |
+| [27–28 June 2023](2023-06-28-GAD3.html) | GAD3 <br> NIUS |  |  |  |  |  |
+| [16–26 June 2023](2023-06-26-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [23–26 June 2023](2023-06-26-CIS.html) | CIS |  |  |  |  |  |
+| [23–26 June 2023](2023-06-26-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
+| [18–25 June 2023](2023-06-25-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [19–24 June 2023](2023-06-24-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [19–23 June 2023](2023-06-23-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
+| [22–23 June 2023](2023-06-23-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [19–21 June 2023](2023-06-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0 | 0 | 0 | 0 |
 | [16–19 June 2023](2023-06-19-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [10–17 June 2023](2023-06-17-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0–1 |
@@ -658,6 +693,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29 May–2 June 2023](2023-06-02-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
 | [1–2 June 2023](2023-06-02-Data10.html) | Data10 <br> OKDiario | 0 | 0 | 0 | 0 | 0 |
 | [29 May–1 June 2023](2023-06-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [30 May–1 June 2023](2023-06-01-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
 | [31 May–1 June 2023](2023-06-01-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [29–30 May 2023](2023-05-30-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [29 May 2023](2023-05-29-Data10.html) | Data10 <br> OKDiario | 0 | 0 | 0 | 0 | 0 |
@@ -1244,8 +1280,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 
 
