@@ -11,6 +11,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.3% | 0.1–1.3% | 0.1–1.7% | 0.1–1.9% | 0.0–2.3% |
+| [30 June–6 July 2023](2023-07-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [29 June–6 July 2023](2023-07-06-GAD3.html) | GAD3 <br> ABC | 0.1% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
+| [29 June–5 July 2023](2023-07-05-GAD3.html) | GAD3 <br> ABC | 0.1% | N/A | N/A | N/A | N/A |
+| [4–5 July 2023](2023-07-05-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [29 June–4 July 2023](2023-07-04-GAD3.html) | GAD3 <br> ABC | 0.1% | 0.0–0.3% | 0.0–0.4% | 0.0–0.4% | 0.0–0.5% |
 | [23 June–3 July 2023](2023-07-03-SigmaDos.html) | Sigma Dos <br> Antena 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [29 June–3 July 2023](2023-07-03-GAD3.html) | GAD3 <br> ABC | 0.1% | N/A | N/A | N/A | N/A |
@@ -23,9 +27,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [28–29 June 2023](2023-06-29-Data10.html) | Data10 <br> OKDiario | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
 | [27–28 June 2023](2023-06-28-GAD3.html) | GAD3 <br> NIUS | 0.1% | N/A | N/A | N/A | N/A |
 | [16–26 June 2023](2023-06-26-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
-| [23–26 June 2023](2023-06-26-CIS.html) | CIS | 0.0% | N/A | N/A | N/A | N/A |
 | [23–26 June 2023](2023-06-26-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
-| [18–25 June 2023](2023-06-25-SocioMétrica.html) | SocioMétrica <br> El Español | 0.2% | N/A | N/A | N/A | N/A |
+| [18–25 June 2023](2023-06-25-SocioMétrica.html) | SocioMétrica <br> El Español | 0.2% | 0.1–0.7% | 0.1–0.8% | 0.1–0.9% | 0.0–1.2% |
 | [19–24 June 2023](2023-06-24-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [19–23 June 2023](2023-06-23-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [22–23 June 2023](2023-06-23-Data10.html) | Data10 <br> OKDiario | 0.3% | N/A | N/A | N/A | N/A |
@@ -653,6 +656,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [30 June–6 July 2023](2023-07-06-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [29 June–6 July 2023](2023-07-06-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
+| [29 June–5 July 2023](2023-07-05-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [4–5 July 2023](2023-07-05-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [29 June–4 July 2023](2023-07-04-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
 | [23 June–3 July 2023](2023-07-03-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
 | [29 June–3 July 2023](2023-07-03-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
@@ -665,9 +672,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [28–29 June 2023](2023-06-29-Data10.html) | Data10 <br> OKDiario | 0 | 0 | 0 | 0 | 0 |
 | [27–28 June 2023](2023-06-28-GAD3.html) | GAD3 <br> NIUS |  |  |  |  |  |
 | [16–26 June 2023](2023-06-26-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
-| [23–26 June 2023](2023-06-26-CIS.html) | CIS |  |  |  |  |  |
 | [23–26 June 2023](2023-06-26-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [18–25 June 2023](2023-06-25-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [18–25 June 2023](2023-06-25-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
 | [19–24 June 2023](2023-06-24-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [19–23 June 2023](2023-06-23-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
 | [22–23 June 2023](2023-06-23-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |

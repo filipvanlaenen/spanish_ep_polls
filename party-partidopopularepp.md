@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.5% | 31.2–36.2% | 30.6–37.1% | 30.1–37.8% | 29.1–39.1% |
+| N/A | [Poll Average](average.html) | 33.2% | 31.0–35.8% | 30.4–36.6% | 29.9–37.2% | 28.8–38.3% |
+| [30 June–6 July 2023](2023-07-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 34.7% | 33.8–35.6% | 33.5–35.9% | 33.3–36.1% | 32.9–36.5% |
+| [29 June–6 July 2023](2023-07-06-GAD3.html) | GAD3 <br> ABC | 36.4% | 35.1–37.8% | 34.7–38.2% | 34.4–38.5% | 33.7–39.2% |
+| [29 June–5 July 2023](2023-07-05-GAD3.html) | GAD3 <br> ABC | 36.4% | N/A | N/A | N/A | N/A |
+| [4–5 July 2023](2023-07-05-40dB.html) | 40dB <br> Prisa | 31.3% | 29.5–33.2% | 28.9–33.8% | 28.5–34.2% | 27.6–35.2% |
 | [29 June–4 July 2023](2023-07-04-GAD3.html) | GAD3 <br> ABC | 36.9% | 35.3–38.6% | 34.8–39.1% | 34.4–39.5% | 33.6–40.3% |
 | [23 June–3 July 2023](2023-07-03-SigmaDos.html) | Sigma Dos <br> Antena 3 | 34.7% | 33.6–35.8% | 33.2–36.2% | 33.0–36.5% | 32.4–37.0% |
 | [29 June–3 July 2023](2023-07-03-GAD3.html) | GAD3 <br> ABC | 36.8% | N/A | N/A | N/A | N/A |
@@ -22,10 +26,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [27–29 June 2023](2023-06-29-IMOP.html) | IMOP <br> El Confidencial | 32.6% | 30.8–34.5% | 30.3–35.0% | 29.8–35.5% | 29.0–36.4% |
 | [28–29 June 2023](2023-06-29-Data10.html) | Data10 <br> OKDiario | 34.2% | 32.6–35.8% | 32.2–36.3% | 31.8–36.6% | 31.1–37.4% |
 | [27–28 June 2023](2023-06-28-GAD3.html) | GAD3 <br> NIUS | 36.6% | N/A | N/A | N/A | N/A |
-| [16–26 June 2023](2023-06-26-DYM.html) | DYM <br> Henneo | 33.2% | N/A | N/A | N/A | N/A |
-| [23–26 June 2023](2023-06-26-CIS.html) | CIS | 31.4% | N/A | N/A | N/A | N/A |
-| [23–26 June 2023](2023-06-26-40dB.html) | 40dB <br> Prisa | 30.9% | N/A | N/A | N/A | N/A |
-| [18–25 June 2023](2023-06-25-SocioMétrica.html) | SocioMétrica <br> El Español | 32.1% | N/A | N/A | N/A | N/A |
+| [16–26 June 2023](2023-06-26-DYM.html) | DYM <br> Henneo | 33.2% | 31.7–34.8% | 31.2–35.2% | 30.8–35.6% | 30.1–36.4% |
+| [23–26 June 2023](2023-06-26-40dB.html) | 40dB <br> Prisa | 30.9% | 29.6–32.3% | 29.2–32.6% | 28.9–33.0% | 28.3–33.6% |
+| [18–25 June 2023](2023-06-25-SocioMétrica.html) | SocioMétrica <br> El Español | 32.1% | 30.1–34.3% | 29.5–34.9% | 29.0–35.5% | 28.0–36.5% |
 | [19–24 June 2023](2023-06-24-NCReport.html) | NC Report <br> La Razón | 34.3% | N/A | N/A | N/A | N/A |
 | [19–23 June 2023](2023-06-23-InvyMark.html) | InvyMark <br> laSexta | 31.8% | 30.1–33.6% | 29.7–34.1% | 29.2–34.5% | 28.5–35.4% |
 | [22–23 June 2023](2023-06-23-Data10.html) | Data10 <br> OKDiario | 34.4% | N/A | N/A | N/A | N/A |
@@ -607,7 +610,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 18.4% | 16.9–20.0% | 16.5–20.4% | 16.2–20.8% | 15.5–21.6% |
 | [2–6 September 2019](2019-09-06-InvyMark.html) | InvyMark <br> laSexta | 20.1% | N/A | N/A | N/A | N/A |
 | [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 19.9% | 18.4–21.6% | 17.9–22.1% | 17.5–22.5% | 16.8–23.3% |
-| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 22.1% | 20.5–23.8% | 20.1–24.2% | 19.7–24.6% | 19.0–25.5% |
+| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 20.1% | 20.5–23.8% | 20.1–24.2% | 19.7–24.6% | 19.0–25.5% |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 18.1% | 16.7–19.7% | 16.3–20.1% | 15.9–20.5% | 15.3–21.2% |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 21.9% | 20.3–23.7% | 19.8–24.1% | 19.4–24.6% | 18.7–25.4% |
@@ -665,19 +668,19 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0.2% | 100% |  |
-| 28.5–29.5% | 1.0% | 99.8% |  |
-| 29.5–30.5% | 4% | 98.9% |  |
-| 30.5–31.5% | 9% | 95% |  |
-| 31.5–32.5% | 16% | 86% |  |
-| 32.5–33.5% | 21% | 70% |  |
-| 33.5–34.5% | 20% | 49% | Median |
-| 34.5–35.5% | 13% | 29% |  |
-| 35.5–36.5% | 8% | 15% |  |
-| 36.5–37.5% | 4% | 8% |  |
-| 37.5–38.5% | 2% | 3% |  |
-| 38.5–39.5% | 0.8% | 1.1% |  |
-| 39.5–40.5% | 0.2% | 0.2% |  |
+| 27.5–28.5% | 0.3% | 100% |  |
+| 28.5–29.5% | 1.3% | 99.7% |  |
+| 29.5–30.5% | 4% | 98% |  |
+| 30.5–31.5% | 14% | 94% |  |
+| 31.5–32.5% | 17% | 80% |  |
+| 32.5–33.5% | 20% | 63% | Median |
+| 33.5–34.5% | 19% | 43% |  |
+| 34.5–35.5% | 12% | 24% |  |
+| 35.5–36.5% | 7% | 12% |  |
+| 36.5–37.5% | 4% | 5% |  |
+| 37.5–38.5% | 1.3% | 2% |  |
+| 38.5–39.5% | 0.3% | 0.3% |  |
+| 39.5–40.5% | 0% | 0% |  |
 | 40.5–41.5% | 0% | 0% |  |
 
 
@@ -689,7 +692,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–23 | 19–23 | 18–24 | 18–25 |
+| N/A | [Poll Average](average.html) | 21 | 19–23 | 18–23 | 18–23 | 17–24 |
+| [30 June–6 July 2023](2023-07-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 22 | 21–22 | 21–22 | 21–22 | 20–23 |
+| [29 June–6 July 2023](2023-07-06-GAD3.html) | GAD3 <br> ABC | 22 | 22–24 | 21–24 | 21–24 | 21–25 |
+| [29 June–5 July 2023](2023-07-05-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [4–5 July 2023](2023-07-05-40dB.html) | 40dB <br> Prisa | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
 | [29 June–4 July 2023](2023-07-04-GAD3.html) | GAD3 <br> ABC | 24 | 21–25 | 21–25 | 21–25 | 21–25 |
 | [23 June–3 July 2023](2023-07-03-SigmaDos.html) | Sigma Dos <br> Antena 3 | 21 | 20–22 | 20–22 | 20–22 | 20–23 |
 | [29 June–3 July 2023](2023-07-03-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
@@ -701,10 +708,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27–29 June 2023](2023-06-29-IMOP.html) | IMOP <br> El Confidencial | 21 | 19–23 | 18–23 | 18–24 | 18–24 |
 | [28–29 June 2023](2023-06-29-Data10.html) | Data10 <br> OKDiario | 22 | 22–23 | 21–23 | 20–23 | 20–24 |
 | [27–28 June 2023](2023-06-28-GAD3.html) | GAD3 <br> NIUS |  |  |  |  |  |
-| [16–26 June 2023](2023-06-26-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
-| [23–26 June 2023](2023-06-26-CIS.html) | CIS |  |  |  |  |  |
-| [23–26 June 2023](2023-06-26-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [18–25 June 2023](2023-06-25-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [16–26 June 2023](2023-06-26-DYM.html) | DYM <br> Henneo | 20 | 19–21 | 19–21 | 18–21 | 18–22 |
+| [23–26 June 2023](2023-06-26-40dB.html) | 40dB <br> Prisa | 18 | 18–19 | 17–20 | 17–20 | 17–20 |
+| [18–25 June 2023](2023-06-25-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 19–21 | 19–22 | 18–22 | 17–23 |
 | [19–24 June 2023](2023-06-24-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [19–23 June 2023](2023-06-23-InvyMark.html) | InvyMark <br> laSexta | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
 | [22–23 June 2023](2023-06-23-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
@@ -1334,16 +1340,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0.3% | 100% |  |
-| 18 | 3% | 99.7% |  |
-| 19 | 11% | 97% |  |
-| 20 | 27% | 85% |  |
-| 21 | 29% | 58% | Median |
-| 22 | 14% | 29% |  |
-| 23 | 11% | 15% |  |
-| 24 | 3% | 5% |  |
-| 25 | 2% | 2% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 0.8% | 99.9% |  |
+| 18 | 5% | 99.1% |  |
+| 19 | 14% | 94% |  |
+| 20 | 27% | 80% |  |
+| 21 | 25% | 53% | Median |
+| 22 | 16% | 28% |  |
+| 23 | 10% | 12% |  |
+| 24 | 2% | 2% |  |
+| 25 | 0.2% | 0.2% |  |
 | 26 | 0% | 0% |  |
 
 
