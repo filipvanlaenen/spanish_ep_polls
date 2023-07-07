@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.3–2.9% | 1.1–3.2% | 1.1–3.4% | 1.0–3.8% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.7–3.0% | 1.5–3.2% | 1.4–3.4% | 1.2–3.8% |
 | [30 June–6 July 2023](2023-07-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.0% | 1.7–2.3% | 1.7–2.4% | 1.6–2.5% | 1.5–2.6% |
 | [29 June–6 July 2023](2023-07-06-GAD3.html) | GAD3 <br> ABC | 1.8% | 1.5–2.2% | 1.4–2.3% | 1.3–2.5% | 1.2–2.7% |
 | [29 June–5 July 2023](2023-07-05-GAD3.html) | GAD3 <br> ABC | 1.8% | N/A | N/A | N/A | N/A |
@@ -55,7 +55,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [29 May–2 June 2023](2023-06-02-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [1–2 June 2023](2023-06-02-Data10.html) | Data10 <br> OKDiario | 2.6% | 2.1–3.2% | 2.0–3.4% | 1.9–3.5% | 1.7–3.9% |
 | [29 May–1 June 2023](2023-06-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.4% | 2.1–2.9% | 2.0–3.0% | 1.9–3.1% | 1.7–3.4% |
-| [30 May–1 June 2023](2023-06-01-GESOP.html) | GESOP <br> Prensa Ibérica | 1.9% | N/A | N/A | N/A | N/A |
+| [30 May–1 June 2023](2023-06-01-GESOP.html) | GESOP <br> Prensa Ibérica | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–2.9% | 1.0–3.3% |
 | [31 May–1 June 2023](2023-06-01-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [29–30 May 2023](2023-05-30-IMOP.html) | IMOP <br> El Confidencial | 1.8% | 1.3–2.5% | 1.2–2.7% | 1.1–2.8% | 0.9–3.2% |
 | [29 May 2023](2023-05-29-Data10.html) | Data10 <br> OKDiario | 2.6% | 2.1–3.2% | 2.0–3.4% | 1.9–3.5% | 1.7–3.9% |
@@ -641,10 +641,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 14% | 100% |  |
-| 1.5–2.5% | 60% | 86% | Median |
-| 2.5–3.5% | 24% | 25% |  |
-| 3.5–4.5% | 1.2% | 1.3% |  |
+| 0.5–1.5% | 6% | 100% |  |
+| 1.5–2.5% | 66% | 94% | Median |
+| 2.5–3.5% | 26% | 28% |  |
+| 3.5–4.5% | 1.4% | 1.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -701,7 +701,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29 May–2 June 2023](2023-06-02-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
 | [1–2 June 2023](2023-06-02-Data10.html) | Data10 <br> OKDiario | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [29 May–1 June 2023](2023-06-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 1 | 1 | 1–2 |
-| [30 May–1 June 2023](2023-06-01-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
+| [30 May–1 June 2023](2023-06-01-GESOP.html) | GESOP <br> Prensa Ibérica | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [31 May–1 June 2023](2023-06-01-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [29–30 May 2023](2023-05-30-IMOP.html) | IMOP <br> El Confidencial | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [29 May 2023](2023-05-29-Data10.html) | Data10 <br> OKDiario | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
