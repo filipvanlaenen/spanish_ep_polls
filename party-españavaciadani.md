@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.5% | 0.0–0.7% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% | 0.0–1.0% |
 | [6–17 July 2023](2023-07-17-YouGov.html) | YouGov | 0.0% | N/A | N/A | N/A | N/A |
 | [10–17 July 2023](2023-07-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
 | [29 June–17 July 2023](2023-07-17-GAD3.html) | GAD3 <br> ABC | 0.1% | 0.1–0.2% | 0.0–0.2% | 0.0–0.2% | 0.0–0.3% |
@@ -37,10 +37,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [8–14 July 2023](2023-07-14-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
 | [13–14 July 2023](2023-07-14-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [10–14 July 2023](2023-07-14-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
-| [11–14 July 2023](2023-07-14-IMOP.html) | IMOP <br> El Confidencial | 0.1% | N/A | N/A | N/A | N/A |
+| [11–14 July 2023](2023-07-14-IMOP.html) | IMOP <br> El Confidencial | 0.1% | 0.0–0.3% | 0.0–0.4% | 0.0–0.4% | 0.0–0.5% |
 | [29 June–14 July 2023](2023-07-14-GAD3.html) | GAD3 <br> ABC | 0.1% | N/A | N/A | N/A | N/A |
 | [12–14 July 2023](2023-07-14-Data10.html) | Data10 <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
-| [12–14 July 2023](2023-07-14-Cluster17.html) | Cluster17 <br> El Grand Continent | 0.5% | N/A | N/A | N/A | N/A |
+| [12–14 July 2023](2023-07-14-Cluster17.html) | Cluster17 <br> El Grand Continent | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% |
 | [10–14 July 2023](2023-07-14-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [5–13 July 2023](2023-07-13-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
 | [9–13 July 2023](2023-07-13-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 0.0% | N/A | N/A | N/A | N/A |
@@ -58,7 +58,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [6–12 July 2023](2023-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
 | [11–12 July 2023](2023-07-12-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [29 June–12 July 2023](2023-07-12-GAD3.html) | GAD3 <br> ABC | 0.1% | N/A | N/A | N/A | N/A |
-| [10–12 July 2023](2023-07-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.1% | N/A | N/A | N/A | N/A |
+| [10–12 July 2023](2023-07-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.1% | 0.1–0.6% | 0.0–0.7% | 0.0–0.8% | 0.0–1.1% |
 | [8–12 July 2023](2023-07-12-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [4–11 July 2023](2023-07-11-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
 | [7–11 July 2023](2023-07-11-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 0.0% | N/A | N/A | N/A | N/A |
@@ -92,7 +92,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [29 June–6 July 2023](2023-07-06-YouGov.html) | YouGov | 0.0% | N/A | N/A | N/A | N/A |
 | [28 June–6 July 2023](2023-07-06-TopPosition.html) | Top Position | 0.0% | N/A | N/A | N/A | N/A |
 | [30 June–6 July 2023](2023-07-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
-| [3–6 July 2023](2023-07-06-Ipsos.html) | Ipsos <br> La Vanguardia | 0.3% | N/A | N/A | N/A | N/A |
+| [3–6 July 2023](2023-07-06-Ipsos.html) | Ipsos <br> La Vanguardia | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.7% | 0.1–0.9% |
 | [4–6 July 2023](2023-07-06-IMOP.html) | IMOP <br> El Confidencial | 0.1% | N/A | N/A | N/A | N/A |
 | [29 June–6 July 2023](2023-07-06-GAD3.html) | GAD3 <br> ABC | 0.1% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
 | [29 June–5 July 2023](2023-07-05-GAD3.html) | GAD3 <br> ABC | 0.1% | N/A | N/A | N/A | N/A |
@@ -725,8 +725,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 98.7% | 100% | Last Result, Median |
-| 0.5–1.5% | 1.3% | 1.3% |  |
+| 0.0–0.5% | 88% | 100% | Last Result, Median |
+| 0.5–1.5% | 12% | 12% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -765,10 +765,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–14 July 2023](2023-07-14-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [13–14 July 2023](2023-07-14-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [10–14 July 2023](2023-07-14-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
-| [11–14 July 2023](2023-07-14-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [11–14 July 2023](2023-07-14-IMOP.html) | IMOP <br> El Confidencial | 0 | 0 | 0 | 0 | 0 |
 | [29 June–14 July 2023](2023-07-14-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [12–14 July 2023](2023-07-14-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [12–14 July 2023](2023-07-14-Cluster17.html) | Cluster17 <br> El Grand Continent |  |  |  |  |  |
+| [12–14 July 2023](2023-07-14-Cluster17.html) | Cluster17 <br> El Grand Continent | 0 | 0 | 0 | 0 | 0 |
 | [10–14 July 2023](2023-07-14-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [5–13 July 2023](2023-07-13-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [9–13 July 2023](2023-07-13-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
@@ -786,7 +786,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6–12 July 2023](2023-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [11–12 July 2023](2023-07-12-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [29 June–12 July 2023](2023-07-12-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [10–12 July 2023](2023-07-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [10–12 July 2023](2023-07-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0 | 0 | 0 | 0 |
 | [8–12 July 2023](2023-07-12-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [4–11 July 2023](2023-07-11-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [7–11 July 2023](2023-07-11-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
@@ -820,7 +820,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29 June–6 July 2023](2023-07-06-YouGov.html) | YouGov |  |  |  |  |  |
 | [28 June–6 July 2023](2023-07-06-TopPosition.html) | Top Position |  |  |  |  |  |
 | [30 June–6 July 2023](2023-07-06-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [3–6 July 2023](2023-07-06-Ipsos.html) | Ipsos <br> La Vanguardia |  |  |  |  |  |
+| [3–6 July 2023](2023-07-06-Ipsos.html) | Ipsos <br> La Vanguardia | 0 | 0 | 0 | 0 | 0 |
 | [4–6 July 2023](2023-07-06-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [29 June–6 July 2023](2023-07-06-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
 | [29 June–5 July 2023](2023-07-05-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
