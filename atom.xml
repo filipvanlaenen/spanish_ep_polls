@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2023-07-18T16:26:59.2916+02:00</updated>
+  <updated>2023-07-20T22:35:06.350632+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Demòcrata Europeu Català (NI): 1.7–2.3%, 1 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1.7–2.3%, 1 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.8–1.2%, 0 seats</li><li>Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0.8–1.2%, 0 seats</li><li>Sumar (GUE/NGL): 13.4–14.7%, 8–9 seats</li><li>Euskal Herria Bildu (GUE/NGL): 0.8–1.2%, 0 seats</li><li>Partido Popular (EPP): 31.1–32.9%, 19–21 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 27.2–28.9%, 17–18 seats</li><li>Vox (ECR): 13.4–14.7%, 8–9 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_ep_polls/2023-07-17-YouGov.html</id>
@@ -22,6 +22,14 @@
     <title>Opinion Poll by Sigma Dos for El Mundo, 10–17 July 2023</title>
     <updated>2023-07-18T11:52:30.564691+02:00</updated>
     <dc:date>2023-07-18T11:52:30.564691+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Demòcrata Europeu Català (NI): 1.2–2.8%, 0–1 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1.6–3.4%, 1–2 seats</li><li>Sumar (GUE/NGL): 12.5–16.5%, 7–10 seats</li><li>Partido Popular (EPP): 27.8–33.0%, 17–20 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 25.5–30.6%, 15–19 seats</li><li>Vox (ECR): 12.7–16.7%, 7–10 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2023-07-17-GESOP.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2023-07-17-GESOP.html"/>
+    <title>Opinion Poll by GESOP for The Adelaide Review, 15–17 July 2023</title>
+    <updated>2023-07-20T22:35:06.350632+02:00</updated>
+    <dc:date>2023-07-20T22:35:06.350632+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partit Demòcrata Europeu Català (NI): 1.7–2.4%, 1 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1.9–2.7%, 1 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 1.0–1.6%, 0 seats</li><li>Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0.4–0.8%, 0 seats</li><li>Coalición Canaria–Partido Nacionalista Canario (RE): 0.3–0.6%, 0 seats</li><li>Sumar (GUE/NGL): 10.7–12.4%, 7–8 seats</li><li>Unión del Pueblo Navarro (*): 0.0–0.2%, 0 seats</li><li>Euskal Herria Bildu (GUE/NGL): 1.0–1.6%, 0 seats</li><li>España Vaciada (NI): 0.0–0.2%, 0 seats</li><li>Partido Popular (EPP): 35.6–38.2%, 23–25 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 27.4–29.8%, 17–19 seats</li><li>Vox (ECR): 10.9–12.6%, 6–8 seats</li><li>Candidatura d’Unitat Popular (GUE/NGL): 0.3–0.7%, 0 seats</li></ul></div></content>
@@ -4279,5 +4287,5 @@
     <updated>2020-07-10T20:49:12+02:00</updated>
     <dc:date>2020-07-10T20:49:12+02:00</dc:date>
   </entry>
-  <dc:date>2023-07-18T16:26:59.2916+02:00</dc:date>
+  <dc:date>2023-07-20T22:35:06.350632+02:00</dc:date>
 </feed>
