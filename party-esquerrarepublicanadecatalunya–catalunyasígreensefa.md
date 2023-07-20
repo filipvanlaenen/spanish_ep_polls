@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.7–2.8% | 1.5–3.0% | 1.4–3.3% | 1.1–3.8% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.7–2.9% | 1.5–3.1% | 1.4–3.3% | 1.1–3.8% |
 | [6–17 July 2023](2023-07-17-YouGov.html) | YouGov | 2.0% | 1.8–2.2% | 1.8–2.2% | 1.7–2.3% | 1.7–2.4% |
 | [10–17 July 2023](2023-07-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.6% | 2.3–2.9% | 2.3–3.0% | 2.2–3.0% | 2.1–3.2% |
+| [15–17 July 2023](2023-07-17-GESOP.html) | GESOP <br> The Adelaide Review | 2.3% | 1.9–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.7% |
 | [29 June–17 July 2023](2023-07-17-GAD3.html) | GAD3 <br> ABC | 2.3% | 2.1–2.6% | 2.0–2.7% | 1.9–2.7% | 1.8–2.9% |
 | [17 July 2023](2023-07-17-Data10.html) | Data10 <br> OKDiario | 2.1% | 1.7–2.7% | 1.6–2.9% | 1.5–3.0% | 1.3–3.3% |
 | [8–16 July 2023](2023-07-16-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
@@ -727,9 +728,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 69% | 95% | Median |
-| 2.5–3.5% | 24% | 25% |  |
-| 3.5–4.5% | 1.0% | 1.0% |  |
+| 1.5–2.5% | 68% | 95% | Median |
+| 2.5–3.5% | 26% | 27% |  |
+| 3.5–4.5% | 1.0% | 1.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -744,6 +745,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–2 | 0–2 |
 | [6–17 July 2023](2023-07-17-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1 |
 | [10–17 July 2023](2023-07-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 1 | 1 | 1–2 |
+| [15–17 July 2023](2023-07-17-GESOP.html) | GESOP <br> The Adelaide Review | 1 | 1 | 1 | 1–2 | 0–2 |
 | [29 June–17 July 2023](2023-07-17-GAD3.html) | GAD3 <br> ABC | 1 | 1 | 1 | 1 | 1 |
 | [17 July 2023](2023-07-17-Data10.html) | Data10 <br> OKDiario | 1 | 1 | 1 | 0–1 | 0–2 |
 | [8–16 July 2023](2023-07-16-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
@@ -1458,8 +1460,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 93% | 96% | Median |
+| 0 | 3% | 100% | Last Result |
+| 1 | 94% | 97% | Median |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 

@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 13.2% | 11.4–14.9% | 10.9–15.4% | 10.4–16.0% | 9.4–16.9% |
 | [6–17 July 2023](2023-07-17-YouGov.html) | YouGov | 14.0% | 13.6–14.4% | 13.5–14.6% | 13.4–14.7% | 13.2–14.9% |
 | [10–17 July 2023](2023-07-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 13.6% | 13.0–14.2% | 12.9–14.4% | 12.7–14.5% | 12.5–14.8% |
+| [15–17 July 2023](2023-07-17-GESOP.html) | GESOP <br> The Adelaide Review | 14.4% | 13.2–15.8% | 12.8–16.2% | 12.5–16.5% | 12.0–17.2% |
 | [29 June–17 July 2023](2023-07-17-GAD3.html) | GAD3 <br> ABC | 11.5% | 11.0–12.1% | 10.8–12.2% | 10.7–12.4% | 10.4–12.6% |
 | [17 July 2023](2023-07-17-Data10.html) | Data10 <br> OKDiario | 12.5% | 11.5–13.7% | 11.2–14.0% | 10.9–14.3% | 10.5–14.9% |
 | [8–16 July 2023](2023-07-16-TargetPoint.html) | Target Point <br> El Debate | 12.2% | 10.7–14.0% | 10.2–14.5% | 9.9–14.9% | 9.2–15.8% |
@@ -758,6 +759,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
 | [6–17 July 2023](2023-07-17-YouGov.html) | YouGov | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [10–17 July 2023](2023-07-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| [15–17 July 2023](2023-07-17-GESOP.html) | GESOP <br> The Adelaide Review | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [29 June–17 July 2023](2023-07-17-GAD3.html) | GAD3 <br> ABC | 7 | 7 | 7–8 | 7–8 | 6–8 |
 | [17 July 2023](2023-07-17-Data10.html) | Data10 <br> OKDiario | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [8–16 July 2023](2023-07-16-TargetPoint.html) | Target Point <br> El Debate | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
