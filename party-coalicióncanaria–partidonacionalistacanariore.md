@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% | 0.1–1.2% |
+| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% | 0.1–1.3% |
+| [31 July–7 August 2023](2023-08-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [6–17 July 2023](2023-07-17-YouGov.html) | YouGov | 0.0% | N/A | N/A | N/A | N/A |
 | [10–17 July 2023](2023-07-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
 | [15–17 July 2023](2023-07-17-GESOP.html) | GESOP <br> The Adelaide Review | 0.0% | N/A | N/A | N/A | N/A |
@@ -726,8 +727,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 80% | 100% | Last Result, Median |
-| 0.5–1.5% | 20% | 20% |  |
+| 0.0–0.5% | 79% | 100% | Last Result, Median |
+| 0.5–1.5% | 21% | 21% |  |
 | 1.5–2.5% | 0.1% | 0.1% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -741,6 +742,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [31 July–7 August 2023](2023-08-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [6–17 July 2023](2023-07-17-YouGov.html) | YouGov |  |  |  |  |  |
 | [10–17 July 2023](2023-07-17-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [15–17 July 2023](2023-07-17-GESOP.html) | GESOP <br> The Adelaide Review |  |  |  |  |  |
