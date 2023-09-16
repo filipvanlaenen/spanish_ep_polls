@@ -775,21 +775,21 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
-| [31 July–7 August 2023](2023-08-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
-| [6–17 July 2023](2023-07-17-YouGov.html) | YouGov | 17 | 17–18 | 17–18 | 17–18 | 17–18 |
-| [10–17 July 2023](2023-07-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 17–18 | 17–18 | 17–18 | 16–18 |
-| [15–17 July 2023](2023-07-17-GESOP.html) | GESOP <br> The Adelaide Review | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
-| [29 June–17 July 2023](2023-07-17-GAD3.html) | GAD3 <br> ABC | 18 | 17–19 | 17–19 | 17–19 | 17–19 |
-| [17 July 2023](2023-07-17-Data10.html) | Data10 <br> OKDiario | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
-| [8–16 July 2023](2023-07-16-TargetPoint.html) | Target Point <br> El Debate | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
-| [12–16 July 2023](2023-07-16-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
-| [11–16 July 2023](2023-07-16-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
-| [11–16 July 2023](2023-07-16-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
-| [15–16 July 2023](2023-07-16-NCReport.html) | NC Report <br> La Razón | 17 | 16–19 | 16–19 | 15–20 | 15–20 |
+| N/A | [Poll Average](average.html) | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
+| [31 July–7 August 2023](2023-08-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
+| [6–17 July 2023](2023-07-17-YouGov.html) | YouGov | 18 | 17–18 | 17–18 | 17–19 | 17–19 |
+| [10–17 July 2023](2023-07-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 17–18 | 17–19 | 17–19 | 17–19 |
+| [15–17 July 2023](2023-07-17-GESOP.html) | GESOP <br> The Adelaide Review | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
+| [29 June–17 July 2023](2023-07-17-GAD3.html) | GAD3 <br> ABC | 19 | 18–20 | 18–20 | 17–20 | 17–20 |
+| [17 July 2023](2023-07-17-Data10.html) | Data10 <br> OKDiario | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
+| [8–16 July 2023](2023-07-16-TargetPoint.html) | Target Point <br> El Debate | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
+| [12–16 July 2023](2023-07-16-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 18 | 17–19 | 16–19 | 16–20 | 15–20 |
+| [11–16 July 2023](2023-07-16-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
+| [11–16 July 2023](2023-07-16-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
+| [15–16 July 2023](2023-07-16-NCReport.html) | NC Report <br> La Razón | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
 | [29 June–16 July 2023](2023-07-16-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [14–16 July 2023](2023-07-16-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [12–16 July 2023](2023-07-16-40dB.html) | 40dB <br> Prisa | 17 | 16–18 | 16–18 | 16–18 | 16–19 |
+| [12–16 July 2023](2023-07-16-40dB.html) | 40dB <br> Prisa | 18 | 17–19 | 17–19 | 16–19 | 16–19 |
 | [7–15 July 2023](2023-07-15-TargetPoint.html) | Target Point <br> El Debate | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [11–15 July 2023](2023-07-15-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
 | [9–15 July 2023](2023-07-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 16–17 | 16–18 | 16–18 | 16–18 |
@@ -803,18 +803,18 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6–14 July 2023](2023-07-14-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
 | [8–14 July 2023](2023-07-14-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [13–14 July 2023](2023-07-14-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [10–14 July 2023](2023-07-14-InvyMark.html) | InvyMark <br> laSexta | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
-| [11–14 July 2023](2023-07-14-IMOP.html) | IMOP <br> El Confidencial | 17 | 16–19 | 16–19 | 16–19 | 16–20 |
+| [10–14 July 2023](2023-07-14-InvyMark.html) | InvyMark <br> laSexta | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
+| [11–14 July 2023](2023-07-14-IMOP.html) | IMOP <br> El Confidencial | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
 | [29 June–14 July 2023](2023-07-14-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [12–14 July 2023](2023-07-14-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [12–14 July 2023](2023-07-14-Cluster17.html) | Cluster17 <br> El Grand Continent | 20 | 18–20 | 18–20 | 17–20 | 17–20 |
+| [12–14 July 2023](2023-07-14-Cluster17.html) | Cluster17 <br> El Grand Continent | 20 | 19–20 | 18–20 | 18–20 | 17–21 |
 | [10–14 July 2023](2023-07-14-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [5–13 July 2023](2023-07-13-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [9–13 July 2023](2023-07-13-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
 | [5–13 July 2023](2023-07-13-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [7–13 July 2023](2023-07-13-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [12–13 July 2023](2023-07-13-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [10–13 July 2023](2023-07-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 18 | 16–18 | 16–19 | 16–19 | 16–19 |
+| [10–13 July 2023](2023-07-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 19 | 17–19 | 17–19 | 17–19 | 16–20 |
 | [29 June–13 July 2023](2023-07-13-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [11–13 July 2023](2023-07-13-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [9–13 July 2023](2023-07-13-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
@@ -825,7 +825,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6–12 July 2023](2023-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [11–12 July 2023](2023-07-12-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [29 June–12 July 2023](2023-07-12-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [10–12 July 2023](2023-07-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 18 | 15–18 | 15–19 | 15–19 | 15–21 |
+| [10–12 July 2023](2023-07-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 19 | 16–19 | 16–20 | 16–20 | 16–22 |
 | [8–12 July 2023](2023-07-12-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [4–11 July 2023](2023-07-11-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [7–11 July 2023](2023-07-11-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
@@ -839,7 +839,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–10 July 2023](2023-07-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [4–10 July 2023](2023-07-10-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [29 June–10 July 2023](2023-07-10-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [7–10 July 2023](2023-07-10-DYM.html) | DYM <br> Henneo | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [7–10 July 2023](2023-07-10-DYM.html) | DYM <br> Henneo | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
 | [6–10 July 2023](2023-07-10-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [5–9 July 2023](2023-07-09-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
 | [2–9 July 2023](2023-07-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
@@ -857,15 +857,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–7 July 2023](2023-07-07-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [4–7 July 2023](2023-07-07-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [29 June–6 July 2023](2023-07-06-YouGov.html) | YouGov |  |  |  |  |  |
-| [28 June–6 July 2023](2023-07-06-TopPosition.html) | Top Position | 17 | 16–17 | 16–18 | 16–18 | 15–18 |
+| [28 June–6 July 2023](2023-07-06-TopPosition.html) | Top Position | 17 | 17–18 | 16–18 | 16–18 | 16–19 |
 | [30 June–6 July 2023](2023-07-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 17–18 | 17–18 | 17–18 | 16–19 |
-| [3–6 July 2023](2023-07-06-Ipsos.html) | Ipsos <br> La Vanguardia | 18 | 16–18 | 16–19 | 16–19 | 16–19 |
+| [3–6 July 2023](2023-07-06-Ipsos.html) | Ipsos <br> La Vanguardia | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [4–6 July 2023](2023-07-06-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [29 June–6 July 2023](2023-07-06-GAD3.html) | GAD3 <br> ABC | 18 | 17–19 | 16–20 | 16–20 | 16–20 |
 | [29 June–5 July 2023](2023-07-05-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [4–5 July 2023](2023-07-05-40dB.html) | 40dB <br> Prisa | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [24 June–4 July 2023](2023-07-04-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [27 June–4 July 2023](2023-07-04-Opinòmetre.html) | Opinòmetre <br> Ara | 18 | 17–18 | 16–19 | 16–19 | 16–20 |
+| [27 June–4 July 2023](2023-07-04-Opinòmetre.html) | Opinòmetre <br> Ara | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
 | [29 June–4 July 2023](2023-07-04-GAD3.html) | GAD3 <br> ABC | 17 | 16–19 | 16–19 | 16–19 | 15–19 |
 | [23 June–3 July 2023](2023-07-03-SigmaDos.html) | Sigma Dos <br> Antena 3 | 17 | 17–18 | 16–18 | 16–18 | 16–19 |
 | [29 June–3 July 2023](2023-07-03-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
@@ -900,7 +900,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–8 June 2023](2023-06-08-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [5–8 June 2023](2023-06-08-GAD3.html) | GAD3 <br> ABC | 17 | 16–18 | 16–18 | 16–19 | 16–19 |
 | [7–8 June 2023](2023-06-08-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [31 May–7 June 2023](2023-06-07-CISandSocioMétrica.html) | CIS and SocioMétrica | 16 | 16 | 15–17 | 15–17 | 15–17 |
+| [31 May–7 June 2023](2023-06-07-CISandSocioMétrica.html) | CIS and SocioMétrica | 17 | 16–17 | 16–17 | 16–17 | 16–17 |
 | [30 May–3 June 2023](2023-06-03-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 15–17 | 14–17 | 14–17 | 13–17 |
 | [30 May–3 June 2023](2023-06-03-NCReport.html) | NC Report <br> La Razón | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
 | [31 May–2 June 2023](2023-06-02-TargetPoint.html) | Target Point <br> El Debate | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
@@ -913,7 +913,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29 May 2023](2023-05-29-Data10.html) | Data10 <br> OKDiario | 13 | 13–14 | 13–14 | 12–15 | 12–15 |
 | [3–11 May 2023](2023-05-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [8–9 May 2023](2023-05-09-GAD3.html) | GAD3 <br> NIUS | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
-| [3–8 May 2023](2023-05-08-CIS.html) | CIS | 18 | 18 | 18–20 | 18–20 | 18–20 |
+| [3–8 May 2023](2023-05-08-CIS.html) | CIS | 19 | 19 | 19–20 | 19–20 | 19–20 |
 | [6 May 2023](2023-05-06-NCReport.html) | NC Report <br> La Razón | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [2–5 May 2023](2023-05-05-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [24–28 April 2023](2023-04-28-InvyMark.html) | InvyMark <br> laSexta | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
@@ -1510,13 +1510,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.5% | 100% |  |
-| 17 | 8% | 99.5% |  |
-| 18 | 33% | 91% |  |
-| 19 | 41% | 58% | Median |
-| 20 | 16% | 17% |  |
-| 21 | 2% | 2% |  |
-| 22 | 0.1% | 0.1% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 2% | 99.9% |  |
+| 18 | 17% | 98% |  |
+| 19 | 40% | 81% | Median |
+| 20 | 32% | 41% |  |
+| 21 | 8% | 9% |  |
+| 22 | 0.8% | 0.8% |  |
 | 23 | 0% | 0% |  |
 
 
