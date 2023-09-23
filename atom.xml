@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2023-09-23T13:33:28.638901+02:00</updated>
+  <updated>2023-09-23T14:29:18.170454+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sumar (GUE/NGL): 9.1–13.0%, 5–8 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 29.5–35.3%, 18–22 seats</li><li>Partido Popular (EPP): 31.2–37.1%, 19–23 seats</li><li>Vox (ECR): 10.2–14.2%, 6–9 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_ep_polls/2023-09-17-DYM.html</id>
@@ -38,6 +38,22 @@
     <title>Opinion Poll by NC Report for La Razón, 28 August–1 September 2023</title>
     <updated>2023-09-23T13:33:28.638901+02:00</updated>
     <dc:date>2023-09-23T13:33:28.638901+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sumar (GUE/NGL): 10.6–13.5%, 6–8 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 30.3–34.4%, 19–21 seats</li><li>Partido Popular (EPP): 31.7–35.9%, 20–22 seats</li><li>Vox (ECR): 9.6–12.3%, 6–7 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2023-08-28-40dB.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2023-08-28-40dB.html"/>
+    <title>Opinion Poll by 40dB for Prisa, 25–28 August 2023</title>
+    <updated>2023-09-23T14:13:55.361532+02:00</updated>
+    <dc:date>2023-09-23T14:13:55.361532+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sumar (GUE/NGL): 11.0–14.0%, 7–9 seats</li><li>Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0.4–1.2%, 0 seats</li><li>Partit Demòcrata Europeu Català (NI): 1.0–2.1%, 0–1 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 29.7–33.8%, 19–22 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1.3–2.5%, 0–1 seats</li><li>Unión del Pueblo Navarro (*): 0.1–0.5%, 0 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.6–1.5%, 0–1 seats</li><li>Partido Popular (EPP): 32.1–36.4%, 21–23 seats</li><li>Vox (ECR): 11.3–14.2%, 7–9 seats</li><li>Coalición Canaria–Partido Nacionalista Canario (RE): 0.3–1.0%, 0 seats</li><li>Euskal Herria Bildu (GUE/NGL): 0.9–1.9%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_ep_polls/2023-08-24-SigmaDos.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_ep_polls/2023-08-24-SigmaDos.html"/>
+    <title>Opinion Poll by Sigma Dos for El Mundo, 17–24 August 2023</title>
+    <updated>2023-09-23T14:29:18.170454+02:00</updated>
+    <dc:date>2023-09-23T14:29:18.170454+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sumar (GUE/NGL): 10.8–14.8%, 6–9 seats</li><li>Partido Socialista Obrero Español (S&amp;D): 28.6–34.0%, 18–21 seats</li><li>Partido Popular (EPP): 29.2–34.7%, 18–22 seats</li><li>Vox (ECR): 11.1–15.1%, 7–9 seats</li></ul></div></content>
@@ -4327,5 +4343,5 @@
     <updated>2020-07-10T20:49:12+02:00</updated>
     <dc:date>2020-07-10T20:49:12+02:00</dc:date>
   </entry>
-  <dc:date>2023-09-23T13:33:28.638901+02:00</dc:date>
+  <dc:date>2023-09-23T14:29:18.170454+02:00</dc:date>
 </feed>
