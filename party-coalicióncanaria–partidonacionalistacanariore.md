@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [28 August–1 September 2023](2023-09-01-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [25–28 August 2023](2023-08-28-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
-| [17–24 August 2023](2023-08-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.5% | N/A | N/A | N/A | N/A |
+| [17–24 August 2023](2023-08-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.5% | 0.4–0.8% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% |
 | [31 July–7 August 2023](2023-08-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [6–17 July 2023](2023-07-17-YouGov.html) | YouGov | 0.0% | N/A | N/A | N/A | N/A |
 | [10–17 July 2023](2023-07-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
@@ -752,7 +752,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [28 August–1 September 2023](2023-09-01-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [25–28 August 2023](2023-08-28-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [17–24 August 2023](2023-08-24-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [17–24 August 2023](2023-08-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0 | 0 | 0 |
 | [31 July–7 August 2023](2023-08-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [6–17 July 2023](2023-07-17-YouGov.html) | YouGov |  |  |  |  |  |
 | [10–17 July 2023](2023-07-17-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |

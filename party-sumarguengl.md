@@ -15,8 +15,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1–12 September 2023](2023-09-12-CIS.html) | CIS | 11.9% | 11.5–12.3% | 11.4–12.5% | 11.3–12.5% | 11.1–12.8% |
 | [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 12.3% | 11.1–13.7% | 10.7–14.1% | 10.4–14.5% | 9.9–15.2% |
 | [28 August–1 September 2023](2023-09-01-NCReport.html) | NC Report <br> La Razón | 11.2% | 10.0–12.6% | 9.7–13.0% | 9.4–13.3% | 8.8–14.0% |
-| [25–28 August 2023](2023-08-28-40dB.html) | 40dB <br> Prisa | 12.0% | N/A | N/A | N/A | N/A |
-| [17–24 August 2023](2023-08-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 12.4% | N/A | N/A | N/A | N/A |
+| [25–28 August 2023](2023-08-28-40dB.html) | 40dB <br> Prisa | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.6–13.5% | 10.2–14.0% |
+| [17–24 August 2023](2023-08-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 12.4% | 11.5–13.4% | 11.2–13.7% | 11.0–14.0% | 10.6–14.5% |
 | [31 July–7 August 2023](2023-08-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 12.7% | 11.4–14.0% | 11.1–14.4% | 10.8–14.8% | 10.3–15.4% |
 | [6–17 July 2023](2023-07-17-YouGov.html) | YouGov | 14.0% | 13.6–14.4% | 13.5–14.6% | 13.4–14.7% | 13.2–14.9% |
 | [10–17 July 2023](2023-07-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 13.6% | 13.0–14.2% | 12.9–14.4% | 12.7–14.5% | 12.5–14.8% |
@@ -766,8 +766,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–12 September 2023](2023-09-12-CIS.html) | CIS | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [28 August–1 September 2023](2023-09-01-NCReport.html) | NC Report <br> La Razón | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [25–28 August 2023](2023-08-28-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [17–24 August 2023](2023-08-24-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [25–28 August 2023](2023-08-28-40dB.html) | 40dB <br> Prisa | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
+| [17–24 August 2023](2023-08-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [31 July–7 August 2023](2023-08-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [6–17 July 2023](2023-07-17-YouGov.html) | YouGov | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [10–17 July 2023](2023-07-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
