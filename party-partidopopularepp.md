@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.9% | 30.1–33.7% | 29.6–34.2% | 29.2–34.7% | 28.4–35.6% |
+| N/A | [Poll Average](average.html) | 32.9% | 31.3–35.4% | 31.1–36.1% | 30.9–36.6% | 30.3–37.6% |
+| [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo | 34.1% | 32.2–36.1% | 31.7–36.6% | 31.2–37.1% | 30.3–38.0% |
+| [1–12 September 2023](2023-09-12-CIS.html) | CIS | 31.7% | 31.1–32.3% | 30.9–32.5% | 30.8–32.6% | 30.5–32.9% |
+| [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 33.6% | 31.8–35.6% | 31.2–36.1% | 30.8–36.6% | 29.9–37.5% |
+| [28 August–1 September 2023](2023-09-01-NCReport.html) | NC Report <br> La Razón | 35.5% | 33.6–37.5% | 33.1–38.0% | 32.6–38.5% | 31.7–39.5% |
+| [25–28 August 2023](2023-08-28-40dB.html) | 40dB <br> Prisa | 33.8% | N/A | N/A | N/A | N/A |
+| [17–24 August 2023](2023-08-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 34.2% | N/A | N/A | N/A | N/A |
 | [31 July–7 August 2023](2023-08-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 31.9% | 30.1–33.7% | 29.6–34.2% | 29.2–34.7% | 28.3–35.6% |
 | [6–17 July 2023](2023-07-17-YouGov.html) | YouGov | 32.0% | 31.4–32.6% | 31.3–32.8% | 31.1–32.9% | 30.8–33.2% |
 | [10–17 July 2023](2023-07-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 35.4% | 34.6–36.2% | 34.4–36.4% | 34.2–36.6% | 33.8–37.0% |
@@ -697,7 +703,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–6 September 2019](2019-09-06-SimpleLógica.html) | Simple Lógica | 18.4% | 16.9–20.0% | 16.5–20.4% | 16.2–20.8% | 15.5–21.6% |
 | [2–6 September 2019](2019-09-06-InvyMark.html) | InvyMark <br> laSexta | 20.1% | N/A | N/A | N/A | N/A |
 | [2–6 September 2019](2019-09-06-GAD3.html) | GAD3 <br> ABC | 19.9% | 18.4–21.6% | 17.9–22.1% | 17.5–22.5% | 16.8–23.3% |
-| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 22.1% | 20.5–23.8% | 20.1–24.2% | 19.7–24.6% | 19.0–25.5% |
+| [2–5 September 2019](2019-09-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 20.1% | 20.5–23.8% | 20.1–24.2% | 19.7–24.6% | 19.0–25.5% |
 | [27–30 August 2019](2019-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 18.1% | 16.7–19.7% | 16.3–20.1% | 15.9–20.5% | 15.3–21.2% |
 | [27–29 August 2019](2019-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
 | [20–24 August 2019](2019-08-24-NCReport.html) | NC Report <br> La Razón | 21.9% | 20.3–23.7% | 19.8–24.1% | 19.4–24.6% | 18.7–25.4% |
@@ -754,18 +760,20 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0% | 100% |  |
-| 26.5–27.5% | 0.1% | 100% |  |
-| 27.5–28.5% | 0.7% | 99.9% |  |
-| 28.5–29.5% | 4% | 99.3% |  |
-| 29.5–30.5% | 12% | 95% |  |
-| 30.5–31.5% | 24% | 83% |  |
-| 31.5–32.5% | 28% | 60% | Median |
-| 32.5–33.5% | 20% | 32% |  |
-| 33.5–34.5% | 9% | 12% |  |
-| 34.5–35.5% | 3% | 3% |  |
-| 35.5–36.5% | 0.5% | 0.5% |  |
-| 36.5–37.5% | 0.1% | 0.1% |  |
-| 37.5–38.5% | 0% | 0% |  |
+| 26.5–27.5% | 0% | 100% |  |
+| 27.5–28.5% | 0% | 100% |  |
+| 28.5–29.5% | 0.1% | 100% |  |
+| 29.5–30.5% | 0.9% | 99.9% |  |
+| 30.5–31.5% | 15% | 99.0% |  |
+| 31.5–32.5% | 28% | 84% |  |
+| 32.5–33.5% | 16% | 55% | Median |
+| 33.5–34.5% | 17% | 39% |  |
+| 34.5–35.5% | 13% | 22% |  |
+| 35.5–36.5% | 6% | 9% |  |
+| 36.5–37.5% | 2% | 3% |  |
+| 37.5–38.5% | 0.5% | 0.5% |  |
+| 38.5–39.5% | 0.1% | 0.1% |  |
+| 39.5–40.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -776,7 +784,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 19–21 | 18–21 | 18–22 | 17–22 |
+| N/A | [Poll Average](average.html) | 21 | 20–22 | 20–22 | 19–23 | 19–23 |
+| [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
+| [1–12 September 2023](2023-09-12-CIS.html) | CIS | 20 | 20–21 | 20–21 | 20–21 | 19–21 |
+| [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 21 | 20–22 | 19–22 | 19–23 | 18–23 |
+| [28 August–1 September 2023](2023-09-01-NCReport.html) | NC Report <br> La Razón | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
+| [25–28 August 2023](2023-08-28-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
+| [17–24 August 2023](2023-08-24-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [31 July–7 August 2023](2023-08-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 20 | 19–21 | 18–21 | 18–22 | 17–22 |
 | [6–17 July 2023](2023-07-17-YouGov.html) | YouGov | 21 | 20–21 | 20–21 | 20–21 | 20–21 |
 | [10–17 July 2023](2023-07-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 23 | 22–24 | 22–24 | 22–24 | 22–24 |
@@ -1512,13 +1526,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.6% | 100% |  |
-| 18 | 8% | 99.4% |  |
-| 19 | 32% | 91% |  |
-| 20 | 40% | 59% | Median |
-| 21 | 17% | 19% |  |
-| 22 | 2% | 3% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0.3% | 100% |  |
+| 19 | 4% | 99.7% |  |
+| 20 | 42% | 96% |  |
+| 21 | 35% | 54% | Median |
+| 22 | 15% | 19% |  |
+| 23 | 4% | 4% |  |
+| 24 | 0.3% | 0.3% |  |
+| 25 | 0% | 0% |  |
 
 
