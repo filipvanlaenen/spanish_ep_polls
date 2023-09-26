@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.8% | 10.4–13.0% | 9.9–13.5% | 9.5–13.9% | 8.9–14.7% |
+| N/A | [Poll Average](average.html) | 11.4% | 10.0–12.4% | 9.7–12.7% | 9.4–13.1% | 8.8–13.8% |
+| [21–23 September 2023](2023-09-23-SocioMétrica.html) | SocioMétrica <br> El Español | 10.8% | 9.8–11.9% | 9.5–12.2% | 9.3–12.5% | 8.8–13.1% |
+| [15–21 September 2023](2023-09-21-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
 | [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo | 10.9% | 9.7–12.2% | 9.4–12.6% | 9.1–13.0% | 8.6–13.6% |
 | [1–12 September 2023](2023-09-12-CIS.html) | CIS | 11.9% | 11.5–12.3% | 11.4–12.5% | 11.3–12.5% | 11.1–12.8% |
 | [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 12.3% | 11.1–13.7% | 10.7–14.1% | 10.4–14.5% | 9.9–15.2% |
@@ -742,15 +744,14 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0.2% | 100% |  |
-| 8.5–9.5% | 2% | 99.8% |  |
-| 9.5–10.5% | 10% | 97% |  |
-| 10.5–11.5% | 23% | 87% |  |
-| 11.5–12.5% | 47% | 64% | Median |
-| 12.5–13.5% | 12% | 17% |  |
-| 13.5–14.5% | 4% | 4% |  |
-| 14.5–15.5% | 0.6% | 0.7% |  |
-| 15.5–16.5% | 0.1% | 0.1% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 8.5–9.5% | 4% | 99.8% |  |
+| 9.5–10.5% | 18% | 96% |  |
+| 10.5–11.5% | 33% | 78% | Median |
+| 11.5–12.5% | 39% | 45% |  |
+| 12.5–13.5% | 6% | 7% |  |
+| 13.5–14.5% | 0.8% | 0.9% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -762,6 +763,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [21–23 September 2023](2023-09-23-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [15–21 September 2023](2023-09-21-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [1–12 September 2023](2023-09-12-CIS.html) | CIS | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
@@ -1492,10 +1495,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 2% | 100% |  |
-| 6 | 20% | 98% |  |
-| 7 | 60% | 78% | Median |
-| 8 | 17% | 18% |  |
-| 9 | 1.4% | 1.4% |  |
+| 6 | 24% | 98% |  |
+| 7 | 60% | 74% | Median |
+| 8 | 13% | 14% |  |
+| 9 | 0.7% | 0.7% |  |
 | 10 | 0% | 0% |  |
 
 
