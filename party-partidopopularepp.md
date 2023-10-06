@@ -789,12 +789,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–25 | 20–25 | 20–25 | 19–26 |
+| N/A | [Poll Average](average.html) | 22 | 21–25 | 20–25 | 20–25 | 19–26 |
 | [25–28 September 2023](2023-09-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 24 | 22–24 | 22–25 | 22–25 | 22–25 |
 | [21–23 September 2023](2023-09-23-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 23–26 | 22–26 | 22–26 | 22–27 |
 | [15–21 September 2023](2023-09-21-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 24 | 21–24 | 21–25 | 20–25 | 20–26 |
-| [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
-| [1–12 September 2023](2023-09-12-CIS.html) | CIS | 20 | 20–21 | 20–21 | 20–21 | 19–21 |
+| [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo | 21 | 20–23 | 20–23 | 19–23 | 19–24 |
+| [1–12 September 2023](2023-09-12-CIS.html) | CIS | 21 | 21 | 21 | 20–21 | 20–21 |
 | [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 21 | 20–22 | 19–22 | 19–23 | 18–23 |
 | [28 August–1 September 2023](2023-09-01-NCReport.html) | NC Report <br> La Razón | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
 | [25–28 August 2023](2023-08-28-40dB.html) | 40dB <br> Prisa | 21 | 20–22 | 20–22 | 20–22 | 19–23 |
@@ -1536,13 +1536,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0.1% | 100% |  |
-| 19 | 2% | 99.9% |  |
-| 20 | 18% | 98% |  |
-| 21 | 18% | 80% |  |
-| 22 | 17% | 62% | Median |
-| 23 | 9% | 44% |  |
-| 24 | 25% | 35% |  |
-| 25 | 8% | 10% |  |
+| 19 | 1.4% | 99.9% |  |
+| 20 | 7% | 98% |  |
+| 21 | 28% | 91% |  |
+| 22 | 18% | 63% | Median |
+| 23 | 10% | 45% |  |
+| 24 | 23% | 34% |  |
+| 25 | 9% | 11% |  |
 | 26 | 2% | 2% |  |
 | 27 | 0.1% | 0.1% |  |
 | 28 | 0% | 0% |  |

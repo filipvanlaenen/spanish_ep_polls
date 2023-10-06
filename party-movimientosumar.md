@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 3.1–4.5% | 2.9–4.7% | 2.7–4.9% | 2.4–5.3% |
+| N/A | [Poll Average](average.html) | 3.8% | 3.1–4.4% | 2.9–4.6% | 2.7–4.8% | 2.4–5.2% |
 | [25–28 September 2023](2023-09-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.0% | 3.5–4.6% | 3.4–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [21–23 September 2023](2023-09-23-SocioMétrica.html) | SocioMétrica <br> El Español | 3.4% | 2.9–4.1% | 2.7–4.3% | 2.6–4.5% | 2.4–4.9% |
 | [15–21 September 2023](2023-09-21-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
-| [1–12 September 2023](2023-09-12-CIS.html) | CIS | 3.8% | N/A | N/A | N/A | N/A |
+| [1–12 September 2023](2023-09-12-CIS.html) | CIS | 3.8% | 3.6–4.1% | 3.5–4.1% | 3.4–4.2% | 3.3–4.3% |
 | [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 4.0% | N/A | N/A | N/A | N/A |
 | [28 August–1 September 2023](2023-09-01-NCReport.html) | NC Report <br> La Razón | 3.6% | N/A | N/A | N/A | N/A |
 | [25–28 August 2023](2023-08-28-40dB.html) | 40dB <br> Prisa | 3.8% | N/A | N/A | N/A | N/A |
@@ -738,11 +738,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.9% | 100% |  |
-| 2.5–3.5% | 34% | 99.1% |  |
-| 3.5–4.5% | 57% | 65% | Median |
-| 4.5–5.5% | 8% | 8% |  |
-| 5.5–6.5% | 0.2% | 0.2% |  |
+| 1.5–2.5% | 1.1% | 100% |  |
+| 2.5–3.5% | 31% | 98.9% |  |
+| 3.5–4.5% | 62% | 68% | Median |
+| 4.5–5.5% | 6% | 6% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -754,12 +754,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [25–28 September 2023](2023-09-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–23 September 2023](2023-09-23-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [15–21 September 2023](2023-09-21-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
-| [1–12 September 2023](2023-09-12-CIS.html) | CIS |  |  |  |  |  |
+| [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [1–12 September 2023](2023-09-12-CIS.html) | CIS | 2 | 2 | 2 | 2 | 2 |
 | [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [28 August–1 September 2023](2023-09-01-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [25–28 August 2023](2023-08-28-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
@@ -1483,9 +1483,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 5% | 100% |  |
-| 2 | 56% | 95% | Median |
-| 3 | 39% | 39% |  |
+| 1 | 7% | 100% |  |
+| 2 | 70% | 93% | Median |
+| 3 | 23% | 23% |  |
 | 4 | 0% | 0% |  |
 
 

@@ -768,7 +768,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21–23 September 2023](2023-09-23-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [15–21 September 2023](2023-09-21-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
-| [1–12 September 2023](2023-09-12-CIS.html) | CIS | 7 | 7 | 6–7 | 6–7 | 6–7 |
+| [1–12 September 2023](2023-09-12-CIS.html) | CIS | 7 | 7 | 7 | 7 | 7–8 |
 | [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [28 August–1 September 2023](2023-09-01-NCReport.html) | NC Report <br> La Razón | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [25–28 August 2023](2023-08-28-40dB.html) | 40dB <br> Prisa | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
@@ -1497,10 +1497,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.3% | 100% |  |
-| 6 | 15% | 99.7% |  |
-| 7 | 59% | 85% | Median |
-| 8 | 25% | 26% |  |
-| 9 | 1.0% | 1.1% |  |
+| 6 | 14% | 99.7% |  |
+| 7 | 58% | 86% | Median |
+| 8 | 27% | 28% |  |
+| 9 | 1.4% | 1.5% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
