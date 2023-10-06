@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [25–28 September 2023](2023-09-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 30.8% | 29.5–32.1% | 29.2–32.5% | 28.9–32.8% | 28.3–33.4% |
 | [21–23 September 2023](2023-09-23-SocioMétrica.html) | SocioMétrica <br> El Español | 30.9% | 29.4–32.5% | 29.0–33.0% | 28.6–33.4% | 27.9–34.2% |
 | [15–21 September 2023](2023-09-21-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 30.9% | 29.1–32.8% | 28.5–33.4% | 28.1–33.8% | 27.3–34.8% |
-| [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo | 32.3% | 30.5–34.2% | 29.9–34.8% | 29.5–35.3% | 28.6–36.2% |
+| [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo | 32.3% | N/A | N/A | N/A | N/A |
 | [1–12 September 2023](2023-09-12-CIS.html) | CIS | 33.5% | 32.9–34.1% | 32.7–34.3% | 32.6–34.4% | 32.3–34.7% |
 | [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 31.8% | 30.0–33.7% | 29.4–34.2% | 29.0–34.7% | 28.2–35.6% |
 | [28 August–1 September 2023](2023-09-01-NCReport.html) | NC Report <br> La Razón | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.2–33.9% | 27.3–34.9% |
@@ -786,9 +786,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 19–22 | 18–22 | 18–22 | 18–22 |
-| [25–28 September 2023](2023-09-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 19–21 | 19–21 | 18–21 | 18–22 |
-| [21–23 September 2023](2023-09-23-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 19–21 | 19–21 | 19–22 | 18–22 |
-| [15–21 September 2023](2023-09-21-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 20 | 19–21 | 18–22 | 18–22 | 17–22 |
+| [25–28 September 2023](2023-09-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 20 | 19–21 | 18–22 | 18–22 | 18–22 |
+| [21–23 September 2023](2023-09-23-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 18–21 | 18–21 | 18–22 | 18–22 |
+| [15–21 September 2023](2023-09-21-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 20 | 19–22 | 18–22 | 18–22 | 18–22 |
 | [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo | 20 | 19–21 | 18–22 | 18–22 | 18–22 |
 | [1–12 September 2023](2023-09-12-CIS.html) | CIS | 22 | 21–22 | 21–22 | 21–22 | 21–23 |
 | [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 20 | 18–21 | 18–21 | 18–21 | 17–22 |
@@ -1530,12 +1530,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.5% | 100% |  |
-| 18 | 6% | 99.5% |  |
-| 19 | 27% | 94% |  |
-| 20 | 34% | 66% | Median |
-| 21 | 18% | 33% |  |
-| 22 | 14% | 14% |  |
+| 17 | 0.4% | 100% |  |
+| 18 | 7% | 99.6% |  |
+| 19 | 28% | 92% |  |
+| 20 | 29% | 64% | Median |
+| 21 | 21% | 36% |  |
+| 22 | 15% | 15% |  |
 | 23 | 0.3% | 0.3% |  |
 | 24 | 0% | 0% |  |
 

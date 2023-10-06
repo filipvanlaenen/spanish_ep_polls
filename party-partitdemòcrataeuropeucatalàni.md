@@ -753,8 +753,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25–28 September 2023](2023-09-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [21–23 September 2023](2023-09-23-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| [15–21 September 2023](2023-09-21-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [21–23 September 2023](2023-09-23-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [15–21 September 2023](2023-09-21-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [1–12 September 2023](2023-09-12-CIS.html) | CIS | 1 | 1 | 1 | 0–1 | 0–1 |
 | [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
@@ -1479,9 +1479,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 86% | 87% | Median |
-| 2 | 0.4% | 0.4% |  |
+| 0 | 24% | 100% | Last Result |
+| 1 | 76% | 76% | Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 
