@@ -763,15 +763,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| N/A | [Poll Average](average.html) | 7 | 7–8 | 6–9 | 6–9 | 6–10 |
 | [25–28 September 2023](2023-09-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [21–23 September 2023](2023-09-23-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 6–8 | 6–8 | 6–9 |
-| [15–21 September 2023](2023-09-21-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
-| [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
-| [1–12 September 2023](2023-09-12-CIS.html) | CIS | 7 | 7 | 7 | 7 | 6–8 |
-| [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [28 August–1 September 2023](2023-09-01-NCReport.html) | NC Report <br> La Razón | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [25–28 August 2023](2023-08-28-40dB.html) | 40dB <br> Prisa | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
+| [15–21 September 2023](2023-09-21-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 7 | 6–8 | 6–9 | 6–9 | 6–10 |
+| [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [1–12 September 2023](2023-09-12-CIS.html) | CIS | 7 | 7 | 7–8 | 7–8 | 7–8 |
+| [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
+| [28 August–1 September 2023](2023-09-01-NCReport.html) | NC Report <br> La Razón | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
+| [25–28 August 2023](2023-08-28-40dB.html) | 40dB <br> Prisa | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [17–24 August 2023](2023-08-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [31 July–7 August 2023](2023-08-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [6–17 July 2023](2023-07-17-YouGov.html) | YouGov | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
@@ -1496,12 +1496,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.2% | 100% |  |
-| 6 | 12% | 99.8% |  |
-| 7 | 59% | 88% | Median |
-| 8 | 27% | 29% |  |
-| 9 | 1.5% | 2% |  |
-| 10 | 0.1% | 0.1% |  |
+| 5 | 0% | 100% |  |
+| 6 | 6% | 100% |  |
+| 7 | 53% | 94% | Median |
+| 8 | 33% | 40% |  |
+| 9 | 7% | 7% |  |
+| 10 | 0.6% | 0.6% |  |
 | 11 | 0% | 0% |  |
 
 

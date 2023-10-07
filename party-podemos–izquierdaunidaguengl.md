@@ -754,15 +754,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–3 | 1–3 | 1–3 |
-| [25–28 September 2023](2023-09-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [21–23 September 2023](2023-09-23-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 2 | 1–3 | 1–3 |
-| [15–21 September 2023](2023-09-21-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [1–12 September 2023](2023-09-12-CIS.html) | CIS | 2 | 2 | 2 | 2 | 2 |
-| [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| [28 August–1 September 2023](2023-09-01-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| [25–28 August 2023](2023-08-28-40dB.html) | 40dB <br> Prisa | 2 | 2 | 2 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [25–28 September 2023](2023-09-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [21–23 September 2023](2023-09-23-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [15–21 September 2023](2023-09-21-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [14–17 September 2023](2023-09-17-DYM.html) | DYM <br> Henneo | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
+| [1–12 September 2023](2023-09-12-CIS.html) | CIS | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–7 September 2023](2023-09-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
+| [28 August–1 September 2023](2023-09-01-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [25–28 August 2023](2023-08-28-40dB.html) | 40dB <br> Prisa | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [17–24 August 2023](2023-08-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [31 July–7 August 2023](2023-08-07-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [6–17 July 2023](2023-07-17-YouGov.html) | YouGov | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
@@ -1483,9 +1483,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 10% | 100% |  |
-| 2 | 81% | 90% | Median |
-| 3 | 10% | 10% |  |
-| 4 | 0% | 0% |  |
+| 1 | 1.1% | 100% |  |
+| 2 | 54% | 98.9% | Median |
+| 3 | 44% | 44% |  |
+| 4 | 0.9% | 0.9% |  |
+| 5 | 0% | 0% |  |
 
 
