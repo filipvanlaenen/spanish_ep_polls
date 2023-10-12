@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 3.1–4.5% | 2.9–4.7% | 2.7–5.0% | 2.4–5.4% |
+| N/A | [Poll Average](average.html) | 3.8% | 3.1–4.5% | 2.9–4.7% | 2.8–5.0% | 2.5–5.4% |
+| [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.2% | 2.5–5.6% |
+| [29 September–2 October 2023](2023-10-02-40dB.html) | 40dB <br> Prisa | 3.6% | 3.1–4.1% | 2.9–4.3% | 2.8–4.5% | 2.6–4.8% |
 | [25–28 September 2023](2023-09-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.0% | 3.5–4.6% | 3.4–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [21–23 September 2023](2023-09-23-SocioMétrica.html) | SocioMétrica <br> El Español | 3.4% | 2.9–4.1% | 2.7–4.3% | 2.6–4.5% | 2.4–4.9% |
 | [15–21 September 2023](2023-09-21-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
@@ -738,9 +740,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.1% | 100% |  |
-| 2.5–3.5% | 31% | 98.9% |  |
-| 3.5–4.5% | 59% | 68% | Median |
+| 1.5–2.5% | 0.9% | 100% |  |
+| 2.5–3.5% | 32% | 99.1% |  |
+| 3.5–4.5% | 59% | 67% | Median |
 | 4.5–5.5% | 8% | 8% |  |
 | 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -755,6 +757,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
+| [29 September–2 October 2023](2023-10-02-40dB.html) | 40dB <br> Prisa | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25–28 September 2023](2023-09-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–23 September 2023](2023-09-23-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [15–21 September 2023](2023-09-21-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -1483,10 +1487,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.1% | 100% |  |
-| 2 | 54% | 98.9% | Median |
-| 3 | 44% | 44% |  |
-| 4 | 0.9% | 0.9% |  |
+| 1 | 1.0% | 100% |  |
+| 2 | 53% | 99.0% | Median |
+| 3 | 45% | 46% |  |
+| 4 | 1.4% | 1.4% |  |
 | 5 | 0% | 0% |  |
 
 
