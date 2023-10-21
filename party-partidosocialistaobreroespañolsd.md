@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.6% | 29.7–33.7% | 29.2–34.0% | 28.7–34.4% | 27.8–35.3% |
+| N/A | [Poll Average](average.html) | 31.6% | 29.7–33.5% | 29.1–34.0% | 28.7–34.5% | 27.8–35.7% |
+| [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 32.2% | 30.0–34.6% | 29.4–35.2% | 28.9–35.8% | 27.8–36.9% |
+| [2–6 October 2023](2023-10-06-CIS.html) | CIS | 32.6% | 31.7–33.6% | 31.4–33.8% | 31.2–34.1% | 30.7–34.5% |
 | [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate | 30.8% | 29.0–32.7% | 28.5–33.3% | 28.0–33.7% | 27.2–34.7% |
 | [29 September–2 October 2023](2023-10-02-40dB.html) | 40dB <br> Prisa | 32.1% | 30.8–33.5% | 30.4–33.9% | 30.1–34.2% | 29.5–34.8% |
 | [25–28 September 2023](2023-09-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 30.8% | 29.5–32.1% | 29.2–32.5% | 28.9–32.8% | 28.3–33.4% |
@@ -768,14 +770,15 @@ The following table shows the probability mass function per percentage block of 
 | 26.5–27.5% | 0.3% | 100% |  |
 | 27.5–28.5% | 2% | 99.7% |  |
 | 28.5–29.5% | 7% | 98% |  |
-| 29.5–30.5% | 16% | 92% |  |
+| 29.5–30.5% | 16% | 91% |  |
 | 30.5–31.5% | 24% | 76% |  |
-| 31.5–32.5% | 21% | 52% | Median |
-| 32.5–33.5% | 19% | 31% |  |
-| 33.5–34.5% | 10% | 12% |  |
-| 34.5–35.5% | 1.4% | 2% |  |
-| 35.5–36.5% | 0.3% | 0.3% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 31.5–32.5% | 26% | 52% | Median |
+| 32.5–33.5% | 18% | 27% |  |
+| 33.5–34.5% | 7% | 9% |  |
+| 34.5–35.5% | 2% | 2% |  |
+| 35.5–36.5% | 0.5% | 0.7% |  |
+| 36.5–37.5% | 0.1% | 0.1% |  |
+| 37.5–38.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -786,7 +789,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–23 | 19–23 | 18–24 | 18–24 |
+| N/A | [Poll Average](average.html) | 21 | 19–23 | 19–23 | 18–24 | 18–25 |
+| [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 22 | 21–24 | 20–24 | 20–25 | 19–25 |
+| [2–6 October 2023](2023-10-06-CIS.html) | CIS | 22 | 22–23 | 22–23 | 22–23 | 21–24 |
 | [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate | 21 | 20–23 | 20–23 | 19–23 | 19–24 |
 | [29 September–2 October 2023](2023-10-02-40dB.html) | 40dB <br> Prisa | 22 | 21–23 | 21–23 | 21–24 | 20–24 |
 | [25–28 September 2023](2023-09-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 21 | 19–21 | 18–22 | 18–22 | 18–22 |
@@ -1535,13 +1540,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 4% | 100% |  |
-| 19 | 14% | 96% |  |
+| 19 | 13% | 96% |  |
 | 20 | 10% | 83% |  |
-| 21 | 24% | 72% | Median |
-| 22 | 27% | 48% |  |
-| 23 | 19% | 22% |  |
-| 24 | 2% | 3% |  |
-| 25 | 0.2% | 0.2% |  |
-| 26 | 0% | 0% |  |
+| 21 | 23% | 73% | Median |
+| 22 | 33% | 50% |  |
+| 23 | 13% | 17% |  |
+| 24 | 3% | 4% |  |
+| 25 | 0.5% | 0.6% |  |
+| 26 | 0.1% | 0.1% |  |
+| 27 | 0% | 0% |  |
 
 
