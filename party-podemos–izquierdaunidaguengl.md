@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 3.1–4.5% | 2.9–4.8% | 2.7–5.0% | 2.4–5.5% |
+| N/A | [Poll Average](average.html) | 3.8% | 3.0–4.5% | 2.8–4.7% | 2.7–5.0% | 2.4–5.5% |
+| [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 3.9% | 3.1–5.0% | 2.8–5.3% | 2.7–5.5% | 2.3–6.1% |
 | [2–6 October 2023](2023-10-06-CIS.html) | CIS | 4.1% | 3.7–4.5% | 3.6–4.6% | 3.5–4.7% | 3.3–4.9% |
 | [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.2% | 2.5–5.6% |
@@ -742,11 +743,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.0% | 100% |  |
-| 2.5–3.5% | 32% | 99.0% |  |
-| 3.5–4.5% | 58% | 67% | Median |
-| 4.5–5.5% | 9% | 9% |  |
-| 5.5–6.5% | 0.5% | 0.5% |  |
+| 1.5–2.5% | 1.4% | 100% |  |
+| 2.5–3.5% | 33% | 98.6% |  |
+| 3.5–4.5% | 57% | 65% | Median |
+| 4.5–5.5% | 8% | 9% |  |
+| 5.5–6.5% | 0.4% | 0.5% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -759,6 +760,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
 | [2–6 October 2023](2023-10-06-CIS.html) | CIS | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
@@ -1491,9 +1493,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.1% | 100% |  |
-| 2 | 42% | 98.9% |  |
-| 3 | 55% | 57% | Median |
+| 1 | 1.4% | 100% |  |
+| 2 | 43% | 98.6% |  |
+| 3 | 53% | 55% | Median |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
