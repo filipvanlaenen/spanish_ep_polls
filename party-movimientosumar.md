@@ -10,11 +10,17 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 3.0–4.5% | 2.8–4.8% | 2.6–5.0% | 2.3–5.6% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.9–4.5% | 2.7–4.8% | 2.5–5.1% | 2.0–5.9% |
+| [31 October–6 November 2023](2023-11-06-CIS.html) | CIS | 3.8% | 3.4–4.2% | 3.3–4.3% | 3.2–4.4% | 3.0–4.6% |
+| [31 October–4 November 2023](2023-11-04-NCReport.html) | NC Report <br> La Razón | 3.5% | 2.8–4.7% | 2.5–5.0% | 2.4–5.3% | 2.0–5.9% |
+| [30 October–3 November 2023](2023-11-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.6% | 3.1–4.2% | 2.9–4.4% | 2.8–4.6% | 2.6–4.9% |
+| [30 October–3 November 2023](2023-11-03-Invymark.html) | Invymark <br> laSexta | 3.3% | 2.3–5.1% | 2.1–5.6% | 1.8–6.0% | 1.4–7.0% |
 | [30 October–3 November 2023](2023-11-03-GAD3.html) | GAD3 <br> ABC | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
+| [27–30 October 2023](2023-10-30-40dB.html) | 40dB <br> Prisa | 3.8% | 3.2–4.4% | 3.1–4.5% | 3.0–4.7% | 2.8–5.0% |
 | [25–27 October 2023](2023-10-27-SocioMétrica.html) | SocioMétrica <br> El Español | 3.5% | 3.1–4.1% | 3.0–4.2% | 2.9–4.3% | 2.7–4.6% |
 | [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
+| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta | 3.3% | N/A | N/A | N/A | N/A |
 | [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 3.9% | 3.1–5.0% | 2.8–5.3% | 2.7–5.5% | 2.3–6.1% |
 | [2–6 October 2023](2023-10-06-CIS.html) | CIS | 4.1% | 3.7–4.5% | 3.6–4.6% | 3.5–4.7% | 3.3–4.9% |
 | [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.2% | 2.5–5.6% |
@@ -745,13 +751,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 35% | 98% |  |
-| 3.5–4.5% | 55% | 64% | Median |
-| 4.5–5.5% | 8% | 9% |  |
-| 5.5–6.5% | 0.6% | 0.6% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 3% | 99.9% |  |
+| 2.5–3.5% | 38% | 97% |  |
+| 3.5–4.5% | 51% | 59% | Median |
+| 4.5–5.5% | 7% | 8% |  |
+| 5.5–6.5% | 0.9% | 1.0% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -763,10 +770,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [31 October–6 November 2023](2023-11-06-CIS.html) | CIS | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [31 October–4 November 2023](2023-11-04-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [30 October–3 November 2023](2023-11-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [30 October–3 November 2023](2023-11-03-Invymark.html) | Invymark <br> laSexta | 2 | 2–3 | 1–4 | 1–4 | 1–5 |
 | [30 October–3 November 2023](2023-11-03-GAD3.html) | GAD3 <br> ABC | 3 | 2–3 | 2–3 | 1–3 | 1–4 |
+| [27–30 October 2023](2023-10-30-40dB.html) | 40dB <br> Prisa | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [25–27 October 2023](2023-10-27-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
 | [2–6 October 2023](2023-10-06-CIS.html) | CIS | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -1500,9 +1513,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 2% | 100% |  |
-| 2 | 60% | 98% | Median |
-| 3 | 36% | 38% |  |
+| 2 | 62% | 98% | Median |
+| 3 | 33% | 35% |  |
 | 4 | 2% | 2% |  |
-| 5 | 0% | 0% |  |
+| 5 | 0.1% | 0.1% |  |
+| 6 | 0% | 0% |  |
 
 
