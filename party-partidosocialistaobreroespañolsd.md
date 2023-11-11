@@ -20,7 +20,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [25–27 October 2023](2023-10-27-SocioMétrica.html) | SocioMétrica <br> El Español | 30.2% | 29.1–31.4% | 28.7–31.7% | 28.5–32.0% | 27.9–32.6% |
 | [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 31.3% | 29.5–33.2% | 28.9–33.8% | 28.5–34.2% | 27.6–35.2% |
 | [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo | 32.6% | 30.7–34.5% | 30.2–35.0% | 29.8–35.5% | 28.9–36.4% |
-| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta | 32.7% | N/A | N/A | N/A | N/A |
+| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta | 32.7% | 29.3–36.3% | 28.4–37.3% | 27.6–38.2% | 26.1–39.9% |
 | [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 32.2% | 30.0–34.6% | 29.4–35.2% | 28.9–35.8% | 27.8–36.9% |
 | [2–6 October 2023](2023-10-06-CIS.html) | CIS | 32.6% | 31.7–33.6% | 31.4–33.8% | 31.2–34.1% | 30.7–34.5% |
 | [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate | 30.8% | 29.0–32.7% | 28.5–33.3% | 28.0–33.7% | 27.2–34.7% |
@@ -810,7 +810,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–27 October 2023](2023-10-27-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 19–21 | 19–21 | 19–21 | 19–21 |
 | [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 22 | 18–22 | 18–22 | 18–22 | 18–23 |
 | [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
-| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta | 23 | 20–25 | 20–26 | 19–26 | 18–28 |
 | [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 22 | 21–24 | 20–24 | 20–25 | 19–25 |
 | [2–6 October 2023](2023-10-06-CIS.html) | CIS | 22 | 22–23 | 22–23 | 22–23 | 21–24 |
 | [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate | 21 | 20–23 | 20–23 | 19–23 | 19–24 |

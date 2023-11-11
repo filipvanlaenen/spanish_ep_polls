@@ -20,7 +20,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [25–27 October 2023](2023-10-27-SocioMétrica.html) | SocioMétrica <br> El Español | 4.0% | 3.5–4.5% | 3.4–4.6% | 3.3–4.8% | 3.1–5.1% |
 | [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo | 3.7% | 3.0–4.5% | 2.8–4.8% | 2.7–5.0% | 2.4–5.5% |
-| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta | 3.7% | N/A | N/A | N/A | N/A |
+| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta | 3.7% | 2.6–5.5% | 2.3–6.0% | 2.1–6.4% | 1.6–7.4% |
 | [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 4.3% | 3.4–5.4% | 3.2–5.8% | 3.0–6.1% | 2.7–6.6% |
 | [2–6 October 2023](2023-10-06-CIS.html) | CIS | 4.6% | 4.2–5.0% | 4.1–5.2% | 4.0–5.3% | 3.8–5.5% |
 | [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
@@ -779,7 +779,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–27 October 2023](2023-10-27-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
-| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta | 3 | 2–4 | 1–4 | 1–5 | 1–5 |
 | [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [2–6 October 2023](2023-10-06-CIS.html) | CIS | 3 | 3 | 3 | 3–4 | 2–4 |
 | [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate | 3 | 2–4 | 2–4 | 2–4 | 2–4 |

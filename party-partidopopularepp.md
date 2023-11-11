@@ -20,7 +20,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [25–27 October 2023](2023-10-27-SocioMétrica.html) | SocioMétrica <br> El Español | 37.8% | 36.6–39.0% | 36.2–39.4% | 36.0–39.7% | 35.4–40.3% |
 | [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 35.6% | 33.7–37.6% | 33.2–38.1% | 32.7–38.6% | 31.8–39.6% |
 | [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo | 34.9% | 33.0–36.8% | 32.5–37.4% | 32.0–37.8% | 31.2–38.8% |
-| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta | 34.7% | N/A | N/A | N/A | N/A |
+| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta | 34.7% | 31.3–38.3% | 30.3–39.3% | 29.5–40.2% | 27.9–42.0% |
 | [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 34.1% | 31.9–36.4% | 31.2–37.1% | 30.7–37.7% | 29.6–38.8% |
 | [2–6 October 2023](2023-10-06-CIS.html) | CIS | 32.2% | 31.3–33.2% | 31.0–33.4% | 30.8–33.7% | 30.3–34.1% |
 | [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate | 34.5% | 32.6–36.5% | 32.1–37.0% | 31.6–37.5% | 30.7–38.5% |
@@ -817,7 +817,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–27 October 2023](2023-10-27-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 25–26 | 25–26 | 24–26 | 24–26 |
 | [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo | 24 | 23–25 | 22–25 | 22–26 | 21–26 |
-| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta | 24 | 22–26 | 21–27 | 20–28 | 19–29 |
 | [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 23 | 22–25 | 21–26 | 21–26 | 20–27 |
 | [2–6 October 2023](2023-10-06-CIS.html) | CIS | 23 | 22–23 | 21–23 | 21–23 | 21–23 |
 | [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
