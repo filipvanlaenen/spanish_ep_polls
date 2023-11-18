@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35.7% | 33.5–38.4% | 33.0–39.1% | 32.5–39.9% | 31.6–42.2% |
-| [2–13 November 2023](2023-11-13-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 35.9% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 35.7% | 33.5–38.3% | 33.0–39.0% | 32.6–39.8% | 31.6–42.1% |
+| [2–13 November 2023](2023-11-13-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 35.9% | 34.0–37.9% | 33.5–38.5% | 33.1–38.9% | 32.2–39.9% |
 | [31 October–6 November 2023](2023-11-06-CIS.html) | CIS | 33.9% | 33.0–34.9% | 32.7–35.1% | 32.5–35.4% | 32.0–35.8% |
 | [31 October–4 November 2023](2023-11-04-NCReport.html) | NC Report <br> La Razón | 35.8% | 33.5–38.3% | 32.8–39.0% | 32.3–39.6% | 31.1–40.8% |
 | [30 October–3 November 2023](2023-11-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 36.7% | 35.2–38.2% | 34.8–38.6% | 34.5–39.0% | 33.8–39.7% |
@@ -784,17 +784,17 @@ The following table shows the probability mass function per percentage block of 
 | 29.5–30.5% | 0.1% | 100% |  |
 | 30.5–31.5% | 0.4% | 99.9% |  |
 | 31.5–32.5% | 2% | 99.5% |  |
-| 32.5–33.5% | 9% | 97% |  |
-| 33.5–34.5% | 18% | 89% |  |
-| 34.5–35.5% | 19% | 71% |  |
-| 35.5–36.5% | 18% | 52% | Median |
+| 32.5–33.5% | 8% | 98% |  |
+| 33.5–34.5% | 17% | 90% |  |
+| 34.5–35.5% | 19% | 72% |  |
+| 35.5–36.5% | 19% | 53% | Median |
 | 36.5–37.5% | 16% | 35% |  |
 | 37.5–38.5% | 11% | 19% |  |
 | 38.5–39.5% | 5% | 8% |  |
 | 39.5–40.5% | 2% | 3% |  |
-| 40.5–41.5% | 0.8% | 2% |  |
-| 41.5–42.5% | 0.4% | 0.8% |  |
-| 42.5–43.5% | 0.2% | 0.4% |  |
+| 40.5–41.5% | 0.7% | 1.4% |  |
+| 41.5–42.5% | 0.4% | 0.7% |  |
+| 42.5–43.5% | 0.2% | 0.3% |  |
 | 43.5–44.5% | 0.1% | 0.2% |  |
 | 44.5–45.5% | 0% | 0.1% |  |
 | 45.5–46.5% | 0% | 0% |  |
@@ -808,8 +808,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 23–26 | 22–27 | 22–28 | 21–30 |
-| [2–13 November 2023](2023-11-13-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 25 | 23–26 | 23–27 | 22–28 | 21–29 |
+| [2–13 November 2023](2023-11-13-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
 | [31 October–6 November 2023](2023-11-06-CIS.html) | CIS | 24 | 23–24 | 23–24 | 23–24 | 22–25 |
 | [31 October–4 November 2023](2023-11-04-NCReport.html) | NC Report <br> La Razón | 25 | 23–26 | 22–26 | 22–26 | 21–27 |
 | [30 October–3 November 2023](2023-11-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 25 | 23–25 | 23–26 | 23–26 | 23–26 |
@@ -1572,16 +1572,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 1.2% | 100% |  |
-| 22 | 4% | 98.8% |  |
-| 23 | 18% | 95% |  |
-| 24 | 28% | 77% | Median |
-| 25 | 33% | 48% |  |
-| 26 | 9% | 15% |  |
-| 27 | 3% | 6% |  |
-| 28 | 2% | 3% |  |
-| 29 | 0.9% | 1.4% |  |
-| 30 | 0.4% | 0.5% |  |
+| 21 | 1.1% | 100% |  |
+| 22 | 4% | 98.9% |  |
+| 23 | 17% | 95% |  |
+| 24 | 28% | 78% |  |
+| 25 | 33% | 50% | Median |
+| 26 | 11% | 17% |  |
+| 27 | 4% | 6% |  |
+| 28 | 1.5% | 3% |  |
+| 29 | 0.8% | 1.3% |  |
+| 30 | 0.3% | 0.5% |  |
 | 31 | 0.1% | 0.2% | Majority |
 | 32 | 0% | 0% |  |
 
