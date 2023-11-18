@@ -778,14 +778,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
-| [31 October–6 November 2023](2023-11-06-CIS.html) | CIS | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
+| [31 October–6 November 2023](2023-11-06-CIS.html) | CIS | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [31 October–4 November 2023](2023-11-04-NCReport.html) | NC Report <br> La Razón | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
-| [30 October–3 November 2023](2023-11-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [30 October–3 November 2023](2023-11-03-Invymark.html) | Invymark <br> laSexta | 6 | 5–8 | 5–9 | 4–9 | 4–10 |
-| [30 October–3 November 2023](2023-11-03-GAD3.html) | GAD3 <br> ABC | 8 | 6–8 | 6–9 | 6–9 | 6–9 |
-| [27–30 October 2023](2023-10-30-40dB.html) | 40dB <br> Prisa | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
-| [25–27 October 2023](2023-10-27-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [30 October–3 November 2023](2023-11-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
+| [30 October–3 November 2023](2023-11-03-Invymark.html) | Invymark <br> laSexta | 7 | 5–8 | 5–9 | 4–9 | 4–10 |
+| [30 October–3 November 2023](2023-11-03-GAD3.html) | GAD3 <br> ABC | 8 | 7–8 | 6–9 | 6–9 | 6–9 |
+| [27–30 October 2023](2023-10-30-40dB.html) | 40dB <br> Prisa | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
+| [25–27 October 2023](2023-10-27-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 7 | 7–8 | 6–8 | 6–9 | 6–10 |
 | [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta | 7 | 5–8 | 5–9 | 5–9 | 4–10 |
@@ -1524,12 +1524,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.4% | 100% |  |
-| 5 | 2% | 99.6% |  |
-| 6 | 16% | 97% |  |
-| 7 | 50% | 82% | Median |
-| 8 | 25% | 31% |  |
-| 9 | 5% | 6% |  |
+| 4 | 0.3% | 100% |  |
+| 5 | 2% | 99.7% |  |
+| 6 | 19% | 98% |  |
+| 7 | 44% | 78% | Median |
+| 8 | 28% | 35% |  |
+| 9 | 6% | 6% |  |
 | 10 | 0.6% | 0.6% |  |
 | 11 | 0% | 0% |  |
 

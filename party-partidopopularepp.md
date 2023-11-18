@@ -807,14 +807,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 23–26 | 22–26 | 22–27 | 21–29 |
-| [31 October–6 November 2023](2023-11-06-CIS.html) | CIS | 23 | 23–24 | 23–24 | 23–24 | 22–25 |
-| [31 October–4 November 2023](2023-11-04-NCReport.html) | NC Report <br> La Razón | 23 | 21–25 | 21–25 | 21–25 | 20–27 |
-| [30 October–3 November 2023](2023-11-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 24 | 23–25 | 23–26 | 22–26 | 22–27 |
-| [30 October–3 November 2023](2023-11-03-Invymark.html) | Invymark <br> laSexta | 26 | 23–28 | 23–29 | 22–30 | 21–31 |
-| [30 October–3 November 2023](2023-11-03-GAD3.html) | GAD3 <br> ABC | 23 | 22–25 | 22–25 | 22–26 | 21–27 |
-| [27–30 October 2023](2023-10-30-40dB.html) | 40dB <br> Prisa | 24 | 23–25 | 23–25 | 23–26 | 22–26 |
-| [25–27 October 2023](2023-10-27-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 25–26 | 25–26 | 24–26 | 24–26 |
+| N/A | [Poll Average](average.html) | 24 | 23–26 | 22–27 | 22–28 | 21–29 |
+| [31 October–6 November 2023](2023-11-06-CIS.html) | CIS | 24 | 23–24 | 23–24 | 23–24 | 22–25 |
+| [31 October–4 November 2023](2023-11-04-NCReport.html) | NC Report <br> La Razón | 25 | 23–26 | 22–26 | 22–26 | 21–27 |
+| [30 October–3 November 2023](2023-11-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 25 | 23–25 | 23–26 | 23–26 | 23–26 |
+| [30 October–3 November 2023](2023-11-03-Invymark.html) | Invymark <br> laSexta | 26 | 24–29 | 23–29 | 23–30 | 21–31 |
+| [30 October–3 November 2023](2023-11-03-GAD3.html) | GAD3 <br> ABC | 24 | 22–25 | 22–25 | 22–26 | 21–26 |
+| [27–30 October 2023](2023-10-30-40dB.html) | 40dB <br> Prisa | 24 | 23–25 | 23–26 | 23–26 | 22–26 |
+| [25–27 October 2023](2023-10-27-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 24–26 | 24–27 | 24–27 | 24–27 |
 | [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo | 24 | 23–25 | 22–25 | 22–26 | 21–26 |
 | [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta | 24 | 22–26 | 21–27 | 20–28 | 19–29 |
@@ -1569,18 +1569,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.2% | 100% |  |
-| 21 | 2% | 99.8% |  |
-| 22 | 7% | 98% |  |
-| 23 | 32% | 90% |  |
-| 24 | 23% | 58% | Median |
-| 25 | 25% | 36% |  |
-| 26 | 7% | 11% |  |
-| 27 | 2% | 4% |  |
-| 28 | 1.0% | 2% |  |
-| 29 | 0.5% | 0.7% |  |
-| 30 | 0.2% | 0.3% |  |
-| 31 | 0.1% | 0.1% | Majority |
+| 20 | 0.1% | 100% |  |
+| 21 | 1.1% | 99.8% |  |
+| 22 | 6% | 98.8% |  |
+| 23 | 22% | 93% |  |
+| 24 | 27% | 71% | Median |
+| 25 | 30% | 44% |  |
+| 26 | 9% | 14% |  |
+| 27 | 3% | 6% |  |
+| 28 | 1.4% | 3% |  |
+| 29 | 0.8% | 1.3% |  |
+| 30 | 0.3% | 0.5% |  |
+| 31 | 0.1% | 0.2% | Majority |
 | 32 | 0% | 0% |  |
 
 
