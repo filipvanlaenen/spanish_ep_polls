@@ -765,7 +765,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [31 October–6 November 2023](2023-11-06-CIS.html) | CIS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [31 October–4 November 2023](2023-11-04-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [30 October–3 November 2023](2023-11-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -773,7 +773,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 October–3 November 2023](2023-11-03-GAD3.html) | GAD3 <br> ABC | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–30 October 2023](2023-10-30-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [25–27 October 2023](2023-10-27-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
@@ -1507,9 +1507,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 49% | 100% | Last Result |
-| 1 | 51% | 51% | Median |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 53% | 100% | Last Result, Median |
+| 1 | 46% | 47% |  |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 

@@ -772,7 +772,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 October–3 November 2023](2023-11-03-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0–1 |
 | [27–30 October 2023](2023-10-30-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [25–27 October 2023](2023-10-27-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
-| [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0 | 0 | 0 | 0 | 0–1 |
+| [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0 | 0 | 0 | 0–1 | 0–1 |
 | [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
@@ -1506,8 +1506,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.7% | 100% | Last Result, Median |
-| 1 | 1.3% | 1.3% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 
 

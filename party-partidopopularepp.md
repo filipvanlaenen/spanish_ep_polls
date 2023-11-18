@@ -815,12 +815,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 October–3 November 2023](2023-11-03-GAD3.html) | GAD3 <br> ABC | 24 | 22–25 | 22–25 | 22–26 | 21–26 |
 | [27–30 October 2023](2023-10-30-40dB.html) | 40dB <br> Prisa | 24 | 23–25 | 23–26 | 23–26 | 22–26 |
 | [25–27 October 2023](2023-10-27-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 24–26 | 24–27 | 24–27 | 24–27 |
-| [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
-| [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo | 24 | 23–25 | 22–25 | 22–26 | 21–26 |
-| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta | 24 | 22–26 | 21–27 | 20–28 | 19–29 |
-| [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 23 | 22–25 | 21–26 | 21–26 | 20–27 |
-| [2–6 October 2023](2023-10-06-CIS.html) | CIS | 23 | 22–23 | 21–23 | 21–23 | 21–23 |
-| [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
+| [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 23 | 22–25 | 21–25 | 21–25 | 21–26 |
+| [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
+| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta | 24 | 22–27 | 21–28 | 21–28 | 20–29 |
+| [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 24 | 22–25 | 22–26 | 21–26 | 21–27 |
+| [2–6 October 2023](2023-10-06-CIS.html) | CIS | 23 | 22–24 | 22–24 | 21–24 | 21–24 |
+| [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
 | [29 September–2 October 2023](2023-10-02-40dB.html) | 40dB <br> Prisa | 24 | 23–25 | 22–25 | 22–25 | 22–26 |
 | [25–28 September 2023](2023-09-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 24 | 22–25 | 22–25 | 22–25 | 22–25 |
 | [21–23 September 2023](2023-09-23-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 23–26 | 23–26 | 23–26 | 22–26 |
@@ -1570,12 +1570,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0.1% | 100% |  |
-| 21 | 1.1% | 99.8% |  |
-| 22 | 6% | 98.8% |  |
-| 23 | 22% | 93% |  |
-| 24 | 27% | 71% | Median |
-| 25 | 30% | 44% |  |
-| 26 | 9% | 14% |  |
+| 21 | 1.4% | 99.9% |  |
+| 22 | 5% | 98.5% |  |
+| 23 | 19% | 94% |  |
+| 24 | 29% | 75% | Median |
+| 25 | 32% | 46% |  |
+| 26 | 9% | 15% |  |
 | 27 | 3% | 6% |  |
 | 28 | 1.4% | 3% |  |
 | 29 | 0.8% | 1.3% |  |

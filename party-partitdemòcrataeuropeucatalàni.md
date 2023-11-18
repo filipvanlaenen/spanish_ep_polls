@@ -774,11 +774,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 October–3 November 2023](2023-11-03-GAD3.html) | GAD3 <br> ABC | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [27–30 October 2023](2023-10-30-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [25–27 October 2023](2023-10-27-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1 | 1 | 1 |
-| [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
-| [2–6 October 2023](2023-10-06-CIS.html) | CIS | 0 | 0 | 0 | 0–1 | 0–1 |
+| [2–6 October 2023](2023-10-06-CIS.html) | CIS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [29 September–2 October 2023](2023-10-02-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [25–28 September 2023](2023-09-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1508,8 +1508,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% | Last Result |
-| 1 | 62% | 64% | Median |
+| 0 | 31% | 100% | Last Result |
+| 1 | 68% | 69% | Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 

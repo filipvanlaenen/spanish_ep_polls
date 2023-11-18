@@ -800,7 +800,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 20–23 | 19–23 | 18–24 | 18–25 |
+| N/A | [Poll Average](average.html) | 21 | 20–23 | 19–24 | 19–24 | 18–25 |
 | [31 October–6 November 2023](2023-11-06-CIS.html) | CIS | 22 | 22 | 21–22 | 21–23 | 21–23 |
 | [31 October–4 November 2023](2023-11-04-NCReport.html) | NC Report <br> La Razón | 21 | 19–23 | 19–23 | 18–23 | 18–25 |
 | [30 October–3 November 2023](2023-11-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 21 | 20–22 | 20–22 | 20–22 | 19–22 |
@@ -808,11 +808,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 October–3 November 2023](2023-11-03-GAD3.html) | GAD3 <br> ABC | 20 | 18–21 | 18–21 | 18–22 | 17–23 |
 | [27–30 October 2023](2023-10-30-40dB.html) | 40dB <br> Prisa | 22 | 21–23 | 21–23 | 20–23 | 20–24 |
 | [25–27 October 2023](2023-10-27-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 19–21 | 19–21 | 19–22 | 19–22 |
-| [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 22 | 18–22 | 18–22 | 18–22 | 18–23 |
-| [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
-| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta | 23 | 20–25 | 20–26 | 19–26 | 18–28 |
-| [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 22 | 21–24 | 20–24 | 20–25 | 19–25 |
-| [2–6 October 2023](2023-10-06-CIS.html) | CIS | 22 | 22–23 | 22–23 | 22–23 | 21–24 |
+| [20–26 October 2023](2023-10-26-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 21 | 20–23 | 19–23 | 19–23 | 18–23 |
+| [18–22 October 2023](2023-10-22-DYM.html) | DYM <br> Henneo | 22 | 21–24 | 21–24 | 20–24 | 20–25 |
+| [16–20 October 2023](2023-10-20-Invymark.html) | Invymark <br> laSexta | 23 | 21–25 | 20–26 | 19–27 | 18–28 |
+| [2–10 October 2023](2023-10-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 22 | 21–24 | 20–24 | 20–25 | 19–26 |
+| [2–6 October 2023](2023-10-06-CIS.html) | CIS | 23 | 22–23 | 22–23 | 22–23 | 21–24 |
 | [2–4 October 2023](2023-10-04-TargetPoint.html) | Target Point <br> El Debate | 21 | 20–23 | 20–23 | 19–23 | 19–24 |
 | [29 September–2 October 2023](2023-10-02-40dB.html) | 40dB <br> Prisa | 22 | 21–23 | 21–23 | 21–24 | 20–24 |
 | [25–28 September 2023](2023-09-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 21 | 19–21 | 18–22 | 18–22 | 18–22 |
@@ -1560,15 +1560,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0.2% | 100% |  |
-| 18 | 3% | 99.8% |  |
-| 19 | 7% | 97% |  |
-| 20 | 18% | 90% |  |
-| 21 | 25% | 72% | Median |
-| 22 | 32% | 47% |  |
-| 23 | 11% | 15% |  |
-| 24 | 3% | 4% |  |
-| 25 | 0.9% | 1.2% |  |
-| 26 | 0.2% | 0.3% |  |
+| 18 | 2% | 99.8% |  |
+| 19 | 7% | 98% |  |
+| 20 | 20% | 91% |  |
+| 21 | 26% | 71% | Median |
+| 22 | 27% | 45% |  |
+| 23 | 13% | 18% |  |
+| 24 | 4% | 5% |  |
+| 25 | 1.1% | 1.5% |  |
+| 26 | 0.3% | 0.3% |  |
 | 27 | 0.1% | 0.1% |  |
 | 28 | 0% | 0% |  |
 
