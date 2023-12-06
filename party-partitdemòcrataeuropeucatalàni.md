@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 1.0–3.2% |
+| N/A | [Poll Average](average.html) | 1.8% | 1.3–2.5% | 1.2–2.7% | 1.1–2.9% | 1.0–3.3% |
+| [24–27 November 2023](2023-11-27-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
+| [20–24 November 2023](2023-11-24-SocioMétrica.html) | SocioMétrica <br> El Español | 2.1% | 1.7–2.5% | 1.6–2.7% | 1.6–2.8% | 1.4–3.0% |
+| [17–23 November 2023](2023-11-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
+| [21–23 November 2023](2023-11-23-GESOP.html) | GESOP <br> Prensa Ibérica | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [17–18 November 2023](2023-11-18-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [16–17 November 2023](2023-11-17-GAD3.html) | GAD3 <br> Mediaset | 0.0% | N/A | N/A | N/A | N/A |
 | [2–13 November 2023](2023-11-13-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
@@ -755,10 +759,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 33% | 100% |  |
-| 1.5–2.5% | 61% | 67% | Median |
-| 2.5–3.5% | 6% | 7% |  |
-| 3.5–4.5% | 0.1% | 0.2% |  |
+| 0.5–1.5% | 30% | 100% |  |
+| 1.5–2.5% | 62% | 70% | Median |
+| 2.5–3.5% | 8% | 8% |  |
+| 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -771,6 +775,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [24–27 November 2023](2023-11-27-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
+| [20–24 November 2023](2023-11-24-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1 | 1 | 0–1 |
+| [17–23 November 2023](2023-11-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 1 | 1 | 0–1 | 0–2 |
+| [21–23 November 2023](2023-11-23-GESOP.html) | GESOP <br> Prensa Ibérica | 1 | 1 | 1 | 1 | 0–2 |
 | [17–18 November 2023](2023-11-18-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [16–17 November 2023](2023-11-17-GAD3.html) | GAD3 <br> Mediaset |  |  |  |  |  |
 | [2–13 November 2023](2023-11-13-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
@@ -1516,9 +1524,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% | Last Result |
-| 1 | 68% | 69% | Median |
-| 2 | 0.9% | 0.9% |  |
+| 0 | 24% | 100% | Last Result |
+| 1 | 75% | 76% | Median |
+| 2 | 1.1% | 1.1% |  |
 | 3 | 0% | 0% |  |
 
 
