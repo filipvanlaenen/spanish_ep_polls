@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.4% | 4.3–6.4% | 4.0–6.8% | 3.6–7.1% | 3.0–7.8% |
+| N/A | [Poll Average](average.html) | 5.4% | 4.1–6.3% | 3.7–6.6% | 3.5–6.9% | 2.9–7.7% |
+| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 5.6% | 5.1–6.2% | 5.0–6.4% | 4.9–6.5% | 4.6–6.8% |
 | [12–16 December 2023](2023-12-16-NCReport.html) | NC Report <br> La Razón | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
 | [11–15 December 2023](2023-12-15-Invymark.html) | Invymark <br> laSexta | 4.7% | 3.4–6.6% | 3.1–7.2% | 2.8–7.7% | 2.3–8.7% |
 | [13–15 December 2023](2023-12-15-DYM.html) | DYM <br> Henneo | 4.3% | 3.5–5.2% | 3.3–5.5% | 3.2–5.7% | 2.9–6.2% |
@@ -767,13 +768,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 2% | 99.9% |  |
-| 3.5–4.5% | 13% | 98% |  |
-| 4.5–5.5% | 43% | 84% | Median |
-| 5.5–6.5% | 34% | 42% |  |
-| 6.5–7.5% | 7% | 7% |  |
-| 7.5–8.5% | 0.8% | 0.9% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 3% | 99.8% |  |
+| 3.5–4.5% | 15% | 97% |  |
+| 4.5–5.5% | 39% | 82% | Median |
+| 5.5–6.5% | 37% | 43% |  |
+| 6.5–7.5% | 5% | 5% |  |
+| 7.5–8.5% | 0.6% | 0.7% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -786,7 +787,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12–16 December 2023](2023-12-16-NCReport.html) | NC Report <br> La Razón | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [11–15 December 2023](2023-12-15-Invymark.html) | Invymark <br> laSexta | 3 | 2–4 | 2–5 | 1–5 | 1–6 |
 | [13–15 December 2023](2023-12-15-DYM.html) | DYM <br> Henneo | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -1544,11 +1546,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.3% | 100% |  |
-| 2 | 9% | 99.7% |  |
-| 3 | 57% | 91% | Median |
-| 4 | 31% | 34% |  |
-| 5 | 2% | 3% |  |
+| 1 | 0.4% | 100% |  |
+| 2 | 11% | 99.6% |  |
+| 3 | 56% | 89% | Median |
+| 4 | 32% | 33% |  |
+| 5 | 2% | 2% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 

@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.3% | 8.9–12.9% | 8.4–13.4% | 8.1–13.8% | 7.5–14.7% |
+| N/A | [Poll Average](average.html) | 11.1% | 8.5–12.6% | 8.2–13.1% | 8.0–13.6% | 7.3–14.5% |
+| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 11.2% | 10.5–12.0% | 10.3–12.2% | 10.1–12.4% | 9.8–12.8% |
 | [12–16 December 2023](2023-12-16-NCReport.html) | NC Report <br> La Razón | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [11–15 December 2023](2023-12-15-Invymark.html) | Invymark <br> laSexta | 10.0% | 8.1–12.6% | 7.5–13.3% | 7.1–13.9% | 6.3–15.2% |
 | [13–15 December 2023](2023-12-15-DYM.html) | DYM <br> Henneo | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.1% | 8.7–13.7% |
@@ -663,7 +664,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [7–10 January 2020](2020-01-10-SimpleLógica.html) | Simple Lógica | 14.4% | 13.1–15.9% | 12.8–16.3% | 12.4–16.6% | 11.9–17.3% |
 | [7–10 January 2020](2020-01-10-InvyMark.html) | InvyMark <br> laSexta | 16.4% | N/A | N/A | N/A | N/A |
 | [7–10 January 2020](2020-01-10-GAD3.html) | GAD3 <br> ABC | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
-| [2–9 January 2020](2020-01-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17.0% | 15.6–18.5% | 15.2–19.0% | 14.9–19.3% | 14.3–20.1% |
+| [2–9 January 2020](2020-01-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16.9% | 15.6–18.5% | 15.2–19.0% | 14.9–19.3% | 14.3–20.1% |
 | [30 December 2019–2 January 2020](2020-01-02-SWDemoscopia.html) | SW Demoscopia | 19.4% | 18.0–20.9% | 17.6–21.3% | 17.3–21.6% | 16.7–22.3% |
 | [26–27 December 2019](2019-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [20–21 December 2019](2019-12-21-SocioMétrica.html) | SocioMétrica <br> El Español | 16.2% | 15.2–17.3% | 14.9–17.6% | 14.7–17.8% | 14.3–18.3% |
@@ -772,15 +773,15 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 0.4% | 99.9% |  |
-| 7.5–8.5% | 6% | 99.5% |  |
-| 8.5–9.5% | 8% | 94% |  |
-| 9.5–10.5% | 14% | 86% |  |
-| 10.5–11.5% | 30% | 72% | Median |
-| 11.5–12.5% | 26% | 42% |  |
-| 12.5–13.5% | 12% | 16% |  |
-| 13.5–14.5% | 3% | 4% |  |
-| 14.5–15.5% | 0.6% | 0.7% |  |
+| 6.5–7.5% | 0.7% | 99.9% |  |
+| 7.5–8.5% | 9% | 99.2% |  |
+| 8.5–9.5% | 11% | 90% |  |
+| 9.5–10.5% | 14% | 79% |  |
+| 10.5–11.5% | 31% | 65% | Median |
+| 11.5–12.5% | 23% | 34% |  |
+| 12.5–13.5% | 8% | 11% |  |
+| 13.5–14.5% | 2% | 3% |  |
+| 14.5–15.5% | 0.4% | 0.5% |  |
 | 15.5–16.5% | 0.1% | 0.1% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -793,7 +794,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
+| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [12–16 December 2023](2023-12-16-NCReport.html) | NC Report <br> La Razón | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | [11–15 December 2023](2023-12-15-Invymark.html) | Invymark <br> laSexta | 7 | 5–8 | 5–9 | 5–9 | 4–10 |
 | [13–15 December 2023](2023-12-15-DYM.html) | DYM <br> Henneo | 8 | 7–8 | 6–9 | 6–9 | 6–10 |
@@ -1554,13 +1556,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.2% | 100% |  |
-| 5 | 2% | 99.8% |  |
-| 6 | 14% | 97% |  |
-| 7 | 39% | 83% | Median |
-| 8 | 32% | 44% |  |
-| 9 | 11% | 12% |  |
-| 10 | 1.2% | 1.2% |  |
+| 4 | 0.3% | 100% |  |
+| 5 | 4% | 99.7% |  |
+| 6 | 21% | 96% |  |
+| 7 | 32% | 75% | Median |
+| 8 | 33% | 43% |  |
+| 9 | 9% | 10% |  |
+| 10 | 0.9% | 0.9% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
