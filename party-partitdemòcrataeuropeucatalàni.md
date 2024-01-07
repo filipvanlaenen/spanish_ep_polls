@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 1.2–2.1% | 1.1–2.4% | 1.1–2.6% | 1.0–2.9% |
+| N/A | [Poll Average](average.html) | 1.6% | 1.2–2.2% | 1.2–2.3% | 1.1–2.5% | 1.0–2.9% |
+| [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 1.8% | 1.5–2.2% | 1.4–2.3% | 1.3–2.5% | 1.2–2.7% |
 | [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.6% | 1.3–2.0% | 1.3–2.0% | 1.2–2.1% | 1.1–2.3% |
 | [12–16 December 2023](2023-12-16-NCReport.html) | NC Report <br> La Razón | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [11–15 December 2023](2023-12-15-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
@@ -767,9 +768,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 50% | 100% |  |
-| 1.5–2.5% | 47% | 50% | Median |
-| 2.5–3.5% | 2% | 3% |  |
+| 0.5–1.5% | 41% | 100% |  |
+| 1.5–2.5% | 57% | 59% | Median |
+| 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -782,6 +783,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–16 December 2023](2023-12-16-NCReport.html) | NC Report <br> La Razón | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [11–15 December 2023](2023-12-15-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
@@ -1539,9 +1541,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 48% | 100% | Last Result |
-| 1 | 51% | 52% | Median |
-| 2 | 0.8% | 0.8% |  |
+| 0 | 38% | 100% | Last Result |
+| 1 | 62% | 62% | Median |
+| 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
 
