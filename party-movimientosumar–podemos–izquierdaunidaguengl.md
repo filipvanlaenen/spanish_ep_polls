@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 4.1–6.1% | 3.8–6.3% | 3.5–6.6% | 2.9–7.4% |
+| N/A | [Poll Average](average.html) | 5.3% | 4.3–6.1% | 3.9–6.4% | 3.6–6.7% | 2.9–7.6% |
+| [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 4.7% | 3.4–6.6% | 3.1–7.2% | 2.8–7.7% | 2.3–8.7% |
 | [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.7% | 3.6–7.2% |
 | [5–8 January 2024](2024-01-08-40dB.html) | 40dB <br> Prisa | 5.3% | 4.7–6.0% | 4.5–6.2% | 4.4–6.4% | 4.1–6.7% |
 | [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 5.2% | 4.6–5.8% | 4.5–6.0% | 4.4–6.2% | 4.1–6.5% |
@@ -772,13 +773,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 3% | 99.9% |  |
-| 3.5–4.5% | 19% | 97% |  |
-| 4.5–5.5% | 48% | 78% | Median |
-| 5.5–6.5% | 26% | 29% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 2% | 99.8% |  |
+| 3.5–4.5% | 14% | 98% |  |
+| 4.5–5.5% | 51% | 83% | Median |
+| 5.5–6.5% | 29% | 33% |  |
 | 6.5–7.5% | 3% | 3% |  |
-| 7.5–8.5% | 0.3% | 0.4% |  |
+| 7.5–8.5% | 0.4% | 0.5% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -792,6 +793,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 3 | 2–4 | 2–5 | 1–5 | 1–6 |
 | [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | [5–8 January 2024](2024-01-08-40dB.html) | 40dB <br> Prisa | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 3 | 3–4 | 2–4 | 2–4 |
@@ -1555,10 +1557,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.4% | 100% |  |
-| 2 | 13% | 99.6% |  |
-| 3 | 61% | 87% | Median |
-| 4 | 25% | 25% |  |
-| 5 | 0.9% | 0.9% |  |
+| 2 | 10% | 99.6% |  |
+| 3 | 62% | 90% | Median |
+| 4 | 26% | 27% |  |
+| 5 | 1.0% | 1.1% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
