@@ -829,16 +829,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 24–27 | 23–28 | 23–28 | 22–30 |
+| N/A | [Poll Average](average.html) | 25 | 24–27 | 23–27 | 23–28 | 22–30 |
 | [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 26 | 24–29 | 23–29 | 22–30 | 21–31 |
-| [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 26 | 25–27 | 24–28 | 24–28 | 23–29 |
+| [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
 | [5–8 January 2024](2024-01-08-40dB.html) | 40dB <br> Prisa | 25 | 24–25 | 23–26 | 23–26 | 23–27 |
 | [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 26 | 24–27 | 24–27 | 24–27 | 24–28 |
-| [21–27 December 2023](2023-12-27-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 24 | 23–26 | 23–26 | 23–27 | 22–29 |
+| [21–27 December 2023](2023-12-27-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 24 | 23–26 | 23–26 | 23–27 | 22–28 |
 | [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 25 | 24–26 | 24–26 | 24–26 | 23–27 |
 | [12–16 December 2023](2023-12-16-NCReport.html) | NC Report <br> La Razón | 25 | 24–26 | 23–27 | 23–27 | 22–27 |
 | [11–15 December 2023](2023-12-15-Invymark.html) | Invymark <br> laSexta | 25 | 23–27 | 22–28 | 21–29 | 20–30 |
-| [13–15 December 2023](2023-12-15-DYM.html) | DYM <br> Henneo | 27 | 25–28 | 25–28 | 24–29 | 24–29 |
+| [13–15 December 2023](2023-12-15-DYM.html) | DYM <br> Henneo | 26 | 25–27 | 24–28 | 24–28 | 23–29 |
 | [1–11 December 2023](2023-12-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 25 | 23–26 | 23–26 | 23–27 | 22–27 |
 | [1–7 December 2023](2023-12-07-CIS.html) | CIS | 24 | 23–24 | 23–24 | 23–25 | 23–25 |
 | [27 November–1 December 2023](2023-12-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 24 | 24–25 | 24–26 | 24–26 | 23–27 |
@@ -1614,14 +1614,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0.1% | 100% |  |
-| 22 | 0.9% | 99.9% |  |
-| 23 | 5% | 99.0% |  |
-| 24 | 26% | 94% |  |
-| 25 | 29% | 68% | Median |
-| 26 | 22% | 39% |  |
-| 27 | 12% | 17% |  |
-| 28 | 3% | 5% |  |
-| 29 | 1.4% | 2% |  |
+| 22 | 0.7% | 99.9% |  |
+| 23 | 7% | 99.2% |  |
+| 24 | 27% | 93% |  |
+| 25 | 32% | 66% | Median |
+| 26 | 20% | 34% |  |
+| 27 | 10% | 14% |  |
+| 28 | 2% | 4% |  |
+| 29 | 1.2% | 2% |  |
 | 30 | 0.4% | 0.5% |  |
 | 31 | 0.1% | 0.2% | Majority |
 | 32 | 0% | 0% |  |

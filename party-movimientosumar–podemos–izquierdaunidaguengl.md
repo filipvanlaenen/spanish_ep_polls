@@ -10,16 +10,16 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.3% | 4.3–6.1% | 3.9–6.4% | 3.6–6.7% | 2.9–7.6% |
+| N/A | [Poll Average](average.html) | 5.5% | 4.5–6.6% | 4.1–7.0% | 3.7–7.4% | 2.9–8.1% |
 | [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 4.7% | 3.4–6.6% | 3.1–7.2% | 2.8–7.7% | 2.3–8.7% |
-| [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.7% | 3.6–7.2% |
+| [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
 | [5–8 January 2024](2024-01-08-40dB.html) | 40dB <br> Prisa | 5.3% | 4.7–6.0% | 4.5–6.2% | 4.4–6.4% | 4.1–6.7% |
 | [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 5.2% | 4.6–5.8% | 4.5–6.0% | 4.4–6.2% | 4.1–6.5% |
-| [21–27 December 2023](2023-12-27-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 4.8% | 4.1–5.8% | 3.9–6.0% | 3.7–6.3% | 3.4–6.7% |
+| [21–27 December 2023](2023-12-27-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 5.4% | 4.6–6.3% | 4.4–6.6% | 4.2–6.9% | 3.8–7.4% |
 | [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 5.6% | 5.1–6.2% | 5.0–6.4% | 4.9–6.5% | 4.6–6.8% |
 | [12–16 December 2023](2023-12-16-NCReport.html) | NC Report <br> La Razón | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
 | [11–15 December 2023](2023-12-15-Invymark.html) | Invymark <br> laSexta | 4.7% | 3.4–6.6% | 3.1–7.2% | 2.8–7.7% | 2.3–8.7% |
-| [13–15 December 2023](2023-12-15-DYM.html) | DYM <br> Henneo | 4.3% | 3.5–5.2% | 3.3–5.5% | 3.2–5.7% | 2.9–6.2% |
+| [13–15 December 2023](2023-12-15-DYM.html) | DYM <br> Henneo | 5.3% | 4.5–6.4% | 4.3–6.7% | 4.1–6.9% | 3.7–7.4% |
 | [1–11 December 2023](2023-12-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 5.8% | 4.9–6.8% | 4.7–7.1% | 4.5–7.4% | 4.1–8.0% |
 | [1–7 December 2023](2023-12-07-CIS.html) | CIS | 5.7% | 5.2–6.1% | 5.1–6.2% | 5.0–6.4% | 4.8–6.6% |
 | [27 November–1 December 2023](2023-12-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 5.3% | 4.7–6.1% | 4.5–6.3% | 4.4–6.5% | 4.1–6.8% |
@@ -775,12 +775,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.2% | 100% |  |
 | 2.5–3.5% | 2% | 99.8% |  |
-| 3.5–4.5% | 14% | 98% |  |
-| 4.5–5.5% | 51% | 83% | Median |
-| 5.5–6.5% | 29% | 33% |  |
-| 6.5–7.5% | 3% | 3% |  |
-| 7.5–8.5% | 0.4% | 0.5% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 8% | 98% |  |
+| 4.5–5.5% | 43% | 90% | Median |
+| 5.5–6.5% | 36% | 46% |  |
+| 6.5–7.5% | 8% | 10% |  |
+| 7.5–8.5% | 2% | 2% |  |
+| 8.5–9.5% | 0.2% | 0.2% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -792,16 +792,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 3 | 2–4 | 2–5 | 1–5 | 1–6 |
-| [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [5–8 January 2024](2024-01-08-40dB.html) | 40dB <br> Prisa | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 3 | 3–4 | 2–4 | 2–4 |
-| [21–27 December 2023](2023-12-27-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [21–27 December 2023](2023-12-27-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12–16 December 2023](2023-12-16-NCReport.html) | NC Report <br> La Razón | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [11–15 December 2023](2023-12-15-Invymark.html) | Invymark <br> laSexta | 3 | 2–4 | 2–5 | 1–5 | 1–6 |
-| [13–15 December 2023](2023-12-15-DYM.html) | DYM <br> Henneo | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [13–15 December 2023](2023-12-15-DYM.html) | DYM <br> Henneo | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | [1–11 December 2023](2023-12-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
 | [1–7 December 2023](2023-12-07-CIS.html) | CIS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [27 November–1 December 2023](2023-12-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
@@ -1557,11 +1557,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.4% | 100% |  |
-| 2 | 10% | 99.6% |  |
-| 3 | 62% | 90% | Median |
-| 4 | 26% | 27% |  |
-| 5 | 1.0% | 1.1% |  |
-| 6 | 0.1% | 0.1% |  |
+| 2 | 6% | 99.6% |  |
+| 3 | 58% | 94% | Median |
+| 4 | 32% | 36% |  |
+| 5 | 4% | 4% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 
