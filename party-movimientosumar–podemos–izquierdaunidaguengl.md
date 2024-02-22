@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.3% | 4.4–6.3% | 3.9–6.7% | 3.4–7.0% | 2.7–7.9% |
+| N/A | [Poll Average](average.html) | 5.2% | 4.4–6.2% | 4.1–6.6% | 3.7–6.9% | 2.9–7.7% |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 5.0% | 4.5–5.6% | 4.4–5.8% | 4.3–5.9% | 4.1–6.2% |
+| [1–9 February 2024](2024-02-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
+| [1–6 February 2024](2024-02-06-CIS.html) | CIS | 4.9% | 4.5–5.4% | 4.4–5.5% | 4.3–5.6% | 4.1–5.9% |
 | [5 February 2024](2024-02-05-40dB.html) | 40dB <br> Prisa | 5.2% | 4.6–6.0% | 4.5–6.1% | 4.3–6.3% | 4.1–6.7% |
 | [26 January–1 February 2024](2024-02-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 5.9% | 5.2–6.7% | 5.0–6.9% | 4.8–7.1% | 4.5–7.5% |
 | [26–29 January 2024](2024-01-29-40dB.html) | 40dB <br> Prisa | 5.2% | 4.6–6.0% | 4.5–6.1% | 4.3–6.3% | 4.1–6.7% |
@@ -777,14 +779,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.3% | 100% |  |
-| 2.5–3.5% | 3% | 99.7% |  |
-| 3.5–4.5% | 11% | 97% |  |
-| 4.5–5.5% | 49% | 86% | Median |
-| 5.5–6.5% | 30% | 36% |  |
-| 6.5–7.5% | 6% | 7% |  |
-| 7.5–8.5% | 0.7% | 0.9% |  |
-| 8.5–9.5% | 0.1% | 0.2% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 2% | 99.8% |  |
+| 3.5–4.5% | 12% | 98% |  |
+| 4.5–5.5% | 54% | 86% | Median |
+| 5.5–6.5% | 26% | 32% |  |
+| 6.5–7.5% | 5% | 5% |  |
+| 7.5–8.5% | 0.5% | 0.6% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -796,8 +798,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 1–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| [1–9 February 2024](2024-02-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
+| [1–6 February 2024](2024-02-06-CIS.html) | CIS | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [5 February 2024](2024-02-05-40dB.html) | 40dB <br> Prisa | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [26 January–1 February 2024](2024-02-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [26–29 January 2024](2024-01-29-40dB.html) | 40dB <br> Prisa | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -1564,12 +1568,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.7% | 100% |  |
-| 2 | 8% | 99.3% |  |
-| 3 | 63% | 92% | Median |
-| 4 | 27% | 28% |  |
-| 5 | 2% | 2% |  |
-| 6 | 0.2% | 0.2% |  |
+| 1 | 0.4% | 100% |  |
+| 2 | 6% | 99.6% |  |
+| 3 | 68% | 94% | Median |
+| 4 | 24% | 25% |  |
+| 5 | 1.3% | 1.4% |  |
+| 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
 
