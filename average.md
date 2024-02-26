@@ -9,13 +9,14 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | PP | PSOE | UP | Cs | ERC | PDeCAT | EAJ/PNV | PACMA | EH Bildu | CC | Vox | BNG | BNG–NCG | AR | CEU | PE | Cmp | Podemos | CUP | UPN | PRC | EV | S–Podemos–IU | S–IU | S–CC–MC–MP–Ch |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 32–41% <br> 23–28 | 28–35% <br> 19–25 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0–1 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0–1 | 0–1% <br> 0 | 7–13% <br> 5–9 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 2–4 | N/A <br> N/A | 4–7% <br> 2–5 |
+| N/A | Poll Average | 32–41% <br> 23–28 | 26–34% <br> 18–25 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0–1 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0–1 | 0–1% <br> 0 | 8–13% <br> 5–9 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 2–4 | N/A <br> N/A | 4–7% <br> 3–4 |
+| [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 36–42% <br> 25–28 | 25–31% <br> 17–21 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0–1 | 1–3% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0–1 | 0–1% <br> 0 | 10–14% <br> 6–9 | N/A <br> N/A | 0–1% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 2–4 | N/A <br> N/A | 4–7% <br> 2–4 |
+| [19–21 February 2024](2024-02-21-GESOP.html) | GESOP <br> Prensa Ibérica | 36–42% <br> 25–29 | 25–31% <br> 18–22 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0–2 | 1–3% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 2–4 | N/A <br> N/A | 4–7% <br> 2–4 |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 37–40% <br> 25–27 | 27–31% <br> 19–20 | N/A <br> N/A | N/A <br> N/A | 1% <br> 0 | 2–3% <br> 1 | 1–2% <br> 0–1 | N/A <br> N/A | 1–2% <br> 1 | 0% <br> 0 | 10–12% <br> 6–8 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 3–4 | N/A <br> N/A | 5–6% <br> 3–4 |
 | [1–9 February 2024](2024-02-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 34–40% <br> 23–27 | 27–33% <br> 19–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 7–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 2–4 | N/A <br> N/A | 5–7% <br> 3–5 |
 | [1–6 February 2024](2024-02-06-CIS.html) | CIS | 32–35% <br> 23–25 | 32–35% <br> 23–25 | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 1 | 1% <br> 0 | 1% <br> 0–1 | N/A <br> N/A | 1% <br> 0 | 0% <br> 0 | 7–9% <br> 5–6 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 3–4 | N/A <br> N/A | 5–6% <br> 3–4 |
 | [5 February 2024](2024-02-05-40dB.html) | 40dB <br> Prisa | 32–37% <br> 23–26 | 29–33% <br> 20–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–13% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 3–4 | N/A <br> N/A | 5–7% <br> 3–4 |
 | [26 January–1 February 2024](2024-02-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 35–39% <br> 23–26 | 28–32% <br> 19–22 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 1 | 1–2% <br> 0–1 | 1–2% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0–1 | 0–1% <br> 0 | 9–12% <br> 6–8 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 3–4 | N/A <br> N/A | 5–8% <br> 3–5 |
-| [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 32–43% <br> 22–30 | 27–38% <br> 19–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 7–14% <br> 4–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–8% <br> 1–5 | N/A <br> N/A | 3–8% <br> 2–5 |
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -59,31 +60,31 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0.0% | 36.3% | 33.1–39.2% |32.6–39.9% | 32.3–40.8% | 31.6–43.0% |
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0.0% | 30.5% | 28.5–33.5% |28.0–34.3% | 27.6–35.3% | 26.6–37.6% |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0.0% | 37.0% | 33.3–39.6% |32.8–40.3% | 32.4–40.8% | 31.8–42.0% |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0.0% | 29.7% | 27.4–32.7% |26.7–33.3% | 26.2–33.7% | 25.2–34.4% |
 | <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#ciudadanos–partido-de-la-ciudadanía-(re)">Ciudadanos–Partido de la Ciudadanía (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0.0% | 1.9% | 0.9–2.4% |0.8–2.5% | 0.8–2.6% | 0.7–2.9% |
-| <a href="#partit-demòcrata-europeu-català-(ni)">Partit Demòcrata Europeu Català (NI)</a> | 0.0% | 1.6% | 0.9–2.2% |0.8–2.3% | 0.8–2.4% | 0.7–2.7% |
-| <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco-(re)">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)</a> | 0.0% | 1.1% | 0.8–1.4% |0.8–1.5% | 0.7–1.6% | 0.6–1.8% |
+| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0.0% | 1.9% | 1.0–2.4% |0.9–2.6% | 0.8–2.7% | 0.7–3.0% |
+| <a href="#partit-demòcrata-europeu-català-(ni)">Partit Demòcrata Europeu Català (NI)</a> | 0.0% | 1.7% | 1.0–2.2% |0.9–2.4% | 0.8–2.5% | 0.7–2.8% |
+| <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco-(re)">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)</a> | 0.0% | 1.1% | 0.8–1.5% |0.8–1.7% | 0.7–1.8% | 0.6–2.1% |
 | <a href="#partido-animalista-contra-el-maltrato-animal-(gue/ngl)">Partido Animalista Contra el Maltrato Animal (GUE/NGL)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0.0% | 1.2% | 0.7–2.0% |0.7–2.1% | 0.6–2.2% | 0.5–2.4% |
-| <a href="#coalición-canaria–partido-nacionalista-canario-(re)">Coalición Canaria–Partido Nacionalista Canario (RE)</a> | 0.0% | 0.2% | 0.1–0.6% |0.1–0.7% | 0.1–0.8% | 0.0–1.0% |
-| <a href="#vox-(ecr)">Vox (ECR)</a> | 0.0% | 10.8% | 7.9–12.5% |7.6–13.0% | 7.4–13.4% | 6.8–14.3% |
+| <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0.0% | 1.3% | 0.8–2.0% |0.7–2.1% | 0.6–2.2% | 0.5–2.5% |
+| <a href="#coalición-canaria–partido-nacionalista-canario-(re)">Coalición Canaria–Partido Nacionalista Canario (RE)</a> | 0.0% | 0.3% | 0.1–0.7% |0.1–0.8% | 0.1–0.9% | 0.0–1.1% |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0.0% | 10.8% | 8.0–12.5% |7.7–13.0% | 7.5–13.4% | 7.1–14.2% |
 | <a href="#bloque-nacionalista-galego-(greens/efa)">Bloque Nacionalista Galego (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#bloque-nacionalista-galego–nós-candidatura-galega-(greens/efa)">Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA)</a> | 0.0% | 0.7% | 0.5–0.9% |0.5–1.0% | 0.4–1.1% | 0.3–1.3% |
+| <a href="#bloque-nacionalista-galego–nós-candidatura-galega-(greens/efa)">Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA)</a> | 0.0% | 0.7% | 0.5–1.0% |0.4–1.1% | 0.4–1.2% | 0.3–1.5% |
 | <a href="#ahora-repúblicas-(greens/efa)">Ahora Repúblicas (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#coalición-por-europa-(re)">Coalición por Europa (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#primavera-europea-(greens/efa)">Primavera Europea (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#coalició-compromís-(greens/efa)">Coalició Compromís (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#podemos-(gue/ngl)">Podemos (GUE/NGL)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#candidatura-d’unitat-popular-(gue/ngl)">Candidatura d’Unitat Popular (GUE/NGL)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#unión-del-pueblo-navarro-(*)">Unión del Pueblo Navarro (*)</a> | 0.0% | 0.1% | 0.1–0.3% |0.1–0.4% | 0.0–0.4% | 0.0–0.6% |
+| <a href="#unión-del-pueblo-navarro-(*)">Unión del Pueblo Navarro (*)</a> | 0.0% | 0.2% | 0.1–0.4% |0.1–0.5% | 0.1–0.6% | 0.0–0.8% |
 | <a href="#partido-regionalista-de-cantabria-(re)">Partido Regionalista de Cantabria (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#españa-vaciada-(ni)">España Vaciada (NI)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#movimiento-sumar–podemos–izquierda-unida-(gue/ngl)">Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL)</a> | 0.0% | 5.2% | 4.4–6.2% |4.1–6.6% | 3.7–6.9% | 2.9–7.7% |
+| <a href="#movimiento-sumar–podemos–izquierda-unida-(gue/ngl)">Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL)</a> | 0.0% | 5.2% | 4.4–6.1% |4.2–6.4% | 4.0–6.7% | 3.6–7.2% |
 | <a href="#movimiento-sumar–izquierda-unida-(gue/ngl)">Movimiento Sumar–Izquierda Unida (GUE/NGL)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#movimiento-sumar–catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0.0% | 5.6% | 4.8–6.7% |4.4–7.1% | 4.0–7.4% | 3.1–8.1% |
+| <a href="#movimiento-sumar–catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0.0% | 5.6% | 4.8–6.6% |4.5–6.9% | 4.3–7.2% | 3.9–7.7% |
 
 ### Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA)
 
@@ -91,9 +92,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 14% | 100% | Last Result |
-| 0.5–1.5% | 86% | 86% | Median |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 15% | 100% | Last Result |
+| 0.5–1.5% | 84% | 85% | Median |
+| 1.5–2.5% | 0.3% | 0.3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 ### Coalición Canaria–Partido Nacionalista Canario (RE)
@@ -102,8 +103,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 85% | 100% | Last Result, Median |
-| 0.5–1.5% | 15% | 15% |  |
+| 0.0–0.5% | 79% | 100% | Last Result, Median |
+| 0.5–1.5% | 21% | 21% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -136,24 +137,19 @@ Only polls for which at least the sample size has been published are included in
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.1% | 100% |  |
-| 25.5–26.5% | 0.4% | 99.9% |  |
-| 26.5–27.5% | 2% | 99.6% |  |
-| 27.5–28.5% | 9% | 98% |  |
-| 28.5–29.5% | 19% | 89% |  |
-| 29.5–30.5% | 21% | 70% |  |
-| 30.5–31.5% | 16% | 49% | Median |
-| 31.5–32.5% | 12% | 33% |  |
-| 32.5–33.5% | 12% | 21% |  |
-| 33.5–34.5% | 6% | 10% |  |
-| 34.5–35.5% | 2% | 4% |  |
-| 35.5–36.5% | 1.0% | 2% |  |
-| 36.5–37.5% | 0.6% | 1.1% |  |
-| 37.5–38.5% | 0.3% | 0.5% |  |
-| 38.5–39.5% | 0.1% | 0.2% |  |
-| 39.5–40.5% | 0.1% | 0.1% |  |
-| 40.5–41.5% | 0% | 0% |  |
+| 23.5–24.5% | 0.1% | 100% |  |
+| 24.5–25.5% | 0.8% | 99.9% |  |
+| 25.5–26.5% | 3% | 99.1% |  |
+| 26.5–27.5% | 8% | 96% |  |
+| 27.5–28.5% | 15% | 88% |  |
+| 28.5–29.5% | 21% | 74% |  |
+| 29.5–30.5% | 20% | 52% | Median |
+| 30.5–31.5% | 13% | 33% |  |
+| 31.5–32.5% | 8% | 20% |  |
+| 32.5–33.5% | 8% | 11% |  |
+| 33.5–34.5% | 3% | 4% |  |
+| 34.5–35.5% | 0.3% | 0.3% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 ### Unión del Pueblo Navarro (*)
 
@@ -161,8 +157,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 99.3% | 100% | Last Result, Median |
-| 0.5–1.5% | 0.7% | 0.7% |  |
+| 0.0–0.5% | 97% | 100% | Last Result, Median |
+| 0.5–1.5% | 3% | 3% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)
@@ -172,9 +168,9 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 35% | 100% |  |
-| 1.5–2.5% | 60% | 65% | Median |
-| 2.5–3.5% | 4% | 4% |  |
+| 0.5–1.5% | 32% | 100% |  |
+| 1.5–2.5% | 63% | 68% | Median |
+| 2.5–3.5% | 5% | 5% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 ### Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)
@@ -185,15 +181,14 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 1.1% | 99.9% |  |
-| 3.5–4.5% | 5% | 98.8% |  |
-| 4.5–5.5% | 39% | 94% |  |
-| 5.5–6.5% | 41% | 55% | Median |
-| 6.5–7.5% | 12% | 13% |  |
-| 7.5–8.5% | 2% | 2% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 5% | 99.9% |  |
+| 4.5–5.5% | 44% | 95% |  |
+| 5.5–6.5% | 40% | 51% | Median |
+| 6.5–7.5% | 10% | 10% |  |
+| 7.5–8.5% | 0.8% | 0.8% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 ### Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL)
 
@@ -203,15 +198,14 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 2% | 99.8% |  |
-| 3.5–4.5% | 12% | 98% |  |
-| 4.5–5.5% | 54% | 86% | Median |
-| 5.5–6.5% | 26% | 32% |  |
-| 6.5–7.5% | 5% | 5% |  |
-| 7.5–8.5% | 0.5% | 0.6% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.4% | 100% |  |
+| 3.5–4.5% | 14% | 99.6% |  |
+| 4.5–5.5% | 57% | 85% | Median |
+| 5.5–6.5% | 25% | 28% |  |
+| 6.5–7.5% | 3% | 3% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 ### Euskal Herria Bildu (GUE/NGL)
 
@@ -219,10 +213,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.8% | 100% | Last Result |
-| 0.5–1.5% | 68% | 99.2% | Median |
-| 1.5–2.5% | 31% | 31% |  |
-| 2.5–3.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 0.6% | 100% | Last Result |
+| 0.5–1.5% | 66% | 99.4% | Median |
+| 1.5–2.5% | 33% | 34% |  |
+| 2.5–3.5% | 0.3% | 0.3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 ### Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)
@@ -231,10 +225,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 96% | 99.9% | Median |
-| 1.5–2.5% | 4% | 4% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.2% | 100% | Last Result |
+| 0.5–1.5% | 92% | 99.8% | Median |
+| 1.5–2.5% | 8% | 8% |  |
+| 2.5–3.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 ### Vox (ECR)
 
@@ -248,16 +243,16 @@ Only polls for which at least the sample size has been published are included in
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.2% | 100% |  |
-| 6.5–7.5% | 4% | 99.7% |  |
-| 7.5–8.5% | 15% | 96% |  |
-| 8.5–9.5% | 7% | 81% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 3% | 100% |  |
+| 7.5–8.5% | 14% | 97% |  |
+| 8.5–9.5% | 9% | 83% |  |
 | 9.5–10.5% | 17% | 74% |  |
-| 10.5–11.5% | 28% | 57% | Median |
-| 11.5–12.5% | 19% | 28% |  |
-| 12.5–13.5% | 7% | 9% |  |
+| 10.5–11.5% | 27% | 57% | Median |
+| 11.5–12.5% | 20% | 30% |  |
+| 12.5–13.5% | 8% | 10% |  |
 | 13.5–14.5% | 2% | 2% |  |
-| 14.5–15.5% | 0.2% | 0.3% |  |
+| 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 ### Partit Demòcrata Europeu Català (NI)
@@ -267,9 +262,9 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 47% | 100% |  |
-| 1.5–2.5% | 51% | 53% | Median |
-| 2.5–3.5% | 1.3% | 1.3% |  |
+| 0.5–1.5% | 42% | 100% |  |
+| 1.5–2.5% | 55% | 58% | Median |
+| 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 ### Partido Popular (EPP)
@@ -308,24 +303,21 @@ Only polls for which at least the sample size has been published are included in
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0% | 100% |  |
-| 29.5–30.5% | 0.1% | 100% |  |
-| 30.5–31.5% | 0.4% | 99.9% |  |
-| 31.5–32.5% | 4% | 99.5% |  |
-| 32.5–33.5% | 12% | 96% |  |
-| 33.5–34.5% | 13% | 84% |  |
-| 34.5–35.5% | 11% | 71% |  |
-| 35.5–36.5% | 13% | 59% | Median |
-| 36.5–37.5% | 14% | 47% |  |
-| 37.5–38.5% | 15% | 32% |  |
-| 38.5–39.5% | 11% | 18% |  |
-| 39.5–40.5% | 4% | 7% |  |
-| 40.5–41.5% | 1.5% | 3% |  |
-| 41.5–42.5% | 0.7% | 1.5% |  |
-| 42.5–43.5% | 0.4% | 0.7% |  |
-| 43.5–44.5% | 0.2% | 0.3% |  |
-| 44.5–45.5% | 0.1% | 0.1% |  |
-| 45.5–46.5% | 0% | 0% |  |
-| 46.5–47.5% | 0% | 0% |  |
+| 29.5–30.5% | 0% | 100% |  |
+| 30.5–31.5% | 0.2% | 100% |  |
+| 31.5–32.5% | 3% | 99.8% |  |
+| 32.5–33.5% | 10% | 97% |  |
+| 33.5–34.5% | 10% | 87% |  |
+| 34.5–35.5% | 9% | 77% |  |
+| 35.5–36.5% | 11% | 68% |  |
+| 36.5–37.5% | 15% | 57% | Median |
+| 37.5–38.5% | 17% | 42% |  |
+| 38.5–39.5% | 14% | 25% |  |
+| 39.5–40.5% | 7% | 11% |  |
+| 40.5–41.5% | 3% | 4% |  |
+| 41.5–42.5% | 0.8% | 1.0% |  |
+| 42.5–43.5% | 0.2% | 0.2% |  |
+| 43.5–44.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -338,19 +330,19 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 25 | 24–27 |23–27 | 23–28 | 22–30 |
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 21 | 19–24 |19–25 | 19–25 | 18–26 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 25 | 24–27 |23–28 | 23–28 | 23–29 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 20 | 18–24 |18–24 | 18–25 | 17–25 |
 | <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#ciudadanos–partido-de-la-ciudadanía-(re)">Ciudadanos–Partido de la Ciudadanía (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–2 |
 | <a href="#partit-demòcrata-europeu-català-(ni)">Partit Demòcrata Europeu Català (NI)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco-(re)">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)</a> | 0 | 0 | 0 |0–1 | 0–1 | 0–1 |
+| <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco-(re)">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#partido-animalista-contra-el-maltrato-animal-(gue/ngl)">Partido Animalista Contra el Maltrato Animal (GUE/NGL)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#coalición-canaria–partido-nacionalista-canario-(re)">Coalición Canaria–Partido Nacionalista Canario (RE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 7 | 5–8 |5–9 | 5–9 | 4–10 |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 7 | 5–8 |5–9 | 5–9 | 5–9 |
 | <a href="#bloque-nacionalista-galego-(greens/efa)">Bloque Nacionalista Galego (Greens/EFA)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#bloque-nacionalista-galego–nós-candidatura-galega-(greens/efa)">Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#bloque-nacionalista-galego–nós-candidatura-galega-(greens/efa)">Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
 | <a href="#ahora-repúblicas-(greens/efa)">Ahora Repúblicas (Greens/EFA)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#coalición-por-europa-(re)">Coalición por Europa (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#primavera-europea-(greens/efa)">Primavera Europea (Greens/EFA)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -360,9 +352,9 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#unión-del-pueblo-navarro-(*)">Unión del Pueblo Navarro (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#partido-regionalista-de-cantabria-(re)">Partido Regionalista de Cantabria (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#españa-vaciada-(ni)">España Vaciada (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#movimiento-sumar–podemos–izquierda-unida-(gue/ngl)">Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL)</a> | 0 | 3 | 3–4 |2–4 | 2–4 | 2–5 |
+| <a href="#movimiento-sumar–podemos–izquierda-unida-(gue/ngl)">Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL)</a> | 0 | 3 | 3–4 |2–4 | 2–4 | 2–4 |
 | <a href="#movimiento-sumar–izquierda-unida-(gue/ngl)">Movimiento Sumar–Izquierda Unida (GUE/NGL)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#movimiento-sumar–catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 3 | 3–4 |3–4 | 2–5 | 2–5 |
+| <a href="#movimiento-sumar–catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 3 | 3–4 |3–4 | 3–4 | 2–5 |
 
 ### Partido Popular (EPP)
 
@@ -393,18 +385,17 @@ Only polls for which at least the sample size has been published are included in
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.1% | 100% |  |
-| 22 | 0.7% | 99.9% |  |
-| 23 | 7% | 99.2% |  |
-| 24 | 29% | 92% |  |
-| 25 | 26% | 63% | Median |
-| 26 | 16% | 37% |  |
-| 27 | 17% | 21% |  |
-| 28 | 2% | 4% |  |
-| 29 | 1.2% | 2% |  |
-| 30 | 0.4% | 0.5% |  |
-| 31 | 0.1% | 0.2% | Majority |
-| 32 | 0% | 0% |  |
+| 21 | 0% | 100% |  |
+| 22 | 0.2% | 100% |  |
+| 23 | 5% | 99.8% |  |
+| 24 | 23% | 94% |  |
+| 25 | 25% | 71% | Median |
+| 26 | 15% | 46% |  |
+| 27 | 25% | 32% |  |
+| 28 | 5% | 7% |  |
+| 29 | 2% | 2% |  |
+| 30 | 0.3% | 0.3% |  |
+| 31 | 0% | 0% | Majority |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -430,20 +421,17 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0.1% | 100% |  |
-| 18 | 0.9% | 99.9% |  |
-| 19 | 19% | 99.0% |  |
-| 20 | 17% | 80% |  |
-| 21 | 22% | 63% | Median |
-| 22 | 15% | 41% |  |
-| 23 | 8% | 26% |  |
-| 24 | 11% | 18% |  |
-| 25 | 6% | 7% |  |
-| 26 | 0.6% | 0.8% |  |
-| 27 | 0.2% | 0.2% |  |
-| 28 | 0% | 0.1% |  |
-| 29 | 0% | 0% |  |
+| 16 | 0.2% | 100% |  |
+| 17 | 0.5% | 99.7% |  |
+| 18 | 9% | 99.2% |  |
+| 19 | 24% | 90% |  |
+| 20 | 20% | 66% | Median |
+| 21 | 20% | 46% |  |
+| 22 | 10% | 26% |  |
+| 23 | 5% | 16% |  |
+| 24 | 7% | 12% |  |
+| 25 | 4% | 5% |  |
+| 26 | 0% | 0% |  |
 
 ### Unidos Podemos (GUE/NGL)
 
@@ -465,9 +453,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 34% | 100% | Last Result |
-| 1 | 65% | 66% | Median |
-| 2 | 1.3% | 1.3% |  |
+| 0 | 26% | 100% | Last Result |
+| 1 | 73% | 74% | Median |
+| 2 | 1.4% | 1.4% |  |
 | 3 | 0% | 0% |  |
 
 ### Partit Demòcrata Europeu Català (NI)
@@ -480,7 +468,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 45% | 100% | Last Result |
 | 1 | 55% | 55% | Median |
-| 2 | 0% | 0% |  |
+| 2 | 0.2% | 0.2% |  |
+| 3 | 0% | 0% |  |
 
 ### Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)
 
@@ -490,8 +479,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Last Result, Median |
-| 1 | 9% | 9% |  |
+| 0 | 90% | 100% | Last Result, Median |
+| 1 | 10% | 10% |  |
 | 2 | 0% | 0% |  |
 
 ### Partido Animalista Contra el Maltrato Animal (GUE/NGL)
@@ -508,8 +497,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 58% | 100% | Last Result, Median |
-| 1 | 42% | 42% |  |
+| 0 | 60% | 100% | Last Result, Median |
+| 1 | 40% | 40% |  |
 | 2 | 0% | 0% |  |
 
 ### Coalición Canaria–Partido Nacionalista Canario (RE)
@@ -534,13 +523,13 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.8% | 100% |  |
-| 5 | 15% | 99.2% |  |
-| 6 | 19% | 84% |  |
-| 7 | 32% | 65% | Median |
-| 8 | 25% | 34% |  |
-| 9 | 8% | 9% |  |
-| 10 | 0.6% | 0.7% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 13% | 99.8% |  |
+| 6 | 21% | 87% |  |
+| 7 | 28% | 66% | Median |
+| 8 | 29% | 37% |  |
+| 9 | 8% | 8% |  |
+| 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
 ### Bloque Nacionalista Galego (Greens/EFA)
@@ -557,8 +546,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
+| 0 | 99.2% | 100% | Last Result, Median |
+| 1 | 0.8% | 0.8% |  |
 | 2 | 0% | 0% |  |
 
 ### Ahora Repúblicas (Greens/EFA)
@@ -628,13 +617,12 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.4% | 100% |  |
-| 2 | 6% | 99.6% |  |
-| 3 | 68% | 94% | Median |
-| 4 | 24% | 25% |  |
-| 5 | 1.3% | 1.4% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 1 | 0% | 100% |  |
+| 2 | 5% | 100% |  |
+| 3 | 73% | 95% | Median |
+| 4 | 22% | 22% |  |
+| 5 | 0.5% | 0.5% |  |
+| 6 | 0% | 0% |  |
 
 ### Movimiento Sumar–Izquierda Unida (GUE/NGL)
 
@@ -651,13 +639,12 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.2% | 100% |  |
-| 2 | 4% | 99.8% |  |
-| 3 | 49% | 96% | Median |
-| 4 | 44% | 48% |  |
-| 5 | 4% | 4% |  |
-| 6 | 0.2% | 0.2% |  |
-| 7 | 0% | 0% |  |
+| 1 | 0% | 100% |  |
+| 2 | 2% | 100% |  |
+| 3 | 48% | 98% | Median |
+| 4 | 47% | 50% |  |
+| 5 | 2% | 2% |  |
+| 6 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -668,12 +655,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Popular (EPP) | 0 | 25 | 0.2% | 24–27 | 23–27 | 23–28 | 22–30 |
-| Partido Socialista Obrero Español (S&D) | 0 | 21 | 0% | 19–24 | 19–25 | 19–25 | 18–26 |
-| Vox (ECR) | 0 | 7 | 0% | 5–8 | 5–9 | 5–9 | 4–10 |
-| Ahora Repúblicas (Greens/EFA) – Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA) – Coalició Compromís (Greens/EFA) – Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA) – Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA) – Primavera Europea (Greens/EFA) | 0 | 4 | 0% | 3–5 | 3–5 | 2–5 | 2–6 |
-| Candidatura d’Unitat Popular (GUE/NGL) – Euskal Herria Bildu (GUE/NGL) – Movimiento Sumar–Izquierda Unida (GUE/NGL) – Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Podemos (GUE/NGL) – Unidos Podemos (GUE/NGL) | 0 | 3 | 0% | 3–4 | 2–4 | 2–5 | 2–5 |
-| Ciudadanos–Partido de la Ciudadanía (RE) – Coalición Canaria–Partido Nacionalista Canario (RE) – Coalición por Europa (RE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE) – Partido Regionalista de Cantabria (RE) | 0 | 0 | 0% | 0 | 0 | 0–1 | 0–1 |
+| Partido Popular (EPP) | 0 | 25 | 0% | 24–27 | 23–28 | 23–28 | 23–29 |
+| Partido Socialista Obrero Español (S&D) | 0 | 20 | 0% | 18–24 | 18–24 | 18–25 | 17–25 |
+| Vox (ECR) | 0 | 7 | 0% | 5–8 | 5–9 | 5–9 | 5–9 |
+| Ahora Repúblicas (Greens/EFA) – Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA) – Coalició Compromís (Greens/EFA) – Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA) – Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA) – Primavera Europea (Greens/EFA) | 0 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–6 |
+| Candidatura d’Unitat Popular (GUE/NGL) – Euskal Herria Bildu (GUE/NGL) – Movimiento Sumar–Izquierda Unida (GUE/NGL) – Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Podemos (GUE/NGL) – Unidos Podemos (GUE/NGL) | 0 | 3 | 0% | 3–4 | 3–4 | 2–5 | 2–5 |
+| Ciudadanos–Partido de la Ciudadanía (RE) – Coalición Canaria–Partido Nacionalista Canario (RE) – Coalición por Europa (RE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE) – Partido Regionalista de Cantabria (RE) | 0 | 0 | 0% | 0 | 0–1 | 0–1 | 0–1 |
 | España Vaciada (NI) – Partit Demòcrata Europeu Català (NI) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Unión del Pueblo Navarro (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
@@ -704,18 +691,17 @@ Only polls for which at least the sample size has been published are included in
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.1% | 100% |  |
-| 22 | 0.7% | 99.9% |  |
-| 23 | 7% | 99.2% |  |
-| 24 | 29% | 92% |  |
-| 25 | 26% | 63% | Median |
-| 26 | 16% | 37% |  |
-| 27 | 17% | 21% |  |
-| 28 | 2% | 4% |  |
-| 29 | 1.2% | 2% |  |
-| 30 | 0.4% | 0.5% |  |
-| 31 | 0.1% | 0.2% | Majority |
-| 32 | 0% | 0% |  |
+| 21 | 0% | 100% |  |
+| 22 | 0.2% | 100% |  |
+| 23 | 5% | 99.8% |  |
+| 24 | 23% | 94% |  |
+| 25 | 25% | 71% | Median |
+| 26 | 15% | 46% |  |
+| 27 | 25% | 32% |  |
+| 28 | 5% | 7% |  |
+| 29 | 2% | 2% |  |
+| 30 | 0.3% | 0.3% |  |
+| 31 | 0% | 0% | Majority |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -739,20 +725,17 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0.1% | 100% |  |
-| 18 | 0.9% | 99.9% |  |
-| 19 | 19% | 99.0% |  |
-| 20 | 17% | 80% |  |
-| 21 | 22% | 63% | Median |
-| 22 | 15% | 41% |  |
-| 23 | 8% | 26% |  |
-| 24 | 11% | 18% |  |
-| 25 | 6% | 7% |  |
-| 26 | 0.6% | 0.8% |  |
-| 27 | 0.2% | 0.2% |  |
-| 28 | 0% | 0.1% |  |
-| 29 | 0% | 0% |  |
+| 16 | 0.2% | 100% |  |
+| 17 | 0.5% | 99.7% |  |
+| 18 | 9% | 99.2% |  |
+| 19 | 24% | 90% |  |
+| 20 | 20% | 66% | Median |
+| 21 | 20% | 46% |  |
+| 22 | 10% | 26% |  |
+| 23 | 5% | 16% |  |
+| 24 | 7% | 12% |  |
+| 25 | 4% | 5% |  |
+| 26 | 0% | 0% |  |
 
 ### Vox (ECR)
 
@@ -764,13 +747,13 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.8% | 100% |  |
-| 5 | 15% | 99.2% |  |
-| 6 | 19% | 84% |  |
-| 7 | 32% | 65% | Median |
-| 8 | 25% | 34% |  |
-| 9 | 8% | 9% |  |
-| 10 | 0.6% | 0.7% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 13% | 99.8% |  |
+| 6 | 21% | 87% |  |
+| 7 | 28% | 66% | Median |
+| 8 | 29% | 37% |  |
+| 9 | 8% | 8% |  |
+| 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
 ### Ahora Repúblicas (Greens/EFA) – Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA) – Coalició Compromís (Greens/EFA) – Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA) – Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA) – Primavera Europea (Greens/EFA)
@@ -780,11 +763,11 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.2% | 100% |  |
-| 2 | 4% | 99.8% |  |
-| 3 | 34% | 96% |  |
-| 4 | 41% | 62% | Median |
-| 5 | 20% | 21% |  |
+| 1 | 0% | 100% |  |
+| 2 | 0.5% | 100% |  |
+| 3 | 26% | 99.5% |  |
+| 4 | 43% | 73% | Median |
+| 5 | 28% | 30% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
@@ -795,13 +778,12 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.4% | 100% |  |
-| 2 | 6% | 99.6% |  |
-| 3 | 50% | 94% | Median |
-| 4 | 40% | 44% |  |
-| 5 | 4% | 4% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 1 | 0% | 100% |  |
+| 2 | 4% | 100% |  |
+| 3 | 54% | 96% | Median |
+| 4 | 38% | 42% |  |
+| 5 | 3% | 3% |  |
+| 6 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (RE) – Coalición Canaria–Partido Nacionalista Canario (RE) – Coalición por Europa (RE) – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE) – Partido Regionalista de Cantabria (RE)
 
@@ -809,8 +791,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 5% | 5% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 6% | 6% |  |
 | 2 | 0% | 0% |  |
 
 ### España Vaciada (NI) – Partit Demòcrata Europeu Català (NI)
@@ -819,9 +801,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Last Result |
-| 1 | 27% | 27% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 61% | 100% | Last Result |
+| 1 | 39% | 39% | Median |
+| 2 | 0.2% | 0.2% |  |
+| 3 | 0% | 0% |  |
 
 ### Unión del Pueblo Navarro (*)
 
@@ -834,7 +817,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
-+ **Number of polls included in this average:** 6
++ **Number of polls included in this average:** 7
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 6,291,456
++ **Total number of simulations done in the polls included in this average:** 7,340,032
 + **Error estimate:** 2.71%
