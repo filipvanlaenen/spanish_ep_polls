@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.9% | 27.1–30.6% | 26.5–31.0% | 26.1–31.4% | 25.2–32.2% |
+| N/A | [Poll Average](average.html) | 28.5% | 26.6–30.3% | 26.1–30.8% | 25.6–31.3% | 24.8–32.1% |
 | [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 29.3% | 27.9–30.8% | 27.5–31.2% | 27.1–31.6% | 26.5–32.3% |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 28.4% | 26.6–30.2% | 26.1–30.8% | 25.7–31.2% | 24.8–32.1% |
-| [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 28.2% | N/A | N/A | N/A | N/A |
-| [19–21 February 2024](2024-02-21-GESOP.html) | GESOP <br> Prensa Ibérica | 28.0% | N/A | N/A | N/A | N/A |
+| [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 28.2% | 26.4–30.1% | 25.9–30.6% | 25.5–31.1% | 24.7–32.0% |
+| [19–21 February 2024](2024-02-21-GESOP.html) | GESOP <br> Prensa Ibérica | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.8% | 24.5–31.8% |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 29.0% | N/A | N/A | N/A | N/A |
 | [1–9 February 2024](2024-02-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 29.7% | N/A | N/A | N/A | N/A |
 | [1–6 February 2024](2024-02-06-CIS.html) | CIS | 33.0% | N/A | N/A | N/A | N/A |
@@ -805,15 +805,15 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.1% | 100% |  |
-| 24.5–25.5% | 0.9% | 99.9% |  |
-| 25.5–26.5% | 4% | 99.0% |  |
-| 26.5–27.5% | 12% | 95% |  |
-| 27.5–28.5% | 23% | 83% |  |
-| 28.5–29.5% | 29% | 60% | Median |
-| 29.5–30.5% | 21% | 31% |  |
-| 30.5–31.5% | 8% | 10% |  |
-| 31.5–32.5% | 2% | 2% |  |
+| 23.5–24.5% | 0.3% | 100% |  |
+| 24.5–25.5% | 2% | 99.7% |  |
+| 25.5–26.5% | 7% | 98% |  |
+| 26.5–27.5% | 17% | 91% |  |
+| 27.5–28.5% | 25% | 74% |  |
+| 28.5–29.5% | 26% | 49% | Median |
+| 29.5–30.5% | 16% | 24% |  |
+| 30.5–31.5% | 6% | 7% |  |
+| 31.5–32.5% | 1.3% | 1.4% |  |
 | 32.5–33.5% | 0.2% | 0.2% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
@@ -826,11 +826,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–20 | 18–21 | 17–22 | 16–22 |
+| N/A | [Poll Average](average.html) | 19 | 18–20 | 18–21 | 17–21 | 16–22 |
 | [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 20 | 19–20 | 19–21 | 18–22 | 18–22 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 20 | 18–20 | 17–21 | 17–22 | 16–22 |
-| [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli |  |  |  |  |  |
-| [19–21 February 2024](2024-02-21-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
+| [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 18 | 18–20 | 18–21 | 17–21 | 16–21 |
+| [19–21 February 2024](2024-02-21-GESOP.html) | GESOP <br> Prensa Ibérica | 19 | 18–21 | 18–21 | 17–21 | 17–22 |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [1–9 February 2024](2024-02-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [1–6 February 2024](2024-02-06-CIS.html) | CIS |  |  |  |  |  |
@@ -1614,14 +1614,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.1% | 100% |  |
-| 16 | 0.6% | 99.9% |  |
-| 17 | 3% | 99.4% |  |
-| 18 | 15% | 96% |  |
-| 19 | 23% | 81% |  |
-| 20 | 50% | 58% | Median |
-| 21 | 4% | 8% |  |
-| 22 | 3% | 3% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0.8% | 100% |  |
+| 17 | 3% | 99.2% |  |
+| 18 | 25% | 96% |  |
+| 19 | 27% | 71% | Median |
+| 20 | 36% | 44% |  |
+| 21 | 6% | 8% |  |
+| 22 | 2% | 2% |  |
 | 23 | 0% | 0% |  |
 
 
