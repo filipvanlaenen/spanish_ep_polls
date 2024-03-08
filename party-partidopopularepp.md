@@ -10,14 +10,16 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.0% | 33.3–39.6% | 32.8–40.3% | 32.4–40.8% | 31.8–42.0% |
-| [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 38.8% | 36.9–40.8% | 36.3–41.4% | 35.8–41.9% | 34.9–42.8% |
-| [19–21 February 2024](2024-02-21-GESOP.html) | GESOP <br> Prensa Ibérica | 38.5% | 36.6–40.5% | 36.0–41.1% | 35.6–41.6% | 34.7–42.6% |
-| [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 38.5% | 37.4–39.7% | 37.0–40.0% | 36.7–40.3% | 36.2–40.9% |
-| [1–9 February 2024](2024-02-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 36.6% | 34.7–38.6% | 34.2–39.2% | 33.7–39.7% | 32.8–40.6% |
-| [1–6 February 2024](2024-02-06-CIS.html) | CIS | 33.2% | 32.2–34.2% | 32.0–34.4% | 31.7–34.7% | 31.3–35.2% |
-| [5 February 2024](2024-02-05-40dB.html) | 40dB <br> Prisa | 34.4% | 33.0–35.8% | 32.7–36.2% | 32.3–36.5% | 31.7–37.2% |
-| [26 January–1 February 2024](2024-02-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 36.8% | 35.3–38.4% | 34.9–38.8% | 34.5–39.2% | 33.8–39.9% |
+| N/A | [Poll Average](average.html) | 37.9% | 36.2–39.7% | 35.7–40.2% | 35.2–40.7% | 34.3–41.6% |
+| [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 37.9% | 36.4–39.5% | 36.0–39.9% | 35.6–40.3% | 34.9–41.1% |
+| [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 37.9% | 36.0–39.9% | 35.4–40.5% | 34.9–41.0% | 34.0–41.9% |
+| [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 38.8% | N/A | N/A | N/A | N/A |
+| [19–21 February 2024](2024-02-21-GESOP.html) | GESOP <br> Prensa Ibérica | 38.5% | N/A | N/A | N/A | N/A |
+| [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 38.5% | N/A | N/A | N/A | N/A |
+| [1–9 February 2024](2024-02-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 36.6% | N/A | N/A | N/A | N/A |
+| [1–6 February 2024](2024-02-06-CIS.html) | CIS | 33.2% | N/A | N/A | N/A | N/A |
+| [5 February 2024](2024-02-05-40dB.html) | 40dB <br> Prisa | 34.4% | N/A | N/A | N/A | N/A |
+| [26 January–1 February 2024](2024-02-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 36.8% | N/A | N/A | N/A | N/A |
 | [26–29 January 2024](2024-01-29-40dB.html) | 40dB <br> Prisa | 34.4% | 33.0–35.8% | 32.7–36.2% | 32.3–36.5% | 31.7–37.2% |
 | [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 37.7% | 34.2–41.4% | 33.2–42.4% | 32.4–43.3% | 30.7–45.1% |
 | [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 36.6% | 34.7–38.6% | 34.2–39.2% | 33.7–39.6% | 32.8–40.6% |
@@ -810,19 +812,19 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0% | 100% |  |
 | 29.5–30.5% | 0% | 100% |  |
-| 30.5–31.5% | 0.2% | 100% |  |
-| 31.5–32.5% | 3% | 99.8% |  |
-| 32.5–33.5% | 10% | 97% |  |
-| 33.5–34.5% | 10% | 87% |  |
-| 34.5–35.5% | 9% | 77% |  |
-| 35.5–36.5% | 11% | 68% |  |
-| 36.5–37.5% | 15% | 57% | Median |
-| 37.5–38.5% | 17% | 42% |  |
-| 38.5–39.5% | 14% | 25% |  |
-| 39.5–40.5% | 7% | 11% |  |
-| 40.5–41.5% | 3% | 4% |  |
-| 41.5–42.5% | 0.8% | 1.0% |  |
-| 42.5–43.5% | 0.2% | 0.2% |  |
+| 30.5–31.5% | 0% | 100% |  |
+| 31.5–32.5% | 0% | 100% |  |
+| 32.5–33.5% | 0.1% | 100% |  |
+| 33.5–34.5% | 0.6% | 99.9% |  |
+| 34.5–35.5% | 3% | 99.3% |  |
+| 35.5–36.5% | 11% | 96% |  |
+| 36.5–37.5% | 24% | 85% |  |
+| 37.5–38.5% | 29% | 61% | Median |
+| 38.5–39.5% | 21% | 32% |  |
+| 39.5–40.5% | 9% | 12% |  |
+| 40.5–41.5% | 2% | 3% |  |
+| 41.5–42.5% | 0.5% | 0.6% |  |
+| 42.5–43.5% | 0.1% | 0.1% |  |
 | 43.5–44.5% | 0% | 0% |  |
 
 
@@ -834,14 +836,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 24–27 | 23–28 | 23–28 | 23–29 |
-| [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 27 | 25–27 | 25–28 | 25–28 | 24–29 |
-| [19–21 February 2024](2024-02-21-GESOP.html) | GESOP <br> Prensa Ibérica | 27 | 26–29 | 25–29 | 25–29 | 24–30 |
-| [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 27 | 25–27 | 25–27 | 25–27 | 25–27 |
-| [1–9 February 2024](2024-02-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 26 | 24–27 | 24–27 | 23–27 | 23–28 |
-| [1–6 February 2024](2024-02-06-CIS.html) | CIS | 24 | 23–25 | 23–25 | 23–25 | 22–25 |
-| [5 February 2024](2024-02-05-40dB.html) | 40dB <br> Prisa | 24 | 23–25 | 23–26 | 23–26 | 22–26 |
-| [26 January–1 February 2024](2024-02-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 24 | 23–26 | 23–26 | 23–26 | 23–27 |
+| N/A | [Poll Average](average.html) | 26 | 24–27 | 24–27 | 23–27 | 23–28 |
+| [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 26 | 24–27 | 24–27 | 24–27 | 23–28 |
+| [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 26 | 24–27 | 23–27 | 23–27 | 23–28 |
+| [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli |  |  |  |  |  |
+| [19–21 February 2024](2024-02-21-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
+| [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [1–9 February 2024](2024-02-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
+| [1–6 February 2024](2024-02-06-CIS.html) | CIS |  |  |  |  |  |
+| [5 February 2024](2024-02-05-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
+| [26 January–1 February 2024](2024-02-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [26–29 January 2024](2024-01-29-40dB.html) | 40dB <br> Prisa | 24 | 23–25 | 23–26 | 23–26 | 22–26 |
 | [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 26 | 24–29 | 23–29 | 22–30 | 21–31 |
 | [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
@@ -1628,14 +1632,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
 | 22 | 0.2% | 100% |  |
-| 23 | 5% | 99.8% |  |
-| 24 | 23% | 94% |  |
-| 25 | 25% | 71% | Median |
-| 26 | 15% | 46% |  |
-| 27 | 25% | 32% |  |
-| 28 | 5% | 7% |  |
-| 29 | 2% | 2% |  |
-| 30 | 0.3% | 0.3% |  |
-| 31 | 0% | 0% | Majority |
+| 23 | 4% | 99.8% |  |
+| 24 | 12% | 96% |  |
+| 25 | 30% | 84% |  |
+| 26 | 37% | 54% | Median |
+| 27 | 15% | 17% |  |
+| 28 | 1.4% | 2% |  |
+| 29 | 0.1% | 0.1% |  |
+| 30 | 0% | 0% |  |
 
 
