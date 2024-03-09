@@ -13,8 +13,8 @@
 | Partido Popular (EPP) | 0.0% | 36.6% | 34.7–38.6% |34.2–39.2% |33.7–39.7% |32.8–40.6% |
 | Partido Socialista Obrero Español (S&D) | 0.0% | 29.7% | 27.9–31.6% |27.4–32.1% |26.9–32.6% |26.1–33.5% |
 | Vox (ECR) | 0.0% | 12.0% | 10.8–13.4% |10.4–13.8% |10.1–14.1% |9.6–14.8% |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA) | 0.0% | 5.8% | 5.0–6.8% |4.7–7.1% |4.5–7.4% |4.1–7.9% |
-| Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL) | 0.0% | 5.3% | 4.5–6.3% |4.3–6.6% |4.1–6.9% |3.7–7.4% |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA) | 0.0% | 7.0% | 6.1–8.1% |5.8–8.4% |5.6–8.7% |5.2–9.3% |
+| Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL) | 0.0% | 6.4% | 5.5–7.5% |5.2–7.8% |5.0–8.1% |4.6–8.6% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -28,11 +28,11 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 26 | 24–27 |24–27 |23–27 |23–28 |
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 20 | 19–22 |19–22 |19–23 |18–23 |
-| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 8 | 7–9 |7–9 |7–10 |6–10 |
-| <a href="#movimiento-sumar–catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 4 | 3–4 |3–5 |3–5 |2–5 |
-| <a href="#movimiento-sumar–podemos–izquierda-unida-(gue/ngl)">Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL)</a> | 0 | 3 | 3–4 |3–4 |2–4 |2–5 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 25 | 23–26 |23–27 |23–27 |22–28 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 20 | 19–21 |18–22 |18–22 |18–23 |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 8 | 7–9 |7–9 |6–9 |6–10 |
+| <a href="#movimiento-sumar–catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 4 | 4–5 |3–5 |3–6 |3–6 |
+| <a href="#movimiento-sumar–podemos–izquierda-unida-(gue/ngl)">Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL)</a> | 0 | 4 | 3–5 |3–5 |3–5 |3–5 |
 
 ### Partido Popular (EPP)
 
@@ -63,16 +63,15 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0% | 100% |  |
-| 22 | 0.2% | 100% |  |
-| 23 | 3% | 99.8% |  |
-| 24 | 14% | 97% |  |
-| 25 | 32% | 83% |  |
-| 26 | 36% | 51% | Median |
-| 27 | 13% | 15% |  |
-| 28 | 2% | 2% |  |
-| 29 | 0.2% | 0.2% |  |
-| 30 | 0% | 0% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 1.0% | 99.9% |  |
+| 23 | 9% | 98.9% |  |
+| 24 | 28% | 90% |  |
+| 25 | 36% | 62% | Median |
+| 26 | 20% | 25% |  |
+| 27 | 4% | 5% |  |
+| 28 | 0.5% | 0.5% |  |
+| 29 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -99,15 +98,14 @@
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.1% | 100% |  |
-| 18 | 2% | 99.9% |  |
-| 19 | 14% | 98% |  |
-| 20 | 34% | 84% | Median |
-| 21 | 33% | 50% |  |
-| 22 | 14% | 17% |  |
-| 23 | 2% | 3% |  |
-| 24 | 0.2% | 0.2% |  |
-| 25 | 0% | 0% |  |
+| 17 | 0.4% | 100% |  |
+| 18 | 6% | 99.6% |  |
+| 19 | 24% | 94% |  |
+| 20 | 40% | 70% | Median |
+| 21 | 24% | 30% |  |
+| 22 | 6% | 7% |  |
+| 23 | 0.6% | 0.6% |  |
+| 24 | 0% | 0% |  |
 
 ### Vox (ECR)
 
@@ -123,13 +121,12 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 1.3% | 100% |  |
-| 7 | 22% | 98.7% |  |
-| 8 | 52% | 77% | Median |
-| 9 | 23% | 25% |  |
-| 10 | 2% | 3% |  |
-| 11 | 0.1% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 6 | 3% | 100% |  |
+| 7 | 30% | 97% |  |
+| 8 | 51% | 68% | Median |
+| 9 | 15% | 16% |  |
+| 10 | 1.1% | 1.2% |  |
+| 11 | 0% | 0% |  |
 
 ### Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)
 
@@ -141,11 +138,11 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.8% | 100% |  |
-| 3 | 39% | 99.2% |  |
-| 4 | 55% | 61% | Median |
-| 5 | 6% | 6% |  |
-| 6 | 0.1% | 0.1% |  |
+| 2 | 0% | 100% |  |
+| 3 | 5% | 100% |  |
+| 4 | 54% | 95% | Median |
+| 5 | 38% | 40% |  |
+| 6 | 3% | 3% |  |
 | 7 | 0% | 0% |  |
 
 ### Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL)
@@ -158,11 +155,12 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 4% | 100% |  |
-| 3 | 63% | 96% | Median |
-| 4 | 32% | 33% |  |
-| 5 | 1.3% | 1.3% |  |
-| 6 | 0% | 0% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 19% | 99.9% |  |
+| 4 | 65% | 81% | Median |
+| 5 | 15% | 16% |  |
+| 6 | 0.4% | 0.4% |  |
+| 7 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -173,9 +171,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Popular (EPP) | 0 | 26 | 0% | 24–27 | 24–27 | 23–27 | 23–28 |
-| Partido Socialista Obrero Español (S&D) | 0 | 20 | 0% | 19–22 | 19–22 | 19–23 | 18–23 |
-| Vox (ECR) | 0 | 8 | 0% | 7–9 | 7–9 | 7–10 | 6–10 |
+| Partido Popular (EPP) | 0 | 25 | 0% | 23–26 | 23–27 | 23–27 | 22–28 |
+| Partido Socialista Obrero Español (S&D) | 0 | 20 | 0% | 19–21 | 18–22 | 18–22 | 18–23 |
+| Vox (ECR) | 0 | 8 | 0% | 7–9 | 7–9 | 6–9 | 6–10 |
 
 ### Partido Popular (EPP)
 
@@ -204,16 +202,15 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0% | 100% |  |
-| 22 | 0.2% | 100% |  |
-| 23 | 3% | 99.8% |  |
-| 24 | 14% | 97% |  |
-| 25 | 32% | 83% |  |
-| 26 | 36% | 51% | Median |
-| 27 | 13% | 15% |  |
-| 28 | 2% | 2% |  |
-| 29 | 0.2% | 0.2% |  |
-| 30 | 0% | 0% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 1.0% | 99.9% |  |
+| 23 | 9% | 98.9% |  |
+| 24 | 28% | 90% |  |
+| 25 | 36% | 62% | Median |
+| 26 | 20% | 25% |  |
+| 27 | 4% | 5% |  |
+| 28 | 0.5% | 0.5% |  |
+| 29 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -238,15 +235,14 @@
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.1% | 100% |  |
-| 18 | 2% | 99.9% |  |
-| 19 | 14% | 98% |  |
-| 20 | 34% | 84% | Median |
-| 21 | 33% | 50% |  |
-| 22 | 14% | 17% |  |
-| 23 | 2% | 3% |  |
-| 24 | 0.2% | 0.2% |  |
-| 25 | 0% | 0% |  |
+| 17 | 0.4% | 100% |  |
+| 18 | 6% | 99.6% |  |
+| 19 | 24% | 94% |  |
+| 20 | 40% | 70% | Median |
+| 21 | 24% | 30% |  |
+| 22 | 6% | 7% |  |
+| 23 | 0.6% | 0.6% |  |
+| 24 | 0% | 0% |  |
 
 ### Vox (ECR)
 
@@ -260,13 +256,12 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 1.3% | 100% |  |
-| 7 | 22% | 98.7% |  |
-| 8 | 52% | 77% | Median |
-| 9 | 23% | 25% |  |
-| 10 | 2% | 3% |  |
-| 11 | 0.1% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 6 | 3% | 100% |  |
+| 7 | 30% | 97% |  |
+| 8 | 51% | 68% | Median |
+| 9 | 15% | 16% |  |
+| 10 | 1.1% | 1.2% |  |
+| 11 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -281,5 +276,5 @@
 
 + **Sample size:** 1018
 + **Simulations done:** 1,048,576
-+ **Error estimate:** 0.49%
++ **Error estimate:** 0.91%
 

@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.6% | 0.9–3.0% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.0–2.3% | 0.9–2.4% | 0.8–2.6% | 0.7–2.9% |
 | [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.7% | 1.4–2.2% | 1.3–2.3% | 1.2–2.5% | 1.0–2.7% |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.0% |
 | [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [19–21 February 2024](2024-02-21-GESOP.html) | GESOP <br> Prensa Ibérica | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
-| [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 2.0% | N/A | N/A | N/A | N/A |
+| [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.5–2.6% | 1.4–2.8% |
 | [1–9 February 2024](2024-02-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
-| [1–6 February 2024](2024-02-06-CIS.html) | CIS | 1.0% | N/A | N/A | N/A | N/A |
+| [1–6 February 2024](2024-02-06-CIS.html) | CIS | 1.0% | 0.8–1.2% | 0.8–1.3% | 0.7–1.4% | 0.6–1.5% |
 | [5 February 2024](2024-02-05-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [26 January–1 February 2024](2024-02-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.6% | N/A | N/A | N/A | N/A |
 | [26–29 January 2024](2024-01-29-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
@@ -782,8 +782,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 32% | 100% |  |
-| 1.5–2.5% | 65% | 68% | Median |
+| 0.5–1.5% | 38% | 100% |  |
+| 1.5–2.5% | 59% | 62% | Median |
 | 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -796,14 +796,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–21 February 2024](2024-02-21-GESOP.html) | GESOP <br> Prensa Ibérica | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1 | 1 | 0–1 |
 | [1–9 February 2024](2024-02-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
-| [1–6 February 2024](2024-02-06-CIS.html) | CIS |  |  |  |  |  |
+| [1–6 February 2024](2024-02-06-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0–1 |
 | [5 February 2024](2024-02-05-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [26 January–1 February 2024](2024-02-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [26–29 January 2024](2024-01-29-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
@@ -1569,9 +1569,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% | Last Result |
-| 1 | 67% | 68% | Median |
-| 2 | 0.6% | 0.6% |  |
+| 0 | 38% | 100% | Last Result |
+| 1 | 62% | 62% | Median |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
 
