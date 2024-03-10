@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Wed, 27 Sep 2023 18:20:56 +0200</pubDate>
     <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 5–9 March 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2024-03-09-SocioMétrica.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by SocioMétrica for El Español, 5–9 March 2024<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2024-03-09-SocioMétrica.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2024-03-09-SocioMétrica.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2024-03-09-SocioMétrica.png" length="406704" type="image/png"/>
+      <pubDate>Sun, 10 Mar 2024 12:12:39 +0100</pubDate>
+      <dc:date>2024-03-10T12:12:39.74932373+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by GAD3 for ABC, 26–29 February 2024 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2024-02-29-GAD3.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by GAD3 for ABC, 26–29 February 2024<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2024-02-29-GAD3.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2024-02-29-GAD3-seating-plan.png"/>]]></description>
@@ -196,30 +204,6 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2024-02-05-40dB.png" length="227539" type="image/png"/>
       <pubDate>Sat, 9 Mar 2024 18:00:02 +0100</pubDate>
       <dc:date>2024-03-09T18:00:02.504840196+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by 40dB for Prisa, 26–29 January 2024 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2024-01-29-40dB.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by 40dB for Prisa, 26–29 January 2024<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2024-01-29-40dB.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2024-01-29-40dB-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2024-01-29-40dB-seating-plan.png" length="399051" type="image/png"/>
-      <pubDate>Mon, 12 Feb 2024 17:24:26 +0100</pubDate>
-      <dc:date>2024-02-12T17:24:26.851439636+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by 40dB for Prisa, 26–29 January 2024 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2024-01-29-40dB.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by 40dB for Prisa, 26–29 January 2024<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2024-01-29-40dB.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2024-01-29-40dB-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2024-01-29-40dB-seats.png" length="198385" type="image/png"/>
-      <pubDate>Mon, 12 Feb 2024 17:24:26 +0100</pubDate>
-      <dc:date>2024-02-12T17:24:26.851439636+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by 40dB for Prisa, 26–29 January 2024 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2024-01-29-40dB.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by 40dB for Prisa, 26–29 January 2024<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2024-01-29-40dB.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2024-01-29-40dB.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2024-01-29-40dB.png" length="228567" type="image/png"/>
-      <pubDate>Mon, 12 Feb 2024 17:24:26 +0100</pubDate>
-      <dc:date>2024-02-12T17:24:26.851439636+01:00</dc:date>
     </item>
   </channel>
 </rss>
