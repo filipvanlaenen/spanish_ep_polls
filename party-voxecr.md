@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.8% | 8.1–12.5% | 7.7–13.0% | 7.5–13.3% | 7.1–14.1% |
+| N/A | [Poll Average](average.html) | 10.8% | 9.1–12.6% | 8.6–13.0% | 8.2–13.5% | 7.5–14.2% |
+| [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 10.5% | 9.8–11.3% | 9.6–11.5% | 9.4–11.7% | 9.1–12.1% |
+| [5–7 March 2024](2024-03-07-TargetPoint.html) | Target Point <br> El Debate | 10.7% | N/A | N/A | N/A | N/A |
 | [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 10.2% | 9.3–11.2% | 9.0–11.5% | 8.8–11.7% | 8.4–12.3% |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 11.1% | 10.0–12.5% | 9.6–12.9% | 9.3–13.2% | 8.8–13.9% |
 | [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 11.6% | 10.4–13.0% | 10.0–13.4% | 9.8–13.7% | 9.2–14.4% |
@@ -788,12 +790,12 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 3% | 100% |  |
-| 7.5–8.5% | 12% | 97% |  |
-| 8.5–9.5% | 9% | 85% |  |
-| 9.5–10.5% | 18% | 76% |  |
-| 10.5–11.5% | 28% | 57% | Median |
-| 11.5–12.5% | 20% | 30% |  |
+| 6.5–7.5% | 0.5% | 100% |  |
+| 7.5–8.5% | 4% | 99.4% |  |
+| 8.5–9.5% | 12% | 95% |  |
+| 9.5–10.5% | 27% | 84% |  |
+| 10.5–11.5% | 29% | 57% | Median |
+| 11.5–12.5% | 18% | 28% |  |
 | 12.5–13.5% | 8% | 10% |  |
 | 13.5–14.5% | 2% | 2% |  |
 | 14.5–15.5% | 0.2% | 0.2% |  |
@@ -808,7 +810,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–9 | 5–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–9 | 5–9 | 5–9 |
+| [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [5–7 March 2024](2024-03-07-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
@@ -1585,12 +1589,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.4% | 100% |  |
-| 5 | 15% | 99.6% |  |
-| 6 | 19% | 85% |  |
-| 7 | 33% | 66% | Median |
-| 8 | 27% | 33% |  |
-| 9 | 6% | 6% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 6% | 99.8% |  |
+| 6 | 28% | 94% |  |
+| 7 | 37% | 66% | Median |
+| 8 | 23% | 29% |  |
+| 9 | 5% | 5% |  |
 | 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
 
