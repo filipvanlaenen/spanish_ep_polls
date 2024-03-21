@@ -10,9 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38.4% | 36.2–40.5% | 35.5–41.1% | 34.9–41.5% | 33.8–42.3% |
+| N/A | [Poll Average](average.html) | 38.4% | 36.0–40.5% | 35.2–41.1% | 34.6–41.5% | 33.4–42.3% |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 40.0% | 38.8–41.2% | 38.5–41.5% | 38.2–41.8% | 37.7–42.4% |
+| [1–8 March 2024](2024-03-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 36.1% | 34.3–38.1% | 33.7–38.6% | 33.3–39.1% | 32.4–40.0% |
 | [5–7 March 2024](2024-03-07-TargetPoint.html) | Target Point <br> El Debate | 38.8% | 36.9–40.7% | 36.4–41.3% | 35.9–41.7% | 35.0–42.7% |
+| [1–6 March 2024](2024-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 38.5% | N/A | N/A | N/A | N/A |
+| [1–3 March 2024](2024-03-03-40dB.html) | 40dB <br> Prisa | 35.2% | N/A | N/A | N/A | N/A |
 | [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 37.9% | 36.4–39.5% | 36.0–39.9% | 35.6–40.3% | 34.9–41.1% |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 37.9% | 36.0–39.9% | 35.4–40.5% | 34.9–41.0% | 34.0–41.9% |
 | [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 38.8% | 36.9–40.8% | 36.3–41.4% | 35.8–41.9% | 34.9–42.8% |
@@ -815,14 +818,14 @@ The following table shows the probability mass function per percentage block of 
 | 28.5–29.5% | 0% | 100% |  |
 | 29.5–30.5% | 0% | 100% |  |
 | 30.5–31.5% | 0% | 100% |  |
-| 31.5–32.5% | 0% | 100% |  |
-| 32.5–33.5% | 0.3% | 100% |  |
-| 33.5–34.5% | 1.2% | 99.7% |  |
-| 34.5–35.5% | 4% | 98.5% |  |
-| 35.5–36.5% | 9% | 95% |  |
-| 36.5–37.5% | 17% | 86% |  |
-| 37.5–38.5% | 21% | 69% | Median |
-| 38.5–39.5% | 22% | 48% |  |
+| 31.5–32.5% | 0.1% | 100% |  |
+| 32.5–33.5% | 0.5% | 99.9% |  |
+| 33.5–34.5% | 2% | 99.4% |  |
+| 34.5–35.5% | 4% | 98% |  |
+| 35.5–36.5% | 9% | 93% |  |
+| 36.5–37.5% | 16% | 84% |  |
+| 37.5–38.5% | 21% | 68% | Median |
+| 38.5–39.5% | 21% | 47% |  |
 | 39.5–40.5% | 16% | 26% |  |
 | 40.5–41.5% | 8% | 10% |  |
 | 41.5–42.5% | 2% | 2% |  |
@@ -840,7 +843,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 24–28 | 24–28 | 23–29 | 23–30 |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 27 | 26–27 | 26–28 | 26–28 | 26–28 |
+| [1–8 March 2024](2024-03-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
 | [5–7 March 2024](2024-03-07-TargetPoint.html) | Target Point <br> El Debate | 28 | 26–29 | 26–29 | 26–30 | 25–30 |
+| [1–6 March 2024](2024-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [1–3 March 2024](2024-03-03-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 26 | 24–27 | 24–27 | 24–27 | 23–28 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 26 | 24–27 | 23–27 | 23–27 | 23–28 |
 | [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 27 | 25–27 | 25–28 | 25–28 | 24–29 |

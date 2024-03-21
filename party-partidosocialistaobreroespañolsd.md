@@ -10,9 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.4% | 26.5–30.4% | 25.9–31.0% | 25.4–31.5% | 24.4–32.5% |
+| N/A | [Poll Average](average.html) | 28.4% | 26.5–30.4% | 25.9–31.0% | 25.4–31.6% | 24.4–32.6% |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 28.2% | 27.1–29.3% | 26.9–29.6% | 26.6–29.9% | 26.1–30.4% |
+| [1–8 March 2024](2024-03-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 29.8% | 28.1–31.7% | 27.6–32.2% | 27.1–32.7% | 26.3–33.6% |
 | [5–7 March 2024](2024-03-07-TargetPoint.html) | Target Point <br> El Debate | 26.9% | 25.3–28.7% | 24.8–29.2% | 24.4–29.7% | 23.6–30.5% |
+| [1–6 March 2024](2024-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 28.8% | N/A | N/A | N/A | N/A |
+| [1–3 March 2024](2024-03-03-40dB.html) | 40dB <br> Prisa | 30.7% | N/A | N/A | N/A | N/A |
 | [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 29.3% | 27.9–30.8% | 27.5–31.2% | 27.1–31.6% | 26.5–32.3% |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 28.4% | 26.6–30.2% | 26.1–30.8% | 25.7–31.2% | 24.8–32.1% |
 | [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 28.2% | 26.4–30.1% | 25.9–30.6% | 25.5–31.1% | 24.7–32.0% |
@@ -811,11 +814,11 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 3% | 99.3% |  |
 | 25.5–26.5% | 8% | 97% |  |
 | 26.5–27.5% | 17% | 89% |  |
-| 27.5–28.5% | 26% | 72% | Median |
-| 28.5–29.5% | 24% | 46% |  |
-| 29.5–30.5% | 14% | 22% |  |
-| 30.5–31.5% | 6% | 8% |  |
-| 31.5–32.5% | 2% | 2% |  |
+| 27.5–28.5% | 25% | 72% | Median |
+| 28.5–29.5% | 24% | 47% |  |
+| 29.5–30.5% | 14% | 23% |  |
+| 30.5–31.5% | 6% | 9% |  |
+| 31.5–32.5% | 2% | 3% |  |
 | 32.5–33.5% | 0.4% | 0.5% |  |
 | 33.5–34.5% | 0.1% | 0.1% |  |
 | 34.5–35.5% | 0% | 0% |  |
@@ -829,9 +832,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–20 | 18–21 | 17–21 | 16–22 |
+| N/A | [Poll Average](average.html) | 19 | 18–21 | 18–21 | 17–22 | 16–22 |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 19–20 | 18–20 | 18–20 | 17–20 |
+| [1–8 March 2024](2024-03-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [5–7 March 2024](2024-03-07-TargetPoint.html) | Target Point <br> El Debate | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
+| [1–6 March 2024](2024-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [1–3 March 2024](2024-03-03-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 20 | 19–20 | 19–21 | 18–22 | 18–22 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 20 | 18–20 | 17–21 | 17–22 | 16–22 |
 | [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 18 | 18–20 | 18–21 | 17–21 | 16–21 |
@@ -1623,11 +1629,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0.5% | 100% |  |
 | 17 | 3% | 99.5% |  |
 | 18 | 19% | 97% |  |
-| 19 | 36% | 78% | Median |
-| 20 | 32% | 42% |  |
-| 21 | 8% | 10% |  |
-| 22 | 2% | 2% |  |
-| 23 | 0.1% | 0.1% |  |
+| 19 | 34% | 78% | Median |
+| 20 | 31% | 44% |  |
+| 21 | 9% | 12% |  |
+| 22 | 3% | 3% |  |
+| 23 | 0.3% | 0.3% |  |
 | 24 | 0% | 0% |  |
 
 
