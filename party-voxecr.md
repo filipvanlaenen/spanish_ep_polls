@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.6% | 9.2–12.1% | 8.7–12.6% | 8.3–13.0% | 7.6–13.8% |
+| N/A | [Poll Average](average.html) | 10.6% | 9.3–12.0% | 8.8–12.5% | 8.4–12.9% | 7.7–13.7% |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 10.5% | 9.8–11.3% | 9.6–11.5% | 9.4–11.7% | 9.1–12.1% |
 | [1–8 March 2024](2024-03-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 10.8% | 9.6–12.1% | 9.3–12.5% | 9.1–12.8% | 8.5–13.5% |
 | [5–7 March 2024](2024-03-07-TargetPoint.html) | Target Point <br> El Debate | 10.7% | 9.6–12.0% | 9.3–12.4% | 9.0–12.7% | 8.5–13.4% |
-| [1–6 March 2024](2024-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 10.5% | N/A | N/A | N/A | N/A |
-| [1–3 March 2024](2024-03-03-40dB.html) | 40dB <br> Prisa | 10.6% | N/A | N/A | N/A | N/A |
+| [1–6 March 2024](2024-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 10.5% | 9.4–11.8% | 9.1–12.2% | 8.9–12.5% | 8.4–13.1% |
+| [1–3 March 2024](2024-03-03-40dB.html) | 40dB <br> Prisa | 10.6% | 9.8–11.5% | 9.5–11.8% | 9.3–12.0% | 8.9–12.5% |
 | [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 10.2% | 9.3–11.2% | 9.0–11.5% | 8.8–11.7% | 8.4–12.3% |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 11.1% | 10.0–12.5% | 9.6–12.9% | 9.3–13.2% | 8.8–13.9% |
 | [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 11.6% | 10.4–13.0% | 10.0–13.4% | 9.8–13.7% | 9.2–14.4% |
@@ -793,14 +793,14 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.5% | 100% |  |
-| 7.5–8.5% | 4% | 99.5% |  |
-| 8.5–9.5% | 12% | 96% |  |
-| 9.5–10.5% | 31% | 84% |  |
-| 10.5–11.5% | 33% | 53% | Median |
-| 11.5–12.5% | 15% | 21% |  |
-| 12.5–13.5% | 5% | 5% |  |
-| 13.5–14.5% | 0.7% | 0.8% |  |
+| 6.5–7.5% | 0.4% | 100% |  |
+| 7.5–8.5% | 3% | 99.6% |  |
+| 8.5–9.5% | 11% | 97% |  |
+| 9.5–10.5% | 32% | 85% |  |
+| 10.5–11.5% | 34% | 53% | Median |
+| 11.5–12.5% | 14% | 19% |  |
+| 12.5–13.5% | 4% | 4% |  |
+| 13.5–14.5% | 0.6% | 0.6% |  |
 | 14.5–15.5% | 0.1% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -813,12 +813,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [1–8 March 2024](2024-03-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [5–7 March 2024](2024-03-07-TargetPoint.html) | Target Point <br> El Debate | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
-| [1–6 March 2024](2024-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
-| [1–3 March 2024](2024-03-03-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
+| [1–6 March 2024](2024-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
+| [1–3 March 2024](2024-03-03-40dB.html) | 40dB <br> Prisa | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
@@ -1596,10 +1596,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
-| 5 | 5% | 99.9% |  |
-| 6 | 25% | 95% |  |
-| 7 | 45% | 69% | Median |
-| 8 | 22% | 25% |  |
+| 5 | 4% | 99.9% |  |
+| 6 | 24% | 96% |  |
+| 7 | 49% | 72% | Median |
+| 8 | 20% | 23% |  |
 | 9 | 3% | 3% |  |
 | 10 | 0% | 0% |  |
 

@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.5% | 4.5–6.7% | 4.3–7.1% | 4.1–7.4% | 3.7–8.1% |
+| N/A | [Poll Average](average.html) | 5.6% | 4.6–6.7% | 4.3–7.0% | 4.1–7.4% | 3.7–8.0% |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 4.9% | 4.4–5.4% | 4.3–5.6% | 4.1–5.7% | 3.9–6.0% |
 | [1–8 March 2024](2024-03-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 6.5% | 5.6–7.6% | 5.4–7.9% | 5.2–8.2% | 4.8–8.7% |
 | [5–7 March 2024](2024-03-07-TargetPoint.html) | Target Point <br> El Debate | 5.2% | 4.4–6.2% | 4.2–6.4% | 4.0–6.7% | 3.7–7.2% |
-| [1–6 March 2024](2024-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 5.8% | N/A | N/A | N/A | N/A |
-| [1–3 March 2024](2024-03-03-40dB.html) | 40dB <br> Prisa | 5.6% | N/A | N/A | N/A | N/A |
+| [1–6 March 2024](2024-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 5.8% | 5.0–6.8% | 4.8–7.1% | 4.6–7.4% | 4.2–7.9% |
+| [1–3 March 2024](2024-03-03-40dB.html) | 40dB <br> Prisa | 5.6% | 5.0–6.3% | 4.8–6.5% | 4.7–6.7% | 4.4–7.1% |
 | [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 5.9% | 5.2–6.7% | 5.0–6.9% | 4.8–7.1% | 4.5–7.5% |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.1–7.0% | 3.8–7.5% |
 | [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
@@ -789,10 +789,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 11% | 99.7% |  |
-| 4.5–5.5% | 41% | 88% | Median |
-| 5.5–6.5% | 34% | 47% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 9% | 99.8% |  |
+| 4.5–5.5% | 40% | 91% |  |
+| 5.5–6.5% | 38% | 50% | Median |
 | 6.5–7.5% | 11% | 13% |  |
 | 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
@@ -807,12 +807,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 3 | 3 | 2–4 | 2–4 |
 | [1–8 March 2024](2024-03-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [5–7 March 2024](2024-03-07-TargetPoint.html) | Target Point <br> El Debate | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
-| [1–6 March 2024](2024-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
-| [1–3 March 2024](2024-03-03-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
+| [1–6 March 2024](2024-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
+| [1–3 March 2024](2024-03-03-40dB.html) | 40dB <br> Prisa | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [19–22 February 2024](2024-02-22-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -1587,9 +1587,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 6% | 100% |  |
-| 3 | 54% | 94% | Median |
-| 4 | 35% | 40% |  |
+| 2 | 5% | 100% |  |
+| 3 | 52% | 95% | Median |
+| 4 | 40% | 43% |  |
 | 5 | 4% | 4% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |

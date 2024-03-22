@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 1.2% | 1.0–1.5% | 0.9–1.6% | 0.9–1.7% | 0.8–1.8% |
 | [1–8 March 2024](2024-03-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [5–7 March 2024](2024-03-07-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
-| [1–6 March 2024](2024-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1.8% | N/A | N/A | N/A | N/A |
+| [1–6 March 2024](2024-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1.8% | 1.4–2.5% | 1.3–2.6% | 1.2–2.8% | 1.0–3.1% |
 | [1–3 March 2024](2024-03-03-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.9% | 1.5–2.4% | 1.4–2.6% | 1.3–2.7% | 1.2–3.0% |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -787,9 +787,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 34% | 100% |  |
-| 1.5–2.5% | 60% | 66% | Median |
-| 2.5–3.5% | 6% | 7% |  |
+| 0.5–1.5% | 31% | 100% |  |
+| 1.5–2.5% | 62% | 69% | Median |
+| 2.5–3.5% | 7% | 7% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -802,11 +802,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–8 March 2024](2024-03-08-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [5–7 March 2024](2024-03-07-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
-| [1–6 March 2024](2024-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [1–6 March 2024](2024-03-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [1–3 March 2024](2024-03-03-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [22–29 February 2024](2024-02-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
@@ -1580,9 +1580,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 28% | 100% | Last Result |
-| 1 | 70% | 72% | Median |
-| 2 | 3% | 3% |  |
+| 0 | 26% | 100% | Last Result |
+| 1 | 71% | 74% | Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 
