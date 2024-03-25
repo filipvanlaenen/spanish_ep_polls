@@ -10,18 +10,16 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Popular (EPP) | 0.0% | 40.0% | 38.8–41.2% |38.5–41.5% |38.2–41.8% |37.7–42.4% |
-| Partido Socialista Obrero Español (S&D) | 0.0% | 28.2% | 27.1–29.3% |26.9–29.6% |26.6–29.9% |26.1–30.4% |
-| Vox (ECR) | 0.0% | 10.5% | 9.8–11.3% |9.6–11.5% |9.4–11.7% |9.1–12.1% |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA) | 0.0% | 5.2% | 4.7–5.8% |4.6–6.0% |4.5–6.1% |4.3–6.4% |
-| Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL) | 0.0% | 4.9% | 4.4–5.4% |4.3–5.6% |4.1–5.7% |3.9–6.0% |
-| Partit Demòcrata Europeu Català (NI) | 0.0% | 2.2% | 1.9–2.6% |1.8–2.7% |1.7–2.8% |1.6–3.0% |
-| Euskal Herria Bildu (GUE/NGL) | 0.0% | 2.0% | 1.7–2.4% |1.6–2.5% |1.5–2.6% |1.4–2.8% |
-| Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA) | 0.0% | 1.2% | 1.0–1.5% |0.9–1.6% |0.9–1.7% |0.8–1.8% |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE) | 0.0% | 1.0% | 0.8–1.3% |0.7–1.4% |0.7–1.4% |0.6–1.6% |
-| Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA) | 0.0% | 0.7% | 0.5–0.9% |0.5–1.0% |0.4–1.1% |0.4–1.2% |
-| Coalición Canaria–Partido Nacionalista Canario (RE) | 0.0% | 0.2% | 0.1–0.4% |0.1–0.4% |0.1–0.5% |0.1–0.5% |
-| Unión del Pueblo Navarro (*) | 0.0% | 0.1% | 0.0–0.2% |0.0–0.3% |0.0–0.3% |0.0–0.4% |
+| Partido Popular (EPP) | 0.0% | 40.1% | 38.9–41.3% |38.6–41.6% |38.3–41.9% |37.8–42.5% |
+| Partido Socialista Obrero Español (S&D) | 0.0% | 24.5% | 23.5–25.6% |23.2–25.9% |23.0–26.1% |22.5–26.6% |
+| Vox (ECR) | 0.0% | 10.6% | 9.9–11.4% |9.7–11.6% |9.5–11.8% |9.2–12.1% |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA) | 0.0% | 5.8% | 5.3–6.4% |5.2–6.6% |5.0–6.8% |4.8–7.0% |
+| Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL) | 0.0% | 5.4% | 4.9–6.0% |4.7–6.1% |4.6–6.3% |4.4–6.6% |
+| Partit Demòcrata Europeu Català (NI) | 0.0% | 3.0% | 2.6–3.5% |2.5–3.6% |2.4–3.7% |2.3–3.9% |
+| Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA) | 0.0% | 2.4% | 2.1–2.9% |2.0–3.0% |1.9–3.1% |1.8–3.3% |
+| Euskal Herria Bildu (GUE/NGL) | 0.0% | 2.1% | 1.8–2.5% |1.7–2.6% |1.6–2.7% |1.5–2.9% |
+| Coalición por Europa (RE) | 0.0% | 1.2% | 1.0–1.5% |0.9–1.6% |0.9–1.7% |0.8–1.8% |
+| Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA) | 0.0% | 0.3% | 0.2–0.5% |0.2–0.6% |0.2–0.6% |0.1–0.7% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -35,18 +33,16 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 27 | 26–27 |26–28 |26–28 |26–28 |
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 19 | 19–20 |18–20 |18–20 |17–20 |
-| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 7 | 6–7 |6–7 |6–7 |6–8 |
-| <a href="#movimiento-sumar–catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 3 | 3–4 |3–4 |3–4 |2–4 |
-| <a href="#movimiento-sumar–podemos–izquierda-unida-(gue/ngl)">Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL)</a> | 0 | 3 | 3 |3 |2–4 |2–4 |
-| <a href="#partit-demòcrata-europeu-català-(ni)">Partit Demòcrata Europeu Català (NI)</a> | 0 | 1 | 1 |1 |1 |1–2 |
-| <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0 | 1 | 1 |1 |1 |1 |
-| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco-(re)">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 27 | 26–27 |26–28 |26–28 |25–29 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 16 | 16–17 |15–17 |15–17 |15–18 |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 7 | 6–7 |6–7 |6–8 |6–8 |
+| <a href="#movimiento-sumar–catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 4 | 3–4 |3–4 |3–4 |3–4 |
+| <a href="#movimiento-sumar–podemos–izquierda-unida-(gue/ngl)">Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL)</a> | 0 | 3 | 3–4 |3–4 |3–4 |2–4 |
+| <a href="#partit-demòcrata-europeu-català-(ni)">Partit Demòcrata Europeu Català (NI)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#coalición-por-europa-(re)">Coalición por Europa (RE)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
 | <a href="#bloque-nacionalista-galego–nós-candidatura-galega-(greens/efa)">Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#coalición-canaria–partido-nacionalista-canario-(re)">Coalición Canaria–Partido Nacionalista Canario (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#unión-del-pueblo-navarro-(*)">Unión del Pueblo Navarro (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Partido Popular (EPP)
 
@@ -81,11 +77,11 @@
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 0.4% | 100% |  |
-| 26 | 30% | 99.6% |  |
-| 27 | 64% | 70% | Median |
-| 28 | 6% | 6% |  |
-| 29 | 0.3% | 0.3% |  |
+| 25 | 2% | 100% |  |
+| 26 | 46% | 98% |  |
+| 27 | 42% | 52% | Median |
+| 28 | 9% | 10% |  |
+| 29 | 0.6% | 0.6% |  |
 | 30 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -110,15 +106,12 @@
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 1.0% | 100% |  |
-| 18 | 6% | 99.0% |  |
-| 19 | 75% | 93% | Median |
-| 20 | 18% | 18% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 9% | 99.9% |  |
+| 16 | 61% | 91% | Median |
+| 17 | 28% | 30% |  |
+| 18 | 2% | 2% |  |
+| 19 | 0% | 0% |  |
 
 ### Vox (ECR)
 
@@ -133,10 +126,10 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 24% | 100% |  |
-| 7 | 74% | 76% | Median |
-| 8 | 2% | 2% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 26% | 99.9% |  |
+| 7 | 71% | 74% | Median |
+| 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
 
 ### Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)
@@ -149,9 +142,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.7% | 100% |  |
-| 3 | 80% | 99.3% | Median |
-| 4 | 19% | 19% |  |
+| 2 | 0% | 100% |  |
+| 3 | 42% | 100% |  |
+| 4 | 58% | 58% | Median |
 | 5 | 0% | 0% |  |
 
 ### Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL)
@@ -164,9 +157,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 3% | 100% |  |
-| 3 | 94% | 97% | Median |
-| 4 | 3% | 3% |  |
+| 2 | 1.1% | 100% |  |
+| 3 | 86% | 98.9% | Median |
+| 4 | 13% | 13% |  |
 | 5 | 0% | 0% |  |
 
 ### Partit Demòcrata Europeu Català (NI)
@@ -178,21 +171,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 98.7% | 100% | Median |
-| 2 | 1.3% | 1.3% |  |
+| 1 | 31% | 100% |  |
+| 2 | 69% | 69% | Median |
 | 3 | 0% | 0% |  |
-
-### Euskal Herria Bildu (GUE/NGL)
-
-*For a full overview of the results for this party, see the [Euskal Herria Bildu (GUE/NGL)](party-euskalherriabilduguengl.html) page.*
-
-![Graph with seats probability mass function not yet produced](2024-03-09-SocioMétrica-seats-pmf-euskalherriabilduguengl.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 99.9% | 99.9% | Median |
-| 2 | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)
 
@@ -202,20 +183,35 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Last Result, Median |
-| 1 | 16% | 16% |  |
-| 2 | 0% | 0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 27% | 100% |  |
+| 2 | 73% | 73% | Median |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
-### Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)
+### Euskal Herria Bildu (GUE/NGL)
 
-*For a full overview of the results for this party, see the [Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)](party-euzkoalderdijeltzaleapartidonacionalistavascore.html) page.*
+*For a full overview of the results for this party, see the [Euskal Herria Bildu (GUE/NGL)](party-euskalherriabilduguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-03-09-SocioMétrica-seats-pmf-euzkoalderdijeltzaleapartidonacionalistavascore.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-03-09-SocioMétrica-seats-pmf-euskalherriabilduguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 83% | 100% | Median |
+| 2 | 17% | 17% |  |
+| 3 | 0% | 0% |  |
+
+### Coalición por Europa (RE)
+
+*For a full overview of the results for this party, see the [Coalición por Europa (RE)](party-coaliciónporeuropare.html) page.*
+
+![Graph with seats probability mass function not yet produced](2024-03-09-SocioMétrica-seats-pmf-coaliciónporeuropare.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 90% | 100% | Last Result, Median |
+| 1 | 10% | 10% |  |
 | 2 | 0% | 0% |  |
 
 ### Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA)
@@ -223,26 +219,6 @@
 *For a full overview of the results for this party, see the [Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA)](party-bloquenacionalistagalego–nóscandidaturagalegagreensefa.html) page.*
 
 ![Graph with seats probability mass function not yet produced](2024-03-09-SocioMétrica-seats-pmf-bloquenacionalistagalego–nóscandidaturagalegagreensefa.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-### Coalición Canaria–Partido Nacionalista Canario (RE)
-
-*For a full overview of the results for this party, see the [Coalición Canaria–Partido Nacionalista Canario (RE)](party-coalicióncanaria–partidonacionalistacanariore.html) page.*
-
-![Graph with seats probability mass function not yet produced](2024-03-09-SocioMétrica-seats-pmf-coalicióncanaria–partidonacionalistacanariore.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-### Unión del Pueblo Navarro (*)
-
-*For a full overview of the results for this party, see the [Unión del Pueblo Navarro (*)](party-unióndelpueblonavarro.html) page.*
-
-![Graph with seats probability mass function not yet produced](2024-03-09-SocioMétrica-seats-pmf-unióndelpueblonavarro.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -257,10 +233,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Popular (EPP) | 0 | 27 | 0% | 26–27 | 26–28 | 26–28 | 26–28 |
-| Partido Socialista Obrero Español (S&D) | 0 | 19 | 0% | 19–20 | 18–20 | 18–20 | 17–20 |
-| Vox (ECR) | 0 | 7 | 0% | 6–7 | 6–7 | 6–7 | 6–8 |
-| Unión del Pueblo Navarro (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Partido Popular (EPP) | 0 | 27 | 0% | 26–27 | 26–28 | 26–28 | 25–29 |
+| Partido Socialista Obrero Español (S&D) | 0 | 16 | 0% | 16–17 | 15–17 | 15–17 | 15–18 |
+| Vox (ECR) | 0 | 7 | 0% | 6–7 | 6–7 | 6–8 | 6–8 |
 
 ### Partido Popular (EPP)
 
@@ -293,11 +268,11 @@
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 0.4% | 100% |  |
-| 26 | 30% | 99.6% |  |
-| 27 | 64% | 70% | Median |
-| 28 | 6% | 6% |  |
-| 29 | 0.3% | 0.3% |  |
+| 25 | 2% | 100% |  |
+| 26 | 46% | 98% |  |
+| 27 | 42% | 52% | Median |
+| 28 | 9% | 10% |  |
+| 29 | 0.6% | 0.6% |  |
 | 30 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -320,15 +295,12 @@
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 1.0% | 100% |  |
-| 18 | 6% | 99.0% |  |
-| 19 | 75% | 93% | Median |
-| 20 | 18% | 18% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 9% | 99.9% |  |
+| 16 | 61% | 91% | Median |
+| 17 | 28% | 30% |  |
+| 18 | 2% | 2% |  |
+| 19 | 0% | 0% |  |
 
 ### Vox (ECR)
 
@@ -341,19 +313,11 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 24% | 100% |  |
-| 7 | 74% | 76% | Median |
-| 8 | 2% | 2% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 26% | 99.9% |  |
+| 7 | 71% | 74% | Median |
+| 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
-
-### Unión del Pueblo Navarro (*)
-
-![Graph with seats probability mass function not yet produced](2024-03-09-SocioMétrica-coalitions-seats-pmf-upn.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Technical Information
@@ -368,5 +332,5 @@
 
 + **Sample size:** 2900
 + **Simulations done:** 1,048,576
-+ **Error estimate:** 1.07%
++ **Error estimate:** 0.88%
 
