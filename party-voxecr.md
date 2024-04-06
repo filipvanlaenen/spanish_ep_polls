@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.1% | 8.2–11.2% | 7.7–11.4% | 7.4–11.7% | 6.8–12.1% |
+| N/A | [Poll Average](average.html) | 10.2% | 8.8–11.2% | 8.4–11.5% | 8.0–11.7% | 7.4–12.1% |
+| [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 9.2% | 8.2–10.5% | 7.9–10.9% | 7.6–11.2% | 7.1–11.8% |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 10.6% | 9.9–11.4% | 9.7–11.6% | 9.5–11.8% | 9.2–12.1% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 10.4% | 9.6–11.3% | 9.3–11.6% | 9.1–11.8% | 8.7–12.3% |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 8.6% | 7.5–9.8% | 7.2–10.2% | 7.0–10.5% | 6.5–11.1% |
@@ -783,12 +784,12 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.2% | 100% |  |
-| 6.5–7.5% | 3% | 99.8% |  |
-| 7.5–8.5% | 12% | 97% |  |
-| 8.5–9.5% | 17% | 84% |  |
-| 9.5–10.5% | 35% | 68% | Median |
-| 10.5–11.5% | 29% | 33% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0.7% | 100% |  |
+| 7.5–8.5% | 6% | 99.3% |  |
+| 8.5–9.5% | 18% | 93% |  |
+| 9.5–10.5% | 40% | 75% | Median |
+| 10.5–11.5% | 32% | 35% |  |
 | 11.5–12.5% | 4% | 4% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -802,7 +803,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| N/A | [Poll Average](average.html) | 7 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 5 | 5–6 | 5–7 | 4–7 | 4–7 |
@@ -1575,11 +1577,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.2% | 100% |  |
-| 5 | 17% | 98.8% |  |
-| 6 | 39% | 82% | Median |
-| 7 | 42% | 43% |  |
-| 8 | 1.4% | 1.4% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 13% | 99.9% |  |
+| 6 | 35% | 87% |  |
+| 7 | 50% | 52% | Median |
+| 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
 

@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.5–2.4% | 1.3–2.6% | 1.2–2.7% | 1.1–3.1% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.4–2.4% | 1.3–2.6% | 1.2–2.7% | 1.1–3.0% |
+| [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 1.9% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.3% |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 2.1% | 1.8–2.5% | 1.7–2.6% | 1.6–2.7% | 1.5–2.9% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1.6% | 1.3–2.1% | 1.2–2.2% | 1.2–2.3% | 1.0–2.5% |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–2.9% | 1.0–3.3% |
@@ -782,7 +783,6 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 77% | 83% | Median |
 | 2.5–3.5% | 6% | 6% |  |
 | 3.5–4.5% | 0% | 0% |  |
-| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -794,6 +794,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 1 | 1 | 0–2 | 0–2 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
@@ -1563,9 +1564,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% | Last Result |
-| 1 | 86% | 97% | Median |
-| 2 | 11% | 12% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
+| 1 | 85% | 97% | Median |
+| 2 | 12% | 12% |  |
+| 3 | 0% | 0% |  |
 
 
