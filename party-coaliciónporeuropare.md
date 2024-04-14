@@ -797,7 +797,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 1 | 1 | 1 | 0–1 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 1 | 1 | 0–1 | 0–2 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–29 January 2024](2024-01-29-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
@@ -1565,7 +1565,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 31% | 100% | Last Result |
-| 1 | 64% | 69% | Median |
+| 1 | 63% | 69% | Median |
 | 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 
