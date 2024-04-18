@@ -16,7 +16,6 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 28.6% | 27.3–29.9% | 27.0–30.3% | 26.7–30.6% | 26.0–31.3% |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 27.1% | 25.3–28.9% | 24.8–29.4% | 24.4–29.9% | 23.6–30.8% |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 28.1% | 27.0–29.2% | 26.7–29.5% | 26.5–29.8% | 26.0–30.3% |
-| [26–29 January 2024](2024-01-29-40dB.html) | 40dB <br> Prisa | 30.5% | 29.2–31.9% | 28.8–32.2% | 28.5–32.6% | 27.9–33.2% |
 | [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 32.3% | 29.0–35.9% | 28.1–36.9% | 27.3–37.8% | 25.8–39.6% |
 | [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 28.3% | 26.5–30.2% | 26.0–30.7% | 25.6–31.2% | 24.8–32.1% |
 | [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 29.4% | 27.6–31.3% | 27.1–31.8% | 26.7–32.3% | 25.8–33.2% |
@@ -828,9 +827,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 18 | 18–20 | 18–20 | 17–20 | 17–20 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–19 | 17–19 | 17–19 | 17–20 |
-| [26–29 January 2024](2024-01-29-40dB.html) | 40dB <br> Prisa | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
 | [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 22 | 20–25 | 19–25 | 19–26 | 18–27 |
-| [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 19 | 18–20 | 17–21 | 17–21 | 16–21 |
+| [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
 | [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 20 | 19–21 | 18–22 | 18–22 | 18–23 |
 | [5–8 January 2024](2024-01-08-40dB.html) | 40dB <br> Prisa | 22 | 21–23 | 21–23 | 21–24 | 20–24 |
 | [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 19–21 | 18–21 | 18–21 | 18–21 |

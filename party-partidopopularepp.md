@@ -16,7 +16,6 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 37.7% | 36.3–39.1% | 35.9–39.5% | 35.6–39.9% | 34.9–40.5% |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 38.4% | 36.5–40.4% | 35.9–41.0% | 35.4–41.5% | 34.5–42.4% |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 38.3% | 37.2–39.5% | 36.8–39.8% | 36.5–40.1% | 36.0–40.7% |
-| [26–29 January 2024](2024-01-29-40dB.html) | 40dB <br> Prisa | 34.4% | 33.0–35.8% | 32.7–36.2% | 32.3–36.5% | 31.7–37.2% |
 | [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 37.7% | 34.2–41.4% | 33.2–42.4% | 32.4–43.3% | 30.7–45.1% |
 | [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 37.5% | 35.6–39.5% | 35.0–40.1% | 34.6–40.6% | 33.6–41.5% |
 | [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 36.6% | 34.7–38.6% | 34.2–39.2% | 33.7–39.6% | 32.8–40.6% |
@@ -839,8 +838,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 24 | 24–25 | 24–26 | 23–26 | 23–27 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 26 | 24–28 | 24–28 | 24–28 | 24–28 |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 24–26 | 24–26 | 24–26 | 23–27 |
-| [26–29 January 2024](2024-01-29-40dB.html) | 40dB <br> Prisa | 24 | 23–25 | 23–26 | 23–26 | 22–26 |
-| [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 26 | 24–29 | 23–29 | 22–30 | 21–31 |
+| [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 26 | 24–28 | 23–29 | 22–30 | 21–31 |
 | [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 25 | 23–26 | 23–26 | 23–27 | 22–28 |
 | [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
 | [5–8 January 2024](2024-01-08-40dB.html) | 40dB <br> Prisa | 25 | 24–25 | 23–26 | 23–26 | 23–27 |

@@ -16,7 +16,6 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0.0% | N/A | N/A | N/A | N/A |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
-| [26–29 January 2024](2024-01-29-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
 | [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
@@ -797,7 +796,6 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews |  |  |  |  |  |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [26–29 January 2024](2024-01-29-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0 | 0 | 0 |
 | [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |

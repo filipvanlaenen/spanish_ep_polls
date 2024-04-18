@@ -16,7 +16,6 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 10.4% | 9.6–11.3% | 9.3–11.6% | 9.1–11.8% | 8.7–12.3% |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 8.6% | 7.5–9.8% | 7.2–10.2% | 7.0–10.5% | 6.5–11.1% |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 11.7% | 10.9–12.5% | 10.7–12.7% | 10.6–12.9% | 10.2–13.3% |
-| [26–29 January 2024](2024-01-29-40dB.html) | 40dB <br> Prisa | 11.8% | 10.9–12.8% | 10.7–13.0% | 10.5–13.3% | 10.0–13.8% |
 | [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 9.7% | 7.8–12.2% | 7.3–12.9% | 6.8–13.5% | 6.0–14.8% |
 | [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 10.4% | 9.3–11.7% | 8.9–12.1% | 8.7–12.5% | 8.1–13.1% |
 | [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 11.4% | 10.2–12.7% | 9.8–13.1% | 9.5–13.5% | 9.0–14.1% |
@@ -809,9 +808,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 5 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [26–29 January 2024](2024-01-29-40dB.html) | 40dB <br> Prisa | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 6 | 5–8 | 5–9 | 4–9 | 4–10 |
-| [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
+| [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [5–8 January 2024](2024-01-08-40dB.html) | 40dB <br> Prisa | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–8 | 6–8 | 6–8 | 6–8 |

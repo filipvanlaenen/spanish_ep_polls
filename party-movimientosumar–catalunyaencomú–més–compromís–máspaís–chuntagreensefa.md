@@ -16,7 +16,6 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 6.3% | 5.7–7.1% | 5.5–7.3% | 5.3–7.5% | 5.0–7.8% |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.1–7.0% | 3.8–7.5% |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 5.8% | 5.3–6.4% | 5.2–6.6% | 5.0–6.8% | 4.8–7.0% |
-| [26–29 January 2024](2024-01-29-40dB.html) | 40dB <br> Prisa | 5.6% | 5.0–6.4% | 4.9–6.6% | 4.7–6.8% | 4.4–7.1% |
 | [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 5.0% | 3.7–7.0% | 3.4–7.6% | 3.1–8.1% | 2.5–9.2% |
 | [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 5.6% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
 | [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 6.8% | 5.9–7.9% | 5.6–8.3% | 5.4–8.5% | 5.0–9.1% |
@@ -804,9 +803,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [26–29 January 2024](2024-01-29-40dB.html) | 40dB <br> Prisa | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [15–19 January 2024](2024-01-19-Invymark.html) | Invymark <br> laSexta | 3 | 2–4 | 2–5 | 2–5 | 1–6 |
-| [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [5–8 January 2024](2024-01-08-40dB.html) | 40dB <br> Prisa | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
