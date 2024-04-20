@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–8 January 2024](2024-01-08-40dB.html) | 40dB <br> Prisa | 5.7% | 5.1–6.4% | 4.9–6.6% | 4.8–6.8% | 4.5–7.2% |
 | [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 6.3% | 5.1–6.3% | 4.9–6.5% | 4.8–6.7% | 4.5–7.0% |
 | [21–27 December 2023](2023-12-27-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 5.8% | 5.0–6.8% | 4.8–7.1% | 4.6–7.4% | 4.2–7.9% |
-| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 6.6% | 5.6–6.8% | 5.5–6.9% | 5.3–7.1% | 5.1–7.4% |
+| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 6.6% | 6.1–7.2% | 5.9–7.4% | 5.8–7.6% | 5.5–7.9% |
 | [12–16 December 2023](2023-12-16-NCReport.html) | NC Report <br> La Razón | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.4–7.3% | 4.1–7.9% |
 | [11–15 December 2023](2023-12-15-Invymark.html) | Invymark <br> laSexta | 5.0% | 3.7–7.0% | 3.4–7.6% | 3.1–8.1% | 2.5–9.2% |
 | [13–15 December 2023](2023-12-15-DYM.html) | DYM <br> Henneo | 5.7% | 4.9–6.8% | 4.7–7.1% | 4.5–7.3% | 4.1–7.9% |
@@ -808,8 +808,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [5–8 January 2024](2024-01-08-40dB.html) | 40dB <br> Prisa | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [21–27 December 2023](2023-12-27-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
-| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [21–27 December 2023](2023-12-27-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 4 | 3–4 | 3–4 | 2–5 | 2–5 |
+| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [12–16 December 2023](2023-12-16-NCReport.html) | NC Report <br> La Razón | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [11–15 December 2023](2023-12-15-Invymark.html) | Invymark <br> laSexta | 3 | 2–4 | 2–5 | 2–5 | 1–6 |
 | [13–15 December 2023](2023-12-15-DYM.html) | DYM <br> Henneo | 4 | 3–4 | 3–5 | 3–5 | 2–5 |

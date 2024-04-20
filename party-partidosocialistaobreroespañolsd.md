@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–8 January 2024](2024-01-08-40dB.html) | 40dB <br> Prisa | 31.4% | 30.1–32.8% | 29.7–33.1% | 29.4–33.5% | 28.8–34.1% |
 | [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 28.5% | 28.0–30.4% | 27.6–30.8% | 27.4–31.1% | 26.8–31.7% |
 | [21–27 December 2023](2023-12-27-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 30.3% | 28.5–32.1% | 28.0–32.6% | 27.6–33.1% | 26.8–33.9% |
-| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 29.2% | 28.7–30.9% | 28.5–31.2% | 28.2–31.5% | 27.7–32.0% |
+| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 29.2% | 28.2–30.3% | 27.9–30.6% | 27.6–30.9% | 27.1–31.4% |
 | [12–16 December 2023](2023-12-16-NCReport.html) | NC Report <br> La Razón | 30.1% | 28.3–32.0% | 27.8–32.6% | 27.3–33.0% | 26.5–33.9% |
 | [11–15 December 2023](2023-12-15-Invymark.html) | Invymark <br> laSexta | 33.3% | 30.0–36.9% | 29.0–38.0% | 28.2–38.9% | 26.7–40.6% |
 | [13–15 December 2023](2023-12-15-DYM.html) | DYM <br> Henneo | 29.9% | 28.1–31.8% | 27.6–32.3% | 27.1–32.8% | 26.3–33.7% |
@@ -832,8 +832,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 20 | 19–21 | 18–22 | 18–22 | 18–23 |
 | [5–8 January 2024](2024-01-08-40dB.html) | 40dB <br> Prisa | 22 | 21–23 | 21–23 | 21–24 | 20–24 |
 | [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 19–21 | 18–21 | 18–21 | 18–21 |
-| [21–27 December 2023](2023-12-27-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 20 | 18–21 | 18–21 | 18–22 | 18–22 |
-| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 20 | 19–21 | 19–21 | 19–21 | 18–22 |
+| [21–27 December 2023](2023-12-27-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 20 | 18–21 | 18–21 | 18–21 | 17–22 |
+| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 18–19 | 18–19 | 18–20 | 17–20 |
 | [12–16 December 2023](2023-12-16-NCReport.html) | NC Report <br> La Razón | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
 | [11–15 December 2023](2023-12-15-Invymark.html) | Invymark <br> laSexta | 23 | 21–25 | 20–26 | 19–27 | 18–28 |
 | [13–15 December 2023](2023-12-15-DYM.html) | DYM <br> Henneo | 21 | 20–22 | 19–22 | 19–23 | 18–23 |

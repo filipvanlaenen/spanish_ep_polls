@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–8 January 2024](2024-01-08-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 1.4% | 1.4–2.1% | 1.3–2.2% | 1.2–2.3% | 1.1–2.5% |
 | [21–27 December 2023](2023-12-27-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1.5% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% | 0.8–2.8% |
-| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.2% | 0.9–1.4% | 0.8–1.5% | 0.8–1.6% | 0.7–1.7% |
+| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.2% | 1.0–1.5% | 0.9–1.6% | 0.9–1.7% | 0.8–1.8% |
 | [12–16 December 2023](2023-12-16-NCReport.html) | NC Report <br> La Razón | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [11–15 December 2023](2023-12-15-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [13–15 December 2023](2023-12-15-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
@@ -803,8 +803,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–9 January 2024](2024-01-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [5–8 January 2024](2024-01-08-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [21–27 December 2023](2023-12-27-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0 | 0–1 | 0–1 |
+| [21–27 December 2023](2023-12-27-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–16 December 2023](2023-12-16-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–15 December 2023](2023-12-15-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [13–15 December 2023](2023-12-15-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
