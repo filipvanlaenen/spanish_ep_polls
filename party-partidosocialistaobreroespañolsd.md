@@ -812,13 +812,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
-| [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 17–18 | 16–18 | 16–18 | 16–19 |
-| [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
+| [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 17–18 | 16–19 | 16–19 | 16–19 |
+| [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 19 | 18–20 | 18–20 | 17–20 | 17–20 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 19 | 18–20 | 18–20 | 18–20 | 17–20 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 18 | 17–19 | 17–20 | 17–20 | 17–21 |
+| [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 18 | 17–20 | 17–20 | 17–20 | 17–22 |
 | [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [24–27 November 2023](2023-11-27-40dB.html) | 40dB <br> Prisa | 21 | 20–22 | 20–23 | 20–23 | 20–23 |
@@ -1586,13 +1586,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.4% | 100% |  |
-| 16 | 7% | 99.6% |  |
-| 17 | 41% | 92% |  |
-| 18 | 41% | 51% | Median |
-| 19 | 6% | 11% |  |
-| 20 | 4% | 5% |  |
-| 21 | 0.4% | 0.4% |  |
+| 15 | 0.1% | 100% |  |
+| 16 | 5% | 99.9% |  |
+| 17 | 40% | 95% |  |
+| 18 | 37% | 55% | Median |
+| 19 | 15% | 18% |  |
+| 20 | 3% | 3% |  |
+| 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
 

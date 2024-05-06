@@ -823,14 +823,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 24–28 | 24–28 | 24–28 | 23–29 |
-| [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 24–26 | 24–26 | 24–27 | 24–27 |
-| [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 26 | 25–28 | 24–28 | 23–29 | 23–29 |
+| N/A | [Poll Average](average.html) | 26 | 25–27 | 24–27 | 24–28 | 24–28 |
+| [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 24–27 | 24–27 | 24–27 | 24–27 |
+| [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 26 | 25–27 | 24–28 | 24–28 | 23–29 |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 25 | 24–26 | 24–26 | 23–26 | 23–27 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 25 | 24–26 | 24–26 | 24–26 | 23–27 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 25 | 24–26 | 24–26 | 24–27 | 22–28 |
+| [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 25 | 24–26 | 24–27 | 23–27 | 22–28 |
 | [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [24–27 November 2023](2023-11-27-40dB.html) | 40dB <br> Prisa | 25 | 24–26 | 23–26 | 23–26 | 23–27 |
@@ -1605,14 +1605,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0.1% | 100% |  |
-| 23 | 1.3% | 99.9% |  |
-| 24 | 9% | 98.6% |  |
-| 25 | 27% | 89% |  |
-| 26 | 37% | 63% | Median |
-| 27 | 10% | 26% |  |
-| 28 | 14% | 15% |  |
-| 29 | 1.3% | 1.3% |  |
+| 22 | 0% | 100% |  |
+| 23 | 0.4% | 100% |  |
+| 24 | 8% | 99.6% |  |
+| 25 | 31% | 91% |  |
+| 26 | 50% | 61% | Median |
+| 27 | 7% | 11% |  |
+| 28 | 3% | 4% |  |
+| 29 | 0.3% | 0.3% |  |
 | 30 | 0% | 0% |  |
 
 

@@ -793,11 +793,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 7 | 6–7 | 6–7 | 5–8 | 5–8 |
@@ -1557,11 +1557,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.5% | 100% |  |
-| 5 | 24% | 99.5% |  |
-| 6 | 18% | 75% |  |
-| 7 | 45% | 57% | Median |
-| 8 | 12% | 12% |  |
+| 4 | 0.3% | 100% |  |
+| 5 | 10% | 99.7% |  |
+| 6 | 41% | 89% | Median |
+| 7 | 42% | 49% |  |
+| 8 | 7% | 7% |  |
 | 9 | 0% | 0% |  |
 
 
