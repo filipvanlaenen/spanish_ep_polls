@@ -814,8 +814,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–20 | 17–20 | 16–20 | 16–21 |
-| [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 17–20 | 16–20 | 16–20 | 16–20 |
+| N/A | [Poll Average](average.html) | 19 | 17–20 | 16–20 | 16–20 | 16–21 |
+| [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 16–19 | 16–20 | 16–20 | 16–20 |
 | [24–30 April 2024](2024-04-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 18–20 | 18–20 | 18–21 | 17–21 |
 | [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 17–18 | 16–19 | 16–19 | 16–19 |
 | [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
@@ -1592,12 +1592,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0.2% | 100% |  |
-| 16 | 3% | 99.8% |  |
-| 17 | 11% | 97% |  |
-| 18 | 20% | 87% |  |
-| 19 | 44% | 67% | Median |
-| 20 | 21% | 24% |  |
-| 21 | 2% | 2% |  |
+| 16 | 6% | 99.8% |  |
+| 17 | 12% | 93% |  |
+| 18 | 24% | 82% |  |
+| 19 | 42% | 57% | Median |
+| 20 | 14% | 15% |  |
+| 21 | 1.5% | 1.5% |  |
 | 22 | 0% | 0% |  |
 
 
