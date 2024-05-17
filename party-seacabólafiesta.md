@@ -1,4 +1,4 @@
-# Movimiento Sumar–Izquierda Unida (GUE/NGL)
+# Se Acabó La Fiesta (*)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,19 +10,19 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 2.1–3.9% | 2.0–4.1% | 1.8–4.3% | 1.6–4.6% |
-| [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 2.5% | 2.1–3.1% | 1.9–3.3% | 1.8–3.4% | 1.6–3.7% |
-| [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 2.4% | 2.0–3.1% | 1.8–3.3% | 1.7–3.4% | 1.5–3.8% |
-| [24–30 April 2024](2024-04-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.6% | 3.2–4.2% | 3.0–4.4% | 2.9–4.5% | 2.7–4.8% |
-| [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 2.5% | 2.2–3.0% | 2.1–3.1% | 2.0–3.2% | 1.8–3.5% |
-| [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 2.8% | 2.2–3.5% | 2.0–3.8% | 1.9–4.0% | 1.7–4.4% |
-| [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 3.6% | N/A | N/A | N/A | N/A |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 3.7% | 3.2–4.3% | 3.1–4.5% | 3.0–4.6% | 2.7–4.9% |
-| [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 2.8% | N/A | N/A | N/A | N/A |
-| [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 3.9% | N/A | N/A | N/A | N/A |
-| [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
-| [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 3.3% | N/A | N/A | N/A | N/A |
-| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.8% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.9% | 0.2–4.2% | 0.2–4.5% | 0.2–4.7% | 0.1–5.1% |
+| [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 3.8% | 3.2–4.5% | 3.0–4.7% | 2.9–4.9% | 2.7–5.2% |
+| [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% | 0.1–1.0% |
+| [24–30 April 2024](2024-04-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
+| [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 0.0% | N/A | N/A | N/A | N/A |
+| [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0.0% | N/A | N/A | N/A | N/A |
+| [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
+| [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
+| [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
+| [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
+| [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
 | [24–27 November 2023](2023-11-27-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [20–24 November 2023](2023-11-24-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
 | [17–23 November 2023](2023-11-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0.0% | N/A | N/A | N/A | N/A |
@@ -180,33 +180,33 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–8 June 2023](2023-06-08-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 June 2023](2023-06-08-Data10.html) | Data10 <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
 | [31 May–7 June 2023](2023-06-07-CISandSocioMétrica.html) | CIS and SocioMétrica | 0.0% | N/A | N/A | N/A | N/A |
-| [30 May–3 June 2023](2023-06-03-SocioMétrica.html) | SocioMétrica <br> El Español | 3.8% | N/A | N/A | N/A | N/A |
-| [30 May–3 June 2023](2023-06-03-NCReport.html) | NC Report <br> La Razón | 4.0% | N/A | N/A | N/A | N/A |
+| [30 May–3 June 2023](2023-06-03-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
+| [30 May–3 June 2023](2023-06-03-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [31 May–2 June 2023](2023-06-02-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
-| [29 May–2 June 2023](2023-06-02-InvyMark.html) | InvyMark <br> laSexta | 4.0% | N/A | N/A | N/A | N/A |
+| [29 May–2 June 2023](2023-06-02-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [1–2 June 2023](2023-06-02-Data10.html) | Data10 <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
 | [29 May–1 June 2023](2023-06-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
-| [30 May–1 June 2023](2023-06-01-GESOP.html) | GESOP <br> Prensa Ibérica | 5.0% | N/A | N/A | N/A | N/A |
-| [31 May–1 June 2023](2023-06-01-40dB.html) | 40dB <br> Prisa | 3.8% | N/A | N/A | N/A | N/A |
+| [30 May–1 June 2023](2023-06-01-GESOP.html) | GESOP <br> Prensa Ibérica | 0.0% | N/A | N/A | N/A | N/A |
+| [31 May–1 June 2023](2023-06-01-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [29–30 May 2023](2023-05-30-IMOP.html) | IMOP <br> El Confidencial | 0.0% | N/A | N/A | N/A | N/A |
 | [29 May 2023](2023-05-29-Data10.html) | Data10 <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
-| [3–11 May 2023](2023-05-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 4.1% | N/A | N/A | N/A | N/A |
-| [8–9 May 2023](2023-05-09-GAD3.html) | GAD3 <br> NIUS | 2.8% | N/A | N/A | N/A | N/A |
-| [3–8 May 2023](2023-05-08-CIS.html) | CIS | 4.7% | N/A | N/A | N/A | N/A |
-| [6 May 2023](2023-05-06-NCReport.html) | NC Report <br> La Razón | 4.4% | N/A | N/A | N/A | N/A |
-| [2–5 May 2023](2023-05-05-SocioMétrica.html) | SocioMétrica <br> El Español | 3.8% | N/A | N/A | N/A | N/A |
-| [24–28 April 2023](2023-04-28-InvyMark.html) | InvyMark <br> laSexta | 3.9% | N/A | N/A | N/A | N/A |
-| [24–27 April 2023](2023-04-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.9% | N/A | N/A | N/A | N/A |
-| [25–27 April 2023](2023-04-27-Data10.html) | Data10 <br> OKDiario | 3.3% | N/A | N/A | N/A | N/A |
-| [21–25 April 2023](2023-04-25-40dB.html) | 40dB <br> Prisa | 4.2% | N/A | N/A | N/A | N/A |
-| [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 3.5% | N/A | N/A | N/A | N/A |
-| [17–21 April 2023](2023-04-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3.8% | N/A | N/A | N/A | N/A |
-| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3.5% | N/A | N/A | N/A | N/A |
-| [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 3.6% | N/A | N/A | N/A | N/A |
-| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 2.9% | N/A | N/A | N/A | N/A |
-| [3–6 April 2023](2023-04-06-NCReport.html) | NC Report <br> La Razón | 4.6% | N/A | N/A | N/A | N/A |
-| [3–5 April 2023](2023-04-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.7% | N/A | N/A | N/A | N/A |
-| [1–2 April 2023](2023-04-02-Data10.html) | Data10 <br> OKDiario | 3.2% | N/A | N/A | N/A | N/A |
+| [3–11 May 2023](2023-05-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
+| [8–9 May 2023](2023-05-09-GAD3.html) | GAD3 <br> NIUS | 0.0% | N/A | N/A | N/A | N/A |
+| [3–8 May 2023](2023-05-08-CIS.html) | CIS | 0.0% | N/A | N/A | N/A | N/A |
+| [6 May 2023](2023-05-06-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
+| [2–5 May 2023](2023-05-05-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
+| [24–28 April 2023](2023-04-28-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [24–27 April 2023](2023-04-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [25–27 April 2023](2023-04-27-Data10.html) | Data10 <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
+| [21–25 April 2023](2023-04-25-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
+| [19–21 April 2023](2023-04-21-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [17–21 April 2023](2023-04-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.0% | N/A | N/A | N/A | N/A |
+| [10–13 April 2023](2023-04-13-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0.0% | N/A | N/A | N/A | N/A |
+| [3–12 April 2023](2023-04-12-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
+| [4–8 April 2023](2023-04-08-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
+| [3–6 April 2023](2023-04-06-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
+| [3–5 April 2023](2023-04-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [1–2 April 2023](2023-04-02-Data10.html) | Data10 <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
 | [24–27 March 2023](2023-03-27-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [20–24 March 2023](2023-03-24-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [22–24 March 2023](2023-03-24-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
@@ -767,17 +767,18 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Movimiento Sumar–Izquierda Unida (GUE/NGL).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Se Acabó La Fiesta (*).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 35% | 99.7% |  |
-| 2.5–3.5% | 44% | 65% | Median |
-| 3.5–4.5% | 20% | 21% |  |
-| 4.5–5.5% | 0.7% | 0.7% |  |
+| 0.0–0.5% | 41% | 100% | Last Result |
+| 0.5–1.5% | 9% | 59% |  |
+| 1.5–2.5% | 0.1% | 50% | Median |
+| 2.5–3.5% | 15% | 50% |  |
+| 3.5–4.5% | 32% | 35% |  |
+| 4.5–5.5% | 4% | 4% |  |
 | 5.5–6.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -788,17 +789,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [24–30 April 2024](2024-04-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
+| [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
+| [24–30 April 2024](2024-04-30-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset |  |  |  |  |  |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 2 | 2 | 2–3 | 1–3 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews |  |  |  |  |  |
 | [26–29 February 2024](2024-02-29-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [5–9 February 2024](2024-02-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [12–18 January 2024](2024-01-18-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [25–31 December 2023](2023-12-31-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [15–26 December 2023](2023-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [24–27 November 2023](2023-11-27-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
@@ -1545,16 +1546,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-movimientosumar–izquierdaunidaguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-seacabólafiesta.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Movimiento Sumar–Izquierda Unida (GUE/NGL).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Se Acabó La Fiesta (*).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 59% | 99.9% | Median |
-| 2 | 40% | 41% |  |
-| 3 | 0.7% | 0.7% |  |
+| 0 | 50% | 100% | Last Result |
+| 1 | 3% | 50% | Median |
+| 2 | 39% | 47% |  |
+| 3 | 8% | 8% |  |
 | 4 | 0% | 0% |  |
 
 

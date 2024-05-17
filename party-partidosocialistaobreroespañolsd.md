@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.9% | 25.7–29.8% | 25.1–30.2% | 24.7–30.6% | 23.9–31.3% |
+| N/A | [Poll Average](average.html) | 27.3% | 25.3–29.5% | 24.9–30.0% | 24.5–30.4% | 23.7–31.1% |
+| [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 26.4% | 25.0–27.9% | 24.6–28.3% | 24.2–28.7% | 23.6–29.4% |
 | [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 26.7% | 25.1–28.3% | 24.7–28.8% | 24.3–29.2% | 23.6–29.9% |
 | [24–30 April 2024](2024-04-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 28.9% | 27.7–30.2% | 27.3–30.6% | 27.0–30.9% | 26.4–31.5% |
 | [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 26.3% | 25.2–27.5% | 24.9–27.8% | 24.6–28.1% | 24.1–28.6% |
@@ -793,16 +794,16 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.2% | 100% |  |
-| 23.5–24.5% | 2% | 99.8% |  |
-| 24.5–25.5% | 7% | 98% |  |
-| 25.5–26.5% | 14% | 91% |  |
-| 26.5–27.5% | 19% | 77% |  |
-| 27.5–28.5% | 22% | 58% | Median |
-| 28.5–29.5% | 22% | 36% |  |
-| 29.5–30.5% | 11% | 14% |  |
-| 30.5–31.5% | 2% | 3% |  |
-| 31.5–32.5% | 0.2% | 0.2% |  |
+| 22.5–23.5% | 0.3% | 100% |  |
+| 23.5–24.5% | 3% | 99.7% |  |
+| 24.5–25.5% | 10% | 97% |  |
+| 25.5–26.5% | 20% | 87% |  |
+| 26.5–27.5% | 22% | 66% | Median |
+| 27.5–28.5% | 19% | 44% |  |
+| 28.5–29.5% | 16% | 25% |  |
+| 29.5–30.5% | 8% | 9% |  |
+| 30.5–31.5% | 2% | 2% |  |
+| 31.5–32.5% | 0.1% | 0.1% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
 
@@ -814,10 +815,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–20 | 16–20 | 16–20 | 16–21 |
-| [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 16–19 | 16–20 | 16–20 | 16–20 |
+| N/A | [Poll Average](average.html) | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
+| [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 18 | 17–19 | 16–20 | 16–20 | 16–20 |
+| [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [24–30 April 2024](2024-04-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 18–20 | 18–20 | 18–21 | 17–21 |
-| [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 17–18 | 16–19 | 16–19 | 16–19 |
+| [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 17–18 | 16–18 | 16–18 | 16–19 |
 | [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 19 | 18–20 | 18–20 | 18–20 | 17–20 |
@@ -1592,12 +1594,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0.2% | 100% |  |
-| 16 | 6% | 99.8% |  |
-| 17 | 12% | 93% |  |
-| 18 | 24% | 82% |  |
-| 19 | 42% | 57% | Median |
-| 20 | 14% | 15% |  |
-| 21 | 1.5% | 1.5% |  |
+| 16 | 4% | 99.8% |  |
+| 17 | 9% | 96% |  |
+| 18 | 49% | 87% | Median |
+| 19 | 23% | 38% |  |
+| 20 | 13% | 15% |  |
+| 21 | 2% | 2% |  |
 | 22 | 0% | 0% |  |
 
 
