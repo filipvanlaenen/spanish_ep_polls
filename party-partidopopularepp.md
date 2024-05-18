@@ -828,9 +828,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 23–26 | 22–28 | 22–28 | 22–28 |
 | [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 24 | 23–25 | 23–25 | 22–25 | 22–26 |
-| [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 26 | 25–28 | 25–28 | 25–28 | 24–28 |
-| [24–30 April 2024](2024-04-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 23 | 22–24 | 22–25 | 22–25 | 22–25 |
-| [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 24–26 | 24–26 | 24–27 | 24–27 |
+| [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 26 | 25–28 | 25–28 | 24–28 | 24–28 |
+| [24–30 April 2024](2024-04-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 23 | 22–24 | 22–25 | 22–25 | 21–25 |
+| [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 24–27 | 24–27 | 24–27 | 24–27 |
 | [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 26 | 25–27 | 24–28 | 24–28 | 23–29 |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 25 | 24–26 | 24–26 | 24–26 | 23–27 |
@@ -1610,13 +1610,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.2% | 100% |  |
-| 22 | 7% | 99.8% |  |
+| 21 | 0.4% | 100% |  |
+| 22 | 7% | 99.6% |  |
 | 23 | 23% | 93% |  |
 | 24 | 27% | 70% | Median |
-| 25 | 22% | 43% |  |
-| 26 | 13% | 21% |  |
-| 27 | 3% | 9% |  |
+| 25 | 18% | 42% |  |
+| 26 | 16% | 24% |  |
+| 27 | 2% | 8% |  |
 | 28 | 6% | 6% |  |
 | 29 | 0.1% | 0.1% |  |
 | 30 | 0% | 0% |  |

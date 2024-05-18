@@ -791,7 +791,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [24–30 April 2024](2024-04-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [24–30 April 2024](2024-04-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2 | 2 | 1–3 | 1–3 |
 | [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–21 March 2024](2024-03-21-GAD3.html) | GAD3 <br> Mediaset | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–9 March 2024](2024-03-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
@@ -1554,7 +1554,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.1% | 100% | Last Result |
 | 1 | 59% | 99.9% | Median |
 | 2 | 40% | 41% |  |
-| 3 | 0.7% | 0.7% |  |
+| 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 
 
