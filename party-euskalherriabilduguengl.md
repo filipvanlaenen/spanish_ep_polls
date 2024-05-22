@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.6–2.9% | 1.5–3.1% | 1.4–3.2% | 1.2–3.5% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.8% | 1.4–3.1% | 1.3–3.3% | 1.1–3.8% |
+| [17–19 May 2024](2024-05-19-SocioMétrica.html) | SocioMétrica <br> El Español | 2.1% | 1.5–3.2% | 1.3–3.5% | 1.2–3.8% | 0.9–4.3% |
+| [13–17 May 2024](2024-05-17-NCReport.html) | NC Report <br> La Razón | 2.0% | 1.5–3.0% | 1.3–3.3% | 1.2–3.5% | 0.9–4.1% |
 | [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 2.4% | 2.0–3.0% | 1.8–3.1% | 1.7–3.3% | 1.5–3.6% |
+| [10–13 May 2024](2024-05-13-40dB.html) | 40dB <br> Prisa | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
+| [1–9 May 2024](2024-05-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 2.0% | 1.6–2.7% | 1.5–2.9% | 1.4–3.0% | 1.2–3.4% |
 | [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 2.3% | 1.9–3.0% | 1.8–3.2% | 1.6–3.3% | 1.4–3.7% |
 | [24–30 April 2024](2024-04-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.7% | 1.4–2.2% | 1.3–2.3% | 1.3–2.4% | 1.1–2.6% |
 | [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 2.6% | 2.3–3.1% | 2.1–3.2% | 2.1–3.3% | 1.9–3.6% |
@@ -772,11 +776,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 8% | 100% |  |
-| 1.5–2.5% | 67% | 92% | Median |
-| 2.5–3.5% | 25% | 25% |  |
-| 3.5–4.5% | 0.5% | 0.5% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 10% | 100% |  |
+| 1.5–2.5% | 70% | 90% | Median |
+| 2.5–3.5% | 19% | 20% |  |
+| 3.5–4.5% | 1.2% | 1.2% |  |
+| 4.5–5.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -787,8 +792,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| [17–19 May 2024](2024-05-19-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| [13–17 May 2024](2024-05-17-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
 | [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [10–13 May 2024](2024-05-13-40dB.html) | 40dB <br> Prisa | 1 | 1 | 1 | 1–2 | 1–2 |
+| [1–9 May 2024](2024-05-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [24–30 April 2024](2024-04-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -1550,10 +1559,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% | Last Result |
-| 1 | 67% | 99.5% | Median |
-| 2 | 32% | 32% |  |
-| 3 | 0.4% | 0.4% |  |
+| 0 | 0.7% | 100% | Last Result |
+| 1 | 67% | 99.3% | Median |
+| 2 | 31% | 32% |  |
+| 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 
 

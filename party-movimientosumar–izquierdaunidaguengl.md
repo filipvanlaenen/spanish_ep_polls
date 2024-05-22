@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 2.1–3.9% | 2.0–4.1% | 1.8–4.3% | 1.6–4.6% |
+| N/A | [Poll Average](average.html) | 2.8% | 2.0–3.9% | 1.9–4.1% | 1.7–4.3% | 1.5–4.8% |
+| [17–19 May 2024](2024-05-19-SocioMétrica.html) | SocioMétrica <br> El Español | 2.7% | 2.0–3.9% | 1.8–4.2% | 1.6–4.5% | 1.3–5.1% |
+| [13–17 May 2024](2024-05-17-NCReport.html) | NC Report <br> La Razón | 2.9% | 2.2–4.0% | 2.0–4.3% | 1.8–4.6% | 1.5–5.2% |
 | [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 2.5% | 2.1–3.1% | 1.9–3.3% | 1.8–3.4% | 1.6–3.7% |
+| [10–13 May 2024](2024-05-13-40dB.html) | 40dB <br> Prisa | 2.2% | 1.8–2.6% | 1.7–2.8% | 1.6–2.9% | 1.4–3.1% |
+| [1–9 May 2024](2024-05-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 2.4% | 2.0–3.1% | 1.8–3.3% | 1.7–3.4% | 1.5–3.8% |
 | [24–30 April 2024](2024-04-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.6% | 3.2–4.2% | 3.0–4.4% | 2.9–4.5% | 2.7–4.8% |
 | [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 2.5% | 2.2–3.0% | 2.1–3.1% | 2.0–3.2% | 1.8–3.5% |
@@ -772,12 +776,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 35% | 99.7% |  |
-| 2.5–3.5% | 44% | 65% | Median |
-| 3.5–4.5% | 20% | 21% |  |
-| 4.5–5.5% | 0.7% | 0.7% |  |
+| 0.5–1.5% | 0.7% | 100% |  |
+| 1.5–2.5% | 34% | 99.3% |  |
+| 2.5–3.5% | 45% | 65% | Median |
+| 3.5–4.5% | 19% | 20% |  |
+| 4.5–5.5% | 1.2% | 1.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -788,8 +793,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [17–19 May 2024](2024-05-19-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–3 | 0–3 |
+| [13–17 May 2024](2024-05-17-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–13 May 2024](2024-05-13-40dB.html) | 40dB <br> Prisa | 1 | 1 | 1 | 1 | 1–2 |
+| [1–9 May 2024](2024-05-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [24–30 April 2024](2024-04-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2 | 2 | 1–3 | 1–3 |
 | [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -1551,10 +1560,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 59% | 99.9% | Median |
-| 2 | 40% | 41% |  |
-| 3 | 0.9% | 0.9% |  |
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 52% | 99.6% | Median |
+| 2 | 45% | 48% |  |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 

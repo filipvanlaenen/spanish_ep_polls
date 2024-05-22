@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.4% | 8.4–12.3% | 8.1–12.7% | 7.8–13.0% | 7.3–13.5% |
+| N/A | [Poll Average](average.html) | 10.8% | 8.5–12.8% | 8.1–13.2% | 7.8–13.5% | 7.2–14.2% |
+| [17–19 May 2024](2024-05-19-SocioMétrica.html) | SocioMétrica <br> El Español | 10.4% | 8.9–12.3% | 8.4–12.9% | 8.1–13.3% | 7.4–14.3% |
+| [13–17 May 2024](2024-05-17-NCReport.html) | NC Report <br> La Razón | 9.3% | 8.0–11.1% | 7.6–11.5% | 7.2–12.0% | 6.6–12.8% |
 | [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 8.8% | 7.9–9.8% | 7.7–10.1% | 7.5–10.3% | 7.1–10.9% |
+| [10–13 May 2024](2024-05-13-40dB.html) | 40dB <br> Prisa | 12.6% | 11.7–13.6% | 11.4–13.9% | 11.2–14.1% | 10.8–14.6% |
+| [1–9 May 2024](2024-05-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 10.9% | 9.8–12.1% | 9.4–12.5% | 9.2–12.8% | 8.7–13.5% |
 | [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 10.3% | 9.3–11.5% | 9.0–11.8% | 8.8–12.1% | 8.3–12.7% |
 | [24–30 April 2024](2024-04-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 11.9% | 11.0–12.8% | 10.8–13.1% | 10.6–13.3% | 10.2–13.8% |
 | [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 10.9% | 10.1–11.7% | 9.9–12.0% | 9.7–12.2% | 9.4–12.6% |
@@ -777,16 +781,17 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 1.0% | 100% |  |
-| 7.5–8.5% | 11% | 98.9% |  |
-| 8.5–9.5% | 21% | 88% |  |
-| 9.5–10.5% | 20% | 67% | Median |
-| 10.5–11.5% | 21% | 47% |  |
-| 11.5–12.5% | 20% | 26% |  |
-| 12.5–13.5% | 6% | 7% |  |
-| 13.5–14.5% | 0.4% | 0.4% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 5.5–6.5% | 0.1% | 100% |  |
+| 6.5–7.5% | 1.4% | 99.9% |  |
+| 7.5–8.5% | 9% | 98.6% |  |
+| 8.5–9.5% | 17% | 89% |  |
+| 9.5–10.5% | 17% | 72% |  |
+| 10.5–11.5% | 19% | 55% | Median |
+| 11.5–12.5% | 21% | 36% |  |
+| 12.5–13.5% | 12% | 14% |  |
+| 13.5–14.5% | 2% | 2% |  |
+| 14.5–15.5% | 0.2% | 0.2% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -797,8 +802,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–9 | 5–9 | 4–9 |
+| [17–19 May 2024](2024-05-19-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 5–7 | 5–8 | 5–9 | 5–10 |
+| [13–17 May 2024](2024-05-17-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [10–13 May 2024](2024-05-13-40dB.html) | 40dB <br> Prisa | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| [1–9 May 2024](2024-05-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [30 April–4 May 2024](2024-05-04-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [24–30 April 2024](2024-04-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [9–12 April 2024](2024-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
@@ -1564,12 +1573,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.1% | 100% |  |
-| 5 | 18% | 99.9% |  |
-| 6 | 34% | 82% | Median |
-| 7 | 29% | 48% |  |
-| 8 | 18% | 19% |  |
-| 9 | 1.0% | 1.0% |  |
-| 10 | 0% | 0% |  |
+| 4 | 0.5% | 100% |  |
+| 5 | 15% | 99.5% |  |
+| 6 | 29% | 85% |  |
+| 7 | 25% | 56% | Median |
+| 8 | 23% | 31% |  |
+| 9 | 8% | 8% |  |
+| 10 | 0.2% | 0.2% |  |
+| 11 | 0% | 0% |  |
 
 
