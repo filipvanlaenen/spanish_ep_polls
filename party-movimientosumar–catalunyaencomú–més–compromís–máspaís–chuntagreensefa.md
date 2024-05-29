@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.4–6.1% | 3.2–6.4% | 3.0–6.6% | 2.7–7.1% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.8–5.7% | 2.5–6.5% |
+| [20–24 May 2024](2024-05-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.4% | 3.8–5.0% | 3.7–5.2% | 3.6–5.3% | 3.3–5.6% |
+| [20–24 May 2024](2024-05-24-NCReport.html) | NC Report <br> La Razón | 4.2% | 3.3–5.6% | 3.0–5.9% | 2.8–6.3% | 2.5–7.0% |
+| [21–24 May 2024](2024-05-24-GAD3.html) | GAD3 <br> Mediaset | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [22–24 May 2024](2024-05-24-Data10.html) | Data10 <br> OKDiario | 3.9% | 3.4–4.7% | 3.2–4.9% | 3.1–5.0% | 2.8–5.4% |
+| [21–23 May 2024](2024-05-23-Cluster17.html) | Cluster17 <br> Agenda Pública | 4.1% | 3.6–4.9% | 3.4–5.1% | 3.3–5.2% | 3.0–5.6% |
 | [17–19 May 2024](2024-05-19-SocioMétrica.html) | SocioMétrica <br> El Español | 4.2% | 3.3–5.6% | 3.0–6.0% | 2.8–6.3% | 2.4–7.1% |
 | [13–17 May 2024](2024-05-17-NCReport.html) | NC Report <br> La Razón | 4.8% | 3.8–6.1% | 3.5–6.5% | 3.3–6.8% | 2.9–7.5% |
 | [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 4.1% | 3.5–4.8% | 3.4–5.0% | 3.2–5.2% | 2.9–5.6% |
@@ -777,14 +782,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 13% | 99.8% |  |
-| 3.5–4.5% | 36% | 86% |  |
-| 4.5–5.5% | 29% | 51% | Median |
-| 5.5–6.5% | 19% | 22% |  |
-| 6.5–7.5% | 3% | 3% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.7% | 100% |  |
+| 2.5–3.5% | 22% | 99.3% |  |
+| 3.5–4.5% | 54% | 77% | Median |
+| 4.5–5.5% | 20% | 23% |  |
+| 5.5–6.5% | 3% | 3% |  |
+| 6.5–7.5% | 0.4% | 0.4% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -795,7 +799,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [20–24 May 2024](2024-05-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [20–24 May 2024](2024-05-24-NCReport.html) | NC Report <br> La Razón | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
+| [21–24 May 2024](2024-05-24-GAD3.html) | GAD3 <br> Mediaset | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [22–24 May 2024](2024-05-24-Data10.html) | Data10 <br> OKDiario | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [21–23 May 2024](2024-05-23-Cluster17.html) | Cluster17 <br> Agenda Pública | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–19 May 2024](2024-05-19-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
 | [13–17 May 2024](2024-05-17-NCReport.html) | NC Report <br> La Razón | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -1563,11 +1572,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.3% | 100% |  |
-| 2 | 43% | 98.7% |  |
-| 3 | 40% | 56% | Median |
-| 4 | 15% | 16% |  |
-| 5 | 1.0% | 1.0% |  |
-| 6 | 0% | 0% |  |
+| 1 | 2% | 100% |  |
+| 2 | 64% | 98% | Median |
+| 3 | 32% | 34% |  |
+| 4 | 1.2% | 1.2% |  |
+| 5 | 0% | 0% |  |
 
 

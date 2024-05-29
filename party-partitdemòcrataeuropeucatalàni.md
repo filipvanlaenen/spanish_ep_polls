@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.8–3.2% | 1.6–3.5% | 1.5–3.8% | 1.3–4.4% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.9–3.3% | 1.8–3.6% | 1.7–3.9% | 1.4–4.6% |
+| [20–24 May 2024](2024-05-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.1% | 1.6–3.4% |
+| [20–24 May 2024](2024-05-24-NCReport.html) | NC Report <br> La Razón | 2.9% | 2.2–4.1% | 2.0–4.4% | 1.8–4.7% | 1.5–5.4% |
+| [21–24 May 2024](2024-05-24-GAD3.html) | GAD3 <br> Mediaset | 2.4% | 1.9–3.1% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
+| [22–24 May 2024](2024-05-24-Data10.html) | Data10 <br> OKDiario | 2.5% | 2.1–3.1% | 2.0–3.3% | 1.8–3.5% | 1.6–3.8% |
+| [21–23 May 2024](2024-05-23-Cluster17.html) | Cluster17 <br> Agenda Pública | 2.6% | 2.2–3.2% | 2.1–3.4% | 2.0–3.5% | 1.8–3.8% |
 | [17–19 May 2024](2024-05-19-SocioMétrica.html) | SocioMétrica <br> El Español | 2.3% | 1.7–3.4% | 1.5–3.7% | 1.3–4.0% | 1.1–4.6% |
 | [13–17 May 2024](2024-05-17-NCReport.html) | NC Report <br> La Razón | 2.7% | 2.0–3.8% | 1.8–4.1% | 1.7–4.4% | 1.4–5.0% |
 | [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 2.6% | 2.1–3.2% | 2.0–3.4% | 1.9–3.5% | 1.7–3.8% |
@@ -776,12 +781,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 61% | 97% | Median |
-| 2.5–3.5% | 32% | 36% |  |
-| 3.5–4.5% | 4% | 4% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 1.5% | 100% |  |
+| 1.5–2.5% | 51% | 98.5% |  |
+| 2.5–3.5% | 42% | 47% | Median |
+| 3.5–4.5% | 5% | 6% |  |
+| 4.5–5.5% | 0.6% | 0.6% |  |
 | 5.5–6.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -792,7 +798,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [20–24 May 2024](2024-05-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [20–24 May 2024](2024-05-24-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [21–24 May 2024](2024-05-24-GAD3.html) | GAD3 <br> Mediaset | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [22–24 May 2024](2024-05-24-Data10.html) | Data10 <br> OKDiario | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [21–23 May 2024](2024-05-23-Cluster17.html) | Cluster17 <br> Agenda Pública | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–19 May 2024](2024-05-19-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [13–17 May 2024](2024-05-17-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–3 | 1–3 | 0–3 |
 | [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -1559,10 +1570,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 84% | 98% | Median |
-| 2 | 13% | 14% |  |
-| 3 | 1.4% | 1.4% |  |
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 75% | 99.6% | Median |
+| 2 | 23% | 24% |  |
+| 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
 
