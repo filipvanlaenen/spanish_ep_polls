@@ -835,12 +835,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
-| [20–24 May 2024](2024-05-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 25 | 22–25 | 22–25 | 22–25 | 22–26 |
-| [20–24 May 2024](2024-05-24-NCReport.html) | NC Report <br> La Razón | 23 | 23–26 | 23–26 | 22–27 | 21–27 |
-| [21–24 May 2024](2024-05-24-GAD3.html) | GAD3 <br> Mediaset | 25 | 23–25 | 22–25 | 22–25 | 21–26 |
+| N/A | [Poll Average](average.html) | 24 | 22–26 | 22–26 | 22–26 | 21–27 |
+| [20–24 May 2024](2024-05-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 24 | 23–25 | 22–25 | 22–25 | 21–26 |
+| [20–24 May 2024](2024-05-24-NCReport.html) | NC Report <br> La Razón | 23 | 23–26 | 22–27 | 22–27 | 21–28 |
+| [21–24 May 2024](2024-05-24-GAD3.html) | GAD3 <br> Mediaset | 24 | 23–25 | 22–25 | 22–25 | 21–26 |
 | [22–24 May 2024](2024-05-24-Data10.html) | Data10 <br> OKDiario | 24 | 23–26 | 23–26 | 23–26 | 22–26 |
-| [21–23 May 2024](2024-05-23-Cluster17.html) | Cluster17 <br> Agenda Pública | 24 | 22–24 | 22–24 | 22–24 | 21–25 |
+| [21–23 May 2024](2024-05-23-Cluster17.html) | Cluster17 <br> Agenda Pública | 24 | 22–25 | 22–25 | 22–25 | 21–25 |
 | [17–19 May 2024](2024-05-19-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 23–26 | 22–27 | 22–27 | 21–28 |
 | [13–17 May 2024](2024-05-17-NCReport.html) | NC Report <br> La Razón | 24 | 23–26 | 22–27 | 22–27 | 21–28 |
 | [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 24 | 23–25 | 23–25 | 22–25 | 22–26 |
@@ -1628,14 +1628,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0.1% | 100% |  |
-| 21 | 0.7% | 99.9% |  |
-| 22 | 12% | 99.2% |  |
-| 23 | 26% | 87% |  |
-| 24 | 31% | 60% | Median |
-| 25 | 20% | 30% |  |
-| 26 | 8% | 10% |  |
+| 21 | 1.0% | 99.9% |  |
+| 22 | 12% | 98.9% |  |
+| 23 | 29% | 86% |  |
+| 24 | 29% | 57% | Median |
+| 25 | 18% | 28% |  |
+| 26 | 8% | 11% |  |
 | 27 | 2% | 2% |  |
-| 28 | 0.1% | 0.1% |  |
+| 28 | 0.3% | 0.3% |  |
 | 29 | 0% | 0% |  |
 
 

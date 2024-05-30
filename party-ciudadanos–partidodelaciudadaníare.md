@@ -796,7 +796,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [20–24 May 2024](2024-05-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0 | 0 | 0–1 |
+| [20–24 May 2024](2024-05-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0 | 0 | 0 |
 | [20–24 May 2024](2024-05-24-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [21–24 May 2024](2024-05-24-GAD3.html) | GAD3 <br> Mediaset | 0 | 0 | 0 | 0 | 0–1 |
 | [22–24 May 2024](2024-05-24-Data10.html) | Data10 <br> OKDiario | 0 | 0 | 0–1 | 0–1 | 0–1 |

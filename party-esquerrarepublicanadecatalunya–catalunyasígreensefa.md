@@ -798,10 +798,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [20–24 May 2024](2024-05-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [20–24 May 2024](2024-05-24-NCReport.html) | NC Report <br> La Razón | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| [20–24 May 2024](2024-05-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 1 | 1–2 | 1–2 |
+| [20–24 May 2024](2024-05-24-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [21–24 May 2024](2024-05-24-GAD3.html) | GAD3 <br> Mediaset | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [22–24 May 2024](2024-05-24-Data10.html) | Data10 <br> OKDiario | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [22–24 May 2024](2024-05-24-Data10.html) | Data10 <br> OKDiario | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [21–23 May 2024](2024-05-23-Cluster17.html) | Cluster17 <br> Agenda Pública | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–19 May 2024](2024-05-19-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [13–17 May 2024](2024-05-17-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -1570,8 +1570,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 45% | 99.9% |  |
-| 2 | 52% | 55% | Median |
+| 1 | 49% | 99.9% |  |
+| 2 | 48% | 51% | Median |
 | 3 | 3% | 3% |  |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
