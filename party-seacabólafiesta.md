@@ -801,7 +801,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [20–24 May 2024](2024-05-24-NCReport.html) | NC Report <br> La Razón | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [21–24 May 2024](2024-05-24-GAD3.html) | GAD3 <br> Mediaset | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–24 May 2024](2024-05-24-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [21–23 May 2024](2024-05-23-Cluster17.html) | Cluster17 <br> Agenda Pública | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [21–23 May 2024](2024-05-23-Cluster17.html) | Cluster17 <br> Agenda Pública | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [17–19 May 2024](2024-05-19-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–17 May 2024](2024-05-17-NCReport.html) | NC Report <br> La Razón | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 2 | 2–3 | 1–3 | 1–3 | 1–3 |

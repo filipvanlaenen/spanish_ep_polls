@@ -812,7 +812,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [20–24 May 2024](2024-05-24-NCReport.html) | NC Report <br> La Razón | 7 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [21–24 May 2024](2024-05-24-GAD3.html) | GAD3 <br> Mediaset | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
 | [22–24 May 2024](2024-05-24-Data10.html) | Data10 <br> OKDiario | 7 | 7 | 6–7 | 6–7 | 5–8 |
-| [21–23 May 2024](2024-05-23-Cluster17.html) | Cluster17 <br> Agenda Pública | 6 | 6 | 5–7 | 5–7 | 5–8 |
+| [21–23 May 2024](2024-05-23-Cluster17.html) | Cluster17 <br> Agenda Pública | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [17–19 May 2024](2024-05-19-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 5–7 | 5–8 | 5–9 | 5–10 |
 | [13–17 May 2024](2024-05-17-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [14–16 May 2024](2024-05-16-Cluster17.html) | Cluster17 <br> Agenda Pública | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -1585,8 +1585,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0.3% | 100% |  |
 | 5 | 11% | 99.7% |  |
-| 6 | 44% | 89% | Median |
-| 7 | 29% | 45% |  |
+| 6 | 42% | 88% | Median |
+| 7 | 30% | 46% |  |
 | 8 | 10% | 16% |  |
 | 9 | 6% | 6% |  |
 | 10 | 0.2% | 0.2% |  |
