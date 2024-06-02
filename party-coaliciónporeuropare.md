@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.2–2.4% | 1.0–2.7% | 0.9–3.0% | 0.7–3.7% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.2–2.6% | 1.1–2.9% | 1.0–3.2% | 0.7–3.8% |
+| [24–31 May 2024](2024-05-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.3% | 1.1–1.6% | 1.0–1.6% | 1.0–1.7% | 0.9–1.8% |
+| [28–29 May 2024](2024-05-29-Metroscopia.html) | Metroscopia | 1.8% | 1.2–2.8% | 1.1–3.1% | 1.0–3.4% | 0.7–4.0% |
+| [23–28 May 2024](2024-05-28-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1.8% | 1.3–2.8% | 1.1–3.1% | 1.0–3.3% | 0.8–3.9% |
+| [25–26 May 2024](2024-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 1.4% | 0.9–2.3% | 0.8–2.6% | 0.7–2.9% | 0.5–3.4% |
 | [20–24 May 2024](2024-05-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.3% | 1.0–1.7% | 1.0–1.8% | 0.9–1.9% | 0.8–2.1% |
 | [20–24 May 2024](2024-05-24-NCReport.html) | NC Report <br> La Razón | 2.2% | 1.6–3.3% | 1.4–3.6% | 1.3–3.8% | 1.0–4.4% |
 | [21–24 May 2024](2024-05-24-GAD3.html) | GAD3 <br> Mediaset | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
@@ -781,11 +785,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 34% | 99.9% |  |
-| 1.5–2.5% | 58% | 66% | Median |
-| 2.5–3.5% | 7% | 8% |  |
-| 3.5–4.5% | 0.7% | 0.7% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 36% | 99.9% |  |
+| 1.5–2.5% | 53% | 64% | Median |
+| 2.5–3.5% | 10% | 11% |  |
+| 3.5–4.5% | 1.0% | 1.0% |  |
+| 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -798,6 +802,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [24–31 May 2024](2024-05-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28–29 May 2024](2024-05-29-Metroscopia.html) | Metroscopia | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [23–28 May 2024](2024-05-28-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [25–26 May 2024](2024-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [20–24 May 2024](2024-05-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–24 May 2024](2024-05-24-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | [21–24 May 2024](2024-05-24-GAD3.html) | GAD3 <br> Mediaset | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1569,9 +1577,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 21% | 100% | Last Result |
-| 1 | 76% | 79% | Median |
-| 2 | 3% | 3% |  |
+| 0 | 31% | 100% | Last Result |
+| 1 | 65% | 69% | Median |
+| 2 | 4% | 4% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
