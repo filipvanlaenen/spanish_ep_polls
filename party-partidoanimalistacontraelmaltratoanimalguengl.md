@@ -10,9 +10,22 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% | 0.4–2.6% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.8–2.0% | 0.7–2.2% | 0.6–2.4% | 0.4–2.8% |
+| [27 May–3 June 2024](2024-06-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [2–3 June 2024](2024-06-03-Data10.html) | Data10 <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
+| [30 May–2 June 2024](2024-06-02-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
+| [29–31 May 2024](2024-05-31-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
 | [24–31 May 2024](2024-05-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [27–31 May 2024](2024-05-31-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
+| [23–31 May 2024](2024-05-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0.0% | N/A | N/A | N/A | N/A |
+| [27–31 May 2024](2024-05-31-GESOP.html) | GESOP <br> Prensa Ibérica | 0.0% | N/A | N/A | N/A | N/A |
+| [29–31 May 2024](2024-05-31-Cluster17.html) | Cluster17 <br> Agenda Pública | 0.0% | N/A | N/A | N/A | N/A |
+| [27–30 May 2024](2024-05-30-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
+| [27–30 May 2024](2024-05-30-CIS.html) | CIS | 0.0% | N/A | N/A | N/A | N/A |
+| [28–30 May 2024](2024-05-30-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
+| [23–29 May 2024](2024-05-29-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 0.0% | N/A | N/A | N/A | N/A |
 | [28–29 May 2024](2024-05-29-Metroscopia.html) | Metroscopia | 0.0% | N/A | N/A | N/A | N/A |
+| [23–28 May 2024](2024-05-28-DYM.html) | DYM <br> Henneo | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [23–28 May 2024](2024-05-28-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1.1% | 0.7–1.9% | 0.6–2.2% | 0.5–2.4% | 0.4–2.8% |
 | [25–26 May 2024](2024-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
 | [20–24 May 2024](2024-05-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
@@ -785,9 +798,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 75% | 98% | Median |
-| 1.5–2.5% | 23% | 23% |  |
-| 2.5–3.5% | 0.7% | 0.7% |  |
+| 0.5–1.5% | 61% | 98% | Median |
+| 1.5–2.5% | 36% | 38% |  |
+| 2.5–3.5% | 1.5% | 1.5% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -800,8 +813,21 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27 May–3 June 2024](2024-06-03-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [2–3 June 2024](2024-06-03-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [30 May–2 June 2024](2024-06-02-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [29–31 May 2024](2024-05-31-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [24–31 May 2024](2024-05-31-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [27–31 May 2024](2024-05-31-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [23–31 May 2024](2024-05-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli |  |  |  |  |  |
+| [27–31 May 2024](2024-05-31-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
+| [29–31 May 2024](2024-05-31-Cluster17.html) | Cluster17 <br> Agenda Pública |  |  |  |  |  |
+| [27–30 May 2024](2024-05-30-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [27–30 May 2024](2024-05-30-CIS.html) | CIS |  |  |  |  |  |
+| [28–30 May 2024](2024-05-30-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
+| [23–29 May 2024](2024-05-29-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
 | [28–29 May 2024](2024-05-29-Metroscopia.html) | Metroscopia |  |  |  |  |  |
+| [23–28 May 2024](2024-05-28-DYM.html) | DYM <br> Henneo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–28 May 2024](2024-05-28-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25–26 May 2024](2024-05-26-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [20–24 May 2024](2024-05-24-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
@@ -1575,9 +1601,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 75% | 100% | Last Result, Median |
-| 1 | 25% | 25% |  |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 57% | 100% | Last Result, Median |
+| 1 | 43% | 43% |  |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 
