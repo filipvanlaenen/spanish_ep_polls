@@ -820,11 +820,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–31 May 2024](2024-05-31-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [27–31 May 2024](2024-05-31-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [23–31 May 2024](2024-05-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [27–31 May 2024](2024-05-31-GESOP.html) | GESOP <br> Prensa Ibérica | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27–31 May 2024](2024-05-31-GESOP.html) | GESOP <br> Prensa Ibérica | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [29–31 May 2024](2024-05-31-Cluster17.html) | Cluster17 <br> Agenda Pública |  |  |  |  |  |
 | [27–30 May 2024](2024-05-30-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [27–30 May 2024](2024-05-30-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0–1 |
-| [28–30 May 2024](2024-05-30-40dB.html) | 40dB <br> Prisa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27–30 May 2024](2024-05-30-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
+| [28–30 May 2024](2024-05-30-40dB.html) | 40dB <br> Prisa | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [23–29 May 2024](2024-05-29-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 0 | 0 | 0 | 0 | 0–1 |
 | [28–29 May 2024](2024-05-29-Metroscopia.html) | Metroscopia | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [23–28 May 2024](2024-05-28-DYM.html) | DYM <br> Henneo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -1601,8 +1601,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 79% | 100% | Last Result, Median |
-| 1 | 21% | 21% |  |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 18% | 18% |  |
 | 2 | 0% | 0% |  |
 
 

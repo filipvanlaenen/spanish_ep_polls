@@ -35,15 +35,15 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 24 | 22–25 |22–26 |22–26 |21–26 |
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 20 | 18–21 |18–21 |18–22 |17–23 |
-| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 7 | 6–8 |6–8 |5–8 |5–8 |
-| <a href="#movimiento-sumar–catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 2 | 2–3 |2–3 |1–3 |1–3 |
-| <a href="#podemos-(gue/ngl)">Podemos (GUE/NGL)</a> | 0 | 2 | 1–2 |1–3 |1–3 |1–3 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 24 | 22–26 |22–26 |22–26 |21–27 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 20 | 19–21 |18–21 |18–22 |17–23 |
+| <a href="#vox-(ecr)">Vox (ECR)</a> | 0 | 7 | 6–8 |5–8 |5–8 |5–8 |
+| <a href="#movimiento-sumar–catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 2 | 2–3 |2–3 |1–3 |1–4 |
+| <a href="#podemos-(gue/ngl)">Podemos (GUE/NGL)</a> | 0 | 2 | 1–3 |1–3 |1–3 |1–3 |
 | <a href="#partit-demòcrata-europeu-català-(ni)">Partit Demòcrata Europeu Català (NI)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#movimiento-sumar–izquierda-unida-(gue/ngl)">Movimiento Sumar–Izquierda Unida (GUE/NGL)</a> | 0 | 1 | 1–2 |1–2 |1–2 |0–2 |
-| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 2 | 1–2 |1–2 |1–2 |0–3 |
-| <a href="#se-acabó-la-fiesta-(*)">Se Acabó La Fiesta (*)</a> | 0 | 1 | 1–2 |0–2 |0–2 |0–2 |
+| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 1 | 1–2 |1–2 |1–3 |1–3 |
+| <a href="#se-acabó-la-fiesta-(*)">Se Acabó La Fiesta (*)</a> | 0 | 1 | 1 |0–2 |0–2 |0–2 |
 | <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0 | 1 | 1–2 |1–2 |1–2 |0–2 |
 | <a href="#ciudadanos–partido-de-la-ciudadanía-(re)">Ciudadanos–Partido de la Ciudadanía (RE)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#bloque-nacionalista-galego–nós-candidatura-galega-(greens/efa)">Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0–1 |
@@ -77,13 +77,13 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 1.4% | 100% |  |
-| 22 | 12% | 98.6% |  |
-| 23 | 32% | 87% |  |
-| 24 | 38% | 55% | Median |
-| 25 | 8% | 16% |  |
-| 26 | 8% | 8% |  |
-| 27 | 0.2% | 0.2% |  |
+| 21 | 1.3% | 100% |  |
+| 22 | 11% | 98.6% |  |
+| 23 | 31% | 88% |  |
+| 24 | 38% | 57% | Median |
+| 25 | 8% | 19% |  |
+| 26 | 11% | 11% |  |
+| 27 | 0.5% | 0.5% |  |
 | 28 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -111,14 +111,15 @@
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.6% | 100% |  |
-| 18 | 10% | 99.4% |  |
-| 19 | 20% | 90% |  |
-| 20 | 37% | 70% | Median |
-| 21 | 30% | 33% |  |
-| 22 | 3% | 3% |  |
-| 23 | 0.7% | 0.7% |  |
-| 24 | 0% | 0% |  |
+| 17 | 1.0% | 100% |  |
+| 18 | 8% | 99.0% |  |
+| 19 | 22% | 91% |  |
+| 20 | 42% | 70% | Median |
+| 21 | 24% | 28% |  |
+| 22 | 3% | 4% |  |
+| 23 | 0.9% | 1.0% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 ### Vox (ECR)
 
@@ -133,11 +134,11 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 4% | 100% |  |
-| 6 | 30% | 96% |  |
-| 7 | 37% | 66% | Median |
-| 8 | 29% | 29% |  |
-| 9 | 0.2% | 0.2% |  |
+| 5 | 5% | 100% |  |
+| 6 | 30% | 95% |  |
+| 7 | 46% | 65% | Median |
+| 8 | 19% | 19% |  |
+| 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
 
 ### Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)
@@ -149,10 +150,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 4% | 100% |  |
-| 2 | 76% | 96% | Median |
-| 3 | 19% | 20% |  |
-| 4 | 0.4% | 0.4% |  |
+| 1 | 3% | 100% |  |
+| 2 | 65% | 97% | Median |
+| 3 | 31% | 32% |  |
+| 4 | 1.1% | 1.1% |  |
 | 5 | 0% | 0% |  |
 
 ### Podemos (GUE/NGL)
@@ -164,11 +165,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 43% | 100% |  |
-| 2 | 47% | 57% | Median |
-| 3 | 10% | 10% |  |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0% | 0% |  |
+| 1 | 37% | 100% |  |
+| 2 | 51% | 63% | Median |
+| 3 | 12% | 12% |  |
+| 4 | 0% | 0% |  |
 
 ### Partit Demòcrata Europeu Català (NI)
 
@@ -178,10 +178,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 67% | 99.8% | Median |
-| 2 | 33% | 33% |  |
-| 3 | 0.3% | 0.3% |  |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 69% | 99.7% | Median |
+| 2 | 30% | 30% |  |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 ### Movimiento Sumar–Izquierda Unida (GUE/NGL)
@@ -192,10 +192,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% | Last Result |
-| 1 | 89% | 99.2% | Median |
-| 2 | 10% | 10% |  |
-| 3 | 0.3% | 0.3% |  |
+| 0 | 0.9% | 100% | Last Result |
+| 1 | 88% | 99.1% | Median |
+| 2 | 11% | 11% |  |
+| 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)
@@ -206,10 +206,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.6% | 100% | Last Result |
-| 1 | 48% | 99.4% |  |
-| 2 | 50% | 52% | Median |
-| 3 | 1.5% | 1.5% |  |
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 57% | 99.6% | Median |
+| 2 | 40% | 42% |  |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 ### Se Acabó La Fiesta (*)
@@ -220,9 +220,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 82% | 92% | Median |
-| 2 | 10% | 10% |  |
+| 0 | 7% | 100% | Last Result |
+| 1 | 86% | 93% | Median |
+| 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 
 ### Euskal Herria Bildu (GUE/NGL)
@@ -233,10 +233,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.7% | 100% | Last Result |
-| 1 | 65% | 99.3% | Median |
-| 2 | 34% | 34% |  |
-| 3 | 0% | 0% |  |
+| 0 | 0.8% | 100% | Last Result |
+| 1 | 62% | 99.2% | Median |
+| 2 | 37% | 38% |  |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (RE)
 
@@ -246,8 +247,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 68% | 100% | Last Result, Median |
-| 1 | 32% | 32% |  |
+| 0 | 77% | 100% | Last Result, Median |
+| 1 | 23% | 23% |  |
 | 2 | 0% | 0% |  |
 
 ### Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA)
@@ -258,8 +259,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 98.6% | 100% | Last Result, Median |
+| 1 | 1.4% | 1.4% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -271,9 +272,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Popular (EPP) | 0 | 24 | 0% | 22–25 | 22–26 | 22–26 | 21–26 |
-| Partido Socialista Obrero Español (S&D) | 0 | 20 | 0% | 18–21 | 18–21 | 18–22 | 17–23 |
-| Vox (ECR) | 0 | 7 | 0% | 6–8 | 6–8 | 5–8 | 5–8 |
+| Partido Popular (EPP) | 0 | 24 | 0% | 22–26 | 22–26 | 22–26 | 21–27 |
+| Partido Socialista Obrero Español (S&D) | 0 | 20 | 0% | 19–21 | 18–21 | 18–22 | 17–23 |
+| Vox (ECR) | 0 | 7 | 0% | 6–8 | 5–8 | 5–8 | 5–8 |
 
 ### Partido Popular (EPP)
 
@@ -302,13 +303,13 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 1.4% | 100% |  |
-| 22 | 12% | 98.6% |  |
-| 23 | 32% | 87% |  |
-| 24 | 38% | 55% | Median |
-| 25 | 8% | 16% |  |
-| 26 | 8% | 8% |  |
-| 27 | 0.2% | 0.2% |  |
+| 21 | 1.3% | 100% |  |
+| 22 | 11% | 98.6% |  |
+| 23 | 31% | 88% |  |
+| 24 | 38% | 57% | Median |
+| 25 | 8% | 19% |  |
+| 26 | 11% | 11% |  |
+| 27 | 0.5% | 0.5% |  |
 | 28 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -334,14 +335,15 @@
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.6% | 100% |  |
-| 18 | 10% | 99.4% |  |
-| 19 | 20% | 90% |  |
-| 20 | 37% | 70% | Median |
-| 21 | 30% | 33% |  |
-| 22 | 3% | 3% |  |
-| 23 | 0.7% | 0.7% |  |
-| 24 | 0% | 0% |  |
+| 17 | 1.0% | 100% |  |
+| 18 | 8% | 99.0% |  |
+| 19 | 22% | 91% |  |
+| 20 | 42% | 70% | Median |
+| 21 | 24% | 28% |  |
+| 22 | 3% | 4% |  |
+| 23 | 0.9% | 1.0% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 ### Vox (ECR)
 
@@ -354,11 +356,11 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 4% | 100% |  |
-| 6 | 30% | 96% |  |
-| 7 | 37% | 66% | Median |
-| 8 | 29% | 29% |  |
-| 9 | 0.2% | 0.2% |  |
+| 5 | 5% | 100% |  |
+| 6 | 30% | 95% |  |
+| 7 | 46% | 65% | Median |
+| 8 | 19% | 19% |  |
+| 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
 
 
@@ -373,6 +375,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.84%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.17%
 

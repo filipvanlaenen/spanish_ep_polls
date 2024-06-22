@@ -823,7 +823,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–31 May 2024](2024-05-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli |  |  |  |  |  |
 | [27–31 May 2024](2024-05-31-GESOP.html) | GESOP <br> Prensa Ibérica | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [29–31 May 2024](2024-05-31-Cluster17.html) | Cluster17 <br> Agenda Pública | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [27–30 May 2024](2024-05-30-GAD3.html) | GAD3 <br> ABC | 1 | 1 | 1 | 1 | 0–2 |
+| [27–30 May 2024](2024-05-30-GAD3.html) | GAD3 <br> ABC | 1 | 1 | 1 | 0–1 | 0–2 |
 | [27–30 May 2024](2024-05-30-CIS.html) | CIS | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [28–30 May 2024](2024-05-30-40dB.html) | 40dB <br> Prisa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–29 May 2024](2024-05-29-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 1 | 1 | 1–2 | 0–2 | 0–2 |
@@ -1603,8 +1603,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 39% | 100% | Last Result |
-| 1 | 58% | 61% | Median |
-| 2 | 3% | 4% |  |
+| 1 | 57% | 61% | Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 

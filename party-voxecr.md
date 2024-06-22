@@ -823,22 +823,22 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
+| N/A | [Poll Average](average.html) | 7 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [27 May–3 June 2024](2024-06-03-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [2–3 June 2024](2024-06-03-Data10.html) | Data10 <br> OKDiario | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [30 May–2 June 2024](2024-06-02-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [29–31 May 2024](2024-05-31-TargetPoint.html) | Target Point <br> El Debate | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [24–31 May 2024](2024-05-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [27–31 May 2024](2024-05-31-NCReport.html) | NC Report <br> La Razón | 5 | 5–7 | 5–8 | 5–8 | 4–8 |
-| [23–31 May 2024](2024-05-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
-| [27–31 May 2024](2024-05-31-GESOP.html) | GESOP <br> Prensa Ibérica | 5 | 5–6 | 5–6 | 4–6 | 3–7 |
-| [29–31 May 2024](2024-05-31-Cluster17.html) | Cluster17 <br> Agenda Pública | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [27–30 May 2024](2024-05-30-GAD3.html) | GAD3 <br> ABC | 6 | 6 | 5–7 | 5–7 | 5–8 |
+| [27–31 May 2024](2024-05-31-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
+| [23–31 May 2024](2024-05-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
+| [27–31 May 2024](2024-05-31-GESOP.html) | GESOP <br> Prensa Ibérica | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [29–31 May 2024](2024-05-31-Cluster17.html) | Cluster17 <br> Agenda Pública | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [27–30 May 2024](2024-05-30-GAD3.html) | GAD3 <br> ABC | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [27–30 May 2024](2024-05-30-CIS.html) | CIS | 7 | 7 | 7 | 6–8 | 6–8 |
 | [28–30 May 2024](2024-05-30-40dB.html) | 40dB <br> Prisa | 7 | 6–7 | 6–8 | 6–8 | 6–9 |
-| [23–29 May 2024](2024-05-29-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 6 | 6–8 | 5–8 | 5–8 | 4–8 |
+| [23–29 May 2024](2024-05-29-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 7 | 5–8 | 5–8 | 5–8 | 5–8 |
 | [28–29 May 2024](2024-05-29-Metroscopia.html) | Metroscopia | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
-| [23–28 May 2024](2024-05-28-DYM.html) | DYM <br> Henneo | 6 | 5–7 | 5–8 | 5–8 | 5–9 |
+| [23–28 May 2024](2024-05-28-DYM.html) | DYM <br> Henneo | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [23–28 May 2024](2024-05-28-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 6 | 5–6 | 5–7 | 4–8 | 4–8 |
 | [25–26 May 2024](2024-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 5–8 | 5–8 | 5–9 | 5–10 |
 | [20–24 May 2024](2024-05-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -1616,12 +1616,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.7% | 100% |  |
-| 5 | 15% | 99.3% |  |
-| 6 | 35% | 85% | Median |
-| 7 | 40% | 49% |  |
-| 8 | 9% | 9% |  |
-| 9 | 0.3% | 0.4% |  |
+| 4 | 1.0% | 100% |  |
+| 5 | 15% | 99.0% |  |
+| 6 | 33% | 84% |  |
+| 7 | 43% | 51% | Median |
+| 8 | 8% | 8% |  |
+| 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
 
 

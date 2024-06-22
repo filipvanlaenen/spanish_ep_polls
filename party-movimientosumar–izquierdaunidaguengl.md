@@ -822,14 +822,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–31 May 2024](2024-05-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27–31 May 2024](2024-05-31-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | [23–31 May 2024](2024-05-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [27–31 May 2024](2024-05-31-GESOP.html) | GESOP <br> Prensa Ibérica | 2 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [27–31 May 2024](2024-05-31-GESOP.html) | GESOP <br> Prensa Ibérica | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [29–31 May 2024](2024-05-31-Cluster17.html) | Cluster17 <br> Agenda Pública | 1 | 1 | 1 | 1–2 | 1–2 |
-| [27–30 May 2024](2024-05-30-GAD3.html) | GAD3 <br> ABC | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [27–30 May 2024](2024-05-30-GAD3.html) | GAD3 <br> ABC | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [27–30 May 2024](2024-05-30-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1–2 |
-| [28–30 May 2024](2024-05-30-40dB.html) | 40dB <br> Prisa | 1 | 1 | 1 | 1 | 1–2 |
+| [28–30 May 2024](2024-05-30-40dB.html) | 40dB <br> Prisa | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [23–29 May 2024](2024-05-29-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [28–29 May 2024](2024-05-29-Metroscopia.html) | Metroscopia | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| [23–28 May 2024](2024-05-28-DYM.html) | DYM <br> Henneo | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [23–28 May 2024](2024-05-28-DYM.html) | DYM <br> Henneo | 1 | 1 | 1 | 1–2 | 0–2 |
 | [23–28 May 2024](2024-05-28-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [25–26 May 2024](2024-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | [20–24 May 2024](2024-05-24-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -1603,10 +1603,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.2% | 100% | Last Result |
-| 1 | 83% | 98.8% | Median |
-| 2 | 16% | 16% |  |
-| 3 | 0.1% | 0.1% |  |
+| 0 | 1.1% | 100% | Last Result |
+| 1 | 85% | 98.9% | Median |
+| 2 | 13% | 14% |  |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 
