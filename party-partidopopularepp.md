@@ -10,15 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.7% | 30.1–36.1% | 29.7–36.8% | 29.3–37.3% | 28.7–38.4% |
+| N/A | [Poll Average](average.html) | 33.6% | 30.4–35.8% | 29.9–36.5% | 29.5–37.1% | 28.8–38.2% |
 | [22 July 2024](2024-07-22-TargetPoint.html) | Target Point <br> El Debate | 34.0% | 31.7–36.5% | 31.0–37.2% | 30.4–37.8% | 29.3–39.0% |
 | [18–20 July 2024](2024-07-20-SocioMétrica.html) | SocioMétrica <br> El Español | 34.4% | 32.7–36.2% | 32.2–36.7% | 31.8–37.2% | 31.0–38.0% |
 | [1–10 July 2024](2024-07-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 33.5% | 31.2–36.0% | 30.5–36.7% | 30.0–37.3% | 28.9–38.5% |
 | [1–4 July 2024](2024-07-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 34.6% | 32.7–36.6% | 32.2–37.1% | 31.7–37.6% | 30.8–38.6% |
 | [1–4 July 2024](2024-07-04-CIS.html) | CIS | 30.2% | 29.3–31.1% | 29.0–31.4% | 28.8–31.6% | 28.3–32.1% |
 | [25–28 June 2024](2024-06-28-TargetPoint.html) | Target Point <br> El Debate | 34.9% | N/A | N/A | N/A | N/A |
-| [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 33.8% | N/A | N/A | N/A | N/A |
-| [21–24 June 2024](2024-06-24-40dB.html) | 40dB <br> Prisa | 33.3% | N/A | N/A | N/A | N/A |
+| [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 33.8% | 32.4–35.2% | 32.1–35.6% | 31.7–35.9% | 31.1–36.6% |
+| [21–24 June 2024](2024-06-24-40dB.html) | 40dB <br> Prisa | 33.3% | 32.0–34.7% | 31.6–35.1% | 31.3–35.4% | 30.6–36.1% |
 | [11–15 June 2024](2024-06-15-NCReport.html) | NC Report <br> La Razón | 34.4% | N/A | N/A | N/A | N/A |
 | [10–14 June 2024](2024-06-14-Invymark.html) | Invymark <br> laSexta | 38.7% | N/A | N/A | N/A | N/A |
 | [1–11 June 2024](2024-06-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 33.8% | N/A | N/A | N/A | N/A |
@@ -57,19 +57,19 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0.3% | 100% |  |
-| 28.5–29.5% | 4% | 99.7% |  |
-| 29.5–30.5% | 11% | 96% |  |
-| 30.5–31.5% | 9% | 85% |  |
-| 31.5–32.5% | 9% | 75% |  |
-| 32.5–33.5% | 14% | 67% |  |
-| 33.5–34.5% | 19% | 52% | Median |
-| 34.5–35.5% | 17% | 34% |  |
-| 35.5–36.5% | 11% | 17% |  |
-| 36.5–37.5% | 5% | 6% |  |
-| 37.5–38.5% | 1.4% | 2% |  |
-| 38.5–39.5% | 0.3% | 0.4% |  |
-| 39.5–40.5% | 0.1% | 0.1% |  |
+| 27.5–28.5% | 0.2% | 100% |  |
+| 28.5–29.5% | 3% | 99.8% |  |
+| 29.5–30.5% | 8% | 97% |  |
+| 30.5–31.5% | 7% | 89% |  |
+| 31.5–32.5% | 10% | 82% |  |
+| 32.5–33.5% | 19% | 71% |  |
+| 33.5–34.5% | 23% | 52% | Median |
+| 34.5–35.5% | 16% | 29% |  |
+| 35.5–36.5% | 8% | 13% |  |
+| 36.5–37.5% | 3% | 5% |  |
+| 37.5–38.5% | 1.0% | 1.3% |  |
+| 38.5–39.5% | 0.2% | 0.3% |  |
+| 39.5–40.5% | 0% | 0.1% |  |
 | 40.5–41.5% | 0% | 0% |  |
 
 
@@ -88,8 +88,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–4 July 2024](2024-07-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 25 | 23–25 | 22–25 | 22–25 | 22–25 |
 | [1–4 July 2024](2024-07-04-CIS.html) | CIS | 21 | 20–22 | 20–22 | 20–22 | 20–22 |
 | [25–28 June 2024](2024-06-28-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
-| [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [21–24 June 2024](2024-06-24-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
+| [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 23 | 23 | 23 | 23–24 | 21–25 |
+| [21–24 June 2024](2024-06-24-40dB.html) | 40dB <br> Prisa | 24 | 23–25 | 23–25 | 22–25 | 22–26 |
 | [11–15 June 2024](2024-06-15-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [10–14 June 2024](2024-06-14-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [1–11 June 2024](2024-06-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
@@ -121,16 +121,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 0.1% | 100% |  |
-| 20 | 8% | 99.9% |  |
-| 21 | 11% | 92% |  |
-| 22 | 18% | 82% |  |
-| 23 | 15% | 63% | Median |
-| 24 | 26% | 49% |  |
-| 25 | 21% | 23% |  |
-| 26 | 2% | 2% |  |
-| 27 | 0.4% | 0.5% |  |
-| 28 | 0.1% | 0.1% |  |
+| 19 | 0% | 100% |  |
+| 20 | 5% | 100% |  |
+| 21 | 8% | 94% |  |
+| 22 | 14% | 87% |  |
+| 23 | 28% | 73% | Median |
+| 24 | 26% | 45% |  |
+| 25 | 17% | 19% |  |
+| 26 | 1.4% | 2% |  |
+| 27 | 0.3% | 0.3% |  |
+| 28 | 0% | 0.1% |  |
 | 29 | 0% | 0% |  |
 
 

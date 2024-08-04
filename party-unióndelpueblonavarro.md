@@ -17,7 +17,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–4 July 2024](2024-07-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [1–4 July 2024](2024-07-04-CIS.html) | CIS | 0.1% | 0.0–0.2% | 0.0–0.2% | 0.0–0.3% | 0.0–0.3% |
 | [25–28 June 2024](2024-06-28-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
-| [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.2% | N/A | N/A | N/A | N/A |
+| [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% |
 | [21–24 June 2024](2024-06-24-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [11–15 June 2024](2024-06-15-NCReport.html) | NC Report <br> La Razón | 0.2% | N/A | N/A | N/A | N/A |
 | [10–14 June 2024](2024-06-14-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
@@ -49,7 +49,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–4 July 2024](2024-07-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0 | 0 | 0 | 0 | 0 |
 | [1–4 July 2024](2024-07-04-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [25–28 June 2024](2024-06-28-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
-| [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0 | 0 | 0 |
 | [21–24 June 2024](2024-06-24-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [11–15 June 2024](2024-06-15-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [10–14 June 2024](2024-06-14-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
