@@ -20,7 +20,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 10.9% | 10.0–11.8% | 9.8–12.1% | 9.6–12.3% | 9.2–12.8% |
 | [21–24 June 2024](2024-06-24-40dB.html) | 40dB <br> Prisa | 10.4% | 9.6–11.3% | 9.3–11.6% | 9.1–11.8% | 8.7–12.3% |
 | [11–15 June 2024](2024-06-15-NCReport.html) | NC Report <br> La Razón | 10.3% | 8.9–12.0% | 8.5–12.4% | 8.2–12.8% | 7.5–13.7% |
-| [10–14 June 2024](2024-06-14-Invymark.html) | Invymark <br> laSexta | 11.0% | N/A | N/A | N/A | N/A |
+| [10–14 June 2024](2024-06-14-Invymark.html) | Invymark <br> laSexta | 11.0% | 9.0–13.6% | 8.4–14.4% | 7.9–15.1% | 7.1–16.4% |
 | [1–11 June 2024](2024-06-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 11.5% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
@@ -65,8 +65,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25–28 June 2024](2024-06-28-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 7 | 7 | 7 | 6–8 |
 | [21–24 June 2024](2024-06-24-40dB.html) | 40dB <br> Prisa | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [11–15 June 2024](2024-06-15-NCReport.html) | NC Report <br> La Razón | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
-| [10–14 June 2024](2024-06-14-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [11–15 June 2024](2024-06-15-NCReport.html) | NC Report <br> La Razón | 7 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [10–14 June 2024](2024-06-14-Invymark.html) | Invymark <br> laSexta | 7 | 6–9 | 5–10 | 5–10 | 4–11 |
 | [1–11 June 2024](2024-06-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 
 ### Probability Mass Function
