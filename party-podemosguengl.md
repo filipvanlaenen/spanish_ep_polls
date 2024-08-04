@@ -15,7 +15,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [18–20 July 2024](2024-07-20-SocioMétrica.html) | SocioMétrica <br> El Español | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
 | [1–10 July 2024](2024-07-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 2.7% | 2.0–3.7% | 1.8–4.0% | 1.7–4.2% | 1.4–4.8% |
 | [1–4 July 2024](2024-07-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
-| [1–4 July 2024](2024-07-04-CIS.html) | CIS | 4.0% | 3.6–4.4% | 3.5–4.6% | 3.4–4.7% | 3.2–4.9% |
+| [1–4 July 2024](2024-07-04-CIS.html) | CIS | 4.0% | 3.6–4.4% | 3.5–4.5% | 3.4–4.6% | 3.2–4.9% |
 | [25–28 June 2024](2024-06-28-TargetPoint.html) | Target Point <br> El Debate | 4.4% | N/A | N/A | N/A | N/A |
 | [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.4% | N/A | N/A | N/A | N/A |
 | [21–24 June 2024](2024-06-24-40dB.html) | 40dB <br> Prisa | 3.0% | N/A | N/A | N/A | N/A |
@@ -49,12 +49,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | [22 July 2024](2024-07-22-TargetPoint.html) | Target Point <br> El Debate | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [18–20 July 2024](2024-07-20-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [1–10 July 2024](2024-07-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [1–4 July 2024](2024-07-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [1–4 July 2024](2024-07-04-CIS.html) | CIS |  |  |  |  |  |
+| [1–4 July 2024](2024-07-04-CIS.html) | CIS | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25–28 June 2024](2024-06-28-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [21–24 June 2024](2024-06-24-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
@@ -71,11 +71,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 14% | 99.9% |  |
-| 2 | 62% | 86% | Median |
-| 3 | 19% | 24% |  |
-| 4 | 5% | 5% |  |
-| 5 | 0.4% | 0.4% |  |
+| 1 | 11% | 99.9% |  |
+| 2 | 59% | 89% | Median |
+| 3 | 26% | 30% |  |
+| 4 | 4% | 4% |  |
+| 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
 

@@ -81,12 +81,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 22–25 | 21–25 | 21–26 | 21–27 |
+| N/A | [Poll Average](average.html) | 23 | 21–25 | 20–25 | 20–25 | 20–26 |
 | [22 July 2024](2024-07-22-TargetPoint.html) | Target Point <br> El Debate | 24 | 22–25 | 21–25 | 21–26 | 21–27 |
 | [18–20 July 2024](2024-07-20-SocioMétrica.html) | SocioMétrica <br> El Español | 24 | 22–24 | 21–25 | 21–25 | 21–25 |
 | [1–10 July 2024](2024-07-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 23 | 22–25 | 21–26 | 21–26 | 20–27 |
 | [1–4 July 2024](2024-07-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 25 | 23–25 | 22–25 | 22–25 | 22–25 |
-| [1–4 July 2024](2024-07-04-CIS.html) | CIS |  |  |  |  |  |
+| [1–4 July 2024](2024-07-04-CIS.html) | CIS | 21 | 20–22 | 20–22 | 20–22 | 20–22 |
 | [25–28 June 2024](2024-06-28-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [21–24 June 2024](2024-06-24-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
@@ -121,15 +121,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 0% | 100% |  |
-| 20 | 0.4% | 100% |  |
-| 21 | 5% | 99.5% |  |
-| 22 | 15% | 95% |  |
-| 23 | 19% | 79% |  |
-| 24 | 32% | 61% | Median |
-| 25 | 26% | 28% |  |
-| 26 | 2% | 3% |  |
-| 27 | 0.5% | 0.6% |  |
+| 19 | 0.1% | 100% |  |
+| 20 | 8% | 99.9% |  |
+| 21 | 11% | 92% |  |
+| 22 | 18% | 82% |  |
+| 23 | 15% | 63% | Median |
+| 24 | 26% | 49% |  |
+| 25 | 21% | 23% |  |
+| 26 | 2% | 2% |  |
+| 27 | 0.4% | 0.5% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 
