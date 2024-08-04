@@ -14,7 +14,7 @@
 | Partido Socialista Obrero Español (S&D) | 0.0% | 30.7% | 28.5–33.2% |27.8–33.8% |27.3–34.4% |26.2–35.6% |
 | Vox (PfE) | 0.0% | 10.8% | 9.3–12.5% |8.9–13.0% |8.6–13.4% |8.0–14.3% |
 | Podemos (GUE/NGL) | 0.0% | 4.8% | 3.9–6.1% |3.6–6.5% |3.4–6.8% |3.0–7.5% |
-| Se Acabó La Fiesta (*) | 0.0% | 4.1% | 3.2–5.2% |3.0–5.6% |2.8–5.9% |2.4–6.5% |
+| Se Acabó La Fiesta (NI) | 0.0% | 4.1% | 3.2–5.2% |3.0–5.6% |2.8–5.9% |2.4–6.5% |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA) | 0.0% | 3.6% | 2.8–4.7% |2.6–5.0% |2.4–5.3% |2.1–5.9% |
 | Movimiento Sumar–Izquierda Unida (GUE/NGL) | 0.0% | 2.2% | 1.6–3.1% |1.4–3.4% |1.3–3.6% |1.1–4.1% |
 
@@ -34,7 +34,7 @@
 | <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 21 | 20–23 |19–23 |19–24 |18–25 |
 | <a href="#vox-(pfe)">Vox (PfE)</a> | 0 | 7 | 6–8 |6–9 |6–9 |5–10 |
 | <a href="#podemos-(gue/ngl)">Podemos (GUE/NGL)</a> | 0 | 3 | 2–4 |2–4 |2–4 |2–5 |
-| <a href="#se-acabó-la-fiesta-(*)">Se Acabó La Fiesta (*)</a> | 0 | 2 | 2–3 |2–3 |1–4 |1–4 |
+| <a href="#se-acabó-la-fiesta-(ni)">Se Acabó La Fiesta (NI)</a> | 0 | 2 | 2–3 |2–3 |1–4 |1–4 |
 | <a href="#movimiento-sumar–catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 2 | 1–3 |1–3 |1–3 |1–4 |
 | <a href="#movimiento-sumar–izquierda-unida-(gue/ngl)">Movimiento Sumar–Izquierda Unida (GUE/NGL)</a> | 0 | 1 | 1–2 |1–2 |0–2 |0–2 |
 
@@ -151,11 +151,11 @@
 | 5 | 1.5% | 1.5% |  |
 | 6 | 0% | 0% |  |
 
-### Se Acabó La Fiesta (*)
+### Se Acabó La Fiesta (NI)
 
-*For a full overview of the results for this party, see the [Se Acabó La Fiesta (*)](party-seacabólafiesta.html) page.*
+*For a full overview of the results for this party, see the [Se Acabó La Fiesta (NI)](party-seacabólafiestani.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-07-22-TargetPoint-seats-pmf-seacabólafiesta.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-07-22-TargetPoint-seats-pmf-seacabólafiestani.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

@@ -14,10 +14,10 @@
 | Partido Socialista Obrero Español (S&D) | 0.0% | 29.3% | 27.7–31.1% |27.2–31.6% |26.8–32.0% |26.0–32.8% |
 | Vox (PfE) | 0.0% | 11.2% | 10.1–12.4% |9.8–12.8% |9.5–13.1% |9.0–13.7% |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA) | 0.0% | 4.6% | 3.9–5.5% |3.7–5.7% |3.5–5.9% |3.2–6.4% |
-| Se Acabó La Fiesta (*) | 0.0% | 4.1% | 3.4–4.9% |3.2–5.2% |3.1–5.4% |2.8–5.8% |
+| Se Acabó La Fiesta (NI) | 0.0% | 4.1% | 3.4–4.9% |3.2–5.2% |3.1–5.4% |2.8–5.8% |
 | Podemos (GUE/NGL) | 0.0% | 3.7% | 3.0–4.5% |2.9–4.7% |2.7–4.9% |2.5–5.3% |
 | Movimiento Sumar–Izquierda Unida (GUE/NGL) | 0.0% | 2.8% | 2.3–3.6% |2.1–3.8% |2.0–3.9% |1.8–4.3% |
-| Partit Demòcrata Europeu Català (NI) | 0.0% | 1.7% | 1.3–2.3% |1.2–2.4% |1.1–2.6% |0.9–2.9% |
+| Junts per Catalunya (NI) | 0.0% | 1.7% | 1.3–2.3% |1.2–2.4% |1.1–2.6% |0.9–2.9% |
 | Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA) | 0.0% | 1.5% | 1.1–2.1% |1.0–2.2% |0.9–2.4% |0.8–2.7% |
 | Euskal Herria Bildu (GUE/NGL) | 0.0% | 1.5% | 1.1–2.1% |1.0–2.2% |0.9–2.4% |0.8–2.7% |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE) | 0.0% | 1.2% | 0.9–1.7% |0.8–1.8% |0.7–2.0% |0.6–2.2% |
@@ -41,10 +41,10 @@
 | <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 20 | 20–21 |19–21 |18–21 |18–22 |
 | <a href="#vox-(pfe)">Vox (PfE)</a> | 0 | 7 | 7–8 |6–8 |6–8 |6–9 |
 | <a href="#movimiento-sumar–catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 3 | 2–3 |2–3 |2–3 |2–4 |
-| <a href="#se-acabó-la-fiesta-(*)">Se Acabó La Fiesta (*)</a> | 0 | 2 | 2–3 |2–3 |2–3 |2–3 |
+| <a href="#se-acabó-la-fiesta-(ni)">Se Acabó La Fiesta (NI)</a> | 0 | 2 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#podemos-(gue/ngl)">Podemos (GUE/NGL)</a> | 0 | 2 | 2 |2–3 |2–3 |1–3 |
 | <a href="#movimiento-sumar–izquierda-unida-(gue/ngl)">Movimiento Sumar–Izquierda Unida (GUE/NGL)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#partit-demòcrata-europeu-català-(ni)">Partit Demòcrata Europeu Català (NI)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#junts-per-catalunya-(ni)">Junts per Catalunya (NI)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
 | <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco-(re)">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
@@ -158,11 +158,11 @@
 | 4 | 1.4% | 1.4% |  |
 | 5 | 0% | 0% |  |
 
-### Se Acabó La Fiesta (*)
+### Se Acabó La Fiesta (NI)
 
-*For a full overview of the results for this party, see the [Se Acabó La Fiesta (*)](party-seacabólafiesta.html) page.*
+*For a full overview of the results for this party, see the [Se Acabó La Fiesta (NI)](party-seacabólafiestani.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-07-20-SocioMétrica-seats-pmf-seacabólafiesta.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-07-20-SocioMétrica-seats-pmf-seacabólafiestani.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -201,11 +201,11 @@
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
-### Partit Demòcrata Europeu Català (NI)
+### Junts per Catalunya (NI)
 
-*For a full overview of the results for this party, see the [Partit Demòcrata Europeu Català (NI)](party-partitdemòcrataeuropeucatalàni.html) page.*
+*For a full overview of the results for this party, see the [Junts per Catalunya (NI)](party-juntspercatalunyani.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-07-20-SocioMétrica-seats-pmf-partitdemòcrataeuropeucatalàni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-07-20-SocioMétrica-seats-pmf-juntspercatalunyani.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -298,7 +298,7 @@
 | Partido Popular (EPP) | 0 | 24 | 0% | 22–24 | 21–25 | 21–25 | 21–25 |
 | Partido Socialista Obrero Español (S&D) | 0 | 20 | 0% | 20–21 | 19–21 | 18–21 | 18–22 |
 | Vox (PfE) | 0 | 7 | 0% | 7–8 | 6–8 | 6–8 | 6–9 |
-| Se Acabó La Fiesta (*) – Unión del Pueblo Navarro (*) | 0 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Unión del Pueblo Navarro (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Partido Popular (EPP)
 
@@ -385,18 +385,13 @@
 | 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% |  |
 
-### Se Acabó La Fiesta (*) – Unión del Pueblo Navarro (*)
+### Unión del Pueblo Navarro (*)
 
-![Graph with seats probability mass function not yet produced](2024-07-20-SocioMétrica-coalitions-seats-pmf-salf–upn.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-07-20-SocioMétrica-coalitions-seats-pmf-upn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0.3% | 100% |  |
-| 2 | 68% | 99.7% | Median |
-| 3 | 32% | 32% |  |
-| 4 | 0.4% | 0.4% |  |
-| 5 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Technical Information

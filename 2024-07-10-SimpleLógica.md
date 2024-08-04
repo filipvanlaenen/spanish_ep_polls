@@ -15,7 +15,7 @@
 | Vox (PfE) | 0.0% | 10.5% | 9.1–12.2% |8.7–12.7% |8.4–13.1% |7.7–14.0% |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA) | 0.0% | 5.3% | 4.3–6.7% |4.1–7.0% |3.8–7.4% |3.4–8.0% |
 | Movimiento Sumar–Izquierda Unida (GUE/NGL) | 0.0% | 3.3% | 2.5–4.4% |2.3–4.7% |2.2–5.0% |1.8–5.6% |
-| Se Acabó La Fiesta (*) | 0.0% | 3.1% | 2.4–4.2% |2.2–4.5% |2.0–4.8% |1.7–5.4% |
+| Se Acabó La Fiesta (NI) | 0.0% | 3.1% | 2.4–4.2% |2.2–4.5% |2.0–4.8% |1.7–5.4% |
 | Podemos (GUE/NGL) | 0.0% | 2.7% | 2.0–3.7% |1.8–4.0% |1.7–4.2% |1.4–4.8% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -35,7 +35,7 @@
 | <a href="#vox-(pfe)">Vox (PfE)</a> | 0 | 7 | 6–8 |6–8 |5–9 |5–9 |
 | <a href="#movimiento-sumar–catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 3 | 3–4 |2–4 |2–5 |2–5 |
 | <a href="#movimiento-sumar–izquierda-unida-(gue/ngl)">Movimiento Sumar–Izquierda Unida (GUE/NGL)</a> | 0 | 2 | 1–3 |1–3 |1–3 |1–3 |
-| <a href="#se-acabó-la-fiesta-(*)">Se Acabó La Fiesta (*)</a> | 0 | 2 | 1–2 |1–3 |1–3 |1–3 |
+| <a href="#se-acabó-la-fiesta-(ni)">Se Acabó La Fiesta (NI)</a> | 0 | 2 | 1–2 |1–3 |1–3 |1–3 |
 | <a href="#podemos-(gue/ngl)">Podemos (GUE/NGL)</a> | 0 | 1 | 1–2 |1–2 |1–2 |0–3 |
 
 ### Partido Popular (EPP)
@@ -167,11 +167,11 @@
 | 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% |  |
 
-### Se Acabó La Fiesta (*)
+### Se Acabó La Fiesta (NI)
 
-*For a full overview of the results for this party, see the [Se Acabó La Fiesta (*)](party-seacabólafiesta.html) page.*
+*For a full overview of the results for this party, see the [Se Acabó La Fiesta (NI)](party-seacabólafiestani.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-07-10-SimpleLógica-seats-pmf-seacabólafiesta.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-07-10-SimpleLógica-seats-pmf-seacabólafiestani.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
