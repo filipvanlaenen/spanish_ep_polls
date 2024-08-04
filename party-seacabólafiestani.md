@@ -52,7 +52,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [22 July 2024](2024-07-22-TargetPoint.html) | Target Point <br> El Debate | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
 | [18–20 July 2024](2024-07-20-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–10 July 2024](2024-07-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| [1–4 July 2024](2024-07-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [1–4 July 2024](2024-07-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [1–4 July 2024](2024-07-04-CIS.html) | CIS |  |  |  |  |  |
 | [25–28 June 2024](2024-06-28-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
@@ -70,9 +70,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 7% | 100% |  |
-| 2 | 70% | 93% | Median |
-| 3 | 22% | 23% |  |
+| 1 | 8% | 100% |  |
+| 2 | 66% | 92% | Median |
+| 3 | 25% | 26% |  |
 | 4 | 1.1% | 1.2% |  |
 | 5 | 0% | 0% |  |
 
