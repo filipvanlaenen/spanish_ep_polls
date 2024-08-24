@@ -14,6 +14,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–8 August 2024](2024-08-08-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.1% | 2.7–3.6% | 2.5–3.8% | 2.4–3.9% | 2.2–4.2% |
 | [22 July 2024](2024-07-22-TargetPoint.html) | Target Point <br> El Debate | 4.1% | 3.2–5.2% | 3.0–5.6% | 2.8–5.9% | 2.4–6.5% |
 | [18–20 July 2024](2024-07-20-SocioMétrica.html) | SocioMétrica <br> El Español | 4.1% | 3.4–4.9% | 3.2–5.2% | 3.1–5.4% | 2.8–5.8% |
+| [12–18 July 2024](2024-07-18-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.9% | 2.5–3.4% | 2.4–3.5% | 2.3–3.6% | 2.1–3.9% |
 | [1–10 July 2024](2024-07-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 3.1% | 2.4–4.2% | 2.2–4.5% | 2.0–4.8% | 1.7–5.4% |
 | [1–4 July 2024](2024-07-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [1–4 July 2024](2024-07-04-CIS.html) | CIS | 2.7% | 2.4–3.1% | 2.3–3.2% | 2.2–3.2% | 2.1–3.4% |
@@ -53,6 +54,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [5–8 August 2024](2024-08-08-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22 July 2024](2024-07-22-TargetPoint.html) | Target Point <br> El Debate | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
 | [18–20 July 2024](2024-07-20-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [12–18 July 2024](2024-07-18-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–10 July 2024](2024-07-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [1–4 July 2024](2024-07-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [1–4 July 2024](2024-07-04-CIS.html) | CIS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
