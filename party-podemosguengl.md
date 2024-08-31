@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.7–5.1% | 2.3–5.6% | 2.1–6.0% | 1.7–6.8% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.8–5.1% | 2.5–5.6% | 2.3–6.0% | 1.9–6.8% |
+| [20–23 August 2024](2024-08-23-NCReport.html) | NC Report <br> La Razón | 3.5% | 2.7–4.6% | 2.5–4.9% | 2.3–5.2% | 2.0–5.8% |
+| [1–9 August 2024](2024-08-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 3.0% | 2.3–4.0% | 2.1–4.3% | 1.9–4.6% | 1.6–5.1% |
 | [5–8 August 2024](2024-08-08-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.4% | 2.9–3.9% | 2.8–4.1% | 2.7–4.3% | 2.5–4.5% |
 | [22 July 2024](2024-07-22-TargetPoint.html) | Target Point <br> El Debate | 4.8% | 3.9–6.1% | 3.6–6.5% | 3.4–6.8% | 3.0–7.5% |
 | [18–20 July 2024](2024-07-20-SocioMétrica.html) | SocioMétrica <br> El Español | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
@@ -32,10 +34,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 8% | 99.7% |  |
-| 2.5–3.5% | 37% | 92% |  |
-| 3.5–4.5% | 37% | 56% | Median |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 6% | 99.9% |  |
+| 2.5–3.5% | 40% | 94% |  |
+| 3.5–4.5% | 37% | 54% | Median |
 | 4.5–5.5% | 13% | 18% |  |
 | 5.5–6.5% | 4% | 5% |  |
 | 6.5–7.5% | 0.8% | 0.8% |  |
@@ -51,7 +53,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
+| [20–23 August 2024](2024-08-23-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
+| [1–9 August 2024](2024-08-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [5–8 August 2024](2024-08-08-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [22 July 2024](2024-07-22-TargetPoint.html) | Target Point <br> El Debate | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [18–20 July 2024](2024-07-20-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 2–3 | 2–3 | 1–3 |
@@ -74,10 +78,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 13% | 99.9% |  |
-| 2 | 66% | 87% | Median |
-| 3 | 16% | 20% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 9% | 100% |  |
+| 2 | 62% | 91% | Median |
+| 3 | 24% | 29% |  |
 | 4 | 4% | 4% |  |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
