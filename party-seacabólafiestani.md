@@ -57,8 +57,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
-| [3–6 September 2024](2024-09-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2 | 2 | 2 | 2–3 | 1–3 |
-| [26–31 August 2024](2024-08-31-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 3 | 3 | 2–3 | 2–3 |
+| [3–6 September 2024](2024-09-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [26–31 August 2024](2024-08-31-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [22–29 August 2024](2024-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [20–23 August 2024](2024-08-23-NCReport.html) | NC Report <br> La Razón | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [19–23 August 2024](2024-08-23-40dB.html) | 40dB <br> Prisa | 3 | 3 | 2–4 | 2–4 | 2–4 |
@@ -88,7 +88,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 5% | 100% |  |
 | 2 | 55% | 95% | Median |
-| 3 | 38% | 40% |  |
+| 3 | 39% | 41% |  |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
