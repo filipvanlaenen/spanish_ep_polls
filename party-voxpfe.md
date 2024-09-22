@@ -66,10 +66,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
 | [3–6 September 2024](2024-09-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 8 | 7–8 | 7–8 | 6–8 | 5–9 |
-| [2–6 September 2024](2024-09-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 6 | 6–7 | 5–8 | 5–8 | 5–9 |
-| [2–6 September 2024](2024-09-06-CIS.html) | CIS | 9 | 9 | 8–9 | 8–10 | 8–10 |
+| [2–6 September 2024](2024-09-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
+| [2–6 September 2024](2024-09-06-CIS.html) | CIS | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [26–31 August 2024](2024-08-31-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [22–29 August 2024](2024-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [20–23 August 2024](2024-08-23-NCReport.html) | NC Report <br> La Razón | 6 | 6 | 6 | 5–7 | 5–8 |
@@ -102,12 +102,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 3% | 100% |  |
-| 6 | 28% | 97% |  |
-| 7 | 29% | 69% | Median |
+| 5 | 2% | 100% |  |
+| 6 | 27% | 98% |  |
+| 7 | 31% | 70% | Median |
 | 8 | 28% | 40% |  |
-| 9 | 12% | 13% |  |
-| 10 | 0.5% | 0.5% |  |
+| 9 | 11% | 11% |  |
+| 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
 

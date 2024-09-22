@@ -87,9 +87,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 19–24 | 18–24 | 18–24 | 18–24 |
+| N/A | [Poll Average](average.html) | 20 | 19–23 | 19–24 | 18–24 | 18–24 |
 | [3–6 September 2024](2024-09-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
-| [2–6 September 2024](2024-09-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 19 | 18–21 | 18–22 | 18–22 | 18–22 |
+| [2–6 September 2024](2024-09-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 20 | 19–20 | 18–20 | 18–21 | 18–22 |
 | [2–6 September 2024](2024-09-06-CIS.html) | CIS | 24 | 23–24 | 22–24 | 22–24 | 22–24 |
 | [26–31 August 2024](2024-08-31-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 20 | 19–20 | 19–21 | 18–22 |
 | [22–29 August 2024](2024-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 20 | 18–20 | 18–21 | 18–21 | 17–21 |
@@ -136,14 +136,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0.4% | 100% |  |
-| 18 | 8% | 99.6% |  |
-| 19 | 9% | 91% |  |
-| 20 | 41% | 82% | Median |
-| 21 | 13% | 41% |  |
-| 22 | 12% | 28% |  |
-| 23 | 6% | 16% |  |
-| 24 | 11% | 11% |  |
-| 25 | 0.1% | 0.1% |  |
+| 18 | 4% | 99.6% |  |
+| 19 | 10% | 96% |  |
+| 20 | 47% | 86% | Median |
+| 21 | 11% | 39% |  |
+| 22 | 11% | 27% |  |
+| 23 | 7% | 16% |  |
+| 24 | 9% | 9% |  |
+| 25 | 0.2% | 0.2% |  |
 | 26 | 0% | 0% |  |
 
 

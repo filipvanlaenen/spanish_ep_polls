@@ -59,8 +59,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [3–6 September 2024](2024-09-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
-| [2–6 September 2024](2024-09-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| [2–6 September 2024](2024-09-06-CIS.html) | CIS | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [2–6 September 2024](2024-09-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 2 | 2 | 1–2 | 1–3 |
+| [2–6 September 2024](2024-09-06-CIS.html) | CIS | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26–31 August 2024](2024-08-31-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [22–29 August 2024](2024-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [20–23 August 2024](2024-08-23-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -89,9 +89,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 31% | 100% |  |
-| 2 | 61% | 69% | Median |
-| 3 | 7% | 7% |  |
+| 1 | 30% | 100% |  |
+| 2 | 62% | 70% | Median |
+| 3 | 8% | 8% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 

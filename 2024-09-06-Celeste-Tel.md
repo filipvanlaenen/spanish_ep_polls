@@ -37,18 +37,18 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 25 | 22–25 |22–26 |22–26 |21–27 |
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 19 | 18–21 |18–22 |18–22 |18–22 |
-| <a href="#vox-(pfe)">Vox (PfE)</a> | 0 | 6 | 6–7 |5–8 |5–8 |5–9 |
-| <a href="#movimiento-sumar–catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 3 | 2–3 |2–3 |2–3 |2–4 |
-| <a href="#se-acabó-la-fiesta-(ni)">Se Acabó La Fiesta (NI)</a> | 0 | 2 | 2 |1–2 |1–3 |1–3 |
-| <a href="#podemos-(gue/ngl)">Podemos (GUE/NGL)</a> | 0 | 2 | 1–2 |1–3 |1–3 |1–3 |
-| <a href="#movimiento-sumar–izquierda-unida-(gue/ngl)">Movimiento Sumar–Izquierda Unida (GUE/NGL)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#junts-per-catalunya-(ni)">Junts per Catalunya (NI)</a> | 0 | 1 | 1 |0–1 |0–2 |0–2 |
-| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 0 | 0–1 |0–1 |0–2 |0–2 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 24 | 23–25 |23–25 |22–26 |22–26 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 20 | 19–20 |18–20 |18–21 |18–22 |
+| <a href="#vox-(pfe)">Vox (PfE)</a> | 0 | 6 | 6–7 |6–7 |6–8 |5–8 |
+| <a href="#movimiento-sumar–catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 3 | 3 |2–3 |2–3 |1–4 |
+| <a href="#se-acabó-la-fiesta-(ni)">Se Acabó La Fiesta (NI)</a> | 0 | 2 | 1–2 |1–2 |1–3 |1–3 |
+| <a href="#podemos-(gue/ngl)">Podemos (GUE/NGL)</a> | 0 | 2 | 2 |2 |1–2 |1–3 |
+| <a href="#movimiento-sumar–izquierda-unida-(gue/ngl)">Movimiento Sumar–Izquierda Unida (GUE/NGL)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#junts-per-catalunya-(ni)">Junts per Catalunya (NI)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–2 |
+| <a href="#esquerra-republicana-de-catalunya–catalunya-sí-(greens/efa)">Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–2 |
 | <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco-(re)">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#bloque-nacionalista-galego–nós-candidatura-galega-(greens/efa)">Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
+| <a href="#bloque-nacionalista-galego–nós-candidatura-galega-(greens/efa)">Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 | <a href="#coalición-canaria–partido-nacionalista-canario-(re)">Coalición Canaria–Partido Nacionalista Canario (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#unión-del-pueblo-navarro-(*)">Unión del Pueblo Navarro (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -80,16 +80,15 @@
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.2% | 100% |  |
-| 21 | 0.8% | 99.8% |  |
-| 22 | 18% | 99.0% |  |
-| 23 | 12% | 81% |  |
-| 24 | 14% | 69% |  |
-| 25 | 47% | 54% | Median |
-| 26 | 6% | 7% |  |
-| 27 | 1.0% | 1.1% |  |
-| 28 | 0.1% | 0.1% |  |
-| 29 | 0% | 0% |  |
+| 20 | 0.1% | 100% |  |
+| 21 | 0.4% | 99.9% |  |
+| 22 | 4% | 99.5% |  |
+| 23 | 37% | 96% |  |
+| 24 | 37% | 59% | Median |
+| 25 | 19% | 22% |  |
+| 26 | 3% | 3% |  |
+| 27 | 0.2% | 0.2% |  |
+| 28 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -116,12 +115,12 @@
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.4% | 100% |  |
-| 18 | 45% | 99.6% |  |
-| 19 | 15% | 54% | Median |
-| 20 | 19% | 39% |  |
-| 21 | 15% | 20% |  |
-| 22 | 5% | 5% |  |
+| 17 | 0.1% | 100% |  |
+| 18 | 9% | 99.9% |  |
+| 19 | 16% | 91% |  |
+| 20 | 70% | 75% | Median |
+| 21 | 3% | 5% |  |
+| 22 | 1.3% | 1.4% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 
@@ -138,11 +137,11 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 7% | 100% |  |
-| 6 | 58% | 93% | Median |
-| 7 | 26% | 35% |  |
-| 8 | 9% | 10% |  |
-| 9 | 0.9% | 0.9% |  |
+| 5 | 2% | 100% |  |
+| 6 | 52% | 98% | Median |
+| 7 | 43% | 46% |  |
+| 8 | 3% | 3% |  |
+| 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
 ### Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)
@@ -154,10 +153,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 24% | 100% |  |
-| 3 | 74% | 76% | Median |
-| 4 | 2% | 2% |  |
+| 1 | 0.9% | 100% |  |
+| 2 | 6% | 99.1% |  |
+| 3 | 92% | 93% | Median |
+| 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 
 ### Se Acabó La Fiesta (NI)
@@ -169,9 +168,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 10% | 100% |  |
-| 2 | 85% | 90% | Median |
-| 3 | 5% | 5% |  |
+| 1 | 33% | 100% |  |
+| 2 | 64% | 67% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 ### Podemos (GUE/NGL)
@@ -183,9 +182,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 14% | 100% |  |
-| 2 | 80% | 86% | Median |
-| 3 | 6% | 6% |  |
+| 1 | 5% | 100% |  |
+| 2 | 94% | 95% | Median |
+| 3 | 1.4% | 1.4% |  |
 | 4 | 0% | 0% |  |
 
 ### Movimiento Sumar–Izquierda Unida (GUE/NGL)
@@ -197,9 +196,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 42% | 100% |  |
-| 2 | 58% | 58% | Median |
-| 3 | 0.3% | 0.3% |  |
+| 1 | 55% | 100% | Median |
+| 2 | 45% | 45% |  |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 ### Junts per Catalunya (NI)
@@ -210,9 +209,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 89% | 92% | Median |
-| 2 | 3% | 3% |  |
+| 0 | 39% | 100% | Last Result |
+| 1 | 60% | 61% | Median |
+| 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA)
@@ -223,9 +222,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Last Result, Median |
-| 1 | 47% | 50% |  |
-| 2 | 3% | 3% |  |
+| 0 | 13% | 100% | Last Result |
+| 1 | 87% | 87% | Median |
+| 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
 ### Euskal Herria Bildu (GUE/NGL)
@@ -236,8 +235,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% | Last Result |
-| 1 | 83% | 83% | Median |
+| 0 | 14% | 100% | Last Result |
+| 1 | 85% | 86% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -249,8 +248,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% | Last Result |
-| 1 | 70% | 70% | Median |
+| 0 | 39% | 100% | Last Result |
+| 1 | 61% | 61% | Median |
 | 2 | 0% | 0% |  |
 
 ### Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA)
@@ -261,8 +260,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Last Result, Median |
-| 1 | 7% | 7% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 
 ### Coalición Canaria–Partido Nacionalista Canario (RE)
@@ -273,8 +272,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.6% | 100% | Last Result, Median |
-| 1 | 0.4% | 0.4% |  |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0.2% | 0.2% |  |
 | 2 | 0% | 0% |  |
 
 ### Unión del Pueblo Navarro (*)
@@ -296,9 +295,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Popular (EPP) | 0 | 25 | 0% | 22–25 | 22–26 | 22–26 | 21–27 |
-| Partido Socialista Obrero Español (S&D) | 0 | 19 | 0% | 18–21 | 18–22 | 18–22 | 18–22 |
-| Vox (PfE) | 0 | 6 | 0% | 6–7 | 5–8 | 5–8 | 5–9 |
+| Partido Popular (EPP) | 0 | 24 | 0% | 23–25 | 23–25 | 22–26 | 22–26 |
+| Partido Socialista Obrero Español (S&D) | 0 | 20 | 0% | 19–20 | 18–20 | 18–21 | 18–22 |
+| Vox (PfE) | 0 | 6 | 0% | 6–7 | 6–7 | 6–8 | 5–8 |
 | Unión del Pueblo Navarro (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Partido Popular (EPP)
@@ -327,16 +326,15 @@
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.2% | 100% |  |
-| 21 | 0.8% | 99.8% |  |
-| 22 | 18% | 99.0% |  |
-| 23 | 12% | 81% |  |
-| 24 | 14% | 69% |  |
-| 25 | 47% | 54% | Median |
-| 26 | 6% | 7% |  |
-| 27 | 1.0% | 1.1% |  |
-| 28 | 0.1% | 0.1% |  |
-| 29 | 0% | 0% |  |
+| 20 | 0.1% | 100% |  |
+| 21 | 0.4% | 99.9% |  |
+| 22 | 4% | 99.5% |  |
+| 23 | 37% | 96% |  |
+| 24 | 37% | 59% | Median |
+| 25 | 19% | 22% |  |
+| 26 | 3% | 3% |  |
+| 27 | 0.2% | 0.2% |  |
+| 28 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
 
@@ -361,12 +359,12 @@
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.4% | 100% |  |
-| 18 | 45% | 99.6% |  |
-| 19 | 15% | 54% | Median |
-| 20 | 19% | 39% |  |
-| 21 | 15% | 20% |  |
-| 22 | 5% | 5% |  |
+| 17 | 0.1% | 100% |  |
+| 18 | 9% | 99.9% |  |
+| 19 | 16% | 91% |  |
+| 20 | 70% | 75% | Median |
+| 21 | 3% | 5% |  |
+| 22 | 1.3% | 1.4% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 
@@ -381,11 +379,11 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 7% | 100% |  |
-| 6 | 58% | 93% | Median |
-| 7 | 26% | 35% |  |
-| 8 | 9% | 10% |  |
-| 9 | 0.9% | 0.9% |  |
+| 5 | 2% | 100% |  |
+| 6 | 52% | 98% | Median |
+| 7 | 43% | 46% |  |
+| 8 | 3% | 3% |  |
+| 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
 ### Unión del Pueblo Navarro (*)
@@ -408,6 +406,6 @@
 ### Calculations
 
 + **Sample size:** 1100
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 3.78%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 3.54%
 

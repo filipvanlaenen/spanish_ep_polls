@@ -92,10 +92,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 20–25 | 20–25 | 20–26 | 19–26 |
+| N/A | [Poll Average](average.html) | 24 | 20–25 | 20–25 | 19–26 | 19–26 |
 | [3–6 September 2024](2024-09-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 24 | 22–24 | 21–25 | 21–26 | 21–26 |
-| [2–6 September 2024](2024-09-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 25 | 22–25 | 22–26 | 22–26 | 21–27 |
-| [2–6 September 2024](2024-09-06-CIS.html) | CIS | 20 | 19–20 | 19–21 | 19–21 | 19–21 |
+| [2–6 September 2024](2024-09-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 24 | 23–25 | 23–25 | 22–26 | 22–26 |
+| [2–6 September 2024](2024-09-06-CIS.html) | CIS | 20 | 19–20 | 19–20 | 19–21 | 19–21 |
 | [26–31 August 2024](2024-08-31-SocioMétrica.html) | SocioMétrica <br> El Español | 22 | 22–23 | 22–24 | 22–24 | 21–25 |
 | [22–29 August 2024](2024-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 25 | 24–25 | 24–25 | 24–26 | 23–26 |
 | [20–23 August 2024](2024-08-23-NCReport.html) | NC Report <br> La Razón | 25 | 22–25 | 22–25 | 22–26 | 22–27 |
@@ -142,16 +142,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 2% | 100% |  |
-| 20 | 10% | 98% |  |
-| 21 | 3% | 88% |  |
-| 22 | 15% | 85% |  |
-| 23 | 12% | 70% |  |
-| 24 | 25% | 58% | Median |
-| 25 | 29% | 33% |  |
-| 26 | 3% | 4% |  |
-| 27 | 0.4% | 0.5% |  |
-| 28 | 0.1% | 0.1% |  |
-| 29 | 0% | 0% |  |
+| 19 | 4% | 100% |  |
+| 20 | 8% | 96% |  |
+| 21 | 2% | 88% |  |
+| 22 | 13% | 85% |  |
+| 23 | 15% | 72% |  |
+| 24 | 28% | 57% | Median |
+| 25 | 26% | 29% |  |
+| 26 | 3% | 3% |  |
+| 27 | 0.3% | 0.4% |  |
+| 28 | 0% | 0% |  |
 
 
