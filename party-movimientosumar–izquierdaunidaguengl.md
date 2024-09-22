@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 2.0–3.3% | 1.8–3.6% | 1.7–3.9% | 1.4–4.5% |
+| N/A | [Poll Average](average.html) | 2.6% | 2.0–3.3% | 1.9–3.5% | 1.7–3.8% | 1.4–4.4% |
 | [3–6 September 2024](2024-09-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
+| [2–6 September 2024](2024-09-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2.6% | 2.1–3.4% | 2.0–3.6% | 1.8–3.8% | 1.6–4.1% |
+| [2–6 September 2024](2024-09-06-CIS.html) | CIS | 3.0% | 2.7–3.4% | 2.6–3.5% | 2.5–3.6% | 2.3–3.7% |
 | [26–31 August 2024](2024-08-31-SocioMétrica.html) | SocioMétrica <br> El Español | 2.3% | 2.0–2.8% | 1.9–2.9% | 1.8–3.0% | 1.6–3.3% |
 | [22–29 August 2024](2024-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.6% | 2.2–3.1% | 2.1–3.2% | 2.0–3.3% | 1.9–3.6% |
 | [20–23 August 2024](2024-08-23-NCReport.html) | NC Report <br> La Razón | 2.3% | 1.7–3.2% | 1.5–3.5% | 1.4–3.7% | 1.2–4.3% |
@@ -38,11 +40,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 1.3% | 100% |  |
-| 1.5–2.5% | 52% | 98.7% |  |
-| 2.5–3.5% | 41% | 46% | Median |
+| 0.5–1.5% | 1.0% | 100% |  |
+| 1.5–2.5% | 44% | 99.0% |  |
+| 2.5–3.5% | 50% | 55% | Median |
 | 3.5–4.5% | 5% | 5% |  |
-| 4.5–5.5% | 0.4% | 0.5% |  |
+| 4.5–5.5% | 0.3% | 0.4% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -54,13 +56,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [3–6 September 2024](2024-09-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [2–6 September 2024](2024-09-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [2–6 September 2024](2024-09-06-CIS.html) | CIS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26–31 August 2024](2024-08-31-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1 | 1 | 1–2 |
 | [22–29 August 2024](2024-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [20–23 August 2024](2024-08-23-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [19–23 August 2024](2024-08-23-40dB.html) | 40dB <br> Prisa | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [1–9 August 2024](2024-08-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [20–23 August 2024](2024-08-23-NCReport.html) | NC Report <br> La Razón | 1 | 1 | 1 | 1–2 | 1–2 |
+| [19–23 August 2024](2024-08-23-40dB.html) | 40dB <br> Prisa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–9 August 2024](2024-08-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [5–8 August 2024](2024-08-08-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22 July 2024](2024-07-22-TargetPoint.html) | Target Point <br> El Debate | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [18–20 July 2024](2024-07-20-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -83,10 +87,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.6% | 100% | Last Result |
-| 1 | 68% | 99.4% | Median |
-| 2 | 31% | 31% |  |
-| 3 | 0.9% | 1.0% |  |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 66% | 99.7% | Median |
+| 2 | 33% | 34% |  |
+| 3 | 0.7% | 0.7% |  |
 | 4 | 0% | 0% |  |
 
 

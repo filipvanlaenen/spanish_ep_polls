@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.4% | 27.6–31.5% | 27.1–32.2% | 26.5–32.8% | 25.4–34.1% |
+| N/A | [Poll Average](average.html) | 29.7% | 27.8–32.8% | 27.2–33.4% | 26.7–33.8% | 25.6–34.5% |
 | [3–6 September 2024](2024-09-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 29.2% | 27.4–31.1% | 26.9–31.6% | 26.5–32.1% | 25.6–33.0% |
+| [2–6 September 2024](2024-09-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 29.6% | 27.9–31.5% | 27.4–32.0% | 27.0–32.4% | 26.2–33.3% |
+| [2–6 September 2024](2024-09-06-CIS.html) | CIS | 33.0% | 32.1–34.0% | 31.8–34.2% | 31.6–34.5% | 31.1–34.9% |
 | [26–31 August 2024](2024-08-31-SocioMétrica.html) | SocioMétrica <br> El Español | 29.1% | 27.9–30.3% | 27.6–30.7% | 27.3–31.0% | 26.7–31.6% |
 | [22–29 August 2024](2024-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 28.8% | 27.6–30.0% | 27.3–30.3% | 27.0–30.7% | 26.4–31.2% |
 | [20–23 August 2024](2024-08-23-NCReport.html) | NC Report <br> La Razón | 28.7% | 26.5–31.0% | 25.9–31.7% | 25.4–32.3% | 24.3–33.4% |
@@ -62,18 +64,18 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0.1% | 100% |  |
-| 24.5–25.5% | 0.5% | 99.9% |  |
-| 25.5–26.5% | 2% | 99.4% |  |
-| 26.5–27.5% | 7% | 97% |  |
-| 27.5–28.5% | 17% | 91% |  |
-| 28.5–29.5% | 27% | 73% | Median |
-| 29.5–30.5% | 23% | 47% |  |
-| 30.5–31.5% | 14% | 24% |  |
-| 31.5–32.5% | 6% | 10% |  |
-| 32.5–33.5% | 2% | 3% |  |
-| 33.5–34.5% | 0.7% | 1.0% |  |
-| 34.5–35.5% | 0.2% | 0.3% |  |
-| 35.5–36.5% | 0.1% | 0.1% |  |
+| 24.5–25.5% | 0.4% | 99.9% |  |
+| 25.5–26.5% | 2% | 99.5% |  |
+| 26.5–27.5% | 6% | 98% |  |
+| 27.5–28.5% | 15% | 92% |  |
+| 28.5–29.5% | 23% | 77% |  |
+| 29.5–30.5% | 21% | 54% | Median |
+| 30.5–31.5% | 13% | 34% |  |
+| 31.5–32.5% | 9% | 21% |  |
+| 32.5–33.5% | 8% | 12% |  |
+| 33.5–34.5% | 3% | 4% |  |
+| 34.5–35.5% | 0.4% | 0.5% |  |
+| 35.5–36.5% | 0% | 0.1% |  |
 | 36.5–37.5% | 0% | 0% |  |
 
 
@@ -85,13 +87,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 19–22 | 19–23 | 18–23 | 17–24 |
+| N/A | [Poll Average](average.html) | 20 | 19–24 | 18–24 | 18–24 | 18–24 |
 | [3–6 September 2024](2024-09-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
+| [2–6 September 2024](2024-09-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 19 | 18–21 | 18–22 | 18–22 | 18–22 |
+| [2–6 September 2024](2024-09-06-CIS.html) | CIS | 24 | 23–24 | 22–24 | 22–24 | 22–24 |
 | [26–31 August 2024](2024-08-31-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 20 | 19–20 | 19–21 | 18–22 |
-| [22–29 August 2024](2024-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 20 | 19–21 | 19–21 | 19–21 | 18–21 |
-| [20–23 August 2024](2024-08-23-NCReport.html) | NC Report <br> La Razón | 20 | 19–22 | 18–22 | 17–22 | 16–23 |
+| [22–29 August 2024](2024-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 20 | 18–20 | 18–21 | 18–21 | 17–21 |
+| [20–23 August 2024](2024-08-23-NCReport.html) | NC Report <br> La Razón | 20 | 20 | 19–20 | 18–21 | 18–22 |
 | [19–23 August 2024](2024-08-23-40dB.html) | 40dB <br> Prisa | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
-| [1–9 August 2024](2024-08-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 21 | 20–23 | 19–24 | 19–24 | 18–25 |
+| [1–9 August 2024](2024-08-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 21 | 20–23 | 19–23 | 19–24 | 18–25 |
 | [5–8 August 2024](2024-08-08-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 19–21 | 19–21 | 19–21 | 18–22 |
 | [22 July 2024](2024-07-22-TargetPoint.html) | Target Point <br> El Debate | 21 | 20–23 | 19–23 | 19–24 | 18–25 |
 | [18–20 July 2024](2024-07-20-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 20–21 | 19–21 | 18–21 | 18–22 |
@@ -130,16 +134,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.1% | 100% |  |
-| 17 | 0.6% | 99.9% |  |
-| 18 | 2% | 99.3% |  |
-| 19 | 16% | 97% |  |
-| 20 | 42% | 81% | Median |
-| 21 | 16% | 39% |  |
-| 22 | 17% | 24% |  |
-| 23 | 6% | 7% |  |
-| 24 | 0.9% | 1.0% |  |
-| 25 | 0.1% | 0.2% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0.4% | 100% |  |
+| 18 | 8% | 99.6% |  |
+| 19 | 9% | 91% |  |
+| 20 | 41% | 82% | Median |
+| 21 | 13% | 41% |  |
+| 22 | 12% | 28% |  |
+| 23 | 6% | 16% |  |
+| 24 | 11% | 11% |  |
+| 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
 

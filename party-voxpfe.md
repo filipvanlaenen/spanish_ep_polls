@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.5% | 9.1–11.9% | 8.7–12.3% | 8.3–12.7% | 7.6–13.6% |
+| N/A | [Poll Average](average.html) | 10.7% | 9.2–12.9% | 8.8–13.3% | 8.5–13.6% | 7.7–14.1% |
 | [3–6 September 2024](2024-09-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 11.3% | 10.1–12.7% | 9.8–13.1% | 9.5–13.4% | 8.9–14.1% |
+| [2–6 September 2024](2024-09-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 10.4% | 9.3–11.6% | 9.0–12.0% | 8.7–12.3% | 8.2–12.9% |
+| [2–6 September 2024](2024-09-06-CIS.html) | CIS | 13.1% | 12.4–13.8% | 12.3–14.0% | 12.1–14.2% | 11.8–14.5% |
 | [26–31 August 2024](2024-08-31-SocioMétrica.html) | SocioMétrica <br> El Español | 11.1% | 10.3–12.0% | 10.1–12.2% | 9.9–12.4% | 9.5–12.9% |
 | [22–29 August 2024](2024-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 9.6% | 8.9–10.4% | 8.7–10.7% | 8.5–10.9% | 8.1–11.3% |
 | [20–23 August 2024](2024-08-23-NCReport.html) | NC Report <br> La Razón | 9.6% | 8.3–11.2% | 7.9–11.7% | 7.6–12.1% | 7.0–13.0% |
@@ -44,15 +46,15 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.4% | 100% |  |
-| 7.5–8.5% | 3% | 99.6% |  |
-| 8.5–9.5% | 16% | 96% |  |
-| 9.5–10.5% | 31% | 80% |  |
-| 10.5–11.5% | 32% | 49% | Median |
-| 11.5–12.5% | 14% | 17% |  |
-| 12.5–13.5% | 3% | 4% |  |
-| 13.5–14.5% | 0.5% | 0.5% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.3% | 100% |  |
+| 7.5–8.5% | 3% | 99.7% |  |
+| 8.5–9.5% | 14% | 97% |  |
+| 9.5–10.5% | 28% | 83% |  |
+| 10.5–11.5% | 28% | 55% | Median |
+| 11.5–12.5% | 13% | 27% |  |
+| 12.5–13.5% | 11% | 14% |  |
+| 13.5–14.5% | 3% | 3% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -64,11 +66,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–9 | 5–9 |
 | [3–6 September 2024](2024-09-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 8 | 7–8 | 7–8 | 6–8 | 5–9 |
+| [2–6 September 2024](2024-09-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 6 | 6–7 | 5–8 | 5–8 | 5–9 |
+| [2–6 September 2024](2024-09-06-CIS.html) | CIS | 9 | 9 | 8–9 | 8–10 | 8–10 |
 | [26–31 August 2024](2024-08-31-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–8 | 6–8 | 6–8 |
-| [22–29 August 2024](2024-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 5–8 | 5–8 | 5–8 | 5–8 |
-| [20–23 August 2024](2024-08-23-NCReport.html) | NC Report <br> La Razón | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
+| [22–29 August 2024](2024-08-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
+| [20–23 August 2024](2024-08-23-NCReport.html) | NC Report <br> La Razón | 6 | 6 | 6 | 5–7 | 5–8 |
 | [19–23 August 2024](2024-08-23-40dB.html) | 40dB <br> Prisa | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [1–9 August 2024](2024-08-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | [5–8 August 2024](2024-08-08-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 6–7 | 6–7 | 5–7 | 5–8 |
@@ -97,13 +101,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.1% | 100% |  |
-| 5 | 7% | 99.9% |  |
-| 6 | 17% | 93% |  |
-| 7 | 39% | 76% | Median |
-| 8 | 35% | 36% |  |
-| 9 | 1.3% | 1.4% |  |
-| 10 | 0.1% | 0.1% |  |
+| 4 | 0% | 100% |  |
+| 5 | 3% | 100% |  |
+| 6 | 28% | 97% |  |
+| 7 | 29% | 69% | Median |
+| 8 | 28% | 40% |  |
+| 9 | 12% | 13% |  |
+| 10 | 0.5% | 0.5% |  |
 | 11 | 0% | 0% |  |
 
 
