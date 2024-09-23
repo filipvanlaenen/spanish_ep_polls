@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 22 Sep 2024 17:44:50 +0200</pubDate>
+    <pubDate>Mon, 23 Sep 2024 18:28:31 +0200</pubDate>
     <item>
       <title>Opinion Poll by Hamalgama Métrica for VozPópuli, 3–6 September 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2024-09-06-HamalgamaMétrica.html#seats</link>
@@ -286,8 +286,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2024-07-22-TargetPoint-seats.png"
         length="247390"
         type="image/png"/>
-      <pubDate>Sun, 04 Aug 2024 11:02:59 +0200</pubDate>
-      <dc:date>2024-08-04T11:02:59.103127+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2024 18:28:31 +0200</pubDate>
+      <dc:date>2024-09-23T18:28:31.410612+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Target Point for El Debate, 22 July 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -296,8 +296,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2024-07-22-TargetPoint-coalitions-seats.png"
         length="216122"
         type="image/png"/>
-      <pubDate>Sun, 04 Aug 2024 11:02:59 +0200</pubDate>
-      <dc:date>2024-08-04T11:02:59.103127+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2024 18:28:31 +0200</pubDate>
+      <dc:date>2024-09-23T18:28:31.410612+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Target Point for El Debate, 22 July 2024 – Voting Intentions</title>
@@ -306,8 +306,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2024-07-22-TargetPoint.png"
         length="282595"
         type="image/png"/>
-      <pubDate>Sun, 04 Aug 2024 11:02:59 +0200</pubDate>
-      <dc:date>2024-08-04T11:02:59.103127+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2024 18:28:31 +0200</pubDate>
+      <dc:date>2024-09-23T18:28:31.410612+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 18–20 July 2024 – Seat Projections for the Parties</title>
@@ -579,6 +579,6 @@
       <pubDate>Sun, 04 Aug 2024 15:37:20 +0200</pubDate>
       <dc:date>2024-08-04T15:37:20.095378+02:00</dc:date>
     </item>
-    <dc:date>2024-09-22T17:44:50.10764+02:00</dc:date>
+    <dc:date>2024-09-23T18:28:31.410612+02:00</dc:date>
   </channel>
 </rss>
