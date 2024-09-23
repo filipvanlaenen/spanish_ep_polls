@@ -70,7 +70,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–20 July 2024](2024-07-20-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–18 July 2024](2024-07-18-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–10 July 2024](2024-07-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [1–4 July 2024](2024-07-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 1 | 1 | 1 | 0–2 |
+| [1–4 July 2024](2024-07-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 1 | 1 | 1–2 | 0–2 |
 | [1–4 July 2024](2024-07-04-CIS.html) | CIS | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [25–28 June 2024](2024-06-28-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 1 | 1–2 | 1–2 |
