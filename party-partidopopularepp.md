@@ -102,7 +102,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [19–23 August 2024](2024-08-23-40dB.html) | 40dB <br> Prisa | 24 | 23–25 | 23–26 | 23–26 | 22–26 |
 | [1–9 August 2024](2024-08-09-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 24 | 22–25 | 21–26 | 21–26 | 20–27 |
 | [5–8 August 2024](2024-08-08-SigmaDos.html) | Sigma Dos <br> El Mundo | 25 | 23–27 | 23–27 | 22–27 | 22–27 |
-| [22 July 2024](2024-07-22-TargetPoint.html) | Target Point <br> El Debate | 24 | 22–25 | 21–25 | 21–26 | 21–27 |
+| [22 July 2024](2024-07-22-TargetPoint.html) | Target Point <br> El Debate | 24 | 22–25 | 21–26 | 21–26 | 20–27 |
 | [18–20 July 2024](2024-07-20-SocioMétrica.html) | SocioMétrica <br> El Español | 24 | 22–24 | 21–25 | 21–25 | 21–25 |
 | [12–18 July 2024](2024-07-18-SigmaDos.html) | Sigma Dos <br> El Mundo | 24 | 24–25 | 23–25 | 23–25 | 23–25 |
 | [1–10 July 2024](2024-07-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 23 | 22–25 | 21–26 | 21–26 | 20–27 |
