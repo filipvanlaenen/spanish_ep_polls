@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.7% | 27.8–32.8% | 27.2–33.4% | 26.7–33.8% | 25.6–34.5% |
+| N/A | [Poll Average](average.html) | 29.9% | 27.9–32.5% | 27.4–33.2% | 26.9–33.6% | 25.7–34.3% |
+| [16–20 September 2024](2024-09-20-InvyMark.html) | InvyMark <br> laSexta | 30.1% | 28.4–31.8% | 28.0–32.3% | 27.5–32.8% | 26.8–33.6% |
+| [18–19 September 2024](2024-09-19-TargetPoint.html) | Target Point <br> El Debate | 30.3% | 28.5–32.2% | 27.9–32.7% | 27.5–33.2% | 26.6–34.1% |
+| [1–13 September 2024](2024-09-13-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 30.6% | 28.8–32.5% | 28.3–33.0% | 27.9–33.5% | 27.0–34.4% |
 | [3–6 September 2024](2024-09-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 29.2% | 27.4–31.1% | 26.9–31.6% | 26.5–32.1% | 25.6–33.0% |
 | [2–6 September 2024](2024-09-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 29.6% | 27.9–31.5% | 27.4–32.0% | 27.0–32.4% | 26.2–33.3% |
 | [2–6 September 2024](2024-09-06-CIS.html) | CIS | 33.0% | 32.1–34.0% | 31.8–34.2% | 31.6–34.5% | 31.1–34.9% |
@@ -64,19 +67,18 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0.1% | 100% |  |
-| 24.5–25.5% | 0.4% | 99.9% |  |
-| 25.5–26.5% | 2% | 99.5% |  |
-| 26.5–27.5% | 6% | 98% |  |
-| 27.5–28.5% | 15% | 92% |  |
-| 28.5–29.5% | 23% | 77% |  |
-| 29.5–30.5% | 21% | 54% | Median |
-| 30.5–31.5% | 13% | 34% |  |
-| 31.5–32.5% | 9% | 21% |  |
-| 32.5–33.5% | 8% | 12% |  |
-| 33.5–34.5% | 3% | 4% |  |
-| 34.5–35.5% | 0.4% | 0.5% |  |
-| 35.5–36.5% | 0% | 0.1% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 24.5–25.5% | 0.3% | 99.9% |  |
+| 25.5–26.5% | 1.2% | 99.6% |  |
+| 26.5–27.5% | 5% | 98% |  |
+| 27.5–28.5% | 13% | 94% |  |
+| 28.5–29.5% | 23% | 80% |  |
+| 29.5–30.5% | 22% | 58% | Median |
+| 30.5–31.5% | 16% | 35% |  |
+| 31.5–32.5% | 10% | 19% |  |
+| 32.5–33.5% | 7% | 10% |  |
+| 33.5–34.5% | 3% | 3% |  |
+| 34.5–35.5% | 0.3% | 0.3% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -88,6 +90,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 19–23 | 19–24 | 18–24 | 18–24 |
+| [16–20 September 2024](2024-09-20-InvyMark.html) | InvyMark <br> laSexta | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
+| [18–19 September 2024](2024-09-19-TargetPoint.html) | Target Point <br> El Debate | 21 | 20–22 | 19–23 | 19–23 | 18–24 |
+| [1–13 September 2024](2024-09-13-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 22 | 20–23 | 20–23 | 20–24 | 19–24 |
 | [3–6 September 2024](2024-09-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
 | [2–6 September 2024](2024-09-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 20 | 19–20 | 18–20 | 18–21 | 18–22 |
 | [2–6 September 2024](2024-09-06-CIS.html) | CIS | 24 | 23–24 | 22–24 | 22–24 | 22–24 |
@@ -135,14 +140,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.4% | 100% |  |
-| 18 | 4% | 99.6% |  |
-| 19 | 10% | 96% |  |
-| 20 | 47% | 86% | Median |
-| 21 | 11% | 39% |  |
-| 22 | 11% | 27% |  |
-| 23 | 7% | 16% |  |
-| 24 | 9% | 9% |  |
+| 17 | 0.3% | 100% |  |
+| 18 | 3% | 99.7% |  |
+| 19 | 8% | 97% |  |
+| 20 | 40% | 89% | Median |
+| 21 | 15% | 49% |  |
+| 22 | 16% | 34% |  |
+| 23 | 9% | 17% |  |
+| 24 | 8% | 8% |  |
 | 25 | 0.2% | 0.2% |  |
 | 26 | 0% | 0% |  |
 
