@@ -112,7 +112,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 22 | 22 | 22 | 21–22 | 19–23 |
 | [21–24 June 2024](2024-06-24-40dB.html) | 40dB <br> Prisa | 22 | 21–23 | 21–24 | 21–24 | 20–24 |
 | [11–15 June 2024](2024-06-15-NCReport.html) | NC Report <br> La Razón | 19 | 19–21 | 18–21 | 18–21 | 18–23 |
-| [10–14 June 2024](2024-06-14-Invymark.html) | Invymark <br> laSexta | 22 | 19–24 | 19–25 | 18–25 | 17–26 |
+| [10–14 June 2024](2024-06-14-Invymark.html) | Invymark <br> laSexta | 22 | 19–24 | 19–25 | 18–25 | 17–27 |
 | [1–11 June 2024](2024-06-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 
 ### Probability Mass Function
