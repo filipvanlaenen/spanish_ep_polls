@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.9% | 28.0–32.8% | 27.5–33.3% | 27.1–33.7% | 26.3–34.4% |
+| N/A | [Poll Average](average.html) | 29.6% | 27.4–32.6% | 26.6–33.2% | 25.9–33.7% | 24.7–34.4% |
 | [20–27 September 2024](2024-09-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 28.7% | 27.4–30.1% | 27.0–30.5% | 26.7–30.8% | 26.1–31.4% |
-| [23–26 September 2024](2024-09-26-GESOP.html) | GESOP <br> Prensa Ibérica | 27.0% | N/A | N/A | N/A | N/A |
+| [23–26 September 2024](2024-09-26-GESOP.html) | GESOP <br> Prensa Ibérica | 27.0% | 25.2–28.9% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
 | [16–20 September 2024](2024-09-20-InvyMark.html) | InvyMark <br> laSexta | 30.1% | 28.4–31.8% | 28.0–32.3% | 27.5–32.8% | 26.8–33.6% |
 | [18–19 September 2024](2024-09-19-TargetPoint.html) | Target Point <br> El Debate | 30.3% | 28.5–32.2% | 27.9–32.7% | 27.5–33.2% | 26.6–34.1% |
 | [1–13 September 2024](2024-09-13-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 30.6% | 28.8–32.5% | 28.3–33.0% | 27.9–33.5% | 27.0–34.4% |
@@ -67,18 +67,18 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.1% | 100% |  |
-| 25.5–26.5% | 0.8% | 99.9% |  |
-| 26.5–27.5% | 4% | 99.2% |  |
-| 27.5–28.5% | 14% | 95% |  |
-| 28.5–29.5% | 23% | 81% |  |
-| 29.5–30.5% | 22% | 58% | Median |
-| 30.5–31.5% | 14% | 36% |  |
-| 31.5–32.5% | 10% | 22% |  |
-| 32.5–33.5% | 8% | 12% |  |
-| 33.5–34.5% | 3% | 4% |  |
+| 22.5–23.5% | 0.1% | 100% |  |
+| 23.5–24.5% | 0.3% | 99.9% |  |
+| 24.5–25.5% | 1.3% | 99.6% |  |
+| 25.5–26.5% | 3% | 98% |  |
+| 26.5–27.5% | 7% | 95% |  |
+| 27.5–28.5% | 15% | 88% |  |
+| 28.5–29.5% | 22% | 73% |  |
+| 29.5–30.5% | 20% | 52% | Median |
+| 30.5–31.5% | 13% | 32% |  |
+| 31.5–32.5% | 9% | 19% |  |
+| 32.5–33.5% | 7% | 11% |  |
+| 33.5–34.5% | 3% | 3% |  |
 | 34.5–35.5% | 0.3% | 0.3% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
@@ -91,9 +91,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–23 | 19–24 | 18–24 | 18–24 |
+| N/A | [Poll Average](average.html) | 20 | 19–23 | 18–24 | 18–24 | 17–24 |
 | [20–27 September 2024](2024-09-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 19–21 | 19–21 | 18–21 | 18–22 |
-| [23–26 September 2024](2024-09-26-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
+| [23–26 September 2024](2024-09-26-GESOP.html) | GESOP <br> Prensa Ibérica | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [16–20 September 2024](2024-09-20-InvyMark.html) | InvyMark <br> laSexta | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
 | [18–19 September 2024](2024-09-19-TargetPoint.html) | Target Point <br> El Debate | 21 | 20–22 | 19–23 | 19–23 | 18–24 |
 | [1–13 September 2024](2024-09-13-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 22 | 20–23 | 20–23 | 20–24 | 19–24 |
@@ -143,15 +143,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0.2% | 100% |  |
-| 18 | 2% | 99.8% |  |
-| 19 | 14% | 97% |  |
-| 20 | 33% | 83% |  |
-| 21 | 16% | 50% | Median |
-| 22 | 14% | 34% |  |
-| 23 | 10% | 20% |  |
-| 24 | 10% | 10% |  |
+| 16 | 0.2% | 100% |  |
+| 17 | 2% | 99.8% |  |
+| 18 | 6% | 98% |  |
+| 19 | 17% | 92% |  |
+| 20 | 31% | 76% | Median |
+| 21 | 14% | 45% |  |
+| 22 | 13% | 30% |  |
+| 23 | 9% | 18% |  |
+| 24 | 8% | 9% |  |
 | 25 | 0.2% | 0.2% |  |
 | 26 | 0% | 0% |  |
 
