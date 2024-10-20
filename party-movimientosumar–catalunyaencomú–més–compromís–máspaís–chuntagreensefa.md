@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.5–6.0% | 3.3–6.9% | 3.1–7.4% | 2.8–8.3% |
+| N/A | [Poll Average](average.html) | 4.3% | 3.5–6.4% | 3.3–7.1% | 3.1–7.6% | 2.8–8.4% |
+| [8–11 October 2024](2024-10-11-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [20–27 September 2024](2024-09-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.3% | 3.7–5.0% | 3.6–5.1% | 3.5–5.3% | 3.2–5.6% |
+| [25–27 September 2024](2024-09-27-40dB.html) | 40dB <br> Prisa | 3.8% | 3.3–4.4% | 3.2–4.6% | 3.0–4.7% | 2.8–5.0% |
 | [23–26 September 2024](2024-09-26-GESOP.html) | GESOP <br> Prensa Ibérica | 6.8% | 5.9–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.1% |
 | [16–20 September 2024](2024-09-20-InvyMark.html) | InvyMark <br> laSexta | 3.8% | 3.1–4.6% | 3.0–4.8% | 2.8–5.0% | 2.5–5.4% |
 | [18–19 September 2024](2024-09-19-TargetPoint.html) | Target Point <br> El Debate | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
@@ -48,12 +50,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.1% | 100% |  |
 | 2.5–3.5% | 13% | 99.9% |  |
-| 3.5–4.5% | 47% | 87% | Median |
-| 4.5–5.5% | 28% | 41% |  |
-| 5.5–6.5% | 6% | 13% |  |
-| 6.5–7.5% | 5% | 7% |  |
-| 7.5–8.5% | 2% | 2% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
+| 3.5–4.5% | 49% | 87% | Median |
+| 4.5–5.5% | 22% | 38% |  |
+| 5.5–6.5% | 7% | 16% |  |
+| 6.5–7.5% | 6% | 9% |  |
+| 7.5–8.5% | 2% | 3% |  |
+| 8.5–9.5% | 0.3% | 0.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -65,8 +67,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
+| [8–11 October 2024](2024-10-11-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3 | 2–3 | 2–4 | 1–4 | 1–4 |
 | [20–27 September 2024](2024-09-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [25–27 September 2024](2024-09-27-40dB.html) | 40dB <br> Prisa | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–26 September 2024](2024-09-26-GESOP.html) | GESOP <br> Prensa Ibérica | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [16–20 September 2024](2024-09-20-InvyMark.html) | InvyMark <br> laSexta | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [18–19 September 2024](2024-09-19-TargetPoint.html) | Target Point <br> El Debate | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
@@ -102,12 +106,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.4% | 100% |  |
-| 2 | 40% | 99.6% |  |
-| 3 | 47% | 59% | Median |
-| 4 | 9% | 12% |  |
-| 5 | 3% | 3% |  |
-| 6 | 0.2% | 0.2% |  |
+| 1 | 0.7% | 100% |  |
+| 2 | 41% | 99.3% |  |
+| 3 | 42% | 58% | Median |
+| 4 | 12% | 16% |  |
+| 5 | 4% | 4% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 
