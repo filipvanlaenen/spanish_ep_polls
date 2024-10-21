@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34.8% | 32.5–37.2% | 31.9–37.9% | 31.3–38.5% | 30.3–39.7% |
+| N/A | [Poll Average](average.html) | 35.2% | 33.1–37.3% | 32.4–38.0% | 31.8–38.6% | 30.6–39.7% |
+| [16–18 October 2024](2024-10-18-TargetPoint.html) | Target Point <br> El Debate | 35.2% | 33.3–37.2% | 32.8–37.7% | 32.3–38.2% | 31.4–39.1% |
+| [16–18 October 2024](2024-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 35.2% | 33.9–36.5% | 33.5–36.9% | 33.2–37.2% | 32.6–37.8% |
 | [8–11 October 2024](2024-10-11-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 35.2% | 33.3–37.2% | 32.8–37.7% | 32.3–38.2% | 31.4–39.2% |
 | [20–27 September 2024](2024-09-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 35.5% | 34.1–36.9% | 33.7–37.3% | 33.4–37.7% | 32.7–38.4% |
 | [25–27 September 2024](2024-09-27-40dB.html) | 40dB <br> Prisa | 34.6% | 33.2–36.0% | 32.9–36.4% | 32.5–36.7% | 31.9–37.4% |
@@ -76,16 +78,16 @@ The following table shows the probability mass function per percentage block of 
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0.1% | 100% |  |
-| 29.5–30.5% | 0.6% | 99.9% |  |
-| 30.5–31.5% | 3% | 99.2% |  |
-| 31.5–32.5% | 7% | 97% |  |
-| 32.5–33.5% | 13% | 90% |  |
-| 33.5–34.5% | 20% | 77% |  |
-| 34.5–35.5% | 22% | 56% | Median |
-| 35.5–36.5% | 17% | 34% |  |
-| 36.5–37.5% | 10% | 17% |  |
-| 37.5–38.5% | 5% | 7% |  |
-| 38.5–39.5% | 2% | 2% |  |
+| 29.5–30.5% | 0.4% | 99.9% |  |
+| 30.5–31.5% | 1.5% | 99.5% |  |
+| 31.5–32.5% | 4% | 98% |  |
+| 32.5–33.5% | 9% | 94% |  |
+| 33.5–34.5% | 19% | 85% |  |
+| 34.5–35.5% | 25% | 65% | Median |
+| 35.5–36.5% | 21% | 40% |  |
+| 36.5–37.5% | 11% | 19% |  |
+| 37.5–38.5% | 5% | 8% |  |
+| 38.5–39.5% | 2% | 3% |  |
 | 39.5–40.5% | 0.5% | 0.6% |  |
 | 40.5–41.5% | 0.1% | 0.1% |  |
 | 41.5–42.5% | 0% | 0% |  |
@@ -99,7 +101,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 22–27 | 22–28 | 22–28 | 21–29 |
+| N/A | [Poll Average](average.html) | 24 | 23–27 | 22–28 | 22–28 | 21–29 |
+| [16–18 October 2024](2024-10-18-TargetPoint.html) | Target Point <br> El Debate | 25 | 23–26 | 23–26 | 23–27 | 22–27 |
+| [16–18 October 2024](2024-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 24 | 23–25 | 22–26 | 22–26 | 22–26 |
 | [8–11 October 2024](2024-10-11-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 24 | 23–25 | 22–26 | 21–26 | 21–26 |
 | [20–27 September 2024](2024-09-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 23 | 23–24 | 23–26 | 23–26 | 23–27 |
 | [25–27 September 2024](2024-09-27-40dB.html) | 40dB <br> Prisa | 25 | 24–26 | 23–26 | 23–26 | 23–27 |
@@ -159,12 +163,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0.2% | 100% |  |
 | 21 | 2% | 99.8% |  |
-| 22 | 8% | 98% |  |
-| 23 | 22% | 90% |  |
-| 24 | 32% | 68% | Median |
-| 25 | 16% | 36% |  |
-| 26 | 8% | 20% |  |
-| 27 | 5% | 12% |  |
+| 22 | 7% | 98% |  |
+| 23 | 20% | 91% |  |
+| 24 | 30% | 71% | Median |
+| 25 | 18% | 41% |  |
+| 26 | 10% | 22% |  |
+| 27 | 6% | 13% |  |
 | 28 | 5% | 7% |  |
 | 29 | 2% | 2% |  |
 | 30 | 0.3% | 0.3% |  |
