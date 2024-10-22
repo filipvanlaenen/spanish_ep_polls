@@ -96,7 +96,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 18–22 | 18–23 | 17–23 | 17–24 |
 | [16–18 October 2024](2024-10-18-TargetPoint.html) | Target Point <br> El Debate | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
-| [16–18 October 2024](2024-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 18–20 | 18–21 | 18–21 | 18–21 |
+| [16–18 October 2024](2024-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 19–20 | 18–20 | 18–20 | 18–21 |
 | [8–11 October 2024](2024-10-11-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 20 | 18–21 | 18–21 | 17–22 | 17–22 |
 | [20–27 September 2024](2024-09-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 19–21 | 19–21 | 18–21 | 18–22 |
 | [25–27 September 2024](2024-09-27-40dB.html) | 40dB <br> Prisa | 21 | 20–22 | 20–22 | 20–23 | 19–23 |
@@ -152,10 +152,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0.3% | 100% |  |
 | 17 | 3% | 99.7% |  |
-| 18 | 11% | 97% |  |
-| 19 | 27% | 86% |  |
-| 20 | 17% | 59% | Median |
-| 21 | 24% | 42% |  |
+| 18 | 9% | 97% |  |
+| 19 | 27% | 88% |  |
+| 20 | 20% | 61% | Median |
+| 21 | 23% | 41% |  |
 | 22 | 12% | 18% |  |
 | 23 | 5% | 6% |  |
 | 24 | 1.2% | 1.3% |  |
