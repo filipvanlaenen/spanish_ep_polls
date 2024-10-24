@@ -71,8 +71,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
-| [22 October 2024](2024-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
+| [22 October 2024](2024-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 2–4 | 2–4 | 2–4 | 1–4 |
 | [16–18 October 2024](2024-10-18-TargetPoint.html) | Target Point <br> El Debate | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | [16–18 October 2024](2024-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–18 October 2024](2024-10-18-DYM.html) | DYM <br> Henneo | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -115,8 +115,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.5% | 100% |  |
-| 2 | 34% | 99.5% |  |
-| 3 | 44% | 65% | Median |
+| 2 | 36% | 99.5% |  |
+| 3 | 42% | 63% | Median |
 | 4 | 17% | 21% |  |
 | 5 | 4% | 4% |  |
 | 6 | 0.3% | 0.3% |  |

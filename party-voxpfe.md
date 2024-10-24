@@ -79,10 +79,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
-| [22 October 2024](2024-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
+| [22 October 2024](2024-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 6 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [16–18 October 2024](2024-10-18-TargetPoint.html) | Target Point <br> El Debate | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [16–18 October 2024](2024-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
-| [16–18 October 2024](2024-10-18-DYM.html) | DYM <br> Henneo | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
+| [16–18 October 2024](2024-10-18-DYM.html) | DYM <br> Henneo | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [8–11 October 2024](2024-10-11-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [20–27 September 2024](2024-09-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [25–27 September 2024](2024-09-27-40dB.html) | 40dB <br> Prisa | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
@@ -125,10 +125,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.9% | 100% |  |
-| 6 | 13% | 99.1% |  |
-| 7 | 41% | 86% | Median |
-| 8 | 34% | 46% |  |
+| 5 | 0.7% | 100% |  |
+| 6 | 14% | 99.3% |  |
+| 7 | 40% | 85% | Median |
+| 8 | 33% | 45% |  |
 | 9 | 10% | 12% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0.2% | 0.2% |  |
