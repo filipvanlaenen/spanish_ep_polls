@@ -74,9 +74,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [16–18 October 2024](2024-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 2 | 1–2 | 1–2 |
 | [16–18 October 2024](2024-10-18-DYM.html) | DYM <br> Henneo | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [8–11 October 2024](2024-10-11-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [20–27 September 2024](2024-09-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2 | 2 | 2–3 | 1–3 |
+| [20–27 September 2024](2024-09-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [25–27 September 2024](2024-09-27-40dB.html) | 40dB <br> Prisa | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
-| [23–26 September 2024](2024-09-26-GESOP.html) | GESOP <br> Prensa Ibérica | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [23–26 September 2024](2024-09-26-GESOP.html) | GESOP <br> Prensa Ibérica | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [16–20 September 2024](2024-09-20-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
 | [18–19 September 2024](2024-09-19-TargetPoint.html) | Target Point <br> El Debate | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [1–13 September 2024](2024-09-13-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
@@ -110,10 +110,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.0% | 100% | Last Result |
-| 1 | 38% | 99.0% |  |
-| 2 | 48% | 61% | Median |
-| 3 | 12% | 13% |  |
+| 0 | 0.9% | 100% | Last Result |
+| 1 | 42% | 99.1% |  |
+| 2 | 44% | 57% | Median |
+| 3 | 11% | 13% |  |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
