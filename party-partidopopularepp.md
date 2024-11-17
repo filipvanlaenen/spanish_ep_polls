@@ -108,7 +108,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 23–25 | 22–26 | 21–26 | 20–27 |
-| [8–11 November 2024](2024-11-11-DYM.html) | DYM <br> Henneo | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
+| [8–11 November 2024](2024-11-11-DYM.html) | DYM <br> Henneo | 24 | 22–25 | 22–25 | 22–26 | 21–26 |
 | [5–8 November 2024](2024-11-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 24 | 23–25 | 22–25 | 22–26 | 21–27 |
 | [24–31 October 2024](2024-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 24 | 24–25 | 24–26 | 23–26 | 23–27 |
 | [21–24 October 2024](2024-10-24-GAD3.html) | GAD3 <br> ABC | 23 | 21–26 | 21–26 | 21–26 | 20–26 |
