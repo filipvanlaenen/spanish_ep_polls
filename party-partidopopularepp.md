@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35.2% | 33.1–37.4% | 32.4–38.1% | 31.8–38.8% | 30.6–40.1% |
+| N/A | [Poll Average](average.html) | 35.0% | 32.6–37.1% | 31.9–37.8% | 31.3–38.5% | 30.2–39.8% |
+| [8–11 November 2024](2024-11-11-DYM.html) | DYM <br> Henneo | 33.1% | 31.2–35.0% | 30.7–35.6% | 30.3–36.1% | 29.4–37.0% |
+| [5–8 November 2024](2024-11-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 35.3% | 33.4–37.3% | 32.9–37.8% | 32.4–38.3% | 31.5–39.3% |
+| [24–31 October 2024](2024-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 35.9% | N/A | N/A | N/A | N/A |
+| [21–24 October 2024](2024-10-24-GAD3.html) | GAD3 <br> ABC | 34.1% | N/A | N/A | N/A | N/A |
 | [22 October 2024](2024-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 35.6% | 33.1–38.3% | 32.4–39.1% | 31.7–39.8% | 30.5–41.1% |
 | [16–18 October 2024](2024-10-18-TargetPoint.html) | Target Point <br> El Debate | 35.2% | 33.3–37.2% | 32.8–37.7% | 32.3–38.2% | 31.4–39.1% |
 | [16–18 October 2024](2024-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 35.2% | 33.9–36.5% | 33.5–36.9% | 33.2–37.2% | 32.6–37.8% |
@@ -80,19 +84,19 @@ The following table shows the probability mass function per percentage block of 
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0.1% | 100% |  |
-| 29.5–30.5% | 0.4% | 99.9% |  |
-| 30.5–31.5% | 1.5% | 99.5% |  |
-| 31.5–32.5% | 4% | 98% |  |
-| 32.5–33.5% | 9% | 94% |  |
-| 33.5–34.5% | 19% | 85% |  |
-| 34.5–35.5% | 25% | 66% | Median |
-| 35.5–36.5% | 21% | 41% |  |
-| 36.5–37.5% | 12% | 20% |  |
-| 37.5–38.5% | 5% | 9% |  |
-| 38.5–39.5% | 2% | 3% |  |
-| 39.5–40.5% | 0.7% | 1.0% |  |
+| 29.5–30.5% | 0.7% | 99.8% |  |
+| 30.5–31.5% | 3% | 99.1% |  |
+| 31.5–32.5% | 6% | 97% |  |
+| 32.5–33.5% | 12% | 90% |  |
+| 33.5–34.5% | 19% | 79% |  |
+| 34.5–35.5% | 24% | 60% | Median |
+| 35.5–36.5% | 19% | 36% |  |
+| 36.5–37.5% | 10% | 17% |  |
+| 37.5–38.5% | 4% | 7% |  |
+| 38.5–39.5% | 2% | 2% |  |
+| 39.5–40.5% | 0.5% | 0.7% |  |
 | 40.5–41.5% | 0.2% | 0.2% |  |
-| 41.5–42.5% | 0% | 0% |  |
+| 41.5–42.5% | 0% | 0.1% |  |
 | 42.5–43.5% | 0% | 0% |  |
 
 
@@ -104,7 +108,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 23–26 | 22–27 | 22–27 | 21–28 |
+| N/A | [Poll Average](average.html) | 24 | 23–25 | 22–26 | 22–26 | 20–27 |
+| [8–11 November 2024](2024-11-11-DYM.html) | DYM <br> Henneo | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
+| [5–8 November 2024](2024-11-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 24 | 23–25 | 22–25 | 22–26 | 21–27 |
+| [24–31 October 2024](2024-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [21–24 October 2024](2024-10-24-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [22 October 2024](2024-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 24 | 22–25 | 22–26 | 20–27 | 20–28 |
 | [16–18 October 2024](2024-10-18-TargetPoint.html) | Target Point <br> El Debate | 25 | 23–26 | 23–26 | 23–27 | 22–27 |
 | [16–18 October 2024](2024-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 23–25 | 23–25 | 23–26 | 22–26 |
@@ -166,16 +174,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.5% | 100% |  |
-| 21 | 1.4% | 99.5% |  |
-| 22 | 8% | 98% |  |
-| 23 | 19% | 90% |  |
-| 24 | 28% | 72% | Median |
-| 25 | 28% | 44% |  |
-| 26 | 10% | 16% |  |
-| 27 | 4% | 6% |  |
-| 28 | 1.2% | 1.4% |  |
-| 29 | 0.2% | 0.2% |  |
-| 30 | 0% | 0% |  |
+| 20 | 0.6% | 100% |  |
+| 21 | 0.9% | 99.4% |  |
+| 22 | 8% | 98.5% |  |
+| 23 | 20% | 91% |  |
+| 24 | 30% | 71% | Median |
+| 25 | 33% | 40% |  |
+| 26 | 6% | 8% |  |
+| 27 | 1.4% | 2% |  |
+| 28 | 0.3% | 0.3% |  |
+| 29 | 0% | 0% |  |
 
 

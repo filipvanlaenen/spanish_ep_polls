@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.0% | 9.5–12.9% | 9.1–13.6% | 8.8–14.1% | 8.2–15.1% |
+| N/A | [Poll Average](average.html) | 11.5% | 9.9–13.4% | 9.5–13.9% | 9.1–14.3% | 8.3–15.1% |
+| [8–11 November 2024](2024-11-11-DYM.html) | DYM <br> Henneo | 12.6% | 11.4–14.0% | 11.0–14.4% | 10.7–14.8% | 10.1–15.5% |
+| [5–8 November 2024](2024-11-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.7% | 10.0–15.4% |
+| [24–31 October 2024](2024-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 10.5% | N/A | N/A | N/A | N/A |
+| [21–24 October 2024](2024-10-24-GAD3.html) | GAD3 <br> ABC | 12.9% | N/A | N/A | N/A | N/A |
 | [22 October 2024](2024-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 10.8% | 9.3–12.7% | 8.8–13.2% | 8.5–13.7% | 7.8–14.6% |
 | [16–18 October 2024](2024-10-18-TargetPoint.html) | Target Point <br> El Debate | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.6% | 8.3–13.3% |
 | [16–18 October 2024](2024-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 11.2% | 10.4–12.1% | 10.2–12.4% | 10.0–12.6% | 9.6–13.0% |
@@ -57,15 +61,15 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 1.4% | 100% |  |
-| 8.5–9.5% | 10% | 98.6% |  |
-| 9.5–10.5% | 24% | 88% |  |
-| 10.5–11.5% | 31% | 64% | Median |
-| 11.5–12.5% | 19% | 33% |  |
-| 12.5–13.5% | 9% | 14% |  |
-| 13.5–14.5% | 4% | 5% |  |
-| 14.5–15.5% | 1.1% | 1.3% |  |
+| 6.5–7.5% | 0.1% | 100% |  |
+| 7.5–8.5% | 0.8% | 99.9% |  |
+| 8.5–9.5% | 5% | 99.2% |  |
+| 9.5–10.5% | 15% | 94% |  |
+| 10.5–11.5% | 29% | 79% |  |
+| 11.5–12.5% | 26% | 50% | Median |
+| 12.5–13.5% | 16% | 24% |  |
+| 13.5–14.5% | 7% | 8% |  |
+| 14.5–15.5% | 1.4% | 2% |  |
 | 15.5–16.5% | 0.2% | 0.2% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -78,7 +82,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–9 | 6–10 | 6–10 |
+| [8–11 November 2024](2024-11-11-DYM.html) | DYM <br> Henneo | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
+| [5–8 November 2024](2024-11-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 9 | 7–9 | 7–9 | 6–10 | 6–10 |
+| [24–31 October 2024](2024-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [21–24 October 2024](2024-10-24-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [22 October 2024](2024-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 6 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [16–18 October 2024](2024-10-18-TargetPoint.html) | Target Point <br> El Debate | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [16–18 October 2024](2024-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
@@ -125,13 +133,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.7% | 100% |  |
-| 6 | 16% | 99.2% |  |
-| 7 | 39% | 84% | Median |
-| 8 | 33% | 45% |  |
-| 9 | 10% | 12% |  |
-| 10 | 2% | 2% |  |
-| 11 | 0.2% | 0.2% |  |
+| 5 | 0.4% | 100% |  |
+| 6 | 15% | 99.5% |  |
+| 7 | 25% | 85% |  |
+| 8 | 33% | 60% | Median |
+| 9 | 23% | 27% |  |
+| 10 | 4% | 4% |  |
+| 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
 
