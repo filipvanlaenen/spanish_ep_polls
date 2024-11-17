@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 2.9–5.2% | 2.7–5.6% | 2.5–5.9% | 2.2–6.5% |
+| N/A | [Poll Average](average.html) | 3.9% | 2.9–5.3% | 2.7–5.6% | 2.5–5.9% | 2.2–6.4% |
 | [8–11 November 2024](2024-11-11-DYM.html) | DYM <br> Henneo | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–7.0% |
 | [5–8 November 2024](2024-11-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
-| [24–31 October 2024](2024-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.9% | N/A | N/A | N/A | N/A |
-| [21–24 October 2024](2024-10-24-GAD3.html) | GAD3 <br> ABC | 3.3% | N/A | N/A | N/A | N/A |
+| [24–31 October 2024](2024-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.9% | 4.3–5.6% | 4.1–5.8% | 4.0–6.0% | 3.7–6.4% |
+| [21–24 October 2024](2024-10-24-GAD3.html) | GAD3 <br> ABC | 3.3% | 2.7–4.2% | 2.5–4.4% | 2.4–4.6% | 2.1–5.1% |
 | [22 October 2024](2024-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3.7% | 2.8–4.9% | 2.6–5.3% | 2.4–5.6% | 2.0–6.2% |
 | [16–18 October 2024](2024-10-18-TargetPoint.html) | Target Point <br> El Debate | 3.1% | 2.5–4.0% | 2.4–4.2% | 2.2–4.4% | 2.0–4.8% |
 | [16–18 October 2024](2024-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 3.4% | 2.9–3.9% | 2.8–4.1% | 2.7–4.2% | 2.5–4.5% |
@@ -57,11 +57,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 35% | 97% |  |
-| 3.5–4.5% | 37% | 62% | Median |
-| 4.5–5.5% | 20% | 25% |  |
-| 5.5–6.5% | 5% | 5% |  |
-| 6.5–7.5% | 0.4% | 0.4% |  |
+| 2.5–3.5% | 33% | 97% |  |
+| 3.5–4.5% | 35% | 64% | Median |
+| 4.5–5.5% | 24% | 30% |  |
+| 5.5–6.5% | 5% | 6% |  |
+| 6.5–7.5% | 0.3% | 0.3% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -73,11 +73,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | [8–11 November 2024](2024-11-11-DYM.html) | DYM <br> Henneo | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | [5–8 November 2024](2024-11-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2 | 2–3 | 2–3 | 2–4 | 1–4 |
-| [24–31 October 2024](2024-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [21–24 October 2024](2024-10-24-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [24–31 October 2024](2024-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [21–24 October 2024](2024-10-24-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [22 October 2024](2024-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | [16–18 October 2024](2024-10-18-TargetPoint.html) | Target Point <br> El Debate | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [16–18 October 2024](2024-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -120,10 +120,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 12% | 100% |  |
-| 2 | 55% | 88% | Median |
-| 3 | 28% | 33% |  |
-| 4 | 5% | 6% |  |
+| 1 | 14% | 100% |  |
+| 2 | 53% | 86% | Median |
+| 3 | 29% | 33% |  |
+| 4 | 4% | 4% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
