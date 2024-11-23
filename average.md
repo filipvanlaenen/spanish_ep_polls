@@ -555,8 +555,8 @@ Only polls for which at least the sample size has been published are included in
 | 18 | 5% | 99.1% |  |
 | 19 | 37% | 94% |  |
 | 20 | 36% | 57% | Median |
-| 21 | 16% | 21% |  |
-| 22 | 5% | 5% |  |
+| 21 | 15% | 21% |  |
+| 22 | 5% | 6% |  |
 | 23 | 0.8% | 0.9% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
@@ -632,11 +632,11 @@ Only polls for which at least the sample size has been published are included in
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.5% | 100% |  |
+| 20 | 0.4% | 100% |  |
 | 21 | 1.3% | 99.5% |  |
 | 22 | 8% | 98% |  |
 | 23 | 20% | 90% |  |
-| 24 | 31% | 70% | Median |
+| 24 | 31% | 71% | Median |
 | 25 | 28% | 39% |  |
 | 26 | 10% | 11% |  |
 | 27 | 1.1% | 1.3% |  |
@@ -663,8 +663,8 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 10% | 26% |  |
 | 10 | 6% | 16% |  |
 | 11 | 7% | 10% |  |
-| 12 | 3% | 3% |  |
-| 13 | 0.4% | 0.4% |  |
+| 12 | 3% | 4% |  |
+| 13 | 0.4% | 0.5% |  |
 | 14 | 0% | 0% |  |
 
 ### Junts per Catalunya (NI)
@@ -754,11 +754,11 @@ Only polls for which at least the sample size has been published are included in
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.5% | 100% |  |
+| 20 | 0.4% | 100% |  |
 | 21 | 1.3% | 99.5% |  |
 | 22 | 8% | 98% |  |
 | 23 | 20% | 90% |  |
-| 24 | 31% | 70% | Median |
+| 24 | 31% | 71% | Median |
 | 25 | 28% | 39% |  |
 | 26 | 10% | 11% |  |
 | 27 | 1.1% | 1.3% |  |
@@ -792,8 +792,8 @@ Only polls for which at least the sample size has been published are included in
 | 18 | 5% | 99.1% |  |
 | 19 | 37% | 94% |  |
 | 20 | 36% | 57% | Median |
-| 21 | 16% | 21% |  |
-| 22 | 5% | 5% |  |
+| 21 | 15% | 21% |  |
+| 22 | 5% | 6% |  |
 | 23 | 0.8% | 0.9% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
@@ -816,8 +816,8 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 10% | 26% |  |
 | 10 | 6% | 16% |  |
 | 11 | 7% | 10% |  |
-| 12 | 3% | 3% |  |
-| 13 | 0.4% | 0.4% |  |
+| 12 | 3% | 4% |  |
+| 13 | 0.4% | 0.5% |  |
 | 14 | 0% | 0% |  |
 
 ### Candidatura d’Unitat Popular (GUE/NGL) – Euskal Herria Bildu (GUE/NGL) – Movimiento Sumar–Izquierda Unida (GUE/NGL) – Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Podemos (GUE/NGL) – Unidos Podemos (GUE/NGL)
@@ -887,6 +887,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 7
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 13,631,488
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 14,680,064
 + **Error estimate:** 3.96%
