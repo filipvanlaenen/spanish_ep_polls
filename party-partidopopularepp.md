@@ -115,7 +115,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [22–24 November 2024](2024-11-24-SocioMétrica.html) | SocioMétrica <br> El Español | 23 | 22–25 | 22–25 | 22–26 | 22–26 |
 | [20–22 November 2024](2024-11-22-TargetPoint.html) | Target Point <br> El Debate | 23 | 22–24 | 21–24 | 21–25 | 21–25 |
 | [18–22 November 2024](2024-11-22-Ipsos.html) | Ipsos <br> La Vanguardia | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
-| [7–15 November 2024](2024-11-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 24 | 23–25 | 22–25 | 22–26 | 21–26 |
+| [7–15 November 2024](2024-11-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 23 | 23–25 | 22–25 | 22–25 | 21–27 |
 | [11–14 November 2024](2024-11-14-GAD3.html) | GAD3 <br> Mediaset | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
 | [8–11 November 2024](2024-11-11-DYM.html) | DYM <br> Henneo | 24 | 22–25 | 22–25 | 22–26 | 21–26 |
 | [5–8 November 2024](2024-11-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 24 | 23–25 | 23–25 | 23–25 | 22–26 |
@@ -185,11 +185,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0.2% | 100% |  |
 | 21 | 2% | 99.8% |  |
 | 22 | 18% | 98% |  |
-| 23 | 24% | 80% |  |
-| 24 | 32% | 56% | Median |
-| 25 | 17% | 24% |  |
+| 23 | 30% | 80% |  |
+| 24 | 29% | 50% | Median |
+| 25 | 14% | 21% |  |
 | 26 | 7% | 7% |  |
-| 27 | 0.2% | 0.2% |  |
+| 27 | 0.2% | 0.3% |  |
 | 28 | 0% | 0% |  |
 
 
