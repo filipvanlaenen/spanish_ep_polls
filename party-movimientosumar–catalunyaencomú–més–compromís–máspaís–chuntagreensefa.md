@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.2–5.4% | 3.0–5.9% | 2.8–6.2% | 2.5–6.8% |
+| N/A | [Poll Average](average.html) | 3.8% | 3.0–4.8% | 2.9–5.1% | 2.7–5.4% | 2.4–6.0% |
+| [22–24 November 2024](2024-11-24-SocioMétrica.html) | SocioMétrica <br> El Español | 4.2% | 3.6–5.1% | 3.4–5.3% | 3.2–5.5% | 3.0–5.9% |
+| [20–22 November 2024](2024-11-22-TargetPoint.html) | Target Point <br> El Debate | 3.5% | 3.0–4.3% | 2.8–4.5% | 2.7–4.7% | 2.4–5.1% |
+| [18–22 November 2024](2024-11-22-Ipsos.html) | Ipsos <br> La Vanguardia | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
+| [7–15 November 2024](2024-11-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.6–4.8% | 2.3–5.2% |
 | [11–14 November 2024](2024-11-14-GAD3.html) | GAD3 <br> Mediaset | 3.7% | 3.0–4.5% | 2.8–4.8% | 2.7–5.0% | 2.4–5.5% |
 | [8–11 November 2024](2024-11-11-DYM.html) | DYM <br> Henneo | 4.6% | 3.9–5.6% | 3.7–5.9% | 3.5–6.1% | 3.2–6.6% |
 | [5–8 November 2024](2024-11-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
@@ -57,14 +61,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.7% | 100% |  |
-| 2.5–3.5% | 23% | 99.3% |  |
-| 3.5–4.5% | 45% | 76% | Median |
-| 4.5–5.5% | 23% | 31% |  |
-| 5.5–6.5% | 8% | 9% |  |
-| 6.5–7.5% | 1.0% | 1.0% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 1.5–2.5% | 1.0% | 100% |  |
+| 2.5–3.5% | 35% | 99.0% |  |
+| 3.5–4.5% | 49% | 64% | Median |
+| 4.5–5.5% | 14% | 16% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -75,7 +78,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [22–24 November 2024](2024-11-24-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [20–22 November 2024](2024-11-22-TargetPoint.html) | Target Point <br> El Debate | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| [18–22 November 2024](2024-11-22-Ipsos.html) | Ipsos <br> La Vanguardia | 2 | 2–3 | 2–4 | 2–4 | 1–4 |
+| [7–15 November 2024](2024-11-15-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [11–14 November 2024](2024-11-14-GAD3.html) | GAD3 <br> Mediaset | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [8–11 November 2024](2024-11-11-DYM.html) | DYM <br> Henneo | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [5–8 November 2024](2024-11-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3 | 2–3 | 2–3 | 1–3 | 1–3 |
@@ -123,11 +130,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.4% | 100% |  |
-| 2 | 48% | 98.6% |  |
-| 3 | 40% | 51% | Median |
-| 4 | 10% | 11% |  |
-| 5 | 0.3% | 0.3% |  |
-| 6 | 0% | 0% |  |
+| 1 | 2% | 100% |  |
+| 2 | 55% | 98% | Median |
+| 3 | 40% | 43% |  |
+| 4 | 2% | 2% |  |
+| 5 | 0% | 0% |  |
 
 
