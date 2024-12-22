@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.1% | 26.3–30.0% | 25.8–30.5% | 25.3–30.9% | 24.4–31.9% |
+| N/A | [Poll Average](average.html) | 28.2% | 26.3–30.2% | 25.8–30.7% | 25.4–31.2% | 24.5–32.0% |
+| [10–12 December 2024](2024-12-12-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 28.1% | 26.3–30.0% | 25.8–30.5% | 25.4–31.0% | 24.6–31.9% |
+| [5–11 December 2024](2024-12-11-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 28.2% | 26.5–29.9% | 26.0–30.5% | 25.6–30.9% | 24.8–31.8% |
+| [25 November–4 December 2024](2024-12-04-SigmaDos.html) | Sigma Dos <br> El Mundo | 27.4% | 26.2–28.7% | 25.8–29.1% | 25.5–29.4% | 24.9–30.0% |
+| [2–4 December 2024](2024-12-04-GESOP.html) | GESOP <br> Prensa Ibérica | 28.3% | 26.5–30.1% | 26.0–30.7% | 25.6–31.2% | 24.7–32.1% |
+| [25–29 November 2024](2024-11-29-NCReport.html) | NC Report <br> La Razón | 28.4% | 26.6–30.3% | 26.1–30.8% | 25.7–31.3% | 24.8–32.2% |
+| [25–27 November 2024](2024-11-27-40dB.html) | 40dB <br> Prisa | 29.9% | 28.6–31.2% | 28.2–31.6% | 27.9–31.9% | 27.3–32.6% |
 | [22–24 November 2024](2024-11-24-SocioMétrica.html) | SocioMétrica <br> El Español | 26.7% | 25.1–28.4% | 24.7–28.9% | 24.3–29.3% | 23.6–30.1% |
 | [20–22 November 2024](2024-11-22-TargetPoint.html) | Target Point <br> El Debate | 28.3% | 26.7–30.0% | 26.3–30.4% | 25.9–30.8% | 25.2–31.6% |
 | [18–22 November 2024](2024-11-22-Ipsos.html) | Ipsos <br> La Vanguardia | 28.4% | 26.8–30.2% | 26.3–30.7% | 25.9–31.1% | 25.1–31.9% |
@@ -20,11 +26,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–8 November 2024](2024-11-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 28.5% | 26.7–30.4% | 26.2–30.9% | 25.8–31.4% | 25.0–32.3% |
 | [24–31 October 2024](2024-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 28.2% | 26.8–29.6% | 26.5–30.0% | 26.2–30.3% | 25.5–31.0% |
 | [21–24 October 2024](2024-10-24-GAD3.html) | GAD3 <br> ABC | 28.2% | 26.4–30.1% | 25.9–30.6% | 25.5–31.0% | 24.7–31.9% |
-| [22 October 2024](2024-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 29.3% | 26.8–31.8% | 26.2–32.6% | 25.6–33.2% | 24.5–34.5% |
 | [16–18 October 2024](2024-10-18-TargetPoint.html) | Target Point <br> El Debate | 29.2% | 27.4–31.1% | 26.9–31.6% | 26.5–32.1% | 25.7–33.0% |
 | [16–18 October 2024](2024-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 28.3% | 27.1–29.6% | 26.8–29.9% | 26.5–30.2% | 25.9–30.8% |
 | [16–18 October 2024](2024-10-18-DYM.html) | DYM <br> Henneo | 28.8% | 27.0–30.7% | 26.5–31.2% | 26.1–31.7% | 25.2–32.6% |
 | [8–11 October 2024](2024-10-11-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 28.9% | 27.1–30.8% | 26.6–31.3% | 26.2–31.8% | 25.3–32.7% |
+| [4–9 October 2024](2024-10-09-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 29.3% | N/A | N/A | N/A | N/A |
 | [20–27 September 2024](2024-09-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 28.7% | 27.4–30.1% | 27.0–30.5% | 26.7–30.8% | 26.1–31.4% |
 | [25–27 September 2024](2024-09-27-40dB.html) | 40dB <br> Prisa | 29.7% | 28.4–31.0% | 28.0–31.4% | 27.7–31.7% | 27.1–32.4% |
 | [23–26 September 2024](2024-09-26-GESOP.html) | GESOP <br> Prensa Ibérica | 27.0% | 25.2–28.9% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
@@ -46,8 +52,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–10 July 2024](2024-07-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 31.7% | 29.4–34.1% | 28.7–34.8% | 28.2–35.4% | 27.1–36.6% |
 | [1–4 July 2024](2024-07-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 29.9% | 28.1–31.8% | 27.6–32.3% | 27.1–32.8% | 26.3–33.7% |
 | [1–4 July 2024](2024-07-04-CIS.html) | CIS | 32.9% | 31.9–33.9% | 31.7–34.1% | 31.4–34.4% | 31.0–34.8% |
-| [25–28 June 2024](2024-06-28-TargetPoint.html) | Target Point <br> El Debate | 29.6% | N/A | N/A | N/A | N/A |
 | [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 30.0% | 28.7–31.3% | 28.3–31.7% | 28.0–32.1% | 27.4–32.7% |
+| [25–27 June 2024](2024-06-27-TargetPoint.html) | Target Point <br> El Debate | 29.6% | N/A | N/A | N/A | N/A |
 | [21–24 June 2024](2024-06-24-40dB.html) | 40dB <br> Prisa | 31.2% | 29.9–32.6% | 29.5–32.9% | 29.2–33.3% | 28.6–33.9% |
 | [11–15 June 2024](2024-06-15-NCReport.html) | NC Report <br> La Razón | 29.8% | 27.5–32.1% | 26.9–32.8% | 26.4–33.4% | 25.3–34.5% |
 | [10–14 June 2024](2024-06-14-Invymark.html) | Invymark <br> laSexta | 31.7% | 28.4–35.3% | 27.5–36.3% | 26.7–37.1% | 25.1–38.9% |
@@ -83,16 +89,16 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0.1% | 100% |  |
-| 23.5–24.5% | 0.6% | 99.9% |  |
-| 24.5–25.5% | 3% | 99.3% |  |
-| 25.5–26.5% | 10% | 96% |  |
-| 26.5–27.5% | 21% | 87% |  |
-| 27.5–28.5% | 27% | 66% | Median |
-| 28.5–29.5% | 23% | 39% |  |
-| 29.5–30.5% | 11% | 16% |  |
-| 30.5–31.5% | 4% | 5% |  |
-| 31.5–32.5% | 0.8% | 0.9% |  |
-| 32.5–33.5% | 0.1% | 0.1% |  |
+| 23.5–24.5% | 0.5% | 99.9% |  |
+| 24.5–25.5% | 3% | 99.4% |  |
+| 25.5–26.5% | 10% | 97% |  |
+| 26.5–27.5% | 20% | 87% |  |
+| 27.5–28.5% | 25% | 67% | Median |
+| 28.5–29.5% | 22% | 41% |  |
+| 29.5–30.5% | 13% | 20% |  |
+| 30.5–31.5% | 5% | 7% |  |
+| 31.5–32.5% | 1.2% | 1.3% |  |
+| 32.5–33.5% | 0.1% | 0.2% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
 
@@ -104,7 +110,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–21 | 18–21 | 17–21 | 17–22 |
+| N/A | [Poll Average](average.html) | 19 | 18–21 | 18–22 | 17–22 | 17–23 |
+| [10–12 December 2024](2024-12-12-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 19 | 17–21 | 17–21 | 17–21 | 16–21 |
+| [5–11 December 2024](2024-12-11-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 18 | 18–19 | 18–20 | 18–20 | 18–21 |
+| [25 November–4 December 2024](2024-12-04-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 18–19 | 18–20 | 18–21 | 17–21 |
+| [2–4 December 2024](2024-12-04-GESOP.html) | GESOP <br> Prensa Ibérica | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
+| [25–29 November 2024](2024-11-29-NCReport.html) | NC Report <br> La Razón | 20 | 18–20 | 18–21 | 18–22 | 17–22 |
+| [25–27 November 2024](2024-11-27-40dB.html) | 40dB <br> Prisa | 21 | 21–22 | 20–23 | 20–23 | 20–23 |
 | [22–24 November 2024](2024-11-24-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
 | [20–22 November 2024](2024-11-22-TargetPoint.html) | Target Point <br> El Debate | 20 | 19–21 | 19–22 | 18–22 | 18–22 |
 | [18–22 November 2024](2024-11-22-Ipsos.html) | Ipsos <br> La Vanguardia | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
@@ -114,11 +126,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [5–8 November 2024](2024-11-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 19 | 19–21 | 19–21 | 18–21 | 17–22 |
 | [24–31 October 2024](2024-10-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 19–20 | 18–20 | 18–20 | 18–21 |
 | [21–24 October 2024](2024-10-24-GAD3.html) | GAD3 <br> ABC | 19 | 17–20 | 16–20 | 16–21 | 16–22 |
-| [22 October 2024](2024-10-22-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 20 | 19–22 | 18–22 | 17–23 | 17–23 |
 | [16–18 October 2024](2024-10-18-TargetPoint.html) | Target Point <br> El Debate | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
 | [16–18 October 2024](2024-10-18-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 19–20 | 18–20 | 18–20 | 18–21 |
 | [16–18 October 2024](2024-10-18-DYM.html) | DYM <br> Henneo | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
 | [8–11 October 2024](2024-10-11-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
+| [4–9 October 2024](2024-10-09-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
 | [20–27 September 2024](2024-09-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 20 | 19–21 | 19–21 | 19–21 | 18–21 |
 | [25–27 September 2024](2024-09-27-40dB.html) | 40dB <br> Prisa | 21 | 20–22 | 20–22 | 20–23 | 19–23 |
 | [23–26 September 2024](2024-09-26-GESOP.html) | GESOP <br> Prensa Ibérica | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
@@ -140,8 +152,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–10 July 2024](2024-07-10-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 22 | 20–24 | 20–24 | 20–24 | 19–25 |
 | [1–4 July 2024](2024-07-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
 | [1–4 July 2024](2024-07-04-CIS.html) | CIS | 22 | 22–23 | 22–24 | 22–24 | 21–24 |
-| [25–28 June 2024](2024-06-28-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [21–28 June 2024](2024-06-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 22 | 22 | 22 | 21–22 | 19–23 |
+| [25–27 June 2024](2024-06-27-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [21–24 June 2024](2024-06-24-40dB.html) | 40dB <br> Prisa | 22 | 21–23 | 21–24 | 21–24 | 20–24 |
 | [11–15 June 2024](2024-06-15-NCReport.html) | NC Report <br> La Razón | 19 | 19–21 | 18–21 | 18–21 | 18–23 |
 | [10–14 June 2024](2024-06-14-Invymark.html) | Invymark <br> laSexta | 22 | 19–24 | 19–25 | 18–25 | 17–27 |
@@ -172,13 +184,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.2% | 100% |  |
-| 17 | 3% | 99.8% |  |
-| 18 | 12% | 97% |  |
-| 19 | 45% | 85% | Median |
-| 20 | 25% | 40% |  |
-| 21 | 12% | 15% |  |
-| 22 | 2% | 2% |  |
-| 23 | 0.2% | 0.2% |  |
+| 17 | 4% | 99.7% |  |
+| 18 | 21% | 95% |  |
+| 19 | 34% | 74% | Median |
+| 20 | 22% | 40% |  |
+| 21 | 12% | 18% |  |
+| 22 | 5% | 6% |  |
+| 23 | 0.8% | 0.9% |  |
 | 24 | 0% | 0% |  |
 
 
