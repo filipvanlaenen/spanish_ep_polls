@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 3.0–5.1% | 2.8–5.4% | 2.6–5.8% | 2.3–6.4% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.0–5.3% | 2.8–5.6% | 2.6–5.9% | 2.3–6.5% |
+| [31 December–3 January 2025](2025-01-03-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [26–30 December 2024](2024-12-30-TargetPoint.html) | Target Point <br> El Debate | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
+| [26–30 December 2024](2024-12-30-SocioMétrica.html) | SocioMétrica <br> El Español | 4.4% | 3.9–4.9% | 3.8–5.1% | 3.7–5.2% | 3.5–5.5% |
+| [20–27 December 2024](2024-12-27-NCReport.html) | NC Report <br> La Razón | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
+| [13–26 December 2024](2024-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.9% | 3.5–4.5% | 3.4–4.6% | 3.2–4.8% | 3.0–5.1% |
+| [20–26 December 2024](2024-12-26-40dB.html) | 40dB <br> Prisa | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.0% | 2.3–4.3% |
 | [10–12 December 2024](2024-12-12-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [5–11 December 2024](2024-12-11-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 4.9% | 4.1–5.8% | 3.9–6.1% | 3.7–6.3% | 3.4–6.8% |
 | [25 November–4 December 2024](2024-12-04-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.8% | 3.3–4.4% | 3.2–4.6% | 3.1–4.8% | 2.8–5.1% |
@@ -68,11 +74,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 34% | 98% |  |
-| 3.5–4.5% | 44% | 64% | Median |
-| 4.5–5.5% | 16% | 20% |  |
-| 5.5–6.5% | 4% | 4% |  |
-| 6.5–7.5% | 0.3% | 0.3% |  |
+| 2.5–3.5% | 26% | 98% |  |
+| 3.5–4.5% | 43% | 73% | Median |
+| 4.5–5.5% | 24% | 30% |  |
+| 5.5–6.5% | 5% | 6% |  |
+| 6.5–7.5% | 0.4% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -84,7 +90,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
+| [31 December–3 January 2025](2025-01-03-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [26–30 December 2024](2024-12-30-TargetPoint.html) | Target Point <br> El Debate | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [26–30 December 2024](2024-12-30-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [20–27 December 2024](2024-12-27-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [13–26 December 2024](2024-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [20–26 December 2024](2024-12-26-40dB.html) | 40dB <br> Prisa | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [10–12 December 2024](2024-12-12-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [5–11 December 2024](2024-12-11-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 3 | 3 | 3 | 2–3 | 2–4 |
 | [25 November–4 December 2024](2024-12-04-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -142,10 +154,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 8% | 100% |  |
-| 2 | 55% | 92% | Median |
-| 3 | 34% | 36% |  |
-| 4 | 2% | 2% |  |
-| 5 | 0% | 0% |  |
+| 1 | 5% | 100% |  |
+| 2 | 49% | 95% | Median |
+| 3 | 43% | 46% |  |
+| 4 | 3% | 3% |  |
+| 5 | 0.1% | 0.1% |  |
+| 6 | 0% | 0% |  |
 
 

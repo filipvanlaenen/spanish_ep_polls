@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.2% | 26.3–30.2% | 25.8–30.7% | 25.4–31.2% | 24.5–32.0% |
+| N/A | [Poll Average](average.html) | 28.3% | 26.5–30.1% | 26.1–30.6% | 25.7–31.1% | 24.9–31.9% |
+| [31 December–3 January 2025](2025-01-03-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 28.3% | 26.5–30.2% | 26.0–30.7% | 25.6–31.2% | 24.8–32.1% |
+| [26–30 December 2024](2024-12-30-TargetPoint.html) | Target Point <br> El Debate | 28.5% | 26.8–30.4% | 26.3–31.0% | 25.8–31.4% | 25.0–32.3% |
+| [26–30 December 2024](2024-12-30-SocioMétrica.html) | SocioMétrica <br> El Español | 28.3% | 27.3–29.4% | 27.0–29.7% | 26.7–30.0% | 26.2–30.5% |
+| [20–27 December 2024](2024-12-27-NCReport.html) | NC Report <br> La Razón | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.5–31.8% |
+| [13–26 December 2024](2024-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 27.1% | 26.0–28.3% | 25.6–28.6% | 25.4–28.9% | 24.8–29.4% |
+| [20–26 December 2024](2024-12-26-40dB.html) | 40dB <br> Prisa | 29.5% | 28.2–30.8% | 27.8–31.2% | 27.5–31.6% | 26.9–32.2% |
 | [10–12 December 2024](2024-12-12-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 28.1% | 26.3–30.0% | 25.8–30.5% | 25.4–31.0% | 24.6–31.9% |
 | [5–11 December 2024](2024-12-11-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 28.2% | 26.5–29.9% | 26.0–30.5% | 25.6–30.9% | 24.8–31.8% |
 | [25 November–4 December 2024](2024-12-04-SigmaDos.html) | Sigma Dos <br> El Mundo | 27.4% | 26.2–28.7% | 25.8–29.1% | 25.5–29.4% | 24.9–30.0% |
@@ -88,17 +94,17 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.1% | 100% |  |
-| 23.5–24.5% | 0.5% | 99.9% |  |
-| 24.5–25.5% | 3% | 99.4% |  |
-| 25.5–26.5% | 10% | 97% |  |
-| 26.5–27.5% | 20% | 87% |  |
-| 27.5–28.5% | 25% | 67% | Median |
-| 28.5–29.5% | 22% | 41% |  |
-| 29.5–30.5% | 13% | 20% |  |
-| 30.5–31.5% | 5% | 7% |  |
-| 31.5–32.5% | 1.2% | 1.3% |  |
-| 32.5–33.5% | 0.1% | 0.2% |  |
+| 22.5–23.5% | 0% | 100% |  |
+| 23.5–24.5% | 0.2% | 100% |  |
+| 24.5–25.5% | 2% | 99.8% |  |
+| 25.5–26.5% | 8% | 98% |  |
+| 26.5–27.5% | 20% | 90% |  |
+| 27.5–28.5% | 27% | 70% | Median |
+| 28.5–29.5% | 24% | 43% |  |
+| 29.5–30.5% | 13% | 19% |  |
+| 30.5–31.5% | 5% | 6% |  |
+| 31.5–32.5% | 0.9% | 1.1% |  |
+| 32.5–33.5% | 0.1% | 0.1% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
 
@@ -111,6 +117,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 18–21 | 18–22 | 17–22 | 17–23 |
+| [31 December–3 January 2025](2025-01-03-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
+| [26–30 December 2024](2024-12-30-TargetPoint.html) | Target Point <br> El Debate | 20 | 19–21 | 18–21 | 18–22 | 17–22 |
+| [26–30 December 2024](2024-12-30-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 18–19 | 18–20 | 18–20 | 18–21 |
+| [20–27 December 2024](2024-12-27-NCReport.html) | NC Report <br> La Razón | 20 | 17–21 | 17–22 | 17–22 | 17–22 |
+| [13–26 December 2024](2024-12-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 17–20 | 17–20 | 17–20 | 17–20 |
+| [20–26 December 2024](2024-12-26-40dB.html) | 40dB <br> Prisa | 21 | 20–22 | 20–22 | 20–23 | 19–23 |
 | [10–12 December 2024](2024-12-12-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 19 | 17–21 | 17–21 | 17–21 | 16–21 |
 | [5–11 December 2024](2024-12-11-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 18 | 18–19 | 18–20 | 18–20 | 18–21 |
 | [25 November–4 December 2024](2024-12-04-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 18–19 | 18–20 | 18–21 | 17–21 |
@@ -183,14 +195,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.2% | 100% |  |
-| 17 | 4% | 99.7% |  |
-| 18 | 21% | 95% |  |
-| 19 | 34% | 74% | Median |
-| 20 | 22% | 40% |  |
-| 21 | 12% | 18% |  |
-| 22 | 5% | 6% |  |
-| 23 | 0.8% | 0.9% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 4% | 99.9% |  |
+| 18 | 22% | 96% |  |
+| 19 | 25% | 74% | Median |
+| 20 | 28% | 49% |  |
+| 21 | 14% | 21% |  |
+| 22 | 6% | 7% |  |
+| 23 | 0.7% | 0.7% |  |
 | 24 | 0% | 0% |  |
 
 
