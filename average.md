@@ -358,7 +358,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#unidos-podemos-(gue/ngl)">Unidos Podemos (GUE/NGL)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#partido-animalista-contra-el-maltrato-animal-(gue/ngl)">Partido Animalista Contra el Maltrato Animal (GUE/NGL)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#euskal-herria-bildu-(gue/ngl)">Euskal Herria Bildu (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#podemos-(gue/ngl)">Podemos (GUE/NGL)</a> | 0 | 3 | 2–3 |2–4 | 2–4 | 2–4 |
+| <a href="#podemos-(gue/ngl)">Podemos (GUE/NGL)</a> | 0 | 3 | 2–4 |2–4 | 2–4 | 2–4 |
 | <a href="#candidatura-d’unitat-popular-(gue/ngl)">Candidatura d’Unitat Popular (GUE/NGL)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#movimiento-sumar–podemos–izquierda-unida-(gue/ngl)">Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#movimiento-sumar–izquierda-unida-(gue/ngl)">Movimiento Sumar–Izquierda Unida (GUE/NGL)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 0–2 |
@@ -544,7 +544,7 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 28% | 51% | Median |
 | 21 | 16% | 24% |  |
 | 22 | 7% | 8% |  |
-| 23 | 0.8% | 0.9% |  |
+| 23 | 0.9% | 0.9% |  |
 | 24 | 0% | 0% |  |
 
 ### Ciudadanos–Partido de la Ciudadanía (RE)
@@ -621,7 +621,7 @@ Only polls for which at least the sample size has been published are included in
 | 21 | 2% | 99.8% |  |
 | 22 | 16% | 98% |  |
 | 23 | 25% | 82% |  |
-| 24 | 35% | 56% | Median |
+| 24 | 35% | 57% | Median |
 | 25 | 15% | 22% |  |
 | 26 | 5% | 6% |  |
 | 27 | 2% | 2% |  |
@@ -645,7 +645,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0.8% | 100% |  |
 | 8 | 12% | 99.2% |  |
-| 9 | 40% | 88% | Median |
+| 9 | 40% | 87% | Median |
 | 10 | 39% | 47% |  |
 | 11 | 8% | 8% |  |
 | 12 | 0.8% | 0.9% |  |
@@ -742,7 +742,7 @@ Only polls for which at least the sample size has been published are included in
 | 21 | 2% | 99.8% |  |
 | 22 | 16% | 98% |  |
 | 23 | 25% | 82% |  |
-| 24 | 35% | 56% | Median |
+| 24 | 35% | 57% | Median |
 | 25 | 15% | 22% |  |
 | 26 | 5% | 6% |  |
 | 27 | 2% | 2% |  |
@@ -778,7 +778,7 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 28% | 51% | Median |
 | 21 | 16% | 24% |  |
 | 22 | 7% | 8% |  |
-| 23 | 0.8% | 0.9% |  |
+| 23 | 0.9% | 0.9% |  |
 | 24 | 0% | 0% |  |
 
 ### Vox (PfE)
@@ -796,7 +796,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0.8% | 100% |  |
 | 8 | 12% | 99.2% |  |
-| 9 | 40% | 88% | Median |
+| 9 | 40% | 87% | Median |
 | 10 | 39% | 47% |  |
 | 11 | 8% | 8% |  |
 | 12 | 0.8% | 0.9% |  |
@@ -812,7 +812,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0.3% | 100% |  |
 | 3 | 14% | 99.7% |  |
-| 4 | 54% | 85% | Median |
+| 4 | 53% | 85% | Median |
 | 5 | 28% | 32% |  |
 | 6 | 4% | 4% |  |
 | 7 | 0.2% | 0.2% |  |
@@ -827,7 +827,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 3% | 100% |  |
 | 2 | 41% | 97% |  |
-| 3 | 39% | 56% | Median |
+| 3 | 39% | 55% | Median |
 | 4 | 16% | 16% |  |
 | 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
@@ -868,6 +868,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 8
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 15,728,640
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 16,777,216
 + **Error estimate:** 6.14%
