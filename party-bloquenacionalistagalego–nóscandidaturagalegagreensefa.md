@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.6–1.3% | 0.5–1.4% | 0.5–1.5% | 0.4–1.7% |
+| [22–24 January 2025](2025-01-24-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
 | [16–20 January 2025](2025-01-20-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [7–11 January 2025](2025-01-11-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
 | [31 December–3 January 2025](2025-01-03-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0.0% | N/A | N/A | N/A | N/A |
@@ -88,6 +89,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [22–24 January 2025](2025-01-24-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [16–20 January 2025](2025-01-20-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [7–11 January 2025](2025-01-11-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0 | 0 | 0 | 0–1 |
 | [31 December–3 January 2025](2025-01-03-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli |  |  |  |  |  |

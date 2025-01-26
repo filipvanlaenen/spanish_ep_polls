@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.8% | 12.3–15.4% | 11.9–15.9% | 11.6–16.3% | 11.0–17.2% |
+| N/A | [Poll Average](average.html) | 13.9% | 12.3–15.6% | 11.9–16.2% | 11.6–16.7% | 11.0–17.7% |
+| [22–24 January 2025](2025-01-24-TargetPoint.html) | Target Point <br> El Debate | 15.5% | 14.1–17.0% | 13.7–17.5% | 13.4–17.9% | 12.7–18.6% |
 | [16–20 January 2025](2025-01-20-DYM.html) | DYM <br> Henneo | 12.9% | 11.6–14.4% | 11.3–14.8% | 11.0–15.1% | 10.4–15.9% |
 | [7–11 January 2025](2025-01-11-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 14.3% | 13.0–15.7% | 12.6–16.1% | 12.3–16.5% | 11.7–17.2% |
 | [31 December–3 January 2025](2025-01-03-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
@@ -87,12 +88,13 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 2% | 99.9% |  |
 | 11.5–12.5% | 12% | 98% |  |
 | 12.5–13.5% | 25% | 85% |  |
-| 13.5–14.5% | 33% | 60% | Median |
-| 14.5–15.5% | 19% | 27% |  |
-| 15.5–16.5% | 6% | 8% |  |
-| 16.5–17.5% | 1.4% | 2% |  |
-| 17.5–18.5% | 0.2% | 0.2% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 13.5–14.5% | 31% | 61% | Median |
+| 14.5–15.5% | 19% | 29% |  |
+| 15.5–16.5% | 7% | 10% |  |
+| 16.5–17.5% | 2% | 3% |  |
+| 17.5–18.5% | 0.5% | 0.6% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -103,7 +105,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
+| [22–24 January 2025](2025-01-24-TargetPoint.html) | Target Point <br> El Debate | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
 | [16–20 January 2025](2025-01-20-DYM.html) | DYM <br> Henneo | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [7–11 January 2025](2025-01-11-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 10 | 9–10 | 8–10 | 8–11 | 8–11 |
 | [31 December–3 January 2025](2025-01-03-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
@@ -177,10 +180,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.8% | 100% |  |
 | 8 | 12% | 99.2% |  |
-| 9 | 40% | 87% | Median |
-| 10 | 39% | 47% |  |
-| 11 | 8% | 8% |  |
-| 12 | 0.8% | 0.9% |  |
-| 13 | 0% | 0% |  |
+| 9 | 39% | 88% | Median |
+| 10 | 38% | 49% |  |
+| 11 | 9% | 11% |  |
+| 12 | 2% | 2% |  |
+| 13 | 0.1% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 
