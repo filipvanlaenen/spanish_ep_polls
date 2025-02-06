@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.8% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.5% | 0.1–0.6% | 0.1–0.6% | 0.0–0.8% |
+| [24–31 January 2025](2025-01-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
+| [28–31 January 2025](2025-01-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [24–27 January 2025](2025-01-27-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [22–24 January 2025](2025-01-24-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
+| [16–23 January 2025](2025-01-23-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
 | [16–20 January 2025](2025-01-20-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [7–11 January 2025](2025-01-11-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
 | [31 December–3 January 2025](2025-01-03-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0.0% | N/A | N/A | N/A | N/A |
@@ -88,7 +92,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [24–31 January 2025](2025-01-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0 | 0 | 0 |
+| [28–31 January 2025](2025-01-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0 | 0 | 0 | 0 | 0 |
+| [24–27 January 2025](2025-01-27-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [22–24 January 2025](2025-01-24-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
+| [16–23 January 2025](2025-01-23-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [16–20 January 2025](2025-01-20-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [7–11 January 2025](2025-01-11-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0 | 0 | 0 | 0 |
 | [31 December–3 January 2025](2025-01-03-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli |  |  |  |  |  |
