@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sat, 20 Jul 2024 10:33:34 +0200</pubDate>
     <item>
+      <title>Opinion Poll by NC Report for La Razón, 4–7 February 2025 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-07-NCReport.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by NC Report for La Razón, 4–7 February 2025<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-07-NCReport.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-07-NCReport-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-07-NCReport-seating-plan.png" length="440143" type="image/png"/>
+      <pubDate>Wed, 12 Feb 2025 19:11:37 +0100</pubDate>
+      <dc:date>2025-02-12T19:11:37.539932573+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 4–7 February 2025 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-07-NCReport.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by NC Report for La Razón, 4–7 February 2025<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-07-NCReport.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-07-NCReport-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-07-NCReport-seats.png" length="387826" type="image/png"/>
+      <pubDate>Wed, 12 Feb 2025 19:11:37 +0100</pubDate>
+      <dc:date>2025-02-12T19:11:37.539932573+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 4–7 February 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-07-NCReport.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by NC Report for La Razón, 4–7 February 2025<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-07-NCReport.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-07-NCReport.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-07-NCReport.png" length="443923" type="image/png"/>
+      <pubDate>Wed, 12 Feb 2025 19:11:37 +0100</pubDate>
+      <dc:date>2025-02-12T19:11:37.539932573+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Hamalgama Métrica for VozPópuli, 28–31 January 2025 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-01-31-HamalgamaMétrica.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by Hamalgama Métrica for VozPópuli, 28–31 January 2025<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2025-01-31-HamalgamaMétrica.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2025-01-31-HamalgamaMétrica-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2024-12-30-SocioMétrica.png" length="447446" type="image/png"/>
       <pubDate>Sun, 12 Jan 2025 12:20:32 +0100</pubDate>
       <dc:date>2025-01-12T12:20:32.091108621+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Target Point for El Debate, 26–30 December 2024 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2024-12-30-TargetPoint.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by Target Point for El Debate, 26–30 December 2024<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2024-12-30-TargetPoint.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2024-12-30-TargetPoint-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2024-12-30-TargetPoint-seating-plan.png" length="433103" type="image/png"/>
-      <pubDate>Sun, 12 Jan 2025 12:07:36 +0100</pubDate>
-      <dc:date>2025-01-12T12:07:36.71550514+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Target Point for El Debate, 26–30 December 2024 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2024-12-30-TargetPoint.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by Target Point for El Debate, 26–30 December 2024<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2024-12-30-TargetPoint.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2024-12-30-TargetPoint-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2024-12-30-TargetPoint-seats.png" length="236919" type="image/png"/>
-      <pubDate>Sun, 12 Jan 2025 12:07:36 +0100</pubDate>
-      <dc:date>2025-01-12T12:07:36.71550514+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Target Point for El Debate, 26–30 December 2024 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2024-12-30-TargetPoint.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Target Point for El Debate, 26–30 December 2024<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2024-12-30-TargetPoint.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2024-12-30-TargetPoint.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2024-12-30-TargetPoint.png" length="278902" type="image/png"/>
-      <pubDate>Sun, 12 Jan 2025 12:07:36 +0100</pubDate>
-      <dc:date>2025-01-12T12:07:36.71550514+01:00</dc:date>
     </item>
   </channel>
 </rss>
