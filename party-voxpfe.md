@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.1% | 12.6–15.8% | 12.2–16.3% | 11.8–16.8% | 11.1–17.7% |
+| N/A | [Poll Average](average.html) | 14.0% | 12.6–15.7% | 12.2–16.2% | 11.9–16.7% | 11.2–17.6% |
+| [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 14.3% | 13.3–15.4% | 13.0–15.7% | 12.8–16.0% | 12.3–16.5% |
 | [4–7 February 2025](2025-02-07-NCReport.html) | NC Report <br> La Razón | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.6–17.4% |
+| [31 January–6 February 2025](2025-02-06-CIS.html) | CIS | 13.3% | 12.6–14.0% | 12.5–14.2% | 12.3–14.4% | 12.0–14.7% |
 | [24–31 January 2025](2025-01-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 13.1% | 12.2–14.1% | 12.0–14.3% | 11.8–14.6% | 11.4–15.0% |
 | [28–31 January 2025](2025-01-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.6–17.4% |
 | [24–27 January 2025](2025-01-27-40dB.html) | 40dB <br> Prisa | 14.2% | 13.2–15.3% | 13.0–15.5% | 12.7–15.8% | 12.3–16.3% |
@@ -90,14 +92,14 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 1.2% | 99.9% |  |
-| 11.5–12.5% | 8% | 98.7% |  |
-| 12.5–13.5% | 23% | 91% |  |
-| 13.5–14.5% | 31% | 67% | Median |
-| 14.5–15.5% | 22% | 36% |  |
-| 15.5–16.5% | 10% | 14% |  |
-| 16.5–17.5% | 3% | 4% |  |
-| 17.5–18.5% | 0.6% | 0.7% |  |
+| 10.5–11.5% | 1.1% | 99.9% |  |
+| 11.5–12.5% | 8% | 98.8% |  |
+| 12.5–13.5% | 27% | 91% |  |
+| 13.5–14.5% | 32% | 64% | Median |
+| 14.5–15.5% | 20% | 32% |  |
+| 15.5–16.5% | 8% | 12% |  |
+| 16.5–17.5% | 2% | 3% |  |
+| 17.5–18.5% | 0.5% | 0.6% |  |
 | 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
@@ -110,8 +112,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
+| [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
 | [4–7 February 2025](2025-02-07-NCReport.html) | NC Report <br> La Razón | 10 | 9–10 | 8–10 | 8–11 | 8–12 |
+| [31 January–6 February 2025](2025-02-06-CIS.html) | CIS | 9 | 9 | 8–10 | 8–10 | 8–10 |
 | [24–31 January 2025](2025-01-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [28–31 January 2025](2025-01-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 9 | 9–10 | 9–11 | 8–11 | 8–11 |
 | [24–27 January 2025](2025-01-27-40dB.html) | 40dB <br> Prisa | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
@@ -188,12 +192,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.7% | 100% |  |
-| 8 | 12% | 99.3% |  |
-| 9 | 27% | 87% |  |
-| 10 | 49% | 61% | Median |
-| 11 | 10% | 12% |  |
-| 12 | 2% | 2% |  |
+| 7 | 0.6% | 100% |  |
+| 8 | 11% | 99.4% |  |
+| 9 | 39% | 88% | Median |
+| 10 | 39% | 49% |  |
+| 11 | 9% | 10% |  |
+| 12 | 1.4% | 2% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
