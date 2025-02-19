@@ -98,7 +98,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–7 February 2025](2025-02-07-NCReport.html) | NC Report <br> La Razón | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | [31 January–6 February 2025](2025-02-06-CIS.html) | CIS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–31 January 2025](2025-01-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -171,8 +171,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.0% | 100% | Last Result |
-| 1 | 85% | 99.0% | Median |
-| 2 | 14% | 14% |  |
+| 1 | 84% | 99.0% | Median |
+| 2 | 15% | 15% |  |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 

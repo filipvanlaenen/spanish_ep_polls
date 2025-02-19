@@ -133,7 +133,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 21–25 | 19–25 | 19–26 | 19–27 |
-| [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 23 | 22–23 | 22–23 | 22–24 | 21–25 |
+| [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 23 | 22–23 | 21–24 | 21–24 | 21–25 |
 | [4–7 February 2025](2025-02-07-NCReport.html) | NC Report <br> La Razón | 24 | 23–25 | 23–26 | 22–26 | 21–26 |
 | [31 January–6 February 2025](2025-02-06-CIS.html) | CIS | 19 | 19–21 | 19–21 | 19–21 | 18–21 |
 | [24–31 January 2025](2025-01-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 23 | 22–24 | 22–25 | 22–25 | 21–25 |
@@ -227,9 +227,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 6% | 99.8% |  |
 | 20 | 2% | 94% |  |
 | 21 | 6% | 92% |  |
-| 22 | 13% | 87% |  |
+| 22 | 12% | 86% |  |
 | 23 | 29% | 74% | Median |
-| 24 | 25% | 44% |  |
+| 24 | 25% | 45% |  |
 | 25 | 16% | 20% |  |
 | 26 | 3% | 4% |  |
 | 27 | 0.6% | 0.7% |  |
