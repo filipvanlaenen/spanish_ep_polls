@@ -115,7 +115,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
 | [4–7 February 2025](2025-02-07-NCReport.html) | NC Report <br> La Razón | 10 | 9–10 | 8–10 | 8–11 | 8–12 |
-| [31 January–6 February 2025](2025-02-06-CIS.html) | CIS | 9 | 9 | 8–10 | 8–10 | 8–10 |
+| [31 January–6 February 2025](2025-02-06-CIS.html) | CIS | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [24–31 January 2025](2025-01-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [28–31 January 2025](2025-01-31-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 9 | 9–10 | 9–11 | 8–11 | 8–11 |
 | [24–27 January 2025](2025-01-27-40dB.html) | 40dB <br> Prisa | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
@@ -193,9 +193,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.6% | 100% |  |
-| 8 | 11% | 99.4% |  |
-| 9 | 39% | 88% | Median |
-| 10 | 39% | 50% |  |
+| 8 | 14% | 99.4% |  |
+| 9 | 36% | 86% | Median |
+| 10 | 39% | 49% |  |
 | 11 | 9% | 10% |  |
 | 12 | 1.4% | 1.5% |  |
 | 13 | 0.1% | 0.1% |  |
