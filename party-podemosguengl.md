@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.5–5.8% | 3.3–6.2% | 3.1–6.6% | 2.8–7.5% |
-| [21 February 2025](2025-02-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 5.5% | 4.4–7.0% | 4.1–7.4% | 3.9–7.7% | 3.4–8.5% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.6–5.7% | 3.3–6.1% | 3.1–6.4% | 2.8–6.9% |
+| [12–17 February 2025](2025-02-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 5.4% | 4.6–6.3% | 4.4–6.6% | 4.2–6.9% | 3.8–7.4% |
 | [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 4.4% | 3.8–5.1% | 3.7–5.3% | 3.6–5.5% | 3.3–5.8% |
 | [4–7 February 2025](2025-02-07-NCReport.html) | NC Report <br> La Razón | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.2% | 3.2–6.7% |
 | [31 January–6 February 2025](2025-02-06-CIS.html) | CIS | 4.4% | 4.0–4.8% | 3.9–5.0% | 3.8–5.1% | 3.6–5.3% |
@@ -85,14 +85,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 10% | 99.9% |  |
-| 3.5–4.5% | 38% | 90% |  |
-| 4.5–5.5% | 38% | 52% | Median |
-| 5.5–6.5% | 11% | 14% |  |
-| 6.5–7.5% | 2% | 3% |  |
-| 7.5–8.5% | 0.4% | 0.4% |  |
+| 2.5–3.5% | 9% | 99.9% |  |
+| 3.5–4.5% | 36% | 91% |  |
+| 4.5–5.5% | 41% | 55% | Median |
+| 5.5–6.5% | 13% | 14% |  |
+| 6.5–7.5% | 1.5% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
-| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -103,8 +102,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
-| [21 February 2025](2025-02-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| [12–17 February 2025](2025-02-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3 | 2–3 | 2–4 | 2–4 | 2–5 |
 | [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [4–7 February 2025](2025-02-07-NCReport.html) | NC Report <br> La Razón | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [31 January–6 February 2025](2025-02-06-CIS.html) | CIS | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -178,12 +177,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.7% | 100% |  |
-| 2 | 32% | 99.3% |  |
-| 3 | 54% | 67% | Median |
-| 4 | 12% | 13% |  |
-| 5 | 0.9% | 1.0% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 1 | 0.6% | 100% |  |
+| 2 | 32% | 99.4% |  |
+| 3 | 57% | 67% | Median |
+| 4 | 10% | 10% |  |
+| 5 | 0.3% | 0.3% |  |
+| 6 | 0% | 0% |  |
 
 
