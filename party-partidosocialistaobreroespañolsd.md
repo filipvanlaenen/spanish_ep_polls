@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.3% | 26.5–32.5% | 26.0–33.5% | 25.5–34.0% | 24.6–34.7% |
+| N/A | [Poll Average](average.html) | 28.2% | 26.3–32.5% | 25.8–33.5% | 25.3–34.0% | 24.3–34.7% |
+| [21 February 2025](2025-02-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 28.0% | 25.6–30.5% | 24.9–31.3% | 24.4–31.9% | 23.3–33.1% |
 | [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 27.8% | 26.5–29.2% | 26.1–29.6% | 25.8–29.9% | 25.2–30.6% |
 | [4–7 February 2025](2025-02-07-NCReport.html) | NC Report <br> La Razón | 27.9% | 26.1–29.8% | 25.6–30.3% | 25.2–30.8% | 24.4–31.7% |
 | [31 January–6 February 2025](2025-02-06-CIS.html) | CIS | 33.4% | 32.4–34.4% | 32.2–34.6% | 32.0–34.9% | 31.5–35.3% |
@@ -104,14 +105,14 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.4% | 100% |  |
-| 24.5–25.5% | 2% | 99.6% |  |
-| 25.5–26.5% | 8% | 97% |  |
-| 26.5–27.5% | 20% | 89% |  |
-| 27.5–28.5% | 26% | 69% | Median |
-| 28.5–29.5% | 19% | 43% |  |
-| 29.5–30.5% | 9% | 24% |  |
+| 22.5–23.5% | 0.1% | 100% |  |
+| 23.5–24.5% | 0.6% | 99.9% |  |
+| 24.5–25.5% | 3% | 99.2% |  |
+| 25.5–26.5% | 9% | 97% |  |
+| 26.5–27.5% | 21% | 87% |  |
+| 27.5–28.5% | 26% | 67% | Median |
+| 28.5–29.5% | 18% | 41% |  |
+| 29.5–30.5% | 8% | 23% |  |
 | 30.5–31.5% | 3% | 15% |  |
 | 31.5–32.5% | 2% | 12% |  |
 | 32.5–33.5% | 5% | 10% |  |
@@ -128,7 +129,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–22 | 18–23 | 18–24 | 17–25 |
+| N/A | [Poll Average](average.html) | 19 | 18–22 | 18–23 | 17–24 | 17–25 |
+| [21 February 2025](2025-02-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
 | [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 18–20 | 18–20 | 17–20 | 17–21 |
 | [4–7 February 2025](2025-02-07-NCReport.html) | NC Report <br> La Razón | 18 | 18–20 | 18–21 | 17–21 | 17–22 |
 | [31 January–6 February 2025](2025-02-06-CIS.html) | CIS | 23 | 22–25 | 22–25 | 22–25 | 22–25 |
@@ -217,13 +219,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.2% | 100% |  |
-| 17 | 2% | 99.8% |  |
-| 18 | 23% | 98% |  |
-| 19 | 24% | 75% |  |
-| 20 | 24% | 51% | Median |
-| 21 | 12% | 27% |  |
-| 22 | 7% | 15% |  |
+| 16 | 0.4% | 100% |  |
+| 17 | 3% | 99.6% |  |
+| 18 | 24% | 97% |  |
+| 19 | 26% | 72% | Median |
+| 20 | 22% | 46% |  |
+| 21 | 11% | 24% |  |
+| 22 | 6% | 14% |  |
 | 23 | 5% | 8% |  |
 | 24 | 1.5% | 3% |  |
 | 25 | 1.2% | 1.3% |  |
