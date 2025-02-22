@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 20 Feb 2025 09:02:35 +0100</pubDate>
+    <pubDate>Sat, 22 Feb 2025 13:28:42 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for Onda Cero, 21 February 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-21-Celeste-Tel.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17–22 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 8–12 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2–5 seats&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 0–2 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 21–27 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-21-Celeste-Tel-seats.png"
+        length="247971"
+        type="image/png"/>
+      <pubDate>Sat, 22 Feb 2025 13:28:42 +0100</pubDate>
+      <dc:date>2025-02-22T13:28:42.540316+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for Onda Cero, 21 February 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-21-Celeste-Tel.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-21-Celeste-Tel-coalitions-seats.png"
+        length="225357"
+        type="image/png"/>
+      <pubDate>Sat, 22 Feb 2025 13:28:42 +0100</pubDate>
+      <dc:date>2025-02-22T13:28:42.540316+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for Onda Cero, 21 February 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-21-Celeste-Tel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 24.4–31.9%&lt;/li&gt;&lt;li&gt;Vox (PfE): 11.6–17.5%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 1.5–4.3%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 3.9–7.7%&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 1.1–3.6%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 30.5–38.5%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 2.7–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-21-Celeste-Tel.png"
+        length="286556"
+        type="image/png"/>
+      <pubDate>Sat, 22 Feb 2025 13:28:42 +0100</pubDate>
+      <dc:date>2025-02-22T13:28:42.540316+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 12–14 February 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-02-14-SocioMétrica.html#seats</link>
@@ -1809,6 +1839,6 @@
       <pubDate>Thu, 26 Sep 2024 23:01:48 +0200</pubDate>
       <dc:date>2024-09-26T23:01:48.415794+02:00</dc:date>
     </item>
-    <dc:date>2025-02-20T09:02:35.130353+01:00</dc:date>
+    <dc:date>2025-02-22T13:28:42.540316+01:00</dc:date>
   </channel>
 </rss>
