@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.2% | 26.5–32.1% | 25.9–33.4% | 25.5–33.9% | 24.6–34.6% |
+| N/A | [Poll Average](average.html) | 28.3% | 26.4–32.6% | 25.9–33.5% | 25.5–34.0% | 24.6–34.7% |
+| [19–21 February 2025](2025-02-21-TargetPoint.html) | Target Point <br> El Debate | 29.9% | 28.1–31.8% | 27.6–32.3% | 27.1–32.8% | 26.3–33.7% |
 | [12–17 February 2025](2025-02-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 27.9% | 26.2–29.7% | 25.7–30.2% | 25.3–30.6% | 24.5–31.5% |
 | [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 27.8% | 26.5–29.2% | 26.1–29.6% | 25.8–29.9% | 25.2–30.6% |
 | [4–7 February 2025](2025-02-07-NCReport.html) | NC Report <br> La Razón | 27.9% | 26.1–29.8% | 25.6–30.3% | 25.2–30.8% | 24.4–31.7% |
@@ -107,17 +108,17 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0.4% | 100% |  |
-| 24.5–25.5% | 2% | 99.6% |  |
+| 24.5–25.5% | 2% | 99.5% |  |
 | 25.5–26.5% | 9% | 97% |  |
-| 26.5–27.5% | 20% | 89% |  |
-| 27.5–28.5% | 26% | 68% | Median |
-| 28.5–29.5% | 19% | 42% |  |
-| 29.5–30.5% | 9% | 23% |  |
-| 30.5–31.5% | 3% | 14% |  |
-| 31.5–32.5% | 2% | 11% |  |
-| 32.5–33.5% | 5% | 9% |  |
-| 33.5–34.5% | 4% | 4% |  |
-| 34.5–35.5% | 0.6% | 0.6% |  |
+| 26.5–27.5% | 20% | 88% |  |
+| 27.5–28.5% | 25% | 68% | Median |
+| 28.5–29.5% | 18% | 43% |  |
+| 29.5–30.5% | 8% | 25% |  |
+| 30.5–31.5% | 4% | 16% |  |
+| 31.5–32.5% | 3% | 13% |  |
+| 32.5–33.5% | 5% | 10% |  |
+| 33.5–34.5% | 4% | 5% |  |
+| 34.5–35.5% | 0.7% | 0.7% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
 
@@ -129,7 +130,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–22 | 18–23 | 17–23 | 17–25 |
+| N/A | [Poll Average](average.html) | 20 | 18–22 | 18–23 | 17–24 | 16–25 |
+| [19–21 February 2025](2025-02-21-TargetPoint.html) | Target Point <br> El Debate | 21 | 20–22 | 19–23 | 19–23 | 18–23 |
 | [12–17 February 2025](2025-02-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 20 | 18–20 | 17–20 | 16–20 | 16–21 |
 | [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 18–20 | 18–20 | 17–20 | 17–21 |
 | [4–7 February 2025](2025-02-07-NCReport.html) | NC Report <br> La Razón | 18 | 18–20 | 18–21 | 17–21 | 17–22 |
@@ -221,14 +223,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0.5% | 100% |  |
 | 17 | 2% | 99.5% |  |
-| 18 | 23% | 97% |  |
-| 19 | 23% | 74% |  |
-| 20 | 27% | 51% | Median |
-| 21 | 11% | 25% |  |
-| 22 | 6% | 13% |  |
-| 23 | 4% | 7% |  |
-| 24 | 1.3% | 2% |  |
-| 25 | 1.1% | 1.1% |  |
+| 18 | 25% | 97% |  |
+| 19 | 22% | 72% |  |
+| 20 | 24% | 50% | Median |
+| 21 | 11% | 26% |  |
+| 22 | 7% | 15% |  |
+| 23 | 5% | 8% |  |
+| 24 | 2% | 3% |  |
+| 25 | 1.2% | 1.3% |  |
 | 26 | 0% | 0% |  |
 
 

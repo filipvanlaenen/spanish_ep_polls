@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.9–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.8% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.9–3.0% | 1.8–3.2% | 1.6–3.4% | 1.4–3.8% |
+| [19–21 February 2025](2025-02-21-TargetPoint.html) | Target Point <br> El Debate | 2.5% | 2.0–3.2% | 1.8–3.5% | 1.7–3.6% | 1.5–4.0% |
 | [12–17 February 2025](2025-02-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–3.9% |
 | [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 2.5% | 2.1–3.1% | 2.0–3.2% | 1.9–3.4% | 1.7–3.7% |
 | [4–7 February 2025](2025-02-07-NCReport.html) | NC Report <br> La Razón | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
@@ -84,9 +85,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 60% | 98% | Median |
-| 2.5–3.5% | 37% | 39% |  |
-| 3.5–4.5% | 1.4% | 1.5% |  |
+| 1.5–2.5% | 58% | 98% | Median |
+| 2.5–3.5% | 38% | 40% |  |
+| 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -99,6 +100,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [19–21 February 2025](2025-02-21-TargetPoint.html) | Target Point <br> El Debate | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–17 February 2025](2025-02-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–7 February 2025](2025-02-07-NCReport.html) | NC Report <br> La Razón | 1 | 1 | 0–2 | 0–2 | 0–2 |
@@ -172,10 +174,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.9% | 100% | Last Result |
-| 1 | 86% | 99.1% | Median |
-| 2 | 13% | 13% |  |
-| 3 | 0.2% | 0.2% |  |
+| 0 | 0.8% | 100% | Last Result |
+| 1 | 87% | 99.2% | Median |
+| 2 | 12% | 12% |  |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 
