@@ -136,7 +136,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 20–24 | 19–25 | 19–25 | 19–26 |
-| [24–28 February 2025](2025-02-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 24 | 22–24 | 22–24 | 21–25 | 21–27 |
+| [24–28 February 2025](2025-02-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 24 | 22–25 | 21–25 | 20–25 | 20–27 |
 | [19–21 February 2025](2025-02-21-TargetPoint.html) | Target Point <br> El Debate | 23 | 22–24 | 21–25 | 21–25 | 20–26 |
 | [12–17 February 2025](2025-02-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 23 | 22–24 | 22–24 | 22–25 | 21–25 |
 | [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 23 | 22–23 | 21–24 | 21–24 | 21–25 |
@@ -231,14 +231,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0.2% | 100% |  |
 | 19 | 5% | 99.8% |  |
-| 20 | 6% | 95% |  |
+| 20 | 7% | 95% |  |
 | 21 | 6% | 88% |  |
-| 22 | 19% | 83% |  |
-| 23 | 30% | 64% | Median |
-| 24 | 28% | 34% |  |
-| 25 | 5% | 6% |  |
-| 26 | 1.2% | 1.4% |  |
-| 27 | 0.2% | 0.2% |  |
+| 22 | 17% | 82% |  |
+| 23 | 30% | 65% | Median |
+| 24 | 26% | 35% |  |
+| 25 | 8% | 10% |  |
+| 26 | 1.3% | 1.4% |  |
+| 27 | 0.1% | 0.2% |  |
 | 28 | 0% | 0% |  |
 
 
