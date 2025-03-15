@@ -15,7 +15,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [3–7 March 2025](2025-03-07-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [3–6 March 2025](2025-03-06-GESOP.html) | GESOP <br> Prensa Ibérica | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [24–28 February 2025](2025-02-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
-| [21–24 February 2025](2025-02-24-40dB.html) | 40dB <br> Prisa | 1.9% | N/A | N/A | N/A | N/A |
+| [21–24 February 2025](2025-02-24-40dB.html) | 40dB <br> Prisa | 1.9% | 1.6–2.4% | 1.5–2.5% | 1.4–2.6% | 1.2–2.8% |
 | [19–21 February 2025](2025-02-21-TargetPoint.html) | Target Point <br> El Debate | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [12–17 February 2025](2025-02-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 2.2% | 1.8–2.7% | 1.7–2.9% | 1.6–3.0% | 1.4–3.3% |
@@ -90,9 +90,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 10% | 100% |  |
-| 1.5–2.5% | 59% | 90% | Median |
-| 2.5–3.5% | 30% | 31% |  |
-| 3.5–4.5% | 1.2% | 1.2% |  |
+| 1.5–2.5% | 62% | 90% | Median |
+| 2.5–3.5% | 26% | 28% |  |
+| 3.5–4.5% | 1.1% | 1.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -105,11 +105,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [24 February–7 March 2025](2025-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [24 February–7 March 2025](2025-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–7 March 2025](2025-03-07-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [3–6 March 2025](2025-03-06-GESOP.html) | GESOP <br> Prensa Ibérica | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–28 February 2025](2025-02-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [21–24 February 2025](2025-02-24-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
+| [21–24 February 2025](2025-02-24-40dB.html) | 40dB <br> Prisa | 1 | 1 | 1 | 1 | 0–2 |
 | [19–21 February 2025](2025-02-21-TargetPoint.html) | Target Point <br> El Debate | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [12–17 February 2025](2025-02-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 1 | 1 | 0–1 | 0–2 |
 | [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -184,9 +184,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 71% | 92% | Median |
-| 2 | 21% | 21% |  |
+| 0 | 7% | 100% | Last Result |
+| 1 | 75% | 93% | Median |
+| 2 | 18% | 18% |  |
 | 3 | 0% | 0% |  |
 
 
