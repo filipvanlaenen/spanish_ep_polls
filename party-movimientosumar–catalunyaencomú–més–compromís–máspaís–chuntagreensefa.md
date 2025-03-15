@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.3–4.7% | 3.1–4.9% | 2.9–5.1% | 2.5–5.6% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.4% | 2.7–6.0% |
+| [24 February–7 March 2025](2025-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.0% | 3.5–4.5% | 3.4–4.6% | 3.3–4.7% | 3.1–5.0% |
+| [3–7 March 2025](2025-03-07-NCReport.html) | NC Report <br> La Razón | 3.6% | 3.0–4.3% | 2.9–4.5% | 2.8–4.7% | 2.5–5.0% |
+| [3–6 March 2025](2025-03-06-GESOP.html) | GESOP <br> Prensa Ibérica | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
 | [24–28 February 2025](2025-02-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
+| [21–24 February 2025](2025-02-24-40dB.html) | 40dB <br> Prisa | 3.6% | N/A | N/A | N/A | N/A |
 | [19–21 February 2025](2025-02-21-TargetPoint.html) | Target Point <br> El Debate | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% | 2.6–5.8% |
 | [12–17 February 2025](2025-02-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
 | [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 4.1% | 3.5–4.8% | 3.4–4.9% | 3.3–5.1% | 3.0–5.4% |
@@ -86,12 +90,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.5% | 100% |  |
-| 2.5–3.5% | 21% | 99.5% |  |
-| 3.5–4.5% | 65% | 78% | Median |
-| 4.5–5.5% | 13% | 13% |  |
-| 5.5–6.5% | 0.5% | 0.5% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 18% | 99.8% |  |
+| 3.5–4.5% | 64% | 82% | Median |
+| 4.5–5.5% | 16% | 18% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -102,8 +107,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [24 February–7 March 2025](2025-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [3–7 March 2025](2025-03-07-NCReport.html) | NC Report <br> La Razón | 2 | 2 | 2 | 2–3 | 1–3 |
+| [3–6 March 2025](2025-03-06-GESOP.html) | GESOP <br> Prensa Ibérica | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [24–28 February 2025](2025-02-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [21–24 February 2025](2025-02-24-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [19–21 February 2025](2025-02-21-TargetPoint.html) | Target Point <br> El Debate | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [12–17 February 2025](2025-02-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -179,10 +188,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.4% | 100% |  |
-| 2 | 65% | 98.6% | Median |
-| 3 | 33% | 33% |  |
-| 4 | 0.2% | 0.2% |  |
+| 1 | 0.5% | 100% |  |
+| 2 | 61% | 99.5% | Median |
+| 3 | 37% | 38% |  |
+| 4 | 1.1% | 1.1% |  |
 | 5 | 0% | 0% |  |
 
 

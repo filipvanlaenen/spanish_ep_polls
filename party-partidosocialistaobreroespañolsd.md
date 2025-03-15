@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.3% | 26.5–33.1% | 26.0–33.7% | 25.5–34.1% | 24.7–34.8% |
+| N/A | [Poll Average](average.html) | 28.3% | 26.4–32.8% | 25.8–33.6% | 25.3–34.0% | 24.4–34.7% |
+| [24 February–7 March 2025](2025-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 27.8% | 26.7–28.9% | 26.4–29.2% | 26.2–29.5% | 25.7–30.0% |
+| [3–7 March 2025](2025-03-07-NCReport.html) | NC Report <br> La Razón | 28.5% | 27.1–30.1% | 26.7–30.5% | 26.3–30.9% | 25.6–31.6% |
+| [3–6 March 2025](2025-03-06-GESOP.html) | GESOP <br> Prensa Ibérica | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
 | [24–28 February 2025](2025-02-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 27.5% | 25.7–29.4% | 25.2–29.9% | 24.8–30.4% | 24.0–31.3% |
+| [21–24 February 2025](2025-02-24-40dB.html) | 40dB <br> Prisa | 29.6% | N/A | N/A | N/A | N/A |
 | [19–21 February 2025](2025-02-21-TargetPoint.html) | Target Point <br> El Debate | 29.9% | 28.1–31.8% | 27.6–32.3% | 27.1–32.8% | 26.3–33.7% |
 | [12–17 February 2025](2025-02-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 27.9% | 26.2–29.7% | 25.7–30.2% | 25.3–30.6% | 24.5–31.5% |
 | [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 27.8% | 26.5–29.2% | 26.1–29.6% | 25.8–29.9% | 25.2–30.6% |
@@ -107,19 +111,19 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.4% | 100% |  |
-| 24.5–25.5% | 2% | 99.6% |  |
+| 22.5–23.5% | 0.1% | 100% |  |
+| 23.5–24.5% | 0.6% | 99.9% |  |
+| 24.5–25.5% | 3% | 99.3% |  |
 | 25.5–26.5% | 9% | 97% |  |
-| 26.5–27.5% | 20% | 89% |  |
+| 26.5–27.5% | 20% | 88% |  |
 | 27.5–28.5% | 24% | 68% | Median |
-| 28.5–29.5% | 16% | 45% |  |
-| 29.5–30.5% | 8% | 29% |  |
-| 30.5–31.5% | 4% | 20% |  |
-| 31.5–32.5% | 3% | 16% |  |
-| 32.5–33.5% | 7% | 13% |  |
-| 33.5–34.5% | 5% | 6% |  |
-| 34.5–35.5% | 0.9% | 0.9% |  |
+| 28.5–29.5% | 17% | 43% |  |
+| 29.5–30.5% | 8% | 26% |  |
+| 30.5–31.5% | 4% | 18% |  |
+| 31.5–32.5% | 3% | 14% |  |
+| 32.5–33.5% | 6% | 11% |  |
+| 33.5–34.5% | 5% | 5% |  |
+| 34.5–35.5% | 0.8% | 0.8% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
 
@@ -131,8 +135,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–23 | 18–23 | 17–24 | 16–25 |
+| N/A | [Poll Average](average.html) | 19 | 18–22 | 18–23 | 17–24 | 16–25 |
+| [24 February–7 March 2025](2025-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 18 | 18–20 | 18–20 | 18–20 |
+| [3–7 March 2025](2025-03-07-NCReport.html) | NC Report <br> La Razón | 20 | 18–20 | 18–21 | 18–21 | 18–22 |
+| [3–6 March 2025](2025-03-06-GESOP.html) | GESOP <br> Prensa Ibérica | 19 | 18–20 | 17–21 | 17–21 | 16–22 |
 | [24–28 February 2025](2025-02-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
+| [21–24 February 2025](2025-02-24-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [19–21 February 2025](2025-02-21-TargetPoint.html) | Target Point <br> El Debate | 21 | 20–22 | 19–23 | 19–23 | 18–23 |
 | [12–17 February 2025](2025-02-17-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 20 | 18–20 | 17–20 | 16–20 | 16–21 |
 | [12–14 February 2025](2025-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 18–20 | 18–20 | 17–20 | 17–21 |
@@ -225,14 +233,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0.6% | 100% |  |
 | 17 | 2% | 99.4% |  |
-| 18 | 28% | 97% |  |
-| 19 | 23% | 70% | Median |
-| 20 | 22% | 47% |  |
-| 21 | 7% | 25% |  |
-| 22 | 8% | 18% |  |
-| 23 | 7% | 10% |  |
-| 24 | 2% | 4% |  |
-| 25 | 2% | 2% |  |
+| 18 | 26% | 97% |  |
+| 19 | 21% | 71% | Median |
+| 20 | 26% | 49% |  |
+| 21 | 7% | 23% |  |
+| 22 | 7% | 16% |  |
+| 23 | 6% | 9% |  |
+| 24 | 2% | 3% |  |
+| 25 | 1.4% | 1.4% |  |
 | 26 | 0% | 0% |  |
 
 
