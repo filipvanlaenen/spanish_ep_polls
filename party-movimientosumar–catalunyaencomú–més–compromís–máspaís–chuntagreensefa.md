@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.3–4.8% | 3.1–5.1% | 3.0–5.4% | 2.7–5.9% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
+| [12–16 March 2025](2025-03-16-DYM.html) | DYM <br> Henneo | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [24 February–7 March 2025](2025-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.0% | 3.5–4.5% | 3.4–4.6% | 3.3–4.7% | 3.1–5.0% |
 | [3–7 March 2025](2025-03-07-NCReport.html) | NC Report <br> La Razón | 3.6% | 3.0–4.3% | 2.9–4.5% | 2.8–4.7% | 2.5–5.0% |
+| [28 February–7 March 2025](2025-03-07-CIS.html) | CIS | 4.7% | 4.3–5.2% | 4.2–5.3% | 4.1–5.4% | 3.9–5.6% |
 | [3–6 March 2025](2025-03-06-GESOP.html) | GESOP <br> Prensa Ibérica | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
 | [24–28 February 2025](2025-02-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [21–24 February 2025](2025-02-24-40dB.html) | 40dB <br> Prisa | 3.6% | 3.2–4.3% | 3.0–4.4% | 2.9–4.6% | 2.7–4.9% |
@@ -92,9 +94,9 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.2% | 100% |  |
 | 2.5–3.5% | 20% | 99.8% |  |
-| 3.5–4.5% | 63% | 80% | Median |
-| 4.5–5.5% | 15% | 16% |  |
-| 5.5–6.5% | 1.5% | 2% |  |
+| 3.5–4.5% | 57% | 80% | Median |
+| 4.5–5.5% | 21% | 23% |  |
+| 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -107,9 +109,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [12–16 March 2025](2025-03-16-DYM.html) | DYM <br> Henneo | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [24 February–7 March 2025](2025-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3–7 March 2025](2025-03-07-NCReport.html) | NC Report <br> La Razón | 2 | 2 | 2 | 2–3 | 1–3 |
+| [28 February–7 March 2025](2025-03-07-CIS.html) | CIS | 3 | 3 | 3 | 2–3 | 2–4 |
 | [3–6 March 2025](2025-03-06-GESOP.html) | GESOP <br> Prensa Ibérica | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [24–28 February 2025](2025-02-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [21–24 February 2025](2025-02-24-40dB.html) | 40dB <br> Prisa | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -189,9 +193,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.5% | 100% |  |
-| 2 | 61% | 99.5% | Median |
-| 3 | 38% | 39% |  |
-| 4 | 1.2% | 1.2% |  |
+| 2 | 57% | 99.5% | Median |
+| 3 | 42% | 43% |  |
+| 4 | 1.3% | 1.3% |  |
 | 5 | 0% | 0% |  |
 
 
