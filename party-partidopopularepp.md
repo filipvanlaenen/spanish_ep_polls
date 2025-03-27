@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.5% | 30.0–35.7% | 29.1–36.3% | 28.7–36.9% | 28.0–38.1% |
+| N/A | [Poll Average](average.html) | 33.4% | 29.9–35.6% | 29.1–36.3% | 28.6–36.9% | 28.0–38.1% |
+| [19–21 March 2025](2025-03-21-TargetPoint.html) | Target Point <br> El Debate | 33.1% | 31.2–35.1% | 30.7–35.6% | 30.2–36.1% | 29.4–37.0% |
+| [19–21 March 2025](2025-03-21-SocioMétrica.html) | SocioMétrica <br> El Español | 34.0% | 32.6–35.4% | 32.2–35.8% | 31.9–36.2% | 31.2–36.9% |
 | [12–16 March 2025](2025-03-16-DYM.html) | DYM <br> Henneo | 35.4% | 33.5–37.3% | 32.9–37.9% | 32.4–38.4% | 31.6–39.3% |
 | [24 February–7 March 2025](2025-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 33.8% | 32.7–34.9% | 32.3–35.3% | 32.1–35.6% | 31.5–36.1% |
 | [3–7 March 2025](2025-03-07-NCReport.html) | NC Report <br> La Razón | 34.1% | 32.6–35.7% | 32.1–36.2% | 31.8–36.6% | 31.0–37.4% |
@@ -120,16 +122,16 @@ The following table shows the probability mass function per percentage block of 
 | 26.5–27.5% | 0.1% | 100% |  |
 | 27.5–28.5% | 2% | 99.9% |  |
 | 28.5–29.5% | 6% | 98% |  |
-| 29.5–30.5% | 5% | 93% |  |
-| 30.5–31.5% | 6% | 88% |  |
-| 31.5–32.5% | 13% | 81% |  |
-| 32.5–33.5% | 20% | 68% | Median |
-| 33.5–34.5% | 22% | 48% |  |
-| 34.5–35.5% | 15% | 26% |  |
+| 29.5–30.5% | 5% | 92% |  |
+| 30.5–31.5% | 7% | 87% |  |
+| 31.5–32.5% | 13% | 80% |  |
+| 32.5–33.5% | 20% | 67% | Median |
+| 33.5–34.5% | 22% | 47% |  |
+| 34.5–35.5% | 14% | 25% |  |
 | 35.5–36.5% | 7% | 11% |  |
 | 36.5–37.5% | 3% | 4% |  |
 | 37.5–38.5% | 0.9% | 1.1% |  |
-| 38.5–39.5% | 0.2% | 0.2% |  |
+| 38.5–39.5% | 0.2% | 0.3% |  |
 | 39.5–40.5% | 0% | 0% |  |
 
 
@@ -141,7 +143,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–25 | 20–25 | 19–26 | 19–27 |
+| N/A | [Poll Average](average.html) | 23 | 21–25 | 19–26 | 19–26 | 19–27 |
+| [19–21 March 2025](2025-03-21-TargetPoint.html) | Target Point <br> El Debate | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
+| [19–21 March 2025](2025-03-21-SocioMétrica.html) | SocioMétrica <br> El Español | 23 | 23–24 | 22–24 | 22–24 | 21–25 |
 | [12–16 March 2025](2025-03-16-DYM.html) | DYM <br> Henneo | 25 | 24–27 | 24–27 | 23–27 | 23–28 |
 | [24 February–7 March 2025](2025-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 24 | 23–25 | 23–25 | 22–25 | 21–25 |
 | [3–7 March 2025](2025-03-07-NCReport.html) | NC Report <br> La Razón | 23 | 23–24 | 22–24 | 22–24 | 22–25 |
@@ -244,13 +248,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0.1% | 100% |  |
 | 19 | 5% | 99.9% |  |
 | 20 | 4% | 95% |  |
-| 21 | 5% | 92% |  |
-| 22 | 16% | 86% |  |
-| 23 | 31% | 70% | Median |
-| 24 | 21% | 39% |  |
-| 25 | 13% | 18% |  |
-| 26 | 3% | 5% |  |
-| 27 | 1.3% | 1.5% |  |
+| 21 | 5% | 91% |  |
+| 22 | 10% | 86% |  |
+| 23 | 33% | 75% | Median |
+| 24 | 22% | 42% |  |
+| 25 | 15% | 20% |  |
+| 26 | 4% | 5% |  |
+| 27 | 1.4% | 2% |  |
 | 28 | 0.2% | 0.2% |  |
 | 29 | 0% | 0% |  |
 

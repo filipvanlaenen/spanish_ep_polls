@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.4–5.6% | 3.1–5.9% | 2.9–6.2% | 2.5–6.7% |
+| N/A | [Poll Average](average.html) | 4.3% | 3.4–5.4% | 3.1–5.7% | 2.9–5.9% | 2.5–6.4% |
+| [19–21 March 2025](2025-03-21-TargetPoint.html) | Target Point <br> El Debate | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
+| [19–21 March 2025](2025-03-21-SocioMétrica.html) | SocioMétrica <br> El Español | 4.2% | 3.7–4.9% | 3.5–5.0% | 3.4–5.2% | 3.1–5.5% |
 | [12–16 March 2025](2025-03-16-DYM.html) | DYM <br> Henneo | 4.5% | 3.7–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
 | [24 February–7 March 2025](2025-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 5.2% | 4.7–5.8% | 4.5–5.9% | 4.4–6.1% | 4.2–6.4% |
 | [3–7 March 2025](2025-03-07-NCReport.html) | NC Report <br> La Razón | 4.7% | 4.1–5.5% | 3.9–5.7% | 3.8–5.9% | 3.5–6.3% |
@@ -92,12 +94,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.6% | 100% |  |
-| 2.5–3.5% | 14% | 99.4% |  |
-| 3.5–4.5% | 40% | 86% | Median |
-| 4.5–5.5% | 35% | 46% |  |
-| 5.5–6.5% | 10% | 11% |  |
-| 6.5–7.5% | 0.9% | 0.9% |  |
+| 1.5–2.5% | 0.7% | 100% |  |
+| 2.5–3.5% | 15% | 99.3% |  |
+| 3.5–4.5% | 44% | 84% | Median |
+| 4.5–5.5% | 32% | 40% |  |
+| 5.5–6.5% | 7% | 8% |  |
+| 6.5–7.5% | 0.3% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -109,7 +111,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–4 | 2–4 | 1–4 |
+| [19–21 March 2025](2025-03-21-TargetPoint.html) | Target Point <br> El Debate | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [19–21 March 2025](2025-03-21-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [12–16 March 2025](2025-03-16-DYM.html) | DYM <br> Henneo | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [24 February–7 March 2025](2025-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [3–7 March 2025](2025-03-07-NCReport.html) | NC Report <br> La Razón | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -192,11 +196,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.4% | 100% |  |
-| 2 | 44% | 98.6% |  |
-| 3 | 49% | 55% | Median |
+| 1 | 2% | 100% |  |
+| 2 | 50% | 98% | Median |
+| 3 | 43% | 48% |  |
 | 4 | 5% | 5% |  |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 5 | 0% | 0% |  |
 
 
