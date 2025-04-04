@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.8% | 11.7–15.4% | 11.3–15.9% | 11.0–16.3% | 10.3–17.1% |
+| N/A | [Poll Average](average.html) | 13.8% | 11.8–15.4% | 11.3–15.9% | 11.0–16.3% | 10.4–17.1% |
 | [19–21 March 2025](2025-03-21-TargetPoint.html) | Target Point <br> El Debate | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
 | [19–21 March 2025](2025-03-21-SocioMétrica.html) | SocioMétrica <br> El Español | 13.9% | 12.9–15.0% | 12.7–15.3% | 12.4–15.6% | 12.0–16.1% |
-| [14–21 March 2025](2025-03-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 14.0% | N/A | N/A | N/A | N/A |
+| [14–21 March 2025](2025-03-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 14.0% | 12.7–15.4% | 12.4–15.8% | 12.1–16.2% | 11.5–16.9% |
 | [12–16 March 2025](2025-03-16-DYM.html) | DYM <br> Henneo | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [24 February–7 March 2025](2025-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 12.9% | 12.1–13.7% | 11.9–14.0% | 11.7–14.2% | 11.3–14.6% |
 | [3–7 March 2025](2025-03-07-NCReport.html) | NC Report <br> La Razón | 14.5% | 13.4–15.8% | 13.1–16.1% | 12.8–16.4% | 12.3–17.0% |
@@ -102,13 +102,13 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 0.8% | 99.9% |  |
-| 10.5–11.5% | 7% | 99.2% |  |
-| 11.5–12.5% | 15% | 92% |  |
-| 12.5–13.5% | 21% | 77% |  |
-| 13.5–14.5% | 28% | 55% | Median |
-| 14.5–15.5% | 19% | 28% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.7% | 100% |  |
+| 10.5–11.5% | 6% | 99.2% |  |
+| 11.5–12.5% | 14% | 93% |  |
+| 12.5–13.5% | 22% | 78% |  |
+| 13.5–14.5% | 29% | 57% | Median |
+| 14.5–15.5% | 20% | 28% |  |
 | 15.5–16.5% | 7% | 9% |  |
 | 16.5–17.5% | 1.4% | 2% |  |
 | 17.5–18.5% | 0.2% | 0.2% |  |
@@ -123,10 +123,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 7–11 | 7–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
 | [19–21 March 2025](2025-03-21-TargetPoint.html) | Target Point <br> El Debate | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [19–21 March 2025](2025-03-21-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
-| [14–21 March 2025](2025-03-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [14–21 March 2025](2025-03-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 9 | 9 | 8–9 | 8–10 | 8–11 |
 | [12–16 March 2025](2025-03-16-DYM.html) | DYM <br> Henneo | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
 | [24 February–7 March 2025](2025-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [3–7 March 2025](2025-03-07-NCReport.html) | NC Report <br> La Razón | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
@@ -216,11 +216,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
 | 7 | 5% | 99.9% |  |
-| 8 | 23% | 95% |  |
-| 9 | 36% | 72% | Median |
-| 10 | 25% | 36% |  |
-| 11 | 11% | 11% |  |
-| 12 | 0.7% | 0.8% |  |
+| 8 | 21% | 95% |  |
+| 9 | 41% | 74% | Median |
+| 10 | 22% | 33% |  |
+| 11 | 10% | 10% |  |
+| 12 | 0.7% | 0.7% |  |
 | 13 | 0% | 0% |  |
 
 
