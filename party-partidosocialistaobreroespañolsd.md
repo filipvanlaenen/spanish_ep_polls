@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 28.7% | 26.7–34.9% | 26.1–36.0% | 25.5–36.5% | 24.5–37.2% |
 | [19–21 March 2025](2025-03-21-TargetPoint.html) | Target Point <br> El Debate | 30.2% | 28.4–32.1% | 27.9–32.6% | 27.4–33.1% | 26.6–34.0% |
 | [19–21 March 2025](2025-03-21-SocioMétrica.html) | SocioMétrica <br> El Español | 28.3% | 27.0–29.7% | 26.7–30.1% | 26.3–30.4% | 25.7–31.0% |
+| [14–21 March 2025](2025-03-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 28.0% | N/A | N/A | N/A | N/A |
 | [12–16 March 2025](2025-03-16-DYM.html) | DYM <br> Henneo | 29.1% | 27.3–31.0% | 26.8–31.5% | 26.3–32.0% | 25.5–32.9% |
 | [24 February–7 March 2025](2025-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 27.8% | 26.7–28.9% | 26.4–29.2% | 26.2–29.5% | 25.7–30.0% |
 | [3–7 March 2025](2025-03-07-NCReport.html) | NC Report <br> La Razón | 28.5% | 27.1–30.1% | 26.7–30.5% | 26.3–30.9% | 25.6–31.6% |
@@ -145,6 +146,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 20 | 18–23 | 18–25 | 18–25 | 17–25 |
 | [19–21 March 2025](2025-03-21-TargetPoint.html) | Target Point <br> El Debate | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
 | [19–21 March 2025](2025-03-21-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 18–19 | 18–20 | 18–20 | 18–21 |
+| [14–21 March 2025](2025-03-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
 | [12–16 March 2025](2025-03-16-DYM.html) | DYM <br> Henneo | 21 | 20–22 | 19–22 | 19–23 | 18–23 |
 | [24 February–7 March 2025](2025-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 18–20 | 18–20 | 18–20 | 18–21 |
 | [3–7 March 2025](2025-03-07-NCReport.html) | NC Report <br> La Razón | 21 | 19–21 | 18–21 | 18–21 | 18–21 |
