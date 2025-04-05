@@ -147,7 +147,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 23 | 21–25 | 20–25 | 19–26 | 19–27 |
 | [19–21 March 2025](2025-03-21-TargetPoint.html) | Target Point <br> El Debate | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
 | [19–21 March 2025](2025-03-21-SocioMétrica.html) | SocioMétrica <br> El Español | 23 | 23–24 | 22–24 | 22–24 | 21–25 |
-| [14–21 March 2025](2025-03-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 23 | 21–25 | 21–25 | 21–25 | 21–25 |
+| [14–21 March 2025](2025-03-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 23 | 22–25 | 21–25 | 21–25 | 21–25 |
 | [12–16 March 2025](2025-03-16-DYM.html) | DYM <br> Henneo | 25 | 24–27 | 24–27 | 23–27 | 23–28 |
 | [24 February–7 March 2025](2025-03-07-SigmaDos.html) | Sigma Dos <br> El Mundo | 24 | 23–25 | 23–25 | 22–25 | 21–25 |
 | [3–7 March 2025](2025-03-07-NCReport.html) | NC Report <br> La Razón | 23 | 23–24 | 22–24 | 22–24 | 22–25 |
@@ -250,11 +250,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0.1% | 100% |  |
 | 19 | 5% | 99.9% |  |
 | 20 | 4% | 95% |  |
-| 21 | 6% | 92% |  |
-| 22 | 9% | 86% |  |
-| 23 | 36% | 77% | Median |
-| 24 | 20% | 40% |  |
-| 25 | 15% | 20% |  |
+| 21 | 5% | 92% |  |
+| 22 | 10% | 86% |  |
+| 23 | 37% | 77% | Median |
+| 24 | 20% | 39% |  |
+| 25 | 15% | 19% |  |
 | 26 | 3% | 5% |  |
 | 27 | 1.3% | 2% |  |
 | 28 | 0.2% | 0.2% |  |
