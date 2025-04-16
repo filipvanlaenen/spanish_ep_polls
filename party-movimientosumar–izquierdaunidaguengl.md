@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–4.0% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.8–2.9% | 1.7–3.1% | 1.5–3.3% | 1.3–3.7% |
+| [1–8 April 2025](2025-04-08-CIS.html) | CIS | 2.4% | 2.1–2.7% | 2.0–2.8% | 1.9–2.9% | 1.8–3.1% |
 | [28–31 March 2025](2025-03-31-40dB.html) | 40dB <br> Prisa | 2.0% | 1.6–2.4% | 1.5–2.5% | 1.4–2.7% | 1.3–2.9% |
 | [19–21 March 2025](2025-03-21-TargetPoint.html) | Target Point <br> El Debate | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [19–21 March 2025](2025-03-21-SocioMétrica.html) | SocioMétrica <br> El Español | 2.5% | 2.1–3.0% | 2.0–3.1% | 1.9–3.3% | 1.7–3.6% |
@@ -95,12 +96,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 55% | 98% | Median |
-| 2.5–3.5% | 41% | 43% |  |
-| 3.5–4.5% | 2% | 2% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 67% | 97% | Median |
+| 2.5–3.5% | 29% | 30% |  |
+| 3.5–4.5% | 0.8% | 0.8% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -111,7 +111,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [1–8 April 2025](2025-04-08-CIS.html) | CIS | 1 | 1 | 1 | 1–2 | 1–2 |
 | [28–31 March 2025](2025-03-31-40dB.html) | 40dB <br> Prisa | 1 | 1 | 1 | 1 | 0–2 |
 | [19–21 March 2025](2025-03-21-TargetPoint.html) | Target Point <br> El Debate | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [19–21 March 2025](2025-03-21-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -197,10 +198,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% | Last Result |
-| 1 | 74% | 99.5% | Median |
-| 2 | 26% | 26% |  |
-| 3 | 0.2% | 0.2% |  |
-| 4 | 0% | 0% |  |
+| 0 | 0.7% | 100% | Last Result |
+| 1 | 81% | 99.3% | Median |
+| 2 | 18% | 18% |  |
+| 3 | 0% | 0% |  |
 
 
