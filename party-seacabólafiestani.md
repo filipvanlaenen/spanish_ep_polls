@@ -10,9 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.7–2.9% | 1.5–3.1% | 1.4–3.2% | 1.2–3.5% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.7–2.9% | 1.5–3.1% | 1.4–3.2% | 1.2–3.5% |
+| [14–17 April 2025](2025-04-17-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
+| [4–15 April 2025](2025-04-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.4% | 2.0–3.0% | 1.9–3.1% | 1.8–3.2% | 1.6–3.5% |
+| [9–15 April 2025](2025-04-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0.0% | N/A | N/A | N/A | N/A |
 | [1–8 April 2025](2025-04-08-CIS.html) | CIS | 1.9% | 1.6–2.2% | 1.6–2.3% | 1.5–2.4% | 1.4–2.5% |
 | [28–31 March 2025](2025-03-31-40dB.html) | 40dB <br> Prisa | 2.7% | 2.3–3.2% | 2.2–3.4% | 2.1–3.5% | 1.9–3.8% |
+| [27–28 March 2025](2025-03-28-Data10.html) | Data10 <br> OKDiario | 0.0% | N/A | N/A | N/A | N/A |
 | [19–21 March 2025](2025-03-21-TargetPoint.html) | Target Point <br> El Debate | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [19–21 March 2025](2025-03-21-SocioMétrica.html) | SocioMétrica <br> El Español | 2.2% | 1.8–2.7% | 1.7–2.9% | 1.6–3.0% | 1.5–3.2% |
 | [14–21 March 2025](2025-03-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1.9% | 1.5–2.6% | 1.4–2.7% | 1.2–2.9% | 1.1–3.2% |
@@ -96,9 +100,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 71% | 94% | Median |
-| 2.5–3.5% | 23% | 23% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 69% | 95% | Median |
+| 2.5–3.5% | 26% | 26% |  |
 | 3.5–4.5% | 0.5% | 0.5% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -112,8 +116,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [14–17 April 2025](2025-04-17-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [4–15 April 2025](2025-04-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 1 | 1–2 | 1–2 |
+| [9–15 April 2025](2025-04-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli |  |  |  |  |  |
 | [1–8 April 2025](2025-04-08-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1 |
 | [28–31 March 2025](2025-03-31-40dB.html) | 40dB <br> Prisa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [27–28 March 2025](2025-03-28-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [19–21 March 2025](2025-03-21-TargetPoint.html) | Target Point <br> El Debate | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [19–21 March 2025](2025-03-21-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1 | 1 | 1–2 |
 | [14–21 March 2025](2025-03-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 1 | 1 | 0–1 | 0–2 |
@@ -198,9 +206,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.3% | 100% | Last Result |
-| 1 | 87% | 98.7% | Median |
-| 2 | 12% | 12% |  |
+| 0 | 1.1% | 100% | Last Result |
+| 1 | 88% | 98.9% | Median |
+| 2 | 10% | 10% |  |
 | 3 | 0% | 0% |  |
 
 
