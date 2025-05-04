@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 21 Apr 2025 19:05:25 +0200</pubDate>
+    <pubDate>Sun, 04 May 2025 11:06:30 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 21–25 April 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-04-25-SocioMétrica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Vox (PfE): 7–11 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0–2 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 0–2 seats&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17–22 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 21–25 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-04-25-SocioMétrica-seats.png"
+        length="416604"
+        type="image/png"/>
+      <pubDate>Sun, 04 May 2025 11:06:30 +0200</pubDate>
+      <dc:date>2025-05-04T11:06:30.096578+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 21–25 April 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-04-25-SocioMétrica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-04-25-SocioMétrica-coalitions-seats.png"
+        length="217275"
+        type="image/png"/>
+      <pubDate>Sun, 04 May 2025 11:06:30 +0200</pubDate>
+      <dc:date>2025-05-04T11:06:30.096578+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 21–25 April 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-04-25-SocioMétrica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Vox (PfE): 11.5–15.8%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 1.2–3.0%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 1.4–3.3%&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 26.7–32.4%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.2–1.0%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 31.9–37.8%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 2.9–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-04-25-SocioMétrica.png"
+        length="465978"
+        type="image/png"/>
+      <pubDate>Sun, 04 May 2025 11:06:30 +0200</pubDate>
+      <dc:date>2025-05-04T11:06:30.096578+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 14–17 April 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-04-17-NCReport.html#seats</link>
@@ -2349,6 +2379,6 @@
       <pubDate>Thu, 26 Sep 2024 23:01:48 +0200</pubDate>
       <dc:date>2024-09-26T23:01:48.415794+02:00</dc:date>
     </item>
-    <dc:date>2025-04-21T19:05:25.660197+02:00</dc:date>
+    <dc:date>2025-05-04T11:06:30.096578+02:00</dc:date>
   </channel>
 </rss>
