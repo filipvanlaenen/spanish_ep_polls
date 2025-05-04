@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.1–2.4% | 1.0–2.6% | 1.0–2.8% | 0.8–3.1% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.1–2.3% | 1.0–2.6% | 0.9–2.7% | 0.8–3.1% |
+| [21–25 April 2025](2025-04-25-SocioMétrica.html) | SocioMétrica <br> El Español | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [14–17 April 2025](2025-04-17-NCReport.html) | NC Report <br> La Razón | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [4–15 April 2025](2025-04-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.5% | 1.2–1.9% | 1.1–2.0% | 1.0–2.2% | 0.9–2.4% |
 | [9–15 April 2025](2025-04-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
@@ -100,10 +101,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 35% | 100% |  |
-| 1.5–2.5% | 59% | 65% | Median |
-| 2.5–3.5% | 6% | 6% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.5–1.5% | 41% | 100% |  |
+| 1.5–2.5% | 54% | 59% | Median |
+| 2.5–3.5% | 5% | 5% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -115,7 +116,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [21–25 April 2025](2025-04-25-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [14–17 April 2025](2025-04-17-NCReport.html) | NC Report <br> La Razón | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [4–15 April 2025](2025-04-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–15 April 2025](2025-04-15-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -206,9 +208,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% | Last Result |
-| 1 | 67% | 69% | Median |
-| 2 | 2% | 2% |  |
+| 0 | 36% | 100% | Last Result |
+| 1 | 60% | 64% | Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 
