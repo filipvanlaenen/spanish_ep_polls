@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.9% | 12.4–15.5% | 12.0–15.9% | 11.7–16.2% | 11.1–17.0% |
+| N/A | [Poll Average](average.html) | 13.6% | 12.3–15.1% | 11.9–15.6% | 11.6–16.1% | 11.1–16.9% |
+| [5–8 May 2025](2025-05-08-CIS.html) | CIS | 13.7% | 13.0–14.4% | 12.8–14.6% | 12.7–14.8% | 12.3–15.2% |
+| [28 April–6 May 2025](2025-05-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 13.5% | 12.3–15.0% | 11.9–15.3% | 11.6–15.7% | 11.1–16.4% |
 | [24–27 April 2025](2025-04-27-40dB.html) | 40dB <br> Prisa | 13.4% | 12.5–14.4% | 12.2–14.7% | 12.0–15.0% | 11.5–15.5% |
 | [21–25 April 2025](2025-04-25-SocioMétrica.html) | SocioMétrica <br> El Español | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
 | [14–17 April 2025](2025-04-17-NCReport.html) | NC Report <br> La Razón | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
@@ -41,7 +43,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [16–23 January 2025](2025-01-23-GAD3.html) | GAD3 <br> ABC | 14.2% | 12.9–15.7% | 12.5–16.1% | 12.2–16.5% | 11.6–17.2% |
 | [16–20 January 2025](2025-01-20-DYM.html) | DYM <br> Henneo | 12.9% | 11.6–14.4% | 11.3–14.8% | 11.0–15.1% | 10.4–15.9% |
 | [7–11 January 2025](2025-01-11-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 14.3% | 13.0–15.7% | 12.6–16.1% | 12.3–16.5% | 11.7–17.2% |
-| [31 December–3 January 2025](2025-01-03-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
+| [31 December 2024–3 January 2025](2025-01-03-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [26–30 December 2024](2024-12-30-TargetPoint.html) | Target Point <br> El Debate | 14.9% | 13.5–16.4% | 13.1–16.8% | 12.8–17.2% | 12.2–18.0% |
 | [26–30 December 2024](2024-12-30-SocioMétrica.html) | SocioMétrica <br> El Español | 14.1% | 13.3–15.0% | 13.1–15.2% | 12.9–15.4% | 12.5–15.8% |
 | [20–27 December 2024](2024-12-27-NCReport.html) | NC Report <br> La Razón | 13.9% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
@@ -113,12 +115,12 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.1% | 100% |  |
 | 10.5–11.5% | 2% | 99.9% |  |
-| 11.5–12.5% | 11% | 98% |  |
-| 12.5–13.5% | 26% | 87% |  |
-| 13.5–14.5% | 29% | 61% | Median |
-| 14.5–15.5% | 23% | 33% |  |
-| 15.5–16.5% | 9% | 10% |  |
-| 16.5–17.5% | 1.1% | 1.2% |  |
+| 11.5–12.5% | 12% | 98% |  |
+| 12.5–13.5% | 32% | 86% |  |
+| 13.5–14.5% | 33% | 53% | Median |
+| 14.5–15.5% | 14% | 20% |  |
+| 15.5–16.5% | 5% | 6% |  |
+| 16.5–17.5% | 0.9% | 1.1% |  |
 | 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
@@ -131,7 +133,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
+| [5–8 May 2025](2025-05-08-CIS.html) | CIS | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
+| [28 April–6 May 2025](2025-05-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [24–27 April 2025](2025-04-27-40dB.html) | 40dB <br> Prisa | 9 | 9–10 | 8–10 | 8–11 | 8–11 |
 | [21–25 April 2025](2025-04-25-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 7–10 | 7–10 | 7–11 | 7–11 |
 | [14–17 April 2025](2025-04-17-NCReport.html) | NC Report <br> La Razón | 9 | 9–10 | 8–10 | 8–10 | 8–11 |
@@ -162,7 +166,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [16–23 January 2025](2025-01-23-GAD3.html) | GAD3 <br> ABC | 10 | 9–10 | 8–10 | 8–11 | 8–11 |
 | [16–20 January 2025](2025-01-20-DYM.html) | DYM <br> Henneo | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [7–11 January 2025](2025-01-11-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 10 | 9–10 | 8–10 | 8–11 | 8–11 |
-| [31 December–3 January 2025](2025-01-03-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
+| [31 December 2024–3 January 2025](2025-01-03-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [26–30 December 2024](2024-12-30-TargetPoint.html) | Target Point <br> El Debate | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [26–30 December 2024](2024-12-30-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [20–27 December 2024](2024-12-27-NCReport.html) | NC Report <br> La Razón | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
@@ -232,11 +236,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 3% | 100% |  |
-| 8 | 19% | 97% |  |
-| 9 | 31% | 78% | Median |
-| 10 | 30% | 47% |  |
-| 11 | 16% | 17% |  |
-| 12 | 0.8% | 0.8% |  |
+| 8 | 25% | 97% |  |
+| 9 | 38% | 72% | Median |
+| 10 | 30% | 34% |  |
+| 11 | 4% | 4% |  |
+| 12 | 0.2% | 0.3% |  |
 | 13 | 0% | 0% |  |
 
 
