@@ -140,7 +140,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [5–8 May 2025](2025-05-08-CIS.html) | CIS | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
 | [28 April–6 May 2025](2025-05-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [24–27 April 2025](2025-04-27-40dB.html) | 40dB <br> Prisa | 9 | 9–10 | 8–10 | 8–11 | 8–11 |
-| [23–25 April 2025](2025-04-25-TargetPoint.html) | Target Point <br> El Debate | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
+| [23–25 April 2025](2025-04-25-TargetPoint.html) | Target Point <br> El Debate | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [21–25 April 2025](2025-04-25-SocioMétrica.html) | SocioMétrica <br> El Español | 9 | 7–10 | 7–10 | 7–11 | 7–11 |
 | [14–17 April 2025](2025-04-17-NCReport.html) | NC Report <br> La Razón | 9 | 9–10 | 8–10 | 8–10 | 8–11 |
 | [4–15 April 2025](2025-04-15-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 8 | 8–9 | 7–9 | 7–10 |
