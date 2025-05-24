@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 14 May 2025 21:11:47 +0200</pubDate>
+    <pubDate>Sat, 24 May 2025 09:35:59 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by DYM for Henneo, 14–19 May 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-05-19-DYM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 18–22 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 7–10 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2–4 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 23–27 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-05-19-DYM-seats.png"
+        length="210372"
+        type="image/png"/>
+      <pubDate>Thu, 22 May 2025 20:44:22 +0200</pubDate>
+      <dc:date>2025-05-22T20:44:22.673796+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by DYM for Henneo, 14–19 May 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-05-19-DYM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-05-19-DYM-coalitions-seats.png"
+        length="195448"
+        type="image/png"/>
+      <pubDate>Thu, 22 May 2025 20:44:22 +0200</pubDate>
+      <dc:date>2025-05-22T20:44:22.673796+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by DYM for Henneo, 14–19 May 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-05-19-DYM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 26.0–31.5%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 1.6–3.5%&lt;/li&gt;&lt;li&gt;Vox (PfE): 10.5–14.4%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 33.0–38.8%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 2.9–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-05-19-DYM.png"
+        length="248855"
+        type="image/png"/>
+      <pubDate>Thu, 22 May 2025 20:44:22 +0200</pubDate>
+      <dc:date>2025-05-22T20:44:22.673796+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CIS, 5–8 May 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-05-08-CIS.html#seats</link>
@@ -98,6 +128,36 @@
         type="image/png"/>
       <pubDate>Fri, 09 May 2025 19:50:51 +0200</pubDate>
       <dc:date>2025-05-09T19:50:51.930662+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Target Point for El Debate, 23–25 April 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-04-25-TargetPoint.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 18–22 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 8–11 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2–4 seats&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 21–26 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-04-25-TargetPoint-seats.png"
+        length="242682"
+        type="image/png"/>
+      <pubDate>Sat, 24 May 2025 09:35:59 +0200</pubDate>
+      <dc:date>2025-05-24T09:35:59.233903+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Target Point for El Debate, 23–25 April 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-04-25-TargetPoint.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-04-25-TargetPoint-coalitions-seats.png"
+        length="210938"
+        type="image/png"/>
+      <pubDate>Sat, 24 May 2025 09:35:59 +0200</pubDate>
+      <dc:date>2025-05-24T09:35:59.233903+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Target Point for El Debate, 23–25 April 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-04-25-TargetPoint.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 25.4–30.9%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 1.7–3.6%&lt;/li&gt;&lt;li&gt;Vox (PfE): 12.3–16.6%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 4.1–6.9%&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 1.1–2.8%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 30.6–36.4%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 3.0–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-04-25-TargetPoint.png"
+        length="273978"
+        type="image/png"/>
+      <pubDate>Sat, 24 May 2025 09:35:59 +0200</pubDate>
+      <dc:date>2025-05-24T09:35:59.233903+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 21–25 April 2025 – Seat Projections for the Parties</title>
@@ -2469,6 +2529,6 @@
       <pubDate>Thu, 26 Sep 2024 23:01:48 +0200</pubDate>
       <dc:date>2024-09-26T23:01:48.415794+02:00</dc:date>
     </item>
-    <dc:date>2025-05-14T21:11:47.566171+02:00</dc:date>
+    <dc:date>2025-05-24T09:35:59.233903+02:00</dc:date>
   </channel>
 </rss>
