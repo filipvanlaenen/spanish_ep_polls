@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.8–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.8% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.8–2.9% | 1.7–3.2% | 1.6–3.4% | 1.4–3.8% |
+| [15–21 May 2025](2025-05-21-Ipsos.html) | Ipsos <br> La Vanguardia | 2.2% | 1.8–2.7% | 1.7–2.8% | 1.6–2.9% | 1.5–3.2% |
 | [14–19 May 2025](2025-05-19-DYM.html) | DYM <br> Henneo | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
 | [5–8 May 2025](2025-05-08-CIS.html) | CIS | 2.3% | 2.0–2.7% | 2.0–2.7% | 1.9–2.8% | 1.8–3.0% |
 | [28 April–6 May 2025](2025-05-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.5–3.2% | 1.3–3.6% |
@@ -107,9 +108,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 66% | 98% | Median |
-| 2.5–3.5% | 31% | 32% |  |
-| 3.5–4.5% | 2% | 2% |  |
+| 1.5–2.5% | 68% | 98% | Median |
+| 2.5–3.5% | 29% | 30% |  |
+| 3.5–4.5% | 1.3% | 1.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -122,6 +123,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [15–21 May 2025](2025-05-21-Ipsos.html) | Ipsos <br> La Vanguardia | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [14–19 May 2025](2025-05-19-DYM.html) | DYM <br> Henneo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–8 May 2025](2025-05-08-CIS.html) | CIS | 1 | 1 | 1 | 1–2 | 1–2 |
 | [28 April–6 May 2025](2025-05-06-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -218,9 +220,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.4% | 100% | Last Result |
-| 1 | 85% | 98.6% | Median |
-| 2 | 13% | 14% |  |
+| 0 | 1.2% | 100% | Last Result |
+| 1 | 86% | 98.8% | Median |
+| 2 | 13% | 13% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
