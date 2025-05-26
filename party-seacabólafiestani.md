@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–2.9% | 1.1–3.3% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.4–2.4% | 1.3–2.6% | 1.2–2.8% | 1.1–3.1% |
 | [21–23 May 2025](2025-05-23-TargetPoint.html) | Target Point <br> El Debate | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
+| [20–23 May 2025](2025-05-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0.0% | N/A | N/A | N/A | N/A |
+| [19–22 May 2025](2025-05-22-SocioMétrica.html) | SocioMétrica <br> El Español | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.4–2.7% | 1.3–3.0% |
 | [15–21 May 2025](2025-05-21-Ipsos.html) | Ipsos <br> La Vanguardia | 1.7% | 1.4–2.1% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% |
 | [14–19 May 2025](2025-05-19-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [5–8 May 2025](2025-05-08-CIS.html) | CIS | 1.5% | 1.3–1.8% | 1.2–1.9% | 1.2–1.9% | 1.1–2.1% |
@@ -108,10 +110,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 20% | 100% |  |
-| 1.5–2.5% | 69% | 80% | Median |
-| 2.5–3.5% | 10% | 10% |  |
-| 3.5–4.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 21% | 100% |  |
+| 1.5–2.5% | 73% | 79% | Median |
+| 2.5–3.5% | 7% | 7% |  |
+| 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -123,8 +125,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [21–23 May 2025](2025-05-23-TargetPoint.html) | Target Point <br> El Debate | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| [20–23 May 2025](2025-05-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli |  |  |  |  |  |
+| [19–22 May 2025](2025-05-22-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1 | 1 | 1 |
 | [15–21 May 2025](2025-05-21-Ipsos.html) | Ipsos <br> La Vanguardia | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–19 May 2025](2025-05-19-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [5–8 May 2025](2025-05-08-CIS.html) | CIS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -223,8 +227,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 25% | 100% | Last Result |
-| 1 | 68% | 75% | Median |
-| 2 | 7% | 7% |  |
+| 1 | 73% | 75% | Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 
