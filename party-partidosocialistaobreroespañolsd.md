@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.2% | 27.1–31.8% | 26.5–32.3% | 26.0–32.7% | 25.0–33.4% |
+| N/A | [Poll Average](average.html) | 29.2% | 27.0–31.9% | 26.4–32.4% | 25.9–32.8% | 24.9–33.4% |
+| [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC | 27.6% | N/A | N/A | N/A | N/A |
+| [21 April–28 May 2025](2025-05-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 28.4% | N/A | N/A | N/A | N/A |
+| [23–25 May 2025](2025-05-25-40dB.html) | 40dB <br> Prisa | 29.8% | N/A | N/A | N/A | N/A |
 | [21–23 May 2025](2025-05-23-TargetPoint.html) | Target Point <br> El Debate | 28.8% | 27.1–30.7% | 26.6–31.3% | 26.1–31.7% | 25.3–32.6% |
 | [20–23 May 2025](2025-05-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 27.6% | 25.8–29.5% | 25.3–30.0% | 24.9–30.5% | 24.1–31.4% |
 | [19–22 May 2025](2025-05-22-SocioMétrica.html) | SocioMétrica <br> El Español | 29.0% | 27.6–30.4% | 27.3–30.8% | 26.9–31.1% | 26.3–31.8% |
@@ -134,15 +137,15 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0.2% | 100% |  |
-| 24.5–25.5% | 1.1% | 99.8% |  |
-| 25.5–26.5% | 4% | 98.7% |  |
-| 26.5–27.5% | 10% | 95% |  |
-| 27.5–28.5% | 19% | 84% |  |
-| 28.5–29.5% | 23% | 66% | Median |
-| 29.5–30.5% | 18% | 42% |  |
-| 30.5–31.5% | 12% | 24% |  |
-| 31.5–32.5% | 9% | 12% |  |
-| 32.5–33.5% | 3% | 3% |  |
+| 24.5–25.5% | 1.2% | 99.8% |  |
+| 25.5–26.5% | 5% | 98.5% |  |
+| 26.5–27.5% | 11% | 94% |  |
+| 27.5–28.5% | 19% | 83% |  |
+| 28.5–29.5% | 21% | 64% | Median |
+| 29.5–30.5% | 17% | 42% |  |
+| 30.5–31.5% | 12% | 26% |  |
+| 31.5–32.5% | 10% | 14% |  |
+| 32.5–33.5% | 3% | 4% |  |
 | 33.5–34.5% | 0.3% | 0.3% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
@@ -156,6 +159,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 19–22 | 18–23 | 18–23 | 17–24 |
+| [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [21 April–28 May 2025](2025-05-28-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [23–25 May 2025](2025-05-25-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [21–23 May 2025](2025-05-23-TargetPoint.html) | Target Point <br> El Debate | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
 | [20–23 May 2025](2025-05-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 20 | 18–20 | 18–20 | 17–21 | 17–21 |
 | [19–22 May 2025](2025-05-22-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 19–21 | 19–22 | 18–22 | 18–22 |
@@ -273,13 +279,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.1% | 100% |  |
-| 17 | 1.0% | 99.9% |  |
-| 18 | 7% | 99.0% |  |
-| 19 | 19% | 92% |  |
-| 20 | 25% | 72% | Median |
-| 21 | 25% | 47% |  |
-| 22 | 14% | 22% |  |
-| 23 | 7% | 9% |  |
+| 17 | 1.1% | 99.9% |  |
+| 18 | 8% | 98.8% |  |
+| 19 | 22% | 91% |  |
+| 20 | 26% | 68% | Median |
+| 21 | 22% | 43% |  |
+| 22 | 12% | 21% |  |
+| 23 | 8% | 9% |  |
 | 24 | 2% | 2% |  |
 | 25 | 0% | 0% |  |
 

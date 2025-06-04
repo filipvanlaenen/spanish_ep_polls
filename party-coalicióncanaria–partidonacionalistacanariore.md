@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.5% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% | 0.2–1.3% |
+| [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC | 0.4% | N/A | N/A | N/A | N/A |
+| [21 April–28 May 2025](2025-05-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.4% | N/A | N/A | N/A | N/A |
+| [23–25 May 2025](2025-05-25-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [21–23 May 2025](2025-05-23-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
 | [20–23 May 2025](2025-05-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [19–22 May 2025](2025-05-22-SocioMétrica.html) | SocioMétrica <br> El Español | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.3–0.9% | 0.2–1.1% |
@@ -124,6 +127,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [21 April–28 May 2025](2025-05-28-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [23–25 May 2025](2025-05-25-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [21–23 May 2025](2025-05-23-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [20–23 May 2025](2025-05-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0 | 0 | 0 | 0 | 0 |
 | [19–22 May 2025](2025-05-22-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
