@@ -133,7 +133,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| [21 April–28 May 2025](2025-05-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [21 April–28 May 2025](2025-05-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 3 | 3 | 2–3 | 2–3 |
 | [23–25 May 2025](2025-05-25-40dB.html) | 40dB <br> Prisa | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [21–23 May 2025](2025-05-23-TargetPoint.html) | Target Point <br> El Debate | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [20–23 May 2025](2025-05-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
@@ -237,8 +237,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 2% | 100% |  |
-| 2 | 63% | 98% | Median |
-| 3 | 34% | 35% |  |
+| 2 | 62% | 98% | Median |
+| 3 | 35% | 36% |  |
 | 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 

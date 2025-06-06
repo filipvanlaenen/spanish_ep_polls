@@ -165,8 +165,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 21–25 | 21–26 | 20–26 | 20–27 |
-| [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC | 23 | 22–23 | 21–25 | 21–25 | 21–26 |
-| [21 April–28 May 2025](2025-05-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 23 | 23–24 | 22–24 | 22–24 | 22–24 |
+| [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC | 23 | 21–25 | 21–25 | 21–25 | 21–26 |
+| [21 April–28 May 2025](2025-05-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 24 | 23–24 | 23–24 | 22–24 | 22–24 |
 | [23–25 May 2025](2025-05-25-40dB.html) | 40dB <br> Prisa | 24 | 23–25 | 22–25 | 22–25 | 22–26 |
 | [21–23 May 2025](2025-05-23-TargetPoint.html) | Target Point <br> El Debate | 23 | 22–25 | 22–25 | 21–26 | 21–26 |
 | [20–23 May 2025](2025-05-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 23 | 22–24 | 22–25 | 22–26 | 21–26 |
@@ -289,10 +289,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 4% | 100% |  |
-| 21 | 6% | 96% |  |
-| 22 | 15% | 90% |  |
-| 23 | 30% | 75% | Median |
-| 24 | 30% | 45% |  |
+| 21 | 7% | 96% |  |
+| 22 | 14% | 89% |  |
+| 23 | 26% | 75% | Median |
+| 24 | 34% | 50% |  |
 | 25 | 9% | 15% |  |
 | 26 | 4% | 6% |  |
 | 27 | 1.4% | 2% |  |
