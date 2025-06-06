@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.2–5.8% | 2.7–6.1% | 2.5–6.4% | 2.2–7.0% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.2–5.7% | 2.7–6.1% | 2.5–6.4% | 2.2–7.0% |
 | [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC | 4.7% | 3.9–5.7% | 3.7–5.9% | 3.6–6.2% | 3.2–6.7% |
 | [21 April–28 May 2025](2025-05-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 5.1% | 4.8–5.5% | 4.7–5.5% | 4.6–5.6% | 4.5–5.8% |
-| [23–25 May 2025](2025-05-25-40dB.html) | 40dB <br> Prisa | 3.8% | N/A | N/A | N/A | N/A |
+| [23–25 May 2025](2025-05-25-40dB.html) | 40dB <br> Prisa | 3.8% | 3.3–4.4% | 3.2–4.6% | 3.0–4.7% | 2.8–5.0% |
 | [21–23 May 2025](2025-05-23-TargetPoint.html) | Target Point <br> El Debate | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.3% |
 | [20–23 May 2025](2025-05-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
 | [19–22 May 2025](2025-05-22-SocioMétrica.html) | SocioMétrica <br> El Español | 4.1% | 3.5–4.8% | 3.4–4.9% | 3.3–5.1% | 3.0–5.4% |
@@ -115,10 +115,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 10% | 97% |  |
-| 3.5–4.5% | 31% | 87% |  |
-| 4.5–5.5% | 41% | 56% | Median |
-| 5.5–6.5% | 13% | 15% |  |
+| 2.5–3.5% | 11% | 97% |  |
+| 3.5–4.5% | 35% | 86% |  |
+| 4.5–5.5% | 37% | 51% | Median |
+| 5.5–6.5% | 12% | 14% |  |
 | 6.5–7.5% | 2% | 2% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -135,7 +135,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
 | [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [21 April–28 May 2025](2025-05-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 3 | 3 | 3–4 | 3–4 |
-| [23–25 May 2025](2025-05-25-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
+| [23–25 May 2025](2025-05-25-40dB.html) | 40dB <br> Prisa | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–23 May 2025](2025-05-23-TargetPoint.html) | Target Point <br> El Debate | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [20–23 May 2025](2025-05-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [19–22 May 2025](2025-05-22-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -238,9 +238,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 2% | 100% |  |
-| 2 | 23% | 98% |  |
-| 3 | 65% | 74% | Median |
-| 4 | 9% | 9% |  |
+| 2 | 28% | 98% |  |
+| 3 | 61% | 70% | Median |
+| 4 | 8% | 8% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
