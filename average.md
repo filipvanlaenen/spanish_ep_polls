@@ -381,7 +381,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#coalición-canaria–partido-nacionalista-canario-(re)">Coalición Canaria–Partido Nacionalista Canario (RE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#coalición-por-europa-(re)">Coalición por Europa (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 23 | 21–25 |21–26 | 20–26 | 20–27 |
-| <a href="#vox-(pfe)">Vox (PfE)</a> | 0 | 9 | 8–10 |8–10 | 8–11 | 7–12 |
+| <a href="#vox-(pfe)">Vox (PfE)</a> | 0 | 9 | 8–10 |8–11 | 8–11 | 7–12 |
 | <a href="#junts-per-catalunya-(ni)">Junts per Catalunya (NI)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–2 |
 | <a href="#españa-vaciada-(ni)">España Vaciada (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#se-acabó-la-fiesta-(ni)">Se Acabó La Fiesta (NI)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–2 |
@@ -625,7 +625,7 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 4% | 100% |  |
 | 21 | 7% | 96% |  |
 | 22 | 14% | 89% |  |
-| 23 | 26% | 75% | Median |
+| 23 | 25% | 75% | Median |
 | 24 | 34% | 50% |  |
 | 25 | 9% | 15% |  |
 | 26 | 4% | 6% |  |
@@ -709,7 +709,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Partido Popular (EPP) | 0 | 23 | 0% | 21–25 | 21–26 | 20–26 | 20–27 |
 | Partido Socialista Obrero Español (S&D) | 0 | 20 | 0% | 19–22 | 18–23 | 18–23 | 17–24 |
-| Vox (PfE) | 0 | 9 | 0% | 8–10 | 8–10 | 8–11 | 7–12 |
+| Vox (PfE) | 0 | 9 | 0% | 8–10 | 8–11 | 8–11 | 7–12 |
 | Candidatura d’Unitat Popular (GUE/NGL) – Euskal Herria Bildu (GUE/NGL) – Movimiento Sumar–Izquierda Unida (GUE/NGL) – Movimiento Sumar–Podemos–Izquierda Unida (GUE/NGL) – Partido Animalista Contra el Maltrato Animal (GUE/NGL) – Podemos (GUE/NGL) – Unidos Podemos (GUE/NGL) | 0 | 4 | 0% | 3–5 | 3–6 | 3–6 | 2–6 |
 | Ahora Repúblicas (Greens/EFA) – Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA) – Coalició Compromís (Greens/EFA) – Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA) – Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA) – Primavera Europea (Greens/EFA) | 0 | 3 | 0% | 2–4 | 2–4 | 2–4 | 1–4 |
 | España Vaciada (NI) – Junts per Catalunya (NI) – Se Acabó La Fiesta (NI) | 0 | 1 | 0% | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -745,7 +745,7 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 4% | 100% |  |
 | 21 | 7% | 96% |  |
 | 22 | 14% | 89% |  |
-| 23 | 26% | 75% | Median |
+| 23 | 25% | 75% | Median |
 | 24 | 34% | 50% |  |
 | 25 | 9% | 15% |  |
 | 26 | 4% | 6% |  |
@@ -871,6 +871,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 10
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 19,922,944
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 20,971,520
 + **Error estimate:** 4.18%
