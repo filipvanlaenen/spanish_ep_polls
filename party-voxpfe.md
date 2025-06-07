@@ -142,7 +142,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [21 April–28 May 2025](2025-05-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 9 | 9 | 9 | 8–9 | 8–10 |
 | [23–25 May 2025](2025-05-25-40dB.html) | 40dB <br> Prisa | 10 | 9–10 | 9–11 | 9–11 | 8–11 |

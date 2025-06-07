@@ -161,7 +161,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 20 | 19–22 | 18–23 | 18–23 | 17–24 |
 | [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC | 19 | 18–21 | 17–21 | 17–21 | 16–21 |
 | [21 April–28 May 2025](2025-05-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 19–20 | 19–20 | 19–20 | 18–20 |
-| [23–25 May 2025](2025-05-25-40dB.html) | 40dB <br> Prisa | 21 | 20–22 | 20–23 | 20–23 | 20–23 |
+| [23–25 May 2025](2025-05-25-40dB.html) | 40dB <br> Prisa | 21 | 21–22 | 20–23 | 20–23 | 20–23 |
 | [21–23 May 2025](2025-05-23-TargetPoint.html) | Target Point <br> El Debate | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
 | [20–23 May 2025](2025-05-23-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 20 | 18–20 | 18–20 | 17–21 | 17–21 |
 | [19–22 May 2025](2025-05-22-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 19–21 | 19–22 | 18–22 | 18–22 |
