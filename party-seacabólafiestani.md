@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 0.9–2.3% | 0.6–2.5% | 0.4–2.7% | 0.3–3.1% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.0–2.6% | 0.6–2.9% | 0.5–3.2% | 0.3–4.0% |
+| [18–20 June 2025](2025-06-20-TargetPoint.html) | Target Point <br> El Debate | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [17 June 2025](2025-06-17-DYM.html) | DYM <br> Henneo | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.5% |
+| [16 June 2025](2025-06-16-Invymark.html) | Invymark <br> laSexta | 2.0% | 1.3–3.5% | 1.1–3.9% | 0.9–4.3% | 0.7–5.1% |
 | [10–12 June 2025](2025-06-12-GESOP.html) | GESOP <br> Prensa Ibérica | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [2–7 June 2025](2025-06-07-CIS.html) | CIS | 1.5% | 1.3–1.8% | 1.2–1.9% | 1.2–1.9% | 1.1–2.1% |
 | [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
@@ -117,11 +119,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 4% | 100% | Last Result |
-| 0.5–1.5% | 28% | 96% |  |
-| 1.5–2.5% | 63% | 68% | Median |
-| 2.5–3.5% | 4% | 4% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 25% | 96% |  |
+| 1.5–2.5% | 60% | 71% | Median |
+| 2.5–3.5% | 9% | 11% |  |
+| 3.5–4.5% | 1.0% | 1.2% |  |
+| 4.5–5.5% | 0.1% | 0.2% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -132,8 +135,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [18–20 June 2025](2025-06-20-TargetPoint.html) | Target Point <br> El Debate | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [17 June 2025](2025-06-17-DYM.html) | DYM <br> Henneo | 0 | 0 | 0 | 0 | 0–1 |
+| [16 June 2025](2025-06-16-Invymark.html) | Invymark <br> laSexta | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [10–12 June 2025](2025-06-12-GESOP.html) | GESOP <br> Prensa Ibérica | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [2–7 June 2025](2025-06-07-CIS.html) | CIS | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
@@ -240,9 +245,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 24% | 100% | Last Result |
-| 1 | 74% | 76% | Median |
-| 2 | 2% | 2% |  |
-| 3 | 0% | 0% |  |
+| 0 | 22% | 100% | Last Result |
+| 1 | 72% | 78% | Median |
+| 2 | 6% | 6% |  |
+| 3 | 0.2% | 0.3% |  |
+| 4 | 0% | 0% |  |
 
 
