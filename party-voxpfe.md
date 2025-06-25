@@ -10,10 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.1% | 12.8–16.3% | 12.5–16.9% | 12.1–17.5% | 11.1–18.5% |
+| N/A | [Poll Average](average.html) | 14.2% | 12.9–16.4% | 12.5–17.0% | 12.1–17.5% | 11.1–18.5% |
+| [18–21 June 2025](2025-06-21-SocioMétrica.html) | SocioMétrica <br> El Español | 14.0% | 12.8–15.4% | 12.4–15.8% | 12.1–16.1% | 11.5–16.8% |
+| [19–21 June 2025](2025-06-21-NCReport.html) | NC Report <br> La Razón | 14.8% | 13.4–16.3% | 13.1–16.8% | 12.7–17.1% | 12.1–17.9% |
 | [18–20 June 2025](2025-06-20-TargetPoint.html) | Target Point <br> El Debate | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
+| [16–20 June 2025](2025-06-20-Invymark.html) | Invymark <br> laSexta | 14.0% | 11.7–16.9% | 11.1–17.7% | 10.5–18.4% | 9.5–19.8% |
 | [17 June 2025](2025-06-17-DYM.html) | DYM <br> Henneo | 13.6% | 12.3–15.1% | 12.0–15.5% | 11.7–15.9% | 11.1–16.6% |
-| [16 June 2025](2025-06-16-Invymark.html) | Invymark <br> laSexta | 14.0% | 11.7–16.9% | 11.1–17.7% | 10.5–18.4% | 9.5–19.8% |
+| [9–13 June 2025](2025-06-13-Invymark.html) | Invymark <br> laSexta | 13.7% | N/A | N/A | N/A | N/A |
 | [10–12 June 2025](2025-06-12-GESOP.html) | GESOP <br> Prensa Ibérica | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.1% |
 | [2–7 June 2025](2025-06-07-CIS.html) | CIS | 13.2% | 12.5–13.9% | 12.3–14.1% | 12.2–14.3% | 11.9–14.6% |
 | [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC | 14.9% | 13.5–16.4% | 13.1–16.8% | 12.8–17.2% | 12.2–17.9% |
@@ -130,12 +133,12 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.2% | 100% |  |
 | 10.5–11.5% | 0.8% | 99.8% |  |
-| 11.5–12.5% | 5% | 99.0% |  |
-| 12.5–13.5% | 26% | 94% |  |
-| 13.5–14.5% | 31% | 69% | Median |
-| 14.5–15.5% | 19% | 38% |  |
-| 15.5–16.5% | 11% | 19% |  |
-| 16.5–17.5% | 5% | 8% |  |
+| 11.5–12.5% | 4% | 99.0% |  |
+| 12.5–13.5% | 23% | 94% |  |
+| 13.5–14.5% | 29% | 71% | Median |
+| 14.5–15.5% | 21% | 42% |  |
+| 15.5–16.5% | 13% | 22% |  |
+| 16.5–17.5% | 6% | 8% |  |
 | 17.5–18.5% | 2% | 2% |  |
 | 18.5–19.5% | 0.4% | 0.5% |  |
 | 19.5–20.5% | 0.1% | 0.1% |  |
@@ -151,9 +154,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
+| [18–21 June 2025](2025-06-21-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 8–10 | 8–10 | 7–11 | 7–11 |
+| [19–21 June 2025](2025-06-21-NCReport.html) | NC Report <br> La Razón | 9 | 9–10 | 9–10 | 9–11 | 9–12 |
 | [18–20 June 2025](2025-06-20-TargetPoint.html) | Target Point <br> El Debate | 11 | 10–12 | 10–12 | 9–13 | 9–13 |
+| [16–20 June 2025](2025-06-20-Invymark.html) | Invymark <br> laSexta | 9 | 8–11 | 7–12 | 7–12 | 6–13 |
 | [17 June 2025](2025-06-17-DYM.html) | DYM <br> Henneo | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
-| [16 June 2025](2025-06-16-Invymark.html) | Invymark <br> laSexta | 9 | 8–11 | 7–12 | 7–12 | 6–13 |
+| [9–13 June 2025](2025-06-13-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [10–12 June 2025](2025-06-12-GESOP.html) | GESOP <br> Prensa Ibérica | 11 | 10–12 | 10–13 | 10–13 | 9–13 |
 | [2–7 June 2025](2025-06-07-CIS.html) | CIS | 9 | 9 | 9–10 | 8–10 | 8–10 |
 | [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
@@ -267,12 +273,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
-| 7 | 0.6% | 99.9% |  |
-| 8 | 5% | 99.3% |  |
-| 9 | 44% | 95% |  |
-| 10 | 32% | 51% | Median |
+| 7 | 1.0% | 99.9% |  |
+| 8 | 5% | 98.9% |  |
+| 9 | 40% | 94% |  |
+| 10 | 34% | 54% | Median |
 | 11 | 13% | 20% |  |
-| 12 | 5% | 7% |  |
+| 12 | 6% | 7% |  |
 | 13 | 1.1% | 1.2% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |

@@ -10,10 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.8–3.3% | 1.6–3.6% | 1.4–3.8% | 0.9–4.3% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.7–3.3% | 1.5–3.6% | 1.3–3.8% | 0.9–4.3% |
+| [18–21 June 2025](2025-06-21-SocioMétrica.html) | SocioMétrica <br> El Español | 2.3% | 1.9–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.8% |
+| [19–21 June 2025](2025-06-21-NCReport.html) | NC Report <br> La Razón | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [18–20 June 2025](2025-06-20-TargetPoint.html) | Target Point <br> El Debate | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
+| [16–20 June 2025](2025-06-20-Invymark.html) | Invymark <br> laSexta | 1.7% | 1.0–3.1% | 0.9–3.5% | 0.7–3.8% | 0.5–4.6% |
 | [17 June 2025](2025-06-17-DYM.html) | DYM <br> Henneo | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
-| [16 June 2025](2025-06-16-Invymark.html) | Invymark <br> laSexta | 1.7% | 1.0–3.1% | 0.9–3.5% | 0.7–3.8% | 0.5–4.6% |
+| [9–13 June 2025](2025-06-13-Invymark.html) | Invymark <br> laSexta | 1.7% | N/A | N/A | N/A | N/A |
 | [10–12 June 2025](2025-06-12-GESOP.html) | GESOP <br> Prensa Ibérica | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [2–7 June 2025](2025-06-07-CIS.html) | CIS | 2.7% | 2.4–3.0% | 2.3–3.1% | 2.2–3.2% | 2.1–3.4% |
 | [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC | 2.8% | 2.3–3.6% | 2.1–3.9% | 2.0–4.1% | 1.7–4.5% |
@@ -119,9 +122,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 4% | 99.9% |  |
-| 1.5–2.5% | 45% | 96% |  |
-| 2.5–3.5% | 45% | 50% | Median |
+| 0.5–1.5% | 7% | 99.9% |  |
+| 1.5–2.5% | 42% | 93% |  |
+| 2.5–3.5% | 46% | 52% | Median |
 | 3.5–4.5% | 5% | 5% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -136,9 +139,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
+| [18–21 June 2025](2025-06-21-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [19–21 June 2025](2025-06-21-NCReport.html) | NC Report <br> La Razón | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [18–20 June 2025](2025-06-20-TargetPoint.html) | Target Point <br> El Debate | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [16–20 June 2025](2025-06-20-Invymark.html) | Invymark <br> laSexta | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [17 June 2025](2025-06-17-DYM.html) | DYM <br> Henneo | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [16 June 2025](2025-06-16-Invymark.html) | Invymark <br> laSexta | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [9–13 June 2025](2025-06-13-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [10–12 June 2025](2025-06-12-GESOP.html) | GESOP <br> Prensa Ibérica | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [2–7 June 2025](2025-06-07-CIS.html) | CIS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -245,8 +251,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 66% | 97% | Median |
+| 0 | 4% | 100% | Last Result |
+| 1 | 65% | 96% | Median |
 | 2 | 31% | 32% |  |
 | 3 | 0.8% | 0.8% |  |
 | 4 | 0% | 0% |  |
