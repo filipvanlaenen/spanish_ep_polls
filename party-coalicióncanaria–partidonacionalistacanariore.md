@@ -137,7 +137,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [18–21 June 2025](2025-06-21-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
-| [19–21 June 2025](2025-06-21-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0 | 0 | 0 |
+| [19–21 June 2025](2025-06-21-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0 | 0 | 0–1 |
 | [18–20 June 2025](2025-06-20-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [16–20 June 2025](2025-06-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [17 June 2025](2025-06-17-DYM.html) | DYM <br> Henneo |  |  |  |  |  |

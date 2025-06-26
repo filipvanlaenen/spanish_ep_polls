@@ -153,9 +153,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
-| [18–21 June 2025](2025-06-21-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 8–10 | 8–10 | 7–11 | 7–11 |
-| [19–21 June 2025](2025-06-21-NCReport.html) | NC Report <br> La Razón | 9 | 9–10 | 9–10 | 9–11 | 9–12 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–12 | 8–12 | 7–13 |
+| [18–21 June 2025](2025-06-21-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 9–10 | 9–10 | 8–11 | 7–11 |
+| [19–21 June 2025](2025-06-21-NCReport.html) | NC Report <br> La Razón | 9 | 9–11 | 9–11 | 9–11 | 8–13 |
 | [18–20 June 2025](2025-06-20-TargetPoint.html) | Target Point <br> El Debate | 11 | 10–12 | 10–12 | 9–13 | 9–13 |
 | [16–20 June 2025](2025-06-20-Invymark.html) | Invymark <br> laSexta | 9 | 8–11 | 7–12 | 7–12 | 6–13 |
 | [17 June 2025](2025-06-17-DYM.html) | DYM <br> Henneo | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
@@ -273,13 +273,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
-| 7 | 1.0% | 99.9% |  |
-| 8 | 5% | 98.9% |  |
-| 9 | 40% | 94% |  |
-| 10 | 34% | 54% | Median |
-| 11 | 13% | 20% |  |
+| 7 | 0.7% | 99.9% |  |
+| 8 | 4% | 99.2% |  |
+| 9 | 38% | 95% |  |
+| 10 | 36% | 57% | Median |
+| 11 | 14% | 21% |  |
 | 12 | 6% | 7% |  |
-| 13 | 1.1% | 1.2% |  |
+| 13 | 1.2% | 1.2% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
