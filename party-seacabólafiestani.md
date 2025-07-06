@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 0.8–2.6% | 0.6–2.9% | 0.4–3.3% | 0.3–4.0% |
+| N/A | [Poll Average](average.html) | 1.7% | 0.8–2.7% | 0.5–3.0% | 0.4–3.3% | 0.3–4.1% |
+| [20–27 June 2025](2025-06-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–1.9% | 0.8–2.1% |
 | [18–21 June 2025](2025-06-21-SocioMétrica.html) | SocioMétrica <br> El Español | 1.8% | 1.4–2.5% | 1.3–2.6% | 1.2–2.8% | 1.0–3.1% |
 | [19–21 June 2025](2025-06-21-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [18–20 June 2025](2025-06-20-TargetPoint.html) | Target Point <br> El Debate | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
@@ -121,11 +122,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 4% | 100% | Last Result |
-| 0.5–1.5% | 27% | 96% |  |
-| 1.5–2.5% | 57% | 69% | Median |
-| 2.5–3.5% | 10% | 12% |  |
-| 3.5–4.5% | 1.1% | 1.3% |  |
+| 0.0–0.5% | 5% | 100% | Last Result |
+| 0.5–1.5% | 36% | 95% |  |
+| 1.5–2.5% | 46% | 59% | Median |
+| 2.5–3.5% | 12% | 13% |  |
+| 3.5–4.5% | 1.3% | 2% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -139,6 +140,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [20–27 June 2025](2025-06-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–21 June 2025](2025-06-21-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1 | 0–1 | 0–1 |
 | [19–21 June 2025](2025-06-21-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [18–20 June 2025](2025-06-20-TargetPoint.html) | Target Point <br> El Debate | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -251,10 +253,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% | Last Result |
-| 1 | 75% | 82% | Median |
-| 2 | 6% | 7% |  |
-| 3 | 0.3% | 0.3% |  |
+| 0 | 29% | 100% | Last Result |
+| 1 | 63% | 71% | Median |
+| 2 | 7% | 8% |  |
+| 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 
 
