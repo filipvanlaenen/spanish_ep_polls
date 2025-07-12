@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 2.7–5.2% | 2.4–5.5% | 2.1–5.8% | 1.6–6.3% |
+| N/A | [Poll Average](average.html) | 4.2% | 2.7–5.2% | 2.4–5.5% | 2.1–5.8% | 1.6–6.3% |
+| [1–7 July 2025](2025-07-07-CIS.html) | CIS | 4.8% | 4.4–5.3% | 4.3–5.4% | 4.2–5.5% | 4.0–5.8% |
 | [30 June–4 July 2025](2025-07-04-InvyMark.html) | InvyMark <br> laSexta | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.4% | 2.0–4.8% |
 | [27–30 June 2025](2025-06-30-40dB.html) | 40dB <br> Prisa | 3.8% | 3.3–4.5% | 3.2–4.6% | 3.1–4.8% | 2.9–5.1% |
 | [20–27 June 2025](2025-06-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.7% | 4.1–5.3% | 3.9–5.5% | 3.8–5.7% | 3.6–6.1% |
@@ -128,8 +129,8 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0.5% | 100% |  |
 | 1.5–2.5% | 7% | 99.5% |  |
 | 2.5–3.5% | 22% | 93% |  |
-| 3.5–4.5% | 41% | 71% | Median |
-| 4.5–5.5% | 25% | 30% |  |
+| 3.5–4.5% | 36% | 71% | Median |
+| 4.5–5.5% | 30% | 35% |  |
 | 5.5–6.5% | 4% | 4% |  |
 | 6.5–7.5% | 0.2% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -144,6 +145,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
+| [1–7 July 2025](2025-07-07-CIS.html) | CIS | 3 | 3 | 3 | 3 | 3 |
 | [30 June–4 July 2025](2025-07-04-InvyMark.html) | InvyMark <br> laSexta | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [27–30 June 2025](2025-06-30-40dB.html) | 40dB <br> Prisa | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [20–27 June 2025](2025-06-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -261,8 +263,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% | Last Result |
 | 1 | 10% | 99.7% |  |
-| 2 | 45% | 90% | Median |
-| 3 | 40% | 45% |  |
+| 2 | 41% | 90% | Median |
+| 3 | 45% | 49% |  |
 | 4 | 4% | 5% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
