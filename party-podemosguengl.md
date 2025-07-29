@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.0–5.4% | 2.7–6.0% | 2.5–6.5% | 2.1–7.3% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.3–5.4% | 3.0–6.0% | 2.8–6.5% | 2.4–7.3% |
+| [9–10 July 2025](2025-07-10-TargetPoint.html) | Target Point <br> El Debate | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [1–7 July 2025](2025-07-07-CIS.html) | CIS | 4.4% | 4.0–4.9% | 3.9–5.0% | 3.8–5.1% | 3.6–5.3% |
 | [30 June–4 July 2025](2025-07-04-InvyMark.html) | InvyMark <br> laSexta | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.1–5.4% | 2.8–5.9% |
 | [27–30 June 2025](2025-06-30-40dB.html) | 40dB <br> Prisa | 3.8% | 3.3–4.4% | 3.2–4.6% | 3.0–4.7% | 2.8–5.0% |
@@ -127,11 +128,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 23% | 97% |  |
-| 3.5–4.5% | 46% | 74% | Median |
-| 4.5–5.5% | 20% | 28% |  |
-| 5.5–6.5% | 6% | 9% |  |
+| 1.5–2.5% | 0.9% | 100% |  |
+| 2.5–3.5% | 18% | 99.1% |  |
+| 3.5–4.5% | 50% | 81% | Median |
+| 4.5–5.5% | 23% | 31% |  |
+| 5.5–6.5% | 7% | 9% |  |
 | 6.5–7.5% | 2% | 2% |  |
 | 7.5–8.5% | 0.2% | 0.3% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -145,7 +146,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–4 | 1–4 | 1–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 1–5 |
+| [9–10 July 2025](2025-07-10-TargetPoint.html) | Target Point <br> El Debate | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [1–7 July 2025](2025-07-07-CIS.html) | CIS | 3 | 3 | 3 | 3 | 2–3 |
 | [30 June–4 July 2025](2025-07-04-InvyMark.html) | InvyMark <br> laSexta | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [27–30 June 2025](2025-06-30-40dB.html) | 40dB <br> Prisa | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -263,10 +265,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 6% | 100% |  |
-| 2 | 49% | 94% | Median |
-| 3 | 37% | 45% |  |
-| 4 | 7% | 9% |  |
+| 1 | 2% | 100% |  |
+| 2 | 48% | 98% |  |
+| 3 | 42% | 50% | Median |
+| 4 | 8% | 9% |  |
 | 5 | 1.0% | 1.1% |  |
 | 6 | 0% | 0% |  |
 
