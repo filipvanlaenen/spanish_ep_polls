@@ -11,9 +11,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.8% |
+| [21–24 July 2025](2025-07-24-SocioMétrica.html) | SocioMétrica <br> El Español | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
+| [14–18 July 2025](2025-07-18-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [11–14 July 2025](2025-07-14-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [10–14 July 2025](2025-07-14-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
 | [9–10 July 2025](2025-07-10-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
 | [1–7 July 2025](2025-07-07-CIS.html) | CIS | 0.1% | 0.0–0.2% | 0.0–0.2% | 0.0–0.3% | 0.0–0.3% |
-| [30 June–4 July 2025](2025-07-04-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [30 June–4 July 2025](2025-07-04-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 June 2025](2025-06-30-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [20–27 June 2025](2025-06-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
 | [18–21 June 2025](2025-06-21-SocioMétrica.html) | SocioMétrica <br> El Español | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
@@ -95,7 +99,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [20–27 September 2024](2024-09-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.0–0.7% |
 | [25–27 September 2024](2024-09-27-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [23–26 September 2024](2024-09-26-GESOP.html) | GESOP <br> Prensa Ibérica | 0.0% | N/A | N/A | N/A | N/A |
-| [16–20 September 2024](2024-09-20-InvyMark.html) | InvyMark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [16–20 September 2024](2024-09-20-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 September 2024](2024-09-19-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
 | [1–13 September 2024](2024-09-13-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [3–6 September 2024](2024-09-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
@@ -126,8 +130,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 96% | 100% | Last Result, Median |
-| 0.5–1.5% | 4% | 4% |  |
+| 0.0–0.5% | 95% | 100% | Last Result, Median |
+| 0.5–1.5% | 5% | 5% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -140,9 +144,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21–24 July 2025](2025-07-24-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
+| [14–18 July 2025](2025-07-18-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0 | 0 | 0 | 0 | 0 |
+| [11–14 July 2025](2025-07-14-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [10–14 July 2025](2025-07-14-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0 | 0 | 0 | 0 |
 | [9–10 July 2025](2025-07-10-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [1–7 July 2025](2025-07-07-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
-| [30 June–4 July 2025](2025-07-04-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
+| [30 June–4 July 2025](2025-07-04-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [27–30 June 2025](2025-06-30-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [20–27 June 2025](2025-06-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0 | 0 | 0 |
 | [18–21 June 2025](2025-06-21-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
@@ -224,7 +232,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–27 September 2024](2024-09-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0 | 0 | 0 |
 | [25–27 September 2024](2024-09-27-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [23–26 September 2024](2024-09-26-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
-| [16–20 September 2024](2024-09-20-InvyMark.html) | InvyMark <br> laSexta |  |  |  |  |  |
+| [16–20 September 2024](2024-09-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [18–19 September 2024](2024-09-19-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [1–13 September 2024](2024-09-13-SimpleLógica.html) | Simple Lógica <br> elDiario.es |  |  |  |  |  |
 | [3–6 September 2024](2024-09-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 0 | 0 | 0 | 0 | 0 |
