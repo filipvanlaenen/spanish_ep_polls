@@ -10,22 +10,23 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.2% | 13.4–18.3% | 12.9–19.0% | 12.4–19.4% | 11.3–20.0% |
+| N/A | [Poll Average](average.html) | 15.3% | 13.6–18.3% | 13.1–19.0% | 12.5–19.4% | 11.3–20.0% |
+| [21–30 July 2025](2025-07-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 14.8% | 13.9–15.8% | 13.6–16.1% | 13.4–16.4% | 13.0–16.8% |
 | [21–24 July 2025](2025-07-24-SocioMétrica.html) | SocioMétrica <br> El Español | 16.0% | 14.6–17.5% | 14.3–17.9% | 13.9–18.3% | 13.3–19.0% |
 | [14–18 July 2025](2025-07-18-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.7–18.5% |
 | [11–14 July 2025](2025-07-14-DYM.html) | DYM <br> Henneo | 14.6% | 13.2–16.1% | 12.9–16.6% | 12.5–16.9% | 11.9–17.7% |
 | [10–14 July 2025](2025-07-14-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 14.3% | 13.0–15.7% | 12.6–16.1% | 12.3–16.5% | 11.7–17.2% |
 | [9–10 July 2025](2025-07-10-TargetPoint.html) | Target Point <br> El Debate | 15.6% | 14.2–17.1% | 13.8–17.6% | 13.4–18.0% | 12.8–18.7% |
 | [1–7 July 2025](2025-07-07-CIS.html) | CIS | 18.9% | 18.1–19.7% | 17.9–19.9% | 17.7–20.1% | 17.3–20.5% |
-| [30 June–4 July 2025](2025-07-04-Invymark.html) | Invymark <br> laSexta | 14.3% | 12.0–17.2% | 11.4–18.0% | 10.8–18.8% | 9.8–20.2% |
+| [30 June–4 July 2025](2025-07-04-Invymark.html) | Invymark <br> laSexta | 14.2% | 12.0–17.2% | 11.4–18.0% | 10.8–18.8% | 9.8–20.2% |
 | [27–30 June 2025](2025-06-30-40dB.html) | 40dB <br> Prisa | 15.2% | 14.2–16.3% | 13.9–16.6% | 13.7–16.8% | 13.2–17.4% |
 | [20–27 June 2025](2025-06-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 13.9% | 12.9–15.0% | 12.6–15.3% | 12.4–15.5% | 11.9–16.0% |
 | [18–21 June 2025](2025-06-21-SocioMétrica.html) | SocioMétrica <br> El Español | 14.0% | 12.8–15.4% | 12.4–15.8% | 12.1–16.1% | 11.5–16.8% |
 | [19–21 June 2025](2025-06-21-NCReport.html) | NC Report <br> La Razón | 14.8% | 13.4–16.3% | 13.1–16.8% | 12.7–17.1% | 12.1–17.9% |
 | [18–20 June 2025](2025-06-20-TargetPoint.html) | Target Point <br> El Debate | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
-| [16–20 June 2025](2025-06-20-Invymark.html) | Invymark <br> laSexta | 14.0% | 11.7–16.9% | 11.1–17.7% | 10.5–18.4% | 9.5–19.8% |
+| [16–20 June 2025](2025-06-20-Invymark.html) | Invymark <br> laSexta | 14.1% | 11.7–16.9% | 11.1–17.7% | 10.5–18.4% | 9.5–19.8% |
 | [17 June 2025](2025-06-17-DYM.html) | DYM <br> Henneo | 13.6% | 12.3–15.1% | 12.0–15.5% | 11.7–15.9% | 11.1–16.6% |
-| [9–13 June 2025](2025-06-13-Invymark.html) | Invymark <br> laSexta | 13.7% | N/A | N/A | N/A | N/A |
+| [9–13 June 2025](2025-06-13-Invymark.html) | Invymark <br> laSexta | 13.8% | N/A | N/A | N/A | N/A |
 | [10–12 June 2025](2025-06-12-GESOP.html) | GESOP <br> Prensa Ibérica | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.1% |
 | [2–7 June 2025](2025-06-07-CIS.html) | CIS | 13.2% | 12.5–13.9% | 12.3–14.1% | 12.2–14.3% | 11.9–14.6% |
 | [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC | 14.9% | 13.5–16.4% | 13.1–16.8% | 12.8–17.2% | 12.2–17.9% |
@@ -99,7 +100,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [20–27 September 2024](2024-09-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 9.5% | 8.7–10.4% | 8.4–10.7% | 8.2–10.9% | 7.9–11.3% |
 | [25–27 September 2024](2024-09-27-40dB.html) | 40dB <br> Prisa | 10.5% | 9.7–11.4% | 9.4–11.7% | 9.2–11.9% | 8.8–12.4% |
 | [23–26 September 2024](2024-09-26-GESOP.html) | GESOP <br> Prensa Ibérica | 13.0% | 11.8–14.5% | 11.4–14.9% | 11.1–15.3% | 10.5–16.0% |
-| [16–20 September 2024](2024-09-20-Invymark.html) | Invymark <br> laSexta | 11.0% | N/A | N/A | N/A | N/A |
+| [16–20 September 2024](2024-09-20-Invymark.html) | Invymark <br> laSexta | 10.9% | N/A | N/A | N/A | N/A |
 | [18–19 September 2024](2024-09-19-TargetPoint.html) | Target Point <br> El Debate | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [1–13 September 2024](2024-09-13-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.5% | 8.2–13.2% |
 | [3–6 September 2024](2024-09-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> VozPópuli | 11.3% | 10.1–12.7% | 9.8–13.1% | 9.5–13.4% | 8.9–14.1% |
@@ -121,7 +122,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [25–27 June 2024](2024-06-27-TargetPoint.html) | Target Point <br> El Debate | 9.8% | N/A | N/A | N/A | N/A |
 | [21–24 June 2024](2024-06-24-40dB.html) | 40dB <br> Prisa | 10.4% | 9.6–11.3% | 9.3–11.6% | 9.1–11.8% | 8.7–12.3% |
 | [11–15 June 2024](2024-06-15-NCReport.html) | NC Report <br> La Razón | 10.3% | 8.9–12.0% | 8.5–12.4% | 8.2–12.8% | 7.5–13.7% |
-| [10–14 June 2024](2024-06-14-Invymark.html) | Invymark <br> laSexta | 11.0% | 9.0–13.6% | 8.4–14.4% | 7.9–15.1% | 7.1–16.4% |
+| [10–14 June 2024](2024-06-14-Invymark.html) | Invymark <br> laSexta | 11.1% | 9.0–13.6% | 8.4–14.4% | 7.9–15.1% | 7.1–16.4% |
 | [1–11 June 2024](2024-06-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 11.5% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
@@ -141,12 +142,12 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.2% | 100% |  |
-| 10.5–11.5% | 0.6% | 99.8% |  |
+| 10.5–11.5% | 0.5% | 99.8% |  |
 | 11.5–12.5% | 2% | 99.3% |  |
-| 12.5–13.5% | 10% | 97% |  |
-| 13.5–14.5% | 21% | 87% |  |
-| 14.5–15.5% | 25% | 66% | Median |
-| 15.5–16.5% | 19% | 41% |  |
+| 12.5–13.5% | 7% | 97% |  |
+| 13.5–14.5% | 19% | 91% |  |
+| 14.5–15.5% | 29% | 71% | Median |
+| 15.5–16.5% | 20% | 43% |  |
 | 16.5–17.5% | 8% | 22% |  |
 | 17.5–18.5% | 5% | 14% |  |
 | 18.5–19.5% | 7% | 9% |  |
@@ -164,6 +165,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–13 | 9–14 | 8–14 | 7–14 |
+| [21–30 July 2025](2025-07-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 10 | 9–10 | 9–11 | 9–11 | 9–12 |
 | [21–24 July 2025](2025-07-24-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 9–12 | 9–12 | 9–12 | 9–14 |
 | [14–18 July 2025](2025-07-18-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [11–14 July 2025](2025-07-14-DYM.html) | DYM <br> Henneo | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
@@ -294,8 +296,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0.1% | 100% |  |
 | 7 | 0.9% | 99.9% |  |
 | 8 | 3% | 99.0% |  |
-| 9 | 21% | 96% |  |
-| 10 | 33% | 75% | Median |
+| 9 | 19% | 96% |  |
+| 10 | 35% | 77% | Median |
 | 11 | 25% | 42% |  |
 | 12 | 6% | 17% |  |
 | 13 | 6% | 12% |  |

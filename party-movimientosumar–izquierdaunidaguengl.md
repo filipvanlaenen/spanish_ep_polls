@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.6% | 1.9–3.3% | 1.7–3.5% | 1.5–3.7% | 1.1–4.2% |
+| [21–30 July 2025](2025-07-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.0% | 2.6–3.5% | 2.5–3.7% | 2.4–3.8% | 2.2–4.1% |
 | [21–24 July 2025](2025-07-24-SocioMétrica.html) | SocioMétrica <br> El Español | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.4% | 1.4–3.8% |
 | [14–18 July 2025](2025-07-18-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [11–14 July 2025](2025-07-14-DYM.html) | DYM <br> Henneo | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
@@ -25,7 +26,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [18–20 June 2025](2025-06-20-TargetPoint.html) | Target Point <br> El Debate | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [16–20 June 2025](2025-06-20-Invymark.html) | Invymark <br> laSexta | 1.7% | 1.0–3.1% | 0.9–3.5% | 0.7–3.8% | 0.5–4.6% |
 | [17 June 2025](2025-06-17-DYM.html) | DYM <br> Henneo | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
-| [9–13 June 2025](2025-06-13-Invymark.html) | Invymark <br> laSexta | 1.7% | N/A | N/A | N/A | N/A |
+| [9–13 June 2025](2025-06-13-Invymark.html) | Invymark <br> laSexta | 1.8% | N/A | N/A | N/A | N/A |
 | [10–12 June 2025](2025-06-12-GESOP.html) | GESOP <br> Prensa Ibérica | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [2–7 June 2025](2025-06-07-CIS.html) | CIS | 2.7% | 2.4–3.0% | 2.3–3.1% | 2.2–3.2% | 2.1–3.4% |
 | [27–29 May 2025](2025-05-29-GAD3.html) | GAD3 <br> ABC | 2.8% | 2.3–3.6% | 2.1–3.9% | 2.0–4.1% | 1.7–4.5% |
@@ -121,7 +122,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [25–27 June 2024](2024-06-27-TargetPoint.html) | Target Point <br> El Debate | 2.1% | N/A | N/A | N/A | N/A |
 | [21–24 June 2024](2024-06-24-40dB.html) | 40dB <br> Prisa | 2.2% | 1.9–2.7% | 1.8–2.9% | 1.7–3.0% | 1.5–3.3% |
 | [11–15 June 2024](2024-06-15-NCReport.html) | NC Report <br> La Razón | 2.5% | 1.8–3.4% | 1.7–3.7% | 1.5–4.0% | 1.3–4.5% |
-| [10–14 June 2024](2024-06-14-Invymark.html) | Invymark <br> laSexta | 3.3% | 2.3–5.1% | 2.1–5.6% | 1.8–6.0% | 1.4–7.0% |
+| [10–14 June 2024](2024-06-14-Invymark.html) | Invymark <br> laSexta | 3.2% | 2.3–5.1% | 2.1–5.6% | 1.8–6.0% | 1.4–7.0% |
 | [1–11 June 2024](2024-06-11-SimpleLógica.html) | Simple Lógica <br> elDiario.es | 3.5% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
@@ -132,8 +133,8 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 43% | 97% |  |
-| 2.5–3.5% | 50% | 54% | Median |
+| 1.5–2.5% | 42% | 97% |  |
+| 2.5–3.5% | 51% | 55% | Median |
 | 3.5–4.5% | 4% | 4% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -148,6 +149,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
+| [21–30 July 2025](2025-07-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–24 July 2025](2025-07-24-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [14–18 July 2025](2025-07-18-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [11–14 July 2025](2025-07-14-DYM.html) | DYM <br> Henneo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -271,7 +273,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% | Last Result |
 | 1 | 55% | 97% | Median |
-| 2 | 40% | 42% |  |
+| 2 | 41% | 42% |  |
 | 3 | 1.2% | 1.2% |  |
 | 4 | 0% | 0% |  |
 

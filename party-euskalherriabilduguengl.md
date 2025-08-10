@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.8% | 0.8–2.0% | 0.7–2.1% | 0.6–2.4% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.9–1.8% | 0.8–2.0% | 0.7–2.1% | 0.6–2.4% |
+| [21–30 July 2025](2025-07-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.2% | 0.9–1.5% | 0.9–1.6% | 0.8–1.7% | 0.7–1.9% |
 | [21–24 July 2025](2025-07-24-SocioMétrica.html) | SocioMétrica <br> El Español | 1.4% | 1.0–1.9% | 0.9–2.1% | 0.8–2.2% | 0.7–2.5% |
 | [14–18 July 2025](2025-07-18-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [11–14 July 2025](2025-07-14-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
@@ -131,8 +132,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 77% | 99.9% | Median |
-| 1.5–2.5% | 23% | 23% |  |
+| 0.5–1.5% | 78% | 99.9% | Median |
+| 1.5–2.5% | 22% | 22% |  |
 | 2.5–3.5% | 0.3% | 0.3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -146,6 +147,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21–30 July 2025](2025-07-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [21–24 July 2025](2025-07-24-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–18 July 2025](2025-07-18-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–14 July 2025](2025-07-14-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
@@ -267,8 +269,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 69% | 100% | Last Result, Median |
-| 1 | 31% | 31% |  |
+| 0 | 71% | 100% | Last Result, Median |
+| 1 | 29% | 29% |  |
 | 2 | 0% | 0% |  |
 
 
