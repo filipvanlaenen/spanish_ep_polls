@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.4–5.6% | 3.1–6.0% | 2.9–6.4% | 2.4–7.1% |
+| N/A | [Poll Average](average.html) | 4.5% | 3.5–5.9% | 3.2–6.2% | 3.0–6.5% | 2.7–7.1% |
+| [26–29 August 2025](2025-08-29-SocioMétrica.html) | SocioMétrica <br> El Español | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
+| [20–28 August 2025](2025-08-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.2% | 3.6–4.9% | 3.5–5.1% | 3.4–5.2% | 3.1–5.6% |
 | [21–30 July 2025](2025-07-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.4% | 3.9–5.0% | 3.7–5.2% | 3.6–5.3% | 3.4–5.7% |
 | [21–24 July 2025](2025-07-24-SocioMétrica.html) | SocioMétrica <br> El Español | 3.8% | 3.2–4.7% | 3.0–4.9% | 2.8–5.1% | 2.5–5.6% |
 | [14–18 July 2025](2025-07-18-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
@@ -133,13 +135,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.7% | 100% |  |
-| 2.5–3.5% | 14% | 99.3% |  |
-| 3.5–4.5% | 46% | 85% | Median |
-| 4.5–5.5% | 28% | 39% |  |
-| 5.5–6.5% | 10% | 11% |  |
+| 1.5–2.5% | 0.3% | 100% |  |
+| 2.5–3.5% | 12% | 99.7% |  |
+| 3.5–4.5% | 40% | 88% | Median |
+| 4.5–5.5% | 30% | 47% |  |
+| 5.5–6.5% | 15% | 17% |  |
 | 6.5–7.5% | 2% | 2% |  |
-| 7.5–8.5% | 0.1% | 0.2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -152,6 +154,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| [26–29 August 2025](2025-08-29-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
+| [20–28 August 2025](2025-08-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–30 July 2025](2025-07-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–24 July 2025](2025-07-24-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | [14–18 July 2025](2025-07-18-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -275,11 +279,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 2% | 100% |  |
-| 2 | 37% | 98% |  |
-| 3 | 51% | 61% | Median |
-| 4 | 10% | 10% |  |
-| 5 | 0.3% | 0.3% |  |
+| 1 | 1.1% | 100% |  |
+| 2 | 41% | 98.9% |  |
+| 3 | 42% | 58% | Median |
+| 4 | 16% | 16% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 
