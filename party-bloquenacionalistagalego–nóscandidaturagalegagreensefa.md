@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.6–1.3% | 0.5–1.5% | 0.4–1.6% | 0.3–1.9% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.5–1.6% | 0.4–1.9% |
 | [1–6 September 2025](2025-09-06-NCReport.html) | NC Report <br> La Razón | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
+| [1–6 September 2025](2025-09-06-CIS.html) | CIS | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.5–1.0% | 0.4–1.1% |
 | [29 August–1 September 2025](2025-09-01-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [26–29 August 2025](2025-08-29-SocioMétrica.html) | SocioMétrica <br> El Español | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
 | [20–28 August 2025](2025-08-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
@@ -135,8 +136,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 10% | 100% | Last Result |
-| 0.5–1.5% | 87% | 90% | Median |
+| 0.0–0.5% | 7% | 100% | Last Result |
+| 0.5–1.5% | 90% | 93% | Median |
 | 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -151,6 +152,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–6 September 2025](2025-09-06-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–6 September 2025](2025-09-06-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [29 August–1 September 2025](2025-09-01-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [26–29 August 2025](2025-08-29-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–28 August 2025](2025-08-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0 | 0 | 0–1 |
