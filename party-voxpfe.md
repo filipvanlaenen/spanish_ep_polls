@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.4% | 14.5–17.9% | 14.1–18.3% | 13.8–18.6% | 13.1–19.2% |
+| N/A | [Poll Average](average.html) | 16.5% | 14.6–18.1% | 14.2–18.5% | 13.8–18.8% | 13.2–19.6% |
+| [10–11 September 2025](2025-09-11-TargetPoint.html) | Target Point <br> El Debate | 17.2% | 15.8–18.8% | 15.4–19.3% | 15.0–19.7% | 14.4–20.5% |
+| [3–9 September 2025](2025-09-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [1–6 September 2025](2025-09-06-NCReport.html) | NC Report <br> La Razón | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.7–18.5% |
 | [1–6 September 2025](2025-09-06-CIS.html) | CIS | 17.3% | 16.6–18.1% | 16.3–18.3% | 16.2–18.5% | 15.8–18.9% |
 | [29 August–1 September 2025](2025-09-01-40dB.html) | 40dB <br> Prisa | 17.4% | 16.3–18.5% | 16.0–18.9% | 15.8–19.1% | 15.3–19.7% |
@@ -149,15 +151,16 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 1.5% | 99.9% |  |
-| 13.5–14.5% | 9% | 98% |  |
-| 14.5–15.5% | 20% | 89% |  |
-| 15.5–16.5% | 23% | 69% | Median |
-| 16.5–17.5% | 28% | 47% |  |
-| 17.5–18.5% | 16% | 19% |  |
-| 18.5–19.5% | 3% | 3% |  |
-| 19.5–20.5% | 0.2% | 0.2% |  |
-| 20.5–21.5% | 0% | 0% |  |
+| 12.5–13.5% | 1.2% | 99.9% |  |
+| 13.5–14.5% | 8% | 98.7% |  |
+| 14.5–15.5% | 19% | 91% |  |
+| 15.5–16.5% | 24% | 72% | Median |
+| 16.5–17.5% | 28% | 48% |  |
+| 17.5–18.5% | 16% | 21% |  |
+| 18.5–19.5% | 4% | 4% |  |
+| 19.5–20.5% | 0.5% | 0.6% |  |
+| 20.5–21.5% | 0.1% | 0.1% |  |
+| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -168,7 +171,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–13 | 10–13 | 9–13 | 9–14 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 10–13 | 9–13 | 8–14 |
+| [10–11 September 2025](2025-09-11-TargetPoint.html) | Target Point <br> El Debate | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
+| [3–9 September 2025](2025-09-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 10 | 10–11 | 9–12 | 9–13 | 8–13 |
 | [1–6 September 2025](2025-09-06-NCReport.html) | NC Report <br> La Razón | 10 | 10–12 | 10–12 | 9–12 | 8–12 |
 | [1–6 September 2025](2025-09-06-CIS.html) | CIS | 12 | 12–13 | 11–13 | 11–13 | 11–13 |
 | [29 August–1 September 2025](2025-09-01-40dB.html) | 40dB <br> Prisa | 12 | 12–13 | 11–13 | 11–14 | 11–14 |
@@ -304,13 +309,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.3% | 100% |  |
-| 9 | 4% | 99.7% |  |
-| 10 | 27% | 96% |  |
-| 11 | 26% | 69% | Median |
-| 12 | 31% | 43% |  |
+| 8 | 0.5% | 100% |  |
+| 9 | 4% | 99.5% |  |
+| 10 | 29% | 96% |  |
+| 11 | 25% | 66% | Median |
+| 12 | 29% | 41% |  |
 | 13 | 11% | 12% |  |
-| 14 | 0.7% | 0.7% |  |
+| 14 | 1.0% | 1.1% |  |
 | 15 | 0% | 0% |  |
 
 
