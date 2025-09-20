@@ -11,10 +11,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16.5% | 14.6–18.1% | 14.2–18.5% | 13.8–18.8% | 13.2–19.6% |
+| [10–15 September 2025](2025-09-15-DYM.html) | DYM <br> Henneo | 15.7% | N/A | N/A | N/A | N/A |
+| [8–12 September 2025](2025-09-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 15.2% | N/A | N/A | N/A | N/A |
 | [10–11 September 2025](2025-09-11-TargetPoint.html) | Target Point <br> El Debate | 17.2% | 15.8–18.8% | 15.4–19.3% | 15.0–19.7% | 14.4–20.5% |
+| [5–11 September 2025](2025-09-11-GAD3.html) | GAD3 <br> ABC | 17.9% | N/A | N/A | N/A | N/A |
 | [3–9 September 2025](2025-09-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [1–6 September 2025](2025-09-06-NCReport.html) | NC Report <br> La Razón | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.7–18.5% |
 | [1–6 September 2025](2025-09-06-CIS.html) | CIS | 17.3% | 16.6–18.1% | 16.3–18.3% | 16.2–18.5% | 15.8–18.9% |
+| [2–5 September 2025](2025-09-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> esRadio | 16.7% | N/A | N/A | N/A | N/A |
 | [29 August–1 September 2025](2025-09-01-40dB.html) | 40dB <br> Prisa | 17.4% | 16.3–18.5% | 16.0–18.9% | 15.8–19.1% | 15.3–19.7% |
 | [26–29 August 2025](2025-08-29-SocioMétrica.html) | SocioMétrica <br> El Español | 16.1% | 14.7–17.6% | 14.4–18.0% | 14.0–18.4% | 13.4–19.1% |
 | [20–28 August 2025](2025-08-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 15.1% | 14.0–16.2% | 13.7–16.6% | 13.5–16.8% | 13.0–17.4% |
@@ -172,10 +176,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–13 | 10–13 | 9–13 | 8–14 |
+| [10–15 September 2025](2025-09-15-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [8–12 September 2025](2025-09-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
 | [10–11 September 2025](2025-09-11-TargetPoint.html) | Target Point <br> El Debate | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
+| [5–11 September 2025](2025-09-11-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [3–9 September 2025](2025-09-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 10 | 10–11 | 9–12 | 9–13 | 8–13 |
 | [1–6 September 2025](2025-09-06-NCReport.html) | NC Report <br> La Razón | 10 | 10–12 | 10–12 | 9–12 | 8–12 |
 | [1–6 September 2025](2025-09-06-CIS.html) | CIS | 12 | 12–13 | 11–13 | 11–13 | 11–13 |
+| [2–5 September 2025](2025-09-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> esRadio |  |  |  |  |  |
 | [29 August–1 September 2025](2025-09-01-40dB.html) | 40dB <br> Prisa | 12 | 12–13 | 11–13 | 11–14 | 11–14 |
 | [26–29 August 2025](2025-08-29-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–12 | 9–12 | 9–13 | 9–13 |
 | [20–28 August 2025](2025-08-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 11 | 10–11 | 9–12 | 9–12 | 8–12 |
