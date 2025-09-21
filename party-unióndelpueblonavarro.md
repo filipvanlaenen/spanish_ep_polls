@@ -12,9 +12,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.6% | 0.0–0.8% |
 | [10–15 September 2025](2025-09-15-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
-| [8–12 September 2025](2025-09-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.2% | N/A | N/A | N/A | N/A |
+| [8–12 September 2025](2025-09-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
 | [10–11 September 2025](2025-09-11-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
-| [5–11 September 2025](2025-09-11-GAD3.html) | GAD3 <br> ABC | 0.1% | N/A | N/A | N/A | N/A |
+| [5–11 September 2025](2025-09-11-GAD3.html) | GAD3 <br> ABC | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.7% |
 | [3–9 September 2025](2025-09-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [1–6 September 2025](2025-09-06-NCReport.html) | NC Report <br> La Razón | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [1–6 September 2025](2025-09-06-CIS.html) | CIS | 0.1% | 0.0–0.2% | 0.0–0.2% | 0.0–0.3% | 0.0–0.3% |
@@ -157,9 +157,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [10–15 September 2025](2025-09-15-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
-| [8–12 September 2025](2025-09-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [8–12 September 2025](2025-09-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0 | 0 | 0 | 0 |
 | [10–11 September 2025](2025-09-11-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
-| [5–11 September 2025](2025-09-11-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [5–11 September 2025](2025-09-11-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
 | [3–9 September 2025](2025-09-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0 | 0 | 0 | 0 | 0 |
 | [1–6 September 2025](2025-09-06-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0 | 0 | 0 |
 | [1–6 September 2025](2025-09-06-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |

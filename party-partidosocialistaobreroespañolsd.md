@@ -10,15 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.0% | 24.9–32.3% | 24.3–33.0% | 23.8–33.4% | 22.9–34.0% |
-| [10–15 September 2025](2025-09-15-DYM.html) | DYM <br> Henneo | 26.9% | N/A | N/A | N/A | N/A |
-| [8–12 September 2025](2025-09-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 26.1% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 26.8% | 24.9–29.8% | 24.4–32.6% | 23.9–33.1% | 23.0–33.9% |
+| [10–15 September 2025](2025-09-15-DYM.html) | DYM <br> Henneo | 26.9% | 25.1–28.7% | 24.6–29.2% | 24.2–29.7% | 23.4–30.6% |
+| [8–12 September 2025](2025-09-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 26.1% | 24.4–27.8% | 24.0–28.3% | 23.6–28.8% | 22.8–29.6% |
 | [10–11 September 2025](2025-09-11-TargetPoint.html) | Target Point <br> El Debate | 27.0% | 25.2–28.8% | 24.8–29.3% | 24.3–29.8% | 23.5–30.7% |
-| [5–11 September 2025](2025-09-11-GAD3.html) | GAD3 <br> ABC | 26.9% | N/A | N/A | N/A | N/A |
+| [5–11 September 2025](2025-09-11-GAD3.html) | GAD3 <br> ABC | 26.9% | 25.1–28.7% | 24.6–29.2% | 24.2–29.7% | 23.4–30.6% |
 | [3–9 September 2025](2025-09-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 25.8% | 24.1–27.6% | 23.6–28.2% | 23.2–28.6% | 22.4–29.5% |
 | [1–6 September 2025](2025-09-06-NCReport.html) | NC Report <br> La Razón | 25.8% | 24.1–27.6% | 23.6–28.2% | 23.2–28.6% | 22.4–29.5% |
 | [1–6 September 2025](2025-09-06-CIS.html) | CIS | 32.7% | 31.8–33.7% | 31.5–33.9% | 31.3–34.2% | 30.8–34.6% |
-| [2–5 September 2025](2025-09-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> esRadio | 26.6% | N/A | N/A | N/A | N/A |
+| [2–5 September 2025](2025-09-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> esRadio | 26.6% | 25.6–27.7% | 25.3–28.0% | 25.0–28.2% | 24.6–28.7% |
 | [29 August–1 September 2025](2025-09-01-40dB.html) | 40dB <br> Prisa | 27.7% | 26.4–29.0% | 26.1–29.4% | 25.8–29.7% | 25.2–30.3% |
 | [26–29 August 2025](2025-08-29-SocioMétrica.html) | SocioMétrica <br> El Español | 26.2% | 24.5–27.9% | 24.1–28.4% | 23.7–28.9% | 22.9–29.7% |
 | [20–28 August 2025](2025-08-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 27.0% | 25.7–28.4% | 25.3–28.7% | 25.0–29.1% | 24.3–29.8% |
@@ -165,18 +165,18 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0.2% | 100% |  |
-| 22.5–23.5% | 1.4% | 99.8% |  |
-| 23.5–24.5% | 5% | 98% |  |
-| 24.5–25.5% | 13% | 93% |  |
-| 25.5–26.5% | 21% | 80% |  |
-| 26.5–27.5% | 23% | 60% | Median |
-| 27.5–28.5% | 15% | 37% |  |
-| 28.5–29.5% | 6% | 22% |  |
-| 29.5–30.5% | 1.2% | 16% |  |
-| 30.5–31.5% | 0.9% | 14% |  |
-| 31.5–32.5% | 5% | 14% |  |
-| 32.5–33.5% | 7% | 8% |  |
-| 33.5–34.5% | 2% | 2% |  |
+| 22.5–23.5% | 1.2% | 99.8% |  |
+| 23.5–24.5% | 5% | 98.6% |  |
+| 24.5–25.5% | 13% | 94% |  |
+| 25.5–26.5% | 24% | 81% |  |
+| 26.5–27.5% | 25% | 57% | Median |
+| 27.5–28.5% | 15% | 32% |  |
+| 28.5–29.5% | 6% | 16% |  |
+| 29.5–30.5% | 1.3% | 11% |  |
+| 30.5–31.5% | 0.7% | 9% |  |
+| 31.5–32.5% | 3% | 9% |  |
+| 32.5–33.5% | 4% | 5% |  |
+| 33.5–34.5% | 1.1% | 1.2% |  |
 | 34.5–35.5% | 0.1% | 0.1% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
@@ -189,15 +189,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–23 | 16–23 | 16–23 | 15–24 |
-| [10–15 September 2025](2025-09-15-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
-| [8–12 September 2025](2025-09-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 19 | 17–21 | 16–23 | 16–23 | 15–24 |
+| [10–15 September 2025](2025-09-15-DYM.html) | DYM <br> Henneo | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
+| [8–12 September 2025](2025-09-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 19 | 17–19 | 17–19 | 16–19 | 15–21 |
 | [10–11 September 2025](2025-09-11-TargetPoint.html) | Target Point <br> El Debate | 19 | 18–20 | 17–21 | 17–21 | 16–21 |
-| [5–11 September 2025](2025-09-11-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [5–11 September 2025](2025-09-11-GAD3.html) | GAD3 <br> ABC | 18 | 17–19 | 16–20 | 16–20 | 16–21 |
 | [3–9 September 2025](2025-09-09-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 19 | 16–20 | 16–20 | 15–20 | 15–21 |
 | [1–6 September 2025](2025-09-06-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 16–19 | 16–20 | 15–21 |
 | [1–6 September 2025](2025-09-06-CIS.html) | CIS | 23 | 22–23 | 22–24 | 22–24 | 22–24 |
-| [2–5 September 2025](2025-09-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> esRadio |  |  |  |  |  |
+| [2–5 September 2025](2025-09-05-DemoscopiayServicios.html) | Demoscopia y Servicios <br> esRadio | 18 | 17–19 | 17–19 | 17–19 | 16–19 |
 | [29 August–1 September 2025](2025-09-01-40dB.html) | 40dB <br> Prisa | 20 | 19–21 | 19–21 | 18–21 | 18–22 |
 | [26–29 August 2025](2025-08-29-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [20–28 August 2025](2025-08-28-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
@@ -338,16 +338,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.9% | 100% |  |
-| 16 | 8% | 99.0% |  |
-| 17 | 16% | 91% |  |
-| 18 | 17% | 75% |  |
-| 19 | 24% | 58% | Median |
-| 20 | 16% | 34% |  |
-| 21 | 4% | 18% |  |
-| 22 | 3% | 15% |  |
-| 23 | 11% | 12% |  |
-| 24 | 1.4% | 1.4% |  |
+| 15 | 0.7% | 100% |  |
+| 16 | 6% | 99.3% |  |
+| 17 | 17% | 93% |  |
+| 18 | 21% | 76% |  |
+| 19 | 29% | 55% | Median |
+| 20 | 13% | 25% |  |
+| 21 | 3% | 13% |  |
+| 22 | 2% | 9% |  |
+| 23 | 7% | 8% |  |
+| 24 | 0.9% | 0.9% |  |
 | 25 | 0% | 0% |  |
 
 
