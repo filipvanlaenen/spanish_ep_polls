@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.8% | 14.8–19.3% | 14.3–20.6% | 13.9–21.4% | 13.2–22.5% |
+| N/A | [Poll Average](average.html) | 16.7% | 14.8–19.2% | 14.3–20.6% | 13.9–21.4% | 13.2–22.5% |
 | [25–30 September 2025](2025-09-30-Opina360.html) | Opina 360 <br> Antena 3 | 20.6% | 19.2–22.2% | 18.8–22.6% | 18.4–23.0% | 17.7–23.8% |
+| [26–28 September 2025](2025-09-28-40dB.html) | 40dB <br> Prisa | 16.7% | 15.7–17.8% | 15.4–18.1% | 15.1–18.4% | 14.6–18.9% |
 | [15–19 September 2025](2025-09-19-Invymark.html) | Invymark <br> laSexta | 16.3% | 14.9–17.8% | 14.5–18.2% | 14.2–18.6% | 13.6–19.3% |
 | [10–15 September 2025](2025-09-15-DYM.html) | DYM <br> Henneo | 15.7% | 14.4–17.3% | 14.0–17.7% | 13.6–18.1% | 13.0–18.9% |
 | [8–12 September 2025](2025-09-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 15.2% | 13.9–16.7% | 13.5–17.1% | 13.2–17.4% | 12.6–18.2% |
@@ -160,10 +161,10 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 1.1% | 99.9% |  |
 | 13.5–14.5% | 6% | 98.8% |  |
 | 14.5–15.5% | 14% | 93% |  |
-| 15.5–16.5% | 22% | 79% |  |
-| 16.5–17.5% | 27% | 57% | Median |
-| 17.5–18.5% | 16% | 30% |  |
-| 18.5–19.5% | 6% | 15% |  |
+| 15.5–16.5% | 24% | 79% |  |
+| 16.5–17.5% | 27% | 54% | Median |
+| 17.5–18.5% | 14% | 28% |  |
+| 18.5–19.5% | 5% | 14% |  |
 | 19.5–20.5% | 4% | 9% |  |
 | 20.5–21.5% | 3% | 5% |  |
 | 21.5–22.5% | 2% | 2% |  |
@@ -180,8 +181,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–14 | 10–14 | 9–14 | 9–15 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 10–14 | 9–14 | 9–15 |
 | [25–30 September 2025](2025-09-30-Opina360.html) | Opina 360 <br> Antena 3 | 14 | 13–15 | 13–15 | 12–15 | 12–17 |
+| [26–28 September 2025](2025-09-28-40dB.html) | 40dB <br> Prisa | 12 | 11–13 | 11–13 | 11–13 | 10–13 |
 | [15–19 September 2025](2025-09-19-Invymark.html) | Invymark <br> laSexta | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [10–15 September 2025](2025-09-15-DYM.html) | DYM <br> Henneo | 11 | 10–12 | 10–12 | 9–13 | 9–13 |
 | [8–12 September 2025](2025-09-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
@@ -327,9 +329,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0.3% | 100% |  |
 | 9 | 4% | 99.7% |  |
 | 10 | 22% | 96% |  |
-| 11 | 25% | 74% | Median |
-| 12 | 29% | 49% |  |
-| 13 | 9% | 19% |  |
+| 11 | 27% | 74% | Median |
+| 12 | 29% | 47% |  |
+| 13 | 7% | 17% |  |
 | 14 | 9% | 10% |  |
 | 15 | 1.0% | 1.2% |  |
 | 16 | 0.1% | 0.2% |  |

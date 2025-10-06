@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.4% | 1.7–3.1% | 1.5–3.3% | 1.4–3.5% | 1.2–3.9% |
 | [25–30 September 2025](2025-09-30-Opina360.html) | Opina 360 <br> Antena 3 | 1.9% | 1.5–2.5% | 1.4–2.7% | 1.3–2.9% | 1.1–3.2% |
+| [26–28 September 2025](2025-09-28-40dB.html) | 40dB <br> Prisa | 2.6% | 2.1–3.1% | 2.0–3.2% | 1.9–3.3% | 1.8–3.6% |
 | [15–19 September 2025](2025-09-19-Invymark.html) | Invymark <br> laSexta | 1.8% | 1.4–2.5% | 1.3–2.6% | 1.2–2.8% | 1.0–3.1% |
 | [10–15 September 2025](2025-09-15-DYM.html) | DYM <br> Henneo | 2.2% | 1.7–2.9% | 1.5–3.1% | 1.4–3.3% | 1.2–3.6% |
 | [8–12 September 2025](2025-09-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.1% | 1.2–3.5% |
@@ -162,6 +163,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [25–30 September 2025](2025-09-30-Opina360.html) | Opina 360 <br> Antena 3 | 1 | 1 | 1 | 0–1 | 0–2 |
+| [26–28 September 2025](2025-09-28-40dB.html) | 40dB <br> Prisa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–19 September 2025](2025-09-19-Invymark.html) | Invymark <br> laSexta | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [10–15 September 2025](2025-09-15-DYM.html) | DYM <br> Henneo | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [8–12 September 2025](2025-09-12-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 1 | 1 | 1 | 0–2 |
@@ -297,8 +299,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% | Last Result |
-| 1 | 80% | 98% | Median |
-| 2 | 18% | 18% |  |
+| 1 | 79% | 98% | Median |
+| 2 | 19% | 19% |  |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
