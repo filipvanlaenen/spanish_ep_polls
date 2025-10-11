@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.6% | 14.9–19.0% | 14.4–20.4% | 14.0–21.3% | 13.2–22.5% |
+| N/A | [Poll Average](average.html) | 16.7% | 15.0–19.1% | 14.5–20.4% | 14.1–21.3% | 13.3–22.5% |
+| [1–4 October 2025](2025-10-04-NCReport.html) | NC Report <br> La Razón | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
 | [17 September–1 October 2025](2025-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 15.9% | 15.0–16.9% | 14.7–17.2% | 14.5–17.5% | 14.0–17.9% |
 | [25–30 September 2025](2025-09-30-Opina360.html) | Opina 360 <br> Antena 3 | 20.6% | 19.2–22.2% | 18.8–22.6% | 18.4–23.0% | 17.7–23.8% |
 | [26–28 September 2025](2025-09-28-40dB.html) | 40dB <br> Prisa | 16.7% | 15.7–17.8% | 15.4–18.1% | 15.1–18.4% | 14.6–18.9% |
@@ -159,12 +160,12 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 1.0% | 99.9% |  |
-| 13.5–14.5% | 6% | 98.9% |  |
-| 14.5–15.5% | 15% | 93% |  |
-| 15.5–16.5% | 26% | 78% |  |
-| 16.5–17.5% | 26% | 52% | Median |
-| 17.5–18.5% | 13% | 25% |  |
+| 12.5–13.5% | 0.8% | 99.9% |  |
+| 13.5–14.5% | 5% | 99.1% |  |
+| 14.5–15.5% | 15% | 94% |  |
+| 15.5–16.5% | 27% | 80% |  |
+| 16.5–17.5% | 27% | 53% | Median |
+| 17.5–18.5% | 13% | 26% |  |
 | 18.5–19.5% | 5% | 13% |  |
 | 19.5–20.5% | 3% | 8% |  |
 | 20.5–21.5% | 3% | 5% |  |
@@ -182,7 +183,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–13 | 10–14 | 9–14 | 9–15 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 9–14 | 9–14 | 9–15 |
+| [1–4 October 2025](2025-10-04-NCReport.html) | NC Report <br> La Razón | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
 | [17 September–1 October 2025](2025-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
 | [25–30 September 2025](2025-09-30-Opina360.html) | Opina 360 <br> Antena 3 | 14 | 13–15 | 13–15 | 12–15 | 12–17 |
 | [26–28 September 2025](2025-09-28-40dB.html) | 40dB <br> Prisa | 12 | 11–13 | 11–13 | 11–13 | 10–13 |
@@ -328,11 +330,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.3% | 100% |  |
-| 9 | 4% | 99.7% |  |
-| 10 | 22% | 96% |  |
-| 11 | 29% | 74% | Median |
-| 12 | 29% | 45% |  |
+| 8 | 0.2% | 100% |  |
+| 9 | 6% | 99.8% |  |
+| 10 | 18% | 94% |  |
+| 11 | 29% | 76% | Median |
+| 12 | 31% | 47% |  |
 | 13 | 7% | 16% |  |
 | 14 | 8% | 9% |  |
 | 15 | 0.9% | 1.1% |  |
