@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% | 0.7–2.5% |
+| N/A | [Poll Average](average.html) | 1.3% | 1.0–1.9% | 0.9–2.1% | 0.8–2.2% | 0.6–2.5% |
+| [3–9 October 2025](2025-10-09-GESOP.html) | GESOP <br> Prensa Ibérica | 0.0% | N/A | N/A | N/A | N/A |
 | [1–4 October 2025](2025-10-04-NCReport.html) | NC Report <br> La Razón | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [17 September–1 October 2025](2025-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.1% | 0.9–1.4% | 0.8–1.5% | 0.7–1.6% | 0.7–1.8% |
 | [25–30 September 2025](2025-09-30-Opina360.html) | Opina 360 <br> Antena 3 | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.8–2.7% |
@@ -148,9 +149,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 72% | 99.9% | Median |
-| 1.5–2.5% | 28% | 28% |  |
-| 2.5–3.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 69% | 99.9% | Median |
+| 1.5–2.5% | 30% | 30% |  |
+| 2.5–3.5% | 0.5% | 0.5% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -163,6 +164,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–9 October 2025](2025-10-09-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
 | [1–4 October 2025](2025-10-04-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17 September–1 October 2025](2025-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [25–30 September 2025](2025-09-30-Opina360.html) | Opina 360 <br> Antena 3 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -301,9 +303,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 64% | 100% | Last Result, Median |
-| 1 | 36% | 36% |  |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 59% | 100% | Last Result, Median |
+| 1 | 41% | 41% |  |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 
