@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.0–5.1% | 2.8–5.3% | 2.6–5.5% | 2.4–6.0% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.8–5.0% | 2.6–5.2% | 2.4–5.4% | 2.2–5.7% |
+| [31 October–4 November 2025](2025-11-04-Opina360.html) | Opina 360 <br> Telecinco | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.2–4.2% | 2.0–4.6% |
 | [24–26 October 2025](2025-10-26-40dB.html) | 40dB <br> Prisa | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [6–10 October 2025](2025-10-10-SocioMétrica.html) | SocioMétrica <br> El Español | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.8–5.4% | 2.5–5.9% |
 | [3–9 October 2025](2025-10-09-GESOP.html) | GESOP <br> Prensa Ibérica | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
@@ -153,13 +154,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 26% | 98% |  |
-| 3.5–4.5% | 45% | 72% | Median |
-| 4.5–5.5% | 25% | 28% |  |
-| 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 4% | 100% |  |
+| 2.5–3.5% | 42% | 96% |  |
+| 3.5–4.5% | 31% | 54% | Median |
+| 4.5–5.5% | 22% | 23% |  |
+| 5.5–6.5% | 1.1% | 1.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -170,7 +170,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| [31 October–4 November 2025](2025-11-04-Opina360.html) | Opina 360 <br> Telecinco | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [24–26 October 2025](2025-10-26-40dB.html) | 40dB <br> Prisa | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [6–10 October 2025](2025-10-10-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–3 | 1–3 | 1–4 | 1–4 |
 | [3–9 October 2025](2025-10-09-GESOP.html) | GESOP <br> Prensa Ibérica | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
@@ -314,10 +315,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 5% | 100% |  |
-| 2 | 49% | 95% | Median |
-| 3 | 44% | 47% |  |
-| 4 | 3% | 3% |  |
+| 1 | 17% | 100% |  |
+| 2 | 47% | 83% | Median |
+| 3 | 36% | 37% |  |
+| 4 | 1.1% | 1.1% |  |
 | 5 | 0% | 0% |  |
 
 
