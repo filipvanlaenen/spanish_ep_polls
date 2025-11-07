@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 05 Nov 2025 20:37:54 +0100</pubDate>
+    <pubDate>Fri, 07 Nov 2025 16:36:28 +0100</pubDate>
     <item>
       <title>Opinion Poll by Opina 360 for Telecinco, 31 October–4 November 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-11-04-Opina360.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-10-26-40dB-seats.png"
         length="235322"
         type="image/png"/>
-      <pubDate>Tue, 04 Nov 2025 22:44:20 +0100</pubDate>
-      <dc:date>2025-11-04T22:44:20.369741+01:00</dc:date>
+      <pubDate>Fri, 07 Nov 2025 16:36:28 +0100</pubDate>
+      <dc:date>2025-11-07T16:36:28.649932+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by 40dB for Prisa, 24–26 October 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-10-26-40dB-coalitions-seats.png"
         length="201628"
         type="image/png"/>
-      <pubDate>Tue, 04 Nov 2025 22:44:20 +0100</pubDate>
-      <dc:date>2025-11-04T22:44:20.369741+01:00</dc:date>
+      <pubDate>Fri, 07 Nov 2025 16:36:28 +0100</pubDate>
+      <dc:date>2025-11-07T16:36:28.649932+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by 40dB for Prisa, 24–26 October 2025 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-10-26-40dB.png"
         length="266210"
         type="image/png"/>
-      <pubDate>Tue, 04 Nov 2025 22:44:20 +0100</pubDate>
-      <dc:date>2025-11-04T22:44:20.369741+01:00</dc:date>
+      <pubDate>Fri, 07 Nov 2025 16:36:28 +0100</pubDate>
+      <dc:date>2025-11-07T16:36:28.649932+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 6–10 October 2025 – Seat Projections for the Parties</title>
@@ -3879,6 +3879,6 @@
       <pubDate>Thu, 26 Sep 2024 23:01:48 +0200</pubDate>
       <dc:date>2024-09-26T23:01:48.415794+02:00</dc:date>
     </item>
-    <dc:date>2025-11-05T20:37:54.637518+01:00</dc:date>
+    <dc:date>2025-11-07T16:36:28.649932+01:00</dc:date>
   </channel>
 </rss>
