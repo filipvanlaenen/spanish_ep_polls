@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.8% | 16.1–19.9% | 15.6–20.5% | 15.2–21.0% | 14.3–21.9% |
+| N/A | [Poll Average](average.html) | 17.7% | 15.8–19.8% | 15.4–20.4% | 14.9–20.9% | 14.2–21.8% |
+| [30 October–6 November 2025](2025-11-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 16.2% | 15.0–17.4% | 14.7–17.8% | 14.4–18.1% | 13.9–18.7% |
 | [31 October–4 November 2025](2025-11-04-Opina360.html) | Opina 360 <br> Telecinco | 19.5% | 18.1–21.0% | 17.7–21.4% | 17.3–21.8% | 16.7–22.6% |
+| [28 October–4 November 2025](2025-11-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 18.6% | 17.1–20.3% | 16.7–20.7% | 16.3–21.1% | 15.6–21.9% |
 | [24–26 October 2025](2025-10-26-40dB.html) | 40dB <br> Prisa | 17.1% | 16.0–18.2% | 15.8–18.5% | 15.5–18.8% | 15.0–19.4% |
 | [6–10 October 2025](2025-10-10-SocioMétrica.html) | SocioMétrica <br> El Español | 16.6% | 15.0–18.2% | 14.6–18.7% | 14.3–19.1% | 13.6–20.0% |
 | [3–9 October 2025](2025-10-09-GESOP.html) | GESOP <br> Prensa Ibérica | 18.4% | 16.9–20.1% | 16.5–20.5% | 16.1–20.9% | 15.4–21.7% |
@@ -166,15 +168,15 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 0.8% | 99.9% |  |
-| 14.5–15.5% | 4% | 99.1% |  |
-| 15.5–16.5% | 12% | 95% |  |
-| 16.5–17.5% | 26% | 84% |  |
-| 17.5–18.5% | 28% | 58% | Median |
+| 13.5–14.5% | 1.0% | 99.9% |  |
+| 14.5–15.5% | 6% | 98.9% |  |
+| 15.5–16.5% | 15% | 93% |  |
+| 16.5–17.5% | 25% | 79% |  |
+| 17.5–18.5% | 25% | 54% | Median |
 | 18.5–19.5% | 16% | 29% |  |
-| 19.5–20.5% | 9% | 14% |  |
-| 20.5–21.5% | 4% | 5% |  |
-| 21.5–22.5% | 0.8% | 0.9% |  |
+| 19.5–20.5% | 9% | 13% |  |
+| 20.5–21.5% | 3% | 4% |  |
+| 21.5–22.5% | 0.7% | 0.8% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
@@ -187,8 +189,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–14 | 10–14 | 10–14 | 10–15 |
+| N/A | [Poll Average](average.html) | 12 | 10–14 | 10–14 | 10–14 | 10–15 |
+| [30 October–6 November 2025](2025-11-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
 | [31 October–4 November 2025](2025-11-04-Opina360.html) | Opina 360 <br> Telecinco | 14 | 13–14 | 13–14 | 12–15 | 11–15 |
+| [28 October–4 November 2025](2025-11-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 13 | 11–13 | 11–13 | 10–14 | 10–14 |
 | [24–26 October 2025](2025-10-26-40dB.html) | 40dB <br> Prisa | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
 | [6–10 October 2025](2025-10-10-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–11 | 10–12 | 10–13 | 9–13 |
 | [3–9 October 2025](2025-10-09-GESOP.html) | GESOP <br> Prensa Ibérica | 13 | 12–14 | 11–14 | 11–14 | 10–15 |
@@ -340,14 +344,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.1% | 100% |  |
-| 10 | 14% | 99.9% |  |
-| 11 | 9% | 86% |  |
-| 12 | 24% | 76% |  |
-| 13 | 36% | 52% | Median |
-| 14 | 15% | 16% |  |
-| 15 | 1.1% | 1.2% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 9 | 0.2% | 100% |  |
+| 10 | 12% | 99.8% |  |
+| 11 | 18% | 87% |  |
+| 12 | 25% | 69% | Median |
+| 13 | 33% | 44% |  |
+| 14 | 11% | 12% |  |
+| 15 | 0.8% | 0.8% |  |
+| 16 | 0% | 0% |  |
 
 
