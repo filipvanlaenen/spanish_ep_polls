@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.7% | 15.8–19.8% | 15.4–20.4% | 14.9–20.9% | 14.2–21.8% |
+| N/A | [Poll Average](average.html) | 17.7% | 15.9–20.0% | 15.4–20.5% | 15.0–21.0% | 14.4–21.9% |
+| [6–8 November 2025](2025-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 16.9% | 15.5–18.4% | 15.1–18.9% | 14.8–19.3% | 14.2–20.0% |
 | [30 October–6 November 2025](2025-11-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 16.2% | 15.0–17.4% | 14.7–17.8% | 14.4–18.1% | 13.9–18.7% |
 | [31 October–4 November 2025](2025-11-04-Opina360.html) | Opina 360 <br> Telecinco | 19.5% | 18.1–21.0% | 17.7–21.4% | 17.3–21.8% | 16.7–22.6% |
 | [28 October–4 November 2025](2025-11-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 18.6% | 17.1–20.3% | 16.7–20.7% | 16.3–21.1% | 15.6–21.9% |
@@ -167,16 +168,16 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 1.0% | 99.9% |  |
-| 14.5–15.5% | 6% | 98.9% |  |
-| 15.5–16.5% | 15% | 93% |  |
-| 16.5–17.5% | 25% | 79% |  |
-| 17.5–18.5% | 25% | 54% | Median |
-| 18.5–19.5% | 16% | 29% |  |
-| 19.5–20.5% | 9% | 13% |  |
-| 20.5–21.5% | 3% | 4% |  |
-| 21.5–22.5% | 0.7% | 0.8% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.8% | 100% |  |
+| 14.5–15.5% | 5% | 99.2% |  |
+| 15.5–16.5% | 16% | 94% |  |
+| 16.5–17.5% | 23% | 77% |  |
+| 17.5–18.5% | 22% | 54% | Median |
+| 18.5–19.5% | 17% | 32% |  |
+| 19.5–20.5% | 10% | 15% |  |
+| 20.5–21.5% | 4% | 5% |  |
+| 21.5–22.5% | 0.9% | 1.0% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
@@ -189,7 +190,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 10–14 | 10–14 | 10–15 |
+| N/A | [Poll Average](average.html) | 12 | 11–14 | 11–14 | 10–14 | 10–15 |
+| [6–8 November 2025](2025-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–12 | 10–12 | 10–12 | 10–12 |
 | [30 October–6 November 2025](2025-11-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
 | [31 October–4 November 2025](2025-11-04-Opina360.html) | Opina 360 <br> Telecinco | 14 | 13–14 | 13–14 | 12–15 | 11–15 |
 | [28 October–4 November 2025](2025-11-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 13 | 11–13 | 11–13 | 10–14 | 10–14 |
@@ -344,13 +346,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.2% | 100% |  |
-| 10 | 12% | 99.8% |  |
-| 11 | 18% | 87% |  |
-| 12 | 25% | 69% | Median |
-| 13 | 33% | 44% |  |
-| 14 | 11% | 12% |  |
-| 15 | 0.8% | 0.8% |  |
+| 9 | 0.1% | 100% |  |
+| 10 | 4% | 99.9% |  |
+| 11 | 22% | 96% |  |
+| 12 | 36% | 75% | Median |
+| 13 | 25% | 38% |  |
+| 14 | 13% | 14% |  |
+| 15 | 0.9% | 1.0% |  |
 | 16 | 0% | 0% |  |
 
 
