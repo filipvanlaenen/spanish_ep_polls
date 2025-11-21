@@ -10,9 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.6% | 25.8–29.4% | 25.2–29.8% | 24.7–30.3% | 23.8–31.1% |
+| N/A | [Poll Average](average.html) | 27.8% | 25.8–32.2% | 25.2–32.9% | 24.7–33.3% | 23.8–34.0% |
+| [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 27.2% | 25.4–29.1% | 25.0–29.6% | 24.5–30.1% | 23.7–31.0% |
+| [3–12 November 2025](2025-11-12-CIS.html) | CIS | 32.6% | 31.7–33.6% | 31.4–33.8% | 31.2–34.1% | 30.7–34.5% |
 | [6–8 November 2025](2025-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 27.2% | 25.5–29.0% | 25.0–29.5% | 24.6–29.9% | 23.8–30.8% |
 | [30 October–6 November 2025](2025-11-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 27.4% | 26.0–28.9% | 25.6–29.3% | 25.2–29.7% | 24.6–30.4% |
+| [4–6 November 2025](2025-11-06-Cluster17.html) | Cluster17 <br> Agenda Pública | 28.4% | N/A | N/A | N/A | N/A |
 | [31 October–4 November 2025](2025-11-04-Opina360.html) | Opina 360 <br> Telecinco | 28.1% | 26.5–29.8% | 26.0–30.3% | 25.7–30.7% | 24.9–31.6% |
 | [28 October–4 November 2025](2025-11-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 26.5% | 24.8–28.3% | 24.3–28.9% | 23.9–29.3% | 23.0–30.2% |
 | [24–26 October 2025](2025-10-26-40dB.html) | 40dB <br> Prisa | 28.3% | 27.0–29.6% | 26.7–30.0% | 26.4–30.3% | 25.8–31.0% |
@@ -181,14 +184,17 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 0.3% | 100% |  |
 | 23.5–24.5% | 2% | 99.7% |  |
 | 24.5–25.5% | 6% | 98% |  |
-| 25.5–26.5% | 15% | 92% |  |
-| 26.5–27.5% | 25% | 77% |  |
-| 27.5–28.5% | 27% | 52% | Median |
-| 28.5–29.5% | 17% | 25% |  |
-| 29.5–30.5% | 6% | 8% |  |
-| 30.5–31.5% | 1.3% | 2% |  |
-| 31.5–32.5% | 0.2% | 0.2% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 25.5–26.5% | 14% | 93% |  |
+| 26.5–27.5% | 22% | 79% |  |
+| 27.5–28.5% | 23% | 56% | Median |
+| 28.5–29.5% | 14% | 34% |  |
+| 29.5–30.5% | 5% | 20% |  |
+| 30.5–31.5% | 2% | 15% |  |
+| 31.5–32.5% | 6% | 13% |  |
+| 32.5–33.5% | 6% | 8% |  |
+| 33.5–34.5% | 1.4% | 1.5% |  |
+| 34.5–35.5% | 0.1% | 0.1% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -199,9 +205,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–20 | 17–21 | 17–21 | 16–22 |
+| N/A | [Poll Average](average.html) | 18 | 17–23 | 17–23 | 17–23 | 16–24 |
+| [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 18 | 17–19 | 17–19 | 17–20 | 16–21 |
+| [3–12 November 2025](2025-11-12-CIS.html) | CIS | 23 | 23–24 | 22–24 | 22–24 | 22–25 |
 | [6–8 November 2025](2025-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–18 | 17–19 | 17–20 | 16–20 |
 | [30 October–6 November 2025](2025-11-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 17–20 | 17–20 | 17–20 | 17–21 |
+| [4–6 November 2025](2025-11-06-Cluster17.html) | Cluster17 <br> Agenda Pública |  |  |  |  |  |
 | [31 October–4 November 2025](2025-11-04-Opina360.html) | Opina 360 <br> Telecinco | 19 | 18–20 | 18–21 | 18–22 | 17–22 |
 | [28 October–4 November 2025](2025-11-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 18 | 17–19 | 16–20 | 16–20 | 15–20 |
 | [24–26 October 2025](2025-10-26-40dB.html) | 40dB <br> Prisa | 20 | 19–21 | 19–22 | 19–22 | 18–22 |
@@ -363,13 +372,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0.2% | 100% |  |
 | 16 | 1.3% | 99.8% |  |
-| 17 | 17% | 98.6% |  |
-| 18 | 32% | 81% | Median |
-| 19 | 24% | 49% |  |
-| 20 | 15% | 25% |  |
-| 21 | 8% | 10% |  |
-| 22 | 2% | 2% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 17 | 20% | 98% |  |
+| 18 | 31% | 79% | Median |
+| 19 | 15% | 48% |  |
+| 20 | 11% | 32% |  |
+| 21 | 5% | 21% |  |
+| 22 | 3% | 16% |  |
+| 23 | 11% | 13% |  |
+| 24 | 2% | 2% |  |
+| 25 | 0.2% | 0.2% |  |
+| 26 | 0% | 0% |  |
 
 

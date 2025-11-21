@@ -10,9 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.5–5.3% | 3.3–5.6% | 3.1–5.9% | 2.8–6.5% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.4–5.0% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
+| [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [3–12 November 2025](2025-11-12-CIS.html) | CIS | 4.4% | 4.0–4.8% | 3.9–5.0% | 3.8–5.1% | 3.6–5.3% |
 | [6–8 November 2025](2025-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.1–5.4% | 2.8–5.9% |
 | [30 October–6 November 2025](2025-11-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.6% | 4.0–5.4% | 3.8–5.6% | 3.7–5.8% | 3.4–6.2% |
+| [4–6 November 2025](2025-11-06-Cluster17.html) | Cluster17 <br> Agenda Pública | 3.4% | N/A | N/A | N/A | N/A |
 | [31 October–4 November 2025](2025-11-04-Opina360.html) | Opina 360 <br> Telecinco | 4.2% | 3.6–5.1% | 3.4–5.3% | 3.2–5.5% | 2.9–6.0% |
 | [28 October–4 November 2025](2025-11-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [24–26 October 2025](2025-10-26-40dB.html) | 40dB <br> Prisa | 4.2% | 3.7–4.8% | 3.5–5.0% | 3.4–5.2% | 3.2–5.5% |
@@ -157,13 +160,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 10% | 99.9% |  |
-| 3.5–4.5% | 51% | 90% | Median |
-| 4.5–5.5% | 33% | 39% |  |
-| 5.5–6.5% | 6% | 6% |  |
-| 6.5–7.5% | 0.4% | 0.4% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.5% | 100% |  |
+| 2.5–3.5% | 15% | 99.5% |  |
+| 3.5–4.5% | 57% | 84% | Median |
+| 4.5–5.5% | 26% | 27% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -174,9 +176,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 1–3 | 1–4 |
+| [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [3–12 November 2025](2025-11-12-CIS.html) | CIS | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [6–8 November 2025](2025-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [30 October–6 November 2025](2025-11-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| [4–6 November 2025](2025-11-06-Cluster17.html) | Cluster17 <br> Agenda Pública |  |  |  |  |  |
 | [31 October–4 November 2025](2025-11-04-Opina360.html) | Opina 360 <br> Telecinco | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [28 October–4 November 2025](2025-11-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [24–26 October 2025](2025-10-26-40dB.html) | 40dB <br> Prisa | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -322,11 +327,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.2% | 100% |  |
-| 2 | 42% | 99.8% |  |
-| 3 | 53% | 58% | Median |
-| 4 | 5% | 5% |  |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 1 | 4% | 100% |  |
+| 2 | 45% | 96% |  |
+| 3 | 51% | 52% | Median |
+| 4 | 0.7% | 0.7% |  |
+| 5 | 0% | 0% |  |
 
 

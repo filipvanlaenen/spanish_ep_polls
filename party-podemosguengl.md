@@ -10,9 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.8–4.6% | 2.6–4.9% | 2.5–5.1% | 2.2–5.6% |
+| N/A | [Poll Average](average.html) | 3.8% | 2.9–4.7% | 2.7–4.9% | 2.5–5.2% | 2.2–5.7% |
+| [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| [3–12 November 2025](2025-11-12-CIS.html) | CIS | 4.0% | 3.6–4.4% | 3.5–4.5% | 3.4–4.6% | 3.3–4.9% |
 | [6–8 November 2025](2025-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.6–4.8% | 2.3–5.2% |
 | [30 October–6 November 2025](2025-11-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.2% | 3.6–4.9% | 3.4–5.1% | 3.3–5.3% | 3.0–5.7% |
+| [4–6 November 2025](2025-11-06-Cluster17.html) | Cluster17 <br> Agenda Pública | 4.5% | N/A | N/A | N/A | N/A |
 | [31 October–4 November 2025](2025-11-04-Opina360.html) | Opina 360 <br> Telecinco | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.2–4.2% | 2.0–4.6% |
 | [28 October–4 November 2025](2025-11-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [24–26 October 2025](2025-10-26-40dB.html) | 40dB <br> Prisa | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
@@ -157,11 +160,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 42% | 96% |  |
-| 3.5–4.5% | 42% | 54% | Median |
-| 4.5–5.5% | 11% | 12% |  |
-| 5.5–6.5% | 0.6% | 0.6% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 34% | 97% |  |
+| 3.5–4.5% | 50% | 63% | Median |
+| 4.5–5.5% | 12% | 13% |  |
+| 5.5–6.5% | 0.8% | 0.8% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -174,8 +177,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [3–12 November 2025](2025-11-12-CIS.html) | CIS | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–8 November 2025](2025-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 2 | 2–3 | 1–3 |
 | [30 October–6 November 2025](2025-11-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [4–6 November 2025](2025-11-06-Cluster17.html) | Cluster17 <br> Agenda Pública |  |  |  |  |  |
 | [31 October–4 November 2025](2025-11-04-Opina360.html) | Opina 360 <br> Telecinco | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [28 October–4 November 2025](2025-11-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 2 | 2–3 | 2–4 | 1–4 | 1–4 |
 | [24–26 October 2025](2025-10-26-40dB.html) | 40dB <br> Prisa | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -321,10 +327,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 14% | 100% |  |
-| 2 | 62% | 86% | Median |
-| 3 | 23% | 24% |  |
-| 4 | 1.4% | 1.4% |  |
+| 1 | 12% | 100% |  |
+| 2 | 67% | 88% | Median |
+| 3 | 20% | 21% |  |
+| 4 | 1.5% | 1.5% |  |
 | 5 | 0% | 0% |  |
 
 

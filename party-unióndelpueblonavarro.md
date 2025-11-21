@@ -10,9 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.6% | 0.0–0.8% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.8% |
+| [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [3–12 November 2025](2025-11-12-CIS.html) | CIS | 0.1% | 0.0–0.2% | 0.0–0.2% | 0.0–0.3% | 0.0–0.3% |
 | [6–8 November 2025](2025-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
 | [30 October–6 November 2025](2025-11-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
+| [4–6 November 2025](2025-11-06-Cluster17.html) | Cluster17 <br> Agenda Pública | 0.0% | N/A | N/A | N/A | N/A |
 | [31 October–4 November 2025](2025-11-04-Opina360.html) | Opina 360 <br> Telecinco | 0.0% | N/A | N/A | N/A | N/A |
 | [28 October–4 November 2025](2025-11-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [24–26 October 2025](2025-10-26-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
@@ -169,8 +172,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0 | 0 | 0 |
+| [3–12 November 2025](2025-11-12-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [6–8 November 2025](2025-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
 | [30 October–6 November 2025](2025-11-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0 | 0 | 0 |
+| [4–6 November 2025](2025-11-06-Cluster17.html) | Cluster17 <br> Agenda Pública |  |  |  |  |  |
 | [31 October–4 November 2025](2025-11-04-Opina360.html) | Opina 360 <br> Telecinco |  |  |  |  |  |
 | [28 October–4 November 2025](2025-11-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0 | 0 | 0 | 0 | 0 |
 | [24–26 October 2025](2025-10-26-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
