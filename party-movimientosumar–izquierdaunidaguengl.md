@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.6% | 1.9–3.2% | 1.8–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
+| [12–14 November 2025](2025-11-14-DYM.html) | DYM <br> Henneo | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [3–12 November 2025](2025-11-12-CIS.html) | CIS | 2.7% | 2.4–3.1% | 2.3–3.2% | 2.2–3.3% | 2.1–3.4% |
 | [6–8 November 2025](2025-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 2.5% | 2.0–3.3% | 1.9–3.5% | 1.8–3.7% | 1.5–4.0% |
 | [30 October–6 November 2025](2025-11-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.9% | 2.4–3.5% | 2.3–3.7% | 2.2–3.9% | 2.0–4.2% |
@@ -160,8 +161,8 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 47% | 98% |  |
-| 2.5–3.5% | 49% | 52% | Median |
+| 1.5–2.5% | 48% | 98% |  |
+| 2.5–3.5% | 48% | 51% | Median |
 | 3.5–4.5% | 3% | 3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -175,7 +176,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 1 | 1 | 1 | 1 | 1–2 |
+| [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [12–14 November 2025](2025-11-14-DYM.html) | DYM <br> Henneo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–12 November 2025](2025-11-12-CIS.html) | CIS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–8 November 2025](2025-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 October–6 November 2025](2025-11-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -325,8 +327,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.2% | 100% | Last Result |
-| 1 | 65% | 99.8% | Median |
-| 2 | 35% | 35% |  |
+| 1 | 64% | 99.8% | Median |
+| 2 | 36% | 36% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
