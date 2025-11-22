@@ -212,7 +212,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [3–12 November 2025](2025-11-12-CIS.html) | CIS | 23 | 23–24 | 22–24 | 22–25 | 22–25 |
 | [6–8 November 2025](2025-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–18 | 17–19 | 17–20 | 16–20 |
 | [30 October–6 November 2025](2025-11-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 17–20 | 17–20 | 17–20 | 17–21 |
-| [4–6 November 2025](2025-11-06-Cluster17.html) | Cluster17 <br> Agenda Pública | 19 | 19–20 | 18–21 | 18–21 | 18–21 |
+| [4–6 November 2025](2025-11-06-Cluster17.html) | Cluster17 <br> Agenda Pública | 20 | 19–21 | 18–21 | 18–21 | 18–21 |
 | [31 October–4 November 2025](2025-11-04-Opina360.html) | Opina 360 <br> Telecinco | 19 | 18–20 | 18–21 | 18–22 | 17–22 |
 | [28 October–4 November 2025](2025-11-04-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 18 | 17–19 | 16–20 | 16–20 | 15–20 |
 | [24–26 October 2025](2025-10-26-40dB.html) | 40dB <br> Prisa | 20 | 19–21 | 19–22 | 19–22 | 18–22 |
@@ -376,9 +376,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 1.0% | 99.9% |  |
 | 17 | 14% | 98.9% |  |
 | 18 | 29% | 85% |  |
-| 19 | 21% | 56% | Median |
-| 20 | 16% | 35% |  |
-| 21 | 6% | 19% |  |
+| 19 | 19% | 56% | Median |
+| 20 | 17% | 37% |  |
+| 21 | 7% | 20% |  |
 | 22 | 2% | 12% |  |
 | 23 | 9% | 11% |  |
 | 24 | 1.5% | 2% |  |
