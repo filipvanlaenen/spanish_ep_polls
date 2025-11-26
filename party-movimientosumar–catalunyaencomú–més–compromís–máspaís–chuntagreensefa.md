@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.2–4.9% | 3.0–5.1% | 2.8–5.4% | 2.5–5.8% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.2–4.9% | 3.0–5.1% | 2.8–5.3% | 2.5–5.8% |
+| [17–19 November 2025](2025-11-19-TargetPoint.html) | Target Point <br> El Debate | 3.8% | 3.1–4.6% | 3.0–4.8% | 2.8–5.0% | 2.5–5.4% |
 | [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [12–14 November 2025](2025-11-14-DYM.html) | DYM <br> Henneo | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [3–12 November 2025](2025-11-12-CIS.html) | CIS | 4.4% | 4.0–4.8% | 3.9–5.0% | 3.8–5.1% | 3.6–5.3% |
@@ -162,10 +163,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.6% | 100% |  |
-| 2.5–3.5% | 22% | 99.4% |  |
-| 3.5–4.5% | 54% | 78% | Median |
-| 4.5–5.5% | 22% | 23% |  |
-| 5.5–6.5% | 1.3% | 1.4% |  |
+| 2.5–3.5% | 23% | 99.4% |  |
+| 3.5–4.5% | 55% | 77% | Median |
+| 4.5–5.5% | 21% | 22% |  |
+| 5.5–6.5% | 1.2% | 1.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -178,6 +179,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
+| [17–19 November 2025](2025-11-19-TargetPoint.html) | Target Point <br> El Debate | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [12–14 November 2025](2025-11-14-DYM.html) | DYM <br> Henneo | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [3–12 November 2025](2025-11-12-CIS.html) | CIS | 3 | 3 | 2–3 | 2–4 | 2–4 |
@@ -330,9 +332,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 3% | 100% |  |
-| 2 | 53% | 97% | Median |
-| 3 | 43% | 44% |  |
-| 4 | 1.0% | 1.1% |  |
+| 2 | 54% | 97% | Median |
+| 3 | 42% | 43% |  |
+| 4 | 1.0% | 1.0% |  |
 | 5 | 0% | 0% |  |
 
 

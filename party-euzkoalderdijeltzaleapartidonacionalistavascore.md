@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.0% |
+| [17–19 November 2025](2025-11-19-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
 | [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [12–14 November 2025](2025-11-14-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [3–12 November 2025](2025-11-12-CIS.html) | CIS | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.5–1.0% | 0.4–1.1% |
@@ -174,6 +175,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [17–19 November 2025](2025-11-19-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–14 November 2025](2025-11-14-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [3–12 November 2025](2025-11-12-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
