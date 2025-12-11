@@ -382,7 +382,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#vox-(pfe)">Vox (PfE)</a> | 0 | 12 | 11–14 |10–14 | 10–14 | 10–15 |
 | <a href="#junts-per-catalunya-(ni)">Junts per Catalunya (NI)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#españa-vaciada-(ni)">España Vaciada (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#se-acabó-la-fiesta-(ni)">Se Acabó La Fiesta (NI)</a> | 0 | 1 | 0–1 |0–2 | 0–2 | 0–2 |
+| <a href="#se-acabó-la-fiesta-(ni)">Se Acabó La Fiesta (NI)</a> | 0 | 1 | 0–1 |0–1 | 0–2 | 0–2 |
 | <a href="#unión-del-pueblo-navarro-(*)">Unión del Pueblo Navarro (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 
 ### Unidos Podemos (GUE/NGL)
@@ -621,7 +621,7 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 4% | 86% |  |
 | 21 | 10% | 82% |  |
 | 22 | 19% | 72% |  |
-| 23 | 20% | 53% | Median |
+| 23 | 21% | 54% | Median |
 | 24 | 27% | 33% |  |
 | 25 | 5% | 6% |  |
 | 26 | 1.0% | 1.2% |  |
@@ -744,7 +744,7 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 4% | 86% |  |
 | 21 | 10% | 82% |  |
 | 22 | 19% | 72% |  |
-| 23 | 20% | 53% | Median |
+| 23 | 21% | 54% | Median |
 | 24 | 27% | 33% |  |
 | 25 | 5% | 6% |  |
 | 26 | 1.0% | 1.2% |  |
@@ -819,7 +819,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 2% | 100% |  |
-| 3 | 43% | 98% | Median |
+| 3 | 44% | 98% | Median |
 | 4 | 44% | 55% |  |
 | 5 | 8% | 11% |  |
 | 6 | 2% | 2% |  |
@@ -874,6 +874,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 8
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 12,058,624
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 12,582,912
 + **Error estimate:** 2.13%
