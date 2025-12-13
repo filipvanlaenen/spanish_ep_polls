@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.8% |
 | [5–7 December 2025](2025-12-07-SocioMétrica.html) | SocioMétrica <br> El Español | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
 | [26 November–5 December 2025](2025-12-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% |
+| [1–5 December 2025](2025-12-05-CIS.html) | CIS | 0.1% | 0.0–0.2% | 0.0–0.2% | 0.0–0.3% | 0.0–0.3% |
 | [1 December 2025](2025-12-01-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [27 November–1 December 2025](2025-12-01-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [17–19 November 2025](2025-11-19-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
@@ -180,6 +181,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [5–7 December 2025](2025-12-07-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
 | [26 November–5 December 2025](2025-12-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0 | 0 | 0 |
+| [1–5 December 2025](2025-12-05-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [1 December 2025](2025-12-01-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [27 November–1 December 2025](2025-12-01-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [17–19 November 2025](2025-11-19-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |

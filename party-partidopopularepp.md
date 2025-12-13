@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.3% | 23.0–34.8% | 22.2–35.4% | 21.8–35.9% | 21.3–37.0% |
+| N/A | [Poll Average](average.html) | 32.3% | 23.0–34.8% | 22.2–35.4% | 21.9–35.9% | 21.3–37.0% |
 | [5–7 December 2025](2025-12-07-SocioMétrica.html) | SocioMétrica <br> El Español | 33.4% | 31.6–35.2% | 31.1–35.8% | 30.6–36.2% | 29.8–37.1% |
 | [26 November–5 December 2025](2025-12-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 33.1% | 31.6–34.7% | 31.2–35.1% | 30.8–35.5% | 30.1–36.2% |
+| [1–5 December 2025](2025-12-05-CIS.html) | CIS | 22.4% | 21.6–23.3% | 21.3–23.5% | 21.1–23.7% | 20.7–24.1% |
 | [1 December 2025](2025-12-01-Invymark.html) | Invymark <br> laSexta | 33.2% | 31.4–35.0% | 30.9–35.6% | 30.5–36.0% | 29.6–36.9% |
 | [27 November–1 December 2025](2025-12-01-40dB.html) | 40dB <br> Prisa | 31.0% | 29.8–32.2% | 29.5–32.6% | 29.2–32.8% | 28.7–33.4% |
 | [17–19 November 2025](2025-11-19-TargetPoint.html) | Target Point <br> El Debate | 29.2% | 27.5–30.9% | 27.1–31.4% | 26.7–31.8% | 25.9–32.6% |
@@ -185,7 +186,7 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 1.2% | 100% |  |
+| 20.5–21.5% | 1.1% | 100% |  |
 | 21.5–22.5% | 6% | 98.8% |  |
 | 22.5–23.5% | 5% | 93% |  |
 | 23.5–24.5% | 0.5% | 88% |  |
@@ -215,8 +216,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 16–24 | 16–25 | 16–25 | 15–26 |
-| [5–7 December 2025](2025-12-07-SocioMétrica.html) | SocioMétrica <br> El Español | 24 | 21–24 | 21–24 | 21–24 | 21–25 |
-| [26 November–5 December 2025](2025-12-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 22 | 21–23 | 21–24 | 21–24 | 20–25 |
+| [5–7 December 2025](2025-12-07-SocioMétrica.html) | SocioMétrica <br> El Español | 24 | 21–24 | 21–24 | 21–24 | 20–25 |
+| [26 November–5 December 2025](2025-12-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 22 | 21–23 | 21–24 | 21–24 | 20–24 |
+| [1–5 December 2025](2025-12-05-CIS.html) | CIS | 16 | 16 | 15–17 | 15–17 | 15–17 |
 | [1 December 2025](2025-12-01-Invymark.html) | Invymark <br> laSexta | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
 | [27 November–1 December 2025](2025-12-01-40dB.html) | 40dB <br> Prisa | 22 | 21–23 | 21–23 | 21–24 | 21–24 |
 | [17–19 November 2025](2025-11-19-TargetPoint.html) | Target Point <br> El Debate | 21 | 20–22 | 19–23 | 19–23 | 18–23 |
@@ -385,18 +387,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.6% | 100% |  |
-| 16 | 9% | 99.4% |  |
-| 17 | 2% | 90% |  |
-| 18 | 0.1% | 88% |  |
+| 15 | 0.9% | 100% |  |
+| 16 | 10% | 99.1% |  |
+| 17 | 1.2% | 89% |  |
+| 18 | 0.1% | 87% |  |
 | 19 | 1.1% | 87% |  |
 | 20 | 4% | 86% |  |
-| 21 | 10% | 82% |  |
-| 22 | 19% | 72% |  |
-| 23 | 21% | 54% | Median |
-| 24 | 27% | 33% |  |
+| 21 | 11% | 82% |  |
+| 22 | 21% | 72% |  |
+| 23 | 18% | 51% | Median |
+| 24 | 26% | 32% |  |
 | 25 | 5% | 6% |  |
-| 26 | 1.0% | 1.2% |  |
+| 26 | 1.1% | 1.2% |  |
 | 27 | 0.1% | 0.1% |  |
 | 28 | 0% | 0% |  |
 
