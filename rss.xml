@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 13 Dec 2025 16:32:55 +0100</pubDate>
+    <pubDate>Sat, 13 Dec 2025 20:54:45 +0100</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 5–7 December 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-07-SocioMétrica.html#seats</link>
@@ -106,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-01-Invymark-seats.png"
         length="242450"
         type="image/png"/>
-      <pubDate>Thu, 11 Dec 2025 18:09:13 +0100</pubDate>
-      <dc:date>2025-12-11T18:09:13.414157+01:00</dc:date>
+      <pubDate>Sat, 13 Dec 2025 20:48:40 +0100</pubDate>
+      <dc:date>2025-12-13T20:48:40.611167+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 1 December 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -116,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-01-Invymark-coalitions-seats.png"
         length="209511"
         type="image/png"/>
-      <pubDate>Thu, 11 Dec 2025 18:09:13 +0100</pubDate>
-      <dc:date>2025-12-11T18:09:13.414157+01:00</dc:date>
+      <pubDate>Sat, 13 Dec 2025 20:48:40 +0100</pubDate>
+      <dc:date>2025-12-13T20:48:40.611167+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 1 December 2025 – Voting Intentions</title>
@@ -126,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-01-Invymark.png"
         length="273232"
         type="image/png"/>
-      <pubDate>Thu, 11 Dec 2025 18:09:13 +0100</pubDate>
-      <dc:date>2025-12-11T18:09:13.414157+01:00</dc:date>
+      <pubDate>Sat, 13 Dec 2025 20:48:40 +0100</pubDate>
+      <dc:date>2025-12-13T20:48:40.611167+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by 40dB for Prisa, 27 November–1 December 2025 – Seat Projections for the Parties</title>
@@ -136,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-01-40dB-seats.png"
         length="216981"
         type="image/png"/>
-      <pubDate>Thu, 11 Dec 2025 18:18:36 +0100</pubDate>
-      <dc:date>2025-12-11T18:18:36.579346+01:00</dc:date>
+      <pubDate>Sat, 13 Dec 2025 20:54:45 +0100</pubDate>
+      <dc:date>2025-12-13T20:54:45.018599+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by 40dB for Prisa, 27 November–1 December 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -146,8 +146,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-01-40dB-coalitions-seats.png"
         length="185752"
         type="image/png"/>
-      <pubDate>Thu, 11 Dec 2025 18:18:36 +0100</pubDate>
-      <dc:date>2025-12-11T18:18:36.579346+01:00</dc:date>
+      <pubDate>Sat, 13 Dec 2025 20:54:45 +0100</pubDate>
+      <dc:date>2025-12-13T20:54:45.018599+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by 40dB for Prisa, 27 November–1 December 2025 – Voting Intentions</title>
@@ -156,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-01-40dB.png"
         length="262876"
         type="image/png"/>
-      <pubDate>Thu, 11 Dec 2025 18:18:36 +0100</pubDate>
-      <dc:date>2025-12-11T18:18:36.579346+01:00</dc:date>
+      <pubDate>Sat, 13 Dec 2025 20:54:45 +0100</pubDate>
+      <dc:date>2025-12-13T20:54:45.018599+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Target Point for El Debate, 17–19 November 2025 – Seat Projections for the Parties</title>
@@ -4269,6 +4269,6 @@
       <pubDate>Thu, 26 Sep 2024 23:01:48 +0200</pubDate>
       <dc:date>2024-09-26T23:01:48.415794+02:00</dc:date>
     </item>
-    <dc:date>2025-12-13T16:32:55.332506+01:00</dc:date>
+    <dc:date>2025-12-13T20:54:45.018599+01:00</dc:date>
   </channel>
 </rss>
