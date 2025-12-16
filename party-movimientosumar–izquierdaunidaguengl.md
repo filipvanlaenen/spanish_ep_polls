@@ -17,6 +17,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1 December 2025](2025-12-01-Invymark.html) | Invymark <br> laSexta | 1.9% | 1.5–2.6% | 1.4–2.7% | 1.2–2.9% | 1.1–3.2% |
 | [27 November–1 December 2025](2025-12-01-40dB.html) | 40dB <br> Prisa | 2.2% | 1.8–2.6% | 1.7–2.7% | 1.6–2.8% | 1.5–3.0% |
 | [17–19 November 2025](2025-11-19-TargetPoint.html) | Target Point <br> El Debate | 2.3% | 1.9–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.7% |
+| [17 November 2025](2025-11-17-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [12–14 November 2025](2025-11-14-DYM.html) | DYM <br> Henneo | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [3–12 November 2025](2025-11-12-CIS.html) | CIS | 2.7% | 2.4–3.1% | 2.3–3.2% | 2.2–3.3% | 2.1–3.4% |
@@ -189,6 +190,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1 December 2025](2025-12-01-Invymark.html) | Invymark <br> laSexta | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [27 November–1 December 2025](2025-12-01-40dB.html) | 40dB <br> Prisa | 1 | 1 | 1 | 1–2 | 1–2 |
 | [17–19 November 2025](2025-11-19-TargetPoint.html) | Target Point <br> El Debate | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [17 November 2025](2025-11-17-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–14 November 2025](2025-11-14-DYM.html) | DYM <br> Henneo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–12 November 2025](2025-11-12-CIS.html) | CIS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
