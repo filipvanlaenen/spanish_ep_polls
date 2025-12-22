@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.0–5.2% | 2.8–5.4% | 2.6–5.7% | 2.3–6.1% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.1–5.3% | 2.9–5.5% | 2.7–5.8% | 2.3–6.2% |
+| [15 December 2025](2025-12-15-Invymark.html) | Invymark <br> laSexta | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.4% | 2.0–4.8% |
 | [5–7 December 2025](2025-12-07-SocioMétrica.html) | SocioMétrica <br> El Español | 4.6% | 3.9–5.6% | 3.7–5.8% | 3.5–6.1% | 3.2–6.5% |
 | [26 November–5 December 2025](2025-12-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.9% | 4.3–5.7% | 4.1–5.9% | 3.9–6.1% | 3.7–6.5% |
 | [1–5 December 2025](2025-12-05-CIS.html) | CIS | 4.8% | 4.4–5.3% | 4.3–5.4% | 4.2–5.5% | 4.0–5.8% |
@@ -168,11 +169,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 28% | 98% |  |
-| 3.5–4.5% | 39% | 70% | Median |
-| 4.5–5.5% | 28% | 31% |  |
-| 5.5–6.5% | 4% | 4% |  |
+| 1.5–2.5% | 1.4% | 100% |  |
+| 2.5–3.5% | 25% | 98.6% |  |
+| 3.5–4.5% | 36% | 74% | Median |
+| 4.5–5.5% | 33% | 38% |  |
+| 5.5–6.5% | 4% | 5% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -186,6 +187,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–4 | 1–4 | 1–4 |
+| [15 December 2025](2025-12-15-Invymark.html) | Invymark <br> laSexta | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [5–7 December 2025](2025-12-07-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [26 November–5 December 2025](2025-12-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [1–5 December 2025](2025-12-05-CIS.html) | CIS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -344,10 +346,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 5% | 100% |  |
-| 2 | 55% | 95% | Median |
-| 3 | 35% | 40% |  |
-| 4 | 5% | 5% |  |
+| 1 | 6% | 100% |  |
+| 2 | 48% | 94% | Median |
+| 3 | 38% | 45% |  |
+| 4 | 7% | 7% |  |
 | 5 | 0% | 0% |  |
 
 
