@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 22 Dec 2025 22:46:59 +0100</pubDate>
+    <pubDate>Sat, 10 Jan 2026 00:00:35 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 22–29 December 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 10–13 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17–20 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 21–24 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos-seats.png"
+        length="385893"
+        type="image/png"/>
+      <pubDate>Sat, 10 Jan 2026 00:00:35 +0100</pubDate>
+      <dc:date>2026-01-10T00:00:35.962562+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 22–29 December 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos-coalitions-seats.png"
+        length="209171"
+        type="image/png"/>
+      <pubDate>Sat, 10 Jan 2026 00:00:35 +0100</pubDate>
+      <dc:date>2026-01-10T00:00:35.962562+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 22–29 December 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2.6–4.1%&lt;/li&gt;&lt;li&gt;Vox (PfE): 15.7–18.8%&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0.7–1.5%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.7–1.5%&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 0.8–1.8%&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0.5–1.2%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 24.7–28.4%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.7–1.5%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 3.6–5.3%&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0.0–0.3%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1.4–2.5%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 30.8–34.7%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 4.4–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos.png"
+        length="449709"
+        type="image/png"/>
+      <pubDate>Sat, 10 Jan 2026 00:00:35 +0100</pubDate>
+      <dc:date>2026-01-10T00:00:35.962562+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 15 December 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-15-Invymark.html#seats</link>
@@ -4329,6 +4359,6 @@
       <pubDate>Thu, 26 Sep 2024 23:01:48 +0200</pubDate>
       <dc:date>2024-09-26T23:01:48.415794+02:00</dc:date>
     </item>
-    <dc:date>2025-12-22T22:46:59.834906+01:00</dc:date>
+    <dc:date>2026-01-10T00:00:35.962562+01:00</dc:date>
   </channel>
 </rss>
