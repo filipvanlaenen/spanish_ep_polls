@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.4% | 0.3–0.7% | 0.2–0.8% | 0.2–0.9% | 0.1–1.1% |
+| [13–15 January 2026](2026-01-15-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
 | [5–10 January 2026](2026-01-10-CIS.html) | CIS | 0.3% | 0.2–0.5% | 0.2–0.5% | 0.2–0.5% | 0.1–0.6% |
 | [5–9 January 2026](2026-01-09-NCReport.html) | NC Report <br> La Razón | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
 | [29 December 2025–5 January 2026](2026-01-05-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
@@ -185,6 +186,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [13–15 January 2026](2026-01-15-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [5–10 January 2026](2026-01-10-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [5–9 January 2026](2026-01-09-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0 | 0 | 0 |
 | [29 December 2025–5 January 2026](2026-01-05-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
