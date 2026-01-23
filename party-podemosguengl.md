@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 3.0–4.8% | 2.8–5.1% | 2.6–5.3% | 2.3–5.9% |
+| N/A | [Poll Average](average.html) | 3.9% | 3.1–4.9% | 2.9–5.1% | 2.7–5.4% | 2.3–5.9% |
 | [13–15 January 2026](2026-01-15-TargetPoint.html) | Target Point <br> El Debate | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [12–15 January 2026](2026-01-15-GESOP.html) | GESOP <br> Prensa Ibérica | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
+| [7–10 January 2026](2026-01-10-SocioMétrica.html) | SocioMétrica <br> El Español | 3.8% | 3.2–4.5% | 3.0–4.8% | 2.9–5.0% | 2.6–5.3% |
 | [5–10 January 2026](2026-01-10-CIS.html) | CIS | 3.5% | 3.1–3.9% | 3.0–4.0% | 3.0–4.1% | 2.8–4.3% |
 | [5–9 January 2026](2026-01-09-NCReport.html) | NC Report <br> La Razón | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
 | [29 December 2025–5 January 2026](2026-01-05-40dB.html) | 40dB <br> Prisa | 3.5% | 3.0–4.1% | 2.9–4.3% | 2.8–4.4% | 2.6–4.7% |
@@ -174,12 +176,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 35% | 98% |  |
-| 3.5–4.5% | 46% | 63% | Median |
-| 4.5–5.5% | 16% | 17% |  |
-| 5.5–6.5% | 1.3% | 1.4% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 1.3% | 100% |  |
+| 2.5–3.5% | 31% | 98.7% |  |
+| 3.5–4.5% | 49% | 68% | Median |
+| 4.5–5.5% | 17% | 19% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -193,6 +195,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | [13–15 January 2026](2026-01-15-TargetPoint.html) | Target Point <br> El Debate | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [12–15 January 2026](2026-01-15-GESOP.html) | GESOP <br> Prensa Ibérica | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [7–10 January 2026](2026-01-10-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [5–10 January 2026](2026-01-10-CIS.html) | CIS | 2 | 2 | 2 | 2 | 1–3 |
 | [5–9 January 2026](2026-01-09-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [29 December 2025–5 January 2026](2026-01-05-40dB.html) | 40dB <br> Prisa | 2 | 2 | 2–3 | 2–3 | 1–3 |
@@ -356,10 +360,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 4% | 100% |  |
-| 2 | 79% | 96% | Median |
-| 3 | 16% | 17% |  |
-| 4 | 1.1% | 1.1% |  |
+| 1 | 3% | 100% |  |
+| 2 | 75% | 97% | Median |
+| 3 | 21% | 22% |  |
+| 4 | 1.3% | 1.3% |  |
 | 5 | 0% | 0% |  |
 
 
