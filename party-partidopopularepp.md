@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.4% | 23.3–33.9% | 22.7–34.6% | 22.4–35.1% | 21.8–36.3% |
+| N/A | [Poll Average](average.html) | 31.4% | 23.3–33.8% | 22.7–34.5% | 22.4–35.1% | 21.8–36.3% |
+| [26–30 January 2026](2026-01-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 32.4% | 31.0–33.8% | 30.6–34.2% | 30.3–34.6% | 29.6–35.3% |
+| [23–24 January 2026](2026-01-24-DYM.html) | DYM <br> Henneo | 34.4% | N/A | N/A | N/A | N/A |
 | [13–15 January 2026](2026-01-15-TargetPoint.html) | Target Point <br> El Debate | 30.0% | 28.2–31.9% | 27.7–32.4% | 27.2–32.9% | 26.4–33.9% |
 | [12–15 January 2026](2026-01-15-GESOP.html) | GESOP <br> Prensa Ibérica | 30.0% | 28.2–31.9% | 27.7–32.5% | 27.3–33.0% | 26.4–33.9% |
 | [7–10 January 2026](2026-01-10-SocioMétrica.html) | SocioMétrica <br> El Español | 32.5% | 30.9–34.2% | 30.4–34.7% | 30.0–35.1% | 29.3–36.0% |
@@ -205,12 +207,12 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 3% | 85% |  |
 | 28.5–29.5% | 7% | 81% |  |
 | 29.5–30.5% | 11% | 75% |  |
-| 30.5–31.5% | 16% | 64% | Median |
-| 31.5–32.5% | 19% | 48% |  |
-| 32.5–33.5% | 16% | 29% |  |
-| 33.5–34.5% | 9% | 14% |  |
-| 34.5–35.5% | 4% | 5% |  |
-| 35.5–36.5% | 1.2% | 1.5% |  |
+| 30.5–31.5% | 17% | 63% | Median |
+| 31.5–32.5% | 19% | 47% |  |
+| 32.5–33.5% | 15% | 28% |  |
+| 33.5–34.5% | 8% | 13% |  |
+| 34.5–35.5% | 3% | 5% |  |
+| 35.5–36.5% | 1.1% | 1.5% |  |
 | 36.5–37.5% | 0.3% | 0.3% |  |
 | 37.5–38.5% | 0.1% | 0.1% |  |
 | 38.5–39.5% | 0% | 0% |  |
@@ -225,6 +227,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 16–24 | 15–24 | 15–25 | 15–25 |
+| [26–30 January 2026](2026-01-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 22 | 21–24 | 21–24 | 21–24 | 20–24 |
+| [23–24 January 2026](2026-01-24-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [13–15 January 2026](2026-01-15-TargetPoint.html) | Target Point <br> El Debate | 21 | 20–23 | 20–23 | 19–23 | 19–24 |
 | [12–15 January 2026](2026-01-15-GESOP.html) | GESOP <br> Prensa Ibérica | 21 | 19–22 | 19–23 | 19–23 | 18–24 |
 | [7–10 January 2026](2026-01-10-SocioMétrica.html) | SocioMétrica <br> El Español | 22 | 21–23 | 21–24 | 21–24 | 20–25 |
@@ -411,10 +415,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0.2% | 86% |  |
 | 19 | 2% | 86% |  |
 | 20 | 7% | 84% |  |
-| 21 | 18% | 77% |  |
-| 22 | 29% | 59% | Median |
-| 23 | 20% | 30% |  |
-| 24 | 6% | 10% |  |
+| 21 | 20% | 76% |  |
+| 22 | 30% | 57% | Median |
+| 23 | 14% | 27% |  |
+| 24 | 9% | 13% |  |
 | 25 | 4% | 4% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
