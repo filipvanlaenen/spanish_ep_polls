@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 23 Jan 2026 14:22:19 +0100</pubDate>
+    <pubDate>Sat, 07 Feb 2026 17:55:48 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 26–30 January 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-01-30-SigmaDos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 11–14 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 16–19 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2–4 seats&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 21–24 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 2–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-01-30-SigmaDos-seats.png"
+        length="376800"
+        type="image/png"/>
+      <pubDate>Sat, 07 Feb 2026 17:55:48 +0100</pubDate>
+      <dc:date>2026-02-07T17:55:48.089457+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 26–30 January 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-01-30-SigmaDos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-01-30-SigmaDos-coalitions-seats.png"
+        length="202793"
+        type="image/png"/>
+      <pubDate>Sat, 07 Feb 2026 17:55:48 +0100</pubDate>
+      <dc:date>2026-02-07T17:55:48.089457+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 26–30 January 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-01-30-SigmaDos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2.4–4.0%&lt;/li&gt;&lt;li&gt;Vox (PfE): 16.1–19.6%&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0.5–1.4%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.8–1.8%&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0.5–1.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 24.1–28.2%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.7–1.7%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 3.7–5.7%&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1.3–2.5%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 30.3–34.6%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 4.1–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-01-30-SigmaDos.png"
+        length="431537"
+        type="image/png"/>
+      <pubDate>Sat, 07 Feb 2026 17:55:48 +0100</pubDate>
+      <dc:date>2026-02-07T17:55:48.089457+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Target Point for El Debate, 13–15 January 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-01-15-TargetPoint.html#seats</link>
@@ -4539,6 +4569,6 @@
       <pubDate>Thu, 26 Sep 2024 23:01:48 +0200</pubDate>
       <dc:date>2024-09-26T23:01:48.415794+02:00</dc:date>
     </item>
-    <dc:date>2026-01-23T14:22:19.350944+01:00</dc:date>
+    <dc:date>2026-02-07T17:55:48.089457+01:00</dc:date>
   </channel>
 </rss>
