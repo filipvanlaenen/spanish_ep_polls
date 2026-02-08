@@ -195,7 +195,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [26–30 January 2026](2026-01-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [23–24 January 2026](2026-01-24-DYM.html) | DYM <br> Henneo | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| [23–24 January 2026](2026-01-24-DYM.html) | DYM <br> Henneo | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [13–15 January 2026](2026-01-15-TargetPoint.html) | Target Point <br> El Debate | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [12–15 January 2026](2026-01-15-GESOP.html) | GESOP <br> Prensa Ibérica | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [7–10 January 2026](2026-01-10-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -361,8 +361,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.0% | 100% | Last Result |
-| 1 | 51% | 99.0% | Median |
+| 0 | 1.1% | 100% | Last Result |
+| 1 | 51% | 98.9% | Median |
 | 2 | 47% | 48% |  |
 | 3 | 1.1% | 1.1% |  |
 | 4 | 0% | 0% |  |
