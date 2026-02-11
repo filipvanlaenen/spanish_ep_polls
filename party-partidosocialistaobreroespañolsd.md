@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.7% | 24.8–31.1% | 24.3–31.9% | 23.9–32.3% | 23.1–33.0% |
+| N/A | [Poll Average](average.html) | 26.8% | 24.8–31.1% | 24.3–31.9% | 23.9–32.3% | 23.1–33.0% |
+| [30 January–2 February 2026](2026-02-02-40dB.html) | 40dB <br> Prisa | 27.7% | 26.4–29.0% | 26.1–29.4% | 25.8–29.7% | 25.2–30.3% |
 | [26–30 January 2026](2026-01-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 26.1% | 24.8–27.5% | 24.4–27.9% | 24.1–28.2% | 23.5–28.9% |
 | [23–24 January 2026](2026-01-24-DYM.html) | DYM <br> Henneo | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.4–29.9% | 23.5–30.8% |
 | [13–15 January 2026](2026-01-15-TargetPoint.html) | Target Point <br> El Debate | 26.1% | 24.4–27.9% | 23.9–28.5% | 23.5–28.9% | 22.7–29.8% |
@@ -202,10 +203,10 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 1.2% | 99.8% |  |
 | 23.5–24.5% | 6% | 98.7% |  |
 | 24.5–25.5% | 15% | 93% |  |
-| 25.5–26.5% | 25% | 78% |  |
-| 26.5–27.5% | 23% | 53% | Median |
-| 27.5–28.5% | 13% | 30% |  |
-| 28.5–29.5% | 4% | 18% |  |
+| 25.5–26.5% | 23% | 78% |  |
+| 26.5–27.5% | 22% | 55% | Median |
+| 27.5–28.5% | 14% | 33% |  |
+| 28.5–29.5% | 6% | 19% |  |
 | 29.5–30.5% | 2% | 14% |  |
 | 30.5–31.5% | 5% | 12% |  |
 | 31.5–32.5% | 6% | 7% |  |
@@ -223,6 +224,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 17–22 | 17–24 | 16–24 | 16–24 |
+| [30 January–2 February 2026](2026-02-02-40dB.html) | 40dB <br> Prisa | 20 | 19–21 | 18–21 | 18–21 | 18–22 |
 | [26–30 January 2026](2026-01-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
 | [23–24 January 2026](2026-01-24-DYM.html) | DYM <br> Henneo | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
 | [13–15 January 2026](2026-01-15-TargetPoint.html) | Target Point <br> El Debate | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
@@ -408,10 +410,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0.4% | 100% |  |
 | 16 | 4% | 99.6% |  |
 | 17 | 17% | 96% |  |
-| 18 | 24% | 79% |  |
-| 19 | 27% | 55% | Median |
-| 20 | 12% | 27% |  |
-| 21 | 3% | 15% |  |
+| 18 | 23% | 79% |  |
+| 19 | 26% | 55% | Median |
+| 20 | 13% | 29% |  |
+| 21 | 4% | 16% |  |
 | 22 | 2% | 12% |  |
 | 23 | 1.4% | 10% |  |
 | 24 | 8% | 8% |  |

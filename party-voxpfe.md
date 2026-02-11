@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.8% | 16.3–19.4% | 15.8–20.0% | 15.4–20.5% | 14.5–21.5% |
+| [30 January–2 February 2026](2026-02-02-40dB.html) | 40dB <br> Prisa | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |
 | [26–30 January 2026](2026-01-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 17.8% | 16.7–19.0% | 16.4–19.4% | 16.1–19.6% | 15.6–20.2% |
 | [23–24 January 2026](2026-01-24-DYM.html) | DYM <br> Henneo | 16.6% | 15.1–18.1% | 14.7–18.6% | 14.4–19.0% | 13.7–19.8% |
 | [13–15 January 2026](2026-01-15-TargetPoint.html) | Target Point <br> El Debate | 19.2% | 17.7–20.9% | 17.2–21.4% | 16.9–21.8% | 16.2–22.6% |
@@ -193,9 +194,9 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0.5% | 100% |  |
 | 14.5–15.5% | 3% | 99.5% |  |
 | 15.5–16.5% | 10% | 97% |  |
-| 16.5–17.5% | 27% | 87% |  |
-| 17.5–18.5% | 34% | 60% | Median |
-| 18.5–19.5% | 18% | 26% |  |
+| 16.5–17.5% | 26% | 87% |  |
+| 17.5–18.5% | 34% | 61% | Median |
+| 18.5–19.5% | 18% | 27% |  |
 | 19.5–20.5% | 6% | 9% |  |
 | 20.5–21.5% | 2% | 2% |  |
 | 21.5–22.5% | 0.4% | 0.5% |  |
@@ -212,6 +213,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
+| [30 January–2 February 2026](2026-02-02-40dB.html) | 40dB <br> Prisa | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
 | [26–30 January 2026](2026-01-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [23–24 January 2026](2026-01-24-DYM.html) | DYM <br> Henneo | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [13–15 January 2026](2026-01-15-TargetPoint.html) | Target Point <br> El Debate | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
