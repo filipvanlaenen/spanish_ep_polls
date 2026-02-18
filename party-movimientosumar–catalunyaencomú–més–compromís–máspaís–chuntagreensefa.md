@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.2–5.5% | 2.9–5.8% | 2.7–6.1% | 2.3–6.7% |
+| N/A | [Poll Average](average.html) | 4.5% | 3.2–5.6% | 2.9–6.0% | 2.6–6.2% | 2.2–6.8% |
+| [10–13 February 2026](2026-02-13-NCReport.html) | NC Report <br> La Razón | 3.7% | N/A | N/A | N/A | N/A |
 | [2–6 February 2026](2026-02-06-CIS.html) | CIS | 4.3% | 3.9–4.8% | 3.8–4.9% | 3.7–5.0% | 3.6–5.2% |
 | [30 January–2 February 2026](2026-02-02-40dB.html) | 40dB <br> Prisa | 4.0% | 3.4–4.6% | 3.3–4.8% | 3.2–4.9% | 2.9–5.2% |
 | [26–30 January 2026](2026-01-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 5.1% | 4.5–5.8% | 4.3–6.0% | 4.1–6.2% | 3.9–6.5% |
@@ -181,11 +182,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 16% | 98% |  |
-| 3.5–4.5% | 43% | 83% | Median |
-| 4.5–5.5% | 30% | 39% |  |
-| 5.5–6.5% | 9% | 9% |  |
-| 6.5–7.5% | 0.7% | 0.7% |  |
+| 2.5–3.5% | 13% | 98% |  |
+| 3.5–4.5% | 37% | 85% |  |
+| 4.5–5.5% | 35% | 47% | Median |
+| 5.5–6.5% | 11% | 12% |  |
+| 6.5–7.5% | 1.0% | 1.0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -198,7 +199,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 1–4 | 1–4 |
-| [2–6 February 2026](2026-02-06-CIS.html) | CIS | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [10–13 February 2026](2026-02-13-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [2–6 February 2026](2026-02-06-CIS.html) | CIS | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 January–2 February 2026](2026-02-02-40dB.html) | 40dB <br> Prisa | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26–30 January 2026](2026-01-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [23–24 January 2026](2026-01-24-DYM.html) | DYM <br> Henneo | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -368,11 +370,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 45% | 97% |  |
-| 3 | 42% | 52% | Median |
-| 4 | 10% | 10% |  |
-| 5 | 0.2% | 0.2% |  |
+| 1 | 4% | 100% |  |
+| 2 | 33% | 96% |  |
+| 3 | 50% | 63% | Median |
+| 4 | 13% | 13% |  |
+| 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
 
