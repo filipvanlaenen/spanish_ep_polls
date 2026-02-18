@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sat, 20 Jul 2024 10:33:34 +0200</pubDate>
     <item>
+      <title>Opinion Poll by CIS, 2–6 February 2026 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-06-CIS.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by CIS, 2–6 February 2026<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-06-CIS.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-06-CIS-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-06-CIS-seating-plan.png" length="425367" type="image/png"/>
+      <pubDate>Wed, 18 Feb 2026 19:02:57 +0100</pubDate>
+      <dc:date>2026-02-18T19:02:57.059675215+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CIS, 2–6 February 2026 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-06-CIS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by CIS, 2–6 February 2026<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-06-CIS.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-06-CIS-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-06-CIS-seats.png" length="368228" type="image/png"/>
+      <pubDate>Wed, 18 Feb 2026 19:02:57 +0100</pubDate>
+      <dc:date>2026-02-18T19:02:57.059675215+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CIS, 2–6 February 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-06-CIS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CIS, 2–6 February 2026<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-06-CIS.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-06-CIS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-06-CIS.png" length="431134" type="image/png"/>
+      <pubDate>Wed, 18 Feb 2026 19:02:57 +0100</pubDate>
+      <dc:date>2026-02-18T19:02:57.059675215+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by 40dB for Prisa, 30 January–2 February 2026 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-02-40dB.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by 40dB for Prisa, 30 January–2 February 2026<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-02-40dB.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-02-40dB-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-01-05-40dB.png" length="269057" type="image/png"/>
       <pubDate>Tue, 13 Jan 2026 19:50:50 +0100</pubDate>
       <dc:date>2026-01-13T19:50:50.947274806+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sigma Dos for El Mundo, 22–29 December 2025 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by Sigma Dos for El Mundo, 22–29 December 2025<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos-seating-plan.png" length="431616" type="image/png"/>
-      <pubDate>Sat, 10 Jan 2026 00:00:35 +0100</pubDate>
-      <dc:date>2026-01-10T00:00:35.962562183+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sigma Dos for El Mundo, 22–29 December 2025 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by Sigma Dos for El Mundo, 22–29 December 2025<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos-seats.png" length="385893" type="image/png"/>
-      <pubDate>Sat, 10 Jan 2026 00:00:35 +0100</pubDate>
-      <dc:date>2026-01-10T00:00:35.962562183+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sigma Dos for El Mundo, 22–29 December 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Sigma Dos for El Mundo, 22–29 December 2025<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2025-12-29-SigmaDos.png" length="449709" type="image/png"/>
-      <pubDate>Sat, 10 Jan 2026 00:00:35 +0100</pubDate>
-      <dc:date>2026-01-10T00:00:35.962562183+01:00</dc:date>
     </item>
   </channel>
 </rss>
