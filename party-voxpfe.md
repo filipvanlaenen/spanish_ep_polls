@@ -220,7 +220,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 13 | 11–14 | 11–15 | 10–15 | 10–15 |
 | [11–13 February 2026](2026-02-13-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [10–13 February 2026](2026-02-13-NCReport.html) | NC Report <br> La Razón | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
-| [10 February 2026](2026-02-10-Data10.html) | Data10 <br> Okdiario | 14 | 13–15 | 12–15 | 11–15 | 11–15 |
+| [10 February 2026](2026-02-10-Data10.html) | Data10 <br> Okdiario | 13 | 12–15 | 11–15 | 11–15 | 11–15 |
 | [2–6 February 2026](2026-02-06-CIS.html) | CIS | 13 | 13 | 13 | 12–14 | 12–14 |
 | [30 January–2 February 2026](2026-02-02-40dB.html) | 40dB <br> Prisa | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
 | [26–30 January 2026](2026-01-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
@@ -402,11 +402,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0.1% | 100% |  |
 | 10 | 3% | 99.9% |  |
-| 11 | 11% | 97% |  |
+| 11 | 12% | 97% |  |
 | 12 | 31% | 86% |  |
-| 13 | 38% | 54% | Median |
-| 14 | 9% | 16% |  |
-| 15 | 7% | 7% |  |
+| 13 | 39% | 54% | Median |
+| 14 | 10% | 15% |  |
+| 15 | 5% | 5% |  |
 | 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
 
