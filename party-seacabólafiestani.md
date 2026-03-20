@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 2.0–3.2% | 1.9–3.5% | 1.8–3.7% | 1.5–4.2% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.9–3.2% | 1.8–3.5% | 1.7–3.7% | 1.5–4.2% |
+| [2–6 March 2026](2026-03-06-CIS.html) | CIS | 2.1% | 1.8–2.4% | 1.8–2.5% | 1.7–2.6% | 1.6–2.8% |
 | [23–27 February 2026](2026-02-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
 | [20–23 February 2026](2026-02-23-40dB.html) | 40dB <br> Prisa | 2.3% | 1.9–2.8% | 1.8–2.9% | 1.7–3.1% | 1.6–3.3% |
+| [18–22 February 2026](2026-02-22-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [17–19 February 2026](2026-02-19-TargetPoint.html) | Target Point <br> El Debate | 2.4% | 1.9–3.1% | 1.7–3.4% | 1.6–3.5% | 1.4–3.9% |
 | [11–13 February 2026](2026-02-13-SocioMétrica.html) | SocioMétrica <br> El Español | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.8–3.6% | 1.5–3.9% |
 | [10–13 February 2026](2026-02-13-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
@@ -20,7 +22,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2–6 February 2026](2026-02-06-CIS.html) | CIS | 2.4% | 2.1–2.8% | 2.0–2.9% | 2.0–2.9% | 1.8–3.1% |
 | [30 January–2 February 2026](2026-02-02-40dB.html) | 40dB <br> Prisa | 1.6% | 1.3–2.0% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% |
 | [26–30 January 2026](2026-01-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
-| [23–24 January 2026](2026-01-24-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [22–25 January 2026](2026-01-25-DYM.html) | DYM <br> Henneo | 0.5% | N/A | N/A | N/A | N/A |
 | [14–18 January 2026](2026-01-18-DYM.html) | DYM <br> Henneo | 0.7% | N/A | N/A | N/A | N/A |
 | [13–15 January 2026](2026-01-15-TargetPoint.html) | Target Point <br> El Debate | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [12–15 January 2026](2026-01-15-GESOP.html) | GESOP <br> Prensa Ibérica | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
@@ -186,9 +188,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.5% | 100% |  |
-| 1.5–2.5% | 53% | 99.5% |  |
-| 2.5–3.5% | 42% | 46% | Median |
+| 0.5–1.5% | 0.6% | 100% |  |
+| 1.5–2.5% | 59% | 99.4% | Median |
+| 2.5–3.5% | 37% | 41% |  |
 | 3.5–4.5% | 4% | 4% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -203,8 +205,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [2–6 March 2026](2026-03-06-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1 |
 | [23–27 February 2026](2026-02-27-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [20–23 February 2026](2026-02-23-40dB.html) | 40dB <br> Prisa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [18–22 February 2026](2026-02-22-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es |  |  |  |  |  |
 | [17–19 February 2026](2026-02-19-TargetPoint.html) | Target Point <br> El Debate | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–13 February 2026](2026-02-13-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–13 February 2026](2026-02-13-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
@@ -212,7 +216,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–6 February 2026](2026-02-06-CIS.html) | CIS | 1 | 1 | 1 | 1–2 | 1–2 |
 | [30 January–2 February 2026](2026-02-02-40dB.html) | 40dB <br> Prisa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–30 January 2026](2026-01-30-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [23–24 January 2026](2026-01-24-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [22–25 January 2026](2026-01-25-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [14–18 January 2026](2026-01-18-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [13–15 January 2026](2026-01-15-TargetPoint.html) | Target Point <br> El Debate | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [12–15 January 2026](2026-01-15-GESOP.html) | GESOP <br> Prensa Ibérica | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -380,8 +384,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 74% | 99.9% | Median |
-| 2 | 25% | 26% |  |
+| 1 | 75% | 99.9% | Median |
+| 2 | 25% | 25% |  |
 | 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 
