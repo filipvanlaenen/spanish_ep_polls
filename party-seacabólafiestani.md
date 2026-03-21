@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2–6 February 2026](2026-02-06-CIS.html) | CIS | 2.4% | 2.1–2.8% | 2.0–2.9% | 2.0–2.9% | 1.8–3.1% |
 | [30 January–2 February 2026](2026-02-02-40dB.html) | 40dB <br> Prisa | 1.6% | 1.3–2.0% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% |
 | [26–30 January 2026](2026-01-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
-| [22–25 January 2026](2026-01-25-DYM.html) | DYM <br> Henneo | 0.5% | N/A | N/A | N/A | N/A |
+| [22–25 January 2026](2026-01-25-DYM.html) | DYM <br> Henneo | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [14–18 January 2026](2026-01-18-DYM.html) | DYM <br> Henneo | 0.7% | N/A | N/A | N/A | N/A |
 | [13–15 January 2026](2026-01-15-TargetPoint.html) | Target Point <br> El Debate | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [12–15 January 2026](2026-01-15-GESOP.html) | GESOP <br> Prensa Ibérica | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
@@ -216,7 +216,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–6 February 2026](2026-02-06-CIS.html) | CIS | 1 | 1 | 1 | 1–2 | 1–2 |
 | [30 January–2 February 2026](2026-02-02-40dB.html) | 40dB <br> Prisa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–30 January 2026](2026-01-30-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [22–25 January 2026](2026-01-25-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [22–25 January 2026](2026-01-25-DYM.html) | DYM <br> Henneo | 0 | 0 | 0 | 0 | 0–1 |
 | [14–18 January 2026](2026-01-18-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [13–15 January 2026](2026-01-15-TargetPoint.html) | Target Point <br> El Debate | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [12–15 January 2026](2026-01-15-GESOP.html) | GESOP <br> Prensa Ibérica | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
