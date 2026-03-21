@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 20 Mar 2026 20:17:00 +0100</pubDate>
+    <pubDate>Sat, 21 Mar 2026 11:06:07 +0100</pubDate>
     <item>
       <title>Opinion Poll by CIS, 2–6 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-03-06-CIS.html#seats</link>
@@ -98,6 +98,36 @@
         type="image/png"/>
       <pubDate>Sat, 07 Mar 2026 18:43:41 +0100</pubDate>
       <dc:date>2026-03-07T18:43:41.426793+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ateneo del Dato for elDiario.es, 18–22 February 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-22-AteneodelDato.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 18–21 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 13–16 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 19–22 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-22-AteneodelDato-seats.png"
+        length="223831"
+        type="image/png"/>
+      <pubDate>Fri, 20 Mar 2026 22:49:55 +0100</pubDate>
+      <dc:date>2026-03-20T22:49:55.377327+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ateneo del Dato for elDiario.es, 18–22 February 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-22-AteneodelDato.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-22-AteneodelDato-coalitions-seats.png"
+        length="204144"
+        type="image/png"/>
+      <pubDate>Fri, 20 Mar 2026 22:49:55 +0100</pubDate>
+      <dc:date>2026-03-20T22:49:55.377327+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ateneo del Dato for elDiario.es, 18–22 February 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-22-AteneodelDato.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 25.1–29.0%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2.1–3.6%&lt;/li&gt;&lt;li&gt;Vox (PfE): 18.6–22.1%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 3.0–4.7%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 27.4–31.4%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 3.6–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-22-AteneodelDato.png"
+        length="248417"
+        type="image/png"/>
+      <pubDate>Fri, 20 Mar 2026 22:49:55 +0100</pubDate>
+      <dc:date>2026-03-20T22:49:55.377327+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Target Point for El Debate, 17–19 February 2026 – Seat Projections for the Parties</title>
@@ -308,6 +338,36 @@
         type="image/png"/>
       <pubDate>Sun, 08 Feb 2026 10:39:30 +0100</pubDate>
       <dc:date>2026-02-08T10:39:30.233709+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by DYM for Henneo, 22–25 January 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-01-25-DYM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17–21 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 0–2 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 10–13 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2–4 seats&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 0 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 22–26 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-01-25-DYM-seats.png"
+        length="236356"
+        type="image/png"/>
+      <pubDate>Sat, 21 Mar 2026 11:06:07 +0100</pubDate>
+      <dc:date>2026-03-21T11:06:07.170305+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by DYM for Henneo, 22–25 January 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-01-25-DYM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-01-25-DYM-coalitions-seats.png"
+        length="200017"
+        type="image/png"/>
+      <pubDate>Sat, 21 Mar 2026 11:06:07 +0100</pubDate>
+      <dc:date>2026-03-21T11:06:07.170305+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by DYM for Henneo, 22–25 January 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-01-25-DYM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 24.4–29.9%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 1.2–2.9%&lt;/li&gt;&lt;li&gt;Vox (PfE): 14.4–19.0%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 31.5–37.4%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 2.2–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-01-25-DYM.png"
+        length="267938"
+        type="image/png"/>
+      <pubDate>Sat, 21 Mar 2026 11:06:07 +0100</pubDate>
+      <dc:date>2026-03-21T11:06:07.170305+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Target Point for El Debate, 13–15 January 2026 – Seat Projections for the Parties</title>
@@ -4839,6 +4899,6 @@
       <pubDate>Thu, 26 Sep 2024 23:01:48 +0200</pubDate>
       <dc:date>2024-09-26T23:01:48.415794+02:00</dc:date>
     </item>
-    <dc:date>2026-03-20T20:17:00.024918+01:00</dc:date>
+    <dc:date>2026-03-21T11:06:07.170305+01:00</dc:date>
   </channel>
 </rss>
