@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.9–2.9% | 1.8–3.2% | 1.7–3.4% | 1.6–3.8% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.9–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.8% |
+| [24–26 March 2026](2026-03-26-TargetPoint.html) | Target Point <br> El Debate | 2.2% | 1.8–2.9% | 1.6–3.1% | 1.5–3.3% | 1.3–3.7% |
 | [19–23 March 2026](2026-03-23-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [19–21 March 2026](2026-03-21-SocioMétrica.html) | SocioMétrica <br> El Español | 2.5% | 2.0–3.3% | 1.9–3.5% | 1.8–3.7% | 1.5–4.0% |
 | [2–6 March 2026](2026-03-06-CIS.html) | CIS | 2.1% | 1.8–2.4% | 1.8–2.5% | 1.7–2.6% | 1.6–2.8% |
@@ -190,10 +191,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.4% | 100% |  |
-| 1.5–2.5% | 71% | 99.6% | Median |
-| 2.5–3.5% | 27% | 28% |  |
-| 3.5–4.5% | 1.3% | 1.3% |  |
+| 0.5–1.5% | 1.3% | 100% |  |
+| 1.5–2.5% | 69% | 98.7% | Median |
+| 2.5–3.5% | 28% | 29% |  |
+| 3.5–4.5% | 1.5% | 2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -206,6 +207,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [24–26 March 2026](2026-03-26-TargetPoint.html) | Target Point <br> El Debate | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [19–23 March 2026](2026-03-23-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [19–21 March 2026](2026-03-21-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–6 March 2026](2026-03-06-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1 |
@@ -386,9 +388,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 89% | 99.9% | Median |
-| 2 | 11% | 11% |  |
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 88% | 99.6% | Median |
+| 2 | 12% | 12% |  |
 | 3 | 0% | 0% |  |
 
 
