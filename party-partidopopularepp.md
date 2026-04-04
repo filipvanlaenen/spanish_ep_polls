@@ -242,7 +242,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 16–25 | 16–26 | 16–26 | 16–27 |
-| [24–26 March 2026](2026-03-26-TargetPoint.html) | Target Point <br> El Debate | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
+| [24–26 March 2026](2026-03-26-TargetPoint.html) | Target Point <br> El Debate | 22 | 21–23 | 20–24 | 20–24 | 20–25 |
 | [19–23 March 2026](2026-03-23-DYM.html) | DYM <br> Henneo | 25 | 23–26 | 23–27 | 23–27 | 22–28 |
 | [19–21 March 2026](2026-03-21-SocioMétrica.html) | SocioMétrica <br> El Español | 22 | 21–22 | 21–23 | 20–24 | 20–24 |
 | [2–6 March 2026](2026-03-06-CIS.html) | CIS | 16 | 16 | 16 | 16 | 16–17 |
@@ -447,7 +447,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 18% | 78% |  |
 | 22 | 29% | 60% | Median |
 | 23 | 11% | 31% |  |
-| 24 | 8% | 21% |  |
+| 24 | 8% | 20% |  |
 | 25 | 7% | 13% |  |
 | 26 | 4% | 5% |  |
 | 27 | 1.2% | 1.4% |  |
