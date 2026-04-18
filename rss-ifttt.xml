@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sat, 20 Jul 2024 10:33:34 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Ipsos for La Vanguardia, 23 March–8 April 2026 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-04-08-Ipsos.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by Ipsos for La Vanguardia, 23 March–8 April 2026<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2026-04-08-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2026-04-08-Ipsos-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-04-08-Ipsos-seating-plan.png" length="464487" type="image/png"/>
+      <pubDate>Sat, 18 Apr 2026 16:03:31 +0200</pubDate>
+      <dc:date>2026-04-18T16:03:31.23484443+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for La Vanguardia, 23 March–8 April 2026 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-04-08-Ipsos.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by Ipsos for La Vanguardia, 23 March–8 April 2026<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2026-04-08-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2026-04-08-Ipsos-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-04-08-Ipsos-seats.png" length="408520" type="image/png"/>
+      <pubDate>Sat, 18 Apr 2026 16:03:31 +0200</pubDate>
+      <dc:date>2026-04-18T16:03:31.23484443+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for La Vanguardia, 23 March–8 April 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-04-08-Ipsos.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for La Vanguardia, 23 March–8 April 2026<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2026-04-08-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2026-04-08-Ipsos.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-04-08-Ipsos.png" length="466941" type="image/png"/>
+      <pubDate>Sat, 18 Apr 2026 16:03:31 +0200</pubDate>
+      <dc:date>2026-04-18T16:03:31.23484443+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 16–31 March 2026 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-03-31-SigmaDos.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by Sigma Dos for El Mundo, 16–31 March 2026<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2026-03-31-SigmaDos.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2026-03-31-SigmaDos-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-22-AteneodelDato.png" length="248417" type="image/png"/>
       <pubDate>Fri, 20 Mar 2026 22:49:55 +0100</pubDate>
       <dc:date>2026-03-20T22:49:55.377327799+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Target Point for El Debate, 17–19 February 2026 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-19-TargetPoint.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by Target Point for El Debate, 17–19 February 2026<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-19-TargetPoint.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-19-TargetPoint-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-19-TargetPoint-seating-plan.png" length="437552" type="image/png"/>
-      <pubDate>Mon, 23 Feb 2026 20:41:50 +0100</pubDate>
-      <dc:date>2026-02-23T20:41:50.176435264+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Target Point for El Debate, 17–19 February 2026 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-19-TargetPoint.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>31 seats needed for a majority<br/>Opinion poll by Target Point for El Debate, 17–19 February 2026<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-19-TargetPoint.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-19-TargetPoint-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-19-TargetPoint-seats.png" length="241144" type="image/png"/>
-      <pubDate>Mon, 23 Feb 2026 20:41:50 +0100</pubDate>
-      <dc:date>2026-02-23T20:41:50.176435264+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Target Point for El Debate, 17–19 February 2026 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-19-TargetPoint.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Target Point for El Debate, 17–19 February 2026<br/>Details on https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-19-TargetPoint.html<br/><img src="https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-19-TargetPoint.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-02-19-TargetPoint.png" length="281645" type="image/png"/>
-      <pubDate>Mon, 23 Feb 2026 20:41:50 +0100</pubDate>
-      <dc:date>2026-02-23T20:41:50.176435264+01:00</dc:date>
     </item>
   </channel>
 </rss>
