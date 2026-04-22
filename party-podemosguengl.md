@@ -216,7 +216,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 0–3 | 0–3 |
 | [15–18 April 2026](2026-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 2 | 2–3 | 1–3 |
-| [6–10 April 2026](2026-04-10-CIS.html) | CIS | 1 | 1 | 1 | 1–2 | 1–2 |
+| [6–10 April 2026](2026-04-10-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1–2 |
 | [6–9 April 2026](2026-04-09-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [23 March–8 April 2026](2026-04-08-Ipsos.html) | Ipsos <br> La Vanguardia | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [16–31 March 2026](2026-03-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
