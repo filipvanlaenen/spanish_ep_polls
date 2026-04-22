@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.8% | 15.8–19.5% | 15.2–20.0% | 14.6–20.4% | 13.7–21.2% |
+| N/A | [Poll Average](average.html) | 17.7% | 15.8–19.5% | 15.2–20.0% | 14.7–20.4% | 13.8–21.2% |
+| [15–18 April 2026](2026-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 16.9% | 15.8–18.1% | 15.4–18.4% | 15.2–18.7% | 14.6–19.3% |
+| [6–10 April 2026](2026-04-10-CIS.html) | CIS | 14.7% | N/A | N/A | N/A | N/A |
+| [6–9 April 2026](2026-04-09-NCReport.html) | NC Report <br> La Razón | 18.3% | 16.8–20.0% | 16.4–20.4% | 16.0–20.8% | 15.3–21.6% |
 | [23 March–8 April 2026](2026-04-08-Ipsos.html) | Ipsos <br> La Vanguardia | 18.3% | 16.9–19.9% | 16.5–20.4% | 16.1–20.8% | 15.4–21.6% |
 | [16–31 March 2026](2026-03-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 17.1% | 16.0–18.2% | 15.8–18.6% | 15.5–18.9% | 15.0–19.4% |
 | [24–26 March 2026](2026-03-26-TargetPoint.html) | Target Point <br> El Debate | 18.3% | 16.9–19.9% | 16.5–20.3% | 16.1–20.7% | 15.5–21.5% |
@@ -209,11 +212,11 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0.3% | 100% |  |
 | 13.5–14.5% | 2% | 99.7% |  |
 | 14.5–15.5% | 5% | 98% |  |
-| 15.5–16.5% | 12% | 92% |  |
-| 16.5–17.5% | 22% | 80% |  |
-| 17.5–18.5% | 27% | 58% | Median |
-| 18.5–19.5% | 21% | 31% |  |
-| 19.5–20.5% | 8% | 10% |  |
+| 15.5–16.5% | 14% | 93% |  |
+| 16.5–17.5% | 24% | 78% |  |
+| 17.5–18.5% | 26% | 54% | Median |
+| 18.5–19.5% | 19% | 28% |  |
+| 19.5–20.5% | 8% | 9% |  |
 | 20.5–21.5% | 2% | 2% |  |
 | 21.5–22.5% | 0.2% | 0.2% |  |
 | 22.5–23.5% | 0% | 0% |  |
@@ -227,7 +230,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
+| N/A | [Poll Average](average.html) | 12 | 11–13 | 10–14 | 10–14 | 10–15 |
+| [15–18 April 2026](2026-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
+| [6–10 April 2026](2026-04-10-CIS.html) | CIS |  |  |  |  |  |
+| [6–9 April 2026](2026-04-09-NCReport.html) | NC Report <br> La Razón | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [23 March–8 April 2026](2026-04-08-Ipsos.html) | Ipsos <br> La Vanguardia | 12 | 11–14 | 11–15 | 11–15 | 10–15 |
 | [16–31 March 2026](2026-03-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 11 | 10–12 | 10–13 | 10–13 | 10–13 |
 | [24–26 March 2026](2026-03-26-TargetPoint.html) | Target Point <br> El Debate | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
@@ -422,12 +428,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0.4% | 100% |  |
-| 10 | 7% | 99.5% |  |
-| 11 | 19% | 92% |  |
-| 12 | 41% | 73% | Median |
-| 13 | 22% | 32% |  |
-| 14 | 9% | 11% |  |
-| 15 | 1.5% | 2% |  |
+| 10 | 7% | 99.6% |  |
+| 11 | 21% | 93% |  |
+| 12 | 42% | 72% | Median |
+| 13 | 21% | 30% |  |
+| 14 | 8% | 9% |  |
+| 15 | 1.3% | 1.4% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
