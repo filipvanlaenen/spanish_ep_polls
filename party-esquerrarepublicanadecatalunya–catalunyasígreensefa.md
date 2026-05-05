@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.1% | 1.5–3.0% | 1.4–3.1% | 1.3–3.3% | 1.1–3.5% |
+| [21–25 April 2026](2026-04-25-MoreinCommon.html) | More in Common | 0.0% | N/A | N/A | N/A | N/A |
 | [15–18 April 2026](2026-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 1.8% | 1.4–2.3% | 1.4–2.4% | 1.3–2.6% | 1.1–2.8% |
 | [6–10 April 2026](2026-04-10-CIS.html) | CIS | 2.9% | 2.6–3.3% | 2.5–3.4% | 2.4–3.5% | 2.3–3.7% |
 | [6–9 April 2026](2026-04-09-NCReport.html) | NC Report <br> La Razón | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
@@ -213,6 +214,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| [21–25 April 2026](2026-04-25-MoreinCommon.html) | More in Common |  |  |  |  |  |
 | [15–18 April 2026](2026-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1 | 0–1 | 0–1 |
 | [6–10 April 2026](2026-04-10-CIS.html) | CIS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–9 April 2026](2026-04-09-NCReport.html) | NC Report <br> La Razón | 1 | 1 | 1 | 0–1 | 0–2 |
