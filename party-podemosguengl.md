@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.0–4.1% | 1.7–4.4% | 1.5–4.6% | 1.2–5.1% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.4–4.2% | 2.3–4.5% | 2.2–4.8% | 2.0–5.4% |
+| [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.8% |
+| [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 3.5% | 2.7–4.7% | 2.5–5.0% | 2.3–5.3% | 2.0–5.9% |
+| [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo | 3.5% | 2.8–4.3% | 2.7–4.6% | 2.5–4.8% | 2.2–5.2% |
+| [4–18 May 2026](2026-05-18-CIS.html) | CIS | 2.5% | 2.2–2.8% | 2.1–2.9% | 2.0–3.0% | 1.9–3.2% |
 | [24–29 April 2026](2026-04-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
 | [24–27 April 2026](2026-04-27-40dB.html) | 40dB <br> Prisa | 2.5% | 2.1–3.0% | 2.0–3.2% | 1.9–3.3% | 1.7–3.6% |
 | [22–26 April 2026](2026-04-26-AteneodelDato.html) | Ateneo del Dato | 3.8% | 3.3–4.4% | 3.2–4.6% | 3.0–4.7% | 2.8–5.0% |
@@ -201,12 +205,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 29% | 97% |  |
-| 2.5–3.5% | 39% | 68% | Median |
-| 3.5–4.5% | 27% | 30% |  |
-| 4.5–5.5% | 3% | 3% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 16% | 100% |  |
+| 2.5–3.5% | 49% | 84% | Median |
+| 3.5–4.5% | 30% | 35% |  |
+| 4.5–5.5% | 4% | 5% |  |
+| 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -218,7 +222,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [4–18 May 2026](2026-05-18-CIS.html) | CIS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–29 April 2026](2026-04-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [24–27 April 2026](2026-04-27-40dB.html) | 40dB <br> Prisa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–26 April 2026](2026-04-26-AteneodelDato.html) | Ateneo del Dato | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -410,10 +418,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 34% | 96% |  |
-| 2 | 53% | 62% | Median |
-| 3 | 9% | 9% |  |
-| 4 | 0% | 0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 29% | 100% |  |
+| 2 | 63% | 71% | Median |
+| 3 | 8% | 8% |  |
+| 4 | 0.3% | 0.3% |  |
+| 5 | 0% | 0% |  |
 
 
