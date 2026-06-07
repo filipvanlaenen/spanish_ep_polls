@@ -241,8 +241,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–12 | 10–13 | 10–13 | 9–14 |
-| [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 11–12 | 11–12 | 11–12 | 10–14 |
+| N/A | [Poll Average](average.html) | 12 | 11–13 | 10–13 | 10–13 | 9–14 |
+| [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–12 | 11–12 | 11–13 | 10–13 |
 | [25–29 May 2026](2026-05-29-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 12 | 11–12 | 11–12 | 10–13 | 10–14 |
 | [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 12 | 11–13 | 10–13 | 10–14 | 9–14 |
@@ -450,8 +450,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0.5% | 100% |  |
 | 10 | 6% | 99.5% |  |
-| 11 | 36% | 94% |  |
-| 12 | 48% | 57% | Median |
+| 11 | 30% | 94% |  |
+| 12 | 53% | 63% | Median |
 | 13 | 8% | 10% |  |
 | 14 | 2% | 2% |  |
 | 15 | 0.1% | 0.1% |  |

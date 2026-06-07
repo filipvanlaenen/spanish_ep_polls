@@ -257,8 +257,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 17–26 | 16–26 | 16–26 | 15–27 |
-| [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 18 | 18–19 | 17–19 | 16–20 |
-| [25–29 May 2026](2026-05-29-Invymark.html) | Invymark <br> laSexta | 20 | 18–21 | 18–21 | 18–21 | 17–22 |
+| [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 17–18 | 17–18 | 17–19 | 16–20 |
+| [25–29 May 2026](2026-05-29-Invymark.html) | Invymark <br> laSexta | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
 | [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 17 | 17–19 | 17–19 | 17–20 | 15–21 |
 | [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 18 | 16–20 | 16–20 | 15–20 | 14–20 |
 | [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
@@ -471,10 +471,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.1% | 100% |  |
 | 15 | 0.8% | 99.9% |  |
 | 16 | 5% | 99.1% |  |
-| 17 | 18% | 94% |  |
-| 18 | 25% | 77% |  |
+| 17 | 27% | 94% |  |
+| 18 | 15% | 67% |  |
 | 19 | 15% | 52% | Median |
-| 20 | 15% | 37% |  |
+| 20 | 14% | 36% |  |
 | 21 | 5% | 22% |  |
 | 22 | 0.7% | 17% |  |
 | 23 | 0.1% | 17% |  |
