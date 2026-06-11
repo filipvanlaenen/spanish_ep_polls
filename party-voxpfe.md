@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.0% | 15.5–18.9% | 15.1–19.5% | 14.7–20.0% | 13.8–21.1% |
+| N/A | [Poll Average](average.html) | 17.3% | 15.7–19.3% | 15.2–19.9% | 14.8–20.4% | 14.0–21.5% |
+| [28 May–1 June 2026](2026-06-01-40dB.html) | 40dB <br> Prisa | 17.4% | 16.3–18.5% | 16.0–18.9% | 15.8–19.1% | 15.3–19.7% |
 | [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 17.4% | 16.1–18.9% | 15.7–19.3% | 15.4–19.7% | 14.8–20.4% |
 | [25–29 May 2026](2026-05-29-Invymark.html) | Invymark <br> laSexta | 17.6% | 16.2–19.1% | 15.9–19.5% | 15.5–19.8% | 14.9–20.6% |
+| [27–28 May 2026](2026-05-28-TargetPoint.html) | Target Point <br> El Debate | 18.9% | 17.4–20.5% | 16.9–21.0% | 16.6–21.4% | 15.9–22.2% |
 | [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 17.1% | 15.7–18.7% | 15.3–19.2% | 14.9–19.6% | 14.2–20.3% |
 | [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 18.0% | 16.1–20.1% | 15.6–20.7% | 15.2–21.2% | 14.3–22.2% |
 | [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.1% |
@@ -50,14 +52,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–9 January 2026](2026-01-09-NCReport.html) | NC Report <br> La Razón | 17.6% | 16.1–19.2% | 15.7–19.7% | 15.4–20.1% | 14.7–20.9% |
 | [29 December 2025–5 January 2026](2026-01-05-40dB.html) | 40dB <br> Prisa | 17.9% | 16.8–19.1% | 16.5–19.4% | 16.3–19.6% | 15.8–20.2% |
 | [22–29 December 2025](2025-12-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 17.2% | 16.2–18.3% | 15.9–18.6% | 15.7–18.8% | 15.2–19.4% |
-| [15 December 2025](2025-12-15-Invymark.html) | Invymark <br> laSexta | 18.6% | 17.2–20.2% | 16.8–20.7% | 16.4–21.0% | 15.8–21.8% |
+| [15–19 December 2025](2025-12-19-Invymark.html) | Invymark <br> laSexta | 18.6% | N/A | N/A | N/A | N/A |
 | [5–7 December 2025](2025-12-07-SocioMétrica.html) | SocioMétrica <br> El Español | 17.4% | 16.0–18.9% | 15.6–19.3% | 15.2–19.7% | 14.6–20.5% |
 | [26 November–5 December 2025](2025-12-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 16.9% | 15.7–18.1% | 15.4–18.5% | 15.1–18.8% | 14.5–19.4% |
+| [1–5 December 2025](2025-12-05-Invymark.html) | Invymark <br> laSexta | 18.5% | N/A | N/A | N/A | N/A |
 | [1–5 December 2025](2025-12-05-CIS.html) | CIS | 17.6% | 16.8–18.4% | 16.6–18.6% | 16.4–18.8% | 16.1–19.2% |
-| [1 December 2025](2025-12-01-Invymark.html) | Invymark <br> laSexta | 18.5% | 17.1–20.1% | 16.7–20.6% | 16.4–21.0% | 15.7–21.7% |
 | [27 November–1 December 2025](2025-12-01-40dB.html) | 40dB <br> Prisa | 17.4% | 16.4–18.4% | 16.2–18.7% | 16.0–18.9% | 15.5–19.4% |
+| [17–21 November 2025](2025-11-21-Invymark.html) | Invymark <br> laSexta | 17.4% | N/A | N/A | N/A | N/A |
 | [17–19 November 2025](2025-11-19-TargetPoint.html) | Target Point <br> El Debate | 19.0% | 17.6–20.5% | 17.2–21.0% | 16.9–21.3% | 16.2–22.1% |
-| [17 November 2025](2025-11-17-Invymark.html) | Invymark <br> laSexta | 17.4% | 16.0–18.9% | 15.6–19.3% | 15.2–19.7% | 14.6–20.5% |
 | [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 16.7% | 15.3–18.3% | 14.9–18.7% | 14.5–19.1% | 13.9–19.9% |
 | [12–14 November 2025](2025-11-14-DYM.html) | DYM <br> Henneo | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
 | [3–12 November 2025](2025-11-12-CIS.html) | CIS | 18.8% | 18.0–19.6% | 17.8–19.8% | 17.6–20.0% | 17.2–20.4% |
@@ -220,16 +222,16 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.2% | 100% |  |
-| 13.5–14.5% | 2% | 99.8% |  |
-| 14.5–15.5% | 9% | 98% |  |
-| 15.5–16.5% | 26% | 89% |  |
-| 16.5–17.5% | 28% | 63% | Median |
-| 17.5–18.5% | 20% | 35% |  |
-| 18.5–19.5% | 10% | 15% |  |
-| 19.5–20.5% | 3% | 4% |  |
-| 20.5–21.5% | 0.9% | 1.2% |  |
-| 21.5–22.5% | 0.2% | 0.3% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 13.5–14.5% | 1.4% | 99.8% |  |
+| 14.5–15.5% | 7% | 98% |  |
+| 15.5–16.5% | 22% | 92% |  |
+| 16.5–17.5% | 27% | 70% | Median |
+| 17.5–18.5% | 23% | 43% |  |
+| 18.5–19.5% | 13% | 20% |  |
+| 19.5–20.5% | 5% | 7% |  |
+| 20.5–21.5% | 2% | 2% |  |
+| 21.5–22.5% | 0.4% | 0.4% |  |
+| 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
 
@@ -241,9 +243,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–13 | 10–13 | 10–13 | 9–14 |
+| N/A | [Poll Average](average.html) | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
+| [28 May–1 June 2026](2026-06-01-40dB.html) | 40dB <br> Prisa | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–12 | 11–12 | 11–13 | 10–13 |
 | [25–29 May 2026](2026-05-29-Invymark.html) | Invymark <br> laSexta | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
+| [27–28 May 2026](2026-05-28-TargetPoint.html) | Target Point <br> El Debate | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 12 | 11–12 | 11–12 | 10–13 | 10–14 |
 | [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 12 | 11–13 | 10–13 | 10–14 | 9–14 |
 | [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
@@ -281,14 +285,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [5–9 January 2026](2026-01-09-NCReport.html) | NC Report <br> La Razón | 11 | 11–12 | 11–13 | 10–13 | 10–14 |
 | [29 December 2025–5 January 2026](2026-01-05-40dB.html) | 40dB <br> Prisa | 13 | 12–14 | 12–14 | 11–14 | 11–14 |
 | [22–29 December 2025](2025-12-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 11 | 11–12 | 10–12 | 10–13 | 10–13 |
-| [15 December 2025](2025-12-15-Invymark.html) | Invymark <br> laSexta | 12 | 11–14 | 11–14 | 11–14 | 10–14 |
+| [15–19 December 2025](2025-12-19-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [5–7 December 2025](2025-12-07-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 11–13 | 11–13 | 10–13 | 10–13 |
 | [26 November–5 December 2025](2025-12-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 11 | 10–12 | 10–13 | 10–13 | 9–13 |
+| [1–5 December 2025](2025-12-05-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [1–5 December 2025](2025-12-05-CIS.html) | CIS | 12 | 12–13 | 12–13 | 12–13 | 11–13 |
-| [1 December 2025](2025-12-01-Invymark.html) | Invymark <br> laSexta | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
 | [27 November–1 December 2025](2025-12-01-40dB.html) | 40dB <br> Prisa | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
+| [17–21 November 2025](2025-11-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [17–19 November 2025](2025-11-19-TargetPoint.html) | Target Point <br> El Debate | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
-| [17 November 2025](2025-11-17-Invymark.html) | Invymark <br> laSexta | 13 | 12–14 | 12–15 | 11–15 | 11–15 |
 | [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 10 | 10–11 | 10–12 | 10–12 | 9–13 |
 | [12–14 November 2025](2025-11-14-DYM.html) | DYM <br> Henneo | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
 | [3–12 November 2025](2025-11-12-CIS.html) | CIS | 14 | 13–14 | 12–14 | 12–14 | 12–15 |
@@ -448,13 +452,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.5% | 100% |  |
-| 10 | 6% | 99.5% |  |
-| 11 | 30% | 94% |  |
-| 12 | 53% | 63% | Median |
-| 13 | 8% | 10% |  |
-| 14 | 2% | 2% |  |
-| 15 | 0.1% | 0.1% |  |
-| 16 | 0% | 0% |  |
+| 9 | 0.4% | 100% |  |
+| 10 | 4% | 99.6% |  |
+| 11 | 24% | 95% |  |
+| 12 | 48% | 71% | Median |
+| 13 | 15% | 23% |  |
+| 14 | 6% | 9% |  |
+| 15 | 2% | 2% |  |
+| 16 | 0.2% | 0.2% |  |
+| 17 | 0% | 0% |  |
 
 

@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 3.0–4.4% | 2.8–4.7% | 2.6–5.0% | 2.3–5.7% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.9–4.4% | 2.8–4.7% | 2.6–4.9% | 2.3–5.6% |
+| [28 May–1 June 2026](2026-06-01-40dB.html) | 40dB <br> Prisa | 3.8% | 3.3–4.5% | 3.2–4.6% | 3.1–4.8% | 2.9–5.1% |
 | [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
 | [25–29 May 2026](2026-05-29-Invymark.html) | Invymark <br> laSexta | 3.4% | 2.8–4.2% | 2.7–4.4% | 2.5–4.6% | 2.3–5.0% |
+| [27–28 May 2026](2026-05-28-TargetPoint.html) | Target Point <br> El Debate | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.3–4.6% | 2.1–5.0% |
 | [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 3.7% | 3.0–4.5% | 2.8–4.8% | 2.7–5.0% | 2.4–5.5% |
 | [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 3.9% | 3.0–5.0% | 2.8–5.4% | 2.6–5.7% | 2.3–6.3% |
 | [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo | 3.6% | 2.9–4.4% | 2.7–4.7% | 2.6–4.9% | 2.3–5.4% |
@@ -50,14 +52,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–9 January 2026](2026-01-09-NCReport.html) | NC Report <br> La Razón | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [29 December 2025–5 January 2026](2026-01-05-40dB.html) | 40dB <br> Prisa | 3.6% | 3.2–4.3% | 3.0–4.4% | 2.9–4.6% | 2.7–4.9% |
 | [22–29 December 2025](2025-12-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 5.3% | 4.7–5.9% | 4.5–6.1% | 4.4–6.3% | 4.1–6.6% |
-| [15 December 2025](2025-12-15-Invymark.html) | Invymark <br> laSexta | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.4% | 2.0–4.8% |
+| [15–19 December 2025](2025-12-19-Invymark.html) | Invymark <br> laSexta | 3.2% | N/A | N/A | N/A | N/A |
 | [5–7 December 2025](2025-12-07-SocioMétrica.html) | SocioMétrica <br> El Español | 4.6% | 3.9–5.6% | 3.7–5.8% | 3.5–6.1% | 3.2–6.5% |
 | [26 November–5 December 2025](2025-12-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.9% | 4.3–5.7% | 4.1–5.9% | 3.9–6.1% | 3.7–6.5% |
+| [1–5 December 2025](2025-12-05-Invymark.html) | Invymark <br> laSexta | 3.1% | N/A | N/A | N/A | N/A |
 | [1–5 December 2025](2025-12-05-CIS.html) | CIS | 4.8% | 4.4–5.3% | 4.3–5.4% | 4.2–5.5% | 4.0–5.8% |
-| [1 December 2025](2025-12-01-Invymark.html) | Invymark <br> laSexta | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 2.0–4.7% |
 | [27 November–1 December 2025](2025-12-01-40dB.html) | 40dB <br> Prisa | 3.5% | 3.1–4.0% | 3.0–4.2% | 2.9–4.3% | 2.7–4.6% |
+| [17–21 November 2025](2025-11-21-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [17–19 November 2025](2025-11-19-TargetPoint.html) | Target Point <br> El Debate | 3.8% | 3.1–4.6% | 3.0–4.8% | 2.8–5.0% | 2.5–5.4% |
-| [17 November 2025](2025-11-17-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [12–14 November 2025](2025-11-14-DYM.html) | DYM <br> Henneo | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [3–12 November 2025](2025-11-12-CIS.html) | CIS | 4.4% | 4.0–4.8% | 3.9–5.0% | 3.8–5.1% | 3.6–5.3% |
@@ -209,10 +211,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 43% | 98% |  |
-| 3.5–4.5% | 47% | 55% | Median |
-| 4.5–5.5% | 7% | 8% |  |
-| 5.5–6.5% | 0.6% | 0.7% |  |
+| 2.5–3.5% | 42% | 98% |  |
+| 3.5–4.5% | 49% | 56% | Median |
+| 4.5–5.5% | 6% | 7% |  |
+| 5.5–6.5% | 0.5% | 0.5% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -225,8 +227,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| [28 May–1 June 2026](2026-06-01-40dB.html) | 40dB <br> Prisa | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [25–29 May 2026](2026-05-29-Invymark.html) | Invymark <br> laSexta | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| [27–28 May 2026](2026-05-28-TargetPoint.html) | Target Point <br> El Debate | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 2 | 2 | 2 | 2–3 | 1–3 |
 | [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
@@ -264,14 +268,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [5–9 January 2026](2026-01-09-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [29 December 2025–5 January 2026](2026-01-05-40dB.html) | 40dB <br> Prisa | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [22–29 December 2025](2025-12-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| [15 December 2025](2025-12-15-Invymark.html) | Invymark <br> laSexta | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [15–19 December 2025](2025-12-19-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [5–7 December 2025](2025-12-07-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [26 November–5 December 2025](2025-12-05-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [1–5 December 2025](2025-12-05-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [1–5 December 2025](2025-12-05-CIS.html) | CIS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [1 December 2025](2025-12-01-Invymark.html) | Invymark <br> laSexta | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [27 November–1 December 2025](2025-12-01-40dB.html) | 40dB <br> Prisa | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [17–21 November 2025](2025-11-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [17–19 November 2025](2025-11-19-TargetPoint.html) | Target Point <br> El Debate | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| [17 November 2025](2025-11-17-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [11–14 November 2025](2025-11-14-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [12–14 November 2025](2025-11-14-DYM.html) | DYM <br> Henneo | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [3–12 November 2025](2025-11-12-CIS.html) | CIS | 3 | 3 | 2–3 | 2–4 | 2–4 |
@@ -424,9 +428,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 5% | 100% |  |
-| 2 | 82% | 95% | Median |
-| 3 | 14% | 14% |  |
-| 4 | 0.2% | 0.3% |  |
+| 2 | 80% | 95% | Median |
+| 3 | 15% | 16% |  |
+| 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
 
