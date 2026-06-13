@@ -262,7 +262,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28 May–1 June 2026](2026-06-01-40dB.html) | 40dB <br> Prisa | 20 | 19–21 | 19–21 | 18–21 | 18–22 |
 | [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 17–18 | 17–18 | 17–19 | 16–20 |
 | [25–29 May 2026](2026-05-29-Invymark.html) | Invymark <br> laSexta | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
-| [27–28 May 2026](2026-05-28-TargetPoint.html) | Target Point <br> El Debate | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
+| [27–28 May 2026](2026-05-28-TargetPoint.html) | Target Point <br> El Debate | 18 | 17–20 | 17–20 | 17–21 | 16–21 |
 | [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 17 | 17–19 | 17–19 | 17–20 | 15–21 |
 | [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 18 | 16–20 | 16–20 | 15–20 | 14–20 |
 | [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
@@ -476,9 +476,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0.6% | 99.9% |  |
 | 16 | 4% | 99.3% |  |
 | 17 | 22% | 96% |  |
-| 18 | 17% | 74% |  |
+| 18 | 17% | 73% |  |
 | 19 | 19% | 57% | Median |
-| 20 | 19% | 38% |  |
+| 20 | 18% | 38% |  |
 | 21 | 6% | 19% |  |
 | 22 | 0.7% | 13% |  |
 | 23 | 0% | 13% |  |

@@ -31,11 +31,11 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 23 | 21–24 |21–25 |21–25 |20–26 |
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 18 | 17–20 |17–20 |17–20 |16–21 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 18 | 17–20 |17–20 |17–21 |16–21 |
 | <a href="#vox-(pfe)">Vox (PfE)</a> | 0 | 14 | 12–15 |12–15 |12–15 |11–16 |
 | <a href="#movimiento-sumar–catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 2 | 2–3 |1–3 |1–3 |1–3 |
 | <a href="#podemos-(gue/ngl)">Podemos (GUE/NGL)</a> | 0 | 2 | 1–2 |1–3 |1–3 |1–3 |
-| <a href="#se-acabó-la-fiesta-(ni)">Se Acabó La Fiesta (NI)</a> | 0 | 1 | 1 |1–2 |1–2 |0–2 |
+| <a href="#se-acabó-la-fiesta-(ni)">Se Acabó La Fiesta (NI)</a> | 0 | 1 | 1–2 |1–2 |1–2 |0–2 |
 | <a href="#movimiento-sumar–izquierda-unida-(gue/ngl)">Movimiento Sumar–Izquierda Unida (GUE/NGL)</a> | 0 | 1 | 1 |1–2 |0–2 |0–2 |
 
 ### Partido Popular (EPP)
@@ -66,13 +66,13 @@
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0.1% | 100% |  |
-| 20 | 1.4% | 99.9% |  |
-| 21 | 10% | 98.5% |  |
-| 22 | 23% | 88% |  |
-| 23 | 42% | 65% | Median |
-| 24 | 18% | 23% |  |
+| 20 | 2% | 99.9% |  |
+| 21 | 10% | 98% |  |
+| 22 | 25% | 89% |  |
+| 23 | 40% | 63% | Median |
+| 24 | 17% | 23% |  |
 | 25 | 5% | 6% |  |
-| 26 | 0.7% | 0.7% |  |
+| 26 | 0.6% | 0.7% |  |
 | 27 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -102,9 +102,9 @@
 | 16 | 2% | 99.9% |  |
 | 17 | 13% | 98% |  |
 | 18 | 37% | 85% | Median |
-| 19 | 32% | 49% |  |
-| 20 | 14% | 17% |  |
-| 21 | 2% | 2% |  |
+| 19 | 32% | 48% |  |
+| 20 | 13% | 16% |  |
+| 21 | 2% | 3% |  |
 | 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |
 
@@ -127,11 +127,11 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.6% | 100% |  |
-| 12 | 10% | 99.4% |  |
-| 13 | 34% | 89% |  |
-| 14 | 39% | 55% | Median |
-| 15 | 15% | 16% |  |
+| 11 | 0.7% | 100% |  |
+| 12 | 10% | 99.3% |  |
+| 13 | 35% | 89% |  |
+| 14 | 37% | 54% | Median |
+| 15 | 15% | 17% |  |
 | 16 | 2% | 2% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
@@ -145,9 +145,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 9% | 100% |  |
-| 2 | 81% | 91% | Median |
-| 3 | 10% | 10% |  |
+| 1 | 10% | 100% |  |
+| 2 | 77% | 90% | Median |
+| 3 | 13% | 13% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -160,9 +160,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 18% | 100% |  |
-| 2 | 76% | 82% | Median |
-| 3 | 6% | 6% |  |
+| 1 | 19% | 100% |  |
+| 2 | 74% | 81% | Median |
+| 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
 
 ### Se Acabó La Fiesta (NI)
@@ -173,11 +173,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.1% | 100% | Last Result |
-| 1 | 89% | 98.9% | Median |
-| 2 | 10% | 10% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
+| 0 | 2% | 100% | Last Result |
+| 1 | 85% | 98% | Median |
+| 2 | 14% | 14% |  |
+| 3 | 0% | 0% |  |
 
 ### Movimiento Sumar–Izquierda Unida (GUE/NGL)
 
@@ -202,7 +201,7 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Partido Popular (EPP) | 0 | 23 | 0% | 21–24 | 21–25 | 21–25 | 20–26 |
-| Partido Socialista Obrero Español (S&D) | 0 | 18 | 0% | 17–20 | 17–20 | 17–20 | 16–21 |
+| Partido Socialista Obrero Español (S&D) | 0 | 18 | 0% | 17–20 | 17–20 | 17–21 | 16–21 |
 | Vox (PfE) | 0 | 14 | 0% | 12–15 | 12–15 | 12–15 | 11–16 |
 
 ### Partido Popular (EPP)
@@ -231,13 +230,13 @@
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0.1% | 100% |  |
-| 20 | 1.4% | 99.9% |  |
-| 21 | 10% | 98.5% |  |
-| 22 | 23% | 88% |  |
-| 23 | 42% | 65% | Median |
-| 24 | 18% | 23% |  |
+| 20 | 2% | 99.9% |  |
+| 21 | 10% | 98% |  |
+| 22 | 25% | 89% |  |
+| 23 | 40% | 63% | Median |
+| 24 | 17% | 23% |  |
 | 25 | 5% | 6% |  |
-| 26 | 0.7% | 0.7% |  |
+| 26 | 0.6% | 0.7% |  |
 | 27 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -265,9 +264,9 @@
 | 16 | 2% | 99.9% |  |
 | 17 | 13% | 98% |  |
 | 18 | 37% | 85% | Median |
-| 19 | 32% | 49% |  |
-| 20 | 14% | 17% |  |
-| 21 | 2% | 2% |  |
+| 19 | 32% | 48% |  |
+| 20 | 13% | 16% |  |
+| 21 | 2% | 3% |  |
 | 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |
 
@@ -288,11 +287,11 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.6% | 100% |  |
-| 12 | 10% | 99.4% |  |
-| 13 | 34% | 89% |  |
-| 14 | 39% | 55% | Median |
-| 15 | 15% | 16% |  |
+| 11 | 0.7% | 100% |  |
+| 12 | 10% | 99.3% |  |
+| 13 | 35% | 89% |  |
+| 14 | 37% | 54% | Median |
+| 15 | 15% | 17% |  |
 | 16 | 2% | 2% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
@@ -309,6 +308,6 @@
 ### Calculations
 
 + **Sample size:** 1007
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.79%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.14%
 
