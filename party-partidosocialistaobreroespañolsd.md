@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.8% | 24.4–28.8% | 23.7–29.4% | 23.1–29.8% | 21.9–30.8% |
-| [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 26.4% | N/A | N/A | N/A | N/A |
-| [1–4 June 2026](2026-06-04-CIS.html) | CIS | 31.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 27.0% | 24.6–30.7% | 23.9–31.6% | 23.3–32.1% | 22.1–32.8% |
+| [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 26.4% | 25.1–27.7% | 24.8–28.0% | 24.5–28.4% | 23.9–29.0% |
+| [1–4 June 2026](2026-06-04-CIS.html) | CIS | 31.5% | 30.6–32.5% | 30.3–32.7% | 30.1–33.0% | 29.6–33.4% |
 | [28 May–1 June 2026](2026-06-01-40dB.html) | 40dB <br> Prisa | 27.7% | 26.4–29.0% | 26.1–29.4% | 25.8–29.7% | 25.2–30.3% |
 | [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 25.9% | 24.3–27.6% | 23.9–28.1% | 23.5–28.5% | 22.8–29.3% |
 | [25–29 May 2026](2026-05-29-Invymark.html) | Invymark <br> laSexta | 27.8% | 26.2–29.5% | 25.8–30.0% | 25.4–30.5% | 24.6–31.3% |
@@ -21,14 +21,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 25.0% | 22.9–27.4% | 22.3–28.0% | 21.8–28.6% | 20.8–29.7% |
 | [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo | 27.7% | 25.9–29.5% | 25.4–30.0% | 25.0–30.5% | 24.2–31.4% |
 | [4–18 May 2026](2026-05-18-CIS.html) | CIS | 36.2% | 35.2–37.2% | 35.0–37.5% | 34.7–37.7% | 34.3–38.2% |
-| [24–29 April 2026](2026-04-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 28.4% | N/A | N/A | N/A | N/A |
-| [24–27 April 2026](2026-04-27-40dB.html) | 40dB <br> Prisa | 28.4% | N/A | N/A | N/A | N/A |
-| [22–26 April 2026](2026-04-26-AteneodelDato.html) | Ateneo del Dato | 27.5% | N/A | N/A | N/A | N/A |
-| [21–25 April 2026](2026-04-25-MoreinCommon.html) | More in Common | 28.0% | N/A | N/A | N/A | N/A |
+| [24–29 April 2026](2026-04-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 28.4% | 26.7–30.1% | 26.3–30.6% | 25.9–31.0% | 25.1–31.8% |
+| [24–27 April 2026](2026-04-27-40dB.html) | 40dB <br> Prisa | 28.4% | 27.1–29.7% | 26.8–30.1% | 26.5–30.4% | 25.9–31.1% |
+| [22–26 April 2026](2026-04-26-AteneodelDato.html) | Ateneo del Dato | 27.5% | 26.2–28.8% | 25.9–29.2% | 25.6–29.5% | 25.0–30.1% |
+| [21–25 April 2026](2026-04-25-MoreinCommon.html) | More in Common | 28.0% | 26.9–29.2% | 26.6–29.5% | 26.3–29.8% | 25.7–30.3% |
 | [15–18 April 2026](2026-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 27.0% | N/A | N/A | N/A | N/A |
 | [6–10 April 2026](2026-04-10-CIS.html) | CIS | 36.4% | N/A | N/A | N/A | N/A |
 | [6–9 April 2026](2026-04-09-NCReport.html) | NC Report <br> La Razón | 26.9% | N/A | N/A | N/A | N/A |
-| [23 March–8 April 2026](2026-04-08-Ipsos.html) | Ipsos <br> La Vanguardia | 28.4% | N/A | N/A | N/A | N/A |
+| [23 March–8 April 2026](2026-04-08-Ipsos.html) | Ipsos <br> La Vanguardia | 28.4% | 26.6–30.2% | 26.1–30.7% | 25.7–31.2% | 24.9–32.0% |
 | [16–31 March 2026](2026-03-31-SigmaDos.html) | Sigma Dos <br> El Mundo | 27.7% | N/A | N/A | N/A | N/A |
 | [24–26 March 2026](2026-03-26-TargetPoint.html) | Target Point <br> El Debate | 27.6% | N/A | N/A | N/A | N/A |
 | [24–25 March 2026](2026-03-25-40dB.html) | 40dB <br> Prisa | 28.6% | N/A | N/A | N/A | N/A |
@@ -232,18 +232,19 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.2% | 100% |  |
-| 21.5–22.5% | 1.0% | 99.7% |  |
-| 22.5–23.5% | 3% | 98.8% |  |
-| 23.5–24.5% | 8% | 96% |  |
-| 24.5–25.5% | 14% | 88% |  |
-| 25.5–26.5% | 20% | 74% |  |
-| 26.5–27.5% | 23% | 55% | Median |
-| 27.5–28.5% | 19% | 32% |  |
-| 28.5–29.5% | 10% | 14% |  |
-| 29.5–30.5% | 3% | 4% |  |
-| 30.5–31.5% | 0.7% | 0.8% |  |
-| 31.5–32.5% | 0.1% | 0.1% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 21.5–22.5% | 0.7% | 99.8% |  |
+| 22.5–23.5% | 2% | 99.0% |  |
+| 23.5–24.5% | 6% | 97% |  |
+| 24.5–25.5% | 12% | 90% |  |
+| 25.5–26.5% | 19% | 78% |  |
+| 26.5–27.5% | 21% | 59% | Median |
+| 27.5–28.5% | 16% | 37% |  |
+| 28.5–29.5% | 8% | 22% |  |
+| 29.5–30.5% | 3% | 14% |  |
+| 30.5–31.5% | 5% | 11% |  |
+| 31.5–32.5% | 5% | 5% |  |
+| 32.5–33.5% | 0.9% | 0.9% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -254,9 +255,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–20 | 16–21 | 16–21 | 15–22 |
-| [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [1–4 June 2026](2026-06-04-CIS.html) | CIS |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 19 | 17–21 | 16–23 | 16–23 | 15–23 |
+| [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
+| [1–4 June 2026](2026-06-04-CIS.html) | CIS | 23 | 21–23 | 21–23 | 21–23 | 21–24 |
 | [28 May–1 June 2026](2026-06-01-40dB.html) | 40dB <br> Prisa | 20 | 19–21 | 18–21 | 18–21 | 18–22 |
 | [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–18 | 17–19 | 16–19 | 16–21 |
 | [25–29 May 2026](2026-05-29-Invymark.html) | Invymark <br> laSexta | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
@@ -265,14 +266,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
 | [4–18 May 2026](2026-05-18-CIS.html) | CIS | 26 | 25–26 | 24–26 | 24–27 | 24–27 |
-| [24–29 April 2026](2026-04-29-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [24–27 April 2026](2026-04-27-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [22–26 April 2026](2026-04-26-AteneodelDato.html) | Ateneo del Dato |  |  |  |  |  |
-| [21–25 April 2026](2026-04-25-MoreinCommon.html) | More in Common |  |  |  |  |  |
+| [24–29 April 2026](2026-04-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 18–21 | 18–21 | 18–21 | 17–21 |
+| [24–27 April 2026](2026-04-27-40dB.html) | 40dB <br> Prisa | 20 | 19–21 | 19–21 | 19–22 | 18–22 |
+| [22–26 April 2026](2026-04-26-AteneodelDato.html) | Ateneo del Dato | 19 | 18–20 | 18–20 | 18–21 | 17–21 |
+| [21–25 April 2026](2026-04-25-MoreinCommon.html) | More in Common | 20 | 19–20 | 19–21 | 18–21 | 18–21 |
 | [15–18 April 2026](2026-04-18-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [6–10 April 2026](2026-04-10-CIS.html) | CIS |  |  |  |  |  |
 | [6–9 April 2026](2026-04-09-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [23 March–8 April 2026](2026-04-08-Ipsos.html) | Ipsos <br> La Vanguardia |  |  |  |  |  |
+| [23 March–8 April 2026](2026-04-08-Ipsos.html) | Ipsos <br> La Vanguardia | 19 | 18–22 | 18–22 | 17–22 | 17–22 |
 | [16–31 March 2026](2026-03-31-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [24–26 March 2026](2026-03-26-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [24–25 March 2026](2026-03-25-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
@@ -470,15 +471,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.3% | 100% |  |
-| 15 | 1.3% | 99.7% |  |
-| 16 | 8% | 98% |  |
-| 17 | 12% | 91% |  |
-| 18 | 30% | 78% | Median |
-| 19 | 22% | 49% |  |
-| 20 | 20% | 27% |  |
-| 21 | 6% | 7% |  |
-| 22 | 0.5% | 0.5% |  |
-| 23 | 0% | 0% |  |
+| 14 | 0.2% | 100% |  |
+| 15 | 1.0% | 99.8% |  |
+| 16 | 6% | 98.7% |  |
+| 17 | 11% | 93% |  |
+| 18 | 28% | 82% |  |
+| 19 | 21% | 54% | Median |
+| 20 | 16% | 32% |  |
+| 21 | 7% | 16% |  |
+| 22 | 2% | 9% |  |
+| 23 | 8% | 8% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 
