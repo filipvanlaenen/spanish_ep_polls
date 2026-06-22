@@ -232,14 +232,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–4 June 2026](2026-06-04-CIS.html) | CIS | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [28 May–1 June 2026](2026-06-01-40dB.html) | 40dB <br> Prisa | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [25–29 May 2026](2026-05-29-Invymark.html) | Invymark <br> laSexta | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [27–28 May 2026](2026-05-28-TargetPoint.html) | Target Point <br> El Debate | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
+| [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [4–18 May 2026](2026-05-18-CIS.html) | CIS | 2 | 2 | 2–3 | 2–3 | 1–3 |
-| [24–29 April 2026](2026-04-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [24–29 April 2026](2026-04-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [24–27 April 2026](2026-04-27-40dB.html) | 40dB <br> Prisa | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [22–26 April 2026](2026-04-26-AteneodelDato.html) | Ateneo del Dato | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [21–25 April 2026](2026-04-25-MoreinCommon.html) | More in Common | 3 | 3 | 2–4 | 2–4 | 2–4 |
@@ -431,10 +431,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 7% | 100% |  |
-| 2 | 62% | 93% | Median |
-| 3 | 30% | 31% |  |
-| 4 | 1.4% | 1.4% |  |
+| 1 | 6% | 100% |  |
+| 2 | 66% | 94% | Median |
+| 3 | 27% | 28% |  |
+| 4 | 1.1% | 1.2% |  |
 | 5 | 0% | 0% |  |
 
 

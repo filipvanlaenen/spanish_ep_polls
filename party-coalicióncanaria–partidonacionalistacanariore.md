@@ -231,7 +231,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0–1 |
 | [25–29 May 2026](2026-05-29-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [27–28 May 2026](2026-05-28-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
-| [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
+| [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0–1 |
 | [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0 | 0 | 0–1 |
 | [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [4–18 May 2026](2026-05-18-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
@@ -426,8 +426,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.4% | 100% | Last Result, Median |
-| 1 | 0.6% | 0.6% |  |
+| 0 | 99.2% | 100% | Last Result, Median |
+| 1 | 0.8% | 0.8% |  |
 | 2 | 0% | 0% |  |
 
 

@@ -226,11 +226,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 1 | 1 | 0–1 |
 | [1–4 June 2026](2026-06-04-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1 |
 | [28 May–1 June 2026](2026-06-01-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [25–29 May 2026](2026-05-29-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [27–28 May 2026](2026-05-28-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -428,9 +428,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% | Last Result |
-| 1 | 78% | 90% | Median |
-| 2 | 13% | 13% |  |
+| 0 | 11% | 100% | Last Result |
+| 1 | 77% | 89% | Median |
+| 2 | 12% | 12% |  |
 | 3 | 0% | 0% |  |
 
 

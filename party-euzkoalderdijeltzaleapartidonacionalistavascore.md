@@ -236,7 +236,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [4–18 May 2026](2026-05-18-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
-| [24–29 April 2026](2026-04-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0 | 0–1 | 0–1 |
+| [24–29 April 2026](2026-04-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–27 April 2026](2026-04-27-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [22–26 April 2026](2026-04-26-AteneodelDato.html) | Ateneo del Dato |  |  |  |  |  |
 | [21–25 April 2026](2026-04-25-MoreinCommon.html) | More in Common |  |  |  |  |  |
@@ -427,8 +427,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Last Result, Median |
-| 1 | 13% | 13% |  |
+| 0 | 86% | 100% | Last Result, Median |
+| 1 | 14% | 14% |  |
 | 2 | 0% | 0% |  |
 
 
