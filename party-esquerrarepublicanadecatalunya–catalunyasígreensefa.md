@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.5% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.7–2.5% | 1.5–2.7% | 1.5–2.8% | 1.3–3.2% |
+| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 0.0% | N/A | N/A | N/A | N/A |
+| [22–26 June 2026](2026-06-26-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 June 2026](2026-06-18-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
 | [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [1–4 June 2026](2026-06-04-CIS.html) | CIS | 1.9% | 1.6–2.2% | 1.6–2.3% | 1.5–2.4% | 1.4–2.5% |
@@ -212,10 +214,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 9% | 100% |  |
-| 1.5–2.5% | 79% | 91% | Median |
-| 2.5–3.5% | 11% | 12% |  |
-| 3.5–4.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 87% | 95% | Median |
+| 2.5–3.5% | 8% | 8% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -227,7 +229,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 0–2 |
+| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common |  |  |  |  |  |
+| [22–26 June 2026](2026-06-26-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [17–18 June 2026](2026-06-18-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 1 | 1 | 0–1 |
 | [1–4 June 2026](2026-06-04-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1 |
@@ -430,9 +434,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% | Last Result |
-| 1 | 77% | 89% | Median |
-| 2 | 12% | 12% |  |
+| 0 | 1.4% | 100% | Last Result |
+| 1 | 95% | 98.6% | Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 
