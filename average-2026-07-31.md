@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0–1 | 2–4% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 1–4 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0–1 | 2–4% <br> 1–3 | N/A <br> N/A | 2–3% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 24–32% <br> 17–23 | N/A <br> N/A | 0–2% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | 26–36% <br> 19–25 | 15–20% <br> 11–14 | 1–2% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0–2 | 0% <br> 0 |
-| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 24–28% <br> 17–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 29–33% <br> 21–24 | 16–19% <br> 11–13 | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 1–2 | N/A <br> N/A |
+| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 24–28% <br> 17–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 29–33% <br> 21–24 | 16–19% <br> 11–13 | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 1–2 | N/A <br> N/A |
 | [22–26 June 2026](2026-06-26-Invymark.html) | Invymark <br> laSexta | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 25–30% <br> 17–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 31–36% <br> 21–25 | 15–20% <br> 10–14 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0–1 | N/A <br> N/A |
 | [17–18 June 2026](2026-06-18-TargetPoint.html) | Target Point <br> El Debate | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 23–28% <br> 16–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 29–35% <br> 21–25 | 16–21% <br> 11–14 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 1–2 | N/A <br> N/A |
 | [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 3–4% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 2–4% <br> 1–2 | N/A <br> N/A | 1–3% <br> 1 | N/A <br> N/A | N/A <br> N/A | 24–28% <br> 17–20 | N/A <br> N/A | 1% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | 31–35% <br> 22–25 | 16–19% <br> 11–13 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
@@ -417,7 +417,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.6% | 100% | Last Result |
-| 1 | 35% | 99.4% |  |
+| 1 | 34% | 99.4% |  |
 | 2 | 61% | 65% | Median |
 | 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
@@ -543,7 +543,7 @@ Only polls for which at least the sample size has been published are included in
 | 14 | 0% | 100% |  |
 | 15 | 0.1% | 100% |  |
 | 16 | 2% | 99.9% |  |
-| 17 | 13% | 98% |  |
+| 17 | 14% | 98% |  |
 | 18 | 28% | 85% |  |
 | 19 | 29% | 57% | Median |
 | 20 | 11% | 28% |  |
@@ -626,9 +626,9 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 7% | 92% |  |
 | 21 | 5% | 85% |  |
 | 22 | 24% | 81% |  |
-| 23 | 32% | 56% | Median |
+| 23 | 33% | 56% | Median |
 | 24 | 15% | 24% |  |
-| 25 | 7% | 9% |  |
+| 25 | 8% | 9% |  |
 | 26 | 1.4% | 1.4% |  |
 | 27 | 0% | 0% |  |
 
@@ -652,8 +652,8 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 100% |  |
 | 10 | 2% | 100% |  |
 | 11 | 27% | 98% |  |
-| 12 | 48% | 71% | Median |
-| 13 | 20% | 23% |  |
+| 12 | 49% | 71% | Median |
+| 13 | 19% | 22% |  |
 | 14 | 3% | 3% |  |
 | 15 | 0.2% | 0.2% |  |
 | 16 | 0% | 0% |  |
@@ -746,9 +746,9 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 7% | 92% |  |
 | 21 | 5% | 85% |  |
 | 22 | 24% | 81% |  |
-| 23 | 32% | 56% | Median |
+| 23 | 33% | 56% | Median |
 | 24 | 15% | 24% |  |
-| 25 | 7% | 9% |  |
+| 25 | 8% | 9% |  |
 | 26 | 1.4% | 1.4% |  |
 | 27 | 0% | 0% |  |
 
@@ -775,7 +775,7 @@ Only polls for which at least the sample size has been published are included in
 | 14 | 0% | 100% |  |
 | 15 | 0.1% | 100% |  |
 | 16 | 2% | 99.9% |  |
-| 17 | 13% | 98% |  |
+| 17 | 14% | 98% |  |
 | 18 | 28% | 85% |  |
 | 19 | 29% | 57% | Median |
 | 20 | 11% | 28% |  |
@@ -803,8 +803,8 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 100% |  |
 | 10 | 2% | 100% |  |
 | 11 | 27% | 98% |  |
-| 12 | 48% | 71% | Median |
-| 13 | 20% | 23% |  |
+| 12 | 49% | 71% | Median |
+| 13 | 19% | 22% |  |
 | 14 | 3% | 3% |  |
 | 15 | 0.2% | 0.2% |  |
 | 16 | 0% | 0% |  |
@@ -822,7 +822,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 39% | 81% | Median |
 | 5 | 35% | 42% |  |
 | 6 | 7% | 7% |  |
-| 7 | 0.2% | 0.2% |  |
+| 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
 ### Ahora Repúblicas (Greens/EFA) – Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA) – Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA) – Coalició Compromís (Greens/EFA) – Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA) – Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA) – Primavera Europea (Greens/EFA)
@@ -873,6 +873,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 7
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 12,582,912
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 14,680,064
 + **Error estimate:** 1.17%

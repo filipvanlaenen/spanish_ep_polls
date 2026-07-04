@@ -231,7 +231,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
-| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [22–26 June 2026](2026-06-26-Invymark.html) | Invymark <br> laSexta | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [17–18 June 2026](2026-06-18-TargetPoint.html) | Target Point <br> El Debate | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2 | 2–3 | 2–3 | 1–3 |
@@ -436,7 +436,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.6% | 100% | Last Result |
-| 1 | 35% | 99.4% |  |
+| 1 | 34% | 99.4% |  |
 | 2 | 61% | 65% | Median |
 | 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
