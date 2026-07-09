@@ -10,27 +10,27 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.7% | 24.3–27.2% | 23.8–27.7% | 23.5–28.1% | 22.8–28.8% |
+| N/A | [Poll Average](average.html) | 26.6% | 24.6–30.6% | 24.0–31.6% | 23.5–32.1% | 22.6–32.8% |
 | [2–4 July 2026](2026-07-04-SocioMétrica.html) | SocioMétrica <br> El Español | 25.7% | 24.2–27.2% | 23.8–27.7% | 23.5–28.1% | 22.8–28.8% |
-| [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 25.0% | N/A | N/A | N/A | N/A |
-| [16–29 June 2026](2026-06-29-Ipsos.html) | Ipsos <br> La Vanguardia | 27.1% | N/A | N/A | N/A | N/A |
-| [26–29 June 2026](2026-06-29-40dB.html) | 40dB <br> Prisa | 28.0% | N/A | N/A | N/A | N/A |
-| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 25.7% | N/A | N/A | N/A | N/A |
-| [22–26 June 2026](2026-06-26-Invymark.html) | Invymark <br> laSexta | 27.3% | N/A | N/A | N/A | N/A |
-| [17–18 June 2026](2026-06-18-TargetPoint.html) | Target Point <br> El Debate | 25.6% | N/A | N/A | N/A | N/A |
-| [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 26.4% | N/A | N/A | N/A | N/A |
-| [1–4 June 2026](2026-06-04-CIS.html) | CIS | 31.5% | N/A | N/A | N/A | N/A |
+| [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
+| [16–29 June 2026](2026-06-29-Ipsos.html) | Ipsos <br> La Vanguardia | 27.1% | 25.6–28.7% | 25.1–29.2% | 24.8–29.6% | 24.0–30.4% |
+| [26–29 June 2026](2026-06-29-40dB.html) | 40dB <br> Prisa | 28.0% | 26.7–29.3% | 26.4–29.7% | 26.1–30.0% | 25.5–30.7% |
+| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 25.7% | 24.5–26.9% | 24.2–27.2% | 23.9–27.5% | 23.4–28.1% |
+| [22–26 June 2026](2026-06-26-Invymark.html) | Invymark <br> laSexta | 27.3% | 25.6–29.1% | 25.1–29.6% | 24.7–30.0% | 23.9–30.8% |
+| [17–18 June 2026](2026-06-18-TargetPoint.html) | Target Point <br> El Debate | 25.6% | 23.9–27.5% | 23.5–28.0% | 23.0–28.4% | 22.3–29.3% |
+| [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 26.4% | 25.1–27.7% | 24.8–28.0% | 24.5–28.4% | 23.9–29.0% |
+| [1–4 June 2026](2026-06-04-CIS.html) | CIS | 31.5% | 30.6–32.5% | 30.3–32.7% | 30.1–33.0% | 29.6–33.4% |
 | [28 May–1 June 2026](2026-06-01-40dB.html) | 40dB <br> Prisa | 27.7% | N/A | N/A | N/A | N/A |
-| [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 25.9% | N/A | N/A | N/A | N/A |
+| [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 25.9% | 24.3–27.6% | 23.9–28.1% | 23.5–28.5% | 22.8–29.3% |
 | [25–29 May 2026](2026-05-29-Invymark.html) | Invymark <br> laSexta | 27.8% | N/A | N/A | N/A | N/A |
 | [27–28 May 2026](2026-05-28-TargetPoint.html) | Target Point <br> El Debate | 25.4% | N/A | N/A | N/A | N/A |
-| [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 26.8% | N/A | N/A | N/A | N/A |
-| [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 25.0% | N/A | N/A | N/A | N/A |
-| [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo | 27.7% | N/A | N/A | N/A | N/A |
+| [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 26.8% | 25.1–28.7% | 24.6–29.2% | 24.2–29.6% | 23.4–30.5% |
+| [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 25.0% | 22.9–27.4% | 22.3–28.0% | 21.8–28.6% | 20.8–29.7% |
+| [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo | 27.7% | 25.9–29.5% | 25.4–30.0% | 25.0–30.5% | 24.2–31.4% |
 | [4–18 May 2026](2026-05-18-CIS.html) | CIS | 36.2% | N/A | N/A | N/A | N/A |
 | [24–29 April 2026](2026-04-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 28.4% | N/A | N/A | N/A | N/A |
 | [24–27 April 2026](2026-04-27-40dB.html) | 40dB <br> Prisa | 28.4% | N/A | N/A | N/A | N/A |
-| [22–26 April 2026](2026-04-26-AteneodelDato.html) | Ateneo del Dato | 27.5% | N/A | N/A | N/A | N/A |
+| [22–26 April 2026](2026-04-26-AteneodelDato.html) | Ateneo del Dato | 27.5% | 26.2–28.8% | 25.9–29.2% | 25.6–29.5% | 25.0–30.1% |
 | [21–25 April 2026](2026-04-25-MoreinCommon.html) | More in Common | 28.0% | N/A | N/A | N/A | N/A |
 | [15–18 April 2026](2026-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 27.0% | N/A | N/A | N/A | N/A |
 | [6–10 April 2026](2026-04-10-CIS.html) | CIS | 36.4% | N/A | N/A | N/A | N/A |
@@ -238,17 +238,20 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.2% | 100% |  |
-| 22.5–23.5% | 3% | 99.8% |  |
-| 23.5–24.5% | 13% | 97% |  |
-| 24.5–25.5% | 28% | 85% |  |
-| 25.5–26.5% | 32% | 56% | Median |
-| 26.5–27.5% | 18% | 24% |  |
-| 27.5–28.5% | 5% | 6% |  |
-| 28.5–29.5% | 0.8% | 0.9% |  |
-| 29.5–30.5% | 0.1% | 0.1% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 20.5–21.5% | 0.1% | 100% |  |
+| 21.5–22.5% | 0.4% | 99.9% |  |
+| 22.5–23.5% | 2% | 99.5% |  |
+| 23.5–24.5% | 7% | 97% |  |
+| 24.5–25.5% | 16% | 90% |  |
+| 25.5–26.5% | 23% | 74% |  |
+| 26.5–27.5% | 20% | 51% | Median |
+| 27.5–28.5% | 13% | 31% |  |
+| 28.5–29.5% | 6% | 18% |  |
+| 29.5–30.5% | 2% | 13% |  |
+| 30.5–31.5% | 5% | 10% |  |
+| 31.5–32.5% | 4% | 5% |  |
+| 32.5–33.5% | 0.8% | 0.9% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -259,27 +262,27 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–19 | 16–19 | 16–19 | 16–19 |
-| [2–4 July 2026](2026-07-04-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–19 | 16–19 | 16–19 | 16–19 |
-| [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [16–29 June 2026](2026-06-29-Ipsos.html) | Ipsos <br> La Vanguardia |  |  |  |  |  |
-| [26–29 June 2026](2026-06-29-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common |  |  |  |  |  |
-| [22–26 June 2026](2026-06-26-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [17–18 June 2026](2026-06-18-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
-| [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [1–4 June 2026](2026-06-04-CIS.html) | CIS |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 18 | 17–21 | 16–22 | 16–23 | 15–23 |
+| [2–4 July 2026](2026-07-04-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 16–18 | 16–19 | 16–19 | 16–19 |
+| [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 17 | 15–18 | 15–18 | 15–19 | 15–20 |
+| [16–29 June 2026](2026-06-29-Ipsos.html) | Ipsos <br> La Vanguardia | 18 | 17–19 | 17–20 | 17–20 | 17–20 |
+| [26–29 June 2026](2026-06-29-40dB.html) | 40dB <br> Prisa | 20 | 19–21 | 19–21 | 18–21 | 18–22 |
+| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 18 | 17–19 | 17–19 | 17–20 | 17–20 |
+| [22–26 June 2026](2026-06-26-Invymark.html) | Invymark <br> laSexta | 19 | 18–20 | 17–21 | 17–21 | 17–21 |
+| [17–18 June 2026](2026-06-18-TargetPoint.html) | Target Point <br> El Debate | 18 | 17–19 | 16–20 | 16–20 | 16–21 |
+| [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 17–19 | 17–19 | 17–19 | 17–20 |
+| [1–4 June 2026](2026-06-04-CIS.html) | CIS | 22 | 21–23 | 21–23 | 21–23 | 21–24 |
 | [28 May–1 June 2026](2026-06-01-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–19 | 16–19 | 16–19 | 15–19 |
 | [25–29 May 2026](2026-05-29-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [27–28 May 2026](2026-05-28-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
-| [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 18 | 16–19 | 16–19 | 16–19 | 16–20 |
+| [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 17 | 15–18 | 15–19 | 14–20 | 14–21 |
+| [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
 | [4–18 May 2026](2026-05-18-CIS.html) | CIS |  |  |  |  |  |
 | [24–29 April 2026](2026-04-29-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [24–27 April 2026](2026-04-27-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [22–26 April 2026](2026-04-26-AteneodelDato.html) | Ateneo del Dato |  |  |  |  |  |
+| [22–26 April 2026](2026-04-26-AteneodelDato.html) | Ateneo del Dato | 19 | 18–20 | 18–20 | 18–21 | 17–21 |
 | [21–25 April 2026](2026-04-25-MoreinCommon.html) | More in Common |  |  |  |  |  |
 | [15–18 April 2026](2026-04-18-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [6–10 April 2026](2026-04-10-CIS.html) | CIS |  |  |  |  |  |
@@ -483,12 +486,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.3% | 100% |  |
-| 16 | 36% | 99.7% |  |
-| 17 | 33% | 64% | Median |
-| 18 | 11% | 31% |  |
-| 19 | 20% | 20% |  |
-| 20 | 0.2% | 0.2% |  |
-| 21 | 0% | 0% |  |
+| 15 | 1.3% | 100% |  |
+| 16 | 5% | 98.6% |  |
+| 17 | 20% | 93% |  |
+| 18 | 31% | 74% | Median |
+| 19 | 20% | 43% |  |
+| 20 | 9% | 23% |  |
+| 21 | 3% | 13% |  |
+| 22 | 6% | 10% |  |
+| 23 | 4% | 4% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 

@@ -10,27 +10,27 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.8–2.8% | 1.7–2.9% | 1.5–3.1% | 1.4–3.4% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.6–2.6% | 1.5–2.8% | 1.3–2.9% | 1.1–3.3% |
 | [2–4 July 2026](2026-07-04-SocioMétrica.html) | SocioMétrica <br> El Español | 2.2% | 1.8–2.8% | 1.6–2.9% | 1.5–3.1% | 1.4–3.4% |
 | [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
-| [16–29 June 2026](2026-06-29-Ipsos.html) | Ipsos <br> La Vanguardia | 1.9% | N/A | N/A | N/A | N/A |
-| [26–29 June 2026](2026-06-29-40dB.html) | 40dB <br> Prisa | 2.1% | N/A | N/A | N/A | N/A |
-| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 2.2% | N/A | N/A | N/A | N/A |
-| [22–26 June 2026](2026-06-26-Invymark.html) | Invymark <br> laSexta | 1.7% | N/A | N/A | N/A | N/A |
-| [17–18 June 2026](2026-06-18-TargetPoint.html) | Target Point <br> El Debate | 2.2% | N/A | N/A | N/A | N/A |
+| [16–29 June 2026](2026-06-29-Ipsos.html) | Ipsos <br> La Vanguardia | 1.9% | 1.5–2.5% | 1.4–2.7% | 1.3–2.8% | 1.1–3.1% |
+| [26–29 June 2026](2026-06-29-40dB.html) | 40dB <br> Prisa | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.6–2.8% | 1.4–3.1% |
+| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 2.2% | 1.8–2.7% | 1.8–2.8% | 1.7–2.9% | 1.5–3.1% |
+| [22–26 June 2026](2026-06-26-Invymark.html) | Invymark <br> laSexta | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.0% |
+| [17–18 June 2026](2026-06-18-TargetPoint.html) | Target Point <br> El Debate | 2.2% | 1.7–2.9% | 1.5–3.1% | 1.4–3.2% | 1.2–3.6% |
 | [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
-| [1–4 June 2026](2026-06-04-CIS.html) | CIS | 1.9% | N/A | N/A | N/A | N/A |
+| [1–4 June 2026](2026-06-04-CIS.html) | CIS | 1.9% | 1.6–2.2% | 1.6–2.3% | 1.5–2.4% | 1.4–2.5% |
 | [28 May–1 June 2026](2026-06-01-40dB.html) | 40dB <br> Prisa | 2.1% | N/A | N/A | N/A | N/A |
-| [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 2.5% | N/A | N/A | N/A | N/A |
+| [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.8–3.6% | 1.5–3.9% |
 | [25–29 May 2026](2026-05-29-Invymark.html) | Invymark <br> laSexta | 1.7% | N/A | N/A | N/A | N/A |
 | [27–28 May 2026](2026-05-28-TargetPoint.html) | Target Point <br> El Debate | 2.1% | N/A | N/A | N/A | N/A |
-| [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 1.4% | N/A | N/A | N/A | N/A |
+| [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.6% |
 | [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
-| [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo | 1.1% | N/A | N/A | N/A | N/A |
+| [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [4–18 May 2026](2026-05-18-CIS.html) | CIS | 2.4% | N/A | N/A | N/A | N/A |
 | [24–29 April 2026](2026-04-29-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
 | [24–27 April 2026](2026-04-27-40dB.html) | 40dB <br> Prisa | 2.3% | N/A | N/A | N/A | N/A |
-| [22–26 April 2026](2026-04-26-AteneodelDato.html) | Ateneo del Dato | 2.6% | N/A | N/A | N/A | N/A |
+| [22–26 April 2026](2026-04-26-AteneodelDato.html) | Ateneo del Dato | 2.6% | 2.2–3.1% | 2.1–3.3% | 2.0–3.4% | 1.8–3.7% |
 | [21–25 April 2026](2026-04-25-MoreinCommon.html) | More in Common | 1.8% | N/A | N/A | N/A | N/A |
 | [15–18 April 2026](2026-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 2.6% | N/A | N/A | N/A | N/A |
 | [6–10 April 2026](2026-04-10-CIS.html) | CIS | 1.7% | N/A | N/A | N/A | N/A |
@@ -218,10 +218,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 75% | 97% | Median |
-| 2.5–3.5% | 22% | 22% |  |
-| 3.5–4.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 8% | 100% |  |
+| 1.5–2.5% | 80% | 92% | Median |
+| 2.5–3.5% | 12% | 12% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -233,27 +233,27 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [2–4 July 2026](2026-07-04-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [16–29 June 2026](2026-06-29-Ipsos.html) | Ipsos <br> La Vanguardia |  |  |  |  |  |
-| [26–29 June 2026](2026-06-29-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common |  |  |  |  |  |
-| [22–26 June 2026](2026-06-26-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [17–18 June 2026](2026-06-18-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
+| [16–29 June 2026](2026-06-29-Ipsos.html) | Ipsos <br> La Vanguardia | 1 | 1 | 1 | 1 | 0–1 |
+| [26–29 June 2026](2026-06-29-40dB.html) | 40dB <br> Prisa | 1 | 1 | 1 | 1–2 | 1–2 |
+| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [22–26 June 2026](2026-06-26-Invymark.html) | Invymark <br> laSexta | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [17–18 June 2026](2026-06-18-TargetPoint.html) | Target Point <br> El Debate | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [1–4 June 2026](2026-06-04-CIS.html) | CIS |  |  |  |  |  |
+| [1–4 June 2026](2026-06-04-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1 |
 | [28 May–1 June 2026](2026-06-01-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [28–30 May 2026](2026-05-30-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [25–29 May 2026](2026-05-29-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [27–28 May 2026](2026-05-28-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
-| [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
+| [26–28 May 2026](2026-05-28-GAD3.html) | GAD3 <br> ABC | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25–27 May 2026](2026-05-27-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [20–22 May 2026](2026-05-22-DYM.html) | DYM <br> Henneo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–18 May 2026](2026-05-18-CIS.html) | CIS |  |  |  |  |  |
 | [24–29 April 2026](2026-04-29-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [24–27 April 2026](2026-04-27-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [22–26 April 2026](2026-04-26-AteneodelDato.html) | Ateneo del Dato |  |  |  |  |  |
+| [22–26 April 2026](2026-04-26-AteneodelDato.html) | Ateneo del Dato | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–25 April 2026](2026-04-25-MoreinCommon.html) | More in Common |  |  |  |  |  |
 | [15–18 April 2026](2026-04-18-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [6–10 April 2026](2026-04-10-CIS.html) | CIS |  |  |  |  |  |
@@ -442,9 +442,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 80% | 99.8% | Median |
-| 2 | 20% | 20% |  |
+| 0 | 3% | 100% | Last Result |
+| 1 | 92% | 97% | Median |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 
