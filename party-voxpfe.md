@@ -254,9 +254,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–13 | 10–14 | 10–14 | 10–15 |
-| [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
-| [30 June–6 July 2026](2026-07-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 12 | 11–13 | 11–13 | 11–14 | 10–15 |
+| N/A | [Poll Average](average.html) | 12 | 11–13 | 10–14 | 10–14 | 10–14 |
+| [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
+| [30 June–6 July 2026](2026-07-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [1–6 July 2026](2026-07-06-CIS.html) | CIS | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
 | [2–4 July 2026](2026-07-04-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–12 | 10–13 | 10–13 | 10–14 |
 | [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 12 | 11–14 | 11–14 | 11–14 | 10–14 |
@@ -477,11 +477,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0.1% | 100% |  |
 | 10 | 5% | 99.9% |  |
-| 11 | 27% | 95% |  |
-| 12 | 42% | 68% | Median |
-| 13 | 20% | 26% |  |
-| 14 | 5% | 6% |  |
-| 15 | 0.6% | 0.6% |  |
+| 11 | 25% | 94% |  |
+| 12 | 42% | 69% | Median |
+| 13 | 20% | 27% |  |
+| 14 | 6% | 6% |  |
+| 15 | 0.5% | 0.5% |  |
 | 16 | 0% | 0% |  |
 
 

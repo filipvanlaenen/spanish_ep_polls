@@ -237,8 +237,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [30 June–6 July 2026](2026-07-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| [30 June–6 July 2026](2026-07-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–6 July 2026](2026-07-06-CIS.html) | CIS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–4 July 2026](2026-07-04-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
@@ -448,9 +448,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% | Last Result |
-| 1 | 84% | 91% | Median |
-| 2 | 7% | 7% |  |
+| 0 | 8% | 100% | Last Result |
+| 1 | 84% | 92% | Median |
+| 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 
 
