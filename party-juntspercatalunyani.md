@@ -10,12 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.9% | 0.6–2.1% | 0.5–2.2% | 0.4–2.6% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.7–1.9% | 0.6–2.2% | 0.6–2.4% | 0.5–2.9% |
+| [15–20 July 2026](2026-07-20-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [15–17 July 2026](2026-07-17-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [30 June–6 July 2026](2026-07-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [1–6 July 2026](2026-07-06-CIS.html) | CIS | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.5–1.0% | 0.4–1.1% |
 | [2–4 July 2026](2026-07-04-SocioMétrica.html) | SocioMétrica <br> El Español | 1.4% | 1.1–1.9% | 1.0–2.1% | 0.9–2.2% | 0.8–2.4% |
-| [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
+| [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 1.6% | 1.1–2.5% | 1.0–2.7% | 0.9–2.9% | 0.7–3.4% |
 | [16–29 June 2026](2026-06-29-Ipsos.html) | Ipsos <br> La Vanguardia | 0.9% | 0.7–1.4% | 0.6–1.5% | 0.5–1.6% | 0.4–1.8% |
 | [26–29 June 2026](2026-06-29-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 0.0% | N/A | N/A | N/A | N/A |
@@ -220,11 +222,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 74% | 97% | Median |
-| 1.5–2.5% | 23% | 23% |  |
-| 2.5–3.5% | 0.7% | 0.7% |  |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 70% | 98% | Median |
+| 1.5–2.5% | 26% | 27% |  |
+| 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -236,11 +239,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [15–20 July 2026](2026-07-20-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [15–17 July 2026](2026-07-17-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 June–6 July 2026](2026-07-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [1–6 July 2026](2026-07-06-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [2–4 July 2026](2026-07-04-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [16–29 June 2026](2026-06-29-Ipsos.html) | Ipsos <br> La Vanguardia | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [26–29 June 2026](2026-06-29-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common |  |  |  |  |  |
@@ -447,9 +452,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 72% | 100% | Last Result, Median |
-| 1 | 28% | 28% |  |
-| 2 | 0.2% | 0.2% |  |
+| 0 | 66% | 100% | Last Result, Median |
+| 1 | 34% | 34% |  |
+| 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
 

@@ -10,12 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.8% |
+| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.5% | 0.0–0.6% | 0.0–0.7% | 0.0–0.9% |
+| [15–20 July 2026](2026-07-20-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [15–17 July 2026](2026-07-17-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 0.0% | N/A | N/A | N/A | N/A |
 | [30 June–6 July 2026](2026-07-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [1–6 July 2026](2026-07-06-CIS.html) | CIS | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.1–0.5% |
 | [2–4 July 2026](2026-07-04-SocioMétrica.html) | SocioMétrica <br> El Español | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.0–0.8% |
-| [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
+| [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 0.2% | 0.1–0.6% | 0.0–0.8% | 0.0–0.9% | 0.0–1.2% |
 | [16–29 June 2026](2026-06-29-Ipsos.html) | Ipsos <br> La Vanguardia | 0.0% | 0.0–0.2% | 0.0–0.2% | 0.0–0.3% | 0.0–0.4% |
 | [26–29 June 2026](2026-06-29-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 0.0% | N/A | N/A | N/A | N/A |
@@ -220,8 +222,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 96% | 100% | Last Result, Median |
-| 0.5–1.5% | 4% | 4% |  |
+| 0.0–0.5% | 94% | 100% | Last Result, Median |
+| 0.5–1.5% | 6% | 6% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -234,6 +236,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15–20 July 2026](2026-07-20-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [15–17 July 2026](2026-07-17-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
 | [30 June–6 July 2026](2026-07-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0 | 0 | 0 | 0 | 0 |
 | [1–6 July 2026](2026-07-06-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
@@ -445,6 +449,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
+| 2 | 0% | 0% |  |
 
 

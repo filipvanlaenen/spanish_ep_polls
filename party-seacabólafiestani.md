@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.7% | 1.4–2.9% | 1.2–3.0% | 1.0–3.3% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.3–2.8% | 1.0–2.9% | 0.8–3.1% | 0.6–3.4% |
+| [15–20 July 2026](2026-07-20-DYM.html) | DYM <br> Henneo | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [15–17 July 2026](2026-07-17-TargetPoint.html) | Target Point <br> El Debate | 2.4% | 1.9–3.1% | 1.7–3.4% | 1.6–3.5% | 1.4–3.9% |
 | [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [30 June–6 July 2026](2026-07-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [1–6 July 2026](2026-07-06-CIS.html) | CIS | 2.6% | 2.3–3.0% | 2.2–3.1% | 2.1–3.2% | 2.0–3.3% |
@@ -18,7 +20,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [16–29 June 2026](2026-06-29-Ipsos.html) | Ipsos <br> La Vanguardia | 1.9% | 1.5–2.5% | 1.4–2.7% | 1.3–2.8% | 1.1–3.1% |
 | [26–29 June 2026](2026-06-29-40dB.html) | 40dB <br> Prisa | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.6–2.8% | 1.4–3.1% |
-| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 2.2% | 1.8–2.7% | 1.8–2.8% | 1.7–2.9% | 1.5–3.1% |
+| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 2.2% | 1.8–2.8% | 1.7–2.9% | 1.6–3.1% | 1.4–3.4% |
 | [22–26 June 2026](2026-06-26-Invymark.html) | Invymark <br> laSexta | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.0% |
 | [17–18 June 2026](2026-06-18-TargetPoint.html) | Target Point <br> El Debate | 2.2% | 1.7–2.9% | 1.5–3.1% | 1.4–3.2% | 1.2–3.6% |
 | [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
@@ -220,11 +222,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 70% | 89% | Median |
+| 0.0–0.5% | 0.3% | 100% | Last Result |
+| 0.5–1.5% | 19% | 99.7% |  |
+| 1.5–2.5% | 62% | 81% | Median |
 | 2.5–3.5% | 19% | 19% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0.3% | 0.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -236,7 +238,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [15–20 July 2026](2026-07-20-DYM.html) | DYM <br> Henneo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [15–17 July 2026](2026-07-17-TargetPoint.html) | Target Point <br> El Debate | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [30 June–6 July 2026](2026-07-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–6 July 2026](2026-07-06-CIS.html) | CIS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -244,7 +248,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [16–29 June 2026](2026-06-29-Ipsos.html) | Ipsos <br> La Vanguardia | 1 | 1 | 1 | 1 | 0–1 |
 | [26–29 June 2026](2026-06-29-40dB.html) | 40dB <br> Prisa | 1 | 1 | 1 | 1–2 | 1–2 |
-| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–26 June 2026](2026-06-26-Invymark.html) | Invymark <br> laSexta | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [17–18 June 2026](2026-06-18-TargetPoint.html) | Target Point <br> El Debate | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
@@ -448,9 +452,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 84% | 92% | Median |
-| 2 | 8% | 8% |  |
+| 0 | 15% | 100% | Last Result |
+| 1 | 75% | 85% | Median |
+| 2 | 10% | 10% |  |
 | 3 | 0% | 0% |  |
 
 
