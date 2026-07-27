@@ -263,7 +263,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [30 June–6 July 2026](2026-07-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [1–6 July 2026](2026-07-06-CIS.html) | CIS | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
 | [2–4 July 2026](2026-07-04-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 10–12 | 10–13 | 10–13 | 10–14 |
-| [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 13 | 11–13 | 10–13 | 10–14 | 9–14 |
+| [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 13 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [16–29 June 2026](2026-06-29-Ipsos.html) | Ipsos <br> La Vanguardia | 13 | 12–14 | 11–14 | 11–14 | 10–15 |
 | [26–29 June 2026](2026-06-29-40dB.html) | 40dB <br> Prisa | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
@@ -480,10 +480,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0.1% | 100% |  |
-| 10 | 7% | 99.8% |  |
+| 10 | 7% | 99.9% |  |
 | 11 | 26% | 93% |  |
-| 12 | 35% | 67% | Median |
-| 13 | 26% | 32% |  |
+| 12 | 36% | 67% | Median |
+| 13 | 25% | 31% |  |
 | 14 | 5% | 6% |  |
 | 15 | 0.5% | 0.5% |  |
 | 16 | 0% | 0% |  |

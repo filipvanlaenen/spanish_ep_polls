@@ -274,17 +274,17 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 19–25 | 19–25 | 18–26 | 17–27 |
+| N/A | [Poll Average](average.html) | 23 | 19–25 | 19–25 | 18–26 | 17–27 |
 | [15–20 July 2026](2026-07-20-DYM.html) | DYM <br> Henneo | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
 | [15–17 July 2026](2026-07-17-TargetPoint.html) | Target Point <br> El Debate | 23 | 22–24 | 21–25 | 21–25 | 20–26 |
 | [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
 | [30 June–6 July 2026](2026-07-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 24 | 22–24 | 21–25 | 21–25 | 20–25 |
 | [1–6 July 2026](2026-07-06-CIS.html) | CIS | 19 | 17–19 | 17–19 | 17–19 | 16–20 |
 | [2–4 July 2026](2026-07-04-SocioMétrica.html) | SocioMétrica <br> El Español | 23 | 22–25 | 21–25 | 21–25 | 21–25 |
-| [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 22 | 22–24 | 21–25 | 21–25 | 20–27 |
+| [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 24 | 22–25 | 21–25 | 21–25 | 21–26 |
 | [16–29 June 2026](2026-06-29-Ipsos.html) | Ipsos <br> La Vanguardia | 20 | 20–22 | 20–22 | 20–23 | 19–24 |
 | [26–29 June 2026](2026-06-29-40dB.html) | 40dB <br> Prisa | 23 | 22–24 | 21–24 | 21–24 | 21–25 |
-| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 22 | 21–23 | 21–24 | 21–24 | 20–25 |
+| [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 22 | 21–23 | 21–24 | 21–24 | 20–24 |
 | [22–26 June 2026](2026-06-26-Invymark.html) | Invymark <br> laSexta | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
 | [17–18 June 2026](2026-06-18-TargetPoint.html) | Target Point <br> El Debate | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
 | [1–11 June 2026](2026-06-11-SigmaDos.html) | Sigma Dos <br> El Mundo | 23 | 22–23 | 22–23 | 22–24 | 21–25 |
@@ -510,10 +510,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 7% | 96% |  |
 | 20 | 8% | 89% |  |
 | 21 | 11% | 81% |  |
-| 22 | 22% | 70% | Median |
-| 23 | 19% | 47% |  |
-| 24 | 16% | 29% |  |
-| 25 | 9% | 12% |  |
+| 22 | 18% | 70% |  |
+| 23 | 19% | 52% | Median |
+| 24 | 17% | 32% |  |
+| 25 | 12% | 15% |  |
 | 26 | 3% | 3% |  |
 | 27 | 0.7% | 0.8% |  |
 | 28 | 0.1% | 0.1% |  |

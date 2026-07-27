@@ -269,14 +269,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–21 | 16–24 | 16–24 | 15–25 |
+| N/A | [Poll Average](average.html) | 18 | 17–21 | 16–24 | 15–24 | 15–25 |
 | [15–20 July 2026](2026-07-20-DYM.html) | DYM <br> Henneo | 19 | 18–21 | 18–21 | 17–21 | 17–22 |
 | [15–17 July 2026](2026-07-17-TargetPoint.html) | Target Point <br> El Debate | 19 | 17–20 | 17–20 | 17–21 | 16–21 |
 | [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
 | [30 June–6 July 2026](2026-07-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [1–6 July 2026](2026-07-06-CIS.html) | CIS | 24 | 23–25 | 23–25 | 23–25 | 23–25 |
 | [2–4 July 2026](2026-07-04-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 16–18 | 16–19 | 16–19 | 16–19 |
-| [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 17 | 16–18 | 15–18 | 15–19 | 14–20 |
+| [25 June–1 July 2026](2026-07-01-NCReport.html) | NC Report <br> La Razón | 16 | 15–18 | 15–18 | 15–19 | 14–20 |
 | [16–29 June 2026](2026-06-29-Ipsos.html) | Ipsos <br> La Vanguardia | 18 | 17–19 | 17–20 | 17–20 | 17–20 |
 | [26–29 June 2026](2026-06-29-40dB.html) | 40dB <br> Prisa | 20 | 19–21 | 19–21 | 18–21 | 18–22 |
 | [24–28 June 2026](2026-06-28-MoreinCommon.html) | More in Common | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
@@ -498,9 +498,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0.1% | 100% |  |
-| 15 | 0.8% | 99.9% |  |
-| 16 | 5% | 99.1% |  |
-| 17 | 18% | 94% |  |
+| 15 | 3% | 99.9% |  |
+| 16 | 7% | 97% |  |
+| 17 | 15% | 90% |  |
 | 18 | 29% | 76% | Median |
 | 19 | 22% | 47% |  |
 | 20 | 13% | 25% |  |
