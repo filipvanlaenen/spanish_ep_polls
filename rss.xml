@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 25 Jul 2026 23:25:11 +0200</pubDate>
+    <pubDate>Mon, 27 Jul 2026 07:50:06 +0200</pubDate>
     <item>
       <title>Opinion Poll by DYM for Henneo, 15–20 July 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-07-20-DYM.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-07-20-DYM-seats.png"
         length="217846"
         type="image/png"/>
-      <pubDate>Sat, 25 Jul 2026 20:33:28 +0200</pubDate>
-      <dc:date>2026-07-25T20:33:28.042939+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 00:06:05 +0200</pubDate>
+      <dc:date>2026-07-27T00:06:05.218289+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by DYM for Henneo, 15–20 July 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-07-20-DYM-coalitions-seats.png"
         length="209295"
         type="image/png"/>
-      <pubDate>Sat, 25 Jul 2026 20:33:28 +0200</pubDate>
-      <dc:date>2026-07-25T20:33:28.042939+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 00:06:05 +0200</pubDate>
+      <dc:date>2026-07-27T00:06:05.218289+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by DYM for Henneo, 15–20 July 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-07-20-DYM.png"
         length="261902"
         type="image/png"/>
-      <pubDate>Sat, 25 Jul 2026 20:33:28 +0200</pubDate>
-      <dc:date>2026-07-25T20:33:28.042939+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 00:06:05 +0200</pubDate>
+      <dc:date>2026-07-27T00:06:05.218289+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Target Point for El Debate, 15–17 July 2026 – Seat Projections for the Parties</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-07-17-TargetPoint-seats.png"
         length="215802"
         type="image/png"/>
-      <pubDate>Mon, 20 Jul 2026 22:47:58 +0200</pubDate>
-      <dc:date>2026-07-20T22:47:58.286628+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 07:50:06 +0200</pubDate>
+      <dc:date>2026-07-27T07:50:06.276439+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Target Point for El Debate, 15–17 July 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-07-17-TargetPoint-coalitions-seats.png"
         length="208861"
         type="image/png"/>
-      <pubDate>Mon, 20 Jul 2026 22:47:58 +0200</pubDate>
-      <dc:date>2026-07-20T22:47:58.286628+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 07:50:06 +0200</pubDate>
+      <dc:date>2026-07-27T07:50:06.276439+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Target Point for El Debate, 15–17 July 2026 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-07-17-TargetPoint.png"
         length="268236"
         type="image/png"/>
-      <pubDate>Mon, 20 Jul 2026 22:47:58 +0200</pubDate>
-      <dc:date>2026-07-20T22:47:58.286628+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 07:50:06 +0200</pubDate>
+      <dc:date>2026-07-27T07:50:06.276439+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for Prensa Ibérica, 6–9 July 2026 – Seat Projections for the Parties</title>
@@ -579,6 +579,6 @@
       <pubDate>Thu, 09 Jul 2026 17:52:41 +0200</pubDate>
       <dc:date>2026-07-09T17:52:41.754099+02:00</dc:date>
     </item>
-    <dc:date>2026-07-25T23:25:11.960344+02:00</dc:date>
+    <dc:date>2026-07-27T07:50:06.276439+02:00</dc:date>
   </channel>
 </rss>
