@@ -270,7 +270,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 17–21 | 16–24 | 16–24 | 15–25 |
-| [15–20 July 2026](2026-07-20-DYM.html) | DYM <br> Henneo | 19 | 18–20 | 18–21 | 17–21 | 17–22 |
+| [15–20 July 2026](2026-07-20-DYM.html) | DYM <br> Henneo | 19 | 18–21 | 18–21 | 17–21 | 17–22 |
 | [15–17 July 2026](2026-07-17-TargetPoint.html) | Target Point <br> El Debate | 19 | 17–20 | 17–20 | 17–21 | 16–21 |
 | [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
 | [30 June–6 July 2026](2026-07-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
