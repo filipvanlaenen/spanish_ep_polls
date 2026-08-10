@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 27 Jul 2026 12:00:20 +0200</pubDate>
+    <pubDate>Mon, 10 Aug 2026 13:05:01 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 6–20 July 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-07-20-SigmaDos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 11–13 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17–19 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 22–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-07-20-SigmaDos-seats.png"
+        length="338704"
+        type="image/png"/>
+      <pubDate>Mon, 10 Aug 2026 13:05:01 +0200</pubDate>
+      <dc:date>2026-08-10T13:05:01.939325+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 6–20 July 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-07-20-SigmaDos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-07-20-SigmaDos-coalitions-seats.png"
+        length="195441"
+        type="image/png"/>
+      <pubDate>Mon, 10 Aug 2026 13:05:01 +0200</pubDate>
+      <dc:date>2026-08-10T13:05:01.939325+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 6–20 July 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-07-20-SigmaDos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 3.6–4.9%&lt;/li&gt;&lt;li&gt;Vox (PfE): 16.1–18.5%&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0.8–1.5%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 1.0–1.7%&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0.6–1.2%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 2.7–3.8%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.7–1.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 24.7–27.5%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2.5–3.6%&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0.1–0.4%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.3–0.8%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1.9–2.9%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 31.3–34.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-07-20-SigmaDos.png"
+        length="403936"
+        type="image/png"/>
+      <pubDate>Mon, 10 Aug 2026 13:05:01 +0200</pubDate>
+      <dc:date>2026-08-10T13:05:01.939325+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by DYM for Henneo, 15–20 July 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-07-20-DYM.html#seats</link>
@@ -579,6 +609,6 @@
       <pubDate>Thu, 09 Jul 2026 17:52:41 +0200</pubDate>
       <dc:date>2026-07-09T17:52:41.754099+02:00</dc:date>
     </item>
-    <dc:date>2026-07-27T12:00:20.936502+02:00</dc:date>
+    <dc:date>2026-08-10T13:05:01.939325+02:00</dc:date>
   </channel>
 </rss>
