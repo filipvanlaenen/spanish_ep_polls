@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.9% |
-| [6–20 July 2026](2026-07-20-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.8% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% | 0.3–1.9% |
+| [6–20 July 2026](2026-07-20-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.8% | 0.6–1.1% | 0.6–1.1% | 0.6–1.2% | 0.5–1.3% |
 | [15–20 July 2026](2026-07-20-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [15–17 July 2026](2026-07-17-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 0.0% | N/A | N/A | N/A | N/A |
@@ -223,8 +223,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 13% | 100% | Last Result |
-| 0.5–1.5% | 85% | 87% | Median |
+| 0.0–0.5% | 11% | 100% | Last Result |
+| 0.5–1.5% | 87% | 89% | Median |
 | 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -238,7 +238,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
-| [6–20 July 2026](2026-07-20-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [6–20 July 2026](2026-07-20-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0 | 0 | 0 |
 | [15–20 July 2026](2026-07-20-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [15–17 July 2026](2026-07-17-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |

@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.2–4.4% | 1.9–4.8% | 1.7–5.1% | 1.3–5.6% |
-| [6–20 July 2026](2026-07-20-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 3.2% | 2.3–4.4% | 1.9–4.7% | 1.7–5.0% | 1.4–5.6% |
+| [6–20 July 2026](2026-07-20-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.0% | 2.7–3.4% | 2.6–3.5% | 2.5–3.6% | 2.3–3.8% |
 | [15–20 July 2026](2026-07-20-DYM.html) | DYM <br> Henneo | 4.1% | 3.4–5.1% | 3.2–5.3% | 3.1–5.6% | 2.8–6.0% |
 | [15–17 July 2026](2026-07-17-TargetPoint.html) | Target Point <br> El Debate | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
 | [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
@@ -224,12 +224,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 18% | 98% |  |
-| 2.5–3.5% | 42% | 80% | Median |
-| 3.5–4.5% | 30% | 38% |  |
-| 4.5–5.5% | 7% | 8% |  |
-| 5.5–6.5% | 0.6% | 0.6% |  |
+| 0.5–1.5% | 1.5% | 100% |  |
+| 1.5–2.5% | 17% | 98.5% |  |
+| 2.5–3.5% | 47% | 82% | Median |
+| 3.5–4.5% | 28% | 35% |  |
+| 4.5–5.5% | 7% | 7% |  |
+| 5.5–6.5% | 0.5% | 0.6% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -241,8 +241,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
-| [6–20 July 2026](2026-07-20-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [6–20 July 2026](2026-07-20-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–20 July 2026](2026-07-20-DYM.html) | DYM <br> Henneo | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [15–17 July 2026](2026-07-17-TargetPoint.html) | Target Point <br> El Debate | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
@@ -456,10 +456,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% | Last Result |
-| 1 | 28% | 99.5% |  |
-| 2 | 56% | 71% | Median |
-| 3 | 15% | 16% |  |
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 32% | 99.6% |  |
+| 2 | 53% | 68% | Median |
+| 3 | 14% | 14% |  |
 | 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 
