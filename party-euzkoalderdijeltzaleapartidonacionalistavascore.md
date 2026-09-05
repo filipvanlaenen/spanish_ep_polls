@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.8–1.5% | 0.7–1.7% | 0.6–1.8% | 0.4–2.2% |
+| [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.0% | 0.8–1.4% | 0.7–1.4% | 0.7–1.5% | 0.6–1.7% |
+| [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.7–1.7% | 0.6–2.0% |
 | [5–6 August 2026](2026-08-06-SocioMétrica.html) | SocioMétrica <br> El Español | 1.1% | 0.9–1.5% | 0.8–1.6% | 0.7–1.8% | 0.6–2.0% |
 | [31 July–4 August 2026](2026-08-04-NCReport.html) | NC Report <br> La Razón | 1.0% | 0.6–1.7% | 0.5–1.9% | 0.4–2.1% | 0.3–2.5% |
 | [6–20 July 2026](2026-07-20-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.0% | 0.8–1.2% | 0.8–1.3% | 0.7–1.4% | 0.6–1.5% |
@@ -240,7 +242,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–6 August 2026](2026-08-06-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [31 July–4 August 2026](2026-08-04-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [6–20 July 2026](2026-07-20-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0 | 0 | 0–1 |
@@ -457,8 +461,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 5% | 5% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
 | 2 | 0% | 0% |  |
 
 
