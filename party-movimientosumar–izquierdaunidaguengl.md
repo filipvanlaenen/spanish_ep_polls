@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.2–4.2% | 1.9–4.4% | 1.7–4.6% | 1.4–5.1% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.9–4.3% | 2.8–4.5% | 2.6–4.7% | 2.3–5.2% |
+| [1–3 September 2026](2026-09-03-NCReport.html) | NC Report <br> La Razón | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [1–3 September 2026](2026-09-03-GAD3.html) | GAD3 <br> ABC | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [31 August–2 September 2026](2026-09-02-40dB.html) | 40dB <br> Prisa | 3.2% | 2.8–3.8% | 2.7–4.0% | 2.5–4.1% | 2.3–4.4% |
+| [24–28 August 2026](2026-08-28-MoreinCommon.html) | More in Common | 3.8% | 3.3–4.4% | 3.2–4.5% | 3.0–4.7% | 2.8–5.0% |
+| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OK Diario | 3.6% | 3.0–4.3% | 2.9–4.5% | 2.8–4.7% | 2.5–5.0% |
 | [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.8% | 3.3–4.4% | 3.2–4.5% | 3.0–4.7% | 2.8–5.0% |
 | [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 3.5% | 3.0–4.1% | 2.8–4.3% | 2.7–4.5% | 2.5–4.8% |
 | [5–6 August 2026](2026-08-06-SocioMétrica.html) | SocioMétrica <br> El Español | 3.4% | 2.9–4.0% | 2.7–4.2% | 2.6–4.4% | 2.4–4.7% |
@@ -228,12 +233,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 1.0% | 100% |  |
-| 1.5–2.5% | 16% | 99.0% |  |
-| 2.5–3.5% | 42% | 83% | Median |
-| 3.5–4.5% | 38% | 41% |  |
-| 4.5–5.5% | 3% | 3% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 45% | 98% |  |
+| 3.5–4.5% | 48% | 53% | Median |
+| 4.5–5.5% | 5% | 5% |  |
+| 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -245,7 +250,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [1–3 September 2026](2026-09-03-NCReport.html) | NC Report <br> La Razón | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| [1–3 September 2026](2026-09-03-GAD3.html) | GAD3 <br> ABC | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [31 August–2 September 2026](2026-09-02-40dB.html) | 40dB <br> Prisa | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [24–28 August 2026](2026-08-28-MoreinCommon.html) | More in Common | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OK Diario | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [5–6 August 2026](2026-08-06-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -464,10 +474,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 14% | 99.9% |  |
-| 2 | 68% | 86% | Median |
-| 3 | 18% | 18% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 1.0% | 100% |  |
+| 2 | 59% | 99.0% | Median |
+| 3 | 40% | 41% |  |
 | 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 

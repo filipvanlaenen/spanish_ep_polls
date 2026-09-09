@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.5–4.5% | 2.4–4.8% | 2.2–5.1% | 2.0–5.7% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.5–4.0% | 2.4–4.3% | 2.2–4.5% | 2.0–4.9% |
+| [1–3 September 2026](2026-09-03-NCReport.html) | NC Report <br> La Razón | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
+| [1–3 September 2026](2026-09-03-GAD3.html) | GAD3 <br> ABC | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.8% |
+| [31 August–2 September 2026](2026-09-02-40dB.html) | 40dB <br> Prisa | 2.8% | 2.4–3.3% | 2.3–3.5% | 2.2–3.6% | 2.0–3.9% |
+| [24–28 August 2026](2026-08-28-MoreinCommon.html) | More in Common | 3.6% | 3.1–4.2% | 3.0–4.3% | 2.9–4.5% | 2.7–4.8% |
+| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OK Diario | 3.6% | 3.0–4.3% | 2.9–4.5% | 2.8–4.7% | 2.5–5.0% |
 | [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.8% | 2.4–3.3% | 2.3–3.5% | 2.2–3.6% | 2.0–3.9% |
 | [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 3.6% | 3.1–4.3% | 2.9–4.5% | 2.8–4.6% | 2.6–5.0% |
 | [5–6 August 2026](2026-08-06-SocioMétrica.html) | SocioMétrica <br> El Español | 2.7% | 2.3–3.3% | 2.1–3.5% | 2.0–3.6% | 1.8–3.9% |
@@ -230,11 +235,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 11% | 100% |  |
-| 2.5–3.5% | 48% | 89% | Median |
-| 3.5–4.5% | 32% | 41% |  |
-| 4.5–5.5% | 8% | 9% |  |
-| 5.5–6.5% | 0.7% | 0.8% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 2.5–3.5% | 58% | 89% | Median |
+| 3.5–4.5% | 29% | 31% |  |
+| 4.5–5.5% | 2% | 2% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -245,7 +249,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [1–3 September 2026](2026-09-03-NCReport.html) | NC Report <br> La Razón | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| [1–3 September 2026](2026-09-03-GAD3.html) | GAD3 <br> ABC | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [31 August–2 September 2026](2026-09-02-40dB.html) | 40dB <br> Prisa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [24–28 August 2026](2026-08-28-MoreinCommon.html) | More in Common | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OK Diario | 2 | 2 | 2 | 2–3 | 1–3 |
 | [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [5–6 August 2026](2026-08-06-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -466,9 +475,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 21% | 100% |  |
-| 2 | 60% | 79% | Median |
-| 3 | 19% | 20% |  |
-| 4 | 0.9% | 0.9% |  |
-| 5 | 0% | 0% |  |
+| 2 | 73% | 79% | Median |
+| 3 | 6% | 6% |  |
+| 4 | 0% | 0% |  |
 
 
