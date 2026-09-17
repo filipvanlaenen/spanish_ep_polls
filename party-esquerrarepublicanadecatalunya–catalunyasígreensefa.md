@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.7–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.7–2.8% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
+| [1–8 September 2026](2026-09-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
+| [1–4 September 2026](2026-09-04-CIS.html) | CIS | 2.5% | 2.2–2.9% | 2.1–2.9% | 2.1–3.0% | 1.9–3.2% |
 | [1–3 September 2026](2026-09-03-NCReport.html) | NC Report <br> La Razón | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [1–3 September 2026](2026-09-03-GAD3.html) | GAD3 <br> ABC | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [31 August–2 September 2026](2026-09-02-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
@@ -233,9 +235,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 75% | 95% | Median |
-| 2.5–3.5% | 19% | 19% |  |
+| 0.5–1.5% | 6% | 100% |  |
+| 1.5–2.5% | 71% | 94% | Median |
+| 2.5–3.5% | 23% | 23% |  |
 | 3.5–4.5% | 0.3% | 0.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -249,6 +251,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [1–8 September 2026](2026-09-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| [1–4 September 2026](2026-09-04-CIS.html) | CIS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–3 September 2026](2026-09-03-NCReport.html) | NC Report <br> La Razón | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [1–3 September 2026](2026-09-03-GAD3.html) | GAD3 <br> ABC | 1 | 1 | 1 | 1 | 1–2 |
 | [31 August–2 September 2026](2026-09-02-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
@@ -473,8 +477,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% | Last Result |
-| 1 | 91% | 98% | Median |
-| 2 | 7% | 7% |  |
+| 1 | 89% | 98% | Median |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 
