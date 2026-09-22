@@ -392,7 +392,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#vox-(pfe)">Vox (PfE)</a> | 0 | 13 | 11–14 |11–14 | 11–15 | 10–15 |
 | <a href="#junts-per-catalunya-(ni)">Junts per Catalunya (NI)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#españa-vaciada-(ni)">España Vaciada (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#se-acabó-la-fiesta-(ni)">Se Acabó La Fiesta (NI)</a> | 0 | 1 | 0–1 |0–2 | 0–2 | 0–2 |
+| <a href="#se-acabó-la-fiesta-(ni)">Se Acabó La Fiesta (NI)</a> | 0 | 1 | 1 |0–2 | 0–2 | 0–2 |
 | <a href="#adelante-andalucía-(*)">Adelante Andalucía (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#unión-del-pueblo-navarro-(*)">Unión del Pueblo Navarro (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 
@@ -458,7 +458,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 2% | 100% |  |
 | 2 | 57% | 98% | Median |
 | 3 | 40% | 41% |  |
-| 4 | 1.0% | 1.1% |  |
+| 4 | 1.1% | 1.1% |  |
 | 5 | 0% | 0% |  |
 
 ### Ahora Repúblicas (Greens/EFA)
@@ -497,7 +497,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 43% | 100% |  |
 | 2 | 55% | 57% | Median |
 | 3 | 2% | 2% |  |
-| 4 | 0% | 0% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 ### Coalició Compromís (Greens/EFA)
 
@@ -637,9 +638,9 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 6% | 95% |  |
 | 20 | 10% | 90% |  |
 | 21 | 14% | 79% |  |
-| 22 | 16% | 65% | Median |
+| 22 | 17% | 65% | Median |
 | 23 | 19% | 49% |  |
-| 24 | 26% | 29% |  |
+| 24 | 26% | 30% |  |
 | 25 | 3% | 3% |  |
 | 26 | 0.4% | 0.4% |  |
 | 27 | 0% | 0% |  |
@@ -766,9 +767,9 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 6% | 95% |  |
 | 20 | 10% | 90% |  |
 | 21 | 14% | 79% |  |
-| 22 | 16% | 65% | Median |
+| 22 | 17% | 65% | Median |
 | 23 | 19% | 49% |  |
-| 24 | 26% | 29% |  |
+| 24 | 26% | 30% |  |
 | 25 | 3% | 3% |  |
 | 26 | 0.4% | 0.4% |  |
 | 27 | 0% | 0% |  |
@@ -854,8 +855,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 12% | 100% |  |
-| 2 | 52% | 88% |  |
+| 1 | 13% | 100% |  |
+| 2 | 52% | 87% |  |
 | 3 | 29% | 36% | Median |
 | 4 | 6% | 7% |  |
 | 5 | 0.1% | 0.1% |  |
@@ -868,7 +869,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 21% | 100% | Last Result |
-| 1 | 61% | 79% | Median |
+| 1 | 62% | 79% | Median |
 | 2 | 17% | 18% |  |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
@@ -895,6 +896,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 11
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 20,971,520
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 23,068,672
 + **Error estimate:** 3.12%
