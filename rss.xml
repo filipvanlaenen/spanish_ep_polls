@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 21 Sep 2026 21:59:27 +0200</pubDate>
+    <pubDate>Tue, 22 Sep 2026 09:42:50 +0200</pubDate>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 7–11 September 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-11-Invymark.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-11-Invymark-seats.png"
         length="225153"
         type="image/png"/>
-      <pubDate>Mon, 21 Sep 2026 21:51:07 +0200</pubDate>
-      <dc:date>2026-09-21T21:51:07.513175+02:00</dc:date>
+      <pubDate>Tue, 22 Sep 2026 09:31:26 +0200</pubDate>
+      <dc:date>2026-09-22T09:31:26.826995+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 7–11 September 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-11-Invymark-coalitions-seats.png"
         length="210015"
         type="image/png"/>
-      <pubDate>Mon, 21 Sep 2026 21:51:07 +0200</pubDate>
-      <dc:date>2026-09-21T21:51:07.513175+02:00</dc:date>
+      <pubDate>Tue, 22 Sep 2026 09:31:26 +0200</pubDate>
+      <dc:date>2026-09-22T09:31:26.826995+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 7–11 September 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-11-Invymark.png"
         length="266172"
         type="image/png"/>
-      <pubDate>Mon, 21 Sep 2026 21:51:07 +0200</pubDate>
-      <dc:date>2026-09-21T21:51:07.513175+02:00</dc:date>
+      <pubDate>Tue, 22 Sep 2026 09:31:26 +0200</pubDate>
+      <dc:date>2026-09-22T09:31:26.826995+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Target Point for El Debate, 9–10 September 2026 – Seat Projections for the Parties</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-10-TargetPoint-seats.png"
         length="229427"
         type="image/png"/>
-      <pubDate>Mon, 21 Sep 2026 21:59:27 +0200</pubDate>
-      <dc:date>2026-09-21T21:59:27.018322+02:00</dc:date>
+      <pubDate>Tue, 22 Sep 2026 09:42:50 +0200</pubDate>
+      <dc:date>2026-09-22T09:42:50.678634+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Target Point for El Debate, 9–10 September 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-10-TargetPoint-coalitions-seats.png"
         length="221650"
         type="image/png"/>
-      <pubDate>Mon, 21 Sep 2026 21:59:27 +0200</pubDate>
-      <dc:date>2026-09-21T21:59:27.018322+02:00</dc:date>
+      <pubDate>Tue, 22 Sep 2026 09:42:50 +0200</pubDate>
+      <dc:date>2026-09-22T09:42:50.678634+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Target Point for El Debate, 9–10 September 2026 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-10-TargetPoint.png"
         length="284208"
         type="image/png"/>
-      <pubDate>Mon, 21 Sep 2026 21:59:27 +0200</pubDate>
-      <dc:date>2026-09-21T21:59:27.018322+02:00</dc:date>
+      <pubDate>Tue, 22 Sep 2026 09:42:50 +0200</pubDate>
+      <dc:date>2026-09-22T09:42:50.678634+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Hamalgama Métrica for Vozpópuli, 1–8 September 2026 – Seat Projections for the Parties</title>
@@ -999,6 +999,6 @@
       <pubDate>Thu, 09 Jul 2026 17:52:41 +0200</pubDate>
       <dc:date>2026-07-09T17:52:41.754099+02:00</dc:date>
     </item>
-    <dc:date>2026-09-21T21:59:27.018322+02:00</dc:date>
+    <dc:date>2026-09-22T09:42:50.678634+02:00</dc:date>
   </channel>
 </rss>
