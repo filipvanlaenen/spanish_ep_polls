@@ -10,8 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.4% | 24.3–29.5% | 23.7–30.8% | 23.2–31.4% | 22.2–32.2% |
+| N/A | [Poll Average](average.html) | 26.5% | 24.2–29.6% | 23.5–30.9% | 23.0–31.5% | 22.0–32.2% |
+| [1–3 October 2026](2026-10-03-SocioMétrica.html) | SocioMétrica <br> El Español | 26.5% | 24.8–28.3% | 24.3–28.9% | 23.9–29.3% | 23.0–30.2% |
+| [29 September–1 October 2026](2026-10-01-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es | 27.5% | 26.1–29.1% | 25.7–29.5% | 25.3–29.9% | 24.6–30.6% |
+| [24–28 September 2026](2026-09-28-SocioMétrica.html) | SocioMétrica <br> El Español | 25.7% | 24.1–27.3% | 23.7–27.8% | 23.3–28.2% | 22.5–29.0% |
+| [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa | 27.4% | 26.1–28.7% | 25.8–29.1% | 25.5–29.4% | 24.9–30.0% |
 | [16–21 September 2026](2026-09-21-DYM.html) | DYM <br> Henneo | 26.3% | 24.5–28.1% | 24.1–28.6% | 23.6–29.1% | 22.8–29.9% |
+| [16–21 September 2026](2026-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 25.5% | 23.4–27.6% | 22.9–28.3% | 22.4–28.8% | 21.4–29.9% |
 | [7–11 September 2026](2026-09-11-Invymark.html) | Invymark <br> laSexta | 26.8% | 25.2–28.5% | 24.8–29.0% | 24.4–29.4% | 23.6–30.2% |
 | [9–10 September 2026](2026-09-10-TargetPoint.html) | Target Point <br> El Debate | 25.6% | 23.5–27.9% | 22.9–28.5% | 22.4–29.1% | 21.5–30.1% |
 | [1–8 September 2026](2026-09-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 25.1% | 23.4–26.9% | 22.9–27.4% | 22.5–27.9% | 21.7–28.8% |
@@ -258,19 +263,19 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.8% | 99.9% |  |
-| 22.5–23.5% | 3% | 99.1% |  |
-| 23.5–24.5% | 10% | 96% |  |
-| 24.5–25.5% | 17% | 86% |  |
-| 25.5–26.5% | 21% | 69% | Median |
-| 26.5–27.5% | 20% | 48% |  |
+| 20.5–21.5% | 0.2% | 100% |  |
+| 21.5–22.5% | 1.0% | 99.8% |  |
+| 22.5–23.5% | 4% | 98.8% |  |
+| 23.5–24.5% | 9% | 95% |  |
+| 24.5–25.5% | 16% | 86% |  |
+| 25.5–26.5% | 21% | 70% | Median |
+| 26.5–27.5% | 20% | 49% |  |
 | 27.5–28.5% | 13% | 28% |  |
-| 28.5–29.5% | 6% | 15% |  |
+| 28.5–29.5% | 5% | 15% |  |
 | 29.5–30.5% | 3% | 10% |  |
-| 30.5–31.5% | 4% | 6% |  |
+| 30.5–31.5% | 5% | 7% |  |
 | 31.5–32.5% | 2% | 2% |  |
-| 32.5–33.5% | 0.1% | 0.1% |  |
+| 32.5–33.5% | 0.2% | 0.2% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
 
@@ -282,8 +287,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–21 | 16–22 | 16–22 | 15–23 |
+| N/A | [Poll Average](average.html) | 18 | 16–21 | 16–22 | 15–22 | 14–23 |
+| [1–3 October 2026](2026-10-03-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–19 | 16–19 | 15–20 | 15–21 |
+| [29 September–1 October 2026](2026-10-01-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es | 19 | 18–20 | 18–20 | 17–20 | 17–21 |
+| [24–28 September 2026](2026-09-28-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–18 | 17–18 | 16–18 | 16–20 |
+| [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa | 20 | 18–20 | 18–20 | 18–21 | 18–21 |
 | [16–21 September 2026](2026-09-21-DYM.html) | DYM <br> Henneo | 19 | 17–20 | 17–20 | 17–21 | 16–21 |
+| [16–21 September 2026](2026-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 17 | 14–18 | 14–18 | 14–19 | 14–21 |
 | [7–11 September 2026](2026-09-11-Invymark.html) | Invymark <br> laSexta | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [9–10 September 2026](2026-09-10-TargetPoint.html) | Target Point <br> El Debate | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
 | [1–8 September 2026](2026-09-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 17 | 16–18 | 15–19 | 15–19 | 15–20 |
@@ -525,15 +535,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 1.3% | 100% |  |
-| 16 | 16% | 98.7% |  |
-| 17 | 18% | 82% |  |
-| 18 | 19% | 65% | Median |
-| 19 | 23% | 45% |  |
-| 20 | 13% | 23% |  |
-| 21 | 4% | 10% |  |
-| 22 | 4% | 6% |  |
+| 14 | 1.2% | 100% |  |
+| 15 | 2% | 98.8% |  |
+| 16 | 13% | 96% |  |
+| 17 | 22% | 84% |  |
+| 18 | 20% | 62% | Median |
+| 19 | 22% | 43% |  |
+| 20 | 10% | 21% |  |
+| 21 | 4% | 11% |  |
+| 22 | 5% | 7% |  |
 | 23 | 2% | 2% |  |
 | 24 | 0.4% | 0.4% |  |
 | 25 | 0% | 0% |  |

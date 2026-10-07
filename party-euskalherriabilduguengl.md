@@ -10,8 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 1.0–1.9% | 0.9–2.0% | 0.9–2.2% | 0.7–2.5% |
+| N/A | [Poll Average](average.html) | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
+| [1–3 October 2026](2026-10-03-SocioMétrica.html) | SocioMétrica <br> El Español | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
+| [29 September–1 October 2026](2026-10-01-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
+| [24–28 September 2026](2026-09-28-SocioMétrica.html) | SocioMétrica <br> El Español | 1.4% | 1.1–2.0% | 1.0–2.1% | 0.9–2.3% | 0.7–2.6% |
+| [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [16–21 September 2026](2026-09-21-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
+| [16–21 September 2026](2026-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1.4% | 1.0–2.2% | 0.9–2.4% | 0.8–2.6% | 0.6–3.0% |
 | [7–11 September 2026](2026-09-11-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 September 2026](2026-09-10-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
 | [1–8 September 2026](2026-09-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
@@ -237,10 +242,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 71% | 100% | Median |
-| 1.5–2.5% | 28% | 29% |  |
-| 2.5–3.5% | 0.4% | 0.4% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 65% | 99.9% | Median |
+| 1.5–2.5% | 34% | 35% |  |
+| 2.5–3.5% | 1.0% | 1.0% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -252,8 +257,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [1–3 October 2026](2026-10-03-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [29 September–1 October 2026](2026-10-01-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es |  |  |  |  |  |
+| [24–28 September 2026](2026-09-28-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [16–21 September 2026](2026-09-21-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
+| [16–21 September 2026](2026-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [7–11 September 2026](2026-09-11-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [9–10 September 2026](2026-09-10-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [1–8 September 2026](2026-09-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -481,8 +491,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 48% | 100% | Last Result |
-| 1 | 52% | 52% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 52% | 100% | Last Result, Median |
+| 1 | 47% | 48% |  |
+| 2 | 0.6% | 0.6% |  |
+| 3 | 0% | 0% |  |
 
 
