@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.5% | 0.3–1.0% | 0.2–1.1% | 0.2–1.2% | 0.1–1.6% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.2–0.9% | 0.2–1.1% | 0.1–1.2% | 0.1–1.5% |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [5–8 October 2026](2026-10-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0.5% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% | 0.1–1.7% |
 | [6–8 October 2026](2026-10-08-GESOP.html) | GESOP <br> Prensa Ibérica | 0.0% | N/A | N/A | N/A | N/A |
@@ -18,7 +18,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [7–8 October 2026](2026-10-08-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [5–7 October 2026](2026-10-07-IMOP.html) | IMOP <br> El Confidencial | 0.6% | 0.3–1.0% | 0.3–1.2% | 0.2–1.3% | 0.2–1.6% |
 | [5–7 October 2026](2026-10-07-DYM.html) | DYM <br> 20Minutos | 0.0% | N/A | N/A | N/A | N/A |
-| [1–6 October 2026](2026-10-06-CIS.html) | CIS | 0.2% | N/A | N/A | N/A | N/A |
+| [1–6 October 2026](2026-10-06-CIS.html) | CIS | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.1–0.4% |
 | [1–3 October 2026](2026-10-03-SocioMétrica.html) | SocioMétrica <br> El Español | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [2 October 2026](2026-10-02-Data10.html) | Data10 <br> OKDiario | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [29 September–1 October 2026](2026-10-01-Winston.html) | Winston <br> Artículo14 | 0.0% | N/A | N/A | N/A | N/A |
@@ -253,9 +253,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 53% | 100% | Last Result |
-| 0.5–1.5% | 47% | 47% | Median |
-| 1.5–2.5% | 0.5% | 0.5% |  |
+| 0.0–0.5% | 60% | 100% | Last Result, Median |
+| 0.5–1.5% | 40% | 40% |  |
+| 1.5–2.5% | 0.4% | 0.4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -267,7 +267,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
 | [5–8 October 2026](2026-10-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0 | 0 | 0 | 0 | 0 |
 | [6–8 October 2026](2026-10-08-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
@@ -275,7 +275,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [7–8 October 2026](2026-10-08-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [5–7 October 2026](2026-10-07-IMOP.html) | IMOP <br> El Confidencial | 0 | 0 | 0 | 0 | 0–1 |
 | [5–7 October 2026](2026-10-07-DYM.html) | DYM <br> 20Minutos |  |  |  |  |  |
-| [1–6 October 2026](2026-10-06-CIS.html) | CIS |  |  |  |  |  |
+| [1–6 October 2026](2026-10-06-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [1–3 October 2026](2026-10-03-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0–1 |
 | [2 October 2026](2026-10-02-Data10.html) | Data10 <br> OKDiario | 0 | 0 | 0 | 0 | 0 |
 | [29 September–1 October 2026](2026-10-01-Winston.html) | Winston <br> Artículo14 |  |  |  |  |  |

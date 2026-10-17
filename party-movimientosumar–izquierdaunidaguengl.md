@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.5–4.8% | 2.1–5.1% | 1.9–5.4% | 1.5–6.0% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.5–4.8% | 2.2–5.1% | 1.9–5.4% | 1.5–6.0% |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [5–8 October 2026](2026-10-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 3.1% | 2.4–4.2% | 2.2–4.5% | 2.0–4.8% | 1.7–5.3% |
 | [6–8 October 2026](2026-10-08-GESOP.html) | GESOP <br> Prensa Ibérica | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
@@ -18,7 +18,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [7–8 October 2026](2026-10-08-40dB.html) | 40dB <br> Prisa | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.8–4.9% |
 | [5–7 October 2026](2026-10-07-IMOP.html) | IMOP <br> El Confidencial | 4.3% | 3.6–5.3% | 3.4–5.6% | 3.2–5.9% | 2.9–6.4% |
 | [5–7 October 2026](2026-10-07-DYM.html) | DYM <br> 20Minutos | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.5% |
-| [1–6 October 2026](2026-10-06-CIS.html) | CIS | 3.5% | N/A | N/A | N/A | N/A |
+| [1–6 October 2026](2026-10-06-CIS.html) | CIS | 3.5% | 3.2–3.8% | 3.1–3.9% | 3.0–4.0% | 2.9–4.2% |
 | [1–3 October 2026](2026-10-03-SocioMétrica.html) | SocioMétrica <br> El Español | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [2 October 2026](2026-10-02-Data10.html) | Data10 <br> OKDiario | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [29 September–1 October 2026](2026-10-01-Winston.html) | Winston <br> Artículo14 | 3.9% | 3.3–4.7% | 3.1–5.0% | 3.0–5.2% | 2.7–5.6% |
@@ -254,11 +254,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.7% | 100% |  |
-| 1.5–2.5% | 11% | 99.3% |  |
-| 2.5–3.5% | 33% | 88% |  |
-| 3.5–4.5% | 39% | 55% | Median |
-| 4.5–5.5% | 14% | 16% |  |
+| 0.5–1.5% | 0.6% | 100% |  |
+| 1.5–2.5% | 10% | 99.4% |  |
+| 2.5–3.5% | 35% | 89% |  |
+| 3.5–4.5% | 40% | 54% | Median |
+| 4.5–5.5% | 13% | 14% |  |
 | 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -280,7 +280,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [7–8 October 2026](2026-10-08-40dB.html) | 40dB <br> Prisa | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [5–7 October 2026](2026-10-07-IMOP.html) | IMOP <br> El Confidencial | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [5–7 October 2026](2026-10-07-DYM.html) | DYM <br> 20Minutos | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [1–6 October 2026](2026-10-06-CIS.html) | CIS |  |  |  |  |  |
+| [1–6 October 2026](2026-10-06-CIS.html) | CIS | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [1–3 October 2026](2026-10-03-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [2 October 2026](2026-10-02-Data10.html) | Data10 <br> OKDiario | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [29 September–1 October 2026](2026-10-01-Winston.html) | Winston <br> Artículo14 | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -518,9 +518,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 13% | 100% |  |
-| 2 | 52% | 87% | Median |
-| 3 | 30% | 35% |  |
+| 1 | 12% | 100% |  |
+| 2 | 56% | 88% | Median |
+| 3 | 28% | 32% |  |
 | 4 | 4% | 4% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
