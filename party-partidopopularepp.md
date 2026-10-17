@@ -10,8 +10,19 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.9% | 28.6–35.5% | 25.6–36.2% | 25.1–36.7% | 24.4–37.9% |
+| N/A | [Poll Average](average.html) | 32.6% | 29.4–35.1% | 28.5–35.8% | 27.8–36.4% | 26.5–37.6% |
+| [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 32.6% | 30.7–34.6% | 30.2–35.1% | 29.8–35.6% | 28.9–36.5% |
+| [5–8 October 2026](2026-10-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 33.4% | 31.1–35.9% | 30.5–36.6% | 29.9–37.2% | 28.8–38.4% |
+| [6–8 October 2026](2026-10-08-GESOP.html) | GESOP <br> Prensa Ibérica | 28.7% | 26.9–30.6% | 26.4–31.1% | 26.0–31.6% | 25.1–32.5% |
+| [6–8 October 2026](2026-10-08-GAD3.html) | GAD3 <br> Vocento | 31.4% | 29.6–33.2% | 29.1–33.8% | 28.7–34.2% | 27.8–35.1% |
+| [7–8 October 2026](2026-10-08-40dB.html) | 40dB <br> Prisa | 31.9% | 29.8–34.0% | 29.2–34.7% | 28.7–35.2% | 27.8–36.2% |
+| [5–7 October 2026](2026-10-07-IMOP.html) | IMOP <br> El Confidencial | 30.4% | 28.5–32.5% | 28.0–33.0% | 27.5–33.5% | 26.6–34.5% |
+| [5–7 October 2026](2026-10-07-DYM.html) | DYM <br> 20Minutos | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.2–37.0% | 30.3–38.0% |
+| [1–6 October 2026](2026-10-06-CIS.html) | CIS | 22.2% | N/A | N/A | N/A | N/A |
 | [1–3 October 2026](2026-10-03-SocioMétrica.html) | SocioMétrica <br> El Español | 33.4% | 31.5–35.4% | 31.0–35.9% | 30.5–36.4% | 29.7–37.3% |
+| [2 October 2026](2026-10-02-Data10.html) | Data10 <br> OKDiario | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
+| [29 September–1 October 2026](2026-10-01-Winston.html) | Winston <br> Artículo14 | 31.3% | 29.6–33.1% | 29.1–33.6% | 28.7–34.0% | 28.0–34.8% |
+| [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 32.6% | N/A | N/A | N/A | N/A |
 | [29 September–1 October 2026](2026-10-01-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es | 33.2% | 31.7–34.8% | 31.2–35.2% | 30.8–35.6% | 30.1–36.4% |
 | [24–28 September 2026](2026-09-28-SocioMétrica.html) | SocioMétrica <br> El Español | 33.9% | 32.2–35.7% | 31.7–36.2% | 31.3–36.7% | 30.5–37.5% |
 | [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa | 31.6% | 30.3–33.0% | 29.9–33.3% | 29.6–33.7% | 29.0–34.3% |
@@ -266,22 +277,22 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.7% | 100% |  |
-| 24.5–25.5% | 4% | 99.3% |  |
-| 25.5–26.5% | 4% | 95% |  |
-| 26.5–27.5% | 0.7% | 91% |  |
-| 27.5–28.5% | 0.6% | 91% |  |
-| 28.5–29.5% | 2% | 90% |  |
-| 29.5–30.5% | 5% | 88% |  |
-| 30.5–31.5% | 11% | 83% |  |
-| 31.5–32.5% | 16% | 72% |  |
-| 32.5–33.5% | 18% | 57% | Median |
-| 33.5–34.5% | 17% | 39% |  |
-| 34.5–35.5% | 12% | 21% |  |
-| 35.5–36.5% | 6% | 9% |  |
-| 36.5–37.5% | 2% | 3% |  |
-| 37.5–38.5% | 0.6% | 0.8% |  |
-| 38.5–39.5% | 0.1% | 0.2% |  |
+| 23.5–24.5% | 0% | 100% |  |
+| 24.5–25.5% | 0.1% | 100% |  |
+| 25.5–26.5% | 0.5% | 99.9% |  |
+| 26.5–27.5% | 1.4% | 99.5% |  |
+| 27.5–28.5% | 3% | 98% |  |
+| 28.5–29.5% | 6% | 95% |  |
+| 29.5–30.5% | 9% | 89% |  |
+| 30.5–31.5% | 13% | 80% |  |
+| 31.5–32.5% | 17% | 67% |  |
+| 32.5–33.5% | 18% | 50% | Median |
+| 33.5–34.5% | 16% | 32% |  |
+| 34.5–35.5% | 10% | 16% |  |
+| 35.5–36.5% | 5% | 7% |  |
+| 36.5–37.5% | 2% | 2% |  |
+| 37.5–38.5% | 0.4% | 0.5% |  |
+| 38.5–39.5% | 0.1% | 0.1% |  |
 | 39.5–40.5% | 0% | 0% |  |
 
 
@@ -293,8 +304,19 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 20–24 | 19–25 | 18–26 | 17–27 |
+| N/A | [Poll Average](average.html) | 23 | 20–24 | 20–25 | 19–25 | 18–26 |
+| [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 23 | 23–24 | 23–24 | 22–24 | 21–24 |
+| [5–8 October 2026](2026-10-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 23 | 21–24 | 20–24 | 20–24 | 20–25 |
+| [6–8 October 2026](2026-10-08-GESOP.html) | GESOP <br> Prensa Ibérica | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
+| [6–8 October 2026](2026-10-08-GAD3.html) | GAD3 <br> Vocento | 22 | 21–23 | 20–23 | 19–23 | 19–23 |
+| [7–8 October 2026](2026-10-08-40dB.html) | 40dB <br> Prisa | 22 | 21–24 | 21–24 | 20–25 | 20–26 |
+| [5–7 October 2026](2026-10-07-IMOP.html) | IMOP <br> El Confidencial | 22 | 20–22 | 20–22 | 19–22 | 18–23 |
+| [5–7 October 2026](2026-10-07-DYM.html) | DYM <br> 20Minutos | 24 | 23–26 | 23–26 | 22–26 | 22–27 |
+| [1–6 October 2026](2026-10-06-CIS.html) | CIS |  |  |  |  |  |
 | [1–3 October 2026](2026-10-03-SocioMétrica.html) | SocioMétrica <br> El Español | 23 | 21–24 | 20–25 | 20–25 | 19–25 |
+| [2 October 2026](2026-10-02-Data10.html) | Data10 <br> OKDiario | 22 | 21–25 | 21–25 | 21–25 | 20–26 |
+| [29 September–1 October 2026](2026-10-01-Winston.html) | Winston <br> Artículo14 | 23 | 21–24 | 21–24 | 21–24 | 20–25 |
+| [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [29 September–1 October 2026](2026-10-01-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es | 23 | 22–24 | 21–24 | 21–24 | 21–25 |
 | [24–28 September 2026](2026-09-28-SocioMétrica.html) | SocioMétrica <br> El Español | 22 | 22 | 22–23 | 21–24 | 21–25 |
 | [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa | 22 | 22–23 | 21–24 | 21–24 | 21–24 |
@@ -544,18 +566,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.6% | 100% |  |
-| 18 | 4% | 99.4% |  |
-| 19 | 5% | 95% |  |
-| 20 | 4% | 91% |  |
-| 21 | 9% | 87% |  |
-| 22 | 22% | 79% |  |
-| 23 | 23% | 56% | Median |
-| 24 | 24% | 33% |  |
-| 25 | 7% | 10% |  |
-| 26 | 2% | 3% |  |
-| 27 | 0.5% | 0.6% |  |
-| 28 | 0% | 0.1% |  |
-| 29 | 0% | 0% |  |
+| 17 | 0.1% | 100% |  |
+| 18 | 0.7% | 99.9% |  |
+| 19 | 2% | 99.2% |  |
+| 20 | 7% | 97% |  |
+| 21 | 10% | 90% |  |
+| 22 | 26% | 79% |  |
+| 23 | 28% | 54% | Median |
+| 24 | 17% | 25% |  |
+| 25 | 6% | 8% |  |
+| 26 | 1.3% | 2% |  |
+| 27 | 0.2% | 0.2% |  |
+| 28 | 0% | 0% |  |
 
 
