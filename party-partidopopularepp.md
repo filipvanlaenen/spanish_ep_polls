@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.3% | 27.8–35.0% | 22.4–35.7% | 22.0–36.3% | 21.3–37.5% |
+| N/A | [Poll Average](average.html) | 32.4% | 28.1–35.0% | 22.5–35.7% | 22.0–36.3% | 21.4–37.5% |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 32.6% | 30.7–34.6% | 30.2–35.1% | 29.8–35.6% | 28.9–36.5% |
 | [5–8 October 2026](2026-10-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 33.4% | 31.1–35.9% | 30.5–36.6% | 29.9–37.2% | 28.8–38.4% |
 | [6–8 October 2026](2026-10-08-GESOP.html) | GESOP <br> Prensa Ibérica | 28.7% | 26.9–30.6% | 26.4–31.1% | 26.0–31.6% | 25.1–32.5% |
@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–3 October 2026](2026-10-03-SocioMétrica.html) | SocioMétrica <br> El Español | 33.4% | 31.5–35.4% | 31.0–35.9% | 30.5–36.4% | 29.7–37.3% |
 | [2 October 2026](2026-10-02-Data10.html) | Data10 <br> OKDiario | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
 | [29 September–1 October 2026](2026-10-01-Winston.html) | Winston <br> Artículo14 | 31.3% | 29.6–33.1% | 29.1–33.6% | 28.7–34.0% | 28.0–34.8% |
-| [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 32.6% | N/A | N/A | N/A | N/A |
+| [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 32.6% | 31.3–33.9% | 31.0–34.3% | 30.6–34.6% | 30.0–35.3% |
 | [29 September–1 October 2026](2026-10-01-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es | 33.2% | 31.7–34.8% | 31.2–35.2% | 30.8–35.6% | 30.1–36.4% |
 | [24–28 September 2026](2026-09-28-SocioMétrica.html) | SocioMétrica <br> El Español | 33.9% | 32.2–35.7% | 31.7–36.2% | 31.3–36.7% | 30.5–37.5% |
 | [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa | 31.6% | 30.3–33.0% | 29.9–33.3% | 29.6–33.7% | 29.0–34.3% |
@@ -274,24 +274,24 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 1.0% | 100% |  |
-| 21.5–22.5% | 5% | 99.0% |  |
-| 22.5–23.5% | 2% | 94% |  |
-| 23.5–24.5% | 0.1% | 92% |  |
-| 24.5–25.5% | 0.1% | 92% |  |
-| 25.5–26.5% | 0.4% | 92% |  |
-| 26.5–27.5% | 1.3% | 92% |  |
-| 27.5–28.5% | 3% | 90% |  |
+| 20.5–21.5% | 0.9% | 100% |  |
+| 21.5–22.5% | 4% | 99.1% |  |
+| 22.5–23.5% | 2% | 95% |  |
+| 23.5–24.5% | 0.1% | 93% |  |
+| 24.5–25.5% | 0.1% | 93% |  |
+| 25.5–26.5% | 0.4% | 93% |  |
+| 26.5–27.5% | 1.2% | 92% |  |
+| 27.5–28.5% | 3% | 91% |  |
 | 28.5–29.5% | 5% | 88% |  |
-| 29.5–30.5% | 8% | 82% |  |
-| 30.5–31.5% | 12% | 74% |  |
-| 31.5–32.5% | 16% | 62% | Median |
-| 32.5–33.5% | 17% | 46% |  |
+| 29.5–30.5% | 8% | 84% |  |
+| 30.5–31.5% | 12% | 76% |  |
+| 31.5–32.5% | 17% | 64% | Median |
+| 32.5–33.5% | 18% | 47% |  |
 | 33.5–34.5% | 14% | 29% |  |
-| 34.5–35.5% | 9% | 15% |  |
+| 34.5–35.5% | 8% | 14% |  |
 | 35.5–36.5% | 4% | 6% |  |
-| 36.5–37.5% | 1.4% | 2% |  |
-| 37.5–38.5% | 0.4% | 0.5% |  |
+| 36.5–37.5% | 1.3% | 2% |  |
+| 37.5–38.5% | 0.4% | 0.4% |  |
 | 38.5–39.5% | 0.1% | 0.1% |  |
 | 39.5–40.5% | 0% | 0% |  |
 
@@ -304,7 +304,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 19–24 | 15–25 | 15–25 | 15–26 |
+| N/A | [Poll Average](average.html) | 23 | 20–24 | 15–25 | 15–25 | 15–26 |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 23 | 23–24 | 23–24 | 22–24 | 21–24 |
 | [5–8 October 2026](2026-10-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 23 | 21–24 | 20–24 | 20–24 | 20–25 |
 | [6–8 October 2026](2026-10-08-GESOP.html) | GESOP <br> Prensa Ibérica | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
@@ -316,7 +316,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–3 October 2026](2026-10-03-SocioMétrica.html) | SocioMétrica <br> El Español | 23 | 21–24 | 20–25 | 20–25 | 19–25 |
 | [2 October 2026](2026-10-02-Data10.html) | Data10 <br> OKDiario | 22 | 21–25 | 21–25 | 21–25 | 20–26 |
 | [29 September–1 October 2026](2026-10-01-Winston.html) | Winston <br> Artículo14 | 23 | 21–24 | 21–24 | 21–24 | 20–25 |
-| [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 23 | 22–24 | 21–24 | 21–26 | 20–26 |
 | [29 September–1 October 2026](2026-10-01-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es | 23 | 22–24 | 21–24 | 21–24 | 21–25 |
 | [24–28 September 2026](2026-09-28-SocioMétrica.html) | SocioMétrica <br> El Español | 22 | 22 | 22–23 | 21–24 | 21–25 |
 | [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa | 22 | 22–23 | 21–24 | 21–24 | 21–24 |
@@ -564,18 +564,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 6% | 100% |  |
-| 16 | 2% | 94% |  |
-| 17 | 0.2% | 92% |  |
-| 18 | 0.7% | 92% |  |
+| 15 | 5% | 100% |  |
+| 16 | 2% | 95% |  |
+| 17 | 0.1% | 93% |  |
+| 18 | 0.6% | 93% |  |
 | 19 | 2% | 92% |  |
-| 20 | 6% | 89% |  |
-| 21 | 10% | 83% |  |
-| 22 | 24% | 73% | Median |
-| 23 | 26% | 49% |  |
+| 20 | 6% | 90% |  |
+| 21 | 10% | 84% |  |
+| 22 | 24% | 75% |  |
+| 23 | 28% | 51% | Median |
 | 24 | 16% | 23% |  |
-| 25 | 6% | 7% |  |
-| 26 | 1.2% | 1.4% |  |
+| 25 | 5% | 7% |  |
+| 26 | 1.3% | 2% |  |
 | 27 | 0.2% | 0.2% |  |
 | 28 | 0% | 0% |  |
 

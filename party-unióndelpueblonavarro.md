@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–3 October 2026](2026-10-03-SocioMétrica.html) | SocioMétrica <br> El Español | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [2 October 2026](2026-10-02-Data10.html) | Data10 <br> OKDiario | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [29 September–1 October 2026](2026-10-01-Winston.html) | Winston <br> Artículo14 | 0.0% | N/A | N/A | N/A | N/A |
-| [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.2% | N/A | N/A | N/A | N/A |
+| [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% |
 | [29 September–1 October 2026](2026-10-01-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 September 2026](2026-09-28-SocioMétrica.html) | SocioMétrica <br> El Español | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.0–0.6% | 0.0–0.8% |
 | [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
@@ -253,8 +253,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 92% | 100% | Last Result, Median |
-| 0.5–1.5% | 8% | 8% |  |
+| 0.0–0.5% | 93% | 100% | Last Result, Median |
+| 0.5–1.5% | 7% | 7% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -278,7 +278,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–3 October 2026](2026-10-03-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
 | [2 October 2026](2026-10-02-Data10.html) | Data10 <br> OKDiario | 0 | 0 | 0 | 0 | 0 |
 | [29 September–1 October 2026](2026-10-01-Winston.html) | Winston <br> Artículo14 |  |  |  |  |  |
-| [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0 | 0 | 0 |
 | [29 September–1 October 2026](2026-10-01-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es |  |  |  |  |  |
 | [24–28 September 2026](2026-09-28-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
 | [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |

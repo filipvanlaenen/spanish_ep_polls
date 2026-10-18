@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.6% | 16.9–20.4% | 16.5–21.0% | 16.2–21.5% | 15.4–22.5% |
+| N/A | [Poll Average](average.html) | 18.6% | 17.0–20.4% | 16.6–20.9% | 16.2–21.4% | 15.4–22.4% |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 18.8% | 17.3–20.5% | 16.9–20.9% | 16.5–21.4% | 15.8–22.2% |
 | [5–8 October 2026](2026-10-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 19.5% | 17.6–21.7% | 17.1–22.3% | 16.6–22.8% | 15.8–23.8% |
 | [6–8 October 2026](2026-10-08-GESOP.html) | GESOP <br> Prensa Ibérica | 18.9% | 17.4–20.6% | 16.9–21.0% | 16.6–21.5% | 15.9–22.3% |
@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–3 October 2026](2026-10-03-SocioMétrica.html) | SocioMétrica <br> El Español | 18.1% | 16.6–19.7% | 16.2–20.2% | 15.8–20.6% | 15.2–21.4% |
 | [2 October 2026](2026-10-02-Data10.html) | Data10 <br> OKDiario | 18.6% | 17.1–20.3% | 16.7–20.7% | 16.3–21.1% | 15.6–21.9% |
 | [29 September–1 October 2026](2026-10-01-Winston.html) | Winston <br> Artículo14 | 19.1% | 17.7–20.6% | 17.3–21.0% | 16.9–21.4% | 16.3–22.1% |
-| [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 18.3% | N/A | N/A | N/A | N/A |
+| [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 18.3% | 17.2–19.4% | 16.9–19.7% | 16.7–20.0% | 16.2–20.5% |
 | [29 September–1 October 2026](2026-10-01-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es | 19.2% | 17.9–20.6% | 17.6–20.9% | 17.3–21.3% | 16.7–21.9% |
 | [24–28 September 2026](2026-09-28-SocioMétrica.html) | SocioMétrica <br> El Español | 18.0% | 16.6–19.5% | 16.2–19.9% | 15.9–20.3% | 15.3–21.0% |
 | [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa | 18.4% | 17.3–19.6% | 17.0–19.9% | 16.8–20.2% | 16.2–20.7% |
@@ -268,15 +268,15 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0.1% | 100% |  |
-| 14.5–15.5% | 0.6% | 99.9% |  |
-| 15.5–16.5% | 5% | 99.3% |  |
+| 14.5–15.5% | 0.5% | 99.9% |  |
+| 15.5–16.5% | 4% | 99.4% |  |
 | 16.5–17.5% | 17% | 95% |  |
-| 17.5–18.5% | 25% | 78% |  |
-| 18.5–19.5% | 27% | 53% | Median |
-| 19.5–20.5% | 17% | 26% |  |
-| 20.5–21.5% | 7% | 9% |  |
+| 17.5–18.5% | 27% | 78% |  |
+| 18.5–19.5% | 27% | 52% | Median |
+| 19.5–20.5% | 16% | 24% |  |
+| 20.5–21.5% | 6% | 8% |  |
 | 21.5–22.5% | 2% | 2% |  |
-| 22.5–23.5% | 0.4% | 0.4% |  |
+| 22.5–23.5% | 0.3% | 0.4% |  |
 | 23.5–24.5% | 0.1% | 0.1% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
@@ -300,8 +300,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–6 October 2026](2026-10-06-CIS.html) | CIS | 12 | 11–12 | 11–13 | 11–13 | 11–13 |
 | [1–3 October 2026](2026-10-03-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 10–14 | 10–14 | 10–14 | 10–15 |
 | [2 October 2026](2026-10-02-Data10.html) | Data10 <br> OKDiario | 13 | 11–13 | 11–14 | 11–15 | 10–15 |
-| [29 September–1 October 2026](2026-10-01-Winston.html) | Winston <br> Artículo14 | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
-| [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [29 September–1 October 2026](2026-10-01-Winston.html) | Winston <br> Artículo14 | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
+| [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo | 13 | 12–13 | 11–13 | 11–14 | 11–14 |
 | [29 September–1 October 2026](2026-10-01-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [24–28 September 2026](2026-09-28-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–12 | 11–12 | 11–13 | 10–13 |
 | [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
@@ -544,13 +544,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0.2% | 100% |  |
-| 10 | 1.1% | 99.8% |  |
-| 11 | 7% | 98.7% |  |
-| 12 | 30% | 92% |  |
-| 13 | 39% | 62% | Median |
-| 14 | 18% | 23% |  |
+| 10 | 1.0% | 99.8% |  |
+| 11 | 7% | 98.8% |  |
+| 12 | 31% | 92% |  |
+| 13 | 40% | 61% | Median |
+| 14 | 17% | 21% |  |
 | 15 | 4% | 4% |  |
-| 16 | 0.3% | 0.3% |  |
+| 16 | 0.2% | 0.3% |  |
 | 17 | 0% | 0% |  |
 
 
