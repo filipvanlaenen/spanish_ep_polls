@@ -10,13 +10,13 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Popular (EPP) | 0.0% | 28.7% | 27.5–30.0% |27.1–30.3% |26.8–30.7% |26.2–31.3% |
-| Partido Socialista Obrero Español (S&D) | 0.0% | 27.0% | 25.8–28.3% |25.5–28.6% |25.2–28.9% |24.6–29.5% |
-| Vox (PfE) | 0.0% | 20.3% | 19.2–21.4% |18.9–21.8% |18.6–22.1% |18.1–22.6% |
-| Movimiento Sumar–Izquierda Unida (GUE/NGL) | 0.0% | 3.8% | 3.3–4.4% |3.2–4.5% |3.0–4.7% |2.8–5.0% |
-| Podemos (GUE/NGL) | 0.0% | 3.6% | 3.1–4.2% |3.0–4.3% |2.9–4.5% |2.7–4.8% |
-| Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA) | 0.0% | 2.8% | 2.4–3.4% |2.3–3.5% |2.2–3.6% |2.0–3.9% |
-| Se Acabó La Fiesta (NI) | 0.0% | 2.3% | 1.9–2.8% |1.8–2.9% |1.7–3.0% |1.6–3.3% |
+| Partido Popular (EPP) | 0.0% | 28.7% | 27.2–30.3% |26.8–30.7% |26.4–31.1% |25.7–31.8% |
+| Partido Socialista Obrero Español (S&D) | 0.0% | 27.0% | 25.5–28.5% |25.1–29.0% |24.8–29.3% |24.1–30.1% |
+| Vox (PfE) | 0.0% | 20.3% | 19.0–21.7% |18.6–22.1% |18.3–22.4% |17.7–23.1% |
+| Movimiento Sumar–Izquierda Unida (GUE/NGL) | 0.0% | 3.8% | 3.2–4.5% |3.0–4.7% |2.9–4.9% |2.7–5.2% |
+| Podemos (GUE/NGL) | 0.0% | 3.6% | 3.1–4.3% |2.9–4.5% |2.8–4.7% |2.5–5.1% |
+| Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA) | 0.0% | 2.8% | 2.3–3.4% |2.2–3.6% |2.1–3.8% |1.9–4.1% |
+| Se Acabó La Fiesta (NI) | 0.0% | 2.3% | 1.9–2.9% |1.8–3.1% |1.7–3.2% |1.5–3.6% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -30,13 +30,13 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 20 | 19–21 |19–21 |19–22 |18–22 |
-| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 19 | 18–20 |18–20 |18–20 |17–21 |
-| <a href="#vox-(pfe)">Vox (PfE)</a> | 0 | 14 | 13–15 |13–15 |13–15 |13–16 |
-| <a href="#movimiento-sumar–izquierda-unida-(gue/ngl)">Movimiento Sumar–Izquierda Unida (GUE/NGL)</a> | 0 | 2 | 2–3 |2–3 |2–3 |2–3 |
-| <a href="#podemos-(gue/ngl)">Podemos (GUE/NGL)</a> | 0 | 2 | 2 |2–3 |2–3 |1–3 |
-| <a href="#catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–3 |
-| <a href="#se-acabó-la-fiesta-(ni)">Se Acabó La Fiesta (NI)</a> | 0 | 1 | 1 |1–2 |1–2 |1–2 |
+| <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 20 | 19–21 |19–22 |19–22 |18–23 |
+| <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 19 | 18–20 |18–20 |17–21 |17–21 |
+| <a href="#vox-(pfe)">Vox (PfE)</a> | 0 | 14 | 13–15 |13–15 |13–16 |12–16 |
+| <a href="#movimiento-sumar–izquierda-unida-(gue/ngl)">Movimiento Sumar–Izquierda Unida (GUE/NGL)</a> | 0 | 3 | 2–3 |2–3 |2–3 |2–4 |
+| <a href="#podemos-(gue/ngl)">Podemos (GUE/NGL)</a> | 0 | 2 | 2–3 |2–3 |2–3 |1–3 |
+| <a href="#catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 2 | 1–2 |1–2 |1–3 |1–3 |
+| <a href="#se-acabó-la-fiesta-(ni)">Se Acabó La Fiesta (NI)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
 
 ### Partido Popular (EPP)
 
@@ -64,12 +64,12 @@
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0.7% | 100% |  |
-| 19 | 12% | 99.3% |  |
-| 20 | 47% | 87% | Median |
-| 21 | 37% | 40% |  |
-| 22 | 3% | 3% |  |
-| 23 | 0.1% | 0.1% |  |
+| 18 | 1.4% | 100% |  |
+| 19 | 20% | 98.5% |  |
+| 20 | 48% | 78% | Median |
+| 21 | 23% | 30% |  |
+| 22 | 6% | 7% |  |
+| 23 | 0.5% | 0.5% |  |
 | 24 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -96,13 +96,14 @@
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 1.2% | 100% |  |
-| 18 | 21% | 98.8% |  |
-| 19 | 52% | 78% | Median |
-| 20 | 24% | 25% |  |
-| 21 | 2% | 2% |  |
-| 22 | 0% | 0% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 3% | 99.9% |  |
+| 18 | 24% | 97% |  |
+| 19 | 42% | 73% | Median |
+| 20 | 27% | 31% |  |
+| 21 | 4% | 4% |  |
+| 22 | 0.2% | 0.2% |  |
+| 23 | 0% | 0% |  |
 
 ### Vox (PfE)
 
@@ -124,12 +125,13 @@
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.3% | 100% |  |
-| 13 | 12% | 99.7% |  |
-| 14 | 63% | 87% | Median |
-| 15 | 22% | 24% |  |
-| 16 | 2% | 2% |  |
-| 17 | 0% | 0% |  |
+| 12 | 1.3% | 100% |  |
+| 13 | 18% | 98.7% |  |
+| 14 | 49% | 80% | Median |
+| 15 | 28% | 32% |  |
+| 16 | 4% | 4% |  |
+| 17 | 0.1% | 0.1% |  |
+| 18 | 0% | 0% |  |
 
 ### Movimiento Sumar–Izquierda Unida (GUE/NGL)
 
@@ -140,10 +142,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 50% | 100% | Median |
-| 3 | 49% | 50% |  |
-| 4 | 0.4% | 0.4% |  |
+| 1 | 0.2% | 100% |  |
+| 2 | 48% | 99.8% |  |
+| 3 | 50% | 52% | Median |
+| 4 | 1.4% | 1.4% |  |
 | 5 | 0% | 0% |  |
 
 ### Podemos (GUE/NGL)
@@ -155,10 +157,11 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.1% | 100% |  |
-| 2 | 90% | 98.9% | Median |
-| 3 | 9% | 9% |  |
-| 4 | 0% | 0% |  |
+| 1 | 2% | 100% |  |
+| 2 | 84% | 98% | Median |
+| 3 | 14% | 14% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 ### Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)
 
@@ -169,9 +172,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 16% | 100% |  |
-| 2 | 82% | 84% | Median |
-| 3 | 2% | 2% |  |
+| 1 | 18% | 100% |  |
+| 2 | 79% | 82% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 ### Se Acabó La Fiesta (NI)
@@ -182,9 +185,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 90% | 100% | Median |
-| 2 | 10% | 10% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 83% | 99.8% | Median |
+| 2 | 17% | 17% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -196,9 +199,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Popular (EPP) | 0 | 20 | 0% | 19–21 | 19–21 | 19–22 | 18–22 |
-| Partido Socialista Obrero Español (S&D) | 0 | 19 | 0% | 18–20 | 18–20 | 18–20 | 17–21 |
-| Vox (PfE) | 0 | 14 | 0% | 13–15 | 13–15 | 13–15 | 13–16 |
+| Partido Popular (EPP) | 0 | 20 | 0% | 19–21 | 19–22 | 19–22 | 18–23 |
+| Partido Socialista Obrero Español (S&D) | 0 | 19 | 0% | 18–20 | 18–20 | 17–21 | 17–21 |
+| Vox (PfE) | 0 | 14 | 0% | 13–15 | 13–15 | 13–16 | 12–16 |
 
 ### Partido Popular (EPP)
 
@@ -224,12 +227,12 @@
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0.7% | 100% |  |
-| 19 | 12% | 99.3% |  |
-| 20 | 47% | 87% | Median |
-| 21 | 37% | 40% |  |
-| 22 | 3% | 3% |  |
-| 23 | 0.1% | 0.1% |  |
+| 18 | 1.4% | 100% |  |
+| 19 | 20% | 98.5% |  |
+| 20 | 48% | 78% | Median |
+| 21 | 23% | 30% |  |
+| 22 | 6% | 7% |  |
+| 23 | 0.5% | 0.5% |  |
 | 24 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español (S&D)
@@ -254,13 +257,14 @@
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 1.2% | 100% |  |
-| 18 | 21% | 98.8% |  |
-| 19 | 52% | 78% | Median |
-| 20 | 24% | 25% |  |
-| 21 | 2% | 2% |  |
-| 22 | 0% | 0% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 3% | 99.9% |  |
+| 18 | 24% | 97% |  |
+| 19 | 42% | 73% | Median |
+| 20 | 27% | 31% |  |
+| 21 | 4% | 4% |  |
+| 22 | 0.2% | 0.2% |  |
+| 23 | 0% | 0% |  |
 
 ### Vox (PfE)
 
@@ -280,12 +284,13 @@
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.3% | 100% |  |
-| 13 | 12% | 99.7% |  |
-| 14 | 63% | 87% | Median |
-| 15 | 22% | 24% |  |
-| 16 | 2% | 2% |  |
-| 17 | 0% | 0% |  |
+| 12 | 1.3% | 100% |  |
+| 13 | 18% | 98.7% |  |
+| 14 | 49% | 80% | Median |
+| 15 | 28% | 32% |  |
+| 16 | 4% | 4% |  |
+| 17 | 0.1% | 0.1% |  |
+| 18 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -298,7 +303,7 @@
 
 ### Calculations
 
-+ **Sample size:** 2144
-+ **Simulations done:** 2,097,152
-+ **Error estimate:** 0.90%
++ **Sample size:** 1460
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.55%
 

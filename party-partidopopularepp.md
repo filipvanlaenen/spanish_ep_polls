@@ -41,16 +41,16 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–3 September 2026](2026-09-03-NCReport.html) | NC Report <br> La Razón | 34.5% | 32.1–37.0% | 31.5–37.7% | 30.9–38.3% | 29.8–39.6% |
 | [1–3 September 2026](2026-09-03-GAD3.html) | GAD3 <br> ABC | 31.1% | 29.3–33.0% | 28.7–33.5% | 28.3–34.0% | 27.5–34.9% |
 | [31 August–2 September 2026](2026-09-02-40dB.html) | 40dB <br> Prisa | 32.4% | N/A | N/A | N/A | N/A |
-| [24–28 August 2026](2026-08-28-MoreinCommon.html) | More in Common | 28.7% | N/A | N/A | N/A | N/A |
-| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OKDiario | 34.3% | N/A | N/A | N/A | N/A |
-| [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 33.1% | N/A | N/A | N/A | N/A |
-| [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 30.1% | N/A | N/A | N/A | N/A |
+| [24–28 August 2026](2026-08-28-MoreinCommon.html) | More in Common | 28.7% | 27.2–30.3% | 26.8–30.7% | 26.4–31.1% | 25.7–31.8% |
+| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OKDiario | 34.3% | 32.7–35.9% | 32.3–36.3% | 31.9–36.7% | 31.2–37.5% |
+| [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 33.1% | 31.8–34.4% | 31.4–34.8% | 31.1–35.1% | 30.5–35.7% |
+| [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 30.1% | 28.7–31.6% | 28.3–32.0% | 27.9–32.4% | 27.3–33.1% |
 | [5–6 August 2026](2026-08-06-SocioMétrica.html) | SocioMétrica <br> El Español | 33.8% | N/A | N/A | N/A | N/A |
 | [31 July–4 August 2026](2026-08-04-NCReport.html) | NC Report <br> La Razón | 34.2% | N/A | N/A | N/A | N/A |
 | [6–20 July 2026](2026-07-20-SigmaDos.html) | Sigma Dos <br> El Mundo | 32.8% | N/A | N/A | N/A | N/A |
 | [15–20 July 2026](2026-07-20-DYM.html) | DYM <br> Henneo | 34.9% | N/A | N/A | N/A | N/A |
 | [15–17 July 2026](2026-07-17-TargetPoint.html) | Target Point <br> El Debate | 32.1% | N/A | N/A | N/A | N/A |
-| [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 29.4% | N/A | N/A | N/A | N/A |
+| [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 29.4% | 27.6–31.3% | 27.1–31.8% | 26.6–32.3% | 25.8–33.2% |
 | [30 June–6 July 2026](2026-07-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 33.8% | N/A | N/A | N/A | N/A |
 | [1–6 July 2026](2026-07-06-CIS.html) | CIS | 25.1% | N/A | N/A | N/A | N/A |
 | [2–4 July 2026](2026-07-04-SocioMétrica.html) | SocioMétrica <br> El Español | 33.6% | N/A | N/A | N/A | N/A |
@@ -339,18 +339,18 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–8 September 2026](2026-09-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 22 | 22–24 | 21–24 | 20–24 | 20–25 |
 | [1–4 September 2026](2026-09-04-CIS.html) | CIS | 19 | 18–19 | 17–19 | 17–20 | 17–20 |
 | [1–3 September 2026](2026-09-03-NCReport.html) | NC Report <br> La Razón | 22 | 22–24 | 22–25 | 21–26 | 21–26 |
-| [1–3 September 2026](2026-09-03-GAD3.html) | GAD3 <br> ABC | 21 | 20–21 | 20–21 | 20–22 | 19–23 |
+| [1–3 September 2026](2026-09-03-GAD3.html) | GAD3 <br> ABC | 21 | 21 | 20–21 | 20–22 | 18–23 |
 | [31 August–2 September 2026](2026-09-02-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [24–28 August 2026](2026-08-28-MoreinCommon.html) | More in Common |  |  |  |  |  |
-| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública |  |  |  |  |  |
+| [24–28 August 2026](2026-08-28-MoreinCommon.html) | More in Common | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
+| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OKDiario | 23 | 22–24 | 22–24 | 22–24 | 21–25 |
+| [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 23 | 23–25 | 22–25 | 22–25 | 22–25 |
+| [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 21 | 20–22 | 20–23 | 20–23 | 19–23 |
 | [5–6 August 2026](2026-08-06-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [31 July–4 August 2026](2026-08-04-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [6–20 July 2026](2026-07-20-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [15–20 July 2026](2026-07-20-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [15–17 July 2026](2026-07-17-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
-| [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
+| [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
 | [30 June–6 July 2026](2026-07-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli |  |  |  |  |  |
 | [1–6 July 2026](2026-07-06-CIS.html) | CIS |  |  |  |  |  |
 | [2–4 July 2026](2026-07-04-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |

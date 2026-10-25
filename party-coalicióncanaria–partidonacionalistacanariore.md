@@ -42,8 +42,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–3 September 2026](2026-09-03-GAD3.html) | GAD3 <br> ABC | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [31 August–2 September 2026](2026-09-02-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 August 2026](2026-08-28-MoreinCommon.html) | More in Common | 0.0% | N/A | N/A | N/A | N/A |
-| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OKDiario | 0.5% | N/A | N/A | N/A | N/A |
-| [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.5% | N/A | N/A | N/A | N/A |
+| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OKDiario | 0.5% | 0.4–0.9% | 0.3–1.0% | 0.3–1.1% | 0.2–1.2% |
+| [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.5% | 0.4–0.8% | 0.3–0.8% | 0.3–0.9% | 0.2–1.1% |
 | [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 0.0% | N/A | N/A | N/A | N/A |
 | [5–6 August 2026](2026-08-06-SocioMétrica.html) | SocioMétrica <br> El Español | 0.5% | N/A | N/A | N/A | N/A |
 | [31 July–4 August 2026](2026-08-04-NCReport.html) | NC Report <br> La Razón | 0.5% | N/A | N/A | N/A | N/A |
@@ -305,8 +305,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–3 September 2026](2026-09-03-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
 | [31 August–2 September 2026](2026-09-02-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [24–28 August 2026](2026-08-28-MoreinCommon.html) | More in Common |  |  |  |  |  |
-| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OKDiario | 0 | 0 | 0 | 0 | 0 |
+| [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0 | 0 | 0 |
 | [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública |  |  |  |  |  |
 | [5–6 August 2026](2026-08-06-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [31 July–4 August 2026](2026-08-04-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |

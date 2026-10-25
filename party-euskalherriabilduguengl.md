@@ -42,9 +42,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–3 September 2026](2026-09-03-GAD3.html) | GAD3 <br> ABC | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.7–2.8% |
 | [31 August–2 September 2026](2026-09-02-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 August 2026](2026-08-28-MoreinCommon.html) | More in Common | 0.0% | N/A | N/A | N/A | N/A |
-| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OKDiario | 1.4% | N/A | N/A | N/A | N/A |
-| [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.2% | N/A | N/A | N/A | N/A |
-| [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 1.3% | N/A | N/A | N/A | N/A |
+| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OKDiario | 1.4% | 1.1–1.9% | 1.0–2.0% | 0.9–2.1% | 0.8–2.4% |
+| [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.2% | 0.9–1.6% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% |
+| [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.8–2.0% | 0.7–2.2% |
 | [5–6 August 2026](2026-08-06-SocioMétrica.html) | SocioMétrica <br> El Español | 1.5% | N/A | N/A | N/A | N/A |
 | [31 July–4 August 2026](2026-08-04-NCReport.html) | NC Report <br> La Razón | 1.4% | N/A | N/A | N/A | N/A |
 | [6–20 July 2026](2026-07-20-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.3% | N/A | N/A | N/A | N/A |
@@ -303,12 +303,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–8 September 2026](2026-09-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–4 September 2026](2026-09-04-CIS.html) | CIS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–3 September 2026](2026-09-03-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–3 September 2026](2026-09-03-GAD3.html) | GAD3 <br> ABC | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–3 September 2026](2026-09-03-GAD3.html) | GAD3 <br> ABC | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [31 August–2 September 2026](2026-09-02-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [24–28 August 2026](2026-08-28-MoreinCommon.html) | More in Common |  |  |  |  |  |
-| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública |  |  |  |  |  |
+| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OKDiario | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–6 August 2026](2026-08-06-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [31 July–4 August 2026](2026-08-04-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [6–20 July 2026](2026-07-20-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
