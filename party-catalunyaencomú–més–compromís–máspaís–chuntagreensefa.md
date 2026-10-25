@@ -296,8 +296,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [29 September–1 October 2026](2026-10-01-Winston.html) | Winston <br> Artículo14 | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [29 September–1 October 2026](2026-10-01-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [24–26 September 2026](2026-09-26-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [24–26 September 2026](2026-09-26-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [16–21 September 2026](2026-09-21-DYM.html) | DYM <br> Henneo | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [16–21 September 2026](2026-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [7–11 September 2026](2026-09-11-Invymark.html) | Invymark <br> laSexta | 2 | 1–2 | 1–2 | 1–2 | 1–3 |

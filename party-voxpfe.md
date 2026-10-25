@@ -296,7 +296,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
-| [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 13 | 13–14 | 13–14 | 13–15 | 12–15 |
+| [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 13 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [1–14 October 2026](2026-10-14-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 13–14 | 13–14 | 13–14 | 12–14 |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 13 | 13 | 12–13 | 11–14 |
 | [6–9 October 2026](2026-10-09-TargetPoint.html) | Target Point <br> El Debate | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
@@ -316,7 +316,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [29 September–1 October 2026](2026-10-01-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
-| [24–26 September 2026](2026-09-26-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–12 | 11–13 | 11–13 | 10–14 |
+| [24–26 September 2026](2026-09-26-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–12 | 11–12 | 11–13 | 10–13 |
 | [16–21 September 2026](2026-09-21-DYM.html) | DYM <br> Henneo | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [16–21 September 2026](2026-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 12 | 10–13 | 10–13 | 9–13 | 9–14 |
 | [7–11 September 2026](2026-09-11-Invymark.html) | Invymark <br> laSexta | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
@@ -558,10 +558,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.2% | 100% |  |
 | 10 | 1.5% | 99.8% |  |
 | 11 | 7% | 98% |  |
-| 12 | 27% | 91% |  |
-| 13 | 39% | 64% | Median |
-| 14 | 22% | 25% |  |
-| 15 | 3% | 3% |  |
+| 12 | 28% | 91% |  |
+| 13 | 38% | 64% | Median |
+| 14 | 22% | 26% |  |
+| 15 | 4% | 4% |  |
 | 16 | 0.3% | 0.3% |  |
 | 17 | 0% | 0% |  |
 

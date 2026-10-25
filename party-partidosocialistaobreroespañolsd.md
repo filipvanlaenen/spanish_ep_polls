@@ -308,7 +308,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 17–21 | 16–24 | 16–24 | 14–25 |
-| [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 19 | 17–20 | 17–20 | 17–20 | 17–21 |
+| [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [1–14 October 2026](2026-10-14-SigmaDos.html) | Sigma Dos <br> El Mundo | 18 | 17–19 | 17–19 | 17–19 | 16–19 |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 17 | 17 | 17 | 16–20 |
 | [6–9 October 2026](2026-10-09-TargetPoint.html) | Target Point <br> El Debate | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
@@ -327,8 +327,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [29 September–1 October 2026](2026-10-01-Winston.html) | Winston <br> Artículo14 | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [29 September–1 October 2026](2026-10-01-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es | 19 | 18–20 | 18–20 | 17–20 | 17–21 |
-| [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa | 20 | 18–20 | 18–21 | 18–21 | 18–21 |
-| [24–26 September 2026](2026-09-26-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
+| [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa | 20 | 18–20 | 18–20 | 18–21 | 18–21 |
+| [24–26 September 2026](2026-09-26-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–18 | 17–18 | 16–18 | 16–20 |
 | [16–21 September 2026](2026-09-21-DYM.html) | DYM <br> Henneo | 19 | 17–20 | 17–20 | 17–21 | 16–21 |
 | [16–21 September 2026](2026-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 17 | 14–18 | 14–18 | 14–19 | 14–21 |
 | [7–11 September 2026](2026-09-11-Invymark.html) | Invymark <br> laSexta | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
@@ -575,10 +575,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 1.1% | 100% |  |
 | 15 | 1.2% | 98.9% |  |
 | 16 | 6% | 98% |  |
-| 17 | 29% | 92% |  |
-| 18 | 23% | 63% | Median |
-| 19 | 18% | 39% |  |
-| 20 | 11% | 22% |  |
+| 17 | 30% | 92% |  |
+| 18 | 24% | 62% | Median |
+| 19 | 17% | 39% |  |
+| 20 | 11% | 21% |  |
 | 21 | 3% | 11% |  |
 | 22 | 0.9% | 7% |  |
 | 23 | 0.3% | 6% |  |

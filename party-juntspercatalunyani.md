@@ -297,7 +297,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [22 September–1 October 2026](2026-10-01-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [29 September–1 October 2026](2026-10-01-AteneodelDato.html) | Ateneo del Dato <br> elDiario.es |  |  |  |  |  |
 | [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [24–26 September 2026](2026-09-26-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [24–26 September 2026](2026-09-26-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–21 September 2026](2026-09-21-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [16–21 September 2026](2026-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–11 September 2026](2026-09-11-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
@@ -527,8 +527,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 51% | 100% | Last Result, Median |
-| 1 | 44% | 49% |  |
+| 0 | 52% | 100% | Last Result, Median |
+| 1 | 43% | 48% |  |
 | 2 | 4% | 5% |  |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
