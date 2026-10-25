@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 25 Oct 2026 20:56:58 +0100</pubDate>
+    <pubDate>Sun, 25 Oct 2026 22:20:28 +0100</pubDate>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 13–16 October 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-10-16-IMOP.html#seats</link>
@@ -556,8 +556,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-21-DYM-seats.png"
         length="215343"
         type="image/png"/>
-      <pubDate>Sun, 25 Oct 2026 00:23:52 +0200</pubDate>
-      <dc:date>2026-10-25T00:23:52.043498+02:00</dc:date>
+      <pubDate>Sun, 25 Oct 2026 22:20:28 +0100</pubDate>
+      <dc:date>2026-10-25T22:20:28.129621+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by DYM for Henneo, 16–21 September 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -566,8 +566,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-21-DYM-coalitions-seats.png"
         length="204272"
         type="image/png"/>
-      <pubDate>Sun, 25 Oct 2026 00:23:52 +0200</pubDate>
-      <dc:date>2026-10-25T00:23:52.043498+02:00</dc:date>
+      <pubDate>Sun, 25 Oct 2026 22:20:28 +0100</pubDate>
+      <dc:date>2026-10-25T22:20:28.129621+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by DYM for Henneo, 16–21 September 2026 – Voting Intentions</title>
@@ -576,8 +576,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-21-DYM.png"
         length="264610"
         type="image/png"/>
-      <pubDate>Sun, 25 Oct 2026 00:23:52 +0200</pubDate>
-      <dc:date>2026-10-25T00:23:52.043498+02:00</dc:date>
+      <pubDate>Sun, 25 Oct 2026 22:20:28 +0100</pubDate>
+      <dc:date>2026-10-25T22:20:28.129621+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for Onda Cero, 16–21 September 2026 – Seat Projections for the Parties</title>
@@ -939,6 +939,6 @@
       <pubDate>Sun, 25 Oct 2026 15:27:34 +0100</pubDate>
       <dc:date>2026-10-25T15:27:34.0881+01:00</dc:date>
     </item>
-    <dc:date>2026-10-25T20:56:58.211673+01:00</dc:date>
+    <dc:date>2026-10-25T22:20:28.129621+01:00</dc:date>
   </channel>
 </rss>
