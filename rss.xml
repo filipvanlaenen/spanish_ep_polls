@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/spanish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 23 Oct 2026 20:50:49 +0200</pubDate>
+    <pubDate>Sun, 25 Oct 2026 13:31:15 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 13–16 October 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-10-16-IMOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 3–5 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 13–15 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Más País–Chunta (Greens/EFA): 1–3 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17–20 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 18–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-10-16-IMOP-seats.png"
+        length="358456"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 10:52:59 +0100</pubDate>
+      <dc:date>2026-10-25T10:52:59.913184+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 13–16 October 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-10-16-IMOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-10-16-IMOP-coalitions-seats.png"
+        length="215847"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 10:52:59 +0100</pubDate>
+      <dc:date>2026-10-25T10:52:59.913184+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 13–16 October 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-10-16-IMOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 4.5–7.4%&lt;/li&gt;&lt;li&gt;Vox (PfE): 17.6–22.6%&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Más País–Chunta (Greens/EFA): 2.2–4.4%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.8–2.2%&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 24.4–29.9%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 1.2–3.0%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1.4–3.3%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 25.8–31.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-10-16-IMOP.png"
+        length="429380"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 10:52:59 +0100</pubDate>
+      <dc:date>2026-10-25T10:52:59.913184+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 1–14 October 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-10-14-SigmaDos.html#seats</link>
@@ -459,6 +489,286 @@
       <pubDate>Fri, 23 Oct 2026 20:50:49 +0200</pubDate>
       <dc:date>2026-10-23T20:50:49.710813+02:00</dc:date>
     </item>
-    <dc:date>2026-10-23T20:50:49.710813+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by 40dB for Prisa, 25–28 September 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-28-40dB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 18–21 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 12–14 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 1 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 21–24 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-28-40dB-seats.png"
+        length="204664"
+        type="image/png"/>
+      <pubDate>Sat, 24 Oct 2026 22:28:34 +0200</pubDate>
+      <dc:date>2026-10-24T22:28:34.214836+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by 40dB for Prisa, 25–28 September 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-28-40dB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-28-40dB-coalitions-seats.png"
+        length="199742"
+        type="image/png"/>
+      <pubDate>Sat, 24 Oct 2026 22:28:34 +0200</pubDate>
+      <dc:date>2026-10-24T22:28:34.214836+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by 40dB for Prisa, 25–28 September 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-28-40dB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 25.5–29.4%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2.5–4.1%&lt;/li&gt;&lt;li&gt;Vox (PfE): 16.8–20.2%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2.1–3.5%&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 1.5–2.7%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 29.6–33.7%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1.8–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-28-40dB.png"
+        length="257952"
+        type="image/png"/>
+      <pubDate>Sat, 24 Oct 2026 22:28:34 +0200</pubDate>
+      <dc:date>2026-10-24T22:28:34.214836+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 24–26 September 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-26-SocioMétrica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 11–13 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 0–2 seats&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 16–18 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 21–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-26-SocioMétrica-seats.png"
+        length="375424"
+        type="image/png"/>
+      <pubDate>Sat, 24 Oct 2026 22:46:16 +0200</pubDate>
+      <dc:date>2026-10-24T22:46:16.889739+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 24–26 September 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-26-SocioMétrica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-26-SocioMétrica-coalitions-seats.png"
+        length="216395"
+        type="image/png"/>
+      <pubDate>Sat, 24 Oct 2026 22:46:16 +0200</pubDate>
+      <dc:date>2026-10-24T22:46:16.889739+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 24–26 September 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-26-SocioMétrica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2.4–4.4%&lt;/li&gt;&lt;li&gt;Vox (PfE): 15.9–20.3%&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0.7–2.0%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.9–2.3%&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1.7–3.5%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.5–1.6%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 23.3–28.2%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2.5–4.5%&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0.0–0.6%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.3–1.2%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 31.3–36.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-26-SocioMétrica.png"
+        length="455437"
+        type="image/png"/>
+      <pubDate>Sat, 24 Oct 2026 22:46:16 +0200</pubDate>
+      <dc:date>2026-10-24T22:46:16.889739+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by DYM for Henneo, 16–21 September 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-21-DYM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17–21 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 11–14 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 23–27 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-21-DYM-seats.png"
+        length="215343"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 00:23:52 +0200</pubDate>
+      <dc:date>2026-10-25T00:23:52.043498+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by DYM for Henneo, 16–21 September 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-21-DYM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-21-DYM-coalitions-seats.png"
+        length="204272"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 00:23:52 +0200</pubDate>
+      <dc:date>2026-10-25T00:23:52.043498+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by DYM for Henneo, 16–21 September 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-21-DYM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 23.6–29.1%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 1.8–3.7%&lt;/li&gt;&lt;li&gt;Vox (PfE): 15.1–19.8%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2.7–5.1%&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 31.8–37.7%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1.3–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-21-DYM.png"
+        length="264610"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 00:23:52 +0200</pubDate>
+      <dc:date>2026-10-25T00:23:52.043498+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for Onda Cero, 16–21 September 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-21-Celeste-Tel.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2–4 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 9–13 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 14–19 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 0–2 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 21–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-21-Celeste-Tel-seats.png"
+        length="388961"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 00:40:21 +0200</pubDate>
+      <dc:date>2026-10-25T00:40:21.771551+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for Onda Cero, 16–21 September 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-21-Celeste-Tel.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-21-Celeste-Tel-coalitions-seats.png"
+        length="233029"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 00:40:21 +0200</pubDate>
+      <dc:date>2026-10-25T00:40:21.771551+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for Onda Cero, 16–21 September 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-21-Celeste-Tel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2.5–5.3%&lt;/li&gt;&lt;li&gt;Vox (PfE): 15.2–20.9%&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0.9–2.8%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.8–2.6%&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 1.0–2.9%&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0.4–1.8%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1.8–4.3%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.6–2.2%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 22.4–28.8%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2.2–4.8%&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0.0–0.8%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.2–1.4%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1.2–3.3%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 30.5–37.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-21-Celeste-Tel.png"
+        length="470561"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 00:40:21 +0200</pubDate>
+      <dc:date>2026-10-25T00:40:21.771551+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Invymark for laSexta, 7–11 September 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-11-Invymark.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 17–20 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 11–14 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 21–25 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-11-Invymark-seats.png"
+        length="225153"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 10:56:24 +0100</pubDate>
+      <dc:date>2026-10-25T10:56:24.0345+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Invymark for laSexta, 7–11 September 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-11-Invymark.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-11-Invymark-coalitions-seats.png"
+        length="211145"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 10:56:24 +0100</pubDate>
+      <dc:date>2026-10-25T10:56:24.0345+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Invymark for laSexta, 7–11 September 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-11-Invymark.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 24.4–29.4%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2.6–4.7%&lt;/li&gt;&lt;li&gt;Vox (PfE): 16.5–20.9%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2.5–4.5%&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 1.2–2.8%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 31.0–36.4%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1.8–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-11-Invymark.png"
+        length="266172"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 10:56:24 +0100</pubDate>
+      <dc:date>2026-10-25T10:56:24.0345+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Target Point for El Debate, 9–10 September 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-10-TargetPoint.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 16–20 seats&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2–4 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 11–15 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 20–25 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-10-TargetPoint-seats.png"
+        length="229427"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 11:19:35 +0100</pubDate>
+      <dc:date>2026-10-25T11:19:35.335276+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Target Point for El Debate, 9–10 September 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-10-TargetPoint.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-10-TargetPoint-coalitions-seats.png"
+        length="221080"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 11:19:35 +0100</pubDate>
+      <dc:date>2026-10-25T11:19:35.335276+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Target Point for El Debate, 9–10 September 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-10-TargetPoint.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 22.4–29.1%&lt;/li&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2.7–5.7%&lt;/li&gt;&lt;li&gt;Vox (PfE): 16.1–22.0%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 1.8–4.4%&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 1.6–4.0%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 28.0–35.1%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 2.0–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-10-TargetPoint.png"
+        length="284208"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 11:19:35 +0100</pubDate>
+      <dc:date>2026-10-25T11:19:35.335276+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Hamalgama Métrica for Vozpópuli, 1–8 September 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-08-HamalgamaMétrica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 11–14 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 15–19 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 20–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-08-HamalgamaMétrica-seats.png"
+        length="385034"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 11:51:38 +0100</pubDate>
+      <dc:date>2026-10-25T11:51:38.035509+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Hamalgama Métrica for Vozpópuli, 1–8 September 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-08-HamalgamaMétrica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-08-HamalgamaMétrica-coalitions-seats.png"
+        length="233483"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 11:51:38 +0100</pubDate>
+      <dc:date>2026-10-25T11:51:38.035509+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Hamalgama Métrica for Vozpópuli, 1–8 September 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-08-HamalgamaMétrica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Vox (PfE): 17.0–21.9%&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.8–2.2%&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1.6–3.6%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 22.5–27.9%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1.2–3.0%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 30.7–36.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-08-HamalgamaMétrica.png"
+        length="461585"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 11:51:38 +0100</pubDate>
+      <dc:date>2026-10-25T11:51:38.035509+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CIS, 1–4 September 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-04-CIS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 11–13 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 21–24 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 17–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-04-CIS-seats.png"
+        length="353726"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 13:05:03 +0100</pubDate>
+      <dc:date>2026-10-25T13:05:03.373431+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CIS, 1–4 September 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-04-CIS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-04-CIS-coalitions-seats.png"
+        length="200127"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 13:05:03 +0100</pubDate>
+      <dc:date>2026-10-25T13:05:03.373431+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CIS, 1–4 September 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-04-CIS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2.7–3.8%&lt;/li&gt;&lt;li&gt;Vox (PfE): 15.5–17.8%&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0.5–1.0%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 1.0–1.7%&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 1.4–2.3%&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0.5–1.0%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 2.0–3.0%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.5–1.0%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 29.6–32.4%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 3.2–4.3%&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0.0–0.3%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.1–0.4%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 2.1–3.0%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 24.2–26.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-04-CIS.png"
+        length="423824"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 13:05:03 +0100</pubDate>
+      <dc:date>2026-10-25T13:05:03.373431+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 1–3 September 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-03-NCReport.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Vox (PfE): 10–14 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0–2 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 14–19 seats&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 0–2 seats&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 21–26 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-03-NCReport-seats.png"
+        length="374113"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 13:20:48 +0100</pubDate>
+      <dc:date>2026-10-25T13:20:48.890509+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 1–3 September 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-03-NCReport.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-03-NCReport-coalitions-seats.png"
+        length="235759"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 13:20:48 +0100</pubDate>
+      <dc:date>2026-10-25T13:20:48.890509+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 1–3 September 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-03-NCReport.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2.1–4.9%&lt;/li&gt;&lt;li&gt;Vox (PfE): 15.5–21.5%&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0.9–2.9%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.8–2.7%&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0.4–1.9%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 1.5–3.9%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.4–2.1%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 21.6–28.4%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2.2–5.1%&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0.0–0.9%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.1–1.2%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1.1–3.3%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 30.9–38.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-03-NCReport.png"
+        length="447068"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 13:20:48 +0100</pubDate>
+      <dc:date>2026-10-25T13:20:48.890509+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GAD3 for ABC, 1–3 September 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-03-GAD3.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimiento Sumar–Izquierda Unida (GUE/NGL): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Vox (PfE): 16.9–21.8%&lt;/li&gt;&lt;li&gt;Junts per Catalunya (NI): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu (GUE/NGL): 0.9–2.4%&lt;/li&gt;&lt;li&gt;Se Acabó La Fiesta (NI): 0.9–2.4%&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega (Greens/EFA): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (RE): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español (S&amp;amp;D): 23.5–28.9%&lt;/li&gt;&lt;li&gt;Podemos (GUE/NGL): 2.2–4.3%&lt;/li&gt;&lt;li&gt;Unión del Pueblo Navarro (*): 0.0–0.6%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario (RE): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí (Greens/EFA): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Partido Popular (EPP): 28.3–34.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_ep_polls/2026-09-03-GAD3.png"
+        length="459853"
+        type="image/png"/>
+      <pubDate>Sun, 25 Oct 2026 13:31:15 +0100</pubDate>
+      <dc:date>2026-10-25T13:31:15.760301+01:00</dc:date>
+    </item>
+    <dc:date>2026-10-25T13:31:15.760301+01:00</dc:date>
   </channel>
 </rss>
