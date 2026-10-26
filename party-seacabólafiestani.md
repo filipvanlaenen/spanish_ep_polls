@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.7% | 0.9–2.4% | 0.6–2.7% | 0.4–2.9% | 0.3–3.3% |
+| [20–24 October 2026](2026-10-24-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
+| [8–22 October 2026](2026-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
 | [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [1–14 October 2026](2026-10-14-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
@@ -261,7 +263,7 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 4% | 100% | Last Result |
 | 0.5–1.5% | 33% | 96% |  |
-| 1.5–2.5% | 55% | 63% | Median |
+| 1.5–2.5% | 55% | 62% | Median |
 | 2.5–3.5% | 7% | 7% |  |
 | 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -276,6 +278,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [20–24 October 2026](2026-10-24-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [8–22 October 2026](2026-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–14 October 2026](2026-10-14-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1 | 1 | 0–2 |
@@ -298,11 +302,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa | 1 | 1 | 1 | 1 | 0–2 |
 | [24–26 September 2026](2026-09-26-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [16–21 September 2026](2026-09-21-DYM.html) | DYM <br> Henneo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [16–21 September 2026](2026-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [16–21 September 2026](2026-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [7–11 September 2026](2026-09-11-Invymark.html) | Invymark <br> laSexta | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [9–10 September 2026](2026-09-10-TargetPoint.html) | Target Point <br> El Debate | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [1–8 September 2026](2026-09-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [1–4 September 2026](2026-09-04-CIS.html) | CIS | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [1–4 September 2026](2026-09-04-CIS.html) | CIS | 1 | 1 | 1 | 0–1 | 0–1 |
 | [1–3 September 2026](2026-09-03-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [1–3 September 2026](2026-09-03-GAD3.html) | GAD3 <br> ABC | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [31 August–2 September 2026](2026-09-02-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
@@ -526,8 +530,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 29% | 100% | Last Result |
-| 1 | 69% | 71% | Median |
+| 0 | 30% | 100% | Last Result |
+| 1 | 69% | 70% | Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 

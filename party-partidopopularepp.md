@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.2% | 27.8–35.0% | 22.7–35.8% | 22.1–36.4% | 21.4–37.7% |
+| N/A | [Poll Average](average.html) | 31.9% | 27.6–34.7% | 22.6–35.5% | 22.0–36.1% | 21.4–37.3% |
+| [20–24 October 2026](2026-10-24-NCReport.html) | NC Report <br> La Razón | 33.1% | 30.7–35.5% | 30.1–36.2% | 29.5–36.8% | 28.4–38.0% |
+| [8–22 October 2026](2026-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 30.6% | 29.5–31.7% | 29.2–32.0% | 29.0–32.2% | 28.5–32.8% |
 | [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 28.5% | 26.7–30.4% | 26.2–30.9% | 25.8–31.4% | 25.0–32.3% |
 | [1–14 October 2026](2026-10-14-SigmaDos.html) | Sigma Dos <br> El Mundo | 31.5% | 30.4–32.6% | 30.1–32.9% | 29.8–33.2% | 29.3–33.7% |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 32.6% | 30.7–34.6% | 30.2–35.1% | 29.8–35.6% | 28.9–36.5% |
@@ -282,22 +284,22 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.8% | 100% |  |
 | 21.5–22.5% | 4% | 99.2% |  |
-| 22.5–23.5% | 2% | 96% |  |
-| 23.5–24.5% | 0.1% | 94% |  |
-| 24.5–25.5% | 0.2% | 94% |  |
-| 25.5–26.5% | 0.7% | 94% |  |
-| 26.5–27.5% | 2% | 93% |  |
-| 27.5–28.5% | 4% | 91% |  |
-| 28.5–29.5% | 5% | 87% |  |
-| 29.5–30.5% | 8% | 82% |  |
-| 30.5–31.5% | 13% | 74% |  |
-| 31.5–32.5% | 17% | 61% | Median |
-| 32.5–33.5% | 16% | 44% |  |
-| 33.5–34.5% | 13% | 28% |  |
-| 34.5–35.5% | 8% | 14% |  |
-| 35.5–36.5% | 4% | 6% |  |
-| 36.5–37.5% | 2% | 2% |  |
-| 37.5–38.5% | 0.5% | 0.6% |  |
+| 22.5–23.5% | 2% | 95% |  |
+| 23.5–24.5% | 0.1% | 93% |  |
+| 24.5–25.5% | 0.2% | 93% |  |
+| 25.5–26.5% | 0.8% | 93% |  |
+| 26.5–27.5% | 2% | 92% |  |
+| 27.5–28.5% | 4% | 90% |  |
+| 28.5–29.5% | 6% | 86% |  |
+| 29.5–30.5% | 10% | 80% |  |
+| 30.5–31.5% | 14% | 70% |  |
+| 31.5–32.5% | 16% | 56% | Median |
+| 32.5–33.5% | 16% | 40% |  |
+| 33.5–34.5% | 12% | 24% |  |
+| 34.5–35.5% | 7% | 12% |  |
+| 35.5–36.5% | 3% | 5% |  |
+| 36.5–37.5% | 1.0% | 1.4% |  |
+| 37.5–38.5% | 0.3% | 0.3% |  |
 | 38.5–39.5% | 0.1% | 0.1% |  |
 | 39.5–40.5% | 0% | 0% |  |
 
@@ -310,7 +312,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 19–24 | 16–25 | 15–25 | 15–26 |
+| N/A | [Poll Average](average.html) | 22 | 19–24 | 15–25 | 15–25 | 15–26 |
+| [20–24 October 2026](2026-10-24-NCReport.html) | NC Report <br> La Razón | 22 | 20–23 | 20–24 | 20–24 | 19–25 |
+| [8–22 October 2026](2026-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 22 | 21–22 | 20–22 | 20–22 | 20–22 |
 | [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 19 | 19–20 | 18–20 | 18–20 | 17–21 |
 | [1–14 October 2026](2026-10-14-SigmaDos.html) | Sigma Dos <br> El Mundo | 22 | 21–22 | 21–22 | 21–22 | 21–23 |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 23 | 23–24 | 23–24 | 22–24 | 21–24 |
@@ -333,17 +337,17 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25–28 September 2026](2026-09-28-40dB.html) | 40dB <br> Prisa | 22 | 22–23 | 21–24 | 21–24 | 21–24 |
 | [24–26 September 2026](2026-09-26-SocioMétrica.html) | SocioMétrica <br> El Español | 22 | 22 | 22–23 | 21–24 | 21–25 |
 | [16–21 September 2026](2026-09-21-DYM.html) | DYM <br> Henneo | 25 | 23–26 | 23–27 | 23–27 | 22–28 |
-| [16–21 September 2026](2026-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 23 | 22–24 | 22–25 | 21–25 | 20–26 |
+| [16–21 September 2026](2026-09-21-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 23 | 22–24 | 21–25 | 21–25 | 20–26 |
 | [7–11 September 2026](2026-09-11-Invymark.html) | Invymark <br> laSexta | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
 | [9–10 September 2026](2026-09-10-TargetPoint.html) | Target Point <br> El Debate | 22 | 21–24 | 20–24 | 20–25 | 19–26 |
-| [1–8 September 2026](2026-09-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 22 | 22–24 | 21–24 | 20–24 | 20–25 |
-| [1–4 September 2026](2026-09-04-CIS.html) | CIS | 19 | 18–19 | 17–19 | 17–20 | 17–20 |
-| [1–3 September 2026](2026-09-03-NCReport.html) | NC Report <br> La Razón | 22 | 22–24 | 22–25 | 21–26 | 21–26 |
-| [1–3 September 2026](2026-09-03-GAD3.html) | GAD3 <br> ABC | 21 | 21 | 20–21 | 20–22 | 18–23 |
+| [1–8 September 2026](2026-09-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 23 | 22–24 | 21–24 | 20–25 | 20–25 |
+| [1–4 September 2026](2026-09-04-CIS.html) | CIS | 19 | 18–19 | 17–19 | 17–19 | 17–20 |
+| [1–3 September 2026](2026-09-03-NCReport.html) | NC Report <br> La Razón | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
+| [1–3 September 2026](2026-09-03-GAD3.html) | GAD3 <br> ABC | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
 | [31 August–2 September 2026](2026-09-02-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [24–28 August 2026](2026-08-28-MoreinCommon.html) | More in Common | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
-| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OKDiario | 23 | 22–24 | 22–24 | 22–24 | 21–25 |
-| [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 23 | 23–25 | 22–25 | 22–25 | 22–25 |
+| [24–28 August 2026](2026-08-28-MoreinCommon.html) | More in Common | 20 | 19–21 | 19–22 | 19–22 | 18–22 |
+| [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OKDiario | 24 | 22–24 | 22–24 | 22–24 | 21–25 |
+| [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 23 | 23–24 | 22–25 | 22–25 | 22–26 |
 | [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 21 | 20–22 | 20–23 | 20–23 | 19–23 |
 | [5–6 August 2026](2026-08-06-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [31 July–4 August 2026](2026-08-04-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
@@ -577,18 +581,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 5% | 100% |  |
-| 16 | 1.5% | 95% |  |
-| 17 | 0.2% | 94% |  |
-| 18 | 0.8% | 94% |  |
-| 19 | 5% | 93% |  |
-| 20 | 8% | 88% |  |
-| 21 | 14% | 80% |  |
-| 22 | 23% | 67% | Median |
-| 23 | 22% | 43% |  |
-| 24 | 15% | 22% |  |
-| 25 | 5% | 7% |  |
-| 26 | 1.2% | 1.4% |  |
-| 27 | 0.2% | 0.2% |  |
+| 16 | 2% | 95% |  |
+| 17 | 0.2% | 93% |  |
+| 18 | 0.9% | 93% |  |
+| 19 | 5% | 92% |  |
+| 20 | 9% | 87% |  |
+| 21 | 15% | 78% |  |
+| 22 | 23% | 63% | Median |
+| 23 | 21% | 40% |  |
+| 24 | 13% | 19% |  |
+| 25 | 5% | 6% |  |
+| 26 | 1.0% | 1.2% |  |
+| 27 | 0.1% | 0.2% |  |
 | 28 | 0% | 0% |  |
 
 
