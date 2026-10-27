@@ -317,7 +317,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [24–28 August 2026](2026-08-28-MoreinCommon.html) | More in Common | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OKDiario | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [5–6 August 2026](2026-08-06-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [31 July–4 August 2026](2026-08-04-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [6–20 July 2026](2026-07-20-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |

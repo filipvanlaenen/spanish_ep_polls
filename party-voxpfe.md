@@ -333,13 +333,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [24–28 August 2026](2026-08-28-MoreinCommon.html) | More in Common | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [26–27 August 2026](2026-08-27-Data10.html) | Data10 <br> OKDiario | 13 | 12–13 | 12–13 | 11–14 | 11–14 |
 | [20–26 August 2026](2026-08-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 13 | 11–13 | 11–13 | 11–13 | 11–14 |
-| [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 11 | 11–12 | 10–12 | 10–13 | 9–13 |
+| [22–25 August 2026](2026-08-25-Cluster17.html) | Cluster17 <br> Agenda Pública | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [5–6 August 2026](2026-08-06-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [31 July–4 August 2026](2026-08-04-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [6–20 July 2026](2026-07-20-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [15–20 July 2026](2026-07-20-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [15–17 July 2026](2026-07-17-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
-| [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
+| [6–9 July 2026](2026-07-09-GESOP.html) | GESOP <br> Prensa Ibérica | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [30 June–6 July 2026](2026-07-06-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli |  |  |  |  |  |
 | [1–6 July 2026](2026-07-06-CIS.html) | CIS |  |  |  |  |  |
 | [2–4 July 2026](2026-07-04-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
