@@ -10,9 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.9% | 17.1–20.7% | 16.7–21.2% | 16.3–21.7% | 15.7–22.7% |
+| N/A | [Poll Average](average.html) | 18.9% | 17.1–20.7% | 16.7–21.2% | 16.4–21.7% | 15.7–22.7% |
+| [26–28 October 2026](2026-10-28-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 19.2% | 17.8–20.7% | 17.4–21.1% | 17.0–21.5% | 16.4–22.3% |
+| [22–28 October 2026](2026-10-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 19.9% | 18.4–21.6% | 17.9–22.1% | 17.5–22.5% | 16.8–23.3% |
+| [1 September–25 October 2026](2026-10-25-SocioMétrica.html) | SocioMétrica <br> El Español | 18.6% | 17.7–19.5% | 17.5–19.8% | 17.3–20.0% | 16.9–20.4% |
 | [20–24 October 2026](2026-10-24-NCReport.html) | NC Report <br> La Razón | 19.1% | 17.2–21.2% | 16.6–21.8% | 16.2–22.3% | 15.3–23.4% |
+| [21–23 October 2026](2026-10-23-Winston.html) | Winston <br> Artículo14 | 19.2% | N/A | N/A | N/A | N/A |
 | [8–22 October 2026](2026-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 19.9% | 19.0–20.8% | 18.7–21.1% | 18.5–21.3% | 18.1–21.8% |
+| [20–22 October 2026](2026-10-22-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es | 19.8% | N/A | N/A | N/A | N/A |
 | [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [1–14 October 2026](2026-10-14-SigmaDos.html) | Sigma Dos <br> El Mundo | 19.5% | 18.6–20.4% | 18.3–20.7% | 18.1–21.0% | 17.7–21.4% |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 18.8% | 17.3–20.5% | 16.9–20.9% | 16.5–21.4% | 15.8–22.2% |
@@ -276,15 +281,15 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.4% | 100% |  |
-| 15.5–16.5% | 4% | 99.6% |  |
+| 14.5–15.5% | 0.3% | 100% |  |
+| 15.5–16.5% | 3% | 99.6% |  |
 | 16.5–17.5% | 14% | 96% |  |
-| 17.5–18.5% | 22% | 82% |  |
+| 17.5–18.5% | 23% | 82% |  |
 | 18.5–19.5% | 27% | 60% | Median |
-| 19.5–20.5% | 21% | 33% |  |
+| 19.5–20.5% | 20% | 33% |  |
 | 20.5–21.5% | 9% | 12% |  |
 | 21.5–22.5% | 3% | 3% |  |
-| 22.5–23.5% | 0.6% | 0.7% |  |
+| 22.5–23.5% | 0.5% | 0.6% |  |
 | 23.5–24.5% | 0.1% | 0.1% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
@@ -298,8 +303,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
+| [26–28 October 2026](2026-10-28-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
+| [22–28 October 2026](2026-10-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 14 | 13–14 | 12–14 | 12–15 | 11–15 |
+| [1 September–25 October 2026](2026-10-25-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 12–13 | 12–13 | 11–14 | 11–14 |
 | [20–24 October 2026](2026-10-24-NCReport.html) | NC Report <br> La Razón | 13 | 11–14 | 11–14 | 11–15 | 10–16 |
+| [21–23 October 2026](2026-10-23-Winston.html) | Winston <br> Artículo14 |  |  |  |  |  |
 | [8–22 October 2026](2026-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 13 | 13–14 | 13–14 | 13–15 | 12–16 |
+| [20–22 October 2026](2026-10-22-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es |  |  |  |  |  |
 | [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 13 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [1–14 October 2026](2026-10-14-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 13–14 | 13–14 | 13–14 | 12–14 |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 13 | 13 | 12–13 | 11–14 |
@@ -561,11 +571,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0.6% | 100% |  |
-| 11 | 7% | 99.4% |  |
-| 12 | 27% | 93% |  |
-| 13 | 42% | 66% | Median |
-| 14 | 20% | 24% |  |
-| 15 | 4% | 5% |  |
+| 11 | 8% | 99.4% |  |
+| 12 | 29% | 92% |  |
+| 13 | 39% | 63% | Median |
+| 14 | 19% | 23% |  |
+| 15 | 4% | 4% |  |
 | 16 | 0.4% | 0.4% |  |
 | 17 | 0% | 0% |  |
 
