@@ -10,10 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.7–3.1% | 1.5–3.3% | 1.4–3.5% | 1.2–3.8% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.7–3.2% | 1.5–3.3% | 1.4–3.5% | 1.2–3.8% |
+| [1 September–1 November 2026](2026-11-01-SocioMétrica.html) | SocioMétrica <br> El Español | 2.5% | 2.2–2.8% | 2.1–2.9% | 2.1–3.0% | 2.0–3.1% |
+| [28–30 October 2026](2026-10-30-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
+| [29–30 October 2026](2026-10-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.0% | 2.6–3.5% | 2.5–3.6% | 2.4–3.7% | 2.2–4.0% |
+| [26–29 October 2026](2026-10-29-NCReport.html) | NC Report <br> La Razón | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [26–28 October 2026](2026-10-28-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 2.6% | 2.1–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.0% |
 | [22–28 October 2026](2026-10-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [1 September–25 October 2026](2026-10-25-SocioMétrica.html) | SocioMétrica <br> El Español | 2.6% | 2.3–3.0% | 2.2–3.1% | 2.1–3.2% | 2.0–3.4% |
+| [21–25 October 2026](2026-10-25-MoreinCommon.html) | More in Common | 0.0% | N/A | N/A | N/A | N/A |
 | [20–24 October 2026](2026-10-24-NCReport.html) | NC Report <br> La Razón | 2.0% | 1.5–3.0% | 1.3–3.2% | 1.2–3.5% | 1.0–4.0% |
 | [21–23 October 2026](2026-10-23-Winston.html) | Winston <br> Artículo14 | 0.0% | N/A | N/A | N/A | N/A |
 | [8–22 October 2026](2026-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.5% | 2.2–2.9% | 2.1–3.0% | 2.0–3.1% | 1.9–3.3% |
@@ -268,8 +273,8 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 52% | 94% | Median |
-| 2.5–3.5% | 40% | 42% |  |
+| 1.5–2.5% | 51% | 94% | Median |
+| 2.5–3.5% | 42% | 44% |  |
 | 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -282,10 +287,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [1 September–1 November 2026](2026-11-01-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [28–30 October 2026](2026-10-30-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
+| [29–30 October 2026](2026-10-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [26–29 October 2026](2026-10-29-NCReport.html) | NC Report <br> La Razón | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [26–28 October 2026](2026-10-28-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–28 October 2026](2026-10-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [1 September–25 October 2026](2026-10-25-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [21–25 October 2026](2026-10-25-MoreinCommon.html) | More in Common |  |  |  |  |  |
 | [20–24 October 2026](2026-10-24-NCReport.html) | NC Report <br> La Razón | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [21–23 October 2026](2026-10-23-Winston.html) | Winston <br> Artículo14 |  |  |  |  |  |
 | [8–22 October 2026](2026-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -540,9 +550,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 74% | 95% | Median |
-| 2 | 21% | 21% |  |
+| 0 | 2% | 100% | Last Result |
+| 1 | 70% | 98% | Median |
+| 2 | 28% | 28% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 

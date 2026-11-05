@@ -10,10 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 1.7–3.7% | 1.5–4.0% | 1.3–4.2% | 1.0–4.8% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.7–3.6% | 1.4–3.9% | 1.3–4.2% | 1.0–4.7% |
+| [1 September–1 November 2026](2026-11-01-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
+| [28–30 October 2026](2026-10-30-TargetPoint.html) | Target Point <br> El Debate | 0.0% | N/A | N/A | N/A | N/A |
+| [29–30 October 2026](2026-10-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [26–29 October 2026](2026-10-29-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [26–28 October 2026](2026-10-28-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 0.0% | N/A | N/A | N/A | N/A |
 | [22–28 October 2026](2026-10-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0.0% | N/A | N/A | N/A | N/A |
 | [1 September–25 October 2026](2026-10-25-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
+| [21–25 October 2026](2026-10-25-MoreinCommon.html) | More in Common | 0.0% | N/A | N/A | N/A | N/A |
 | [20–24 October 2026](2026-10-24-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [21–23 October 2026](2026-10-23-Winston.html) | Winston <br> Artículo14 | 0.0% | N/A | N/A | N/A | N/A |
 | [8–22 October 2026](2026-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
@@ -267,11 +272,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 35% | 94% |  |
-| 2.5–3.5% | 45% | 58% | Median |
-| 3.5–4.5% | 12% | 13% |  |
-| 4.5–5.5% | 1.0% | 1.0% |  |
+| 0.5–1.5% | 7% | 100% |  |
+| 1.5–2.5% | 37% | 93% |  |
+| 2.5–3.5% | 44% | 55% | Median |
+| 3.5–4.5% | 11% | 12% |  |
+| 4.5–5.5% | 0.8% | 0.8% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -284,9 +289,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
+| [1 September–1 November 2026](2026-11-01-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [28–30 October 2026](2026-10-30-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
+| [29–30 October 2026](2026-10-30-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [26–29 October 2026](2026-10-29-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [26–28 October 2026](2026-10-28-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
 | [22–28 October 2026](2026-10-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli |  |  |  |  |  |
 | [1 September–25 October 2026](2026-10-25-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [21–25 October 2026](2026-10-25-MoreinCommon.html) | More in Common |  |  |  |  |  |
 | [20–24 October 2026](2026-10-24-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [21–23 October 2026](2026-10-23-Winston.html) | Winston <br> Artículo14 |  |  |  |  |  |
 | [8–22 October 2026](2026-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
@@ -541,11 +551,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.1% | 100% | Last Result |
-| 1 | 37% | 98.9% |  |
-| 2 | 52% | 62% | Median |
-| 3 | 10% | 10% |  |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0% | 0% |  |
+| 0 | 1.3% | 100% | Last Result |
+| 1 | 39% | 98.7% |  |
+| 2 | 50% | 60% | Median |
+| 3 | 9% | 9% |  |
+| 4 | 0% | 0% |  |
 
 
