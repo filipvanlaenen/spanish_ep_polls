@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.7–3.5% | 1.6–4.1% | 1.5–4.6% | 1.3–5.4% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.7–3.5% | 1.6–4.0% | 1.5–4.5% | 1.3–5.3% |
 | [1 September–1 November 2026](2026-11-01-SocioMétrica.html) | SocioMétrica <br> El Español | 1.7% | 1.5–2.0% | 1.4–2.0% | 1.4–2.1% | 1.3–2.2% |
 | [28–30 October 2026](2026-10-30-TargetPoint.html) | Target Point <br> El Debate | 2.4% | 1.9–3.2% | 1.8–3.4% | 1.7–3.6% | 1.4–4.0% |
 | [29–30 October 2026](2026-10-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 1.9% | 1.6–2.3% | 1.5–2.4% | 1.4–2.5% | 1.3–2.7% |
@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [20–24 October 2026](2026-10-24-NCReport.html) | NC Report <br> La Razón | 2.7% | 2.0–3.7% | 1.8–4.0% | 1.7–4.3% | 1.4–4.8% |
 | [21–23 October 2026](2026-10-23-Winston.html) | Winston <br> Artículo14 | 0.0% | N/A | N/A | N/A | N/A |
 | [8–22 October 2026](2026-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.8% | 2.4–3.2% | 2.3–3.3% | 2.3–3.4% | 2.1–3.6% |
-| [20–22 October 2026](2026-10-22-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es | 2.7% | N/A | N/A | N/A | N/A |
+| [20–22 October 2026](2026-10-22-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es | 2.7% | 2.3–3.2% | 2.2–3.4% | 2.1–3.5% | 1.9–3.8% |
 | [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [1–14 October 2026](2026-10-14-SigmaDos.html) | Sigma Dos <br> El Mundo | 2.8% | 2.4–3.2% | 2.3–3.4% | 2.3–3.5% | 2.1–3.7% |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
@@ -273,10 +273,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 50% | 96% | Median |
-| 2.5–3.5% | 36% | 45% |  |
-| 3.5–4.5% | 7% | 10% |  |
-| 4.5–5.5% | 2% | 3% |  |
+| 1.5–2.5% | 49% | 96% | Median |
+| 2.5–3.5% | 38% | 47% |  |
+| 3.5–4.5% | 7% | 9% |  |
+| 4.5–5.5% | 2% | 2% |  |
 | 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -301,7 +301,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–24 October 2026](2026-10-24-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 1–3 | 0–3 |
 | [21–23 October 2026](2026-10-23-Winston.html) | Winston <br> Artículo14 |  |  |  |  |  |
 | [8–22 October 2026](2026-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [20–22 October 2026](2026-10-22-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es |  |  |  |  |  |
+| [20–22 October 2026](2026-10-22-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 1 | 1 | 1 | 0–1 | 0–2 |
 | [1–14 October 2026](2026-10-14-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -552,9 +552,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.0% | 100% | Last Result |
-| 1 | 68% | 99.0% | Median |
-| 2 | 27% | 31% |  |
+| 0 | 0.9% | 100% | Last Result |
+| 1 | 68% | 99.1% | Median |
+| 2 | 29% | 31% |  |
 | 3 | 3% | 3% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |

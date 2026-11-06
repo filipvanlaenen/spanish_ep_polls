@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.1% | 17.3–20.9% | 16.8–21.5% | 16.5–21.9% | 15.9–22.7% |
+| N/A | [Poll Average](average.html) | 19.2% | 17.3–21.0% | 16.9–21.5% | 16.5–21.9% | 15.9–22.7% |
 | [1 September–1 November 2026](2026-11-01-SocioMétrica.html) | SocioMétrica <br> El Español | 19.1% | 18.4–19.8% | 18.2–20.1% | 18.0–20.2% | 17.7–20.6% |
 | [28–30 October 2026](2026-10-30-TargetPoint.html) | Target Point <br> El Debate | 19.9% | 18.4–21.6% | 18.0–22.1% | 17.6–22.5% | 16.9–23.3% |
 | [29–30 October 2026](2026-10-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 19.3% | 18.3–20.3% | 18.0–20.6% | 17.8–20.9% | 17.3–21.4% |
@@ -22,7 +22,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [20–24 October 2026](2026-10-24-NCReport.html) | NC Report <br> La Razón | 19.1% | 17.2–21.2% | 16.6–21.8% | 16.2–22.3% | 15.3–23.4% |
 | [21–23 October 2026](2026-10-23-Winston.html) | Winston <br> Artículo14 | 19.2% | 17.8–20.7% | 17.4–21.1% | 17.0–21.5% | 16.4–22.3% |
 | [8–22 October 2026](2026-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 19.9% | 19.0–20.8% | 18.7–21.1% | 18.5–21.3% | 18.1–21.8% |
-| [20–22 October 2026](2026-10-22-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es | 19.8% | N/A | N/A | N/A | N/A |
+| [20–22 October 2026](2026-10-22-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es | 19.8% | 18.7–21.0% | 18.4–21.3% | 18.1–21.6% | 17.6–22.2% |
 | [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [1–14 October 2026](2026-10-14-SigmaDos.html) | Sigma Dos <br> El Mundo | 19.5% | 18.6–20.4% | 18.3–20.7% | 18.1–21.0% | 17.7–21.4% |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 18.8% | 17.3–20.5% | 16.9–20.9% | 16.5–21.4% | 15.8–22.2% |
@@ -287,14 +287,14 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.2% | 100% |  |
-| 15.5–16.5% | 3% | 99.8% |  |
-| 16.5–17.5% | 11% | 97% |  |
-| 17.5–18.5% | 20% | 86% |  |
-| 18.5–19.5% | 29% | 67% | Median |
-| 19.5–20.5% | 22% | 38% |  |
-| 20.5–21.5% | 11% | 16% |  |
+| 15.5–16.5% | 2% | 99.8% |  |
+| 16.5–17.5% | 10% | 97% |  |
+| 17.5–18.5% | 19% | 87% |  |
+| 18.5–19.5% | 29% | 68% | Median |
+| 19.5–20.5% | 23% | 39% |  |
+| 20.5–21.5% | 12% | 16% |  |
 | 21.5–22.5% | 4% | 4% |  |
-| 22.5–23.5% | 0.7% | 0.7% |  |
+| 22.5–23.5% | 0.6% | 0.7% |  |
 | 23.5–24.5% | 0.1% | 0.1% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
@@ -319,7 +319,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–24 October 2026](2026-10-24-NCReport.html) | NC Report <br> La Razón | 13 | 11–14 | 11–14 | 11–15 | 10–16 |
 | [21–23 October 2026](2026-10-23-Winston.html) | Winston <br> Artículo14 | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [8–22 October 2026](2026-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 13 | 13–14 | 13–14 | 13–15 | 12–16 |
-| [20–22 October 2026](2026-10-22-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es |  |  |  |  |  |
+| [20–22 October 2026](2026-10-22-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
 | [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 13 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [1–14 October 2026](2026-10-14-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 13–14 | 13–14 | 13–14 | 12–14 |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 13 | 13 | 12–13 | 11–14 |
@@ -582,11 +582,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0.4% | 100% |  |
 | 11 | 5% | 99.6% |  |
-| 12 | 21% | 94% |  |
-| 13 | 40% | 74% | Median |
-| 14 | 22% | 34% |  |
-| 15 | 10% | 11% |  |
-| 16 | 1.2% | 1.2% |  |
+| 12 | 20% | 95% |  |
+| 13 | 39% | 75% | Median |
+| 14 | 24% | 36% |  |
+| 15 | 10% | 12% |  |
+| 16 | 1.1% | 1.2% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
