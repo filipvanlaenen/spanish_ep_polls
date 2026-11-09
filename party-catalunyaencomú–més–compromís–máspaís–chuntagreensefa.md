@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.4–4.0% | 2.2–4.3% | 2.1–4.6% | 1.8–5.1% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.2–4.0% | 2.0–4.3% | 1.9–4.6% | 1.6–5.1% |
 | [1 September–8 November 2026](2026-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 2.5% | 2.3–2.9% | 2.2–2.9% | 2.1–3.0% | 2.0–3.2% |
 | [2–6 November 2026](2026-11-06-IMOP.html) | IMOP <br> El Confidencial | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [2–5 November 2026](2026-11-05-NCReport.html) | NC Report <br> La Razón | 3.0% | 2.3–4.0% | 2.1–4.3% | 1.9–4.6% | 1.6–5.1% |
-| [3–5 November 2026](2026-11-05-GAD3.html) | GAD3 <br> ABC | 3.2% | N/A | N/A | N/A | N/A |
-| [2–4 November 2026](2026-11-04-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 3.1% | N/A | N/A | N/A | N/A |
-| [2–4 November 2026](2026-11-04-40dB.html) | 40dB <br> Prisa | 2.2% | N/A | N/A | N/A | N/A |
-| [29 October–3 November 2026](2026-11-03-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3.5% | N/A | N/A | N/A | N/A |
+| [3–5 November 2026](2026-11-05-GAD3.html) | GAD3 <br> ABC | 3.2% | 2.7–3.9% | 2.6–4.1% | 2.5–4.3% | 2.2–4.6% |
+| [2–4 November 2026](2026-11-04-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.2–4.2% | 2.0–4.6% |
+| [2–4 November 2026](2026-11-04-40dB.html) | 40dB <br> Prisa | 2.2% | 1.8–2.6% | 1.7–2.8% | 1.6–2.9% | 1.4–3.1% |
+| [29 October–3 November 2026](2026-11-03-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3.5% | 2.7–4.5% | 2.5–4.8% | 2.4–5.1% | 2.0–5.6% |
 | [1 September–1 November 2026](2026-11-01-SocioMétrica.html) | SocioMétrica <br> El Español | 2.6% | N/A | N/A | N/A | N/A |
 | [28–30 October 2026](2026-10-30-TargetPoint.html) | Target Point <br> El Debate | 2.8% | N/A | N/A | N/A | N/A |
 | [29–30 October 2026](2026-10-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.6% | N/A | N/A | N/A | N/A |
@@ -279,9 +279,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 24% | 99.9% |  |
-| 2.5–3.5% | 51% | 76% | Median |
+| 0.5–1.5% | 0.3% | 100% |  |
+| 1.5–2.5% | 25% | 99.7% |  |
+| 2.5–3.5% | 50% | 75% | Median |
 | 3.5–4.5% | 22% | 25% |  |
 | 4.5–5.5% | 3% | 3% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
@@ -296,14 +296,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [1 September–8 November 2026](2026-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–6 November 2026](2026-11-06-IMOP.html) | IMOP <br> El Confidencial | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
-| [2–5 November 2026](2026-11-05-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| [3–5 November 2026](2026-11-05-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [2–4 November 2026](2026-11-04-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
-| [2–4 November 2026](2026-11-04-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
-| [29 October–3 November 2026](2026-11-03-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero |  |  |  |  |  |
+| [2–5 November 2026](2026-11-05-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–4 |
+| [3–5 November 2026](2026-11-05-GAD3.html) | GAD3 <br> ABC | 2 | 2 | 2 | 2–3 | 1–3 |
+| [2–4 November 2026](2026-11-04-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [2–4 November 2026](2026-11-04-40dB.html) | 40dB <br> Prisa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [29 October–3 November 2026](2026-11-03-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 2 | 2 | 2 | 2–3 | 1–3 |
 | [1 September–1 November 2026](2026-11-01-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [28–30 October 2026](2026-10-30-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [29–30 October 2026](2026-10-30-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
@@ -567,10 +567,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 17% | 100% |  |
-| 2 | 72% | 83% | Median |
-| 3 | 10% | 10% |  |
-| 4 | 0.5% | 0.5% |  |
+| 1 | 20% | 100% |  |
+| 2 | 73% | 80% | Median |
+| 3 | 6% | 7% |  |
+| 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
 
