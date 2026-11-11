@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.0% | 24.5–29.6% | 23.9–30.4% | 23.3–30.9% | 22.2–31.8% |
+| N/A | [Poll Average](average.html) | 26.8% | 24.4–29.0% | 23.8–29.8% | 23.4–30.5% | 22.4–31.5% |
 | [1 September–8 November 2026](2026-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 27.7% | 26.9–28.5% | 26.7–28.7% | 26.5–28.9% | 26.2–29.3% |
 | [2–6 November 2026](2026-11-06-IMOP.html) | IMOP <br> El Confidencial | 25.9% | 24.2–27.7% | 23.7–28.3% | 23.3–28.7% | 22.5–29.6% |
 | [2–5 November 2026](2026-11-05-NCReport.html) | NC Report <br> La Razón | 25.7% | 23.5–28.0% | 22.9–28.6% | 22.4–29.2% | 21.4–30.3% |
@@ -19,23 +19,23 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2–4 November 2026](2026-11-04-40dB.html) | 40dB <br> Prisa | 29.9% | 28.6–31.2% | 28.2–31.6% | 27.9–31.9% | 27.3–32.6% |
 | [29 October–3 November 2026](2026-11-03-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 25.7% | 23.7–27.8% | 23.1–28.4% | 22.6–29.0% | 21.7–30.0% |
 | [1 September–1 November 2026](2026-11-01-SocioMétrica.html) | SocioMétrica <br> El Español | 26.6% | N/A | N/A | N/A | N/A |
-| [28–30 October 2026](2026-10-30-TargetPoint.html) | Target Point <br> El Debate | 25.5% | N/A | N/A | N/A | N/A |
-| [29–30 October 2026](2026-10-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 24.6% | N/A | N/A | N/A | N/A |
-| [26–29 October 2026](2026-10-29-NCReport.html) | NC Report <br> La Razón | 25.6% | N/A | N/A | N/A | N/A |
-| [26–28 October 2026](2026-10-28-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 26.9% | N/A | N/A | N/A | N/A |
-| [22–28 October 2026](2026-10-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 26.4% | N/A | N/A | N/A | N/A |
-| [1 September–25 October 2026](2026-10-25-SocioMétrica.html) | SocioMétrica <br> El Español | 27.0% | N/A | N/A | N/A | N/A |
-| [21–25 October 2026](2026-10-25-MoreinCommon.html) | More in Common | 27.6% | N/A | N/A | N/A | N/A |
+| [28–30 October 2026](2026-10-30-TargetPoint.html) | Target Point <br> El Debate | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.1% |
+| [29–30 October 2026](2026-10-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 24.6% | 23.5–25.7% | 23.2–26.0% | 22.9–26.3% | 22.4–26.9% |
+| [26–29 October 2026](2026-10-29-NCReport.html) | NC Report <br> La Razón | 25.6% | 23.9–27.4% | 23.4–28.0% | 23.0–28.4% | 22.2–29.3% |
+| [26–28 October 2026](2026-10-28-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 26.9% | 25.3–28.6% | 24.9–29.1% | 24.5–29.5% | 23.7–30.3% |
+| [22–28 October 2026](2026-10-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 26.4% | 24.7–28.2% | 24.2–28.8% | 23.8–29.2% | 22.9–30.1% |
+| [1 September–25 October 2026](2026-10-25-SocioMétrica.html) | SocioMétrica <br> El Español | 27.0% | 26.0–28.0% | 25.7–28.3% | 25.5–28.6% | 25.0–29.1% |
+| [21–25 October 2026](2026-10-25-MoreinCommon.html) | More in Common | 27.6% | 26.4–28.9% | 26.1–29.2% | 25.8–29.5% | 25.2–30.1% |
 | [20–24 October 2026](2026-10-24-NCReport.html) | NC Report <br> La Razón | 25.8% | N/A | N/A | N/A | N/A |
-| [21–23 October 2026](2026-10-23-Winston.html) | Winston <br> Artículo14 | 27.1% | N/A | N/A | N/A | N/A |
+| [21–23 October 2026](2026-10-23-Winston.html) | Winston <br> Artículo14 | 27.1% | 25.5–28.8% | 25.0–29.3% | 24.6–29.7% | 23.9–30.5% |
 | [8–22 October 2026](2026-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 26.1% | N/A | N/A | N/A | N/A |
-| [20–22 October 2026](2026-10-22-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es | 27.6% | N/A | N/A | N/A | N/A |
-| [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 27.1% | N/A | N/A | N/A | N/A |
+| [20–22 October 2026](2026-10-22-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es | 27.6% | 26.3–28.9% | 26.0–29.3% | 25.7–29.6% | 25.1–30.2% |
+| [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 27.1% | 25.3–29.0% | 24.9–29.5% | 24.4–29.9% | 23.6–30.8% |
 | [1–14 October 2026](2026-10-14-SigmaDos.html) | Sigma Dos <br> El Mundo | 25.3% | N/A | N/A | N/A | N/A |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español | 26.2% | N/A | N/A | N/A | N/A |
 | [6–9 October 2026](2026-10-09-TargetPoint.html) | Target Point <br> El Debate | 25.8% | N/A | N/A | N/A | N/A |
 | [1–8 October 2026](2026-10-08-SigmaDos.html) | Sigma Dos <br> El Mundo | 25.3% | N/A | N/A | N/A | N/A |
-| [5–8 October 2026](2026-10-08-Invymark.html) | Invymark <br> laSexta | 28.0% | N/A | N/A | N/A | N/A |
+| [5–8 October 2026](2026-10-08-Invymark.html) | Invymark <br> laSexta | 28.0% | 26.3–29.8% | 25.8–30.3% | 25.4–30.7% | 24.6–31.6% |
 | [5–8 October 2026](2026-10-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 25.3% | N/A | N/A | N/A | N/A |
 | [6–8 October 2026](2026-10-08-GESOP.html) | GESOP <br> Prensa Ibérica | 26.1% | N/A | N/A | N/A | N/A |
 | [6–8 October 2026](2026-10-08-GAD3.html) | GAD3 <br> Vocento | 26.4% | N/A | N/A | N/A | N/A |
@@ -300,18 +300,18 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.7% | 99.9% |  |
-| 22.5–23.5% | 3% | 99.2% |  |
-| 23.5–24.5% | 7% | 97% |  |
-| 24.5–25.5% | 13% | 90% |  |
-| 25.5–26.5% | 18% | 77% |  |
-| 26.5–27.5% | 22% | 58% | Median |
-| 27.5–28.5% | 18% | 37% |  |
-| 28.5–29.5% | 9% | 19% |  |
-| 29.5–30.5% | 6% | 10% |  |
-| 30.5–31.5% | 3% | 4% |  |
-| 31.5–32.5% | 0.8% | 0.8% |  |
-| 32.5–33.5% | 0.1% | 0.1% |  |
+| 21.5–22.5% | 0.5% | 99.9% |  |
+| 22.5–23.5% | 3% | 99.4% |  |
+| 23.5–24.5% | 8% | 97% |  |
+| 24.5–25.5% | 14% | 88% |  |
+| 25.5–26.5% | 19% | 74% |  |
+| 26.5–27.5% | 22% | 55% | Median |
+| 27.5–28.5% | 18% | 33% |  |
+| 28.5–29.5% | 8% | 15% |  |
+| 29.5–30.5% | 4% | 6% |  |
+| 30.5–31.5% | 2% | 2% |  |
+| 31.5–32.5% | 0.4% | 0.5% |  |
+| 32.5–33.5% | 0% | 0% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
 
@@ -323,32 +323,32 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–21 | 16–22 | 16–22 | 15–23 |
-| [1 September–8 November 2026](2026-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 18–19 | 18–19 | 18–19 | 17–20 |
-| [2–6 November 2026](2026-11-06-IMOP.html) | IMOP <br> El Confidencial | 18 | 16–20 | 16–20 | 15–20 | 15–21 |
-| [2–5 November 2026](2026-11-05-NCReport.html) | NC Report <br> La Razón | 16 | 16–19 | 15–19 | 15–21 | 14–21 |
-| [3–5 November 2026](2026-11-05-GAD3.html) | GAD3 <br> ABC | 17 | 17–18 | 17–19 | 17–19 | 16–19 |
-| [2–4 November 2026](2026-11-04-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 19 | 17–19 | 17–19 | 17–19 | 17–20 |
+| N/A | [Poll Average](average.html) | 18 | 16–21 | 15–21 | 15–22 | 15–22 |
+| [1 September–8 November 2026](2026-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 18–19 | 18–19 | 18–19 | 18–20 |
+| [2–6 November 2026](2026-11-06-IMOP.html) | IMOP <br> El Confidencial | 18 | 16–18 | 15–19 | 15–20 | 15–20 |
+| [2–5 November 2026](2026-11-05-NCReport.html) | NC Report <br> La Razón | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
+| [3–5 November 2026](2026-11-05-GAD3.html) | GAD3 <br> ABC | 17 | 17–18 | 16–19 | 16–19 | 16–19 |
+| [2–4 November 2026](2026-11-04-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [2–4 November 2026](2026-11-04-40dB.html) | 40dB <br> Prisa | 21 | 20–22 | 20–22 | 20–23 | 19–23 |
-| [29 October–3 November 2026](2026-11-03-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
+| [29 October–3 November 2026](2026-11-03-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 16 | 15–17 | 15–18 | 15–18 | 15–19 |
 | [1 September–1 November 2026](2026-11-01-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [28–30 October 2026](2026-10-30-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
-| [29–30 October 2026](2026-10-30-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [26–29 October 2026](2026-10-29-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [26–28 October 2026](2026-10-28-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
-| [22–28 October 2026](2026-10-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli |  |  |  |  |  |
-| [1 September–25 October 2026](2026-10-25-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [21–25 October 2026](2026-10-25-MoreinCommon.html) | More in Common |  |  |  |  |  |
+| [28–30 October 2026](2026-10-30-TargetPoint.html) | Target Point <br> El Debate | 18 | 17–19 | 16–19 | 16–20 | 15–20 |
+| [29–30 October 2026](2026-10-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
+| [26–29 October 2026](2026-10-29-NCReport.html) | NC Report <br> La Razón | 18 | 16–19 | 16–20 | 16–20 | 15–20 |
+| [26–28 October 2026](2026-10-28-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
+| [22–28 October 2026](2026-10-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
+| [1 September–25 October 2026](2026-10-25-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 18–19 | 18–19 | 17–19 | 17–19 |
+| [21–25 October 2026](2026-10-25-MoreinCommon.html) | More in Common | 19 | 18–20 | 18–20 | 18–21 | 18–21 |
 | [20–24 October 2026](2026-10-24-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [21–23 October 2026](2026-10-23-Winston.html) | Winston <br> Artículo14 |  |  |  |  |  |
+| [21–23 October 2026](2026-10-23-Winston.html) | Winston <br> Artículo14 | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
 | [8–22 October 2026](2026-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [20–22 October 2026](2026-10-22-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es |  |  |  |  |  |
-| [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [20–22 October 2026](2026-10-22-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es | 19 | 18–20 | 18–21 | 18–21 | 18–21 |
+| [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
 | [1–14 October 2026](2026-10-14-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [10–11 October 2026](2026-10-11-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [6–9 October 2026](2026-10-09-TargetPoint.html) | Target Point <br> El Debate |  |  |  |  |  |
 | [1–8 October 2026](2026-10-08-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [5–8 October 2026](2026-10-08-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [5–8 October 2026](2026-10-08-Invymark.html) | Invymark <br> laSexta | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [5–8 October 2026](2026-10-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli |  |  |  |  |  |
 | [6–8 October 2026](2026-10-08-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
 | [6–8 October 2026](2026-10-08-GAD3.html) | GAD3 <br> Vocento |  |  |  |  |  |
@@ -607,16 +607,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.3% | 100% |  |
-| 15 | 2% | 99.7% |  |
-| 16 | 11% | 98% |  |
-| 17 | 26% | 86% |  |
-| 18 | 24% | 60% | Median |
-| 19 | 19% | 36% |  |
-| 20 | 5% | 17% |  |
-| 21 | 7% | 13% |  |
-| 22 | 5% | 6% |  |
-| 23 | 0.6% | 0.6% |  |
+| 14 | 0.2% | 100% |  |
+| 15 | 5% | 99.8% |  |
+| 16 | 11% | 95% |  |
+| 17 | 17% | 84% |  |
+| 18 | 22% | 67% | Median |
+| 19 | 23% | 45% |  |
+| 20 | 11% | 22% |  |
+| 21 | 7% | 11% |  |
+| 22 | 3% | 4% |  |
+| 23 | 0.4% | 0.4% |  |
 | 24 | 0% | 0% |  |
 
 

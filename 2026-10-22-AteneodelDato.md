@@ -13,9 +13,9 @@
 | Partido Popular (EPP) | 0.0% | 31.1% | 29.8–32.4% |29.4–32.8% |29.1–33.2% |28.5–33.8% |
 | Partido Socialista Obrero Español (S&D) | 0.0% | 27.6% | 26.3–28.9% |26.0–29.3% |25.7–29.6% |25.1–30.2% |
 | Vox (PfE) | 0.0% | 19.8% | 18.7–21.0% |18.4–21.3% |18.1–21.6% |17.6–22.2% |
-| Movimiento Sumar–Izquierda Unida (GUE/NGL) | 0.0% | 4.4% | 3.9–5.0% |3.7–5.2% |3.6–5.4% |3.3–5.7% |
+| Movimiento Sumar–Izquierda Unida (GUE/NGL) | 0.0% | 3.9% | 3.4–4.5% |3.2–4.7% |3.1–4.8% |2.9–5.2% |
+| Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA) | 0.0% | 2.9% | 2.5–3.4% |2.3–3.6% |2.2–3.7% |2.1–4.0% |
 | Podemos (GUE/NGL) | 0.0% | 2.7% | 2.3–3.2% |2.2–3.4% |2.1–3.5% |1.9–3.8% |
-| Catalunya en Comú–Més–Más País–Chunta (Greens/EFA) | 0.0% | 2.4% | 2.0–2.9% |1.9–3.0% |1.8–3.2% |1.6–3.4% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -32,9 +32,9 @@
 | <a href="#partido-popular-(epp)">Partido Popular (EPP)</a> | 0 | 22 | 21–23 |21–23 |20–23 |20–24 |
 | <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 19 | 18–20 |18–21 |18–21 |18–21 |
 | <a href="#vox-(pfe)">Vox (PfE)</a> | 0 | 14 | 13–15 |13–15 |13–15 |12–15 |
-| <a href="#movimiento-sumar–izquierda-unida-(gue/ngl)">Movimiento Sumar–Izquierda Unida (GUE/NGL)</a> | 0 | 3 | 3–4 |2–4 |2–4 |2–4 |
+| <a href="#movimiento-sumar–izquierda-unida-(gue/ngl)">Movimiento Sumar–Izquierda Unida (GUE/NGL)</a> | 0 | 3 | 2–3 |2–3 |2–3 |2–4 |
+| <a href="#catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–3 |
 | <a href="#podemos-(gue/ngl)">Podemos (GUE/NGL)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#catalunya-en-comú–més–más-país–chunta-(greens/efa)">Catalunya en Comú–Més–Más País–Chunta (Greens/EFA)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
 
 ### Partido Popular (EPP)
 
@@ -66,8 +66,8 @@
 | 19 | 0.1% | 100% |  |
 | 20 | 3% | 99.9% |  |
 | 21 | 26% | 97% |  |
-| 22 | 48% | 71% | Median |
-| 23 | 21% | 23% |  |
+| 22 | 50% | 71% | Median |
+| 23 | 19% | 21% |  |
 | 24 | 2% | 2% |  |
 | 25 | 0% | 0% |  |
 
@@ -97,7 +97,7 @@
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0.4% | 100% |  |
-| 18 | 11% | 99.6% |  |
+| 18 | 10% | 99.6% |  |
 | 19 | 45% | 89% | Median |
 | 20 | 38% | 44% |  |
 | 21 | 6% | 6% |  |
@@ -126,8 +126,8 @@
 | 11 | 0% | 100% |  |
 | 12 | 2% | 100% |  |
 | 13 | 31% | 98% |  |
-| 14 | 54% | 67% | Median |
-| 15 | 13% | 13% |  |
+| 14 | 53% | 67% | Median |
+| 15 | 13% | 14% |  |
 | 16 | 0.5% | 0.5% |  |
 | 17 | 0% | 0% |  |
 
@@ -141,10 +141,24 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 8% | 100% |  |
-| 3 | 78% | 92% | Median |
-| 4 | 14% | 14% |  |
+| 2 | 42% | 100% |  |
+| 3 | 57% | 58% | Median |
+| 4 | 0.9% | 0.9% |  |
 | 5 | 0% | 0% |  |
+
+### Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)](party-catalunyaencomú–més–compromís–máspaís–chuntagreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-10-22-AteneodelDato-seats-pmf-catalunyaencomú–més–compromís–máspaís–chuntagreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 15% | 100% |  |
+| 2 | 83% | 85% | Median |
+| 3 | 2% | 2% |  |
+| 4 | 0% | 0% |  |
 
 ### Podemos (GUE/NGL)
 
@@ -155,21 +169,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 55% | 100% | Median |
-| 2 | 45% | 45% |  |
-| 3 | 0% | 0% |  |
-
-### Catalunya en Comú–Més–Más País–Chunta (Greens/EFA)
-
-*For a full overview of the results for this party, see the [Catalunya en Comú–Més–Más País–Chunta (Greens/EFA)](party-catalunyaencomú–més–máspaís–chuntagreensefa.html) page.*
-
-![Graph with seats probability mass function not yet produced](2026-10-22-AteneodelDato-seats-pmf-catalunyaencomú–més–máspaís–chuntagreensefa.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 61% | 100% | Median |
-| 2 | 39% | 39% |  |
+| 1 | 56% | 100% | Median |
+| 2 | 44% | 44% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -213,8 +214,8 @@
 | 19 | 0.1% | 100% |  |
 | 20 | 3% | 99.9% |  |
 | 21 | 26% | 97% |  |
-| 22 | 48% | 71% | Median |
-| 23 | 21% | 23% |  |
+| 22 | 50% | 71% | Median |
+| 23 | 19% | 21% |  |
 | 24 | 2% | 2% |  |
 | 25 | 0% | 0% |  |
 
@@ -242,7 +243,7 @@
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0.4% | 100% |  |
-| 18 | 11% | 99.6% |  |
+| 18 | 10% | 99.6% |  |
 | 19 | 45% | 89% | Median |
 | 20 | 38% | 44% |  |
 | 21 | 6% | 6% |  |
@@ -269,8 +270,8 @@
 | 11 | 0% | 100% |  |
 | 12 | 2% | 100% |  |
 | 13 | 31% | 98% |  |
-| 14 | 54% | 67% | Median |
-| 15 | 13% | 13% |  |
+| 14 | 53% | 67% | Median |
+| 15 | 13% | 14% |  |
 | 16 | 0.5% | 0.5% |  |
 | 17 | 0% | 0% |  |
 
@@ -286,6 +287,6 @@
 ### Calculations
 
 + **Sample size:** 2000
-+ **Simulations done:** 2,097,152
-+ **Error estimate:** 0.38%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.37%
 
