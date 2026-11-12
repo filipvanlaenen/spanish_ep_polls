@@ -10,11 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 2.9–5.1% | 2.7–5.3% | 2.5–5.6% | 2.2–6.2% |
+| N/A | [Poll Average](average.html) | 3.8% | 2.9–5.0% | 2.6–5.3% | 2.5–5.6% | 2.2–6.2% |
 | [1 September–8 November 2026](2026-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 3.4% | 3.1–3.7% | 3.0–3.8% | 2.9–3.9% | 2.8–4.1% |
 | [2–6 November 2026](2026-11-06-IMOP.html) | IMOP <br> El Confidencial | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
+| [4–6 November 2026](2026-11-06-DYM.html) | DYM <br> Henneo | 3.2% | 2.6–4.1% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [2–5 November 2026](2026-11-05-NCReport.html) | NC Report <br> La Razón | 3.9% | 3.1–5.1% | 2.8–5.4% | 2.7–5.7% | 2.3–6.3% |
 | [3–5 November 2026](2026-11-05-GAD3.html) | GAD3 <br> ABC | 4.3% | 3.7–5.1% | 3.5–5.3% | 3.4–5.5% | 3.1–5.9% |
+| [2–5 November 2026](2026-11-05-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es | 3.5% | 3.0–4.1% | 2.9–4.3% | 2.8–4.4% | 2.6–4.7% |
 | [2–4 November 2026](2026-11-04-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 4.1% | 3.4–4.9% | 3.2–5.2% | 3.1–5.4% | 2.8–5.8% |
 | [2–4 November 2026](2026-11-04-40dB.html) | 40dB <br> Prisa | 2.8% | 2.4–3.4% | 2.3–3.6% | 2.2–3.7% | 2.0–4.0% |
 | [29 October–3 November 2026](2026-11-03-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 4.6% | 3.7–5.7% | 3.5–6.1% | 3.3–6.4% | 2.9–7.0% |
@@ -281,9 +283,9 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 30% | 97% |  |
-| 3.5–4.5% | 42% | 67% | Median |
-| 4.5–5.5% | 23% | 26% |  |
+| 2.5–3.5% | 34% | 97% |  |
+| 3.5–4.5% | 39% | 62% | Median |
+| 4.5–5.5% | 21% | 23% |  |
 | 5.5–6.5% | 3% | 3% |  |
 | 6.5–7.5% | 0.2% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -300,8 +302,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
 | [1 September–8 November 2026](2026-11-08-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 2 | 2–3 | 2–3 |
 | [2–6 November 2026](2026-11-06-IMOP.html) | IMOP <br> El Confidencial | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [4–6 November 2026](2026-11-06-DYM.html) | DYM <br> Henneo | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | [2–5 November 2026](2026-11-05-NCReport.html) | NC Report <br> La Razón | 3 | 2–3 | 2–4 | 1–4 | 1–4 |
 | [3–5 November 2026](2026-11-05-GAD3.html) | GAD3 <br> ABC | 3 | 3 | 2–3 | 2–4 | 2–4 |
+| [2–5 November 2026](2026-11-05-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [2–4 November 2026](2026-11-04-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [2–4 November 2026](2026-11-04-40dB.html) | 40dB <br> Prisa | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [29 October–3 November 2026](2026-11-03-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3 | 2–3 | 2–3 | 2–4 | 2–5 |
@@ -309,12 +313,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28–30 October 2026](2026-10-30-TargetPoint.html) | Target Point <br> El Debate | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
 | [29–30 October 2026](2026-10-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [26–29 October 2026](2026-10-29-NCReport.html) | NC Report <br> La Razón | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [26–28 October 2026](2026-10-28-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [22–28 October 2026](2026-10-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| [1 September–25 October 2026](2026-10-25-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 2 | 2 | 2–3 |
+| [26–28 October 2026](2026-10-28-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [22–28 October 2026](2026-10-28-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [1 September–25 October 2026](2026-10-25-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 2 | 2–3 | 2–3 |
 | [21–25 October 2026](2026-10-25-MoreinCommon.html) | More in Common | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [20–24 October 2026](2026-10-24-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [21–23 October 2026](2026-10-23-Winston.html) | Winston <br> Artículo14 | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [21–23 October 2026](2026-10-23-Winston.html) | Winston <br> Artículo14 | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [8–22 October 2026](2026-10-22-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [20–22 October 2026](2026-10-22-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [13–16 October 2026](2026-10-16-IMOP.html) | IMOP <br> El Confidencial | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -569,9 +573,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 2% | 100% |  |
-| 2 | 42% | 98% |  |
-| 3 | 48% | 56% | Median |
-| 4 | 8% | 8% |  |
+| 2 | 45% | 98% |  |
+| 3 | 43% | 52% | Median |
+| 4 | 9% | 10% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
