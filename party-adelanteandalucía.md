@@ -40,7 +40,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–8 October 2026](2026-10-08-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [5–8 October 2026](2026-10-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 October 2026](2026-10-08-GESOP.html) | GESOP <br> Prensa Ibérica | 0.0% | N/A | N/A | N/A | N/A |
-| [6–8 October 2026](2026-10-08-GAD3.html) | GAD3 <br> Vocento | 1.0% | N/A | N/A | N/A | N/A |
+| [6–8 October 2026](2026-10-08-GAD3.html) | GAD3 <br> Vocento | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.5–2.1% |
 | [7–8 October 2026](2026-10-08-40dB.html) | 40dB <br> Prisa | 0.0% | N/A | N/A | N/A | N/A |
 | [5–7 October 2026](2026-10-07-IMOP.html) | IMOP <br> El Confidencial | 1.0% | N/A | N/A | N/A | N/A |
 | [5–7 October 2026](2026-10-07-DYM.html) | DYM <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
@@ -326,7 +326,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [5–8 October 2026](2026-10-08-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [5–8 October 2026](2026-10-08-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli |  |  |  |  |  |
 | [6–8 October 2026](2026-10-08-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
-| [6–8 October 2026](2026-10-08-GAD3.html) | GAD3 <br> Vocento |  |  |  |  |  |
+| [6–8 October 2026](2026-10-08-GAD3.html) | GAD3 <br> Vocento | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [7–8 October 2026](2026-10-08-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [5–7 October 2026](2026-10-07-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [5–7 October 2026](2026-10-07-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
