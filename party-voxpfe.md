@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.1% | 17.4–20.9% | 17.0–21.5% | 16.6–21.9% | 15.8–22.7% |
+| N/A | [Poll Average](average.html) | 19.2% | 17.5–21.0% | 17.0–21.5% | 16.6–22.0% | 15.9–22.8% |
+| [15–17 November 2026](2026-11-17-PublicFirst.html) | Public First <br> Politico | 19.6% | 18.6–20.7% | 18.3–21.0% | 18.1–21.2% | 17.6–21.7% |
 | [12–16 November 2026](2026-11-16-40dB.html) | 40dB <br> Prisa | 17.5% | 16.4–18.6% | 16.1–19.0% | 15.9–19.2% | 15.4–19.8% |
 | [11–15 November 2026](2026-11-15-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [9–13 November 2026](2026-11-13-Invymark.html) | Invymark <br> laSexta | 19.1% | 17.6–20.7% | 17.2–21.1% | 16.9–21.5% | 16.2–22.3% |
@@ -26,7 +27,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2–5 November 2026](2026-11-05-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es | 18.6% | 17.5–19.8% | 17.2–20.1% | 16.9–20.4% | 16.4–20.9% |
 | [2–4 November 2026](2026-11-04-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 18.6% | 17.2–20.1% | 16.8–20.5% | 16.5–20.9% | 15.8–21.6% |
 | [2–4 November 2026](2026-11-04-40dB.html) | 40dB <br> Prisa | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.4–19.8% | 15.9–20.3% |
+| [2–3 November 2026](2026-11-03-Data10.html) | Data10 <br> Okdiario | 19.8% | N/A | N/A | N/A | N/A |
 | [29 October–3 November 2026](2026-11-03-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 19.1% | 17.4–21.1% | 16.9–21.7% | 16.4–22.2% | 15.6–23.2% |
+| [26 October–2 November 2026](2026-11-02-YouGov.html) | YouGov <br> Ara | 20.3% | 18.9–21.9% | 18.5–22.3% | 18.1–22.7% | 17.5–23.4% |
 | [1 September–1 November 2026](2026-11-01-SocioMétrica.html) | SocioMétrica <br> El Español | 19.1% | N/A | N/A | N/A | N/A |
 | [28–30 October 2026](2026-10-30-TargetPoint.html) | Target Point <br> El Debate | 19.9% | 18.4–21.6% | 18.0–22.1% | 17.6–22.5% | 16.9–23.3% |
 | [29–30 October 2026](2026-10-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 19.3% | 18.3–20.3% | 18.0–20.6% | 17.8–20.9% | 17.3–21.4% |
@@ -304,13 +307,13 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.2% | 100% |  |
 | 15.5–16.5% | 2% | 99.8% |  |
-| 16.5–17.5% | 9% | 98% |  |
-| 17.5–18.5% | 22% | 88% |  |
-| 18.5–19.5% | 30% | 66% | Median |
-| 19.5–20.5% | 21% | 36% |  |
-| 20.5–21.5% | 11% | 15% |  |
-| 21.5–22.5% | 4% | 4% |  |
-| 22.5–23.5% | 0.6% | 0.7% |  |
+| 16.5–17.5% | 8% | 98% |  |
+| 17.5–18.5% | 20% | 90% |  |
+| 18.5–19.5% | 30% | 69% | Median |
+| 19.5–20.5% | 22% | 39% |  |
+| 20.5–21.5% | 12% | 17% |  |
+| 21.5–22.5% | 4% | 5% |  |
+| 22.5–23.5% | 0.7% | 0.8% |  |
 | 23.5–24.5% | 0.1% | 0.1% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
@@ -324,6 +327,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
+| [15–17 November 2026](2026-11-17-PublicFirst.html) | Public First <br> Politico | 13 | 13–14 | 13–14 | 13–14 | 12–15 |
 | [12–16 November 2026](2026-11-16-40dB.html) | 40dB <br> Prisa | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
 | [11–15 November 2026](2026-11-15-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 11 | 11–14 | 10–14 | 10–14 | 10–14 |
 | [9–13 November 2026](2026-11-13-Invymark.html) | Invymark <br> laSexta | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
@@ -339,7 +343,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–5 November 2026](2026-11-05-AteneodelDato.html) | Ateneo del Dato <br> eldiario.es | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [2–4 November 2026](2026-11-04-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 13 | 11–14 | 11–14 | 11–14 | 10–14 |
 | [2–4 November 2026](2026-11-04-40dB.html) | 40dB <br> Prisa | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
+| [2–3 November 2026](2026-11-03-Data10.html) | Data10 <br> Okdiario |  |  |  |  |  |
 | [29 October–3 November 2026](2026-11-03-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 13 | 11–14 | 11–14 | 11–14 | 11–15 |
+| [26 October–2 November 2026](2026-11-02-YouGov.html) | YouGov <br> Ara | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [1 September–1 November 2026](2026-11-01-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [28–30 October 2026](2026-10-30-TargetPoint.html) | Target Point <br> El Debate | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
 | [29–30 October 2026](2026-10-30-SigmaDos.html) | Sigma Dos <br> El Mundo | 13 | 13–14 | 12–14 | 12–14 | 12–15 |
@@ -612,13 +618,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.6% | 100% |  |
-| 11 | 7% | 99.4% |  |
-| 12 | 25% | 92% |  |
-| 13 | 42% | 68% | Median |
-| 14 | 20% | 25% |  |
-| 15 | 5% | 5% |  |
-| 16 | 0.5% | 0.6% |  |
+| 10 | 0.5% | 100% |  |
+| 11 | 6% | 99.5% |  |
+| 12 | 23% | 93% |  |
+| 13 | 45% | 71% | Median |
+| 14 | 20% | 26% |  |
+| 15 | 6% | 6% |  |
+| 16 | 0.5% | 0.5% |  |
 | 17 | 0% | 0% |  |
 
 
