@@ -422,7 +422,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 18–23 | 17–24 | 17–24 | 16–25 |
-| [24–26 November 2026](2026-11-26-GESOP.html) | GESOP <br> The Adelaide Review | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
+| [24–26 November 2026](2026-11-26-GESOP.html) | GESOP <br> The Adelaide Review | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
 | [23–25 November 2026](2026-11-25-GESOP.html) | GESOP <br> The Adelaide Review | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
 | [21–24 November 2026](2026-11-24-GESOP.html) | GESOP <br> The Adelaide Review |  |  |  |  |  |
 | [1 September–23 November 2026](2026-11-23-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 19–20 | 19–20 | 19–20 | 19–21 |
@@ -452,7 +452,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [16–20 November 2026](2026-11-20-Invymark.html) | Invymark <br> laSexta | 20 | 19–22 | 19–22 | 19–23 | 18–23 |
 | [10–20 November 2026](2026-11-20-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 18 | 17–18 | 16–18 | 15–18 | 15–19 |
 | [17–20 November 2026](2026-11-20-Data10.html) | Data10 <br> OKDiario | 19 | 18–20 | 18–20 | 18–21 | 18–21 |
-| [16–20 November 2026](2026-11-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 18 | 17–20 | 17–20 | 16–21 | 16–21 |
+| [16–20 November 2026](2026-11-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 18 | 18–20 | 17–21 | 17–21 | 16–21 |
 | [18–20 November 2026](2026-11-20-AteneodelDato.html) | Ateneo del Dato <br> elDiario | 22 | 21–23 | 21–23 | 20–23 | 20–24 |
 | [16–20 November 2026](2026-11-20-40dB.html) | 40dB <br> Prisa | 22 | 21–23 | 21–23 | 21–24 | 20–24 |
 | [17–19 November 2026](2026-11-19-Winston.html) | Winston <br> Artículo14 | 18 | 17–19 | 17–20 | 17–20 | 17–21 |
@@ -460,7 +460,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [13–19 November 2026](2026-11-19-SigmaDos.html) | Sigma Dos <br> El Mundo | 19 | 19–20 | 18–20 | 18–20 | 18–20 |
 | [26 October–19 November 2026](2026-11-19-SWDemoscopia.html) | SW Demoscopia <br> La Séptima | 23 | 23–24 | 23–24 | 23–24 | 22–24 |
 | [16–19 November 2026](2026-11-19-MoreinCommon.html) | More in Common | 20 | 19–21 | 19–21 | 18–21 | 18–22 |
-| [17–19 November 2026](2026-11-19-IMOP.html) | IMOP <br> El Confidencial | 19 | 17–20 | 16–20 | 16–20 | 15–21 |
+| [17–19 November 2026](2026-11-19-IMOP.html) | IMOP <br> El Confidencial | 18 | 17–20 | 17–20 | 16–20 | 15–20 |
 | [16–19 November 2026](2026-11-19-GAD3.html) | GAD3 <br> Vocento | 19 | 18–20 | 18–20 | 17–22 | 17–22 |
 | [16–19 November 2026](2026-11-19-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [17–19 November 2026](2026-11-19-DYM.html) | DYM <br> Henneo and Joly | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
@@ -475,7 +475,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [26 October–17 November 2026](2026-11-17-SWDemoscopia.html) | SW Demoscopia <br> La Séptima |  |  |  |  |  |
 | [15–17 November 2026](2026-11-17-PublicFirst.html) | Public First <br> Politico | 19 | 19 | 18–19 | 18–19 | 17–20 |
 | [17 November 2026](2026-11-17-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [10–17 November 2026](2026-11-17-CIS.html) | CIS | 24 | 24–25 | 24–25 | 24–25 | 23–25 |
+| [10–17 November 2026](2026-11-17-CIS.html) | CIS | 24 | 24–25 | 24–25 | 23–25 | 23–25 |
 | [13–17 November 2026](2026-11-17-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [12–16 November 2026](2026-11-16-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
 | [11–16 November 2026](2026-11-16-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
@@ -802,10 +802,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0.2% | 100% |  |
-| 16 | 2% | 99.8% |  |
-| 17 | 5% | 98% |  |
-| 18 | 14% | 93% |  |
-| 19 | 20% | 79% |  |
+| 16 | 1.5% | 99.8% |  |
+| 17 | 4% | 98% |  |
+| 18 | 14% | 94% |  |
+| 19 | 20% | 80% |  |
 | 20 | 21% | 60% | Median |
 | 21 | 16% | 39% |  |
 | 22 | 11% | 23% |  |

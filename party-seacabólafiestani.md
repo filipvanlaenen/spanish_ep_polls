@@ -420,7 +420,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [16–20 November 2026](2026-11-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [10–20 November 2026](2026-11-20-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–20 November 2026](2026-11-20-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [16–20 November 2026](2026-11-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [16–20 November 2026](2026-11-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [18–20 November 2026](2026-11-20-AteneodelDato.html) | Ateneo del Dato <br> elDiario |  |  |  |  |  |
 | [16–20 November 2026](2026-11-20-40dB.html) | 40dB <br> Prisa | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–19 November 2026](2026-11-19-Winston.html) | Winston <br> Artículo14 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -428,7 +428,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [13–19 November 2026](2026-11-19-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [26 October–19 November 2026](2026-11-19-SWDemoscopia.html) | SW Demoscopia <br> La Séptima |  |  |  |  |  |
 | [16–19 November 2026](2026-11-19-MoreinCommon.html) | More in Common | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [17–19 November 2026](2026-11-19-IMOP.html) | IMOP <br> El Confidencial | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| [17–19 November 2026](2026-11-19-IMOP.html) | IMOP <br> El Confidencial | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [16–19 November 2026](2026-11-19-GAD3.html) | GAD3 <br> Vocento | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–19 November 2026](2026-11-19-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [17–19 November 2026](2026-11-19-DYM.html) | DYM <br> Henneo and Joly |  |  |  |  |  |
@@ -754,9 +754,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 20% | 100% | Last Result |
-| 1 | 75% | 80% | Median |
-| 2 | 5% | 5% |  |
+| 0 | 21% | 100% | Last Result |
+| 1 | 76% | 79% | Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 

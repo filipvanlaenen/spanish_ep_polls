@@ -422,12 +422,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [16–20 November 2026](2026-11-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–20 November 2026](2026-11-20-AteneodelDato.html) | Ateneo del Dato <br> elDiario | 0 | 0 | 0 | 0 | 0 |
 | [16–20 November 2026](2026-11-20-40dB.html) | 40dB <br> Prisa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [17–19 November 2026](2026-11-19-Winston.html) | Winston <br> Artículo14 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [17–19 November 2026](2026-11-19-Winston.html) | Winston <br> Artículo14 | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [15–19 November 2026](2026-11-19-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
 | [13–19 November 2026](2026-11-19-SigmaDos.html) | Sigma Dos <br> El Mundo | 0 | 0 | 0 | 0 | 0 |
 | [26 October–19 November 2026](2026-11-19-SWDemoscopia.html) | SW Demoscopia <br> La Séptima |  |  |  |  |  |
 | [16–19 November 2026](2026-11-19-MoreinCommon.html) | More in Common | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [17–19 November 2026](2026-11-19-IMOP.html) | IMOP <br> El Confidencial | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [17–19 November 2026](2026-11-19-IMOP.html) | IMOP <br> El Confidencial | 0 | 0 | 0 | 0–1 | 0–1 |
 | [16–19 November 2026](2026-11-19-GAD3.html) | GAD3 <br> Vocento | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–19 November 2026](2026-11-19-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [17–19 November 2026](2026-11-19-DYM.html) | DYM <br> Henneo and Joly | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -753,8 +753,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 61% | 100% | Last Result, Median |
-| 1 | 38% | 39% |  |
+| 0 | 63% | 100% | Last Result, Median |
+| 1 | 37% | 37% |  |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 

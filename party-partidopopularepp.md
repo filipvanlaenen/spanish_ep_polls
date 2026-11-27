@@ -424,7 +424,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 19–23 | 19–24 | 18–24 | 17–25 |
-| [24–26 November 2026](2026-11-26-GESOP.html) | GESOP <br> The Adelaide Review | 23 | 21–25 | 21–25 | 20–25 | 19–26 |
+| [24–26 November 2026](2026-11-26-GESOP.html) | GESOP <br> The Adelaide Review | 23 | 21–24 | 21–25 | 20–25 | 19–26 |
 | [23–25 November 2026](2026-11-25-GESOP.html) | GESOP <br> The Adelaide Review | 23 | 21–24 | 21–25 | 20–25 | 19–26 |
 | [21–24 November 2026](2026-11-24-GESOP.html) | GESOP <br> The Adelaide Review |  |  |  |  |  |
 | [1 September–23 November 2026](2026-11-23-SocioMétrica.html) | SocioMétrica <br> El Español | 22 | 22–23 | 21–23 | 21–23 | 21–23 |
@@ -454,15 +454,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [16–20 November 2026](2026-11-20-Invymark.html) | Invymark <br> laSexta | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
 | [10–20 November 2026](2026-11-20-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 22 | 21–22 | 20–23 | 20–24 | 19–25 |
 | [17–20 November 2026](2026-11-20-Data10.html) | Data10 <br> OKDiario | 24 | 23–24 | 22–25 | 22–25 | 22–25 |
-| [16–20 November 2026](2026-11-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 21 | 20–22 | 20–23 | 19–23 | 18–24 |
+| [16–20 November 2026](2026-11-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 21 | 20–23 | 20–23 | 19–25 | 18–25 |
 | [18–20 November 2026](2026-11-20-AteneodelDato.html) | Ateneo del Dato <br> elDiario | 23 | 22–24 | 22–24 | 21–24 | 21–25 |
 | [16–20 November 2026](2026-11-20-40dB.html) | 40dB <br> Prisa | 23 | 22–24 | 21–24 | 21–24 | 21–25 |
-| [17–19 November 2026](2026-11-19-Winston.html) | Winston <br> Artículo14 | 21 | 20–21 | 20–21 | 19–22 | 19–23 |
+| [17–19 November 2026](2026-11-19-Winston.html) | Winston <br> Artículo14 | 21 | 20–22 | 20–22 | 19–22 | 19–23 |
 | [15–19 November 2026](2026-11-19-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
 | [13–19 November 2026](2026-11-19-SigmaDos.html) | Sigma Dos <br> El Mundo | 21 | 21–22 | 21–22 | 20–22 | 20–23 |
 | [26 October–19 November 2026](2026-11-19-SWDemoscopia.html) | SW Demoscopia <br> La Séptima | 21 | 21–22 | 21–22 | 21–22 | 21–22 |
 | [16–19 November 2026](2026-11-19-MoreinCommon.html) | More in Common | 20 | 20–22 | 19–22 | 19–22 | 19–23 |
-| [17–19 November 2026](2026-11-19-IMOP.html) | IMOP <br> El Confidencial | 22 | 19–23 | 19–23 | 19–24 | 18–24 |
+| [17–19 November 2026](2026-11-19-IMOP.html) | IMOP <br> El Confidencial | 21 | 19–24 | 19–24 | 19–24 | 19–24 |
 | [16–19 November 2026](2026-11-19-GAD3.html) | GAD3 <br> Vocento | 21 | 20–21 | 19–22 | 19–23 | 19–23 |
 | [16–19 November 2026](2026-11-19-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [17–19 November 2026](2026-11-19-DYM.html) | DYM <br> Henneo and Joly | 23 | 22–25 | 22–25 | 21–26 | 21–26 |
@@ -808,8 +808,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 2% | 100% |  |
 | 18 | 2% | 98% |  |
 | 19 | 8% | 96% |  |
-| 20 | 14% | 88% |  |
-| 21 | 23% | 74% |  |
+| 20 | 14% | 87% |  |
+| 21 | 23% | 73% |  |
 | 22 | 25% | 50% | Median |
 | 23 | 16% | 25% |  |
 | 24 | 7% | 9% |  |

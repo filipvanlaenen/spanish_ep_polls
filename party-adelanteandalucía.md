@@ -420,7 +420,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [16–20 November 2026](2026-11-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [10–20 November 2026](2026-11-20-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–20 November 2026](2026-11-20-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [16–20 November 2026](2026-11-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [16–20 November 2026](2026-11-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [18–20 November 2026](2026-11-20-AteneodelDato.html) | Ateneo del Dato <br> elDiario |  |  |  |  |  |
 | [16–20 November 2026](2026-11-20-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [17–19 November 2026](2026-11-19-Winston.html) | Winston <br> Artículo14 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -443,7 +443,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [26 October–17 November 2026](2026-11-17-SWDemoscopia.html) | SW Demoscopia <br> La Séptima |  |  |  |  |  |
 | [15–17 November 2026](2026-11-17-PublicFirst.html) | Public First <br> Politico | 1 | 1 | 1 | 1 | 0–1 |
 | [17 November 2026](2026-11-17-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [10–17 November 2026](2026-11-17-CIS.html) | CIS | 1 | 1 | 1 | 1 | 1 |
+| [10–17 November 2026](2026-11-17-CIS.html) | CIS | 1 | 1 | 1 | 1 | 0–1 |
 | [13–17 November 2026](2026-11-17-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [12–16 November 2026](2026-11-16-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
 | [11–16 November 2026](2026-11-16-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
@@ -754,9 +754,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 15% | 100% | Last Result |
-| 1 | 81% | 85% | Median |
-| 2 | 4% | 4% |  |
+| 0 | 13% | 100% | Last Result |
+| 1 | 83% | 87% | Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 

@@ -421,7 +421,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [16–20 November 2026](2026-11-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [10–20 November 2026](2026-11-20-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 1 | 1 | 1 | 1–2 | 0–2 |
 | [17–20 November 2026](2026-11-20-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [16–20 November 2026](2026-11-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| [16–20 November 2026](2026-11-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [18–20 November 2026](2026-11-20-AteneodelDato.html) | Ateneo del Dato <br> elDiario |  |  |  |  |  |
 | [16–20 November 2026](2026-11-20-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [17–19 November 2026](2026-11-19-Winston.html) | Winston <br> Artículo14 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -756,9 +756,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% | Last Result |
-| 1 | 70% | 99.7% | Median |
-| 2 | 30% | 30% |  |
-| 3 | 0.4% | 0.4% |  |
+| 1 | 71% | 99.7% | Median |
+| 2 | 28% | 28% |  |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 

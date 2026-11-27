@@ -33,7 +33,7 @@
 | <a href="#partido-socialista-obrero-español-(s&d)">Partido Socialista Obrero Español (S&D)</a> | 0 | 22 | 21–23 |21–23 |20–23 |20–24 |
 | <a href="#vox-(pfe)">Vox (PfE)</a> | 0 | 12 | 12–13 |11–13 |11–14 |11–14 |
 | <a href="#movimiento-sumar–izquierda-unida-(gue/ngl)">Movimiento Sumar–Izquierda Unida (GUE/NGL)</a> | 0 | 2 | 2–3 |2–3 |2–3 |1–3 |
-| <a href="#catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#catalunya-en-comú–més–compromís–más-país–chunta-(greens/efa)">Catalunya en Comú–Més–Compromís–Más País–Chunta (Greens/EFA)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–3 |
 | <a href="#podemos-(gue/ngl)">Podemos (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Partido Popular (EPP)
@@ -67,7 +67,7 @@
 | 20 | 0.1% | 100% |  |
 | 21 | 3% | 99.9% |  |
 | 22 | 30% | 97% |  |
-| 23 | 48% | 66% | Median |
+| 23 | 48% | 67% | Median |
 | 24 | 17% | 18% |  |
 | 25 | 1.3% | 1.3% |  |
 | 26 | 0% | 0% |  |
@@ -102,9 +102,9 @@
 | 19 | 0% | 100% |  |
 | 20 | 3% | 100% |  |
 | 21 | 27% | 97% |  |
-| 22 | 49% | 70% | Median |
+| 22 | 50% | 71% | Median |
 | 23 | 19% | 21% |  |
-| 24 | 2% | 2% |  |
+| 24 | 1.5% | 1.5% |  |
 | 25 | 0% | 0% |  |
 
 ### Vox (PfE)
@@ -127,8 +127,8 @@
 | 9 | 0% | 100% |  |
 | 10 | 0.1% | 100% |  |
 | 11 | 9% | 99.9% |  |
-| 12 | 52% | 91% | Median |
-| 13 | 36% | 39% |  |
+| 12 | 53% | 91% | Median |
+| 13 | 35% | 38% |  |
 | 14 | 3% | 3% |  |
 | 15 | 0% | 0% |  |
 
@@ -141,8 +141,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.7% | 100% |  |
-| 2 | 76% | 99.3% | Median |
+| 1 | 0.8% | 100% |  |
+| 2 | 75% | 99.2% | Median |
 | 3 | 24% | 24% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
@@ -156,8 +156,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 28% | 100% |  |
-| 2 | 71% | 72% | Median |
+| 1 | 29% | 100% |  |
+| 2 | 71% | 71% | Median |
 | 3 | 0.5% | 0.5% |  |
 | 4 | 0% | 0% |  |
 
@@ -215,7 +215,7 @@
 | 20 | 0.1% | 100% |  |
 | 21 | 3% | 99.9% |  |
 | 22 | 30% | 97% |  |
-| 23 | 48% | 66% | Median |
+| 23 | 48% | 67% | Median |
 | 24 | 17% | 18% |  |
 | 25 | 1.3% | 1.3% |  |
 | 26 | 0% | 0% |  |
@@ -248,9 +248,9 @@
 | 19 | 0% | 100% |  |
 | 20 | 3% | 100% |  |
 | 21 | 27% | 97% |  |
-| 22 | 49% | 70% | Median |
+| 22 | 50% | 71% | Median |
 | 23 | 19% | 21% |  |
-| 24 | 2% | 2% |  |
+| 24 | 1.5% | 1.5% |  |
 | 25 | 0% | 0% |  |
 
 ### Vox (PfE)
@@ -271,8 +271,8 @@
 | 9 | 0% | 100% |  |
 | 10 | 0.1% | 100% |  |
 | 11 | 9% | 99.9% |  |
-| 12 | 52% | 91% | Median |
-| 13 | 36% | 39% |  |
+| 12 | 53% | 91% | Median |
+| 13 | 35% | 38% |  |
 | 14 | 3% | 3% |  |
 | 15 | 0% | 0% |  |
 
@@ -288,6 +288,6 @@
 ### Calculations
 
 + **Sample size:** 2000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.35%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.52%
 

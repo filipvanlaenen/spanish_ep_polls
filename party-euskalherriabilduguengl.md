@@ -388,7 +388,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–26 November 2026](2026-11-26-GESOP.html) | GESOP <br> The Adelaide Review |  |  |  |  |  |
 | [23–25 November 2026](2026-11-25-GESOP.html) | GESOP <br> The Adelaide Review |  |  |  |  |  |
 | [21–24 November 2026](2026-11-24-GESOP.html) | GESOP <br> The Adelaide Review |  |  |  |  |  |
@@ -419,7 +419,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [16–20 November 2026](2026-11-20-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [10–20 November 2026](2026-11-20-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–20 November 2026](2026-11-20-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
-| [16–20 November 2026](2026-11-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [16–20 November 2026](2026-11-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [18–20 November 2026](2026-11-20-AteneodelDato.html) | Ateneo del Dato <br> elDiario |  |  |  |  |  |
 | [16–20 November 2026](2026-11-20-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [17–19 November 2026](2026-11-19-Winston.html) | Winston <br> Artículo14 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -427,7 +427,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [13–19 November 2026](2026-11-19-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [26 October–19 November 2026](2026-11-19-SWDemoscopia.html) | SW Demoscopia <br> La Séptima |  |  |  |  |  |
 | [16–19 November 2026](2026-11-19-MoreinCommon.html) | More in Common |  |  |  |  |  |
-| [17–19 November 2026](2026-11-19-IMOP.html) | IMOP <br> El Confidencial | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [17–19 November 2026](2026-11-19-IMOP.html) | IMOP <br> El Confidencial | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [16–19 November 2026](2026-11-19-GAD3.html) | GAD3 <br> Vocento | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–19 November 2026](2026-11-19-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [17–19 November 2026](2026-11-19-DYM.html) | DYM <br> Henneo and Joly |  |  |  |  |  |
@@ -753,9 +753,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Last Result |
-| 1 | 50% | 50% | Median |
-| 2 | 0.7% | 0.7% |  |
+| 0 | 47% | 100% | Last Result |
+| 1 | 52% | 53% | Median |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
 
