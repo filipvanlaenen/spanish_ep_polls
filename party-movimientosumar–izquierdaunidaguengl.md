@@ -10,20 +10,46 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 3.1–5.1% | 2.9–5.4% | 2.8–5.8% | 2.5–6.4% |
+| N/A | [Poll Average](average.html) | 3.9% | 3.1–5.1% | 2.9–5.5% | 2.7–5.9% | 2.4–6.6% |
+| [24–26 November 2026](2026-11-26-GESOP.html) | GESOP <br> The Adelaide Review | 4.6% | 3.7–5.9% | 3.5–6.2% | 3.3–6.5% | 2.9–7.2% |
+| [23–25 November 2026](2026-11-25-GESOP.html) | GESOP <br> The Adelaide Review | 4.6% | 3.7–5.9% | 3.4–6.2% | 3.2–6.5% | 2.8–7.2% |
+| [21–24 November 2026](2026-11-24-GESOP.html) | GESOP <br> The Adelaide Review | 4.1% | N/A | N/A | N/A | N/A |
+| [1 September–23 November 2026](2026-11-23-SocioMétrica.html) | SocioMétrica <br> El Español | 3.5% | 3.2–3.8% | 3.2–3.9% | 3.1–3.9% | 3.0–4.1% |
+| [16–23 November 2026](2026-11-23-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.0% | 3.7–4.5% | 3.6–4.6% | 3.5–4.7% | 3.3–4.9% |
+| [26 October–23 November 2026](2026-11-23-SWDemoscopia.html) | SW Demoscopia <br> La Séptima | 3.9% | 3.7–4.1% | 3.6–4.2% | 3.6–4.2% | 3.5–4.3% |
+| [20–23 November 2026](2026-11-23-GESOP.html) | GESOP <br> The Adelaide Review | 4.3% | N/A | N/A | N/A | N/A |
+| [23 November 2026](2026-11-23-Data10.html) | Data10 <br> Okdiario | 3.6% | 3.0–4.4% | 2.8–4.7% | 2.7–4.9% | 2.4–5.3% |
+| [20–23 November 2026](2026-11-23-AtlasIntel.html) | AtlasIntel | 4.3% | 3.6–5.2% | 3.4–5.4% | 3.2–5.7% | 2.9–6.1% |
+| [18–22 November 2026](2026-11-22-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 5.1% | 4.2–6.3% | 3.9–6.7% | 3.7–7.0% | 3.3–7.6% |
+| [1 September–22 November 2026](2026-11-22-SocioMétrica.html) | SocioMétrica <br> El Español | 3.4% | N/A | N/A | N/A | N/A |
+| [19–22 November 2026](2026-11-22-Data10.html) | Data10 <br> OKDiario | 3.7% | N/A | N/A | N/A | N/A |
+| [20–21 November 2026](2026-11-21-TargetPoint.html) | Target Point <br> El Debate | 4.1% | 3.4–5.1% | 3.2–5.4% | 3.0–5.7% | 2.7–6.2% |
+| [17–21 November 2026](2026-11-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 4.2% | N/A | N/A | N/A | N/A |
 | [1 September–21 November 2026](2026-11-21-SocioMétrica.html) | SocioMétrica <br> El Español | 3.4% | 3.1–3.7% | 3.0–3.7% | 3.0–3.8% | 2.8–4.0% |
+| [16–21 November 2026](2026-11-21-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.1% | 3.7–4.5% | 3.6–4.6% | 3.5–4.7% | 3.4–4.9% |
+| [26 October–21 November 2026](2026-11-21-SWDemoscopia.html) | SW Demoscopia <br> La Séptima | 3.9% | N/A | N/A | N/A | N/A |
+| [18–21 November 2026](2026-11-21-GESOP.html) | GESOP <br> Prensa Ibérica | 3.9% | N/A | N/A | N/A | N/A |
 | [18–21 November 2026](2026-11-21-Data10.html) | Data10 <br> OKdiario | 3.8% | 3.4–4.3% | 3.2–4.4% | 3.1–4.5% | 3.0–4.8% |
+| [14–21 November 2026](2026-11-21-ConvergentOpinion.html) | Convergent Opinion | 3.7% | 3.4–4.0% | 3.4–4.1% | 3.3–4.2% | 3.2–4.3% |
+| [19–21 November 2026](2026-11-21-Cluster17.html) | Cluster17 <br> Agenda Pública | 2.9% | 2.4–3.6% | 2.3–3.8% | 2.2–4.0% | 2.0–4.3% |
 | [17–21 November 2026](2026-11-21-40dB.html) | 40dB <br> Prisa | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [10–20 November 2026](2026-11-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
 | [14–20 November 2026](2026-11-20-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.8% | 3.4–4.2% | 3.3–4.3% | 3.2–4.4% | 3.1–4.6% |
+| [26 October–20 November 2026](2026-11-20-SWDemoscopia.html) | SW Demoscopia <br> La Séptima | 3.9% | N/A | N/A | N/A | N/A |
+| [16–20 November 2026](2026-11-20-NCReport.html) | NC Report <br> La Razón | 4.2% | 3.3–5.3% | 3.1–5.6% | 2.9–5.9% | 2.6–6.5% |
 | [13–20 November 2026](2026-11-20-Ipsos.html) | Ipsos <br> La Vanguardia | 3.3% | 2.8–4.0% | 2.6–4.2% | 2.5–4.3% | 2.3–4.7% |
+| [16–20 November 2026](2026-11-20-Invymark.html) | Invymark <br> laSexta | 3.7% | 3.1–4.6% | 2.9–4.8% | 2.8–5.0% | 2.5–5.5% |
 | [10–20 November 2026](2026-11-20-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [17–20 November 2026](2026-11-20-Data10.html) | Data10 <br> OKDiario | 3.8% | 3.4–4.4% | 3.2–4.6% | 3.1–4.7% | 2.9–5.0% |
+| [16–20 November 2026](2026-11-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 4.0% | 3.2–5.1% | 3.0–5.4% | 2.8–5.6% | 2.5–6.2% |
+| [18–20 November 2026](2026-11-20-AteneodelDato.html) | Ateneo del Dato <br> elDiario | 3.4% | 2.9–4.0% | 2.8–4.1% | 2.7–4.3% | 2.5–4.6% |
 | [16–20 November 2026](2026-11-20-40dB.html) | 40dB <br> Prisa | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.0% | 2.3–4.3% |
+| [17–19 November 2026](2026-11-19-Winston.html) | Winston <br> Artículo14 | 3.6% | 3.1–4.4% | 2.9–4.6% | 2.8–4.7% | 2.6–5.1% |
 | [15–19 November 2026](2026-11-19-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [13–19 November 2026](2026-11-19-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.1% | 3.7–4.5% | 3.6–4.6% | 3.5–4.7% | 3.4–4.9% |
 | [26 October–19 November 2026](2026-11-19-SWDemoscopia.html) | SW Demoscopia <br> La Séptima | 3.9% | 3.7–4.2% | 3.6–4.3% | 3.6–4.3% | 3.5–4.5% |
 | [16–19 November 2026](2026-11-19-MoreinCommon.html) | More in Common | 4.1% | 3.5–4.8% | 3.4–5.0% | 3.2–5.1% | 3.0–5.5% |
+| [17–19 November 2026](2026-11-19-IMOP.html) | IMOP <br> El Confidencial | 4.2% | 3.4–5.2% | 3.2–5.4% | 3.0–5.7% | 2.7–6.2% |
 | [16–19 November 2026](2026-11-19-GAD3.html) | GAD3 <br> Vocento | 4.5% | 3.9–5.3% | 3.7–5.5% | 3.6–5.7% | 3.3–6.1% |
 | [16–19 November 2026](2026-11-19-Data10.html) | Data10 <br> OKDiario | 3.7% | N/A | N/A | N/A | N/A |
 | [17–19 November 2026](2026-11-19-DYM.html) | DYM <br> Henneo and Joly | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
@@ -38,6 +64,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [26 October–17 November 2026](2026-11-17-SWDemoscopia.html) | SW Demoscopia <br> La Séptima | 4.2% | N/A | N/A | N/A | N/A |
 | [15–17 November 2026](2026-11-17-PublicFirst.html) | Public First <br> Politico | 3.4% | 3.0–3.9% | 2.8–4.1% | 2.7–4.2% | 2.5–4.4% |
 | [17 November 2026](2026-11-17-Data10.html) | Data10 <br> OKDiario | 3.7% | N/A | N/A | N/A | N/A |
+| [10–17 November 2026](2026-11-17-CIS.html) | CIS | 4.3% | 4.0–4.6% | 4.0–4.7% | 3.9–4.8% | 3.8–5.0% |
 | [13–17 November 2026](2026-11-17-40dB.html) | 40dB <br> Prisa | 3.0% | N/A | N/A | N/A | N/A |
 | [12–16 November 2026](2026-11-16-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 4.2% | N/A | N/A | N/A | N/A |
 | [11–16 November 2026](2026-11-16-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.8% | N/A | N/A | N/A | N/A |
@@ -56,6 +83,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [26 October–13 November 2026](2026-11-13-SWDemoscopia.html) | SW Demoscopia <br> La Séptima | 4.2% | N/A | N/A | N/A | N/A |
 | [9–13 November 2026](2026-11-13-Invymark.html) | Invymark <br> laSexta | 3.6% | 3.0–4.5% | 2.8–4.7% | 2.7–4.9% | 2.4–5.3% |
 | [10–13 November 2026](2026-11-13-IMOP.html) | IMOP <br> El Confidencial | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [10–13 November 2026](2026-11-13-Cluster17.html) | Cluster17 <br> El Grand Continent | 3.3% | N/A | N/A | N/A | N/A |
 | [10–13 November 2026](2026-11-13-40dB.html) | 40dB <br> Prisa | 2.9% | N/A | N/A | N/A | N/A |
 | [12 November 2026](2026-11-12-TargetPoint.html) | Target Point <br> El Debate | 4.1% | 3.4–5.1% | 3.2–5.3% | 3.1–5.6% | 2.8–6.0% |
 | [3–12 November 2026](2026-11-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 4.2% | N/A | N/A | N/A | N/A |
@@ -347,12 +375,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.8% | 100% |  |
-| 2.5–3.5% | 28% | 99.2% |  |
+| 1.5–2.5% | 1.4% | 100% |  |
+| 2.5–3.5% | 28% | 98.6% |  |
 | 3.5–4.5% | 49% | 71% | Median |
-| 4.5–5.5% | 19% | 23% |  |
-| 5.5–6.5% | 4% | 4% |  |
-| 6.5–7.5% | 0.3% | 0.3% |  |
+| 4.5–5.5% | 17% | 21% |  |
+| 5.5–6.5% | 4% | 5% |  |
+| 6.5–7.5% | 0.5% | 0.5% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -364,20 +392,46 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 1–5 |
+| [24–26 November 2026](2026-11-26-GESOP.html) | GESOP <br> The Adelaide Review | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [23–25 November 2026](2026-11-25-GESOP.html) | GESOP <br> The Adelaide Review | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [21–24 November 2026](2026-11-24-GESOP.html) | GESOP <br> The Adelaide Review |  |  |  |  |  |
+| [1 September–23 November 2026](2026-11-23-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 2 | 2–3 | 2–3 |
+| [16–23 November 2026](2026-11-23-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [26 October–23 November 2026](2026-11-23-SWDemoscopia.html) | SW Demoscopia <br> La Séptima | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [20–23 November 2026](2026-11-23-GESOP.html) | GESOP <br> The Adelaide Review |  |  |  |  |  |
+| [23 November 2026](2026-11-23-Data10.html) | Data10 <br> Okdiario | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| [20–23 November 2026](2026-11-23-AtlasIntel.html) | AtlasIntel | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [18–22 November 2026](2026-11-22-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
+| [1 September–22 November 2026](2026-11-22-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [19–22 November 2026](2026-11-22-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [20–21 November 2026](2026-11-21-TargetPoint.html) | Target Point <br> El Debate | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [17–21 November 2026](2026-11-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
 | [1 September–21 November 2026](2026-11-21-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2 | 2 | 2–3 | 2–3 |
+| [16–21 November 2026](2026-11-21-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [26 October–21 November 2026](2026-11-21-SWDemoscopia.html) | SW Demoscopia <br> La Séptima |  |  |  |  |  |
+| [18–21 November 2026](2026-11-21-GESOP.html) | GESOP <br> Prensa Ibérica |  |  |  |  |  |
 | [18–21 November 2026](2026-11-21-Data10.html) | Data10 <br> OKdiario | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [14–21 November 2026](2026-11-21-ConvergentOpinion.html) | Convergent Opinion | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [19–21 November 2026](2026-11-21-Cluster17.html) | Cluster17 <br> Agenda Pública | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [17–21 November 2026](2026-11-21-40dB.html) | 40dB <br> Prisa | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [10–20 November 2026](2026-11-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [14–20 November 2026](2026-11-20-SigmaDos.html) | Sigma Dos <br> El Mundo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [26 October–20 November 2026](2026-11-20-SWDemoscopia.html) | SW Demoscopia <br> La Séptima |  |  |  |  |  |
+| [16–20 November 2026](2026-11-20-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 2–4 | 2–4 | 1–4 |
 | [13–20 November 2026](2026-11-20-Ipsos.html) | Ipsos <br> La Vanguardia | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [16–20 November 2026](2026-11-20-Invymark.html) | Invymark <br> laSexta | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
 | [10–20 November 2026](2026-11-20-HamalgamaMétrica.html) | Hamalgama Métrica <br> Vozpópuli | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
 | [17–20 November 2026](2026-11-20-Data10.html) | Data10 <br> OKDiario | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [16–20 November 2026](2026-11-20-Celeste-Tel.html) | Celeste-Tel <br> Onda Cero | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| [18–20 November 2026](2026-11-20-AteneodelDato.html) | Ateneo del Dato <br> elDiario | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [16–20 November 2026](2026-11-20-40dB.html) | 40dB <br> Prisa | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| [17–19 November 2026](2026-11-19-Winston.html) | Winston <br> Artículo14 | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [15–19 November 2026](2026-11-19-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [13–19 November 2026](2026-11-19-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26 October–19 November 2026](2026-11-19-SWDemoscopia.html) | SW Demoscopia <br> La Séptima | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–19 November 2026](2026-11-19-MoreinCommon.html) | More in Common | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [17–19 November 2026](2026-11-19-IMOP.html) | IMOP <br> El Confidencial | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [16–19 November 2026](2026-11-19-GAD3.html) | GAD3 <br> Vocento | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [16–19 November 2026](2026-11-19-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
 | [17–19 November 2026](2026-11-19-DYM.html) | DYM <br> Henneo and Joly | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -392,6 +446,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [26 October–17 November 2026](2026-11-17-SWDemoscopia.html) | SW Demoscopia <br> La Séptima |  |  |  |  |  |
 | [15–17 November 2026](2026-11-17-PublicFirst.html) | Public First <br> Politico | 2 | 2 | 2 | 2–3 | 2–3 |
 | [17 November 2026](2026-11-17-Data10.html) | Data10 <br> OKDiario |  |  |  |  |  |
+| [10–17 November 2026](2026-11-17-CIS.html) | CIS | 3 | 3 | 3 | 3 | 3 |
 | [13–17 November 2026](2026-11-17-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [12–16 November 2026](2026-11-16-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
 | [11–16 November 2026](2026-11-16-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
@@ -410,6 +465,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [26 October–13 November 2026](2026-11-13-SWDemoscopia.html) | SW Demoscopia <br> La Séptima |  |  |  |  |  |
 | [9–13 November 2026](2026-11-13-Invymark.html) | Invymark <br> laSexta | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [10–13 November 2026](2026-11-13-IMOP.html) | IMOP <br> El Confidencial | 2 | 2–4 | 2–4 | 1–4 | 1–4 |
+| [10–13 November 2026](2026-11-13-Cluster17.html) | Cluster17 <br> El Grand Continent |  |  |  |  |  |
 | [10–13 November 2026](2026-11-13-40dB.html) | 40dB <br> Prisa |  |  |  |  |  |
 | [12 November 2026](2026-11-12-TargetPoint.html) | Target Point <br> El Debate | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [3–12 November 2026](2026-11-12-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
@@ -702,11 +758,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.7% | 100% |  |
-| 2 | 46% | 99.3% |  |
-| 3 | 46% | 53% | Median |
-| 4 | 7% | 7% |  |
-| 5 | 0.2% | 0.2% |  |
+| 1 | 2% | 100% |  |
+| 2 | 47% | 98% |  |
+| 3 | 41% | 51% | Median |
+| 4 | 9% | 10% |  |
+| 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
 
 
